@@ -2,7 +2,6 @@ import feedparser
 import os
 import json
 import datetime
-import requests
 import html
 from openai import OpenAI
 from bs4 import BeautifulSoup
@@ -16,24 +15,19 @@ FEED_URL = f"{BASE_URL}/feed.xml"
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-# --- NEW: LOGGING FUNCTION ---
+# --- LOGGING FUNCTION ---
 def log_decision(title, score, action, link):
     """
     Writes the decision to a monthly Markdown log file.
     """
-    # Create logs directory if it doesn't exist
     os.makedirs("logs", exist_ok=True)
-    
-    # Filename: logs/2025-12.md
     month_str = datetime.datetime.now().strftime("%Y-%m")
     log_file = f"logs/decisions-{month_str}.md"
-    
     timestamp = datetime.datetime.now().strftime("%d %H:%M")
     
     # Markdown Table Row
     entry = f"| {timestamp} | **{score}** | {action} | [{title}]({link}) |\n"
     
-    # Create file with header if it doesn't exist
     if not os.path.exists(log_file):
         with open(log_file, 'w') as f:
             f.write(f"# Decision Log: {month_str}\n\n")
@@ -43,32 +37,19 @@ def log_decision(title, score, action, link):
     with open(log_file, 'a') as f:
         f.write(entry)
 
-def resolve_doi(url):
-    # (Same as before)
-    targets = ["phys.org", "eurekalert.org", "sciencedaily.com", "astrobiology.com"]
-    if not any(t in url for t in targets):
-        return url
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0 (compatible; AstroDigestBot/1.0)'}
-        response = requests.get(url, headers=headers, timeout=10)
-        soup = BeautifulSoup(response.text, 'html.parser')
-        for link in soup.find_all('a', href=True):
-            if "doi.org" in link['href']:
-                return link['href']
-    except: pass
-    return url
-
 def analyze_paper(title, abstract):
-    # (Same as before)
     prompt = f"""
     Role: Senior Astrobiologist.
     Task: Analyze this paper for an 'Origins of Life' digest.
+    
     Title: {title}
     Abstract: {abstract}
+    
     Rubric (0-100):
     - 0-50: Irrelevant.
     - 51-80: Tangential context.
-    - 81-100: Core Breakthrough.
+    - 81-100: Core Breakthrough (Abiogenesis, biosignatures, chemical evolution).
+    
     Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
     """
     try:
@@ -90,6 +71,7 @@ def load_history():
     return []
 
 def save_history(data):
+    # Keep last 60 items
     with open(HISTORY_FILE, 'w') as f:
         json.dump(data[:60], f, indent=2)
 
@@ -99,8 +81,8 @@ def clean_text(text):
     return " ".join(text.split())
 
 def generate_manual_atom(papers):
-    # (Same as before)
     now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    
     xml_content = f"""<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Astrobiology AI Digest</title>
@@ -112,13 +94,16 @@ def generate_manual_atom(papers):
   <author><name>AI Agent</name></author>
 """
     seen_dates = set()
+
     for p in papers:
+        # Sanitize
         title = html.escape(clean_text(p.get('title', 'Untitled')))
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
         score = p.get('score', 0)
         link = html.escape(p.get('link', ''))
         
+        # Unique Date Logic
         pub_date = p.get('published', now_iso)
         while pub_date in seen_dates:
             try:
@@ -128,6 +113,7 @@ def generate_manual_atom(papers):
             except: break
         seen_dates.add(pub_date)
         
+        # HTML Content
         content_html = f"""
         <strong>Score:</strong> {score}/100<br/>
         <strong>AI Summary:</strong> {summary}<br/>
@@ -150,6 +136,7 @@ def generate_manual_atom(papers):
   </entry>
 """
         xml_content += entry
+
     xml_content += "</feed>"
     
     with open("feed.xml", "w", encoding='utf-8') as f:
@@ -181,18 +168,16 @@ def main():
                 continue
 
             analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
-            
-            # --- LOGGING ---
             score = analysis['score']
+            
+            # --- DECISION LOGIC ---
             if score >= 75:
-                # 1. Console Log (Green)
                 print(f"✅ ACCEPTED [{score}]: {entry.title}")
                 log_decision(entry.title, score, "✅ Accepted", entry.link)
                 
-                final_link = resolve_doi(entry.link)
                 new_hits.append({
                     "title": entry.title,
-                    "link": final_link,
+                    "link": entry.link, # RAW LINK (No hunting)
                     "score": score,
                     "summary": analysis['summary'],
                     "abstract": getattr(entry, 'description', ''),
@@ -200,7 +185,6 @@ def main():
                 })
                 existing_titles.add(entry.title)
             else:
-                # 2. Console Log (Grey/Ignored)
                 print(f"❌ REJECTED [{score}]: {entry.title}")
                 log_decision(entry.title, score, "❌ Rejected", entry.link)
 
