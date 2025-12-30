@@ -1,5 +1,4 @@
 feedparser
 openai
-feedgen
 requests
 beautifulsoup4
