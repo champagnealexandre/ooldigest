@@ -13,6 +13,18 @@ HISTORY_FILE = "paper_history.json"
 BASE_URL = "https://alexandrechampagne.io/ooldigest"
 FEED_URL = f"{BASE_URL}/feed.xml"
 
+# --- TOGGLES ---
+SHADOW_MODE = False        # Set to True to compare models (costs more)
+PRIMARY_MODEL = "gpt-4o"   # The smart model making decisions
+SHADOW_MODEL = "gpt-4o-mini" # The cheap model for comparison
+
+# --- CUSTOM INSTRUCTIONS ---
+CUSTOM_INSTRUCTIONS = """
+- EXOPLANET FILTER: Deprioritize generic exoplanet discoveries (e.g., new TESS candidates, hot Jupiters) unless they significantly advance Astrobiology.
+- EXCEPTION 1: Always prioritize papers related to the TRAPPIST-1 system.
+- EXCEPTION 2: Prioritize atmospheric observations specifically relevant to life detection (biosignatures) or habitability.
+"""
+
 # KEYWORDS
 KEYWORDS_ASTRO = [
     "astrobiological", "astrobiology", "astrochemistry", "biosignature", 
@@ -31,29 +43,39 @@ ALL_KEYWORDS = list(set(KEYWORDS_ASTRO + KEYWORDS_OOL))
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # --- LOGGING FUNCTION ---
-def log_decision(title, score, action, link):
+def log_decision(title, score_primary, score_shadow, action, link):
     os.makedirs("logs", exist_ok=True)
     month_str = datetime.datetime.now().strftime("%Y-%m")
     log_file = f"logs/decisions-{month_str}.md"
     timestamp = datetime.datetime.now().strftime("%d %H:%M")
     
-    entry = f"| {timestamp} | **{score}** | {action} | [{title}]({link}) |\n"
+    # Handle N/A for Shadow Mode
+    if score_shadow is not None:
+        delta = score_primary - score_shadow
+        delta_str = f"+{delta}" if delta > 0 else str(delta)
+        shadow_val = score_shadow
+    else:
+        delta_str = "N/A"
+        shadow_val = "N/A"
+    
+    # Format: | Date | Shadow(Mini) | Primary(4o) | Diff | Action | Paper |
+    entry = f"| {timestamp} | {shadow_val} | **{score_primary}** | {delta_str} | {action} | [{title}]({link}) |\n"
     
     if not os.path.exists(log_file):
         with open(log_file, 'w') as f:
             f.write(f"# Decision Log: {month_str}\n\n")
-            f.write("| Date (UTC) | Score | Action | Paper |\n")
-            f.write("|---|---|---|---|\n")
+            f.write("| Date (UTC) | Mini (Shadow) | 4o (Primary) | Diff | Action | Paper |\n")
+            f.write("|---|---|---|---|---|---|\n")
             
     with open(log_file, 'a') as f:
         f.write(entry)
 
-def analyze_paper(title, abstract):
+def analyze_paper(title, abstract, model_name):
     keywords_str = ", ".join(ALL_KEYWORDS)
     
     prompt = f"""
     Role: Senior Astrobiologist.
-    Task: Score this paper for an 'Origins of Life' digest based ONLY on relevance and keywords.
+    Task: Score this paper for an 'Origins of Life' digest based on relevance, keywords, and specific constraints.
     
     Paper: "{title}"
     Abstract: "{abstract}"
@@ -61,12 +83,17 @@ def analyze_paper(title, abstract):
     Target Keywords:
     {keywords_str}
     
+    CUSTOM INSTRUCTIONS (Override standard scoring):
+    {CUSTOM_INSTRUCTIONS}
+    
     SCORING RUBRIC (Total /100):
     
     1. BASE RELEVANCE (Max 50 pts):
-       - +0: Unrelated field (e.g., medicine, galaxy formation, dark matter).
-       - +25: Broad context (e.g., general planetology, star formation).
-       - +50: Core OoL focus (abiogenesis, prebiotic chemistry, biosignatures).
+       - +0: Unrelated field.
+       - +25: Broad context.
+       - +50: Core OoL focus.
+       * PENALTY: If paper violates "Custom Instructions" (e.g. generic exoplanet), cap this section at 10 pts.
+       * BONUS: If paper hits an "Exception" in instructions, ensure this section is at least 40 pts.
        
     2. KEYWORD BONUS (Max 50 pts):
        - Count occurrences of Target Keywords in the Title/Abstract.
@@ -79,14 +106,14 @@ def analyze_paper(title, abstract):
     
     try:
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model=model_name,
             messages=[{"role": "user", "content": prompt}],
             response_format={"type": "json_object"},
             temperature=0.1
         )
         return json.loads(response.choices[0].message.content)
     except Exception as e:
-        print(f"LLM Error: {e}")
+        print(f"LLM Error ({model_name}): {e}")
         return {"score": 0, "summary": "Error"}
 
 def load_history():
@@ -187,27 +214,33 @@ def main():
 
             if pub_date < cutoff:
                 continue
-
-            analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
-            score = analysis['score']
             
-            # --- THRESHOLD UPDATED TO 40 ---
-            if score >= 40:
-                print(f"✅ ACCEPTED [{score}]: {entry.title}")
-                log_decision(entry.title, score, "✅ Accepted", entry.link)
+            # --- INTELLIGENT SCORING ---
+            analysis_primary = analyze_paper(entry.title, getattr(entry, 'description', ''), PRIMARY_MODEL)
+            score_primary = analysis_primary['score']
+            
+            score_shadow = None
+            if SHADOW_MODE:
+                analysis_shadow = analyze_paper(entry.title, getattr(entry, 'description', ''), SHADOW_MODEL)
+                score_shadow = analysis_shadow['score']
+
+            # Decision (Always uses Primary Score)
+            if score_primary >= 40:
+                print(f"✅ ACCEPTED [{score_primary}]: {entry.title}")
+                log_decision(entry.title, score_primary, score_shadow, "✅ Accepted", entry.link)
                 
                 new_hits.append({
                     "title": entry.title,
                     "link": entry.link, 
-                    "score": score,
-                    "summary": analysis['summary'],
+                    "score": score_primary,
+                    "summary": analysis_primary['summary'],
                     "abstract": getattr(entry, 'description', ''),
                     "published": pub_date.isoformat()
                 })
                 existing_titles.add(entry.title)
             else:
-                print(f"❌ REJECTED [{score}]: {entry.title}")
-                log_decision(entry.title, score, "❌ Rejected", entry.link)
+                print(f"❌ REJECTED [{score_primary}]: {entry.title}")
+                log_decision(entry.title, score_primary, score_shadow, "❌ Rejected", entry.link)
 
     if new_hits:
         print(f"Found {len(new_hits)} new papers total.")
