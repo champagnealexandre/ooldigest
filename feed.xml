@@ -4,18 +4,18 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T03:38:47.410353+00:00</updated>
+  <updated>2025-12-30T03:45:05.904369+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
 
   <entry>
-    <title>[81] [Computational Biology] RAMBO: Resolving Amplicons in Mixed Samples for Accurate DNA Barcoding with Oxford Nanopore</title>
+    <title>[81] RAMBO: Resolving Amplicons in Mixed Samples for Accurate DNA Barcoding with Oxford Nanopore</title>
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1</id>
     <updated>2025-12-29T22:13:49+00:00</updated>
     <summary>The paper presents a novel pipeline for DNA barcoding using Nanopore sequencing that effectively resolves mixed sequence signals, enhancing the accuracy of species identification in complex biological samples.</summary>
     <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 81/100 | &lt;strong&gt;Category:&lt;/strong&gt; Computational Biology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100&lt;br/&gt;
         &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper presents a novel pipeline for DNA barcoding using Nanopore sequencing that effectively resolves mixed sequence signals, enhancing the accuracy of species identification in complex biological samples.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
@@ -26,13 +26,13 @@
   </entry>
 
   <entry>
-    <title>[85] [Astrobiology] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
+    <title>[85] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
     <link href="https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html"/>
     <id>https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html</id>
     <updated>2025-12-29T19:34:52+00:00</updated>
     <summary>This study provides insights into the molecular composition of comet C/2017 K2, highlighting the significance of water sublimation and its implications for understanding the origins of life in the solar system.</summary>
     <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 85/100 | &lt;strong&gt;Category:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 85/100&lt;br/&gt;
         &lt;strong&gt;AI Summary:&lt;/strong&gt; This study provides insights into the molecular composition of comet C/2017 K2, highlighting the significance of water sublimation and its implications for understanding the origins of life in the solar system.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
@@ -43,13 +43,13 @@
   </entry>
 
   <entry>
-    <title>[81] [Unclassified] LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits</title>
+    <title>[81] LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits</title>
     <link href="https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1</id>
     <updated>2025-12-30T02:13:31+00:00</updated>
     <summary>The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology.</summary>
     <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 81/100 | &lt;strong&gt;Category:&lt;/strong&gt; Unclassified&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100&lt;br/&gt;
         &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
@@ -60,13 +60,13 @@
   </entry>
 
   <entry>
-    <title>[81] [Unclassified] Stardust Study Resets How Life’s Atoms Spread Through Space</title>
+    <title>[81] Stardust Study Resets How Life’s Atoms Spread Through Space</title>
     <link href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"/>
     <id>https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html</id>
     <updated>2025-12-29T19:34:53+00:00</updated>
     <summary>The study provides insights into the distribution of life&#x27;s building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.</summary>
     <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 81/100 | &lt;strong&gt;Category:&lt;/strong&gt; Unclassified&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100&lt;br/&gt;
         &lt;strong&gt;AI Summary:&lt;/strong&gt; The study provides insights into the distribution of life&amp;#x27;s building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
@@ -77,13 +77,13 @@
   </entry>
 
   <entry>
-    <title>[85] [Unclassified] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
+    <title>[85] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
     <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
     <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
     <updated>2025-12-29T18:35:40+00:00</updated>
     <summary>The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.</summary>
     <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 85/100 | &lt;strong&gt;Category:&lt;/strong&gt; Unclassified&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 85/100&lt;br/&gt;
         &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
