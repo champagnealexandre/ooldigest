@@ -4,11 +4,9 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T03:26:24.700549+00:00</updated>
+  <updated>2025-12-30T03:38:47.410353+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
-  <author>
-    <name>AI Agent</name>
-  </author>
+  <author><name>AI Agent</name></author>
 
   <entry>
     <title>[81] [Computational Biology] RAMBO: Resolving Amplicons in Mixed Samples for Accurate DNA Barcoding with Oxford Nanopore</title>
@@ -65,7 +63,7 @@
     <title>[81] [Unclassified] Stardust Study Resets How Life’s Atoms Spread Through Space</title>
     <link href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"/>
     <id>https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html</id>
-    <updated>2025-12-29T19:34:52+00:00</updated>
+    <updated>2025-12-29T19:34:53+00:00</updated>
     <summary>The study provides insights into the distribution of life&#x27;s building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.</summary>
     <content type="html">
         &lt;strong&gt;Score:&lt;/strong&gt; 81/100 | &lt;strong&gt;Category:&lt;/strong&gt; Unclassified&lt;br/&gt;
