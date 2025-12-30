@@ -11,17 +11,8 @@ from bs4 import BeautifulSoup
 RSS_URL = os.getenv("RSS_URL") 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 HISTORY_FILE = "paper_history.json"
-# Your Custom Domain
 BASE_URL = "https://alexandrechampagne.io/ooldigest"
 FEED_URL = f"{BASE_URL}/feed.xml"
-
-# Your Specific Categories
-CATEGORIES = [
-    "Artificial Life", "Astrobiology", "Astrochemistry", "Astrophysics", 
-    "Biochemistry", "Biology", "Biophysics", "Chemistry", "Computational Biology", 
-    "Geoscience", "Mathematical Biology", "Microbiology", "Palaeontology", 
-    "Philosophy", "Physics", "Planetary Sciences", "Synthetic Biology"
-]
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
@@ -39,7 +30,6 @@ def resolve_doi(url):
         response = requests.get(url, headers=headers, timeout=10)
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Strategy 1: Look for links containing "doi.org"
         for link in soup.find_all('a', href=True):
             if "doi.org" in link['href']:
                 print(f"   -> Found DOI: {link['href']}")
@@ -58,15 +48,12 @@ def analyze_paper(title, abstract):
     Title: {title}
     Abstract: {abstract}
     
-    1. Score (0-100):
-       - 0-50: Irrelevant.
-       - 51-80: Tangential context.
-       - 81-100: Core Breakthrough (Abiogenesis, biosignatures, chemical evolution).
+    Rubric (0-100):
+    - 0-50: Irrelevant.
+    - 51-80: Tangential context.
+    - 81-100: Core Breakthrough (Abiogenesis, biosignatures, chemical evolution).
     
-    2. Classify into EXACTLY one category:
-       {", ".join(CATEGORIES)}
-    
-    Output JSON ONLY: {{"score": int, "category": "string", "summary": "1 sentence summary"}}
+    Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
     """
     
     try:
@@ -79,7 +66,7 @@ def analyze_paper(title, abstract):
         return json.loads(response.choices[0].message.content)
     except Exception as e:
         print(f"LLM Error: {e}")
-        return {"score": 0, "category": "Unclassified", "summary": "Error"}
+        return {"score": 0, "summary": "Error"}
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -88,13 +75,11 @@ def load_history():
     return []
 
 def save_history(data):
-    # Keep last 60 items (approx 2 days of heavy traffic)
     with open(HISTORY_FILE, 'w') as f:
         json.dump(data[:60], f, indent=2)
 
 def clean_text(text):
     if not text: return ""
-    # Strip HTML tags
     text = BeautifulSoup(text, "html.parser").get_text(separator=' ')
     return " ".join(text.split())
 
@@ -115,11 +100,10 @@ def generate_manual_atom(papers):
     seen_dates = set()
 
     for p in papers:
-        # Sanitize & Escape
+        # Sanitize
         title = html.escape(clean_text(p.get('title', 'Untitled')))
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
-        category = html.escape(clean_text(p.get('category', 'Unclassified')))
         score = p.get('score', 0)
         link = html.escape(p.get('link', ''))
         
@@ -133,9 +117,9 @@ def generate_manual_atom(papers):
             except: break
         seen_dates.add(pub_date)
         
-        # HTML Content Construction
+        # HTML Content (Removed Category)
         content_html = f"""
-        <strong>Score:</strong> {score}/100 | <strong>Category:</strong> {category}<br/>
+        <strong>Score:</strong> {score}/100<br/>
         <strong>AI Summary:</strong> {summary}<br/>
         <hr/>
         <strong>Abstract:</strong><br/>
@@ -148,7 +132,7 @@ def generate_manual_atom(papers):
         
         entry = f"""
   <entry>
-    <title>[{score}] [{category}] {title}</title>
+    <title>[{score}] {title}</title>
     <link href="{link}"/>
     <id>{link}</id>
     <updated>{pub_date}</updated>
@@ -169,7 +153,6 @@ def main():
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     
     history = load_history()
-    # Track by title to avoid duplicates if link changes (e.g. Press Release -> DOI)
     existing_titles = {item.get('title') for item in history}
     new_hits = []
 
@@ -189,14 +172,13 @@ def main():
         analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
         
         if analysis['score'] >= 75:
-            # RUN DOI HUNTER
             final_link = resolve_doi(entry.link)
             
             new_hits.append({
                 "title": entry.title,
                 "link": final_link,
                 "score": analysis['score'],
-                "category": analysis.get('category', 'Unclassified'),
+                # Removed category field
                 "summary": analysis['summary'],
                 "abstract": getattr(entry, 'description', ''),
                 "published": pub_date.isoformat()
@@ -208,7 +190,6 @@ def main():
         save_history(updated_history)
         generate_manual_atom(updated_history)
     else:
-        # Still regenerate feed to fix any old data issues or timestamps
         generate_manual_atom(history)
         print("No new papers, but feed regenerated.")
 
