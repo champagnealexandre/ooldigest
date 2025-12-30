@@ -148,44 +148,58 @@ def generate_manual_atom(papers):
         f.write(xml_content)
 
 def main():
-    print("Fetching RSS feed...")
-    feed = feedparser.parse(RSS_URL)
-    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
+    print("Fetching RSS feeds...")
     
+    # 1. HANDLE MULTIPLE URLS
+    # Split the secret by comma to get a list
+    raw_urls = os.getenv("RSS_URL", "")
+    rss_links = [url.strip() for url in raw_urls.split(',') if url.strip()]
+    
+    cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     history = load_history()
     existing_titles = {item.get('title') for item in history}
     new_hits = []
 
-    print(f"Scanning {len(feed.entries)} entries...")
-
-    for entry in feed.entries:
-        if entry.title in existing_titles:
-            continue
-            
-        pub_date = datetime.datetime.now(datetime.timezone.utc)
-        if hasattr(entry, 'published_parsed'):
-             pub_date = datetime.datetime(*entry.published_parsed[:6]).replace(tzinfo=datetime.timezone.utc)
-
-        if pub_date < cutoff:
-            continue
-
-        analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
+    # 2. LOOP THROUGH ALL FEEDS
+    for link in rss_links:
+        print(f"-> Parsing {link[:30]}...")
+        feed = feedparser.parse(link)
         
-        if analysis['score'] >= 75:
-            final_link = resolve_doi(entry.link)
+        print(f"   Found {len(feed.entries)} entries.")
+
+        for entry in feed.entries:
+            # Deduplication Check
+            if entry.title in existing_titles:
+                continue
             
-            new_hits.append({
-                "title": entry.title,
-                "link": final_link,
-                "score": analysis['score'],
-                # Removed category field
-                "summary": analysis['summary'],
-                "abstract": getattr(entry, 'description', ''),
-                "published": pub_date.isoformat()
-            })
+            # Date Check
+            pub_date = datetime.datetime.now(datetime.timezone.utc)
+            if hasattr(entry, 'published_parsed'):
+                 pub_date = datetime.datetime(*entry.published_parsed[:6]).replace(tzinfo=datetime.timezone.utc)
+
+            if pub_date < cutoff:
+                continue
+
+            # AI Analysis
+            analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
+            
+            if analysis['score'] >= 75:
+                final_link = resolve_doi(entry.link)
+                
+                new_hits.append({
+                    "title": entry.title,
+                    "link": final_link,
+                    "score": analysis['score'],
+                    "summary": analysis['summary'],
+                    "abstract": getattr(entry, 'description', ''),
+                    "published": pub_date.isoformat()
+                })
+                
+                # Add to existing titles immediately to prevent dupes across the 3 feeds
+                existing_titles.add(entry.title)
 
     if new_hits:
-        print(f"Found {len(new_hits)} new papers.")
+        print(f"Found {len(new_hits)} new papers total.")
         updated_history = new_hits + history
         save_history(updated_history)
         generate_manual_atom(updated_history)
