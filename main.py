@@ -3,8 +3,11 @@ import os
 import json
 import datetime
 import html
+import requests
+import re
 from openai import OpenAI
 from bs4 import BeautifulSoup
+from urllib.parse import urlparse
 
 # --- Configuration ---
 RSS_URL = os.getenv("RSS_URL") 
@@ -40,7 +43,37 @@ KEYWORDS_OOL = [
 
 ALL_KEYWORDS = list(set(KEYWORDS_ASTRO + KEYWORDS_OOL))
 
+# --- DOMAINS TO HUNT ---
+ACADEMIC_DOMAINS = [
+    "doi.org", "arxiv.org", "biorxiv.org", "ncbi.nlm.nih.gov", 
+    "nature.com", "science.org", "pnas.org", "acs.org", "wiley.com", 
+    "springer.com", "cell.com", "oup.com", "iop.org", "aps.org"
+]
+
 client = OpenAI(api_key=OPENAI_API_KEY)
+
+# --- ACTIVE LINK HUNTER ---
+def hunt_paper_links(url):
+    found_links = set()
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36'}
+        response = requests.get(url, headers=headers, timeout=5)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        for a_tag in soup.find_all('a', href=True):
+            href = a_tag['href']
+            if not href.startswith('http'): continue
+            
+            if any(domain in href for domain in ACADEMIC_DOMAINS):
+                if url not in href:
+                    found_links.add(href)
+
+    except Exception as e:
+        print(f"   [Hunter] Failed to scrape {url}: {e}")
+    
+    return list(found_links)
 
 # --- LOGGING FUNCTION ---
 def log_decision(title, score_primary, score_shadow, action, link):
@@ -57,9 +90,7 @@ def log_decision(title, score_primary, score_shadow, action, link):
         delta_str = "N/A"
         shadow_val = "N/A"
     
-    # HACK: Replace spaces with non-breaking spaces to prevent wrapping in GitHub view
     title_display = title.replace(" ", "&nbsp;")
-    
     entry = f"| {timestamp} | {shadow_val} | **{score_primary}** | {delta_str} | {action} | [{title_display}]({link}) |\n"
     
     if not os.path.exists(log_file):
@@ -71,20 +102,29 @@ def log_decision(title, score_primary, score_shadow, action, link):
     with open(log_file, 'a') as f:
         f.write(entry)
 
-def analyze_paper(title, abstract, model_name):
-    keywords_str = ", ".join(ALL_KEYWORDS)
+# --- ANALYZER (Updated to accept found_links) ---
+def analyze_paper(title, abstract, model_name, found_links=None):
+    if found_links is None: found_links = []
     
+    keywords_str = ", ".join(ALL_KEYWORDS)
+    links_str = ", ".join(found_links) if found_links else "None found."
+
     prompt = f"""
     Role: Senior Astrobiologist.
-    Task: Score this paper for an 'Origins of Life' digest and EXTRACT original paper links.
+    Task: Score this paper for an 'Origins of Life' digest.
     
     Paper: "{title}"
     Abstract: "{abstract}"
     
+    EVIDENCE FROM LINK HUNTER:
+    The following academic links were found on the source page:
+    {links_str}
+    (If academic links exist, treat this as a verified study, not just a rumor.)
+    
     Target Keywords:
     {keywords_str}
     
-    CUSTOM INSTRUCTIONS (Override standard scoring):
+    CUSTOM INSTRUCTIONS:
     {CUSTOM_INSTRUCTIONS}
     
     SCORING RUBRIC (Total /100):
@@ -93,21 +133,13 @@ def analyze_paper(title, abstract, model_name):
        - +0: Unrelated field.
        - +25: Broad context.
        - +50: Core OoL focus.
-       * PENALTY: If paper violates "Custom Instructions", cap this section at 10 pts.
-       * BONUS: If paper hits an "Exception" in instructions, ensure this section is at least 40 pts.
+       * BONUS: If "Link Hunter" found a DOI/Nature/Science link, ensure score is robust (valid science).
        
     2. KEYWORD BONUS (Max 50 pts):
-       - Count occurrences of Target Keywords in the Title/Abstract.
-       - Add +10 points for EACH occurrence.
-       - Cap this bonus at 50 points.
-    
-    3. DOI HUNTER (Link Extraction):
-       - Scan the text for URLs or DOIs pointing to the ORIGINAL ACADEMIC PAPER (e.g. doi.org/..., arxiv.org/..., nature.com/..., pnas.org/...).
-       - Do NOT include generic homepages.
-       - Return them as a list of strings in the "links" field.
+       - +10 points per keyword match. Caps at 50.
     
     CALCULATION: Sum (Base Relevance + Keyword Bonus).
-    Output JSON ONLY: {{"score": int, "summary": "1 sentence summary", "links": ["url1", "url2"]}}
+    Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
     """
     
     try:
@@ -120,17 +152,15 @@ def analyze_paper(title, abstract, model_name):
         return json.loads(response.choices[0].message.content)
     except Exception as e:
         print(f"LLM Error ({model_name}): {e}")
-        return {"score": 0, "summary": "Error", "links": []}
+        return {"score": 0, "summary": "Error"}
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, 'r') as f:
-            return json.load(f)
+        with open(HISTORY_FILE, 'r') as f: return json.load(f)
     return []
 
 def save_history(data):
-    with open(HISTORY_FILE, 'w') as f:
-        json.dump(data[:200], f, indent=2)
+    with open(HISTORY_FILE, 'w') as f: json.dump(data[:200], f, indent=2)
 
 def clean_text(text):
     if not text: return ""
@@ -154,28 +184,31 @@ def generate_manual_atom(papers):
 
     for p in papers:
         score = p.get('score', 0)
-        if score < 40:
-            continue
+        if score < 40: continue
 
         title_raw = clean_text(p.get('title', 'Untitled'))
         category = p.get('category', 'GENERAL')
         feed_source = p.get('feed_source', 'Unknown')
         
         display_title = f"[{score}] [{category}] [{feed_source}] {title_raw}"
+        display_title_esc = html.escape(display_title)
         
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
         link = html.escape(p.get('link', ''))
-        display_title_esc = html.escape(display_title)
         
-        # --- DOI HUNTER OUTPUT ---
+        # Render Links
         extracted_links = p.get('extracted_links', [])
         doi_html = ""
         if extracted_links:
-            doi_html = "<br/><br/><strong>Possible Paper Links:</strong><ul>"
+            doi_html = "<br/><br/><strong>Source Paper / DOIs Found:</strong><ul>"
             for url in extracted_links:
                 safe_url = html.escape(url)
-                doi_html += f'<li><a href="{safe_url}">{safe_url}</a></li>'
+                label = "Full Paper"
+                if "doi.org" in url: label = "DOI Link"
+                elif "arxiv" in url: label = "ArXiv Preprint"
+                elif "ncbi" in url: label = "PubMed/NCBI"
+                doi_html += f'<li><a href="{safe_url}">[{label}] {safe_url}</a></li>'
             doi_html += "</ul>"
         
         pub_date = p.get('published', now_iso)
@@ -197,9 +230,8 @@ def generate_manual_atom(papers):
         {abstract}
         {doi_html}
         <br/><br/>
-        <a href="{link}">Read Full Article (Source)</a>
+        <a href="{link}">Read Press Release</a>
         """
-        content_escaped = html.escape(content_html)
         
         entry = f"""
   <entry>
@@ -208,15 +240,13 @@ def generate_manual_atom(papers):
     <id>{link}</id>
     <updated>{pub_date}</updated>
     <summary>{summary}</summary>
-    <content type="html">{content_escaped}</content>
+    <content type="html">{html.escape(content_html)}</content>
   </entry>
 """
         xml_content += entry
 
     xml_content += "</feed>"
-    
-    with open("feed.xml", "w", encoding='utf-8') as f:
-        f.write(xml_content)
+    with open("feed.xml", "w", encoding='utf-8') as f: f.write(xml_content)
 
 def main():
     print("Fetching RSS feeds...")
@@ -237,29 +267,41 @@ def main():
         feed_category = clean_category.upper()
 
         for entry in feed.entries:
-            if entry.title in existing_titles:
-                continue
+            if entry.title in existing_titles: continue
             
             pub_date = datetime.datetime.now(datetime.timezone.utc)
             if hasattr(entry, 'published_parsed'):
                  pub_date = datetime.datetime(*entry.published_parsed[:6]).replace(tzinfo=datetime.timezone.utc)
 
-            if pub_date < cutoff:
-                continue
+            if pub_date < cutoff: continue
             
             source_title = "Unknown"
             if hasattr(entry, 'source') and hasattr(entry.source, 'title'):
                 source_title = entry.source.title
-            if source_title == "Unknown":
-                source_title = "Web" 
+            if source_title == "Unknown": source_title = "Web" 
             
-            # --- ANALYSIS ---
-            analysis_primary = analyze_paper(entry.title, getattr(entry, 'description', ''), PRIMARY_MODEL)
+            # --- 1. RUN HUNTER FIRST ---
+            # Now the AI will know if a DOI exists BEFORE scoring
+            print(f"   [Hunter] Scanning {entry.link[:40]}...")
+            hunted_links = hunt_paper_links(entry.link)
+            
+            # --- 2. ANALYZE (With Links) ---
+            analysis_primary = analyze_paper(
+                entry.title, 
+                getattr(entry, 'description', ''), 
+                PRIMARY_MODEL,
+                found_links=hunted_links
+            )
             score_primary = analysis_primary['score']
             
             score_shadow = None
             if SHADOW_MODE:
-                analysis_shadow = analyze_paper(entry.title, getattr(entry, 'description', ''), SHADOW_MODEL)
+                analysis_shadow = analyze_paper(
+                    entry.title, 
+                    getattr(entry, 'description', ''), 
+                    SHADOW_MODEL,
+                    found_links=hunted_links
+                )
                 score_shadow = analysis_shadow['score']
 
             paper_obj = {
@@ -267,7 +309,7 @@ def main():
                 "link": entry.link, 
                 "score": score_primary,
                 "summary": analysis_primary['summary'],
-                "extracted_links": analysis_primary.get('links', []), # CAPTURE LINKS
+                "extracted_links": hunted_links,
                 "abstract": getattr(entry, 'description', ''),
                 "published": pub_date.isoformat(),
                 "category": feed_category,
