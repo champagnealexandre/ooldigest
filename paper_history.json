@@ -1,5 +1,100 @@
 [
   {
+    "title": "Earth\u2019s worst extinction was followed by a shockingly fast ocean comeback",
+    "link": "https://www.sciencedaily.com/releases/2025/12/251227004157.htm",
+    "score": 35,
+    "summary": "The paper discusses a rapid marine life recovery after Earth's greatest extinction, providing insights into early ocean ecosystems, but lacks direct focus on the origins of life.",
+    "extracted_links": [
+      "http://dx.doi.org/10.1126/science.adx7390",
+      "https://doi.org/10.1126/science.adx7390"
+    ],
+    "abstract": "<p><img alt=\"ancient-marine-reptiles-dawn-age-dinosau\" src=\"https://www.sciencedaily.com/images/1920/ancient-marine-reptiles-dawn-age-dinosaurs.webp\" /></p>A spectacular fossil trove on the Arctic island of Spitsbergen shows that marine life made a stunning comeback after Earth\u2019s greatest extinction. Tens of thousands of fossils reveal fully aquatic reptiles and complex food chains thriving just three million years later. Some predators grew over five meters long, challenging the idea of a slow, step-by-step recovery. The find rewrites the early history of ocean ecosystems.",
+    "published": "2025-12-30T17:56:02+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "ScienceDaily - Evolutionary Biology News"
+  },
+  {
+    "title": "Performance Calibration of the Wavefront Sensor\u2019s EMCCD Detector for the Cool Planets Imaging Coronagraph Aboard CSST",
+    "link": "https://astrobiology.com/2025/12/performance-calibration-of-the-wavefront-sensors-emccd-detector-for-the-cool-planets-imaging-coronagraph-aboard-csst.html",
+    "score": 25,
+    "summary": "The paper focuses on the calibration of a wavefront sensor for exoplanet imaging, which is broadly relevant to astrobiology but not directly related to the origins of life.",
+    "extracted_links": [
+      "https://doi.org/10.3390/jimaging11060203",
+      "https://arxiv.org/abs/2511.20386",
+      "https://doi.org/10.48550/arXiv.2511.2",
+      "https://doi.org/10.48550/arXiv.2511.20386"
+    ],
+    "abstract": "<p>The wavefront sensor (WFS), equipped with an electron-multiplying charge-coupled device (EMCCD) detector, is a critical component of the Cool Planets Imaging Coronagraph (CPI-C) on the Chinese Space Station Telescope (CSST). Precise calibration of the WFS\u2019s EMCCD detector is essential to meet the stringent requirements for high-contrast exoplanet imaging. This study comprehensively characterizes key performance parameters [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/performance-calibration-of-the-wavefront-sensors-emccd-detector-for-the-cool-planets-imaging-coronagraph-aboard-csst.html\">Performance Calibration of the Wavefront Sensor\u2019s EMCCD Detector for the Cool Planets Imaging Coronagraph Aboard CSST</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-30T18:35:25+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Observational Evidence For A Possible Link Between PAH Emission And Dust Trap Locations In Protoplanetary Disks",
+    "link": "https://astrobiology.com/2025/12/observational-evidence-for-a-possible-link-between-pah-emission-and-dust-trap-locations-in-protoplanetary-disks.html",
+    "score": 35,
+    "summary": "The paper explores the relationship between PAH emissions and dust trap locations in protoplanetary disks, which is relevant to astrochemistry and the origins of life.",
+    "extracted_links": [
+      "https://arxiv.org/abs/2511.06935",
+      "https://doi.org/10.48550/arXiv.2511.06935"
+    ],
+    "abstract": "<p>Polycyclic Aromatic Hydrocarbons (PAHs) are commonly detected in protoplanetary disks, but it is unclear what causes the wide range of intensities across the samples. In this work, the measured PAH intensities of a range of disks are compared with ALMA dust continuum images, in order to test whether there is evidence that PAHs are frozen [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/observational-evidence-for-a-possible-link-between-pah-emission-and-dust-trap-locations-in-protoplanetary-disks.html\">Observational Evidence For A Possible Link Between PAH Emission And Dust Trap Locations In Protoplanetary Disks</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-30T18:35:25+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Fungi From Chernobyl: Mycobiota Of The Inner Regions Of The Containment Structures Of The Damaged Nuclear Reactor",
+    "link": "https://astrobiology.com/2025/12/fungi-from-chernobyl-mycobiota-of-the-inner-regions-of-the-containment-structures-of-the-damaged-nuclear-reactor.html",
+    "score": 25,
+    "summary": "The paper discusses the discovery of fungi in the Chernobyl reactor, which provides insights into extremophile survival but has limited direct relevance to the origins of life.",
+    "extracted_links": [
+      "https://www.sciencedirect.com/science/article/abs/pii/S0953756208615026"
+    ],
+    "abstract": "<p>Extensive fungal growth has been detected on the walls and other building constructions in the inner parts of the Shelter of the damaged fourth Unit of the Chernobyl Nuclear Power Plant in 1997-98. The mycobiota comprised 37 species of 19 genera. Zygomycetes and ascomycetes were represented by one species each: Mucor plumbeus and Chaetomium globosum, [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/fungi-from-chernobyl-mycobiota-of-the-inner-regions-of-the-containment-structures-of-the-damaged-nuclear-reactor.html\">Fungi From Chernobyl: Mycobiota Of The Inner Regions Of The Containment Structures Of The Damaged Nuclear Reactor</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-30T18:35:25+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Understanding Protein Form And Function Better At TU Graz",
+    "link": "https://astrobiology.com/2025/12/understanding-protein-form-and-function-better-at-tu-graz.html",
+    "score": 75,
+    "summary": "The paper from TU Graz focuses on understanding protein structures and functions, which is crucial for the origins of life studies, and is supported by a relevant Elsevier link.",
+    "extracted_links": [
+      "https://www.cell.com/structure/fulltext/S0969-2126(25)00263-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0969212625002631%3Fshowall%3Dtrue"
+    ],
+    "abstract": "<p>Proteins are among the most important building blocks of nature and play a central role in biological processes in all organisms. Accordingly, scientists are keen to understand them as precisely as possible. As polymers of different amino acids, proteins can have different 3-dimensional structures and various functions. However, it is often difficult to determine which [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/understanding-protein-form-and-function-better-at-tu-graz.html\">Understanding Protein Form And Function Better At TU Graz</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-30T18:35:25+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Considerations On The Process Of Target Selection For The Comet Interceptor Mission",
+    "link": "https://astrobiology.com/2025/12/considerations-on-the-process-of-target-selection-for-the-comet-interceptor-mission.html",
+    "score": 25,
+    "summary": "The paper discusses target selection for the Comet Interceptor mission, which is relevant to the broad context of astrobiology but lacks direct focus on the origins of life.",
+    "extracted_links": [
+      "https://doi.org/10.48550/arXiv.2511.20521",
+      "https://arxiv.org/abs/2511.20521"
+    ],
+    "abstract": "<p>Comet Interceptor is an ESA science mission with payload contributions from ESA Member States and with an international participation by JAXA. It is the first mission that is being designed, built, and potentially launched before its target is known. This approach will enable the spacecraft to perform the first mission to a Long Period Comet [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/considerations-on-the-process-of-target-selection-for-the-comet-interceptor-mission.html\">Considerations On The Process Of Target Selection For The Comet Interceptor Mission</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-30T18:35:25+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
+    "title": "Curiosity Mars Rover Views A Rock Made Of Sulfur At Snow Lake",
+    "link": "https://astrobiology.com/2025/12/curiosity-mars-rover-views-a-rock-made-of-sulfur-at-snow-lake.html",
+    "score": 35,
+    "summary": "The paper discusses the Curiosity Rover's discovery of sulfur-rich rocks on Mars, which has moderate relevance to the origins of life due to its astrobiological implications.",
+    "extracted_links": [],
+    "abstract": "<p>NASA\u2019s Curiosity captured this close-up image of a rock nicknamed \u201cSnow Lake\u201d on June 8, 2024, the 4,209th Martian day, or sol, of the mission. Nine days earlier, the rover had crushed a similar-looking rock and revealed crystalline textures \u2014 and elemental sulfur \u2014 inside. Astrobiology, Astrogeology,</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/curiosity-mars-rover-views-a-rock-made-of-sulfur-at-snow-lake.html\">Curiosity Mars Rover Views A Rock Made Of Sulfur At Snow Lake</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-30T18:35:25+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "Astrobiology"
+  },
+  {
     "title": "Characterization of Z-DNA dynamics across the tree of life",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.30.697008v1?rss=1",
     "score": 60,
