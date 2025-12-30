@@ -1,5 +1,21 @@
 [
   {
+    "title": "Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222",
+    "link": "https://arxiv.org/abs/2512.23652",
+    "score": 70,
+    "summary": "The paper is highly relevant to the origins of life field due to its focus on habitability and planetary systems, earning a solid score with additional points for relevant keywords.",
+    "abstract": "arXiv:2512.23652v1 Announce Type: new  \nAbstract: This work analyzes four Sun-like double-lined spectroscopic binary (SB2) systems by combining visual and spectroscopic observational data with Al-Wardat's atmospheric modeling method to accurately determine their fundamental parameters. For each system, we determine stellar masses, orbital parallaxes, effective temperatures, spectral types, semimajor axes, and eccentricities with high precision, resolving discrepancies between astrometric and spectroscopic measurements. Moreover, we assess the potential for stable planetary orbits in these systems. We also calculate habitable zones around these binaries based on the orbital evolution of planetary orbits. These systems may represent promising targets for future extrasolar planet searches around Sun-like stars due to their robust physical and orbital parameters that can be used to determine planetary habitability and stability.",
+    "published": "2025-12-30T05:26:23+00:00"
+  },
+  {
+    "title": "Quantum attomicroscopy: imaging quantum chemistry in action",
+    "link": "https://arxiv.org/abs/2512.22468",
+    "score": 70,
+    "summary": "The paper discusses quantum chemistry processes in DNA, which is relevant to the origins of life, particularly in the context of nucleic acids and prebiotic chemistry.",
+    "abstract": "arXiv:2512.22468v1 Announce Type: new  \nAbstract: How quantum electron and nuclei motions affect biomolecular chemical reactions remains a central challengeable question at the interface of quantum chemistry and biology. Ultrafast charge migration in deoxyribonucleic acid (DNA) has long been hypothesized to play a critical role in photochemistry, genome stability, and long-range biomolecular signaling, however, direct real-time observation of these electronic processes has remained elusive. Here, we present a theoretical investigation and propose the concept of future experimental measurements of laser-driven charge dynamics in the canonical DNA nucleobase pairs thymine_adenine and cytosine_guanine. Attosecond-resolved simulations employing high-level ab initio methods reveal base-dependent ionization mechanisms, directional charge migration pathways, and electronic coherences that govern sub-femtosecond redistribution of electron density across hydrogen-bonded nucleobase interfaces. Accordingly, we propose the concept of a quantum attosecond scanning electron microscope, termed the quantum attomicroscope (Q-attomicroscope), a capable of imaging photoinduced quantum chemistry reactions in attosecond temporal resolution and sub-nanometer spatial precision. As a proof of principle, we propose to image the charge migrations dynamics in DNA which we studied theoretically. Together, our preceptive bridges theory, instrumentation, and control, outlining a pathway toward laser mediated manipulation of DNA structure with implications for repair processes, chemical reactivity, and future personalized medicine.",
+    "published": "2025-12-30T05:22:28+00:00"
+  },
+  {
     "title": "Decoding the Architecture of Living Systems",
     "link": "https://arxiv.org/abs/2512.22651",
     "score": 45,

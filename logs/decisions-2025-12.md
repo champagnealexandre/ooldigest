@@ -371,3 +371,42 @@
 | 30 05:11 | **25** | ❌ Rejected | [Large-amplitude Variability Driven By Giant Dust Storms On A Planetary-mass Companion](https://astrobiology.com/2025/12/large-amplitude-variability-driven-by-giant-dust-storms-on-a-planetary-mass-companion.html) |
 | 30 05:11 | **30** | ❌ Rejected | [Why Estimating η⊕ Is Difficult: A Kepler-Centric Perspective](https://astrobiology.com/2025/12/why-estimating-is-difficult-a-kepler-centric-perspective.html) |
 | 30 05:11 | **25** | ❌ Rejected | [NASA Spaceline Current Awareness List #1,180 24 December 2025 (Space Life Science Research Results)](https://astrobiology.com/2025/12/nasa-spaceline-current-awareness-list-1180-24-december-2025-space-life-science-research-results.html) |
+| 30 05:30 | **0** | ❌ Rejected | [Beyond Beam Sweeping: One-Shot Satellite Acquisition with Doppler-Aware Rainbow Beamforming](https://arxiv.org/abs/2512.22828) |
+| 30 05:30 | **30** | ❌ Rejected | [Viscoelasticity and interface properties of multi-component condensates govern protein sequestration and suppression of amyloid formation](https://www.biorxiv.org/content/10.64898/2025.12.29.695806v1?rss=1) |
+| 30 05:30 | **30** | ❌ Rejected | [Water Production of Interstellar Comet 3I/ATLAS from SOHO/SWAN Observations after Perihelion](https://arxiv.org/abs/2512.22354) |
+| 30 05:30 | **25** | ❌ Rejected | [Formation of the Moon and Binary Asteroids](https://arxiv.org/abs/2512.22375) |
+| 30 05:30 | **25** | ❌ Rejected | [A Linearized Approach to Radial-Velocity Extraction. II: Shot-Noise-Limited Precision via Spectral Factorization](https://arxiv.org/abs/2512.23040) |
+| 30 05:30 | **25** | ❌ Rejected | [Not Just Gas: How Solid-Driven Torques Shaped the Migration of the Galilean Moons](https://arxiv.org/abs/2512.23542) |
+| 30 05:30 | **25** | ❌ Rejected | [Predicting the detection yields of giant planets and brown dwarfs with CSST astrometry](https://arxiv.org/abs/2512.23378) |
+| 30 05:31 | **10** | ❌ Rejected | [Two birds with one stone: simultaneous realization of both Lunar Coordinate Time and lunar geoid time by a single orbital clock](https://arxiv.org/abs/2512.23098) |
+| 30 05:31 | **70** | ✅ Accepted | [Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222](https://arxiv.org/abs/2512.23652) |
+| 30 05:31 | **30** | ❌ Rejected | [A Mathematical Primer on Water Ice](https://arxiv.org/abs/2512.22194) |
+| 30 05:31 | **70** | ✅ Accepted | [Quantum attomicroscopy: imaging quantum chemistry in action](https://arxiv.org/abs/2512.22468) |
+| 30 05:31 | **30** | ❌ Rejected | [Isotope Effects and the Negative Thermal Expansion Phenomena in Ice and Water](https://arxiv.org/abs/2512.23247) |
+| 30 05:31 | **25** | ❌ Rejected | [A large language model-type architecture for high-dimensional molecular potential energy surfaces](https://arxiv.org/abs/2412.03831) |
+| 30 05:31 | **10** | ❌ Rejected | [Tensor network approximation of Koopman operators](https://arxiv.org/abs/2407.07242) |
+| 30 05:31 | **0** | ❌ Rejected | [On the efficient numerical computation of covariant Lyapunov vectors](https://arxiv.org/abs/2512.23002) |
+| 30 05:31 | **10** | ❌ Rejected | [The ${\cal N}=1$ supersymmetric Pati-Salam models with extra $SU(2)_{L_2/R_2}$ gauge symmetry from intersecting D6-branes](https://arxiv.org/abs/2512.09057) |
+| 30 05:31 | **0** | ❌ Rejected | [Quantitative central limit theorems for exponential random graphs](https://arxiv.org/abs/2507.10531) |
+| 30 05:31 | **0** | ❌ Rejected | [The topological life of Dynkin indices: universal scaling and matter selection](https://arxiv.org/abs/2512.23041) |
+| 30 05:31 | **0** | ❌ Rejected | [On the efficient numerical computation of covariant Lyapunov vectors](https://arxiv.org/abs/2512.23002) |
+| 30 05:31 | **25** | ❌ Rejected | [A nonconservative kinetic framework with logistic growth for modeling the coexistence in a multi-species ecological system](https://arxiv.org/abs/2512.22246) |
+| 30 05:31 | **25** | ❌ Rejected | [A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation](https://arxiv.org/abs/2512.11459) |
+| 30 05:31 | **30** | ❌ Rejected | [A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation](https://arxiv.org/abs/2512.11459) |
+| 30 05:31 | **25** | ❌ Rejected | [A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation](https://arxiv.org/abs/2512.11459) |
+| 30 05:31 | **25** | ❌ Rejected | [Water Planet: More Polar Ocean Turbulence Due To Planetary Warming](https://astrobiology.com/2025/12/water-planet-more-polar-ocean-turbulence-due-to-planetary-warming.html) |
+| 30 05:31 | **25** | ❌ Rejected | [Mesa Erosion At Mars’ South Pole](https://astrobiology.com/2025/12/mesa-erosion-at-mars-south-pole.html) |
+| 30 05:31 | **25** | ❌ Rejected | [Large-amplitude Variability Driven By Giant Dust Storms On A Planetary-mass Companion](https://astrobiology.com/2025/12/large-amplitude-variability-driven-by-giant-dust-storms-on-a-planetary-mass-companion.html) |
+| 30 05:31 | **25** | ❌ Rejected | [Why Estimating η⊕ Is Difficult: A Kepler-Centric Perspective](https://astrobiology.com/2025/12/why-estimating-is-difficult-a-kepler-centric-perspective.html) |
+| 30 05:31 | **25** | ❌ Rejected | [NASA Spaceline Current Awareness List #1,180 24 December 2025 (Space Life Science Research Results)](https://astrobiology.com/2025/12/nasa-spaceline-current-awareness-list-1180-24-december-2025-space-life-science-research-results.html) |
+| 30 05:31 | **25** | ❌ Rejected | [Venus cloud research highlights value of combining light and polarization measurements](https://phys.org/news/2025-12-venus-cloud-highlights-combining-polarization.html) |
+| 30 05:31 | **0** | ❌ Rejected | [Quand l’Ontario présentait ses excuses aux quintuplées Dionne](https://ici.radio-canada.ca/nouvelle/1086742/soeurs-dionne-dedommagement-exploitation-archives) |
+| 30 05:31 | **35** | ❌ Rejected | [Elemental abundance pattern and temperature inversion on the dayside of HAT-P-70b observed with CARMENES and PEPSI](https://arxiv.org/abs/2512.21470) |
+| 30 05:31 | **35** | ❌ Rejected | [Episodic planetesimal disruptions triggered by dissipation of gas disk](https://arxiv.org/abs/2512.21493) |
+| 30 05:31 | **25** | ❌ Rejected | [Vertically resolved minimal-set k-distribution for thermal infrared absorption: an application to the atmosphere of Venus](https://arxiv.org/abs/2512.14120) |
+| 30 05:31 | **25** | ❌ Rejected | [Water Planet: More Polar Ocean Turbulence Due To Planetary Warming](https://astrobiology.com/2025/12/water-planet-more-polar-ocean-turbulence-due-to-planetary-warming.html) |
+| 30 05:31 | **25** | ❌ Rejected | [Mesa Erosion At Mars’ South Pole](https://astrobiology.com/2025/12/mesa-erosion-at-mars-south-pole.html) |
+| 30 05:31 | **10** | ❌ Rejected | [Ancient wolves could only have reached this island by boat](https://www.sciencedaily.com/releases/2025/12/251227004151.htm) |
+| 30 05:31 | **25** | ❌ Rejected | [Large-amplitude Variability Driven By Giant Dust Storms On A Planetary-mass Companion](https://astrobiology.com/2025/12/large-amplitude-variability-driven-by-giant-dust-storms-on-a-planetary-mass-companion.html) |
+| 30 05:31 | **25** | ❌ Rejected | [Why Estimating η⊕ Is Difficult: A Kepler-Centric Perspective](https://astrobiology.com/2025/12/why-estimating-is-difficult-a-kepler-centric-perspective.html) |
+| 30 05:31 | **25** | ❌ Rejected | [NASA Spaceline Current Awareness List #1,180 24 December 2025 (Space Life Science Research Results)](https://astrobiology.com/2025/12/nasa-spaceline-current-awareness-list-1180-24-december-2025-space-life-science-research-results.html) |
