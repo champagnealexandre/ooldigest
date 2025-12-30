@@ -61,6 +61,7 @@ def generate_rss(papers):
     username = "champagnealexandre"
     repo = "ooldigest"
     
+    # KEEPING 'feed.xml'
     feed_url = f'https://{username}.github.io/{repo}/feed.xml'
 
     fg = FeedGenerator()
@@ -75,34 +76,30 @@ def generate_rss(papers):
         fe = fg.add_entry()
         fe.id(p['link'])
         
+        # Crash protection
         score = p.get('score', 0)
         category = p.get('category', 'Unclassified')
         title = p.get('title', 'Untitled')
         summary = p.get('summary', 'No summary.')
         
-        # --- HTML CLEANING (The Fix) ---
+        # Clean abstract (Plain text only)
         raw_abstract = p.get('abstract', '')
-        # Strip all existing HTML tags from the abstract to prevent nesting errors
         clean_abstract = BeautifulSoup(raw_abstract, "html.parser").get_text(separator=' ')
-        # -------------------------------
 
         fe.title(f"[{score}] [{category}] {title}")
         fe.link(href=p['link'])
         fe.summary(summary)
         
-        # Use <div> instead of <p> for the wrapper to allow flexibility
+        # STRICT HTML FIX:
+        # No <p> or <div> tags allowed. Using <br/> for structure.
         content = f"""
-        <div>
-            <strong>Score:</strong> {score}/100 | <strong>Category:</strong> {category}<br/>
-            <strong>AI Summary:</strong> {summary}
-        </div>
+        <strong>Score:</strong> {score}/100 | <strong>Category:</strong> {category}<br/>
+        <strong>AI Summary:</strong> {summary}<br/>
         <hr/>
-        <div>
-            <strong>Abstract:</strong><br/>
-            {clean_abstract}
-        </div>
+        <strong>Abstract:</strong><br/>
+        {clean_abstract}<br/>
         <br/>
-        <div><a href="{p['link']}">Read Full Paper</a></div>
+        <a href="{p['link']}">Read Full Paper</a>
         """
         
         fe.content(content, type='html')
@@ -111,6 +108,7 @@ def generate_rss(papers):
             fe.published(p['published'])
             fe.updated(p['published'])
 
+    # Write to feed.xml (Atom format)
     fg.atom_file(FEED_FILE)
 
 def main():
