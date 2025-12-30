@@ -7,4 +7,8 @@
 - ~cancel deploy started right after committing~ deploy now runs only after python script (with option to deploy only)
 - unfollow feed then follow again adding `?v=XXX`
 
-*here’s a dummy edit*
+github action options:
+- clear history
+- clear logs
+- skip python script
+- skip deploy
