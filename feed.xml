@@ -1,22 +1,97 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://champagnealexandre.github.io/ooldigest/feed.xml</id><title>Astrobiology AI Digest</title><updated>2025-12-30T02:58:11.689799+00:00</updated><author><name>AI Agent</name></author><link href="https://champagnealexandre.github.io/ooldigest/feed.xml" rel="self"/><link href="https://github.com/champagnealexandre/ooldigest" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><subtitle>Hourly AI-curated papers on Origins of Life</subtitle><entry><id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id><title>[85] [Unclassified] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title><updated>2025-12-29T18:35:40+00:00</updated><content type="html">
-        &lt;p&gt;&lt;b&gt;Score:&lt;/b&gt; 85/100 | &lt;b&gt;Category:&lt;/b&gt; Unclassified&lt;/p&gt;
-        &lt;p&gt;&lt;b&gt;AI Summary:&lt;/b&gt; The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Astrobiology AI Digest</title>
+  <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
+  <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
+  <link href="https://github.com/champagnealexandre/ooldigest"/>
+  <updated>2025-12-30T03:26:24.700549+00:00</updated>
+  <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
+  <author>
+    <name>AI Agent</name>
+  </author>
+
+  <entry>
+    <title>[81] [Computational Biology] RAMBO: Resolving Amplicons in Mixed Samples for Accurate DNA Barcoding with Oxford Nanopore</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1</id>
+    <updated>2025-12-29T22:13:49+00:00</updated>
+    <summary>The paper presents a novel pipeline for DNA barcoding using Nanopore sequencing that effectively resolves mixed sequence signals, enhancing the accuracy of species identification in complex biological samples.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100 | &lt;strong&gt;Category:&lt;/strong&gt; Computational Biology&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper presents a novel pipeline for DNA barcoding using Nanopore sequencing that effectively resolves mixed sequence signals, enhancing the accuracy of species identification in complex biological samples.&lt;br/&gt;
         &lt;hr/&gt;
-        &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; &lt;p&gt;Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron–sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient […]&lt;/p&gt; 
-&lt;p&gt;The post &lt;a href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"&gt;Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold&lt;/a&gt; appeared first on &lt;a href="https://astrobiology.com"&gt;Astrobiology&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"&gt;Read Full Paper&lt;/a&gt;&lt;/p&gt;
-        </content><link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/><summary>The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.</summary><published>2025-12-29T18:35:40+00:00</published></entry><entry><id>https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html</id><title>[81] [Unclassified] Stardust Study Resets How Life’s Atoms Spread Through Space</title><updated>2025-12-29T19:34:52+00:00</updated><content type="html">
-        &lt;p&gt;&lt;b&gt;Score:&lt;/b&gt; 81/100 | &lt;b&gt;Category:&lt;/b&gt; Unclassified&lt;/p&gt;
-        &lt;p&gt;&lt;b&gt;AI Summary:&lt;/b&gt; The study provides insights into the distribution of life's building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.&lt;/p&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        DNA barcoding, the use of short genetic markers to identify and differentiate species, is a foundational tool in ecological and taxonomic research. The method has scaled rapidly with next-generation sequencing technologies, enabling the processing of thousands of specimens in parallel. Nanopore sequencing offers a flexible, low-cost alternative to other platforms, producing full-length reads in real time and supporting applications in remote settings. However, its comparatively high error rate complicates downstream processing, particularly when PCR co-amplifies multiple templates from a single specimen, reflecting pseudogenes, paralogs, or contaminants. We present a novel pipeline for DNA barcoding that resolves mixed sequence signals from Nanopore reads using unsupervised clustering and staged consensus generation, without relying on curated reference databases, taxonomic priors, or error models. Unlike existing approaches to curate Nanopore sequence data that assume a single dominant amplicon per sample or require large sequence divergence among amplicons, our method distinguishes variants differing by 0.15 percent. It combines column-weighted encodings, UMAP projection, and HDBSCAN clustering, followed by conservative consensus refinement. The pipeline was benchmarked and validated using datasets with known composition, including high-fidelity PacBio sequences. The results show that Nanopore barcoding, when paired with appropriate analysis tools, can recover biologically meaningful variation even in technically complex samples. The pipeline is particularly suited for specimens where divergent templates are often co-amplified, including mitochondrial pseudogenes or multicopy nuclear regions like ITS. As such, it provides a generalizable framework for high-resolution Nanopore analysis of complex amplicon data.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[85] [Astrobiology] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
+    <link href="https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html"/>
+    <id>https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html</id>
+    <updated>2025-12-29T19:34:52+00:00</updated>
+    <summary>This study provides insights into the molecular composition of comet C/2017 K2, highlighting the significance of water sublimation and its implications for understanding the origins of life in the solar system.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 85/100 | &lt;strong&gt;Category:&lt;/strong&gt; Astrobiology&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; This study provides insights into the molecular composition of comet C/2017 K2, highlighting the significance of water sublimation and its implications for understanding the origins of life in the solar system.&lt;br/&gt;
         &lt;hr/&gt;
-        &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; &lt;p&gt;Starlight and stardust are not enough to drive the powerful winds of giant stars, transporting the building blocks of life through our galaxy. That’s the conclusion of a new study from Chalmers University of Technology, Sweden, of red giant star R Doradus. The result overturns a long-held idea about how the atoms needed for life […]&lt;/p&gt; 
-&lt;p&gt;The post &lt;a href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"&gt;Stardust Study Resets How Life’s Atoms Spread Through Space&lt;/a&gt; appeared first on &lt;a href="https://astrobiology.com"&gt;Astrobiology&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"&gt;Read Full Paper&lt;/a&gt;&lt;/p&gt;
-        </content><link href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"/><summary>The study provides insights into the distribution of life's building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.</summary><published>2025-12-29T19:34:52+00:00</published></entry><entry><id>https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1</id><title>[81] [Unclassified] LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits</title><updated>2025-12-30T02:13:31+00:00</updated><content type="html">
-        &lt;p&gt;&lt;b&gt;Score:&lt;/b&gt; 81/100 | &lt;b&gt;Category:&lt;/b&gt; Unclassified&lt;/p&gt;
-        &lt;p&gt;&lt;b&gt;AI Summary:&lt;/b&gt; The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology.&lt;/p&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        We report a survey of molecular emission from cometary volatiles using the Atacama Large Millimeter/Submillimeter Array (ALMA) toward comet C/2017 K2 (PanSTARRS) carried out on UT 2022 September 21, 22, and 23 at a heliocentric distance (rh) of 2.1 au. These measurements of HCN, CS, CO, CH3OH, and H2CO (along with continuum emission from dust) […] The post The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma appeared first on Astrobiology .&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[81] [Unclassified] LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1</id>
+    <updated>2025-12-30T02:13:31+00:00</updated>
+    <summary>The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100 | &lt;strong&gt;Category:&lt;/strong&gt; Unclassified&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology.&lt;br/&gt;
         &lt;hr/&gt;
-        &lt;p&gt;&lt;b&gt;Abstract:&lt;/b&gt; &lt;p&gt;&lt;img alt="biorxiv_logo_homepage7-5-small.png" src="https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png" /&gt;&lt;/p&gt;Motivation: RNA molecules adopt dynamic ensembles of secondary structures, where the local structural context of each nucleotide--such as whether it resides in a stem or a specific type of loop--strongly shapes molecular interactions and regulatory function. Structural-context probabilities therefore provide a more functionally informative view of RNA folding than the minimum free energy structures or base-pairing probabilities. However, existing tools either require O(N3) time or employ span-restricted approximations that omit long-range base-pairs, limiting their applicability to large and biologically important RNAs. Results: We introduce LinearCapR, enabling linear-time, span-unrestricted computation of structural-context marginalized probabilities, using beam-pruned Stochastic Context Free Grammar-based computation. LinearCapR retains global ensemble features lost by span-limited methods and yields superior predictive power on bpRNA-1m(90) dataset, especially for multiloops and exterior regions, as well as long-distance stems. LinearCapR supports analysis of long RNAs, demonstrated on the full genome of SARS-CoV-2. Conclusions: LinearCapR provides the first base-pair-span-unrestricted, linear-time framework for RNA structural context analysis, retaining key thermodynamic ensemble features essential for functional interpretation. It enables large-scale studies of viral genomes, long non-coding RNAs, and downstream analyses such as RNA-binding protein site prediction. Availability: The source code of LinearCapR is available at https://github.com/hoget157/LinearCapR.&lt;/p&gt;
-        &lt;p&gt;&lt;a href="https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1"&gt;Read Full Paper&lt;/a&gt;&lt;/p&gt;
-        </content><link href="https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1"/><summary>The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology.</summary><published>2025-12-30T02:13:31+00:00</published></entry></feed>
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Motivation: RNA molecules adopt dynamic ensembles of secondary structures, where the local structural context of each nucleotide--such as whether it resides in a stem or a specific type of loop--strongly shapes molecular interactions and regulatory function. Structural-context probabilities therefore provide a more functionally informative view of RNA folding than the minimum free energy structures or base-pairing probabilities. However, existing tools either require O(N3) time or employ span-restricted approximations that omit long-range base-pairs, limiting their applicability to large and biologically important RNAs. Results: We introduce LinearCapR, enabling linear-time, span-unrestricted computation of structural-context marginalized probabilities, using beam-pruned Stochastic Context Free Grammar-based computation. LinearCapR retains global ensemble features lost by span-limited methods and yields superior predictive power on bpRNA-1m(90) dataset, especially for multiloops and exterior regions, as well as long-distance stems. LinearCapR supports analysis of long RNAs, demonstrated on the full genome of SARS-CoV-2. Conclusions: LinearCapR provides the first base-pair-span-unrestricted, linear-time framework for RNA structural context analysis, retaining key thermodynamic ensemble features essential for functional interpretation. It enables large-scale studies of viral genomes, long non-coding RNAs, and downstream analyses such as RNA-binding protein site prediction. Availability: The source code of LinearCapR is available at https://github.com/hoget157/LinearCapR.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[81] [Unclassified] Stardust Study Resets How Life’s Atoms Spread Through Space</title>
+    <link href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"/>
+    <id>https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html</id>
+    <updated>2025-12-29T19:34:52+00:00</updated>
+    <summary>The study provides insights into the distribution of life&#x27;s building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100 | &lt;strong&gt;Category:&lt;/strong&gt; Unclassified&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The study provides insights into the distribution of life&amp;#x27;s building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Starlight and stardust are not enough to drive the powerful winds of giant stars, transporting the building blocks of life through our galaxy. That’s the conclusion of a new study from Chalmers University of Technology, Sweden, of red giant star R Doradus. The result overturns a long-held idea about how the atoms needed for life […] The post Stardust Study Resets How Life’s Atoms Spread Through Space appeared first on Astrobiology .&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[85] [Unclassified] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
+    <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
+    <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
+    <updated>2025-12-29T18:35:40+00:00</updated>
+    <summary>The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 85/100 | &lt;strong&gt;Category:&lt;/strong&gt; Unclassified&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron–sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient […] The post Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold appeared first on Astrobiology .&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+</feed>

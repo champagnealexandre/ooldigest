@@ -1,5 +1,25 @@
 [
   {
+    "title": "RAMBO: Resolving Amplicons in Mixed Samples for Accurate DNA Barcoding with Oxford Nanopore",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1",
+    "original_link": "https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1",
+    "score": 81,
+    "category": "Computational Biology",
+    "summary": "The paper presents a novel pipeline for DNA barcoding using Nanopore sequencing that effectively resolves mixed sequence signals, enhancing the accuracy of species identification in complex biological samples.",
+    "abstract": "<p><img alt=\"biorxiv_logo_homepage7-5-small.png\" src=\"https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png\" /></p>DNA barcoding, the use of short genetic markers to identify and differentiate species, is a foundational tool in ecological and taxonomic research. The method has scaled rapidly with next-generation sequencing technologies, enabling the processing of thousands of specimens in parallel. Nanopore sequencing offers a flexible, low-cost alternative to other platforms, producing full-length reads in real time and supporting applications in remote settings. However, its comparatively high error rate complicates downstream processing, particularly when PCR co-amplifies multiple templates from a single specimen, reflecting pseudogenes, paralogs, or contaminants. We present a novel pipeline for DNA barcoding that resolves mixed sequence signals from Nanopore reads using unsupervised clustering and staged consensus generation, without relying on curated reference databases, taxonomic priors, or error models. Unlike existing approaches to curate Nanopore sequence data that assume a single dominant amplicon per sample or require large sequence divergence among amplicons, our method distinguishes variants differing by 0.15 percent. It combines column-weighted encodings, UMAP projection, and HDBSCAN clustering, followed by conservative consensus refinement. The pipeline was benchmarked and validated using datasets with known composition, including high-fidelity PacBio sequences. The results show that Nanopore barcoding, when paired with appropriate analysis tools, can recover biologically meaningful variation even in technically complex samples. The pipeline is particularly suited for specimens where divergent templates are often co-amplified, including mitochondrial pseudogenes or multicopy nuclear regions like ITS. As such, it provides a generalizable framework for high-resolution Nanopore analysis of complex amplicon data.",
+    "published": "2025-12-29T22:13:49+00:00"
+  },
+  {
+    "title": "The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma",
+    "link": "https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html",
+    "original_link": "https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html",
+    "score": 85,
+    "category": "Astrobiology",
+    "summary": "This study provides insights into the molecular composition of comet C/2017 K2, highlighting the significance of water sublimation and its implications for understanding the origins of life in the solar system.",
+    "abstract": "<p>We report a survey of molecular emission from cometary volatiles using the Atacama Large Millimeter/Submillimeter Array (ALMA) toward comet C/2017 K2 (PanSTARRS) carried out on UT 2022 September 21, 22, and 23 at a heliocentric distance (rh) of 2.1 au. These measurements of HCN, CS, CO, CH3OH, and H2CO (along with continuum emission from dust) [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html\">The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-29T19:34:52+00:00"
+  },
+  {
     "title": "LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits",
     "link": "https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1",
     "score": 81,
