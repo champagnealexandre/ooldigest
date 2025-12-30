@@ -1,5 +1,13 @@
 [
   {
+    "title": "On the comparison of models and experiments in the study of DNA open states: the problem of degrees of freedom",
+    "link": "https://arxiv.org/abs/2512.22160",
+    "score": 60,
+    "summary": "The paper focuses on DNA dynamics, which is relevant to the origins of life, particularly in the context of nucleic acids, but lacks direct references to key concepts like abiogenesis or prebiotic chemistry.",
+    "abstract": "arXiv:2512.22160v1 Announce Type: cross  \nAbstract: Simple mechanical models of DNA play an important role in studying the dynamics of its open states. The main requirement when developing a DNA model is the correct selection of its effective potentials and parameters based on experimental data. At the same time, various experiments allow us to \"see\" different types of DNA open states. Consideration of this feature is one of the most important conditions in the development, optimization, and parameterization of any mechanical model. Violation of this condition, i.e., the comparison of incomparable characteristics, leads to critical errors. The present investigation is devoted to the problem of degrees of freedom of DNA bases taken into account in mechanical models. Using the Peyrard-Bishop-Dauxois model as an example, two types of errors in interpreting experimental data when compared with the model are examined. The first one is a mismatch between the open state types in the model and experiment. The second one is an incorrect specification of the \"threshold coordinate\" of the open state. The concept of the effective total threshold coordinate of the radial separation of DNA strands for registration of opening is introduced. It is shown that correct interpretation of experimental data can actually eliminate discrepancies with theory.",
+    "published": "2025-12-30T05:45:45+00:00"
+  },
+  {
     "title": "Heuristic model on the origin of the homochirality of life",
     "link": "https://arxiv.org/abs/2512.11136",
     "score": 90,

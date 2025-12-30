@@ -4,9 +4,26 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T06:43:36.046859+00:00</updated>
+  <updated>2025-12-30T07:30:12.283692+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>[60] On the comparison of models and experiments in the study of DNA open states: the problem of degrees of freedom</title>
+    <link href="https://arxiv.org/abs/2512.22160"/>
+    <id>https://arxiv.org/abs/2512.22160</id>
+    <updated>2025-12-30T05:45:45+00:00</updated>
+    <summary>The paper focuses on DNA dynamics, which is relevant to the origins of life, particularly in the context of nucleic acids, but lacks direct references to key concepts like abiogenesis or prebiotic chemistry.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on DNA dynamics, which is relevant to the origins of life, particularly in the context of nucleic acids, but lacks direct references to key concepts like abiogenesis or prebiotic chemistry.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.22160v1 Announce Type: cross Abstract: Simple mechanical models of DNA play an important role in studying the dynamics of its open states. The main requirement when developing a DNA model is the correct selection of its effective potentials and parameters based on experimental data. At the same time, various experiments allow us to &amp;quot;see&amp;quot; different types of DNA open states. Consideration of this feature is one of the most important conditions in the development, optimization, and parameterization of any mechanical model. Violation of this condition, i.e., the comparison of incomparable characteristics, leads to critical errors. The present investigation is devoted to the problem of degrees of freedom of DNA bases taken into account in mechanical models. Using the Peyrard-Bishop-Dauxois model as an example, two types of errors in interpreting experimental data when compared with the model are examined. The first one is a mismatch between the open state types in the model and experiment. The second one is an incorrect specification of the &amp;quot;threshold coordinate&amp;quot; of the open state. The concept of the effective total threshold coordinate of the radial separation of DNA strands for registration of opening is introduced. It is shown that correct interpretation of experimental data can actually eliminate discrepancies with theory.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.22160&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
 
   <entry>
     <title>[90] Heuristic model on the origin of the homochirality of life</title>
