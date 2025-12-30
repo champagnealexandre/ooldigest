@@ -76,7 +76,7 @@ def analyze_paper(title, abstract, model_name):
     
     prompt = f"""
     Role: Senior Astrobiologist.
-    Task: Score this paper for an 'Origins of Life' digest based on relevance, keywords, and specific constraints.
+    Task: Score this paper for an 'Origins of Life' digest and EXTRACT original paper links.
     
     Paper: "{title}"
     Abstract: "{abstract}"
@@ -93,7 +93,7 @@ def analyze_paper(title, abstract, model_name):
        - +0: Unrelated field.
        - +25: Broad context.
        - +50: Core OoL focus.
-       * PENALTY: If paper violates "Custom Instructions" (e.g. generic exoplanet), cap this section at 10 pts.
+       * PENALTY: If paper violates "Custom Instructions", cap this section at 10 pts.
        * BONUS: If paper hits an "Exception" in instructions, ensure this section is at least 40 pts.
        
     2. KEYWORD BONUS (Max 50 pts):
@@ -101,8 +101,13 @@ def analyze_paper(title, abstract, model_name):
        - Add +10 points for EACH occurrence.
        - Cap this bonus at 50 points.
     
+    3. DOI HUNTER (Link Extraction):
+       - Scan the text for URLs or DOIs pointing to the ORIGINAL ACADEMIC PAPER (e.g. doi.org/..., arxiv.org/..., nature.com/..., pnas.org/...).
+       - Do NOT include generic homepages.
+       - Return them as a list of strings in the "links" field.
+    
     CALCULATION: Sum (Base Relevance + Keyword Bonus).
-    Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
+    Output JSON ONLY: {{"score": int, "summary": "1 sentence summary", "links": ["url1", "url2"]}}
     """
     
     try:
@@ -115,7 +120,7 @@ def analyze_paper(title, abstract, model_name):
         return json.loads(response.choices[0].message.content)
     except Exception as e:
         print(f"LLM Error ({model_name}): {e}")
-        return {"score": 0, "summary": "Error"}
+        return {"score": 0, "summary": "Error", "links": []}
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -153,17 +158,25 @@ def generate_manual_atom(papers):
             continue
 
         title_raw = clean_text(p.get('title', 'Untitled'))
-        
         category = p.get('category', 'GENERAL')
         feed_source = p.get('feed_source', 'Unknown')
         
-        # --- TITLE FORMATTING: [SCORE] [CATEGORY] [FEED] [TITLE] ---
         display_title = f"[{score}] [{category}] [{feed_source}] {title_raw}"
         
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
         link = html.escape(p.get('link', ''))
         display_title_esc = html.escape(display_title)
+        
+        # --- DOI HUNTER OUTPUT ---
+        extracted_links = p.get('extracted_links', [])
+        doi_html = ""
+        if extracted_links:
+            doi_html = "<br/><br/><strong>Possible Paper Links:</strong><ul>"
+            for url in extracted_links:
+                safe_url = html.escape(url)
+                doi_html += f'<li><a href="{safe_url}">{safe_url}</a></li>'
+            doi_html += "</ul>"
         
         pub_date = p.get('published', now_iso)
         while pub_date in seen_dates:
@@ -181,9 +194,10 @@ def generate_manual_atom(papers):
         <strong>AI Summary:</strong> {summary}<br/>
         <hr/>
         <strong>Abstract:</strong><br/>
-        {abstract}<br/>
-        <br/>
-        <a href="{link}">Read Full Paper</a>
+        {abstract}
+        {doi_html}
+        <br/><br/>
+        <a href="{link}">Read Full Article (Source)</a>
         """
         content_escaped = html.escape(content_html)
         
@@ -218,12 +232,8 @@ def main():
         print(f"-> Parsing {link[:40]}...")
         feed = feedparser.parse(link)
         
-        # --- CLEAN UP CATEGORY ---
-        # 1. Get raw title (e.g. "keywords-astrobiology via Alexandre...")
         raw_feed_title = getattr(feed.feed, 'title', 'General')
-        # 2. Split at " via " to remove the suffix
         clean_category = raw_feed_title.split(' via ')[0]
-        # 3. Uppercase (e.g. "KEYWORDS-ASTROBIOLOGY")
         feed_category = clean_category.upper()
 
         for entry in feed.entries:
@@ -237,13 +247,13 @@ def main():
             if pub_date < cutoff:
                 continue
             
-            # Extract Feed Source
             source_title = "Unknown"
             if hasattr(entry, 'source') and hasattr(entry.source, 'title'):
                 source_title = entry.source.title
             if source_title == "Unknown":
                 source_title = "Web" 
             
+            # --- ANALYSIS ---
             analysis_primary = analyze_paper(entry.title, getattr(entry, 'description', ''), PRIMARY_MODEL)
             score_primary = analysis_primary['score']
             
@@ -257,6 +267,7 @@ def main():
                 "link": entry.link, 
                 "score": score_primary,
                 "summary": analysis_primary['summary'],
+                "extracted_links": analysis_primary.get('links', []), # CAPTURE LINKS
                 "abstract": getattr(entry, 'description', ''),
                 "published": pub_date.isoformat(),
                 "category": feed_category,
