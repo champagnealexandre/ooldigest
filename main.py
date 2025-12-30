@@ -43,11 +43,15 @@ KEYWORDS_OOL = [
 
 ALL_KEYWORDS = list(set(KEYWORDS_ASTRO + KEYWORDS_OOL))
 
-# --- DOMAINS TO HUNT & IDENTIFY ---
+# --- DOMAINS TO HUNT ---
 ACADEMIC_DOMAINS = [
     "doi.org", "arxiv.org", "biorxiv.org", "ncbi.nlm.nih.gov", 
     "nature.com", "science.org", "pnas.org", "acs.org", "wiley.com", 
-    "springer.com", "cell.com", "oup.com", "iop.org", "aps.org"
+    "springer.com", "cell.com", "oup.com", "iop.org", "aps.org",
+    "sciencedirect.com", "elsevier.com", "linkinghub.elsevier.com",
+    "mdpi.com", "frontiersin.org", "tandfonline.com",
+    "sagepub.com", "ieee.org", "osapublishing.org", "optica.org", 
+    "aanda.org", "agu.org", "geoscienceworld.org", "gsapubs.org"
 ]
 
 client = OpenAI(api_key=OPENAI_API_KEY)
@@ -60,15 +64,23 @@ def hunt_paper_links(url):
         response = requests.get(url, headers=headers, timeout=5)
         response.raise_for_status()
         
+        # 1. Regex DOI Scan
+        doi_pattern = r'10\.\d{4,9}/[-._;()/:A-Z0-9a-z]+'
+        dois = re.findall(doi_pattern, response.text)
+        for doi in dois:
+            clean_doi = doi.rstrip('.,)')
+            found_links.add(f"https://doi.org/{clean_doi}")
+
+        # 2. Standard Domain Scan
         soup = BeautifulSoup(response.text, 'html.parser')
-        
         for a_tag in soup.find_all('a', href=True):
             href = a_tag['href']
             if not href.startswith('http'): continue
             
+            if url in href: continue # Skip self-links
+
             if any(domain in href for domain in ACADEMIC_DOMAINS):
-                if url not in href:
-                    found_links.add(href)
+                found_links.add(href)
 
     except Exception as e:
         print(f"   [Hunter] Failed to scrape {url}: {e}")
@@ -132,7 +144,7 @@ def analyze_paper(title, abstract, model_name, found_links=None):
        - +0: Unrelated field.
        - +25: Broad context.
        - +50: Core OoL focus.
-       * BONUS: If "Link Hunter" found a DOI/Nature/Science link, ensure score is robust.
+       * BONUS: If "Link Hunter" found a DOI/Nature/Science/Elsevier link, ensure score is robust.
        
     2. KEYWORD BONUS (Max 50 pts):
        - +10 points per keyword match. Caps at 50.
@@ -196,28 +208,30 @@ def generate_manual_atom(papers):
         abstract = html.escape(clean_text(p.get('abstract', '')))
         link = html.escape(p.get('link', ''))
         
-        # --- RENDER LINKS LOGIC ---
         extracted_links = p.get('extracted_links', [])
         doi_html = ""
         
-        # 1. Check if the Main Link IS the paper
+        # Check if the Main Link IS the paper
         is_direct_paper = any(domain in link for domain in ACADEMIC_DOMAINS)
         
         if is_direct_paper:
-             # Case A: Item is the paper -> Point to itself
              doi_html = f"<br/><br/><strong>Source Paper:</strong><ul><li><a href='{link}'>Direct Journal Link (Original Article)</a></li></ul>"
-        
         elif extracted_links:
-             # Case B: Press Release -> Show Found Links
+             unique_links = sorted(list(set(extracted_links)))
              doi_html = "<br/><br/><strong>Source Paper / DOIs Found:</strong><ul>"
-             for url in extracted_links:
+             for url in unique_links:
                  safe_url = html.escape(url)
                  label = "Full Paper"
                  if "doi.org" in url: label = "DOI Link"
                  elif "arxiv" in url: label = "ArXiv Preprint"
                  elif "ncbi" in url: label = "PubMed/NCBI"
+                 elif "sciencedirect" in url or "elsevier" in url: label = "ScienceDirect"
+                 
                  doi_html += f'<li><a href="{safe_url}">[{label}] {safe_url}</a></li>'
              doi_html += "</ul>"
+        else:
+             # --- FALLBACK IF NO LINKS FOUND ---
+             doi_html = "<br/><br/><strong>Source Paper:</strong><br/>No direct link found."
         
         pub_date = p.get('published', now_iso)
         while pub_date in seen_dates:
