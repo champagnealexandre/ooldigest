@@ -43,7 +43,7 @@ KEYWORDS_OOL = [
 
 ALL_KEYWORDS = list(set(KEYWORDS_ASTRO + KEYWORDS_OOL))
 
-# --- DOMAINS TO HUNT ---
+# --- DOMAINS TO HUNT & IDENTIFY ---
 ACADEMIC_DOMAINS = [
     "doi.org", "arxiv.org", "biorxiv.org", "ncbi.nlm.nih.gov", 
     "nature.com", "science.org", "pnas.org", "acs.org", "wiley.com", 
@@ -102,7 +102,7 @@ def log_decision(title, score_primary, score_shadow, action, link):
     with open(log_file, 'a') as f:
         f.write(entry)
 
-# --- ANALYZER (Updated to accept found_links) ---
+# --- ANALYZER ---
 def analyze_paper(title, abstract, model_name, found_links=None):
     if found_links is None: found_links = []
     
@@ -119,7 +119,6 @@ def analyze_paper(title, abstract, model_name, found_links=None):
     EVIDENCE FROM LINK HUNTER:
     The following academic links were found on the source page:
     {links_str}
-    (If academic links exist, treat this as a verified study, not just a rumor.)
     
     Target Keywords:
     {keywords_str}
@@ -133,7 +132,7 @@ def analyze_paper(title, abstract, model_name, found_links=None):
        - +0: Unrelated field.
        - +25: Broad context.
        - +50: Core OoL focus.
-       * BONUS: If "Link Hunter" found a DOI/Nature/Science link, ensure score is robust (valid science).
+       * BONUS: If "Link Hunter" found a DOI/Nature/Science link, ensure score is robust.
        
     2. KEYWORD BONUS (Max 50 pts):
        - +10 points per keyword match. Caps at 50.
@@ -197,19 +196,28 @@ def generate_manual_atom(papers):
         abstract = html.escape(clean_text(p.get('abstract', '')))
         link = html.escape(p.get('link', ''))
         
-        # Render Links
+        # --- RENDER LINKS LOGIC ---
         extracted_links = p.get('extracted_links', [])
         doi_html = ""
-        if extracted_links:
-            doi_html = "<br/><br/><strong>Source Paper / DOIs Found:</strong><ul>"
-            for url in extracted_links:
-                safe_url = html.escape(url)
-                label = "Full Paper"
-                if "doi.org" in url: label = "DOI Link"
-                elif "arxiv" in url: label = "ArXiv Preprint"
-                elif "ncbi" in url: label = "PubMed/NCBI"
-                doi_html += f'<li><a href="{safe_url}">[{label}] {safe_url}</a></li>'
-            doi_html += "</ul>"
+        
+        # 1. Check if the Main Link IS the paper
+        is_direct_paper = any(domain in link for domain in ACADEMIC_DOMAINS)
+        
+        if is_direct_paper:
+             # Case A: Item is the paper -> Point to itself
+             doi_html = f"<br/><br/><strong>Source Paper:</strong><ul><li><a href='{link}'>Direct Journal Link (Original Article)</a></li></ul>"
+        
+        elif extracted_links:
+             # Case B: Press Release -> Show Found Links
+             doi_html = "<br/><br/><strong>Source Paper / DOIs Found:</strong><ul>"
+             for url in extracted_links:
+                 safe_url = html.escape(url)
+                 label = "Full Paper"
+                 if "doi.org" in url: label = "DOI Link"
+                 elif "arxiv" in url: label = "ArXiv Preprint"
+                 elif "ncbi" in url: label = "PubMed/NCBI"
+                 doi_html += f'<li><a href="{safe_url}">[{label}] {safe_url}</a></li>'
+             doi_html += "</ul>"
         
         pub_date = p.get('published', now_iso)
         while pub_date in seen_dates:
@@ -230,7 +238,7 @@ def generate_manual_atom(papers):
         {abstract}
         {doi_html}
         <br/><br/>
-        <a href="{link}">Read Press Release</a>
+        <a href="{link}">Read Full Article</a>
         """
         
         entry = f"""
@@ -281,11 +289,10 @@ def main():
             if source_title == "Unknown": source_title = "Web" 
             
             # --- 1. RUN HUNTER FIRST ---
-            # Now the AI will know if a DOI exists BEFORE scoring
             print(f"   [Hunter] Scanning {entry.link[:40]}...")
             hunted_links = hunt_paper_links(entry.link)
             
-            # --- 2. ANALYZE (With Links) ---
+            # --- 2. ANALYZE ---
             analysis_primary = analyze_paper(
                 entry.title, 
                 getattr(entry, 'description', ''), 
