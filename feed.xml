@@ -4,9 +4,26 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T05:31:37.529988+00:00</updated>
+  <updated>2025-12-30T06:43:36.046859+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>[90] Heuristic model on the origin of the homochirality of life</title>
+    <link href="https://arxiv.org/abs/2512.11136"/>
+    <id>https://arxiv.org/abs/2512.11136</id>
+    <updated>2025-12-30T05:42:53+00:00</updated>
+    <summary>The paper is highly relevant to the origins of life field, focusing on homochirality and prebiotic chemistry, and includes multiple target keywords related to these themes.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 90/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field, focusing on homochirality and prebiotic chemistry, and includes multiple target keywords related to these themes.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.11136v2 Announce Type: replace Abstract: Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by carbonaceous meteorites. Although the extraterrestrial ribose was initially racemic, life is homochiral, based on D-ribose and its derivatives. The phospholipid membrane high permeability to D-ribose, combined with the ribose interaction with the bilayer charged phosphate groups, leads to ribose phosphorylation, forming D-ribose-5-phosphate. Once inside, the D-ribose-5-phosphate molecules cannot cross the membrane. The catalytic action of Fe (3+ions) greatly enhances the phosphorylation rate. Overall, this process is enantioselective, substantially favoring the buildup of D-ribose over L-ribose. Through liposome fusion, fission, and self-replication, this eventually leads to the Darwinian evolution of these structures and to the conversion of D-ribose-5-phosphate into complex functional molecules, such as ribozymes and RNA, and eventually into DNA, all of which inherit D-ribose chirality.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.11136&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
 
   <entry>
     <title>[70] Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222</title>

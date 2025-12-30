@@ -1,5 +1,13 @@
 [
   {
+    "title": "Heuristic model on the origin of the homochirality of life",
+    "link": "https://arxiv.org/abs/2512.11136",
+    "score": 90,
+    "summary": "The paper is highly relevant to the origins of life field, focusing on homochirality and prebiotic chemistry, and includes multiple target keywords related to these themes.",
+    "abstract": "arXiv:2512.11136v2 Announce Type: replace  \nAbstract: Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by carbonaceous meteorites. Although the extraterrestrial ribose was initially racemic, life is homochiral, based on D-ribose and its derivatives. The phospholipid membrane high permeability to D-ribose, combined with the ribose interaction with the bilayer charged phosphate groups, leads to ribose phosphorylation, forming D-ribose-5-phosphate. Once inside, the D-ribose-5-phosphate molecules cannot cross the membrane. The catalytic action of Fe (3+ions) greatly enhances the phosphorylation rate. Overall, this process is enantioselective, substantially favoring the buildup of D-ribose over L-ribose. Through liposome fusion, fission, and self-replication, this eventually leads to the Darwinian evolution of these structures and to the conversion of D-ribose-5-phosphate into complex functional molecules, such as ribozymes and RNA, and eventually into DNA, all of which inherit D-ribose chirality.",
+    "published": "2025-12-30T05:42:53+00:00"
+  },
+  {
     "title": "Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222",
     "link": "https://arxiv.org/abs/2512.23652",
     "score": 70,
