@@ -57,7 +57,10 @@ def log_decision(title, score_primary, score_shadow, action, link):
         delta_str = "N/A"
         shadow_val = "N/A"
     
-    entry = f"| {timestamp} | {shadow_val} | **{score_primary}** | {delta_str} | {action} | [{title}]({link}) |\n"
+    # HACK: Replace spaces with non-breaking spaces to prevent wrapping in GitHub view
+    title_display = title.replace(" ", "&nbsp;")
+    
+    entry = f"| {timestamp} | {shadow_val} | **{score_primary}** | {delta_str} | {action} | [{title_display}]({link}) |\n"
     
     if not os.path.exists(log_file):
         with open(log_file, 'w') as f:
@@ -121,7 +124,6 @@ def load_history():
     return []
 
 def save_history(data):
-    # Increased limit to 200 to accommodate storing rejected papers
     with open(HISTORY_FILE, 'w') as f:
         json.dump(data[:200], f, indent=2)
 
@@ -146,15 +148,28 @@ def generate_manual_atom(papers):
     seen_dates = set()
 
     for p in papers:
-        # FILTER: Only include Accepted papers in the public feed
         score = p.get('score', 0)
         if score < 40:
             continue
 
-        title = html.escape(clean_text(p.get('title', 'Untitled')))
+        title_raw = clean_text(p.get('title', 'Untitled'))
+        
+        # --- NEW: Retrieve Metadata for Display ---
+        # Fallback to "General" if category is missing
+        # Fallback to "Unknown Source" if feed title is missing
+        category = p.get('category', 'General')
+        feed_source = p.get('feed_source', 'Unknown Source')
+        
+        # --- NEW: Format Title ---
+        # [SCORE] [CATEGORY] [FEED] [TITLE]
+        display_title = f"[{score}] [{category}] [{feed_source}] {title_raw}"
+        
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
         link = html.escape(p.get('link', ''))
+        
+        # Sanitize the display title for XML
+        display_title_esc = html.escape(display_title)
         
         pub_date = p.get('published', now_iso)
         while pub_date in seen_dates:
@@ -166,6 +181,8 @@ def generate_manual_atom(papers):
         seen_dates.add(pub_date)
         
         content_html = f"""
+        <strong>Category:</strong> {html.escape(category)}<br/>
+        <strong>Source:</strong> {html.escape(feed_source)}<br/>
         <strong>Score:</strong> {score}/100<br/>
         <strong>AI Summary:</strong> {summary}<br/>
         <hr/>
@@ -178,7 +195,7 @@ def generate_manual_atom(papers):
         
         entry = f"""
   <entry>
-    <title>[{score}] {title}</title>
+    <title>{display_title_esc}</title>
     <link href="{link}"/>
     <id>{link}</id>
     <updated>{pub_date}</updated>
@@ -207,6 +224,10 @@ def main():
         print(f"-> Parsing {link[:40]}...")
         feed = feedparser.parse(link)
         
+        # Attempt to get the "Category" (Aggregated Feed Title)
+        # Inoreader usually puts the folder/rule name in feed.feed.title
+        feed_category = getattr(feed.feed, 'title', 'General').split(':')[-1].strip()
+
         for entry in feed.entries:
             if entry.title in existing_titles:
                 continue
@@ -218,7 +239,18 @@ def main():
             if pub_date < cutoff:
                 continue
             
-            # --- INTELLIGENT SCORING ---
+            # --- EXTRACT SOURCE FEED NAME ---
+            # Attempt 1: 'source' dictionary (common in RSS 2.0/Atom)
+            source_title = "Unknown"
+            if hasattr(entry, 'source') and hasattr(entry.source, 'title'):
+                source_title = entry.source.title
+            # Attempt 2: If the feed is NOT an aggregator, the feed title itself is the source
+            # But since you likely use an aggregator, extracting from 'source' tag is safer.
+            # If extracting fails, we might just label it "RSS" or try parsing the URL domain.
+            if source_title == "Unknown":
+                # Fallback: Extract from base URL or Feed title if not aggregated
+                source_title = "Web" 
+            
             analysis_primary = analyze_paper(entry.title, getattr(entry, 'description', ''), PRIMARY_MODEL)
             score_primary = analysis_primary['score']
             
@@ -227,17 +259,18 @@ def main():
                 analysis_shadow = analyze_paper(entry.title, getattr(entry, 'description', ''), SHADOW_MODEL)
                 score_shadow = analysis_shadow['score']
 
-            # Create Paper Object
             paper_obj = {
                 "title": entry.title,
                 "link": entry.link, 
                 "score": score_primary,
                 "summary": analysis_primary['summary'],
                 "abstract": getattr(entry, 'description', ''),
-                "published": pub_date.isoformat()
+                "published": pub_date.isoformat(),
+                # --- NEW FIELDS ---
+                "category": feed_category,
+                "feed_source": source_title
             }
 
-            # SAVE ALL (Accepted & Rejected) so we don't re-process them
             new_hits.append(paper_obj)
             existing_titles.add(entry.title)
 
@@ -250,10 +283,8 @@ def main():
 
     if new_hits:
         print(f"Processed {len(new_hits)} papers.")
-        # Prepend new hits to history
         updated_history = new_hits + history
         save_history(updated_history)
-        # Generate Feed (The function now handles the filtering internally)
         generate_manual_atom(updated_history)
     else:
         generate_manual_atom(history)
