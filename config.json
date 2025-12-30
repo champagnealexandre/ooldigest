@@ -4,7 +4,7 @@
         "https://www.inoreader.com/stream/user/1005369328/tag/keywords-astrobiology",
         "https://www.inoreader.com/stream/user/1005369328/tag/ool-ressources"
     ],
-    "model_tier": 2,
+    "model_tier": 4,
     "shadow_mode": false,
     "base_url": "https://alexandrechampagne.io/ooldigest",
     "history_file": "data/paper_history.json",

@@ -21,7 +21,7 @@ def generate_manual_atom(papers, config):
 
     for p in papers:
         score = p.get('score', 0)
-        if score < 40: continue
+        if score < 0: continue
 
         title_raw = clean_text(p.get('title', 'Untitled'))
         category = p.get('category', 'GENERAL')

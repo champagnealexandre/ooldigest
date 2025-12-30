@@ -15,7 +15,7 @@ def main():
     api_key = os.getenv("OPENROUTER_API_KEY")
     client = ai.get_client(api_key)
     
-    primary_model = ai.MODEL_MAP.get(config['model_tier'], "openai/gpt-4o-mini")
+    primary_model = ai.MODEL_MAP.get(config['model_tier'], "openai/gpt-5.2")
     shadow_model = ai.MODEL_MAP.get(1) if config['shadow_mode'] else None
     
     all_keywords = list(set(config['keywords_astro'] + config['keywords_ool']))
@@ -94,7 +94,7 @@ def main():
             new_hits.append(paper_obj)
             existing_titles.add(entry.title)
 
-            if score_primary >= 40:
+            if score_primary >= 0:
                 print(f"✅ ACCEPTED [{score_primary}]: {entry.title}")
                 utils.log_decision(entry.title, score_primary, score_shadow, "✅ Accepted", entry.link)
             else:
