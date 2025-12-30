@@ -4,189 +4,19 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T16:42:21.250386+00:00</updated>
+  <updated>2025-12-30T16:52:29.640373+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
 
   <entry>
-    <title>[60] Biochemical and structural characterization of the RlaP family nucleotidyltransferase potentially involved in RNA repair</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1</id>
-    <updated>2025-12-30T13:19:54+00:00</updated>
-    <summary>The paper is highly relevant to the origins of life field, particularly in its focus on RNA repair mechanisms, and includes several target keywords related to nucleic acids and prebiotic processes.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field, particularly in its focus on RNA repair mechanisms, and includes several target keywords related to nucleic acids and prebiotic processes.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        Nucleotidyltransferases (NTases) of Pol{beta} superfamily are highly diverse and play many important biological functions. However, many families of NTases remain uncharacterized. Because of physical proximity of the genes encoding NTases of PF10127 family to those encoding RNA ligases involved in RNA repair, PF10127 family of NTases was named RlaP (RNA ligase-associating Pol{beta}). Here we report comprehensive characterization of two RlaP from Pseudomonas fluorescens and Pseudomonas aeruginosa (PfRlaP and PaRlaP), respectively. Our study showed that, among macromolecules isolated from E. coli cells, only RNAs are the substrates of RlaP. In vitro assays employing synthetic RNAs as substrates demonstrated that RlaP catalyzes addition of one or two nucleotide monophosphate (NMP) to the 3&amp;#x27;-hydroxyl group of RNAs, with the damaged RNAs as the preferred substrates. The crystal structure of PfRlaP provided insight into molecular recognition of RNA substrate and nucleotide triphosphate (NTP) by RlaP. Aminoacylation assays indicate that RlaP is required to restore biological function of the repaired tRNAs that have suffered excessive damage. Based on our studies, we propose an in vivo scenario where cell survival requires the involvement of RlaP in RNA repair to restore the biological function of the damaged RNAs.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.29.696909v1?rss=1&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[50] Habitability Of Exoplanets Orbiting Flaring Stars</title>
-    <link href="https://www.reddit.com/r/Astrobiology/comments/1pz0wjm/habitability_of_exoplanets_orbiting_flaring_stars/"/>
-    <id>https://www.reddit.com/r/Astrobiology/comments/1pz0wjm/habitability_of_exoplanets_orbiting_flaring_stars/</id>
-    <updated>2025-12-30T10:41:09+00:00</updated>
-    <summary>The paper focuses on the habitability of exoplanets, which is directly relevant to astrobiology and the origins of life, particularly in the context of environmental conditions that may affect abiogenesis.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 50/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the habitability of exoplanets, which is directly relevant to astrobiology and the origins of life, particularly in the context of environmental conditions that may affect abiogenesis.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        submitted by /u/Galileos_grandson [link] [comments]&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://www.reddit.com/r/Astrobiology/comments/1pz0wjm/habitability_of_exoplanets_orbiting_flaring_stars/&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[60] On the comparison of models and experiments in the study of DNA open states: the problem of degrees of freedom</title>
-    <link href="https://arxiv.org/abs/2512.22160"/>
-    <id>https://arxiv.org/abs/2512.22160</id>
-    <updated>2025-12-30T05:45:45+00:00</updated>
-    <summary>The paper focuses on DNA dynamics, which is relevant to the origins of life, particularly in the context of nucleic acids, but lacks direct references to key concepts like abiogenesis or prebiotic chemistry.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on DNA dynamics, which is relevant to the origins of life, particularly in the context of nucleic acids, but lacks direct references to key concepts like abiogenesis or prebiotic chemistry.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.22160v1 Announce Type: cross Abstract: Simple mechanical models of DNA play an important role in studying the dynamics of its open states. The main requirement when developing a DNA model is the correct selection of its effective potentials and parameters based on experimental data. At the same time, various experiments allow us to &amp;quot;see&amp;quot; different types of DNA open states. Consideration of this feature is one of the most important conditions in the development, optimization, and parameterization of any mechanical model. Violation of this condition, i.e., the comparison of incomparable characteristics, leads to critical errors. The present investigation is devoted to the problem of degrees of freedom of DNA bases taken into account in mechanical models. Using the Peyrard-Bishop-Dauxois model as an example, two types of errors in interpreting experimental data when compared with the model are examined. The first one is a mismatch between the open state types in the model and experiment. The second one is an incorrect specification of the &amp;quot;threshold coordinate&amp;quot; of the open state. The concept of the effective total threshold coordinate of the radial separation of DNA strands for registration of opening is introduced. It is shown that correct interpretation of experimental data can actually eliminate discrepancies with theory.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.22160&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[90] Heuristic model on the origin of the homochirality of life</title>
-    <link href="https://arxiv.org/abs/2512.11136"/>
-    <id>https://arxiv.org/abs/2512.11136</id>
-    <updated>2025-12-30T05:42:53+00:00</updated>
-    <summary>The paper is highly relevant to the origins of life field, focusing on homochirality and prebiotic chemistry, and includes multiple target keywords related to these themes.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 90/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field, focusing on homochirality and prebiotic chemistry, and includes multiple target keywords related to these themes.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.11136v2 Announce Type: replace Abstract: Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by carbonaceous meteorites. Although the extraterrestrial ribose was initially racemic, life is homochiral, based on D-ribose and its derivatives. The phospholipid membrane high permeability to D-ribose, combined with the ribose interaction with the bilayer charged phosphate groups, leads to ribose phosphorylation, forming D-ribose-5-phosphate. Once inside, the D-ribose-5-phosphate molecules cannot cross the membrane. The catalytic action of Fe (3+ions) greatly enhances the phosphorylation rate. Overall, this process is enantioselective, substantially favoring the buildup of D-ribose over L-ribose. Through liposome fusion, fission, and self-replication, this eventually leads to the Darwinian evolution of these structures and to the conversion of D-ribose-5-phosphate into complex functional molecules, such as ribozymes and RNA, and eventually into DNA, all of which inherit D-ribose chirality.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.11136&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[70] Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222</title>
-    <link href="https://arxiv.org/abs/2512.23652"/>
-    <id>https://arxiv.org/abs/2512.23652</id>
-    <updated>2025-12-30T05:26:23+00:00</updated>
-    <summary>The paper is highly relevant to the origins of life field due to its focus on habitability and planetary systems, earning a solid score with additional points for relevant keywords.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field due to its focus on habitability and planetary systems, earning a solid score with additional points for relevant keywords.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.23652v1 Announce Type: new Abstract: This work analyzes four Sun-like double-lined spectroscopic binary (SB2) systems by combining visual and spectroscopic observational data with Al-Wardat&amp;#x27;s atmospheric modeling method to accurately determine their fundamental parameters. For each system, we determine stellar masses, orbital parallaxes, effective temperatures, spectral types, semimajor axes, and eccentricities with high precision, resolving discrepancies between astrometric and spectroscopic measurements. Moreover, we assess the potential for stable planetary orbits in these systems. We also calculate habitable zones around these binaries based on the orbital evolution of planetary orbits. These systems may represent promising targets for future extrasolar planet searches around Sun-like stars due to their robust physical and orbital parameters that can be used to determine planetary habitability and stability.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.23652&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[70] Quantum attomicroscopy: imaging quantum chemistry in action</title>
-    <link href="https://arxiv.org/abs/2512.22468"/>
-    <id>https://arxiv.org/abs/2512.22468</id>
-    <updated>2025-12-30T05:22:28+00:00</updated>
-    <summary>The paper discusses quantum chemistry processes in DNA, which is relevant to the origins of life, particularly in the context of nucleic acids and prebiotic chemistry.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses quantum chemistry processes in DNA, which is relevant to the origins of life, particularly in the context of nucleic acids and prebiotic chemistry.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.22468v1 Announce Type: new Abstract: How quantum electron and nuclei motions affect biomolecular chemical reactions remains a central challengeable question at the interface of quantum chemistry and biology. Ultrafast charge migration in deoxyribonucleic acid (DNA) has long been hypothesized to play a critical role in photochemistry, genome stability, and long-range biomolecular signaling, however, direct real-time observation of these electronic processes has remained elusive. Here, we present a theoretical investigation and propose the concept of future experimental measurements of laser-driven charge dynamics in the canonical DNA nucleobase pairs thymine_adenine and cytosine_guanine. Attosecond-resolved simulations employing high-level ab initio methods reveal base-dependent ionization mechanisms, directional charge migration pathways, and electronic coherences that govern sub-femtosecond redistribution of electron density across hydrogen-bonded nucleobase interfaces. Accordingly, we propose the concept of a quantum attosecond scanning electron microscope, termed the quantum attomicroscope (Q-attomicroscope), a capable of imaging photoinduced quantum chemistry reactions in attosecond temporal resolution and sub-nanometer spatial precision. As a proof of principle, we propose to image the charge migrations dynamics in DNA which we studied theoretically. Together, our preceptive bridges theory, instrumentation, and control, outlining a pathway toward laser mediated manipulation of DNA structure with implications for repair processes, chemical reactivity, and future personalized medicine.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.22468&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[45] Decoding the Architecture of Living Systems</title>
-    <link href="https://arxiv.org/abs/2512.22651"/>
-    <id>https://arxiv.org/abs/2512.22651</id>
-    <updated>2025-12-30T05:09:27+00:00</updated>
-    <summary>The paper discusses evolutionary dynamics and biological complexity, which is relevant to the origins of life, but lacks direct references to specific keywords related to abiogenesis or prebiotic chemistry.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses evolutionary dynamics and biological complexity, which is relevant to the origins of life, but lacks direct references to specific keywords related to abiogenesis or prebiotic chemistry.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.22651v1 Announce Type: new Abstract: The possibility that evolutionary forces -- together with a few fundamental factors such as thermodynamic constraints, specific computational features enabling information processing, and ecological processes -- might constrain the logic of living systems is tantalizing. However, it is often overlooked that any practical implementation of such a logic requires complementary circuitry that, in biological systems, happens through complex networks of genetic regulation, metabolic reactions, cellular signalling, communication, social and eusocial non-trivial organization. We review and discuss how circuitries are not merely passive structures, but active agents of change that, by means of hierarchical and modular organization, are able to enhance and catalyze the evolution of evolvability. Using statistical physics to analyze the role of non-trivial topologies in major evolutionary transitions, we show that biological innovations are related to deviation from trivial structures and (thermo)dynamic equilibria. We argue that sparse heterogeneous networks such as hierarchical modular, which are ubiquitously observed in nature, are favored in terms of the trade-off between energetic costs for redundancy, error-correction and maintainance. We identify three main features -- namely, interconnectivity, plasticity and interdependency -- pointing towards a unifying framework for modeling the phenomenology, discussing them in terms of dynamical systems theory, non-equilibrium thermodynamics and evolutionary dynamics. Within this unified picture, we also show that slow evolutionary dynamics is an emergent phenomenon governed by the replicator-mutator equation as the direct consequence of a constrained variational nonequilibrium process. Overall, this work highlights how dynamical systems theory and nonequilibrium thermodynamics provide powerful analytical techniques to study biological complexity.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.22651&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[60] Mutation in DNA: A quantum mechanical non-adiabatic model</title>
-    <link href="https://arxiv.org/abs/2512.23094"/>
-    <id>https://arxiv.org/abs/2512.23094</id>
-    <updated>2025-12-30T05:09:28+00:00</updated>
-    <summary>The paper is highly relevant to the origins of life field due to its focus on DNA mutation and quantum mechanics, earning a strong score for both relevance and keyword occurrences.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field due to its focus on DNA mutation and quantum mechanics, earning a strong score for both relevance and keyword occurrences.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.23094v1 Announce Type: new Abstract: We propose a new analytical potential function to model proton transfer in the adenine-thymine base pair and develop a non-adiabatic quantum mechanical framework to calculate genetic mutation probabilities. This potential has been used to calculate the probability of mutation in a non-adiabatic process. The results of the new model have been shown to be consistent with the findings of other researchers.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.23094&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[60] LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1</id>
-    <updated>2025-12-30T02:13:31+00:00</updated>
-    <summary>The paper is highly relevant to the origins of life field, particularly in its focus on RNA, a key molecule in prebiotic chemistry, and it includes multiple occurrences of target keywords.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field, particularly in its focus on RNA, a key molecule in prebiotic chemistry, and it includes multiple occurrences of target keywords.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        Motivation: RNA molecules adopt dynamic ensembles of secondary structures, where the local structural context of each nucleotide--such as whether it resides in a stem or a specific type of loop--strongly shapes molecular interactions and regulatory function. Structural-context probabilities therefore provide a more functionally informative view of RNA folding than the minimum free energy structures or base-pairing probabilities. However, existing tools either require O(N3) time or employ span-restricted approximations that omit long-range base-pairs, limiting their applicability to large and biologically important RNAs. Results: We introduce LinearCapR, enabling linear-time, span-unrestricted computation of structural-context marginalized probabilities, using beam-pruned Stochastic Context Free Grammar-based computation. LinearCapR retains global ensemble features lost by span-limited methods and yields superior predictive power on bpRNA-1m(90) dataset, especially for multiloops and exterior regions, as well as long-distance stems. LinearCapR supports analysis of long RNAs, demonstrated on the full genome of SARS-CoV-2. Conclusions: LinearCapR provides the first base-pair-span-unrestricted, linear-time framework for RNA structural context analysis, retaining key thermodynamic ensemble features essential for functional interpretation. It enables large-scale studies of viral genomes, long non-coding RNAs, and downstream analyses such as RNA-binding protein site prediction. Availability: The source code of LinearCapR is available at https://github.com/hoget157/LinearCapR.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[70] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
-    <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
-    <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
-    <updated>2025-12-29T18:35:40+00:00</updated>
-    <summary>The paper focuses on the evolution of a specific protein related to early metabolic processes, making it highly relevant to the origins of life, and includes keywords related to abiogenesis and evolution.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the evolution of a specific protein related to early metabolic processes, making it highly relevant to the origins of life, and includes keywords related to abiogenesis and evolution.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron–sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient […] The post Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold appeared first on Astrobiology .&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[40] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
+    <title>[60] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
     <link href="https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html"/>
     <id>https://astrobiology.com/2025/12/the-evolution-in-coma-molecular-composition-of-comet-c-2017-k2-panstarrs-across-the-h2o-sublimation-zone-alma-imaging-of-an-h2o-dominated-coma.html</id>
     <updated>2025-12-29T19:34:52+00:00</updated>
-    <summary>The paper is relevant to the origins of life field due to its focus on cometary volatiles and their implications for prebiotic chemistry, but it lacks direct mentions of the target keywords.</summary>
+    <summary>The paper explores the molecular composition of comet C/2017 K2, relevant to astrobiology and origins of life through its focus on water and astrochemistry.</summary>
     <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 40/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is relevant to the origins of life field due to its focus on cometary volatiles and their implications for prebiotic chemistry, but it lacks direct mentions of the target keywords.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper explores the molecular composition of comet C/2017 K2, relevant to astrobiology and origins of life through its focus on water and astrochemistry.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
         We report a survey of molecular emission from cometary volatiles using the Atacama Large Millimeter/Submillimeter Array (ALMA) toward comet C/2017 K2 (PanSTARRS) carried out on UT 2022 September 21, 22, and 23 at a heliocentric distance (rh) of 2.1 au. These measurements of HCN, CS, CO, CH3OH, and H2CO (along with continuum emission from dust) […] The post The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma appeared first on Astrobiology .&lt;br/&gt;
@@ -196,70 +26,19 @@
   </entry>
 
   <entry>
-    <title>[40] Stardust Study Resets How Life’s Atoms Spread Through Space</title>
-    <link href="https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html"/>
-    <id>https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html</id>
-    <updated>2025-12-29T19:34:53+00:00</updated>
-    <summary>The paper discusses the transport of life&#x27;s building blocks through space, which is relevant to the origins of life, but lacks specific target keywords.</summary>
+    <title>[60] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
+    <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
+    <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
+    <updated>2025-12-29T18:35:40+00:00</updated>
+    <summary>The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and mentions evolution, which is a target keyword.</summary>
     <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 40/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the transport of life&amp;#x27;s building blocks through space, which is relevant to the origins of life, but lacks specific target keywords.&lt;br/&gt;
+        &lt;strong&gt;Score:&lt;/strong&gt; 60/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper focuses on the evolution of bacterial ferredoxin folds, a core topic in the origins of life, and mentions evolution, which is a target keyword.&lt;br/&gt;
         &lt;hr/&gt;
         &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        Starlight and stardust are not enough to drive the powerful winds of giant stars, transporting the building blocks of life through our galaxy. That’s the conclusion of a new study from Chalmers University of Technology, Sweden, of red giant star R Doradus. The result overturns a long-held idea about how the atoms needed for life […] The post Stardust Study Resets How Life’s Atoms Spread Through Space appeared first on Astrobiology .&lt;br/&gt;
+        Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron–sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient […] The post Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold appeared first on Astrobiology .&lt;br/&gt;
         &lt;br/&gt;
-        &lt;a href=&quot;https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[40] Snowball Bistability Vanishes at Moderate Orbital Eccentricity</title>
-    <link href="https://arxiv.org/abs/2509.08994"/>
-    <id>https://arxiv.org/abs/2509.08994</id>
-    <updated>2025-12-29T05:46:20+00:00</updated>
-    <summary>The paper discusses climate bistability related to Snowball episodes, which is relevant to habitability and the development of complex life on exoplanets, but lacks direct focus on core origins of life concepts.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 40/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses climate bistability related to Snowball episodes, which is relevant to habitability and the development of complex life on exoplanets, but lacks direct focus on core origins of life concepts.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2509.08994v2 Announce Type: replace Abstract: Snowball episodes are associated with increases in atmospheric oxygen and the complexity of life on Earth, and they may be essential for the development of complex life on exoplanets. Sustained, stable Snowball episodes require a Snowball bifurcation and climate bistability between the globally ice-covered Snowball state and a state with at least some open ocean. We find that climate bistability disappears for an aquaplanet with a slab ocean in the global climate model ExoCAM when the orbital eccentricity is increased to 0.2-0.3. This happens because the Snowball state ceases to exist as seasonal insolation variations intensify, while the warm state remains stable due to the ocean&amp;#x27;s large heat capacity. We use a low-order ice-thermodynamic model to show that the Snowball state ceases to exist as seasonality increases because winter freezing at the ice bottom is reduced relative to summer melting at the ice top due to ice self-insulation. Combined with previous research showing that Snowball climate bistability diminishes for planets orbiting low-mass stars and ones with longer rotation periods, and that it disappears entirely for tidally locked planets, our work suggests that the Snowball climate bistability may not be as robust to planetary parameters as previously thought, representing one aspect of habitability more consistent with the rare Earth hypothesis than the Copernican principle.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2509.08994&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[70] Habitability of exoplanets orbiting flaring stars</title>
-    <link href="https://arxiv.org/abs/2512.21357"/>
-    <id>https://arxiv.org/abs/2512.21357</id>
-    <updated>2025-12-29T05:46:21+00:00</updated>
-    <summary>The paper is highly relevant to the origins of life field, focusing on the habitability of exoplanets, particularly those orbiting flaring stars, and includes keywords related to habitability and astrobiology.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 70/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to the origins of life field, focusing on the habitability of exoplanets, particularly those orbiting flaring stars, and includes keywords related to habitability and astrobiology.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.21357v1 Announce Type: cross Abstract: As of late 2025 there are about 70 exoplanets that meet the formal criterion of having equilibrium temperatures allowing the presence of liquid water and about 50 of them orbit M-stars, known for their strong chromospheric activity. Most of these stars are close to the Sun and the planet-to-star mass and luminosity ratios are advantageous, allowing for a more detailed follow-up than of planets orbiting hotter and more massive stars. Many more planets orbiting late-type stars are expected to be discovered by Gaia and PLATO in the following years. However, the lingering question remains whether the UV and X-ray emission, associated with the stellar activity, allows for complex life. A comprehensive study focused on properties of flaring exoplanet hosts and their activity, on a much larger scale than these few tens (soon to become hundreds) of stars with habitable planets is called for, to answer the question if such stars can harbor habitable planets. The proposed Wide Field Survey telescope is well suited for this study.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.21357&quot;&gt;Read Full Paper&lt;/a&gt;
-        </content>
-  </entry>
-
-  <entry>
-    <title>[45] High-energy astrochemistry in the molecular interstellar medium</title>
-    <link href="https://arxiv.org/abs/2512.10060"/>
-    <id>https://arxiv.org/abs/2512.10060</id>
-    <updated>2025-12-29T05:46:22+00:00</updated>
-    <summary>The paper is highly relevant to astrochemistry and its implications for the origins of life, particularly through the study of complex organic molecules and energetic processes, but it lacks direct references to many specific target keywords.</summary>
-    <content type="html">
-        &lt;strong&gt;Score:&lt;/strong&gt; 45/100&lt;br/&gt;
-        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper is highly relevant to astrochemistry and its implications for the origins of life, particularly through the study of complex organic molecules and energetic processes, but it lacks direct references to many specific target keywords.&lt;br/&gt;
-        &lt;hr/&gt;
-        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
-        arXiv:2512.10060v2 Announce Type: replace-cross Abstract: In the past decade, there has been a significant shift in astrochemistry with a renewed focus on the role of non-thermal processes on the molecular interstellar medium, in particular energetic particles (such as cosmic ray particles and fast electrons) and X-ray radiation. This has been brought about in large part due to new observations of interstellar complex organic molecules (iCOMS) in environments that would inhibit their formation, such as cold, dense gas in prestellar cores or in the highly energetic environments in galactic centers. In parallel, there has been a plethora of new laboratory investigations on the role of high-energy radiation and electrons on the chemistry of astrophysical ices, demonstrating the ability of this radiation to induce complex chemistry. In recent years, theoretical models have also begun to include newer cosmic-ray-driven processes in both the gas and ice phases. In this review, we unify aspects of the chemistry driven by X-ray radiation and energetic particles into a ``high-energy astrochemistry&amp;#x27;&amp;#x27;, defining this term and reviewing the underlying chemical processes. We conclude by examining various laboratories where high-energy astrochemistry is at play and identify future issues to be tackled.&lt;br/&gt;
-        &lt;br/&gt;
-        &lt;a href=&quot;https://arxiv.org/abs/2512.10060&quot;&gt;Read Full Paper&lt;/a&gt;
+        &lt;a href=&quot;https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html&quot;&gt;Read Full Paper&lt;/a&gt;
         </content>
   </entry>
 </feed>
