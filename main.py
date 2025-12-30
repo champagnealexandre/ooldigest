@@ -4,6 +4,7 @@ import json
 import datetime
 from openai import OpenAI
 from feedgen.feed import FeedGenerator
+from html import escape # Add this import at the top of your file if missing
 
 # --- Configuration ---
 RSS_URL = os.getenv("RSS_URL") 
@@ -57,42 +58,41 @@ def save_history(data):
         json.dump(data[:50], f, indent=2)
 
 def generate_rss(papers):
-    # Hardcoded to your specific repo details
-    username = "champagnealexandre"
-    repo = "ooldigest"
-    
-    # KEEPING 'feed.xml'
-    feed_url = f'https://{username}.github.io/{repo}/feed.xml'
+    # 1. FIX THE DOMAIN (Solves "Self reference" error)
+    base_url = "https://alexandrechampagne.io/ooldigest"
+    feed_url = f"{base_url}/feed.xml"
 
     fg = FeedGenerator()
     fg.id(feed_url)
     fg.title('Astrobiology AI Digest')
     fg.author({'name': 'AI Agent'})
+    
+    # Link to the feed itself (Must match the browser URL exactly)
     fg.link(href=feed_url, rel='self')
-    fg.link(href=f'https://github.com/{username}/{repo}', rel='alternate')
+    # Link to the website/repo
+    fg.link(href="https://github.com/champagnealexandre/ooldigest", rel='alternate')
+    
     fg.subtitle('Hourly AI-curated papers on Origins of Life')
 
     for p in papers:
         fe = fg.add_entry()
         fe.id(p['link'])
         
-        # Crash protection
         score = p.get('score', 0)
         category = p.get('category', 'Unclassified')
         title = p.get('title', 'Untitled')
         summary = p.get('summary', 'No summary.')
-        
-        # Clean abstract (Plain text only)
         raw_abstract = p.get('abstract', '')
+        
+        # Clean abstract to plain text
         clean_abstract = BeautifulSoup(raw_abstract, "html.parser").get_text(separator=' ')
 
         fe.title(f"[{score}] [{category}] {title}")
         fe.link(href=p['link'])
         fe.summary(summary)
         
-        # STRICT HTML FIX:
-        # No <p> or <div> tags allowed. Using <br/> for structure.
-        content = f"""
+        # 2. BUILD HTML STRING
+        html_content = f"""
         <strong>Score:</strong> {score}/100 | <strong>Category:</strong> {category}<br/>
         <strong>AI Summary:</strong> {summary}<br/>
         <hr/>
@@ -102,13 +102,17 @@ def generate_rss(papers):
         <a href="{p['link']}">Read Full Paper</a>
         """
         
-        fe.content(content, type='html')
+        # 3. ESCAPE IT (The Fix)
+        # We explicitly escape the HTML so the XML parser sees it as safe text.
+        # Feedly will decode this back into HTML for the reader.
+        escaped_content = escape(html_content)
+        
+        fe.content(escaped_content, type='html')
         
         if 'published' in p:
             fe.published(p['published'])
             fe.updated(p['published'])
 
-    # Write to feed.xml (Atom format)
     fg.atom_file(FEED_FILE)
 
 def main():
