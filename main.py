@@ -13,7 +13,7 @@ HISTORY_FILE = "paper_history.json"
 BASE_URL = "https://alexandrechampagne.io/ooldigest"
 FEED_URL = f"{BASE_URL}/feed.xml"
 
-# KEYWORDS FROM YOUR IMAGES
+# KEYWORDS
 KEYWORDS_ASTRO = [
     "astrobiological", "astrobiology", "astrochemistry", "biosignature", 
     "exoplanet", "habitability", "habitable", "mars", "planetesimal", "venus"
@@ -26,7 +26,6 @@ KEYWORDS_OOL = [
     "multicellularity", "abiogenesis"
 ]
 
-# Combine and deduplicate
 ALL_KEYWORDS = list(set(KEYWORDS_ASTRO + KEYWORDS_OOL))
 
 client = OpenAI(api_key=OPENAI_API_KEY)
@@ -50,38 +49,36 @@ def log_decision(title, score, action, link):
         f.write(entry)
 
 def analyze_paper(title, abstract):
-    # We inject the keyword list directly into the prompt
     keywords_str = ", ".join(ALL_KEYWORDS)
     
     prompt = f"""
-    Role: Senior Astrobiologist & Editor.
-    Task: Evaluate this paper's relevance to an 'Origins of Life' (OoL) research digest.
+    Role: Senior Astrobiologist.
+    Task: Score this paper for an 'Origins of Life' digest based on strict criteria.
     
     Paper: "{title}"
     Abstract: "{abstract}"
     
-    Priority Keywords (Boost score if present):
+    Target Keywords:
     {keywords_str}
     
-    Scoring Instructions (Calculate the final score starting at 0):
+    SCORING RUBRIC (Total /100):
     
-    1. RELEVANCE (Max 50 pts):
-       - +0: Unrelated field.
-       - +10: Broad context (e.g., general planetology).
-       - +30: Connected fields (e.g., extremophiles, simple organics).
-       - +50: Direct OoL focus (abiogenesis, prebiotic chemistry).
-       *BONUS: If it contains Priority Keywords, ensure this section is at least +30.*
+    1. RELEVANCE & KEYWORD DENSITY (Max 60 pts):
+       - Base Score (0-30):
+          * +0: Unrelated field.
+          * +10: Broad context (e.g., general planetology).
+          * +30: Direct OoL focus (abiogenesis, prebiotic chemistry).
+       - Keyword Bonus (0-30):
+          * Count occurrences of Target Keywords in the Title/Abstract.
+          * Add +5 points for each occurrence (e.g., 3 mentions = +15).
+          * Cap this bonus at 30 points.
        
-    2. SPECIFICITY (Max 30 pts):
-       - +0: Vague/Generic.
-       - +15: Specific data but peripheral topic.
-       - +30: Novel experimental result or core theory.
-       
-    3. IMPACT (Max 20 pts):
-       - +0-20: Subjective significance to the field.
+    2. SPECIFICITY (Max 40 pts):
+       - +0: Generic review or vague discussion.
+       - +20: Specific data/model but peripheral topic.
+       - +40: Novel experimental result or core theory breakthrough.
     
-    CRITICAL: Sum these points. Output the EXACT integer (e.g., 63, 78, 94).
-    
+    CALCULATION: Sum (Relevance Base + Keyword Bonus + Specificity).
     Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
     """
     
