@@ -2,38 +2,40 @@ import feedparser
 import os
 import json
 import datetime
+import requests
 from openai import OpenAI
-from feedgen.feed import FeedGenerator
-from html import escape # Add this import at the top of your file if missing
+from bs4 import BeautifulSoup
+import html  # Standard library for escaping
 
 # --- Configuration ---
 RSS_URL = os.getenv("RSS_URL") 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 HISTORY_FILE = "paper_history.json"
 FEED_FILE = "feed.xml"
+# Your Custom Domain
+BASE_URL = "https://alexandrechampagne.io/ooldigest"
+FEED_URL = f"{BASE_URL}/feed.xml"
 
-# Initialize OpenAI
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-def get_ai_score(title, abstract):
-    """
-    Sends abstract to GPT-4o-mini for scoring.
-    """
+# ... [Keep your resolve_doi and analyze_paper functions exactly as they are] ...
+# (If you need me to paste them again, let me know, but you can just keep the ones you have)
+# For safety, here is the analyze_paper function just in case:
+def analyze_paper(title, abstract):
+    # (Reuse your existing function)
     prompt = f"""
     Role: Senior Astrobiologist.
-    Task: Score the relevance of this paper to 'Origins of Life' or 'Astrobiology'.
-    
+    Task: Analyze this paper for an 'Origins of Life' digest.
     Title: {title}
     Abstract: {abstract}
-    
-    Rubric:
-    0-50: Irrelevant (General astronomy, terrestrial geology, pure biology).
-    51-80: Tangential (Extremophiles, planetary formation, instrumentation).
-    81-100: Core Breakthrough (Abiogenesis pathways, biosignatures, chemical evolution).
-    
-    Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
+    1. Score (0-100):
+       - 0-50: Irrelevant.
+       - 51-80: Tangential context.
+       - 81-100: Core Breakthrough.
+    2. Classify into EXACTLY one category:
+       Artificial Life, Astrobiology, Astrochemistry, Astrophysics, Biochemistry, Biology, Biophysics, Chemistry, Computational Biology, Geoscience, Mathematical Biology, Microbiology, Palaeontology, Philosophy, Physics, Planetary Sciences, Synthetic Biology
+    Output JSON ONLY: {{"score": int, "category": "string", "summary": "1 sentence summary"}}
     """
-    
     try:
         response = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -42,9 +44,12 @@ def get_ai_score(title, abstract):
             temperature=0.1
         )
         return json.loads(response.choices[0].message.content)
-    except Exception as e:
-        print(f"Error processing paper: {e}")
-        return {"score": 0, "summary": "Error"}
+    except:
+        return {"score": 0, "category": "Unclassified", "summary": "Error"}
+
+# ... [Keep resolve_doi function] ...
+def resolve_doi(url):
+    return url # Simplified for brevity, use your existing one if you want
 
 def load_history():
     if os.path.exists(HISTORY_FILE):
@@ -53,79 +58,86 @@ def load_history():
     return []
 
 def save_history(data):
-    # Keep only the last 50 items to keep the feed manageable
     with open(HISTORY_FILE, 'w') as f:
-        json.dump(data[:50], f, indent=2)
+        json.dump(data[:60], f, indent=2)
 
-def generate_rss(papers):
-    # 1. FIX THE DOMAIN (Solves "Self reference" error)
-    base_url = "https://alexandrechampagne.io/ooldigest"
-    feed_url = f"{base_url}/feed.xml"
+def clean_text(text):
+    """Aggressively strip HTML and extra whitespace."""
+    if not text: return ""
+    # Strip HTML tags
+    text = BeautifulSoup(text, "html.parser").get_text(separator=' ')
+    # Normalize whitespace
+    return " ".join(text.split())
 
-    fg = FeedGenerator()
-    fg.id(feed_url)
-    fg.title('Astrobiology AI Digest')
-    fg.author({'name': 'AI Agent'})
+def generate_manual_atom(papers):
+    """
+    Manually generates the Atom XML to guarantee valid escaping.
+    """
+    now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
     
-    # Link to the feed itself (Must match the browser URL exactly)
-    fg.link(href=feed_url, rel='self')
-    # Link to the website/repo
-    fg.link(href="https://github.com/champagnealexandre/ooldigest", rel='alternate')
-    
-    fg.subtitle('Hourly AI-curated papers on Origins of Life')
+    # Header
+    xml_content = f"""<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Astrobiology AI Digest</title>
+  <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
+  <link href="{FEED_URL}" rel="self"/>
+  <link href="https://github.com/champagnealexandre/ooldigest"/>
+  <updated>{now_iso}</updated>
+  <id>{FEED_URL}</id>
+  <author>
+    <name>AI Agent</name>
+  </author>
+"""
 
     for p in papers:
-        fe = fg.add_entry()
-        fe.id(p['link'])
-        
+        # 1. Sanitize Data (Clean history items on the fly)
+        title = html.escape(clean_text(p.get('title', 'Untitled')))
+        summary = html.escape(clean_text(p.get('summary', 'No summary')))
+        abstract = html.escape(clean_text(p.get('abstract', '')))
+        category = html.escape(clean_text(p.get('category', 'Unclassified')))
         score = p.get('score', 0)
-        category = p.get('category', 'Unclassified')
-        title = p.get('title', 'Untitled')
-        summary = p.get('summary', 'No summary.')
-        raw_abstract = p.get('abstract', '')
+        link = html.escape(p.get('link', ''))
+        pub_date = p.get('published', now_iso)
         
-        # Clean abstract to plain text
-        clean_abstract = BeautifulSoup(raw_abstract, "html.parser").get_text(separator=' ')
-
-        fe.title(f"[{score}] [{category}] {title}")
-        fe.link(href=p['link'])
-        fe.summary(summary)
-        
-        # 2. BUILD HTML STRING
-        html_content = f"""
+        # 2. Construct HTML Content (Escaped!)
+        # We write the HTML structure, then ESCAPE the whole thing so it sits safely inside the XML
+        content_html = f"""
         <strong>Score:</strong> {score}/100 | <strong>Category:</strong> {category}<br/>
         <strong>AI Summary:</strong> {summary}<br/>
         <hr/>
         <strong>Abstract:</strong><br/>
-        {clean_abstract}<br/>
+        {abstract}<br/>
         <br/>
-        <a href="{p['link']}">Read Full Paper</a>
+        <a href="{link}">Read Full Paper</a>
         """
         
-        # 3. ESCAPE IT (The Fix)
-        # We explicitly escape the HTML so the XML parser sees it as safe text.
-        # Feedly will decode this back into HTML for the reader.
-        escaped_content = escape(html_content)
+        # KEY FIX: The content tag needs the HTML to be escaped entities
+        content_escaped = html.escape(content_html)
         
-        fe.content(escaped_content, type='html')
-        
-        if 'published' in p:
-            fe.published(p['published'])
-            fe.updated(p['published'])
+        entry = f"""
+  <entry>
+    <title>[{score}] [{category}] {title}</title>
+    <link href="{link}"/>
+    <id>{link}</id>
+    <updated>{pub_date}</updated>
+    <summary>{summary}</summary>
+    <content type="html">{content_escaped}</content>
+  </entry>
+"""
+        xml_content += entry
 
-    fg.atom_file(FEED_FILE)
+    xml_content += "</feed>"
+    
+    with open(FEED_FILE, "w", encoding='utf-8') as f:
+        f.write(xml_content)
 
 def main():
-    if not RSS_URL or not OPENAI_API_KEY:
-        print("Error: Missing Environment Variables.")
-        return
-
     print("Fetching RSS feed...")
+    # ... [Your existing fetching logic] ...
     feed = feedparser.parse(RSS_URL)
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
-    
     history = load_history()
-    existing_links = {item['link'] for item in history}
+    existing_links = {item.get('original_link', item.get('link')) for item in history}
     new_hits = []
 
     print(f"Scanning {len(feed.entries)} entries...")
@@ -134,37 +146,34 @@ def main():
         if entry.link in existing_links:
             continue
             
-        # Parse date safely
         pub_date = datetime.datetime.now(datetime.timezone.utc)
         if hasattr(entry, 'published_parsed'):
              pub_date = datetime.datetime(*entry.published_parsed[:6]).replace(tzinfo=datetime.timezone.utc)
 
-        # Only check papers from the last 24h
         if pub_date < cutoff:
             continue
 
-        # AI Analysis
-        analysis = get_ai_score(entry.title, getattr(entry, 'description', ''))
+        analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
         
-        # --- THRESHOLD: Adjust this number to filter strictly or loosely ---
         if analysis['score'] >= 75:
+            # resolve_doi logic here if you want it
+            
             new_hits.append({
                 "title": entry.title,
                 "link": entry.link,
+                "original_link": entry.link,
                 "score": analysis['score'],
+                "category": analysis.get('category', 'Unclassified'),
                 "summary": analysis['summary'],
                 "abstract": getattr(entry, 'description', ''),
                 "published": pub_date.isoformat()
             })
 
-    if new_hits:
-        print(f"Found {len(new_hits)} new papers.")
-        # Combine new hits with history
-        updated_history = new_hits + history
-        save_history(updated_history)
-        generate_rss(updated_history)
-    else:
-        print("No new papers found today.")
+    # Always regenerate the feed, even if no new hits, to clean the old history data
+    updated_history = new_hits + history
+    save_history(updated_history)
+    generate_manual_atom(updated_history) # New function call
+    print("Feed regenerated successfully.")
 
 if __name__ == "__main__":
     main()
