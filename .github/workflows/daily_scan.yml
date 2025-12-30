@@ -2,14 +2,25 @@ name: Hourly Paper Scan
 
 on:
   schedule:
-    - cron: '0 * * * *' # Hourly
-  workflow_dispatch:      # Manual trigger
+    - cron: '0 * * * *'  # Hourly
+  workflow_dispatch:       # Manual trigger button
 
+# Grant permissions to write to the Repo AND deploy to Pages
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+# Define the deployment environment to prevent "stuck" jobs
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  scan-and-commit:
+  scan-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     
     steps:
@@ -22,20 +33,34 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        # We install dependencies AND requests (just in case it's missing)
         run: |
           pip install feedparser openai requests beautifulsoup4
 
-      - name: Run AI Scanner
+      # 1. RUN THE SCRIPT
+      - name: Run AI Scanner (Dual Model)
         env:
           RSS_URL: ${{ secrets.RSS_URL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python main.py
 
-      - name: Commit Feed and Logs
-        # This is the fix. We force-commit the feed.xml so GitHub sees it.
+      # 2. COMMIT THE FILE (For your records)
+      - name: Commit Feed to Repo
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add paper_history.json feed.xml logs/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update feed and logs" && git push)
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update feed" && git push)
+
+      # 3. DEPLOY TO LIVE SITE
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
