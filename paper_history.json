@@ -1,0 +1,26 @@
+[
+  {
+    "title": "LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits",
+    "link": "https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1",
+    "score": 81,
+    "summary": "The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology.",
+    "abstract": "<p><img alt=\"biorxiv_logo_homepage7-5-small.png\" src=\"https://www.biorxiv.org/sites/default/files/images/biorxiv_logo_homepage7-5-small.png\" /></p>Motivation: RNA molecules adopt dynamic ensembles of secondary structures, where the local structural context of each nucleotide--such as whether it resides in a stem or a specific type of loop--strongly shapes molecular interactions and regulatory function. Structural-context probabilities therefore provide a more functionally informative view of RNA folding than the minimum free energy structures or base-pairing probabilities. However, existing tools either require O(N3) time or employ span-restricted approximations that omit long-range base-pairs, limiting their applicability to large and biologically important RNAs. Results: We introduce LinearCapR, enabling linear-time, span-unrestricted computation of structural-context marginalized probabilities, using beam-pruned Stochastic Context Free Grammar-based computation. LinearCapR retains global ensemble features lost by span-limited methods and yields superior predictive power on bpRNA-1m(90) dataset, especially for multiloops and exterior regions, as well as long-distance stems. LinearCapR supports analysis of long RNAs, demonstrated on the full genome of SARS-CoV-2. Conclusions: LinearCapR provides the first base-pair-span-unrestricted, linear-time framework for RNA structural context analysis, retaining key thermodynamic ensemble features essential for functional interpretation. It enables large-scale studies of viral genomes, long non-coding RNAs, and downstream analyses such as RNA-binding protein site prediction. Availability: The source code of LinearCapR is available at https://github.com/hoget157/LinearCapR.",
+    "published": "2025-12-30T02:13:31+00:00"
+  },
+  {
+    "title": "Stardust Study Resets How Life\u2019s Atoms Spread Through Space",
+    "link": "https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html",
+    "score": 81,
+    "summary": "The study provides insights into the distribution of life's building blocks in space, which is relevant to understanding the chemical evolution necessary for the origins of life.",
+    "abstract": "<p>Starlight and stardust are not enough to drive the powerful winds of giant stars, transporting the building blocks of life through our galaxy. That\u2019s the conclusion of a new study from Chalmers University of Technology, Sweden, of red giant star R Doradus. The result overturns a long-held idea about how the atoms needed for life [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/stardust-study-resets-how-lifes-atoms-spread-through-space.html\">Stardust Study Resets How Life\u2019s Atoms Spread Through Space</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-29T19:34:52+00:00"
+  },
+  {
+    "title": "Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold",
+    "link": "https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html",
+    "score": 85,
+    "summary": "The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.",
+    "abstract": "<p>Electron transfer coupled to redox chemistry is at the heart of metabolism. The proteins responsible for moving electrons (protein electron carriers) must have emerged at the origin of life. The small iron\u2013sulfur-binding bacterial ferredoxins were likely among these first proteins. Embedded within the ferredoxin sequence and structure is a symmetry that points to an ancient [\u2026]</p> \n<p>The post <a href=\"https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html\">Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "published": "2025-12-29T18:35:40+00:00"
+  }
+]
