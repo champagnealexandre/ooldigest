@@ -4,9 +4,162 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/feed.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2025-12-30T03:45:05.904369+00:00</updated>
+  <updated>2025-12-30T03:54:34.139574+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/feed.xml</id>
   <author><name>AI Agent</name></author>
+
+  <entry>
+    <title>[85] [85] [Astrobiology] The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma</title>
+    <link href="https://doi.org/10.48550/arXiv.2511.05662"/>
+    <id>https://doi.org/10.48550/arXiv.2511.05662</id>
+    <updated>2025-12-30T03:45:19+00:00</updated>
+    <summary>This study investigates the molecular composition of comet C/2017 K2, emphasizing the role of water sublimation in understanding the origins of life in the solar system.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 85/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; This study investigates the molecular composition of comet C/2017 K2, emphasizing the role of water sublimation in understanding the origins of life in the solar system.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Score: 85/100 | Category: Astrobiology AI Summary: This study provides insights into the molecular composition of comet C/2017 K2, highlighting the significance of water sublimation and its implications for understanding the origins of life in the solar system. Abstract: We report a survey of molecular emission from cometary volatiles using the Atacama Large Millimeter/Submillimeter Array (ALMA) toward comet C/2017 K2 (PanSTARRS) carried out on UT 2022 September 21, 22, and 23 at a heliocentric distance (rh) of 2.1 au. These measurements of HCN, CS, CO, CH3OH, and H2CO (along with continuum emission from dust) […] The post The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) Across the H2O Sublimation Zone: ALMA Imaging of an H2O-Dominated Coma appeared first on Astrobiology . Read Full Paper&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.05662&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[81] [81] [Computational Biology] RAMBO: Resolving Amplicons in Mixed Samples for Accurate DNA Barcoding with Oxford Nanopore</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1</id>
+    <updated>2025-12-30T03:45:20+00:00</updated>
+    <summary>The paper introduces a novel DNA barcoding pipeline utilizing Nanopore sequencing that enhances species identification accuracy in complex biological samples, which is crucial for understanding biodiversity and potential biosignatures in astrobiological contexts.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper introduces a novel DNA barcoding pipeline utilizing Nanopore sequencing that enhances species identification accuracy in complex biological samples, which is crucial for understanding biodiversity and potential biosignatures in astrobiological contexts.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Score: 81/100 | Category: Computational Biology AI Summary: The paper presents a novel pipeline for DNA barcoding using Nanopore sequencing that effectively resolves mixed sequence signals, enhancing the accuracy of species identification in complex biological samples. Abstract: DNA barcoding, the use of short genetic markers to identify and differentiate species, is a foundational tool in ecological and taxonomic research. The method has scaled rapidly with next-generation sequencing technologies, enabling the processing of thousands of specimens in parallel. Nanopore sequencing offers a flexible, low-cost alternative to other platforms, producing full-length reads in real time and supporting applications in remote settings. However, its comparatively high error rate complicates downstream processing, particularly when PCR co-amplifies multiple templates from a single specimen, reflecting pseudogenes, paralogs, or contaminants. We present a novel pipeline for DNA barcoding that resolves mixed sequence signals from Nanopore reads using unsupervised clustering and staged consensus generation, without relying on curated reference databases, taxonomic priors, or error models. Unlike existing approaches to curate Nanopore sequence data that assume a single dominant amplicon per sample or require large sequence divergence among amplicons, our method distinguishes variants differing by 0.15 percent. It combines column-weighted encodings, UMAP projection, and HDBSCAN clustering, followed by conservative consensus refinement. The pipeline was benchmarked and validated using datasets with known composition, including high-fidelity PacBio sequences. The results show that Nanopore barcoding, when paired with appropriate analysis tools, can recover biologically meaningful variation even in technically complex samples. The pipeline is particularly suited for specimens where divergent templates are often co-amplified, including mitochondrial pseudogenes or multicopy nuclear regions like ITS. As such, it provides a generalizable framework for high-resolution Nanopore analysis of complex amplicon data. Read Full Paper&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.29.694971v1?rss=1&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[81] [81] [Unclassified] LinearCapR: Linear-time computation of per-nucleotide structural-context probabilities of RNA without base-pair span limits</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1</id>
+    <updated>2025-12-30T03:45:21+00:00</updated>
+    <summary>The paper introduces LinearCapR, a computational tool that enhances RNA structural analysis by providing linear-time, span-unrestricted probabilities of structural contexts, which is crucial for understanding RNA&#x27;s role in abiogenesis.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper introduces LinearCapR, a computational tool that enhances RNA structural analysis by providing linear-time, span-unrestricted probabilities of structural contexts, which is crucial for understanding RNA&amp;#x27;s role in abiogenesis.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        Score: 81/100 | Category: Unclassified AI Summary: The paper presents a novel computational tool for RNA structural analysis, which is relevant to understanding the molecular mechanisms that could inform abiogenesis pathways in astrobiology. Abstract: Motivation: RNA molecules adopt dynamic ensembles of secondary structures, where the local structural context of each nucleotide--such as whether it resides in a stem or a specific type of loop--strongly shapes molecular interactions and regulatory function. Structural-context probabilities therefore provide a more functionally informative view of RNA folding than the minimum free energy structures or base-pairing probabilities. However, existing tools either require O(N3) time or employ span-restricted approximations that omit long-range base-pairs, limiting their applicability to large and biologically important RNAs. Results: We introduce LinearCapR, enabling linear-time, span-unrestricted computation of structural-context marginalized probabilities, using beam-pruned Stochastic Context Free Grammar-based computation. LinearCapR retains global ensemble features lost by span-limited methods and yields superior predictive power on bpRNA-1m(90) dataset, especially for multiloops and exterior regions, as well as long-distance stems. LinearCapR supports analysis of long RNAs, demonstrated on the full genome of SARS-CoV-2. Conclusions: LinearCapR provides the first base-pair-span-unrestricted, linear-time framework for RNA structural context analysis, retaining key thermodynamic ensemble features essential for functional interpretation. It enables large-scale studies of viral genomes, long non-coding RNAs, and downstream analyses such as RNA-binding protein site prediction. Availability: The source code of LinearCapR is available at https://github.com/hoget157/LinearCapR. Read Full Paper&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://www.biorxiv.org/content/10.64898/2025.12.26.696559v1?rss=1&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[75] Why Estimating η⊕ Is Difficult: A Kepler-Centric Perspective</title>
+    <link href="https://doi.org/10.48550/arXiv.2511.05658"/>
+    <id>https://doi.org/10.48550/arXiv.2511.05658</id>
+    <updated>2025-12-29T18:35:40+00:00</updated>
+    <summary>The paper discusses the challenges in estimating the occurrence rate of rocky habitable zone exoplanets, which is relevant to understanding potential sites for abiogenesis.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 75/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the challenges in estimating the occurrence rate of rocky habitable zone exoplanets, which is relevant to understanding potential sites for abiogenesis.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        η⊕, the occurrence rate of rocky habitable zone exoplanets orbiting Sun-like stars, is of great interest to both the astronomical community and the general public. The Kepler space telescope has made it possible to estimate η⊕, but estimates by different groups vary by more than an order of magnitude. We identify several causes for this […] The post Why Estimating η⊕ Is Difficult: A Kepler-Centric Perspective appeared first on Astrobiology .&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://doi.org/10.48550/arXiv.2511.05658&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[81] Elemental abundance pattern and temperature inversion on the dayside of HAT-P-70b observed with CARMENES and PEPSI</title>
+    <link href="https://arxiv.org/abs/2512.21470"/>
+    <id>https://arxiv.org/abs/2512.21470</id>
+    <updated>2025-12-29T05:46:20+00:00</updated>
+    <summary>The study of HAT-P-70b&#x27;s atmosphere reveals significant insights into elemental abundances and thermal profiles, suggesting processes relevant to planet formation and potential implications for understanding the conditions that may influence the origins of life.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The study of HAT-P-70b&amp;#x27;s atmosphere reveals significant insights into elemental abundances and thermal profiles, suggesting processes relevant to planet formation and potential implications for understanding the conditions that may influence the origins of life.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.21470v1 Announce Type: new Abstract: Ground-based high-resolution spectroscopy has identified various chemical species in the atmospheres of ultra-hot Jupiters, including neutral and ionized metals, providing key insights into planet formation through refractory element abundances. We observed the dayside thermal emission spectrum of the UHJ HAT-P-70b using the high-resolution spectrographs CARMENES and PEPSI. Through cross-correlation analysis, we detect emission signals of Al i, AlH, Ca ii, Cr i, Fe i, Fe ii, Mg i, Mn i, and Ti i, marking the first detection of Al i and AlH in an exoplanetary atmosphere. Tentative signals of C i, Ca i, Na i, NaH, and Ni i are also identified. These detections enable atmospheric retrievals to constrain the thermal profile and elemental abundances of the planet&amp;#x27;s dayside hemisphere. The retrieved temperature-pressure profile reveals a strong thermal inversion. The chemical free retrieval yields a metallicity of [Fe/H] = 0.38(+0.74/-1.11), while the chemical equilibrium retrieval gives [Fe/H] = 0.23(+1.08/-0.98), both consistent with solar metallicity. We also tentatively find an enhanced abundance of Ni, possibly due to the accretion of Ni-rich planetesimals during formation. On the other hand, elements with condensation temperatures above 1400 K (e.g., Ca, Ti, and V) appear slightly depleted, which may be caused by nightside cold trapping. However, Al, with the highest condensation temperature at 1653K, displays a solar like abundance, which might reflect the formation-related enrichment of Al. Our retrieval indicates extremely high volume mixing ratios of metal ions (Fe ii and Ca ii), which are significantly inconsistent with predictions from chemical equilibrium models. This disequilibrium suggests that the atmosphere is likely undergoing significant hydrodynamic escaping, which enhances the atmospheric density at high altitudes where the ionic lines are formed.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.21470&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[75] Episodic planetesimal disruptions triggered by dissipation of gas disk</title>
+    <link href="https://arxiv.org/abs/2512.21493"/>
+    <id>https://arxiv.org/abs/2512.21493</id>
+    <updated>2025-12-29T05:46:21+00:00</updated>
+    <summary>The paper discusses how the dissipation of the gas disk in protoplanetary environments can trigger episodic catastrophic collisions of planetesimals, which may influence the conditions for the origins of life.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 75/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses how the dissipation of the gas disk in protoplanetary environments can trigger episodic catastrophic collisions of planetesimals, which may influence the conditions for the origins of life.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.21493v1 Announce Type: new Abstract: Catastrophic disruptions of planetesimals occur in high-velocity collisions. Radioisotope dating of planetesimal disruption events recorded in meteorites confirms frequent catastrophic collisions in the first $\sim$10 Myr of the Solar System, reflecting a violent environment of the time. However, the nebula gas can damp the eccentricity of planetesimals and suppress the frequency of planetesimal collisions. Strong dynamical mechanisms that excited the protoplanetary disk are required. Here we show that the sweeping secular resonances of Jupiter and Saturn induced by the nebular gas dissipation, together with the mean motion resonances of Jupiter, can trigger a large number of catastrophic collisions, which occur episodically when the secular resonances are at $\sim$2-3 au and continue thereafter. After the gas dissipation completes, catastrophic collisions decrease in frequency, with scattering by planetary embryos becoming the major driving force of the collisions. Our results suggest that the violent environment excited by secular and mean motion resonances can be ubiquitous in protoplanetary disks during nebula dissipation.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.21493&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[85] Snowball Bistability Vanishes at Moderate Orbital Eccentricity</title>
+    <link href="https://arxiv.org/abs/2509.08994"/>
+    <id>https://arxiv.org/abs/2509.08994</id>
+    <updated>2025-12-29T05:46:22+00:00</updated>
+    <summary>The paper discusses how increased orbital eccentricity affects climate bistability and the viability of Snowball states on exoplanets, suggesting implications for the development of complex life and habitability.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 85/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses how increased orbital eccentricity affects climate bistability and the viability of Snowball states on exoplanets, suggesting implications for the development of complex life and habitability.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2509.08994v2 Announce Type: replace Abstract: Snowball episodes are associated with increases in atmospheric oxygen and the complexity of life on Earth, and they may be essential for the development of complex life on exoplanets. Sustained, stable Snowball episodes require a Snowball bifurcation and climate bistability between the globally ice-covered Snowball state and a state with at least some open ocean. We find that climate bistability disappears for an aquaplanet with a slab ocean in the global climate model ExoCAM when the orbital eccentricity is increased to 0.2-0.3. This happens because the Snowball state ceases to exist as seasonal insolation variations intensify, while the warm state remains stable due to the ocean&amp;#x27;s large heat capacity. We use a low-order ice-thermodynamic model to show that the Snowball state ceases to exist as seasonality increases because winter freezing at the ice bottom is reduced relative to summer melting at the ice top due to ice self-insulation. Combined with previous research showing that Snowball climate bistability diminishes for planets orbiting low-mass stars and ones with longer rotation periods, and that it disappears entirely for tidally locked planets, our work suggests that the Snowball climate bistability may not be as robust to planetary parameters as previously thought, representing one aspect of habitability more consistent with the rare Earth hypothesis than the Copernican principle.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2509.08994&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[81] Habitability of exoplanets orbiting flaring stars</title>
+    <link href="https://arxiv.org/abs/2512.21357"/>
+    <id>https://arxiv.org/abs/2512.21357</id>
+    <updated>2025-12-29T05:46:23+00:00</updated>
+    <summary>The paper discusses the habitability of exoplanets around flaring M-stars, highlighting the need for further research on the impact of stellar activity on the potential for complex life.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 81/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the habitability of exoplanets around flaring M-stars, highlighting the need for further research on the impact of stellar activity on the potential for complex life.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.21357v1 Announce Type: cross Abstract: As of late 2025 there are about 70 exoplanets that meet the formal criterion of having equilibrium temperatures allowing the presence of liquid water and about 50 of them orbit M-stars, known for their strong chromospheric activity. Most of these stars are close to the Sun and the planet-to-star mass and luminosity ratios are advantageous, allowing for a more detailed follow-up than of planets orbiting hotter and more massive stars. Many more planets orbiting late-type stars are expected to be discovered by Gaia and PLATO in the following years. However, the lingering question remains whether the UV and X-ray emission, associated with the stellar activity, allows for complex life. A comprehensive study focused on properties of flaring exoplanet hosts and their activity, on a much larger scale than these few tens (soon to become hundreds) of stars with habitable planets is called for, to answer the question if such stars can harbor habitable planets. The proposed Wide Field Survey telescope is well suited for this study.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.21357&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
+
+  <entry>
+    <title>[85] High-energy astrochemistry in the molecular interstellar medium</title>
+    <link href="https://arxiv.org/abs/2512.10060"/>
+    <id>https://arxiv.org/abs/2512.10060</id>
+    <updated>2025-12-29T05:46:24+00:00</updated>
+    <summary>The paper discusses the impact of high-energy astrochemistry, particularly the role of cosmic rays and X-ray radiation in facilitating complex organic molecule formation in the interstellar medium, which is crucial for understanding the origins of life.</summary>
+    <content type="html">
+        &lt;strong&gt;Score:&lt;/strong&gt; 85/100&lt;br/&gt;
+        &lt;strong&gt;AI Summary:&lt;/strong&gt; The paper discusses the impact of high-energy astrochemistry, particularly the role of cosmic rays and X-ray radiation in facilitating complex organic molecule formation in the interstellar medium, which is crucial for understanding the origins of life.&lt;br/&gt;
+        &lt;hr/&gt;
+        &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+        arXiv:2512.10060v2 Announce Type: replace-cross Abstract: In the past decade, there has been a significant shift in astrochemistry with a renewed focus on the role of non-thermal processes on the molecular interstellar medium, in particular energetic particles (such as cosmic ray particles and fast electrons) and X-ray radiation. This has been brought about in large part due to new observations of interstellar complex organic molecules (iCOMS) in environments that would inhibit their formation, such as cold, dense gas in prestellar cores or in the highly energetic environments in galactic centers. In parallel, there has been a plethora of new laboratory investigations on the role of high-energy radiation and electrons on the chemistry of astrophysical ices, demonstrating the ability of this radiation to induce complex chemistry. In recent years, theoretical models have also begun to include newer cosmic-ray-driven processes in both the gas and ice phases. In this review, we unify aspects of the chemistry driven by X-ray radiation and energetic particles into a ``high-energy astrochemistry&amp;#x27;&amp;#x27;, defining this term and reviewing the underlying chemical processes. We conclude by examining various laboratories where high-energy astrochemistry is at play and identify future issues to be tackled.&lt;br/&gt;
+        &lt;br/&gt;
+        &lt;a href=&quot;https://arxiv.org/abs/2512.10060&quot;&gt;Read Full Paper&lt;/a&gt;
+        </content>
+  </entry>
 
   <entry>
     <title>[81] RAMBO: Resolving Amplicons in Mixed Samples for Accurate DNA Barcoding with Oxford Nanopore</title>
@@ -80,7 +233,7 @@
     <title>[85] Designing Peptide Fossils That Model the Evolution of the Bacterial Ferredoxin Fold</title>
     <link href="https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html"/>
     <id>https://astrobiology.com/2025/12/designing-peptide-fossils-that-model-the-evolution-of-the-bacterial-ferredoxin-fold.html</id>
-    <updated>2025-12-29T18:35:40+00:00</updated>
+    <updated>2025-12-29T18:35:41+00:00</updated>
     <summary>The paper discusses the evolution of bacterial ferredoxins, which are crucial for understanding early metabolic processes and the origins of life.</summary>
     <content type="html">
         &lt;strong&gt;Score:&lt;/strong&gt; 85/100&lt;br/&gt;
