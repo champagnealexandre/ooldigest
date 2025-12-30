@@ -154,21 +154,15 @@ def generate_manual_atom(papers):
 
         title_raw = clean_text(p.get('title', 'Untitled'))
         
-        # --- NEW: Retrieve Metadata for Display ---
-        # Fallback to "General" if category is missing
-        # Fallback to "Unknown Source" if feed title is missing
-        category = p.get('category', 'General')
-        feed_source = p.get('feed_source', 'Unknown Source')
+        category = p.get('category', 'GENERAL')
+        feed_source = p.get('feed_source', 'Unknown')
         
-        # --- NEW: Format Title ---
-        # [SCORE] [CATEGORY] [FEED] [TITLE]
+        # --- TITLE FORMATTING: [SCORE] [CATEGORY] [FEED] [TITLE] ---
         display_title = f"[{score}] [{category}] [{feed_source}] {title_raw}"
         
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
         link = html.escape(p.get('link', ''))
-        
-        # Sanitize the display title for XML
         display_title_esc = html.escape(display_title)
         
         pub_date = p.get('published', now_iso)
@@ -224,9 +218,13 @@ def main():
         print(f"-> Parsing {link[:40]}...")
         feed = feedparser.parse(link)
         
-        # Attempt to get the "Category" (Aggregated Feed Title)
-        # Inoreader usually puts the folder/rule name in feed.feed.title
-        feed_category = getattr(feed.feed, 'title', 'General').split(':')[-1].strip()
+        # --- CLEAN UP CATEGORY ---
+        # 1. Get raw title (e.g. "keywords-astrobiology via Alexandre...")
+        raw_feed_title = getattr(feed.feed, 'title', 'General')
+        # 2. Split at " via " to remove the suffix
+        clean_category = raw_feed_title.split(' via ')[0]
+        # 3. Uppercase (e.g. "KEYWORDS-ASTROBIOLOGY")
+        feed_category = clean_category.upper()
 
         for entry in feed.entries:
             if entry.title in existing_titles:
@@ -239,16 +237,11 @@ def main():
             if pub_date < cutoff:
                 continue
             
-            # --- EXTRACT SOURCE FEED NAME ---
-            # Attempt 1: 'source' dictionary (common in RSS 2.0/Atom)
+            # Extract Feed Source
             source_title = "Unknown"
             if hasattr(entry, 'source') and hasattr(entry.source, 'title'):
                 source_title = entry.source.title
-            # Attempt 2: If the feed is NOT an aggregator, the feed title itself is the source
-            # But since you likely use an aggregator, extracting from 'source' tag is safer.
-            # If extracting fails, we might just label it "RSS" or try parsing the URL domain.
             if source_title == "Unknown":
-                # Fallback: Extract from base URL or Feed title if not aggregated
                 source_title = "Web" 
             
             analysis_primary = analyze_paper(entry.title, getattr(entry, 'description', ''), PRIMARY_MODEL)
@@ -266,7 +259,6 @@ def main():
                 "summary": analysis_primary['summary'],
                 "abstract": getattr(entry, 'description', ''),
                 "published": pub_date.isoformat(),
-                # --- NEW FIELDS ---
                 "category": feed_category,
                 "feed_source": source_title
             }
