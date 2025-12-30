@@ -57,45 +57,43 @@ def save_history(data):
         json.dump(data[:50], f, indent=2)
 
 def generate_rss(papers):
+    # REPLACE WITH YOUR ACTUAL DATA
+    # If your repo is github.com/jdoe/astro-digest, use:
+    username = "champagnealexandre"
+    repo = "ooldigest"
+    
+    # URL where this feed lives
+    feed_url = f'https://{username}.github.io/{repo}/feed.xml'
+
     fg = FeedGenerator()
-    
-    # 1. Define the Feed ID and Title
-    fg.id('https://github.com/astro-digest')
+    fg.id(feed_url)
     fg.title('Astrobiology AI Digest')
-    fg.description('Hourly AI-curated papers on Origins of Life')
-    
-    # 2. Link to the "Human Readable" page (your Repo)
-    # (Optional: Replace with your actual repo URL if you want)
-    fg.link(href='https://github.com', rel='alternate')
-    
-    # 3. *** THE FIX *** # Link to the "Feed Itself". Feedly requires this to be accurate.
-    # REPLACE THESE VALUES:
-    username = "champagnealexandre" 
-    repo_name = "ooldigest"      
-    
-    feed_url = f'https://{username}.github.io/{repo_name}/feed.xml'
-    fg.link(href=feed_url, rel='self')
-    
-    # 4. Add Entries
+    fg.author({'name': 'AI Agent'})
+    fg.link(href=feed_url, rel='self') # The critical link
+    fg.link(href=f'https://github.com/{username}/{repo}', rel='alternate')
+    fg.subtitle('Hourly AI-curated papers on Origins of Life')
+
     for p in papers:
         fe = fg.add_entry()
         fe.id(p['link'])
-        # Title format: [Score] [Category] Title
         fe.title(f"[{p['score']}] [{p['category']}] {p['title']}")
         fe.link(href=p['link'])
         
-        description = f"""
+        # Atom structure
+        fe.summary(p['summary'])
+        content = f"""
         <p><b>Score:</b> {p['score']}/100 | <b>Category:</b> {p['category']}</p>
         <p><b>AI Summary:</b> {p['summary']}</p>
         <hr/>
         <p><b>Abstract:</b> {p['abstract']}</p>
         <p><a href="{p['link']}">Read Full Paper</a></p>
         """
-        fe.description(description)
-        fe.pubDate(p['published'])
+        fe.content(content, type='html')
+        fe.published(p['published'])
+        fe.updated(p['published'])
 
-    # 5. Generate the file
-    fg.rss_file(FEED_FILE)
+    # Write as Atom (Feedly prefers this)
+    fg.atom_file(FEED_FILE)
 
 def main():
     if not RSS_URL or not OPENAI_API_KEY:
