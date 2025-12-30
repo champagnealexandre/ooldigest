@@ -191,7 +191,8 @@ def main():
             analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
             score = analysis['score']
             
-            if score >= 75:
+            # --- THRESHOLD UPDATED TO 40 ---
+            if score >= 40:
                 print(f"✅ ACCEPTED [{score}]: {entry.title}")
                 log_decision(entry.title, score, "✅ Accepted", entry.link)
                 
