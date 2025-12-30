@@ -13,19 +13,31 @@ HISTORY_FILE = "paper_history.json"
 BASE_URL = "https://alexandrechampagne.io/ooldigest"
 FEED_URL = f"{BASE_URL}/feed.xml"
 
+# KEYWORDS FROM YOUR IMAGES
+KEYWORDS_ASTRO = [
+    "astrobiological", "astrobiology", "astrochemistry", "biosignature", 
+    "exoplanet", "habitability", "habitable", "mars", "planetesimal", "venus"
+]
+
+KEYWORDS_OOL = [
+    "prebiotic", "origin of life", "autocatalysis", "autocatalytic", 
+    "chirality", "protocell", "self-assembly", "nucleic acid", "eukaryo", 
+    "water", "origins of life", "RNA", "DNA", "evolution", "protobiotic", 
+    "multicellularity", "abiogenesis"
+]
+
+# Combine and deduplicate
+ALL_KEYWORDS = list(set(KEYWORDS_ASTRO + KEYWORDS_OOL))
+
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 # --- LOGGING FUNCTION ---
 def log_decision(title, score, action, link):
-    """
-    Writes the decision to a monthly Markdown log file.
-    """
     os.makedirs("logs", exist_ok=True)
     month_str = datetime.datetime.now().strftime("%Y-%m")
     log_file = f"logs/decisions-{month_str}.md"
     timestamp = datetime.datetime.now().strftime("%d %H:%M")
     
-    # Markdown Table Row
     entry = f"| {timestamp} | **{score}** | {action} | [{title}]({link}) |\n"
     
     if not os.path.exists(log_file):
@@ -38,20 +50,41 @@ def log_decision(title, score, action, link):
         f.write(entry)
 
 def analyze_paper(title, abstract):
+    # We inject the keyword list directly into the prompt
+    keywords_str = ", ".join(ALL_KEYWORDS)
+    
     prompt = f"""
-    Role: Senior Astrobiologist.
-    Task: Analyze this paper for an 'Origins of Life' digest.
+    Role: Senior Astrobiologist & Editor.
+    Task: Evaluate this paper's relevance to an 'Origins of Life' (OoL) research digest.
     
-    Title: {title}
-    Abstract: {abstract}
+    Paper: "{title}"
+    Abstract: "{abstract}"
     
-    Rubric (0-100):
-    - 0-50: Irrelevant.
-    - 51-80: Tangential context.
-    - 81-100: Core Breakthrough (Abiogenesis, biosignatures, chemical evolution).
+    Priority Keywords (Boost score if present):
+    {keywords_str}
+    
+    Scoring Instructions (Calculate the final score starting at 0):
+    
+    1. RELEVANCE (Max 50 pts):
+       - +0: Unrelated field.
+       - +10: Broad context (e.g., general planetology).
+       - +30: Connected fields (e.g., extremophiles, simple organics).
+       - +50: Direct OoL focus (abiogenesis, prebiotic chemistry).
+       *BONUS: If it contains Priority Keywords, ensure this section is at least +30.*
+       
+    2. SPECIFICITY (Max 30 pts):
+       - +0: Vague/Generic.
+       - +15: Specific data but peripheral topic.
+       - +30: Novel experimental result or core theory.
+       
+    3. IMPACT (Max 20 pts):
+       - +0-20: Subjective significance to the field.
+    
+    CRITICAL: Sum these points. Output the EXACT integer (e.g., 63, 78, 94).
     
     Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
     """
+    
     try:
         response = client.chat.completions.create(
             model="gpt-4o-mini",
@@ -71,7 +104,6 @@ def load_history():
     return []
 
 def save_history(data):
-    # Keep last 60 items
     with open(HISTORY_FILE, 'w') as f:
         json.dump(data[:60], f, indent=2)
 
@@ -96,14 +128,12 @@ def generate_manual_atom(papers):
     seen_dates = set()
 
     for p in papers:
-        # Sanitize
         title = html.escape(clean_text(p.get('title', 'Untitled')))
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
         abstract = html.escape(clean_text(p.get('abstract', '')))
         score = p.get('score', 0)
         link = html.escape(p.get('link', ''))
         
-        # Unique Date Logic
         pub_date = p.get('published', now_iso)
         while pub_date in seen_dates:
             try:
@@ -113,7 +143,6 @@ def generate_manual_atom(papers):
             except: break
         seen_dates.add(pub_date)
         
-        # HTML Content
         content_html = f"""
         <strong>Score:</strong> {score}/100<br/>
         <strong>AI Summary:</strong> {summary}<br/>
@@ -170,14 +199,13 @@ def main():
             analysis = analyze_paper(entry.title, getattr(entry, 'description', ''))
             score = analysis['score']
             
-            # --- DECISION LOGIC ---
             if score >= 75:
                 print(f"✅ ACCEPTED [{score}]: {entry.title}")
                 log_decision(entry.title, score, "✅ Accepted", entry.link)
                 
                 new_hits.append({
                     "title": entry.title,
-                    "link": entry.link, # RAW LINK (No hunting)
+                    "link": entry.link, 
                     "score": score,
                     "summary": analysis['summary'],
                     "abstract": getattr(entry, 'description', ''),
