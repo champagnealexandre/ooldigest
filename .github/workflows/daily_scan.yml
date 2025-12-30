@@ -71,7 +71,7 @@ jobs:
       - name: Run AI Scanner
         env:
           RSS_URL: ${{ secrets.RSS_URL }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: python main.py
 
       - name: Commit Changes

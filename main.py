@@ -11,15 +11,32 @@ from urllib.parse import urlparse
 
 # --- Configuration ---
 RSS_URL = os.getenv("RSS_URL") 
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+# SWITCHED TO OPENROUTER KEY
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 HISTORY_FILE = "paper_history.json"
 BASE_URL = "https://alexandrechampagne.io/ooldigest"
 FEED_URL = f"{BASE_URL}/feed.xml"
 
+# --- MODEL SELECTION (OpenRouter) ---
+# Select a tier (1-4) from Lightest to Most Advanced:
+# 1: Google Gemini Flash 1.5 (Fastest, High Context, Very Cheap)
+# 2: OpenAI GPT-4o Mini (Standard "Light" Model)
+# 3: Google Gemini Pro 1.5 (High Reasoning, Large Context)
+# 4: OpenAI GPT-4o (Flagship, Best Instruction Following) - RECOMMENDED
+MODEL_TIER = 4 
+
+MODEL_MAP = {
+    1: "google/gemini-flash-1.5",
+    2: "openai/gpt-4o-mini",
+    3: "google/gemini-pro-1.5",
+    4: "openai/gpt-4o"
+}
+
+PRIMARY_MODEL = MODEL_MAP.get(MODEL_TIER, "openai/gpt-4o")
+
 # --- TOGGLES ---
 SHADOW_MODE = False        
-PRIMARY_MODEL = "gpt-4o"   
-SHADOW_MODEL = "gpt-4o-mini" 
+SHADOW_MODEL = MODEL_MAP[1] # Compare against the lightest model (Tier 1)
 
 # --- CUSTOM INSTRUCTIONS ---
 CUSTOM_INSTRUCTIONS = """
@@ -54,7 +71,15 @@ ACADEMIC_DOMAINS = [
     "aanda.org", "agu.org", "geoscienceworld.org", "gsapubs.org"
 ]
 
-client = OpenAI(api_key=OPENAI_API_KEY)
+# Initialize Client with OpenRouter Base URL
+client = OpenAI(
+    base_url="https://openrouter.ai/api/v1",
+    api_key=OPENROUTER_API_KEY,
+    default_headers={
+        "HTTP-Referer": "https://alexandrechampagne.io", 
+        "X-Title": "OOL Digest Agent",
+    }
+)
 
 # --- ACTIVE LINK HUNTER ---
 def hunt_paper_links(url):
@@ -77,7 +102,7 @@ def hunt_paper_links(url):
             href = a_tag['href']
             if not href.startswith('http'): continue
             
-            if url in href: continue # Skip self-links
+            if url in href: continue 
 
             if any(domain in href for domain in ACADEMIC_DOMAINS):
                 found_links.add(href)
@@ -108,7 +133,7 @@ def log_decision(title, score_primary, score_shadow, action, link):
     if not os.path.exists(log_file):
         with open(log_file, 'w') as f:
             f.write(f"# Decision Log: {month_str}\n\n")
-            f.write("| Date (UTC) | Mini (Shadow) | 4o (Primary) | Diff | Action | Paper |\n")
+            f.write("| Date (UTC) | Shadow | Primary | Diff | Action | Paper |\n")
             f.write("|---|---|---|---|---|---|\n")
             
     with open(log_file, 'a') as f:
@@ -211,7 +236,6 @@ def generate_manual_atom(papers):
         extracted_links = p.get('extracted_links', [])
         doi_html = ""
         
-        # Check if the Main Link IS the paper
         is_direct_paper = any(domain in link for domain in ACADEMIC_DOMAINS)
         
         if is_direct_paper:
@@ -226,11 +250,9 @@ def generate_manual_atom(papers):
                  elif "arxiv" in url: label = "ArXiv Preprint"
                  elif "ncbi" in url: label = "PubMed/NCBI"
                  elif "sciencedirect" in url or "elsevier" in url: label = "ScienceDirect"
-                 
                  doi_html += f'<li><a href="{safe_url}">[{label}] {safe_url}</a></li>'
              doi_html += "</ul>"
         else:
-             # --- FALLBACK IF NO LINKS FOUND ---
              doi_html = "<br/><br/><strong>Source Paper:</strong><br/>No direct link found."
         
         pub_date = p.get('published', now_iso)
