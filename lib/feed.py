@@ -38,7 +38,8 @@ def prepare_entry_data(p: Dict[str, Any], academic_domains: List[str], seen_date
     
     summary = clean_text(p.get('summary', 'No summary'))
     abstract = html.escape(clean_text(p.get('abstract', '')))
-    link = html.escape(p.get('link', ''))
+    raw_link = p.get('link', '')
+    link = html.escape(raw_link)
     
     extracted_links = p.get('extracted_links', [])
     doi_html = ""
@@ -84,10 +85,10 @@ def prepare_entry_data(p: Dict[str, Any], academic_domains: List[str], seen_date
     
     return {
         "display_title": display_title,
-        "link": link,
+        "link": raw_link,
         "pub_date": pub_date,
         "summary": summary,
-        "content_html": html.escape(content_html)
+        "content_html": content_html
     }
 
 def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename: str, title_suffix: str = ""):
