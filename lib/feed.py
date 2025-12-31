@@ -40,7 +40,18 @@ def generate_feed(papers, config, filename, title_suffix=""):
         category = p.get('category', 'GENERAL')
         feed_source = p.get('feed_source', 'Unknown')
         
-        display_title = f"{emoji} [{feed_source}] {title_raw}"
+        # Shorten source name
+        short_source = feed_source
+        for sep in [" - ", " | ", ": "]:
+            if sep in short_source:
+                parts = short_source.split(sep)
+                if parts[0].strip().lower() == "master feed" and len(parts) > 1:
+                    short_source = parts[1].strip()
+                else:
+                    short_source = parts[0].strip()
+                break
+        
+        display_title = f"{emoji} {short_source} ➤ {title_raw}"
         display_title_esc = html.escape(display_title)
         
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
