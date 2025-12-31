@@ -18,14 +18,14 @@ model_prompt: |
   
   SCORING RUBRIC (Total /100):
   
-  1. BASE RELEVANCE (Max 50 pts):
+  1. BASE RELEVANCE (Max 80 pts):
      - +0: Unrelated field.
-     - +25: Broad context.
-     - +50: Core OoL focus.
+     - +40: Broad context.
+     - +80: Core OoL focus.
      * BONUS: If "Link Hunter" found a DOI/Nature/Science/Elsevier link, ensure score is robust.
      
-  2. KEYWORD BONUS (Max 50 pts):
-     - +10 points per keyword match. Caps at 50.
+  2. KEYWORD BONUS (Max 20 pts):
+     - +5 points per keyword match. Caps at 20.
   
   CALCULATION: Sum (Base Relevance + Keyword Bonus).
   Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
