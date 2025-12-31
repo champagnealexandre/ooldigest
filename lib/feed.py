@@ -109,8 +109,12 @@ def generate_feed(papers: List[Dict[str, Any]], config: Dict[str, Any], filename
         if entry_data:
             entries.append(entry_data)
 
+    # Calculate absolute path to templates directory
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    template_dir = os.path.join(os.path.dirname(current_dir), "templates")
+
     env = Environment(
-        loader=FileSystemLoader("templates"),
+        loader=FileSystemLoader(template_dir),
         autoescape=select_autoescape(['xml'])
     )
     template = env.get_template("feed.xml")
