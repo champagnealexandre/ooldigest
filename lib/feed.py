@@ -23,11 +23,17 @@ def generate_manual_atom(papers, config):
         score = p.get('score', 0)
         if score < 0: continue
 
+        if score < 20: emoji = "🟤"
+        elif score < 40: emoji = "🔴"
+        elif score < 60: emoji = "🟠"
+        elif score < 80: emoji = "🟡"
+        else: emoji = "🟢"
+
         title_raw = clean_text(p.get('title', 'Untitled'))
         category = p.get('category', 'GENERAL')
         feed_source = p.get('feed_source', 'Unknown')
         
-        display_title = f"[{score}] [{category}] [{feed_source}] {title_raw}"
+        display_title = f"{emoji} [{category}] [{feed_source}] {title_raw}"
         display_title_esc = html.escape(display_title)
         
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
