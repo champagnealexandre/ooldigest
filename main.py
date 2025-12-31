@@ -1,12 +1,12 @@
 import feedparser
 import os
-import json
+import yaml
 import datetime
 from lib import utils, hunter, ai, feed as feed_gen
 
 def load_config():
-    with open("config.json", "r") as f:
-        return json.load(f)
+    with open("config.yaml", "r") as f:
+        return yaml.safe_load(f)
 
 def main():
     config = load_config()
@@ -15,8 +15,8 @@ def main():
     api_key = os.getenv("OPENROUTER_API_KEY")
     client = ai.get_client(api_key)
     
-    primary_model = ai.MODEL_MAP.get(config['model_tier'], "openai/gpt-5.2")
-    shadow_model = ai.MODEL_MAP.get(1) if config['shadow_mode'] else None
+    primary_model = config['models'].get(str(config['model_tier']), "openai/gpt-5.2")
+    shadow_model = config['models'].get("1") if config['shadow_mode'] else None
     
     all_keywords = list(set(config['keywords_astro'] + config['keywords_ool']))
     
@@ -58,11 +58,13 @@ def main():
             analysis_primary = ai.analyze_paper(
                 client,
                 primary_model,
+                config.get('model_prompt', ''),
                 entry.title, 
                 getattr(entry, 'description', ''), 
                 hunted_links,
                 all_keywords,
-                config['custom_instructions']
+                config['custom_instructions'],
+                temperature=config.get('model_temperature', 0.1)
             )
             score_primary = analysis_primary['score']
             
@@ -71,11 +73,13 @@ def main():
                 analysis_shadow = ai.analyze_paper(
                     client,
                     shadow_model,
+                    config.get('model_prompt', ''),
                     entry.title, 
                     getattr(entry, 'description', ''), 
                     hunted_links,
                     all_keywords,
-                    config['custom_instructions']
+                    config['custom_instructions'],
+                    temperature=config.get('model_temperature', 0.1)
                 )
                 score_shadow = analysis_shadow['score']
 

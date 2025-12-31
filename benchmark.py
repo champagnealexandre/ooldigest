@@ -1,12 +1,12 @@
 import time
 import feedparser
 import os
-import json
+import yaml
 from lib import utils, hunter, ai
 
 def load_config():
-    with open("config.json", "r") as f:
-        return json.load(f)
+    with open("config.yaml", "r") as f:
+        return yaml.safe_load(f)
 
 def main():
     # 1. Setup
@@ -39,10 +39,10 @@ def main():
         except Exception as e:
             print(f"Error fetching {url}: {e}")
 
-    print(f"🧪 Benchmarking {len(papers)} papers across {len(ai.MODEL_MAP)} models.\n")
+    print(f"🧪 Benchmarking {len(papers)} papers across {len(config['models'])} models.\n")
 
     # 3. Run Benchmark
-    results = {name: {"time": 0.0, "cost": 0.0, "scores": []} for _, name in ai.MODEL_MAP.items()}
+    results = {name: {"time": 0.0, "cost": 0.0, "scores": []} for _, name in config['models'].items()}
 
     for i, p in enumerate(papers):
         print(f"📄 Paper {i+1}/{len(papers)}: {p.title[:60]}...")
@@ -50,15 +50,17 @@ def main():
         # Hunt links once per paper (common task)
         links = hunter.hunt_paper_links(p.link, config['academic_domains'])
         
-        for _, model_name in ai.MODEL_MAP.items():
+        for _, model_name in config['models'].items():
             print(f"   Running {model_name}...", end="", flush=True)
             
             start_time = time.time()
             try:
                 resp = ai.analyze_paper(
-                    client, model_name, p.title, 
+                    client, model_name, config.get('model_prompt', ''),
+                    p.title, 
                     getattr(p, 'description', ''), 
-                    links, all_keywords, config['custom_instructions']
+                    links, all_keywords, config['custom_instructions'],
+                    temperature=config.get('model_temperature', 0.1)
                 )
                 elapsed = time.time() - start_time
                 
@@ -67,7 +69,7 @@ def main():
                 in_tok = usage.get('prompt_tokens', 0)
                 out_tok = usage.get('completion_tokens', 0)
                 
-                price_in, price_out = ai.PRICING.get(model_name, (0, 0))
+                price_in, price_out = config['pricing'].get(model_name, (0, 0))
                 cost = (in_tok / 1e6 * price_in) + (out_tok / 1e6 * price_out)
                 
                 # Record stats

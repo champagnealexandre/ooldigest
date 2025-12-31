@@ -1,21 +1,6 @@
 import json
 from openai import OpenAI
 
-MODEL_MAP = {
-    1: "google/gemini-2.5-flash-lite",
-    2: "openai/gpt-4o-mini",
-    3: "google/gemini-2.5-pro",
-    4: "openai/gpt-5.2"
-}
-
-# Estimated pricing per 1M tokens (Input / Output)
-PRICING = {
-    "google/gemini-2.5-flash-lite": (0.050, 0.20),
-    "openai/gpt-4o-mini":           (0.150, 0.60),
-    "google/gemini-2.5-pro":        (1.250, 5.00),
-    "openai/gpt-5.2":               (5.000, 20.00)
-}
-
 def get_client(api_key):
     return OpenAI(
         base_url="https://openrouter.ai/api/v1",
@@ -26,50 +11,25 @@ def get_client(api_key):
         }
     )
 
-def analyze_paper(client, model_name, title, abstract, found_links, all_keywords, custom_instructions):
+def analyze_paper(client, model_name, prompt_template, title, abstract, found_links, all_keywords, custom_instructions, temperature=0.1):
     if found_links is None: found_links = []
     
     keywords_str = ", ".join(all_keywords)
     links_str = ", ".join(found_links) if found_links else "None found."
 
-    prompt = f"""
-    Role: Senior Astrobiologist.
-    Task: Score this paper for an 'Origins of Life' digest.
-    
-    Paper: "{title}"
-    Abstract: "{abstract}"
-    
-    EVIDENCE FROM LINK HUNTER:
-    The following academic links were found on the source page:
-    {links_str}
-    
-    Target Keywords:
-    {keywords_str}
-    
-    CUSTOM INSTRUCTIONS:
-    {custom_instructions}
-    
-    SCORING RUBRIC (Total /100):
-    
-    1. BASE RELEVANCE (Max 50 pts):
-       - +0: Unrelated field.
-       - +25: Broad context.
-       - +50: Core OoL focus.
-       * BONUS: If "Link Hunter" found a DOI/Nature/Science/Elsevier link, ensure score is robust.
-       
-    2. KEYWORD BONUS (Max 50 pts):
-       - +10 points per keyword match. Caps at 50.
-    
-    CALCULATION: Sum (Base Relevance + Keyword Bonus).
-    Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
-    """
+    # Handle prompt template (list or string)
+    if isinstance(prompt_template, list):
+        prompt_template = "\n".join(prompt_template)
+        
+    # Inject variables using replace to avoid issues with JSON braces in the prompt
+    prompt = prompt_template.replace("{title}", title).replace("{abstract}", abstract).replace("{links_str}", links_str).replace("{keywords_str}", keywords_str).replace("{custom_instructions}", custom_instructions)
     
     try:
         response = client.chat.completions.create(
             model=model_name,
             messages=[{"role": "user", "content": prompt}],
             response_format={"type": "json_object"},
-            temperature=0.1
+            temperature=temperature
         )
         result = json.loads(response.choices[0].message.content)
         
