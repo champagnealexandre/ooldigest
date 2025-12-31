@@ -73,9 +73,6 @@ def generate_entry_xml(p, academic_domains, seen_dates):
     seen_dates.add(pub_date)
     
     content_html = f"""
-    <strong>Category:</strong> {html.escape(category)}<br/>
-    <strong>Source:</strong> {html.escape(feed_source)}<br/>
-    <strong>Score:</strong> {score}/100<br/>
     <strong>AI Summary:</strong> {summary}<br/>
     <hr/>
     <strong>Abstract:</strong><br/>
