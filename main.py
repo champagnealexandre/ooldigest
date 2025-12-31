@@ -109,10 +109,20 @@ def main():
         print(f"Processed {len(new_hits)} papers.")
         updated_history = new_hits + history
         utils.save_history(updated_history, config['history_file'])
-        feed_gen.generate_manual_atom(updated_history, config)
+        papers_to_gen = updated_history
     else:
-        feed_gen.generate_manual_atom(history, config)
+        papers_to_gen = history
         print("No new papers, but feed regenerated.")
+
+    # 1. Generate Aggregate Feed
+    feed_gen.generate_feed(papers_to_gen, config, "all.xml", "All")
+
+    # 2. Generate Category Feeds
+    categories = set(p.get('category') for p in papers_to_gen if p.get('category'))
+    for cat in categories:
+        cat_papers = [p for p in papers_to_gen if p.get('category') == cat]
+        safe_filename = cat.lower().strip() + ".xml"
+        feed_gen.generate_feed(cat_papers, config, safe_filename, cat)
 
 if __name__ == "__main__":
     main()

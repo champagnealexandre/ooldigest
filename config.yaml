@@ -53,7 +53,6 @@ pricing:
 shadow_mode: false
 base_url: https://alexandrechampagne.io/ooldigest
 history_file: data/paper_history.json
-feed_file: public/feed.xml
 
 custom_instructions: |
   - EXOPLANET FILTER: Deprioritize generic exoplanet discoveries (e.g., new TESS candidates, hot Jupiters) unless they significantly advance Astrobiology.

@@ -1,14 +1,21 @@
 import datetime
 import html
+import os
 from .utils import clean_text
 
-def generate_manual_atom(papers, config):
-    feed_url = f"{config['base_url']}/{config['feed_file']}"
+def generate_feed(papers, config, filename, title_suffix=""):
+    os.makedirs("public", exist_ok=True)
+    output_path = os.path.join("public", filename)
+    feed_url = f"{config['base_url']}/{filename}"
     now_iso = datetime.datetime.now(datetime.timezone.utc).isoformat()
     
+    full_title = "Astrobiology AI Digest"
+    if title_suffix:
+        full_title += f" - {title_suffix}"
+
     xml_content = f"""<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Astrobiology AI Digest</title>
+  <title>{full_title}</title>
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="{feed_url}" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
@@ -33,7 +40,7 @@ def generate_manual_atom(papers, config):
         category = p.get('category', 'GENERAL')
         feed_source = p.get('feed_source', 'Unknown')
         
-        display_title = f"{emoji} [{category}] [{feed_source}] {title_raw}"
+        display_title = f"{emoji} [{feed_source}] {title_raw}"
         display_title_esc = html.escape(display_title)
         
         summary = html.escape(clean_text(p.get('summary', 'No summary')))
@@ -97,4 +104,4 @@ def generate_manual_atom(papers, config):
         xml_content += entry
 
     xml_content += "</feed>"
-    with open(config['feed_file'], "w", encoding='utf-8') as f: f.write(xml_content)
+    with open(output_path, "w", encoding='utf-8') as f: f.write(xml_content)
