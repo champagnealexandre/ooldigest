@@ -37,6 +37,7 @@ rss_urls:
 
 model_tier: 4
 model_temperature: 0.1
+max_workers: 10
 
 models:
   "1": google/gemini-2.5-flash-lite

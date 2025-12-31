@@ -13,3 +13,4 @@ class Config(BaseModel):
     keywords_astro: List[str]
     keywords_ool: List[str]
     academic_domains: List[str]
+    max_workers: int = 10

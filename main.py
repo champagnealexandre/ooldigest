@@ -75,8 +75,8 @@ def main():
     new_hits = []
 
     # Parallel Execution
-    # We use max_workers=5 to be polite to servers, but you can increase this.
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+    # We use max_workers=10 to be polite to servers, but you can increase this.
+    with concurrent.futures.ThreadPoolExecutor(max_workers=config.get('max_workers', 10)) as executor:
         future_to_item = {
             executor.submit(process_feed_item, item, config, client, all_keywords): item 
             for item in feed_items
