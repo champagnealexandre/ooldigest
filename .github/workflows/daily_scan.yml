@@ -52,17 +52,17 @@ jobs:
       - name: Clear Logs (Optional)
         if: ${{ inputs.clear_logs }}
         run: |
-          if [ -f "ai-decisions.md" ]; then
-            rm "ai-decisions.md"
-            echo "Deleted ai-decisions.md"
+          if [ -f "logs/ai-decisions.md" ]; then
+            rm "logs/ai-decisions.md"
+            echo "Deleted logs/ai-decisions.md"
           else
-            echo "ai-decisions.md not found."
+            echo "logs/ai-decisions.md not found."
           fi
-          if [ -f "keyword-decisions.md" ]; then
-            rm "keyword-decisions.md"
-            echo "Deleted keyword-decisions.md"
+          if [ -f "logs/keyword-decisions.md" ]; then
+            rm "logs/keyword-decisions.md"
+            echo "Deleted logs/keyword-decisions.md"
           else
-            echo "keyword-decisions.md not found."
+            echo "logs/keyword-decisions.md not found."
           fi
 
       - name: Set up Python
@@ -82,7 +82,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add data/paper_history.json public/*.xml logs/ ai-decisions.md keyword-decisions.md
+          git add data/paper_history.json public/*.xml logs/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update feed" && git push)
 
   # JOB 2: THE DEPLOYER

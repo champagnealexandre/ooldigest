@@ -73,15 +73,17 @@ def fetch_feed(feed_config, existing_links, keywords, cutoff_date):
             if published and published < cutoff_date:
                 continue
 
+            title = entry.get('title', 'No Title')
             if filter_by_keywords(entry, keywords):
-                title = entry.get('title', 'No Title')
                 logging.info(f"Keyword MATCH: {title}")
-                append_decision("keyword-decisions.md", title, "N/A", "MATCH", link)
+                append_decision("logs/keyword-decisions.md", title, "N/A", "MATCH", link)
                 relevant_entries.append({
                     'entry': entry,
                     'source_title': feed_title,
                     'pub_date': published if published else datetime.datetime.now(datetime.timezone.utc)
                 })
+            else:
+                append_decision("logs/keyword-decisions.md", title, "N/A", "REJECT", link)
     except Exception as e:
         logging.error(f"Error fetching {url}: {e}")
         
@@ -206,10 +208,10 @@ def main():
                 
                 if score >= 0:
                     logging.info(f"✅ ACCEPTED [{score}]: {entry.title}")
-                    append_decision("ai-decisions.md", entry.title, score, "✅ Accepted", entry.link)
+                    append_decision("logs/ai-decisions.md", entry.title, score, "✅ Accepted", entry.link)
                 else:
                     logging.info(f"❌ REJECTED [{score}]: {entry.title}")
-                    append_decision("ai-decisions.md", entry.title, score, "❌ Rejected", entry.link)
+                    append_decision("logs/ai-decisions.md", entry.title, score, "❌ Rejected", entry.link)
 
             except Exception as e:
                 logging.error(f"⚠️ Error processing a paper: {e}")
