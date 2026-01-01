@@ -4,9 +4,249 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/keywords-ool.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T04:13:37.406470+00:00</updated>
+  <updated>2026-01-01T05:34:31.943453+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/keywords-ool.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🔴 q-bio.PE updates on arXiv.org ➤ Binary Galton-Watson trees with mutations</title>
+    <link href="https://arxiv.org/abs/2501.10951"/>
+    <id>https://arxiv.org/abs/2501.10951</id>
+    <updated>2026-01-01T05:09:10+00:00</updated>
+    <summary>Develops exact (non-approximate) multitype Galton–Watson branching-process results with mutation and reversion to predict long-run type proportions and first-appearance times, offering general evolutionary-dynamics tools but only indirect relevance to origins-of-life questions.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2501.10951v2 Announce Type: replace Abstract: We consider a multitype Galton-Watson process that allows for the mutation and reversion of individual types in discrete and continuous time. In this setting, we explicitly compute the time evolution of quantities such as the mean and distributions of different types. This allows us in particular to estimate the proportions of different types in the long run, as well as the distribution of the first time of occurrence of a given type as the tree size or time increases. Our approach relies on the recursive computation of the joint distribution of types conditionally to the value of the total progeny. In comparison with the literature on related multitype models, we do not rely on approximations.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2501.10951&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2501.10951&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 nlin.CD updates on arXiv.org ➤ A chaotic lattice field theory in two dimensions</title>
+    <link href="https://arxiv.org/abs/2503.22972"/>
+    <id>https://arxiv.org/abs/2503.22972</id>
+    <updated>2026-01-01T05:31:34+00:00</updated>
+    <summary>Develops a statistical-mechanics/field-theory reformulation of spatiotemporal chaos on lattices using periodic-orbit and zeta-function methods, with only indirect relevance to origins-of-life questions via general complex-systems modeling.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2503.22972v2 Announce Type: replace Abstract: We describe spatiotemporally chaotic (or turbulent) field theories discretized over d-dimensional lattices in terms of sums over their multi-periodic orbits. `Chaos theory&amp;#x27; is here recast in the language of statistical mechanics, field theory, and solid state physics, with the traditional periodic orbits theory of low-dimensional, temporally chaotic dynamics a special, one-dimensional case. In the field-theoretical formulation, there is no time evolution. Instead, treating the temporal and spatial directions on equal footing, one determines the spatiotemporally periodic orbits that contribute to the partition sum of the theory, each a solution of the system&amp;#x27;s defining deterministic equations, with sums over time-periodic orbits of dynamical systems theory replaced here by sums of d-periodic orbits over d-dimensional spacetime geometries, the weight of each orbit given by the Jacobian of its spatiotemporal orbit Jacobian operator. The weights, evaluated by application of the Bloch theorem to the spectrum of periodic orbit&amp;#x27;s Jacobian operator, are multiplicative for spacetime orbit repeats, leading to a spatiotemporal zeta function formulation of the theory in terms of prime orbits.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2503.22972&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2503.22972&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 physics.comp-ph updates on arXiv.org ➤ Simple and general unitarity conserving numerical real time propagators of time dependent Schr\&#34;odinger equation based on Magnus expansion</title>
+    <link href="https://arxiv.org/abs/2312.01115"/>
+    <id>https://arxiv.org/abs/2312.01115</id>
+    <updated>2026-01-01T05:07:57+00:00</updated>
+    <summary>Develops unitarity-preserving numerical real-time propagators for time-dependent Schrödinger equations using Magnus-expansion approximations (2nd–6th order), mainly for quantum dynamics/spectroscopy applications rather than origins-of-life research.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2312.01115v2 Announce Type: replace-cross Abstract: Magnus expansion (ME) provides a general way to expand the real-time propagator of a time-dependent Hamiltonian within the exponential such that the unitarity is satisfied at any order. We use this property and explicit integration of Lagrange interpolation formulas for the time-dependent Hamiltonian within each time interval and derive approximations that preserve unitarity for the differential time evolution operators of general time-dependent Hamiltonians. The resulting second-order approximation is the same as using the average of Hamiltonians for two end points of time. We identify three fourth-order approximations involving commutators of Hamiltonians at different times and also derive a sixth-order expression. A test of these approximations along with other available expressions for a two-state time-dependent Hamiltonian with sinusoidal time dependences provides information on the relative performance of these approximations and suggests that the derived expressions can serve as useful numerical tools for time evolution in time-resolved spectroscopy, quantum control, quantum sensing, real-time ab initio quantum dynamics, and open system quantum dynamics.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2312.01115&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2312.01115&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 q-bio.PE updates on arXiv.org ➤ Constraints on the perfect phylogeny mixture model and their effect on reducing degeneracy</title>
+    <link href="https://arxiv.org/abs/2512.24930"/>
+    <id>https://arxiv.org/abs/2512.24930</id>
+    <updated>2026-01-01T05:09:11+00:00</updated>
+    <summary>Develops theoretical constraints to reduce ambiguity in perfect phylogeny mixture models for mutation-based tree inference (primarily tumor evolution), with only indirect methodological relevance to origins-of-life evolutionary reconstruction.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24930v1 Announce Type: new Abstract: The perfect phylogeny mixture (PPM) model is useful due to its simplicity and applicability in scenarios where mutations can be assumed to accumulate monotonically over time. It is the underlying model in many tools that have been used, for example, to infer phylogenetic trees for tumor evolution and reconstruction. Unfortunately, the PPM model gives rise to substantial ambiguity -- in that many different phylogenetic trees can explain the same observed data -- even in the idealized setting where data are observed perfectly, i.e. fully and without noise. This ambiguity has been studied in this perfect setting by Pradhan et al. 2018, which proposed a procedure to bound the number of solutions given a fixed instance of observation data. Beyond this, studies have been primarily empirical. Recent work (Myers et al. 2019) proposed adding extra constraints to the PPM model to tackle ambiguity. In this paper, we first show that the extra constraints of Myers et al. 2019, called longitudinal constraints (LC), often fail to reduce the number of distinct trees that explain the observations. We then propose novel alternative constraints to limit solution ambiguity and study their impact when the data are observed perfectly. Unlike the analysis in Pradhan et al. 2018, our theoretical results regarding both the inefficacy of the LC and the extent to which our new constrains reduce ambiguity are not tied to a single observation instance. Rather, our theorems hold over large ensembles of possible inference problems. To the best of our knowledge, we are the first to study degeneracy in the PPM model in this ensemble-based theoretical framework.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24930&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24930&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 physics.comp-ph updates on arXiv.org ➤ Enhanced premelting at the ice-rubber interface using all-atom molecular dynamics simulation</title>
+    <link href="https://arxiv.org/abs/2508.20448"/>
+    <id>https://arxiv.org/abs/2508.20448</id>
+    <updated>2026-01-01T05:07:58+00:00</updated>
+    <summary>All-atom MD shows hydrophobic styrene-butadiene rubber enhances structural disorder and premelting of basal ice while suppressing water mobility via polymer confinement, yielding a mixed rubber–water interfacial layer near melting.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2508.20448v2 Announce Type: replace-cross Abstract: The ice-rubber interface is critical in applications such as tires and shoe outsoles, yet its molecular tribology remains unclear. Using all-atom molecular dynamics simulations, we studied premelting layers at the basal face of ice in contact with styrene-butadiene rubber from 254 to 269 K. Despite its hydrophobicity, rubber enhances structural disorder of interfacial water, promoting premelting. In contrast, water mobility is suppressed by confinement from polymer chains, leading to glassy dynamics distinct from the ice-vapor interface. Near the melting point, rubber chains become more flexible and penetrate the premelting layer, forming a mixed rubber-water region that couples the dynamics of both components. These results suggest that nanoscale roughness and morphology of hydrophobic polymers disrupt ice hydrogen-bond networks, thereby enhancing premelting. Our findings provide molecular-level insight into ice slipperiness and inform the design of polymer materials with controlled ice adhesion and friction.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2508.20448&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2508.20448&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 cs.IT updates on arXiv.org ➤ Information Physics of Intelligence: Unifying Logical Depth and Entropy under Thermodynamic Constraints</title>
+    <link href="https://arxiv.org/abs/2511.19156"/>
+    <id>https://arxiv.org/abs/2511.19156</id>
+    <updated>2026-01-01T05:17:02+00:00</updated>
+    <summary>Proposes a thermodynamically grounded information-theoretic metric (“Derivation Entropy”) linking storage vs computation tradeoffs and suggesting a general principle for the evolution of biological intelligence, but it is only indirectly relevant to origins-of-life mechanisms.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2511.19156v4 Announce Type: replace Abstract: The rapid scaling of artificial intelligence models has revealed a fundamental tension between model capacity (storage) and inference efficiency (computation). While classical information theory focuses on transmission and storage limits, it lacks a unified physical framework to quantify the thermodynamic costs of generating information from compressed laws versus retrieving it from memory. In this paper, we propose a theoretical framework that treats information processing as an enabling mapping from ontological states to carrier states. We introduce a novel metric, Derivation Entropy, which quantifies the effective work required to compute a target state from a given logical depth. By analyzing the interplay between Shannon entropy (storage) and computational complexity (time/energy), we demonstrate the existence of a critical phase transition point. Below this threshold, memory retrieval is thermodynamically favorable; above it, generative computation becomes the optimal strategy. This &amp;quot;Energy-Time-Space&amp;quot; conservation law provides a physical explanation for the efficiency of generative models and offers a rigorous mathematical bound for designing next-generation, energy-efficient AI architectures. Our findings suggest that the minimization of Derivation Entropy is a governing principle for the evolution of both biological and artificial intelligence.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2511.19156&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2511.19156&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 nlin.CD updates on arXiv.org ➤ Epigenetic Control and Reprogramming-Induced Potential Landscapes of Gene Regulatory Networks: A Quantitative Theoretical Approach</title>
+    <link href="https://arxiv.org/abs/2512.24427"/>
+    <id>https://arxiv.org/abs/2512.24427</id>
+    <updated>2026-01-01T05:31:35+00:00</updated>
+    <summary>Presents a theoretical dynamical-mean-field framework for gene regulatory networks with epigenetic (DNA methylation/histone) terms to map stable and oscillatory gene-expression attractor landscapes, relevant mainly to post-origin cellular regulation rather than abiogenesis.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24427v1 Announce Type: cross Abstract: We develop an extended Dynamical Mean Field Theory framework to analyze gene regulatory networks (GRNs) incorporating epigenetic modifications. Building on the Hopfield network model analogy to spin glass systems, our approach introduces dynamic terms representing DNA methylation and histone modification to capture their regulatory influence on gene expression. The resulting formulation reduces high-dimensional GRN dynamics to effective stochastic equations, enabling the characterization of both stable and oscillatory states in epigenetically regulated systems. This framework provides a tractable and quantitative method for linking gene regulatory dynamics with epigenetic control, offering new theoretical insights into developmental processes and cell fate decisions.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24427&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24427&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 nlin.PS updates on arXiv.org ➤ Experimental Study on Fracture Structure of Sumi-Wari</title>
+    <link href="https://arxiv.org/abs/2512.24830"/>
+    <id>https://arxiv.org/abs/2512.24830</id>
+    <updated>2026-01-01T05:14:46+00:00</updated>
+    <summary>Experiments and modeling show how surface-tension gradients fracture a carbon-black “sumi” film on water–glycerol subphases into star-like crack patterns, with crack number and dynamics controlled by subphase viscosity and effective film stiffness.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24830v1 Announce Type: new Abstract: Local variations in surface tension can induce complex fracture dynamics in thin interfacial films. Here, we investigate the fracture patterns that emerge when a localized surface-tension perturbation is applied to a sumi film supported on a water-glycerol subphase. Sumi is a traditional Japanese carbon black ink, and this process, referred to as sumi-wari, produces aesthetically pleasing, star-shaped crack patterns with multiple spikes radiating from the perturbation site. The number of crack spikes increases with the viscosity of the subphase, controlled here by the addition of glycerol. Atomic force microscopy measurements reveal that the effective stiffness of the sumi f ilm decreases as glycerol concentration increases. This suggests a strong coupling between the subphase properties and the mechanics of the sumi film. To capture the dynamics of sumi-wari, a phenomenological model is outlined, based on an overdamped equation of motion for particles connected by breakable springs. Numerical simulations reproduce both the morphology and the experimental trends of sumi-wari: the number of cracks and their temporal evolution depend on the spring stiffness, mirroring the behavior observed for subphases with different viscosities. These findings demonstrate how the interplay between surface-tension gradients, subphase properties, and film mechanics governs local fracture and pattern formation in fluid-supported thin films
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24830&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24830&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 nlin.PS updates on arXiv.org ➤ Contact-Geometric Dynamics for Dissipative Nonlinear Systems</title>
+    <link href="https://arxiv.org/abs/2512.04526"/>
+    <id>https://arxiv.org/abs/2512.04526</id>
+    <updated>2026-01-01T05:14:47+00:00</updated>
+    <summary>Develops a contact-geometry framework for dissipative nonlinear pattern-forming systems (via the 2D complex Ginzburg–Landau equation), which is conceptually relevant to nonequilibrium self-organization but not directly focused on origins-of-life chemistry or biology.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.04526v3 Announce Type: replace Abstract: Dissipative nonlinear waves are ubiquitous in nonequilibrium physical systems, and the Complex Ginzburg-Landau Equation (CGLE) serves as a fundamental model for describing their dynamics. This paper develops a contact-geometric formulation of dissipative field theories, extending the least constraint theorem to complex fields and establishing a link between contact geometry and probability measures. By applying this framework to the 2D CGLE, we derive the dissipative Contact Hamilton-Jacobi (CHJ) equation, which governs the evolution of the action functional. Through canonical transformation and travelling-wave reduction, exact solutions of the CHJ equation are obtained. From a probabilistic perspective, we derive the probability density functional of the 2D CGLE, identify a universal switching line that separates different dynamical regimes, and reveal a first-order periodon--soliton phase transition with a hysteresis loop. The conserved contact potential is identified as the key geometric quantity governing pattern formation in dissipative media, playing a role analogous to energy in conservative systems. This contact-geometric framework provides a unified analytical tool for studying pattern selection and state transitions.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.04526&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.04526&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 math-ph updates on arXiv.org ➤ Classical integrability in 2D and asymptotic symmetries</title>
+    <link href="https://arxiv.org/abs/2512.24833"/>
+    <id>https://arxiv.org/abs/2512.24833</id>
+    <updated>2026-01-01T05:07:50+00:00</updated>
+    <summary>Lecture notes on classical integrability, asymptotic symmetries, and conserved charges in 3D Chern–Simons/gravity systems, with no apparent connection to astrobiology or origins-of-life chemistry/biology.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24833v1 Announce Type: cross Abstract: These lecture notes are a contribution to the proceedings of the school &amp;quot;Geometric, Algebraic and Topological Methods for Quantum Field Theory&amp;quot;, held in Villa de Leyva, Colombia, from 31st of July to 9th of August 2023. Its intention is to put together several basic tools of classical integrability and contrast them with those available in the formulation of asymptotic symmetries and the definition of canonical charges in gauge theories. We consider as a working example the Chern-Simons theory in 3D dimensions, motivated by its various applications in condensed matter physics, gravity, and black hole physics. We review basic aspects of the canonical formulation, symplectic geometry, Liouville integrability, and Lax Pairs. We define the Hamiltonian formulation of the Chern-Simons action and the canonical generators of the gauge symmetries, which are surface integrals that subject to non-trivial boundary conditions, realize transformations that do change the physical state, namely large (or improper gauge transformations). We propose asymptotic conditions that realize an infinite set of abelian conserved charges associated with integral models. We review two different cases: the Korteweg-de Vries equation for its connection with the Virasoro algebra and fluid dynamics, and the Ablowitz-Kaup-Newell-Segur (AKNS) hierarchy, as it embeds an infinite class of non-linear notable integrable evolution equations. We propose a concrete example for gravity in 3D with $\Lambda&amp;lt;0$, where we find a near-horizon asymptotic dynamics. We finalize offering some insights on the initial value problem, its connection with integrable systems and flat connections. We study some properties of the Monodromy matrix and recover the infinite KdV charges from the trace invariants extracted from the Monodromy evolution equation that can be written in a Lax form.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24833&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24833&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 physics.comp-ph updates on arXiv.org ➤ Martini Mapper: An Automated Fragment-Based Framework for Developing Coarse-Grained Models within the Martini 3 Framework</title>
+    <link href="https://arxiv.org/abs/2511.11859"/>
+    <id>https://arxiv.org/abs/2511.11859</id>
+    <updated>2026-01-01T05:07:59+00:00</updated>
+    <summary>Presents an automated SMILES-to-Martini 3 coarse-graining workflow that could indirectly support origins-of-life research by enabling higher-throughput simulations of aqueous-phase molecular self-assembly, though the paper itself targets general drug/materials modeling rather than abiogenesis.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2511.11859v2 Announce Type: replace-cross Abstract: Coarse-graining (CG) reduces molecular details to extend the time and length scales of molecular dynamics simulations to microseconds and micrometers. However, the CG approaches have long been limited by the difficulty of constructing both accurate and transferable models efficiently, considering the large diversity of chemical structures of materials. Among CG force fields, Martini is the most widely used, as it retains essential chemical features while offering substantial computational efficiency. Its most recent version, Martini 3, expands chemical resolution through a much broader bead set, particularly for small molecules. However, this flexibility also complicates the mapping of organic molecules because of context-dependent rules and the lack of standardized procedures. To address this issue, we present an automated framework that builds Martini 3 models directly from SMILES (Simplified Molecular Input Line Entry System) strings by combining a curated bead dictionary with a hierarchical, rule-based algorithm. Our framework, Martini Mapper, generated Martini 3 models for more than 5,000 molecules across four chemically diverse datasets. A curated subset of 1,081 mapped structures was benchmarked through octanol-water free-energy ($\Delta G_{OW}$) and partition-coefficient ($\log P$) calculations, yielding strong agreement with experimental values. The workflow can also map large molecules containing up to 126 heavy atoms, exceeding the capabilities of existing automated approaches. The algorithm and the complete set of more than 5,000 mapped itp/top files are available at the \href{https://github.com/eliobaby/Martini_mapping}{Martini Mapper}. Our framework, therefore, enables systematic and scalable Martini 3 structures for high-throughput simulations relevant to drug discovery and materials design.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2511.11859&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2511.11859&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 math-ph updates on arXiv.org ➤ Lack-of-fit reduction in the path-integral formalism</title>
+    <link href="https://arxiv.org/abs/2506.20242"/>
+    <id>https://arxiv.org/abs/2506.20242</id>
+    <updated>2026-01-01T05:07:52+00:00</updated>
+    <summary>Develops a path-integral, information-theoretic reduction method in non-equilibrium thermodynamics showing how irreversible reduced dynamics can emerge from underlying Hamiltonian evolution, offering broad theoretical context potentially relevant to origins-of-life far-from-equilibrium modeling but with no direct prebiotic/biotic application.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2506.20242v3 Announce Type: replace-cross Abstract: We present a new formulation of the lack-of-fit reduction in non-equilibrium thermodynamics using the path-integral formalism. The formulation is based on the Onsager-Machlup variational principle, and it allows us to find reduced dynamical equations by minimizing information discrepancy with respect to the detailed evolution. The reduced evolution consists of a Hamiltonian vector field and a gradient flow. The reduction method is illustrated on the Kac-Zwanzig model, where we show how irreversibility emerges from purely Hamiltonian evolution by ignoring some degrees of freedom. We also show how to generalize the Fisher information matrix and Kullback-Leibler divergence between two probability distributions to the case when the two distributions are related by the principle of maximum entropy, even in the case when the entropy is not of Boltzmann-Gibbs type (for instance Tsallis-Havrda-Charvat entropy).
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2506.20242&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2506.20242&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 math.DS updates on arXiv.org ➤ Approximate Controllability of Linear Fractional Impulsive Evolution Equations in Hilbert Spaces</title>
+    <link href="https://arxiv.org/abs/2406.15114"/>
+    <id>https://arxiv.org/abs/2406.15114</id>
+    <updated>2026-01-01T05:01:54+00:00</updated>
+    <summary>A mathematical control-theory study deriving a resolvent-based criterion for approximate controllability of linear fractional impulsive evolution equations in Hilbert spaces, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2406.15114v3 Announce Type: replace-cross Abstract: This paper investigates the approximate controllability of linear fractional impulsive evolution equations in Hilbert spaces. The system under consideration involves the Caputo fractional derivative of order $0&amp;lt;\alpha\leq 1$, a closed linear operator generating a strongly continuous semigroup, and instantaneous state jumps governed by bounded linear impulse operators. We first derive an explicit representation of the mild solution by combining fractional solution operators with impulsive operators. Using this representation, we characterize the approximate controllability of the system through a necessary and sufficient condition expressed in terms of the convergence of an associated family of impulsive resolvent operators. This resolvent condition extends the classical criterion for approximate controllability to the fractional impulsive setting. To illustrate the applicability of our theoretical results, a concrete example is provided. The analysis presented here bridges the gap between the well-established theory for integer-order impulsive systems and the more complex fractional case, highlighting the distinct challenges and solutions arising from the interplay of fractional dynamics and impulsive effects.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2406.15114&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2406.15114&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 math.DS updates on arXiv.org ➤ Neural Field Equations with random data</title>
+    <link href="https://arxiv.org/abs/2505.16343"/>
+    <id>https://arxiv.org/abs/2505.16343</id>
+    <updated>2026-01-01T05:01:55+00:00</updated>
+    <summary>Mathematical analysis of neural field equations with random inputs, establishing existence/uniqueness/measurability and discretised formulations for uncertainty quantification, with no direct relevance to origins-of-life beyond a generic &#34;evolution equation&#34; framing.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2505.16343v3 Announce Type: replace-cross Abstract: We study neural field equations, which are prototypical models of large-scale cortical activity, subject to random data. We view this spatially-extended, nonlocal evolution equation as a Cauchy problem on abstract Banach spaces, with randomness in the synaptic kernel, firing rate function, external stimuli, and initial conditions. We determine conditions on the random data that guarantee existence, uniqueness, and measurability of the solution in an appropriate Banach space, and examine the regularity of the solution in relation to the regularity of the inputs. We present results for linear and nonlinear neural fields, and for the two most common functional setups in the numerical analysis of this problem. In addition to the continuous problem, we analyse in abstract form neural fields that have been spatially discretised, setting the foundations for analysing uncertainty quantification (UQ) schemes.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2505.16343&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2505.16343&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 math-ph updates on arXiv.org ➤ On spectral equations for an evolution operator of a $q$-oscillator lattice</title>
+    <link href="https://arxiv.org/abs/2512.24043"/>
+    <id>https://arxiv.org/abs/2512.24043</id>
+    <updated>2026-01-01T05:07:49+00:00</updated>
+    <summary>Develops algebraic spectral equations for a unitary relativistic evolution operator on a 2D q-oscillator Kagomé lattice using integrable-systems methods (coordinate Bethe ansatz), with no direct connection to origins-of-life or astrobiology beyond the generic term “evolution.”</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24043v1 Announce Type: new Abstract: We propose a set of algebraic equations describing eigenvalues and eigenstates of a relativistic evolution operator for a two-dimensional $q$-oscillator Kagom\&amp;#x27;e lattice. Evolution operator is constructed with the help of $q$-oscillator solution of the Tetrahedron Equation. We focus on the unitary regime of the evolution operator, so our results are related to 3d integrable systems of the quantum mechanics. Our conjecture is based on a two-dimensional lattice version of the coordinate Bethe-Ansatz.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24043&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24043&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🟤 r/labrats ➤ Starting lab animal caretaker position next month... any advice?</title>

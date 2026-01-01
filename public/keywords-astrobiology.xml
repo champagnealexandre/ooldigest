@@ -4,9 +4,25 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T04:13:37.449160+00:00</updated>
+  <updated>2026-01-01T05:34:31.998278+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🟠 math-ph updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>
+    <link href="https://arxiv.org/abs/2512.11459"/>
+    <id>https://arxiv.org/abs/2512.11459</id>
+    <updated>2026-01-01T05:07:50+00:00</updated>
+    <summary>Mini-review of combinatorial, state-enumeration methods for irreversible aggregation (Marcus–Lushnikov/Smoluchowski) with example kernels and applications including aerosol growth and planetesimal formation, offering tools potentially relevant to prebiotic self-assembly modeling but not explicitly focused on origins-of-life chemistry.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.11459v3 Announce Type: replace-cross Abstract: Over the past decade, a combinatorial framework for discrete, finite, and irreversibly aggregating systems has emerged. This work reviews its progress, practical applications, and limitations. We outline the approach&amp;#x27;s assumptions and foundations, based on direct enumeration of system states, contrasting with classical Smoluchowski and Marcus-Lushnikov methods. Using the constant kernel as an example, we derive combinatorial expressions for the average number of clusters of a given size and their standard deviation, and present the complete probability distribution for cluster counts. The method is then extended to several kernels (additive, product, linear-chain, condensation) by explicitly enumerating ways to form clusters of a given size. For general kernels, approximate solutions are obtained via recursive expressions, enabling predictions without explicit solutions. Applications to aerosol growth and planetesimal formation are demonstrated, with comparisons to numerical results. We summarize issues of validity and precision and propose open problems. The appendix includes partial Bell polynomials, generating functions, Lagrange inversion, potential applications, and links between combinatorial and scaling solutions of the Smoluchowski equation.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.11459&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.11459&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🟤 Radio-Canada ➤ Carambolage majeur impliquant une trentaine de véhicules dans Lotbinière</title>
