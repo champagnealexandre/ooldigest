@@ -127,8 +127,6 @@ def process_feed_item(item, config, client, all_keywords):
         "pub_date": item['pub_date']
     }
 
-def main():
-    # Setup Logging
 def setup_logging():
     if not os.path.exists('logs'):
         os.makedirs('logs')
