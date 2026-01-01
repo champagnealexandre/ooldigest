@@ -135,6 +135,9 @@ def write_feed_status(feed_results: List[dict], categories: dict):
     
     lines = [f"# Feed Status Report", f"Generated: {now}\n"]
     
+    # Legend
+    lines.append("**Legend:** ✅ Healthy | ⚠️ Stalled (30+ days) | ❌ Error | ⬜ Empty (no entries)\n")
+    
     # Summary
     errors = [r for r in feed_results if r['status'] == 'error']
     stalled = [r for r in feed_results if r['status'] == 'stalled']
