@@ -165,6 +165,13 @@ def write_feed_status(feed_results: List[dict], categories: dict):
             lines.append(f"- **{r['title']}**: last post {age} days ago")
         lines.append("")
     
+    if empty:
+        lines.append("## ⬜ Empty Feeds (no entries returned)\n")
+        for r in empty:
+            lines.append(f"- **{r['title']}**")
+            lines.append(f"  - URL: {r['url']}")
+        lines.append("")
+    
     # By category
     lines.append("## Feeds by Category\n")
     for cat_name in categories.keys():
