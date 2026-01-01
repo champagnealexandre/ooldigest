@@ -47,3 +47,4 @@
 | 01 12:57 | **0** | ✅ Accepted | [Six&nbsp;Months&nbsp;Off&nbsp;the&nbsp;Street](https://www.theatlantic.com/politics/2026/01/six-months-off-the-street/685422/?utm_source=feed) |
 | 01 14:27 | **15** | ✅ Accepted | [Why&nbsp;Viruses&nbsp;Speak&nbsp;the&nbsp;Language&nbsp;of&nbsp;Black&nbsp;Holes?](https://www.reddit.com/r/labrats/comments/1q13hjm/why_viruses_speak_the_language_of_black_holes/) |
 | 01 16:36 | **0** | ✅ Accepted | [A&nbsp;Bizarre,&nbsp;Challenging&nbsp;Book&nbsp;More&nbsp;People&nbsp;Should&nbsp;Read](https://www.theatlantic.com/books/2026/01/challenging-book-literature-dewitt-gridneff-your-name-here/685453/?utm_source=feed) |
+| 01 17:25 | **0** | ✅ Accepted | [Iranians&nbsp;Have&nbsp;Had&nbsp;Enough](https://www.theatlantic.com/international/2026/01/iran-protests/685472/?utm_source=feed) |
