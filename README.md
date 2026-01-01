@@ -69,7 +69,7 @@ lib/
 data/
   papers.json        # Processed papers database
   decisions.md       # Human-readable AI decisions
-  feeds-status.md    # Feed health report
+  feeds-status.md    # Feed health report (generated)
 public/
   ooldigest-ai.xml   # Output feed
 ```
@@ -79,4 +79,8 @@ public/
 - `public/ooldigest-ai.xml` — Atom feed of all scored papers
 - `data/decisions.md` — Human-readable log of accept/reject decisions
 - `data/papers.json` — Paper history database
-- `data/feeds-status.md` — Feed health monitoring report
+- `data/feeds-status.md` — Feed health monitoring report (generated)
+
+## License
+
+GNU Affero General Public License v3.0 (AGPL-3.0). See `LICENSE`.
