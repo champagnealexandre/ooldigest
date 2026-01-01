@@ -200,8 +200,17 @@ def process_paper(paper: Paper, config: Config, client, keywords: List[str]) -> 
 # ─────────────────────────────────────────────────────────────────────────────
 
 def main():
-    # Quiet logs: only show our messages, suppress httpx
-    logging.basicConfig(level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%H:%M:%S')
+    # Setup logging: console + timestamped file
+    log_file = f"data/log-{datetime.datetime.now().strftime('%Y-%m-%d_%H%M')}.txt"
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s %(message)s',
+        datefmt='%H:%M:%S',
+        handlers=[
+            logging.StreamHandler(),
+            logging.FileHandler(log_file)
+        ]
+    )
     logging.getLogger("httpx").setLevel(logging.WARNING)
     
     config = load_config()
