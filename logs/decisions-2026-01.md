@@ -40,3 +40,5 @@
 | 01 06:44 | **25** | ✅ Accepted | [Randomization&nbsp;Times&nbsp;under&nbsp;Quantum&nbsp;Chaotic&nbsp;Hamiltonian&nbsp;Evolution](https://arxiv.org/abs/2512.25074) |
 | 01 06:44 | **55** | ✅ Accepted | [Seafloor&nbsp;Weathering&nbsp;and&nbsp;Stochastic&nbsp;Outgassing&nbsp;Unlikely&nbsp;to&nbsp;Significantly&nbsp;Shorten&nbsp;the&nbsp;Future&nbsp;Lifespan&nbsp;of&nbsp;Earth's&nbsp;Terrestrial&nbsp;Biosphere](https://arxiv.org/abs/2512.24538) |
 | 01 06:44 | **43** | ✅ Accepted | [EMPEROR&nbsp;I.&nbsp;Exoplanet&nbsp;MCMC&nbsp;parallel&nbsp;tempering&nbsp;for&nbsp;RV&nbsp;orbit&nbsp;retrieval](https://arxiv.org/abs/2511.05331) |
+| 01 08:37 | **0** | ✅ Accepted | [Dans&nbsp;les&nbsp;ruines&nbsp;des&nbsp;mondes&nbsp;virtuels](https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12) |
+| 01 08:37 | **5** | ✅ Accepted | [Soft&nbsp;Agar&nbsp;Assay&nbsp;-&nbsp;Single&nbsp;cell&nbsp;seq&nbsp;help](https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/) |

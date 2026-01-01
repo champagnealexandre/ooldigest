@@ -1,5 +1,27 @@
 [
   {
+    "title": "Dans les ruines des mondes virtuels",
+    "link": "https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12",
+    "score": 0,
+    "summary": "Article on the digital archaeology of abandoned virtual worlds (e.g., Second Life), with no connection to origins-of-life or astrobiology research.",
+    "extracted_links": [],
+    "abstract": "<p><img alt=\"cover-r4x3w1200-694916c0adfc8-11236-6317\" src=\"https://www.sciencesetavenir.fr/assets/img/2025/12/22/cover-r4x3w1200-694916c0adfc8-11236-631739-k3-k1-1506780-jpg.jpg\" /></p>Utopies peupl\u00e9es d'avatars, les univers virtuels tel Second Life ont fleuri au tournant du 21e si\u00e8cle. Leur disparition a laiss\u00e9 des vestiges num\u00e9riques qui font l'objet de fouilles minutieuses.",
+    "published": "2026-01-01T07:41:22+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "Sciences et Avenir"
+  },
+  {
+    "title": "Soft Agar Assay - Single cell seq help",
+    "link": "https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/",
+    "score": 5,
+    "summary": "A lab-methods question about extracting colonies from soft agar for single-cell RNA-seq, with only a tangential connection to Origins of Life via the mention of RNA.",
+    "extracted_links": [],
+    "abstract": "<div><p>Hello all, </p> <p>I am currently doing colony formation assay with soft agar assay and want to perform single cell rna seq. I want some advice o how to get this colony out from the top agarose layer and prep it or after I trizol it how to separate the agar+agarose material from the rna/cellular material?</p> </div>   submitted by   <a href=\"https://www.reddit.com/user/Mobile-Daikon5242\"> /u/Mobile-Daikon5242 </a> <br /> <span><a href=\"https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/\">[link]</a></span>   <span><a href=\"https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/\">[comments]</a></span>",
+    "published": "2026-01-01T08:24:09+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "r/labrats"
+  },
+  {
     "title": "Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation",
     "link": "https://arxiv.org/abs/2512.24792",
     "score": 0,

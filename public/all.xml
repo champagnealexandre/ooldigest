@@ -4,9 +4,41 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/all.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T07:29:40.001818+00:00</updated>
+  <updated>2026-01-01T08:37:55.040287+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/all.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🟤 Sciences et Avenir ➤ Dans les ruines des mondes virtuels</title>
+    <link href="https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12"/>
+    <id>https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12</id>
+    <updated>2026-01-01T07:41:22+00:00</updated>
+    <summary>Article on the digital archaeology of abandoned virtual worlds (e.g., Second Life), with no connection to origins-of-life or astrobiology research.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    Utopies peuplées d&amp;#x27;avatars, les univers virtuels tel Second Life ont fleuri au tournant du 21e siècle. Leur disparition a laissé des vestiges numériques qui font l&amp;#x27;objet de fouilles minutieuses.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 r/labrats ➤ Soft Agar Assay - Single cell seq help</title>
+    <link href="https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/"/>
+    <id>https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/</id>
+    <updated>2026-01-01T08:24:09+00:00</updated>
+    <summary>A lab-methods question about extracting colonies from soft agar for single-cell RNA-seq, with only a tangential connection to Origins of Life via the mention of RNA.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    Hello all, I am currently doing colony formation assay with soft agar assay and want to perform single cell rna seq. I want some advice o how to get this colony out from the top agarose layer and prep it or after I trizol it how to separate the agar+agarose material from the rna/cellular material? submitted by /u/Mobile-Daikon5242 [link] [comments]
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🟤 cs.NE updates on arXiv.org ➤ Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation</title>
