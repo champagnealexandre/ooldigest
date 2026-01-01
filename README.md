@@ -67,8 +67,9 @@ lib/
   feed.py            # Atom feed generator
   utils.py           # History & logging
 data/
-  history.json       # Processed papers cache
-  log.md             # Human-readable decisions
+  papers.json        # Processed papers database
+  decisions.md       # Human-readable AI decisions
+  feeds-status.md    # Feed health report
 public/
   ooldigest-ai.xml   # Output feed
 ```
@@ -76,5 +77,6 @@ public/
 ## Outputs
 
 - `public/ooldigest-ai.xml` — Atom feed of all scored papers
-- `data/log.md` — Human-readable log of accept/reject decisions
-- `data/history.json` — Machine-readable paper history
+- `data/decisions.md` — Human-readable log of accept/reject decisions
+- `data/papers.json` — Paper history database
+- `data/feeds-status.md` — Feed health monitoring report

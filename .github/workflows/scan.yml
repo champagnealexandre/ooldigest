@@ -31,8 +31,8 @@ jobs:
       - name: Clear history
         if: ${{ inputs.clear_history }}
         run: |
-          echo "[]" > data/history.json
-          rm -f data/log.md
+          echo "[]" > data/papers.json
+          rm -f data/decisions.md
 
       - uses: actions/setup-python@v5
         with:

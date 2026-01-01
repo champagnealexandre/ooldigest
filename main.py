@@ -261,7 +261,7 @@ def main():
         for fut in concurrent.futures.as_completed(futures):
             try:
                 paper = fut.result()
-                utils.log_decision("data/log.md", paper.title, 
+                utils.log_decision("data/decisions.md", paper.title, 
                                    paper.analysis_result.get('score', 0), 
                                    "Accept", paper.url)
                 processed.append(paper)
