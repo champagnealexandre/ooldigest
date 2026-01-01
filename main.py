@@ -3,7 +3,10 @@ import yaml
 import datetime
 import logging
 import concurrent.futures
-from lib import utils, hunter, ai, feed as feed_gen, rss
+import feedparser
+import time
+from time import mktime
+from lib import utils, hunter, ai, feed as feed_gen
 from lib.config_schema import Config
 
 def load_config() -> dict:
@@ -14,6 +17,63 @@ def load_config() -> dict:
     # Return as dict to maintain compatibility with existing code
     return config_model.model_dump()
 
+def load_feeds_config():
+    with open("feeds.yaml", "r") as f:
+        return yaml.safe_load(f)['feeds']
+
+def determine_category(text, config):
+    text = text.lower()
+    if any(k.lower() in text for k in config['keywords_ool']):
+        return 'KEYWORDS-OOL'
+    if any(k.lower() in text for k in config['keywords_astro']):
+        return 'KEYWORDS-ASTROBIOLOGY'
+    return 'KEYWORDS-OOL'
+
+def filter_by_keywords(entry, keywords):
+    text_content = (entry.get('title', '') + " " + 
+                    entry.get('summary', '') + " " + 
+                    entry.get('description', '')).lower()
+    if 'tags' in entry:
+        for tag in entry.tags:
+            text_content += " " + tag.term.lower()
+
+    for keyword in keywords:
+        if keyword.lower() in text_content:
+            return True
+    return False
+
+def fetch_feed(feed_config, existing_links, keywords, cutoff_date):
+    url = feed_config['url']
+    feed_title = feed_config['title']
+    relevant_entries = []
+    
+    try:
+        parsed = feedparser.parse(url)
+        for entry in parsed.entries:
+            link = entry.get('link')
+            if not link or link in existing_links:
+                continue
+            
+            published = None
+            if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                published = datetime.datetime.fromtimestamp(mktime(entry.published_parsed), datetime.timezone.utc)
+            elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                published = datetime.datetime.fromtimestamp(mktime(entry.updated_parsed), datetime.timezone.utc)
+            
+            if published and published < cutoff_date:
+                continue
+
+            if filter_by_keywords(entry, keywords):
+                relevant_entries.append({
+                    'entry': entry,
+                    'source_title': feed_title,
+                    'pub_date': published if published else datetime.datetime.now(datetime.timezone.utc)
+                })
+    except Exception as e:
+        logging.error(f"Error fetching {url}: {e}")
+        
+    return relevant_entries
+
 def process_feed_item(item, config, client, all_keywords):
     """
     Worker function to process a single paper:
@@ -22,7 +82,12 @@ def process_feed_item(item, config, client, all_keywords):
     3. Return the result object
     """
     entry = item['entry']
-    feed_category = item['category']
+    
+    # Determine category based on content
+    content_text = (entry.get('title', '') + " " + 
+                    entry.get('summary', '') + " " + 
+                    entry.get('description', '')).lower()
+    feed_category = determine_category(content_text, config)
     
     logging.info(f"[Hunter] Scanning {entry.link[:40]}...")
     hunted_links = hunter.hunt_paper_links(entry.link, config['academic_domains'])
@@ -69,9 +134,21 @@ def main():
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     
     history = utils.load_history(config['history_file'])
-    existing_titles = {item.get('title') for item in history}
+    existing_links = {item.get('link') for item in history}
     
-    feed_items = rss.fetch_new_entries(config['rss_urls'], existing_titles, cutoff)
+    feeds = load_feeds_config()
+    feed_items = []
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+        futures = [
+            executor.submit(fetch_feed, feed, existing_links, all_keywords, cutoff) 
+            for feed in feeds
+        ]
+        for future in concurrent.futures.as_completed(futures):
+            feed_items.extend(future.result())
+            
+    logging.info(f"Found {len(feed_items)} candidates matching keywords.")
+    
     new_hits = []
 
     # Parallel Execution
