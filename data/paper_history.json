@@ -1,5 +1,27 @@
 [
   {
+    "title": "A Year of Fires and Floods in Southern California",
+    "link": "https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html",
+    "score": 0,
+    "summary": "A regional climate-impact piece on wildfires and flooding in Los Angeles with no direct connection to origins-of-life research or astrobiological habitability.",
+    "extracted_links": [],
+    "abstract": "The floods that struck last week just before the first anniversary of the January wildfires show how extreme weather is defining life in the L.A. region.",
+    "published": "2026-01-01T11:03:10+00:00",
+    "category": "KEYWORDS-OOL",
+    "feed_source": "The New York Times"
+  },
+  {
+    "title": "Space Events 2026: NASA\u2019s Artemis II Moon Mission, Summer Eclipse and More",
+    "link": "https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html",
+    "score": 20,
+    "summary": "A general-interest roundup of 2026 space events (including Artemis II and Mars-related missions) with little direct relevance to origins-of-life, prebiotic chemistry, or biosignature/habitability research.",
+    "extracted_links": [],
+    "abstract": "In 2026, there will be journeys to the moon and Mars, new visions of the cosmos and a solar eclipse that might be worth traveling for.",
+    "published": "2026-01-01T11:03:48+00:00",
+    "category": "KEYWORDS-ASTROBIOLOGY",
+    "feed_source": "The New York Times"
+  },
+  {
     "title": "Dans les ruines des mondes virtuels",
     "link": "https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12",
     "score": 0,

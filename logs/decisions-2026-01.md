@@ -42,3 +42,5 @@
 | 01 06:44 | **43** | ✅ Accepted | [EMPEROR&nbsp;I.&nbsp;Exoplanet&nbsp;MCMC&nbsp;parallel&nbsp;tempering&nbsp;for&nbsp;RV&nbsp;orbit&nbsp;retrieval](https://arxiv.org/abs/2511.05331) |
 | 01 08:37 | **0** | ✅ Accepted | [Dans&nbsp;les&nbsp;ruines&nbsp;des&nbsp;mondes&nbsp;virtuels](https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12) |
 | 01 08:37 | **5** | ✅ Accepted | [Soft&nbsp;Agar&nbsp;Assay&nbsp;-&nbsp;Single&nbsp;cell&nbsp;seq&nbsp;help](https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/) |
+| 01 11:25 | **0** | ✅ Accepted | [A&nbsp;Year&nbsp;of&nbsp;Fires&nbsp;and&nbsp;Floods&nbsp;in&nbsp;Southern&nbsp;California](https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html) |
+| 01 11:25 | **20** | ✅ Accepted | [Space&nbsp;Events&nbsp;2026:&nbsp;NASA’s&nbsp;Artemis&nbsp;II&nbsp;Moon&nbsp;Mission,&nbsp;Summer&nbsp;Eclipse&nbsp;and&nbsp;More](https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html) |

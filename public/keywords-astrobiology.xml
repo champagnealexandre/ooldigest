@@ -4,9 +4,25 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T10:30:38.095409+00:00</updated>
+  <updated>2026-01-01T11:25:02.439944+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🔴 The New York Times ➤ Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More</title>
+    <link href="https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html"/>
+    <id>https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html</id>
+    <updated>2026-01-01T11:03:48+00:00</updated>
+    <summary>A general-interest roundup of 2026 space events (including Artemis II and Mars-related missions) with little direct relevance to origins-of-life, prebiotic chemistry, or biosignature/habitability research.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    In 2026, there will be journeys to the moon and Mars, new visions of the cosmos and a solar eclipse that might be worth traveling for.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🟠 astro-ph.EP updates on arXiv.org ➤ Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth&#39;s Terrestrial Biosphere</title>

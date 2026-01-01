@@ -4,9 +4,41 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/all.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T10:30:37.965347+00:00</updated>
+  <updated>2026-01-01T11:25:02.312496+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/all.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🟤 The New York Times ➤ A Year of Fires and Floods in Southern California</title>
+    <link href="https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html"/>
+    <id>https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html</id>
+    <updated>2026-01-01T11:03:10+00:00</updated>
+    <summary>A regional climate-impact piece on wildfires and flooding in Los Angeles with no direct connection to origins-of-life research or astrobiological habitability.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    The floods that struck last week just before the first anniversary of the January wildfires show how extreme weather is defining life in the L.A. region.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 The New York Times ➤ Space Events 2026: NASA’s Artemis II Moon Mission, Summer Eclipse and More</title>
+    <link href="https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html"/>
+    <id>https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html</id>
+    <updated>2026-01-01T11:03:48+00:00</updated>
+    <summary>A general-interest roundup of 2026 space events (including Artemis II and Mars-related missions) with little direct relevance to origins-of-life, prebiotic chemistry, or biosignature/habitability research.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    In 2026, there will be journeys to the moon and Mars, new visions of the cosmos and a solar eclipse that might be worth traveling for.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;br/&gt;No direct link found.
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🟤 Sciences et Avenir ➤ Dans les ruines des mondes virtuels</title>
