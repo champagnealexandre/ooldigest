@@ -1,83 +1,80 @@
-# Astrobiology AI Digest
+# OOL Digest
 
-An AI-powered research assistant that curates, scores, and summarizes scientific papers related to the **Origins of Life (OoL)** and **Astrobiology**.
+AI-powered curation of **Origins of Life** and **Astrobiology** papers.
 
-## 🚀 How It Works
+## How It Works
 
-1.  **Fetch**: The agent monitors RSS feeds defined in `config.yaml`.
-2.  **Hunt**: It visits the source URL of each paper to scrape for DOIs and direct PDF links ("Link Hunter").
-3.  **Analyze**: An LLM (via OpenRouter) analyzes the title, abstract, and found links against a specific scoring rubric.
-4.  **Publish**: It generates categorized Atom feeds (`.xml`) and a decision log.
+1. **Fetch** — Monitor 70+ RSS feeds from journals & preprint servers
+2. **Filter** — Match papers against OoL/Astrobiology keywords
+3. **Hunt** — Scrape source URLs for DOIs and academic links
+4. **Analyze** — LLM scores relevance (0-100) via OpenRouter
+5. **Publish** — Generate Atom XML feeds
 
-## 📡 Data Sources
+## Setup
 
-The agent ingests data from three primary RSS feeds hosted on **Inoreader**. These feeds are **aggregates** of dozens of individual scientific journals and preprint servers (e.g., Nature, Science, arXiv, bioRxiv).
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+export OPENROUTER_API_KEY="your_key"
+python main.py
+```
 
--   **Inoreader Filtering**: Inoreader acts as the first layer of filtration. It monitors the individual journal feeds and retains only the articles that match specific keyword groups (Origins of Life, Astrobiology, etc.).
--   **Keyword Alignment**: The keywords used by Inoreader to filter these feeds are aligned with the `keywords_*` lists defined in `config.yaml`.
--   **Aggregated Streams**: The URLs in `config.yaml` correspond to these pre-filtered, aggregated streams, ensuring the AI agent only spends resources analyzing papers that have already passed a basic relevance check.
+## Configuration
 
-### ⏱️ Refresh Cycle
--   **Source Cache**: Inoreader caches the source feeds and refreshes them approximately every **30 minutes**.
--   **Agent Scan**: This GitHub Action is scheduled to run every **hour** to process new items.
--   **Final Delivery**: The update frequency of the final XML feeds in your RSS reader depends on your reader's own polling configuration.
+All config lives in `config/`:
 
-## ⚙️ Configuration
+| File | Purpose |
+|------|---------|
+| `config.yaml` | LLM settings, keywords, scoring prompt |
+| `feeds.yaml` | RSS feed sources by category |
 
-The behavior of the agent is controlled by `config.yaml`.
+### Model Tiers
 
--   **`rss_urls`**: List of source RSS feeds to monitor.
--   **`model_tier`**: Selects the AI model to use (1-4).
--   **`models`**: Defines the available models (e.g., Gemini, GPT-4o).
--   **`keywords_*`**: Lists of keywords used for scoring relevance.
--   **`custom_instructions`**: Specific rules for the AI (e.g., "Deprioritize generic exoplanet discoveries").
+Set `model_tier` in config.yaml (1-4):
 
-## 🛠️ Local Setup
+| Tier | Model |
+|------|-------|
+| 1 | `google/gemini-2.5-flash-lite` |
+| 2 | `openai/gpt-4o-mini` |
+| 3 | `google/gemini-2.5-pro` |
+| 4 | `openai/gpt-5.2` |
 
-1.  **Clone the repository**:
-    ```bash
-    git clone https://github.com/champagnealexandre/ooldigest.git
-    cd ooldigest
-    ```
+### Available OpenRouter Models
 
-2.  **Set up Python environment**:
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate
-    pip install -r requirements.txt
-    ```
+**Google Gemini:**
+- `google/gemini-2.5-flash`, `google/gemini-2.5-flash-lite`
+- `google/gemini-2.5-pro`, `google/gemini-3-pro-preview`
+- `google/gemini-2.0-flash-001`, `google/gemini-3-flash-preview`
 
-3.  **Set API Key**:
-    ```bash
-    export OPENROUTER_API_KEY="your_key_here"
-    ```
+**OpenAI:**
+- `openai/gpt-4o`, `openai/gpt-4o-mini`, `openai/gpt-4.1`
+- `openai/gpt-5-mini`, `openai/gpt-5-nano`
+- `openai/gpt-5.1`, `openai/gpt-5.1-chat`, `openai/gpt-5.2`, `openai/gpt-5.2-pro`
+- `openai/o1-mini`, `openai/o1-pro`, `openai/o3-deep-research`
 
-4.  **Run the Agent**:
-    ```bash
-    python main.py
-    ```
+## Project Structure
 
-## 🤖 GitHub Actions Automation
+```
+main.py              # Pipeline orchestrator
+config/
+  config.yaml        # LLM & keyword settings
+  feeds.yaml         # RSS sources
+lib/
+  models.py          # Config + Paper data models
+  ai.py              # OpenRouter LLM client
+  hunter.py          # DOI/link scraper
+  feed.py            # Atom feed generator
+  utils.py           # History & logging
+data/
+  history.json       # Processed papers cache
+  log.md             # Human-readable decisions
+public/
+  ooldigest-ai.xml   # Output feed
+```
 
-The project is designed to run automatically via GitHub Actions on an hourly schedule. You can manually trigger the workflow with options to:
--   **Skip Python Scan**: Only deploy existing files.
--   **Clear History**: Wipe memory to re-scan all papers.
--   **Clear Logs**: Reset the monthly decision log.
+## Outputs
 
-## 📂 Outputs
-
-After a successful run, the agent publishes the following files to the `public/` directory (served via GitHub Pages):
-
--   **`all.xml`**: An aggregate feed containing all accepted papers.
--   **`[category].xml`**: Individual feeds for each keyword group (e.g., `keywords-ool.xml`, `keywords-astrobiology.xml`).
-
-Additionally, a decision log is maintained in the `logs/` directory (e.g., `decisions-2025-12.md`), recording the score and reasoning for every processed paper.
-
-## 📁 Project Structure
-
--   **`main.py`**: The entry point and orchestrator.
--   **`config.yaml`**: Central configuration file.
--   **`lib/`**: Core logic modules (`ai.py`, `feed.py`, `hunter.py`, `rss.py`).
--   **`templates/`**: Jinja2 templates for feed generation.
--   **`data/`**: Stores the persistent memory (`paper_history.json`).
--   **`public/`**: The build output directory for the XML feeds.
+- `public/ooldigest-ai.xml` — Atom feed of all scored papers
+- `data/log.md` — Human-readable log of accept/reject decisions
+- `data/history.json` — Machine-readable paper history

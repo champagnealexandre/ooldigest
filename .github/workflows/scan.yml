@@ -1,0 +1,74 @@
+name: Hourly Scan
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    inputs:
+      skip_scan:
+        description: 'Skip scan (deploy only)'
+        type: boolean
+      clear_history:
+        description: '⚠️ Clear history'
+        type: boolean
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  scan:
+    if: ${{ !inputs.skip_scan }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Clear history
+        if: ${{ inputs.clear_history }}
+        run: |
+          echo "[]" > data/history.json
+          rm -f data/log.md
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python main.py
+
+      - name: Commit changes
+        run: |
+          git config user.name 'GitHub Action'
+          git config user.email 'action@github.com'
+          git add data/ public/
+          git diff --staged --quiet || git commit -m "Auto-update" && git push
+
+  deploy:
+    needs: scan
+    if: ${{ always() && (needs.scan.result == 'success' || inputs.skip_scan) }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - uses: actions/deploy-pages@v4
+        id: deployment

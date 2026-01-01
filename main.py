@@ -1,244 +1,162 @@
+#!/usr/bin/env python3
+"""
+OOL Digest - AI-powered Origins of Life paper curation.
+
+Pipeline: Fetch RSS → Keyword Filter → Hunt Links → AI Score → Generate Feeds
+"""
+
 import os
 import yaml
-import datetime
 import logging
+import datetime
 import concurrent.futures
 import feedparser
-import time
 from time import mktime
-from lib import utils, hunter, ai, feed as feed_gen
-from lib.config_schema import Config
+from typing import List
 
-def load_config() -> dict:
-    with open("config.yaml", "r") as f:
-        raw_config = yaml.safe_load(f)
-    # Validate with Pydantic
-    config_model = Config(**raw_config)
-    # Return as dict to maintain compatibility with existing code
-    return config_model.model_dump()
+from lib.models import Config, Paper
+from lib import utils, hunter, ai, feed
 
-def load_feeds_config():
-    with open("feeds.yaml", "r") as f:
-        config = yaml.safe_load(f)
-    all_feeds = []
-    for category, feeds_in_category in config.get('feed_categories', {}).items():
-        if feeds_in_category:
-            all_feeds.extend(feeds_in_category)
-    return all_feeds
 
-def determine_category(text, config):
-    text = text.lower()
-    if any(k.lower() in text for k in config['keywords_ool']):
-        return 'KEYWORDS-OOL'
-    if any(k.lower() in text for k in config['keywords_astro']):
-        return 'KEYWORDS-ASTROBIOLOGY'
-    return 'KEYWORDS-OOL'
+# ─────────────────────────────────────────────────────────────────────────────
+# CONFIGURATION
+# ─────────────────────────────────────────────────────────────────────────────
 
-def filter_by_keywords(entry, keywords):
-    text_content = (entry.get('title', '') + " " + 
-                    entry.get('summary', '') + " " + 
-                    entry.get('description', '')).lower()
+def load_config() -> Config:
+    with open("config/config.yaml") as f:
+        return Config(**yaml.safe_load(f))
+
+
+def load_feeds() -> List[dict]:
+    with open("config/feeds.yaml") as f:
+        data = yaml.safe_load(f)
+    # Flatten all categories into a single list
+    feeds = []
+    for category in data.get('feed_categories', {}).values():
+        feeds.extend(category)
+    return feeds
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# STAGE 1: FETCH & KEYWORD FILTER
+# ─────────────────────────────────────────────────────────────────────────────
+
+def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> bool:
+    """Check if entry matches any keyword."""
+    text = f"{entry.get('title', '')} {entry.get('summary', '')}".lower()
     if 'tags' in entry:
-        for tag in entry.tags:
-            text_content += " " + tag.term.lower()
+        text += " " + " ".join(t.term.lower() for t in entry.tags)
+    return any(kw.lower() in text for kw in keywords)
 
-    for keyword in keywords:
-        if keyword.lower() in text_content:
-            return True
-    return False
 
-def append_decision(filename, title, score, status, link):
-    try:
-        with open(filename, "a") as f:
-            timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            f.write(f"- **{timestamp}** {status} | Score: {score} | [{title}]({link})\n")
-    except Exception as e:
-        logging.error(f"Failed to write to {filename}: {e}")
-
-def fetch_feed(feed_config, existing_links, keywords, cutoff_date):
-    url = feed_config['url']
-    feed_title = feed_config['title']
-    relevant_entries = []
-    
-    logging.info(f"Fetching {feed_title}...")
+def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime) -> List[Paper]:
+    """Fetch a single RSS feed and return papers matching keywords."""
+    url, title = feed_cfg['url'], feed_cfg['title']
+    papers = []
     
     try:
         parsed = feedparser.parse(url)
         for entry in parsed.entries:
             link = entry.get('link')
-            if not link or link in existing_links:
+            if not link or link in seen:
                 continue
             
-            published = None
+            # Parse date
+            pub = None
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                published = datetime.datetime.fromtimestamp(mktime(entry.published_parsed), datetime.timezone.utc)
+                pub = datetime.datetime.fromtimestamp(mktime(entry.published_parsed), datetime.timezone.utc)
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                published = datetime.datetime.fromtimestamp(mktime(entry.updated_parsed), datetime.timezone.utc)
+                pub = datetime.datetime.fromtimestamp(mktime(entry.updated_parsed), datetime.timezone.utc)
             
-            if published and published < cutoff_date:
+            if pub and pub < cutoff:
                 continue
-
-            title = entry.get('title', 'No Title')
-            if filter_by_keywords(entry, keywords):
-                logging.info(f"Keyword MATCH: {title}")
-                append_decision("logs/keyword-decisions.md", title, "N/A", "MATCH", link)
-                relevant_entries.append({
-                    'entry': entry,
-                    'source_title': feed_title,
-                    'pub_date': published if published else datetime.datetime.now(datetime.timezone.utc)
-                })
-            else:
-                append_decision("logs/keyword-decisions.md", title, "N/A", "REJECT", link)
+            
+            entry_title = entry.get('title', 'No Title')
+            if matches_keywords(entry, keywords):
+                logging.info(f"✓ Keyword match: {entry_title[:50]}")
+                papers.append(Paper(
+                    title=entry_title,
+                    summary=entry.get('summary', ''),
+                    url=link,
+                    published_date=pub or datetime.datetime.now(datetime.timezone.utc),
+                ))
     except Exception as e:
-        logging.error(f"Error fetching {url}: {e}")
-        
-    return relevant_entries
+        logging.warning(f"Failed to fetch {title}: {e}")
+    
+    return papers
 
-def process_feed_item(item, config, client, all_keywords):
-    """
-    Worker function to process a single paper:
-    1. Scrape links (Hunter)
-    2. Analyze with AI
-    3. Return the result object
-    """
-    entry = item['entry']
-    
-    # Determine category based on content
-    content_text = (entry.get('title', '') + " " + 
-                    entry.get('summary', '') + " " + 
-                    entry.get('description', '')).lower()
-    feed_category = determine_category(content_text, config)
-    
-    logging.info(f"[Hunter] Scanning {entry.link[:40]}...")
-    hunted_links = hunter.hunt_paper_links(entry.link, config['academic_domains'])
-    
-    # Analyze
-    analysis_primary = ai.analyze_paper(
-        client,
-        config['models'].get(str(config['model_tier']), "openai/gpt-5.2"),
-        config.get('model_prompt', ''),
-        entry.title, 
-        getattr(entry, 'description', ''), 
-        hunted_links,
-        all_keywords,
-        config['custom_instructions'],
-        temperature=config.get('model_temperature', 0.1)
-    )
-    
-    return {
-        "paper": entry,
-        "analysis": analysis_primary,
-        "links": hunted_links,
-        "category": feed_category,
-        "source": item['source_title'],
-        "pub_date": item['pub_date']
-    }
 
-def setup_logging():
-    if not os.path.exists('logs'):
-        os.makedirs('logs')
-    
-    log_filename = f"logs/run_{datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log"
-    
-    logging.basicConfig(
-        level=logging.INFO,
-        format='%(asctime)s - %(levelname)s - %(message)s',
-        datefmt='%H:%M:%S',
-        handlers=[
-            logging.FileHandler(log_filename),
-            logging.StreamHandler()
-        ]
+# ─────────────────────────────────────────────────────────────────────────────
+# STAGE 2 & 3: PROCESS PAPER (Hunt + Analyze)
+# ─────────────────────────────────────────────────────────────────────────────
+
+def process_paper(paper: Paper, config: Config, client, keywords: List[str]) -> Paper:
+    """Hunt links and score with AI."""
+    paper.hunted_links = hunter.hunt_paper_links(paper.url, config.academic_domains)
+    model = config.models[config.model_tier - 1]
+    paper.analysis_result = ai.analyze_paper(
+        client, model, config.model_prompt,
+        paper.title, paper.summary, paper.hunted_links,
+        keywords, config.custom_instructions, config.model_temperature
     )
+    return paper
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# MAIN
+# ─────────────────────────────────────────────────────────────────────────────
 
 def main():
-    # Setup Logging
-    setup_logging()
-
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%H:%M:%S')
     config = load_config()
+    client = ai.get_client(os.getenv("OPENROUTER_API_KEY"))
+    keywords = list(set(config.keywords_astro + config.keywords_ool))
     
-    # Setup AI
-    api_key = os.getenv("OPENROUTER_API_KEY")
-    client = ai.get_client(api_key)
-    
-    all_keywords = list(set(config['keywords_astro'] + config['keywords_ool']))
-    
-    logging.info("Fetching RSS feeds...")
+    # Load history
+    history = utils.load_history(config.history_file)
+    seen = {p.get('url') for p in history}
     cutoff = datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(hours=24)
     
-    history = utils.load_history(config['history_file'])
-    existing_links = {item.get('link') for item in history}
+    # STAGE 1: Fetch feeds concurrently
+    logging.info("Fetching RSS feeds...")
+    feeds = load_feeds()
+    candidates: List[Paper] = []
     
-    feeds = load_feeds_config()
-    feed_items = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
+        futures = [ex.submit(fetch_feed, f, seen, keywords, cutoff) for f in feeds]
+        for fut in concurrent.futures.as_completed(futures):
+            candidates.extend(fut.result())
     
-    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
-        futures = [
-            executor.submit(fetch_feed, feed, existing_links, all_keywords, cutoff) 
-            for feed in feeds
-        ]
-        for future in concurrent.futures.as_completed(futures):
-            feed_items.extend(future.result())
-            
-    logging.info(f"Found {len(feed_items)} candidates matching keywords.")
+    logging.info(f"Found {len(candidates)} candidates")
     
-    new_hits = []
-
-    # Parallel Execution
-    # We use max_workers=10 to be polite to servers, but you can increase this.
-    with concurrent.futures.ThreadPoolExecutor(max_workers=config.get('max_workers', 10)) as executor:
-        future_to_item = {
-            executor.submit(process_feed_item, item, config, client, all_keywords): item 
-            for item in feed_items
-        }
-
-        for future in concurrent.futures.as_completed(future_to_item):
+    # STAGE 2 & 3: Process papers (hunt + analyze)
+    processed: List[Paper] = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=config.max_workers) as ex:
+        futures = {ex.submit(process_paper, p, config, client, keywords): p for p in candidates}
+        for fut in concurrent.futures.as_completed(futures):
             try:
-                result = future.result()
-                entry = result['paper']
-                score = result['analysis']['score']
-                
-                paper_obj = {
-                    "title": entry.title,
-                    "link": entry.link, 
-                    "score": score,
-                    "summary": result['analysis']['summary'],
-                    "extracted_links": result['links'],
-                    "abstract": getattr(entry, 'description', ''),
-                    "published": result['pub_date'].isoformat(),
-                    "category": result['category'],
-                    "feed_source": result['source']
-                }
-                
-                new_hits.append(paper_obj)
-                
-                if score >= 0:
-                    logging.info(f"✅ ACCEPTED [{score}]: {entry.title}")
-                    append_decision("logs/ai-decisions.md", entry.title, score, "✅ Accepted", entry.link)
-                else:
-                    logging.info(f"❌ REJECTED [{score}]: {entry.title}")
-                    append_decision("logs/ai-decisions.md", entry.title, score, "❌ Rejected", entry.link)
-
+                paper = fut.result()
+                score = paper.analysis_result.get('score', 0)
+                action = "✅ Accept" if score >= 0 else "❌ Reject"
+                logging.info(f"{action} [{score}]: {paper.title[:50]}")
+                utils.log_decision("data/log.md", paper.title, score, action, paper.url)
+                processed.append(paper)
             except Exception as e:
-                logging.error(f"⚠️ Error processing a paper: {e}")
-
-    if new_hits:
-        logging.info(f"Processed {len(new_hits)} papers.")
-        updated_history = new_hits + history
-        utils.save_history(updated_history, config['history_file'])
-        papers_to_gen = updated_history
+                logging.error(f"Error: {e}")
+    
+    # Update history
+    if processed:
+        new_history = [p.model_dump(mode='json') for p in processed] + history
+        utils.save_history(new_history, config.history_file)
+        all_papers = new_history
     else:
-        papers_to_gen = history
-        logging.info("No new papers, but feed regenerated.")
+        all_papers = history
+        logging.info("No new papers found.")
+    
+    # STAGE 4: Generate feeds
+    logging.info("Generating feeds...")
+    feed.generate_feed(all_papers, config.model_dump(), "ooldigest-ai.xml")
 
-    # 1. Generate Aggregate Feed
-    feed_gen.generate_feed(papers_to_gen, config, "all.xml", "All")
-
-    # 2. Generate Category Feeds
-    categories = set(p.get('category') for p in papers_to_gen if p.get('category'))
-    for cat in categories:
-        cat_papers = [p for p in papers_to_gen if p.get('category') == cat]
-        safe_filename = cat.lower().strip() + ".xml"
-        feed_gen.generate_feed(cat_papers, config, safe_filename, cat)
 
 if __name__ == "__main__":
     main()
