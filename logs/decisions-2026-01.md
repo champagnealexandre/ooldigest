@@ -1,0 +1,51 @@
+# Decision Log: 2026-01
+
+| Date (UTC) | Score | Action | Paper |
+|---|---|---|---|
+| 01 02:28 | **0** | ✅ Accepted | [Carambolage&nbsp;majeur&nbsp;impliquant&nbsp;une&nbsp;trentaine&nbsp;de&nbsp;véhicules&nbsp;dans&nbsp;Lotbinière](https://ici.radio-canada.ca/nouvelle/2217121/carambolages-lotbiniere-accident-chaudiere-appalaches) |
+| 01 02:28 | **0** | ✅ Accepted | [Starting&nbsp;lab&nbsp;animal&nbsp;caretaker&nbsp;position&nbsp;next&nbsp;month...&nbsp;any&nbsp;advice?](https://www.reddit.com/r/labrats/comments/1q0rdsv/starting_lab_animal_caretaker_position_next_month/) |
+| 01 02:28 | **0** | ✅ Accepted | [The&nbsp;Cult&nbsp;of&nbsp;Costco](https://www.theatlantic.com/newsletters/2025/12/costco-is-an-american-achievement/685411/?utm_source=feed) |
+| 01 02:28 | **5** | ✅ Accepted | [Trump’s&nbsp;Veto&nbsp;of&nbsp;Water&nbsp;Project&nbsp;Is&nbsp;His&nbsp;Latest&nbsp;Targeted&nbsp;Hit&nbsp;on&nbsp;Colorado](https://www.nytimes.com/2025/12/31/us/politics/trump-veto-water-project-colorado.html) |
+| 01 05:34 | **35** | ✅ Accepted | [Binary&nbsp;Galton-Watson&nbsp;trees&nbsp;with&nbsp;mutations](https://arxiv.org/abs/2501.10951) |
+| 01 05:34 | **15** | ✅ Accepted | [A&nbsp;chaotic&nbsp;lattice&nbsp;field&nbsp;theory&nbsp;in&nbsp;two&nbsp;dimensions](https://arxiv.org/abs/2503.22972) |
+| 01 05:34 | **2** | ✅ Accepted | [Simple&nbsp;and&nbsp;general&nbsp;unitarity&nbsp;conserving&nbsp;numerical&nbsp;real&nbsp;time&nbsp;propagators&nbsp;of&nbsp;time&nbsp;dependent&nbsp;Schr\"odinger&nbsp;equation&nbsp;based&nbsp;on&nbsp;Magnus&nbsp;expansion](https://arxiv.org/abs/2312.01115) |
+| 01 05:34 | **20** | ✅ Accepted | [Constraints&nbsp;on&nbsp;the&nbsp;perfect&nbsp;phylogeny&nbsp;mixture&nbsp;model&nbsp;and&nbsp;their&nbsp;effect&nbsp;on&nbsp;reducing&nbsp;degeneracy](https://arxiv.org/abs/2512.24930) |
+| 01 05:34 | **35** | ✅ Accepted | [Enhanced&nbsp;premelting&nbsp;at&nbsp;the&nbsp;ice-rubber&nbsp;interface&nbsp;using&nbsp;all-atom&nbsp;molecular&nbsp;dynamics&nbsp;simulation](https://arxiv.org/abs/2508.20448) |
+| 01 05:34 | **40** | ✅ Accepted | [Information&nbsp;Physics&nbsp;of&nbsp;Intelligence:&nbsp;Unifying&nbsp;Logical&nbsp;Depth&nbsp;and&nbsp;Entropy&nbsp;under&nbsp;Thermodynamic&nbsp;Constraints](https://arxiv.org/abs/2511.19156) |
+| 01 05:34 | **35** | ✅ Accepted | [Epigenetic&nbsp;Control&nbsp;and&nbsp;Reprogramming-Induced&nbsp;Potential&nbsp;Landscapes&nbsp;of&nbsp;Gene&nbsp;Regulatory&nbsp;Networks:&nbsp;A&nbsp;Quantitative&nbsp;Theoretical&nbsp;Approach](https://arxiv.org/abs/2512.24427) |
+| 01 05:34 | **35** | ✅ Accepted | [Experimental&nbsp;Study&nbsp;on&nbsp;Fracture&nbsp;Structure&nbsp;of&nbsp;Sumi-Wari](https://arxiv.org/abs/2512.24830) |
+| 01 05:34 | **40** | ✅ Accepted | [Contact-Geometric&nbsp;Dynamics&nbsp;for&nbsp;Dissipative&nbsp;Nonlinear&nbsp;Systems](https://arxiv.org/abs/2512.04526) |
+| 01 05:34 | **0** | ✅ Accepted | [Classical&nbsp;integrability&nbsp;in&nbsp;2D&nbsp;and&nbsp;asymptotic&nbsp;symmetries](https://arxiv.org/abs/2512.24833) |
+| 01 05:34 | **45** | ✅ Accepted | [Martini&nbsp;Mapper:&nbsp;An&nbsp;Automated&nbsp;Fragment-Based&nbsp;Framework&nbsp;for&nbsp;Developing&nbsp;Coarse-Grained&nbsp;Models&nbsp;within&nbsp;the&nbsp;Martini&nbsp;3&nbsp;Framework](https://arxiv.org/abs/2511.11859) |
+| 01 05:34 | **45** | ✅ Accepted | [Lack-of-fit&nbsp;reduction&nbsp;in&nbsp;the&nbsp;path-integral&nbsp;formalism](https://arxiv.org/abs/2506.20242) |
+| 01 05:34 | **0** | ✅ Accepted | [Approximate&nbsp;Controllability&nbsp;of&nbsp;Linear&nbsp;Fractional&nbsp;Impulsive&nbsp;Evolution&nbsp;Equations&nbsp;in&nbsp;Hilbert&nbsp;Spaces](https://arxiv.org/abs/2406.15114) |
+| 01 05:34 | **5** | ✅ Accepted | [Neural&nbsp;Field&nbsp;Equations&nbsp;with&nbsp;random&nbsp;data](https://arxiv.org/abs/2505.16343) |
+| 01 05:34 | **5** | ✅ Accepted | [On&nbsp;spectral&nbsp;equations&nbsp;for&nbsp;an&nbsp;evolution&nbsp;operator&nbsp;of&nbsp;a&nbsp;$q$-oscillator&nbsp;lattice](https://arxiv.org/abs/2512.24043) |
+| 01 05:34 | **45** | ✅ Accepted | [A&nbsp;mini-review&nbsp;on&nbsp;combinatorial&nbsp;solutions&nbsp;to&nbsp;the&nbsp;Marcus-Lushnikov&nbsp;irreversible&nbsp;aggregation](https://arxiv.org/abs/2512.11459) |
+| 01 06:44 | **0** | ✅ Accepted | [Projection-based&nbsp;Adversarial&nbsp;Attack&nbsp;using&nbsp;Physics-in-the-Loop&nbsp;Optimization&nbsp;for&nbsp;Monocular&nbsp;Depth&nbsp;Estimation](https://arxiv.org/abs/2512.24792) |
+| 01 06:44 | **0** | ✅ Accepted | [Non-stationary&nbsp;dynamics&nbsp;of&nbsp;interspike&nbsp;intervals&nbsp;in&nbsp;neuronal&nbsp;populations](https://arxiv.org/abs/2512.23922) |
+| 01 06:44 | **5** | ✅ Accepted | [Tritium&nbsp;accumulation&nbsp;and&nbsp;ozone&nbsp;decontamination&nbsp;of&nbsp;tungsten&nbsp;and&nbsp;beryllium](https://arxiv.org/abs/2512.24256) |
+| 01 06:44 | **40** | ✅ Accepted | [EMPEROR&nbsp;I.&nbsp;Exoplanet&nbsp;MCMC&nbsp;parallel&nbsp;tempering&nbsp;for&nbsp;RV&nbsp;orbit&nbsp;retrieval](https://arxiv.org/abs/2511.05331) |
+| 01 06:44 | **40** | ✅ Accepted | [Mechanical&nbsp;properties&nbsp;of&nbsp;chiral&nbsp;actin&nbsp;filaments](https://arxiv.org/abs/2512.24154) |
+| 01 06:44 | **45** | ✅ Accepted | [Imaging&nbsp;nanoscale&nbsp;photocarrier&nbsp;traps&nbsp;in&nbsp;solar&nbsp;water-splitting&nbsp;catalysts](https://arxiv.org/abs/2512.24543) |
+| 01 06:44 | **65** | ✅ Accepted | [Atmospheric&nbsp;Mass&nbsp;Flux&nbsp;as&nbsp;a&nbsp;Function&nbsp;of&nbsp;Ionospheric&nbsp;Emission&nbsp;on&nbsp;Unmagnetized&nbsp;Earth](https://arxiv.org/abs/2512.24004) |
+| 01 06:44 | **90** | ✅ Accepted | [Protocellular&nbsp;energetics:&nbsp;Free&nbsp;energy&nbsp;estimates&nbsp;for&nbsp;all&nbsp;metabolic,&nbsp;self-assembly&nbsp;and&nbsp;vesicle&nbsp;fission&nbsp;processes](https://arxiv.org/abs/2512.24095) |
+| 01 06:44 | **55** | ✅ Accepted | [Seafloor&nbsp;Weathering&nbsp;and&nbsp;Stochastic&nbsp;Outgassing&nbsp;Unlikely&nbsp;to&nbsp;Significantly&nbsp;Shorten&nbsp;the&nbsp;Future&nbsp;Lifespan&nbsp;of&nbsp;Earth's&nbsp;Terrestrial&nbsp;Biosphere](https://arxiv.org/abs/2512.24538) |
+| 01 06:44 | **0** | ✅ Accepted | [Emergence&nbsp;of&nbsp;3D&nbsp;Superconformal&nbsp;Ising&nbsp;Criticality&nbsp;on&nbsp;the&nbsp;Fuzzy&nbsp;Sphere](https://arxiv.org/abs/2512.25054) |
+| 01 06:44 | **35** | ✅ Accepted | [Dynamical&nbsp;Architectures&nbsp;of&nbsp;S-type&nbsp;Transiting&nbsp;Planets&nbsp;in&nbsp;Binaries&nbsp;II:&nbsp;A&nbsp;Dichotomy&nbsp;in&nbsp;Orbital&nbsp;Alignment&nbsp;of&nbsp;Small&nbsp;Planets&nbsp;in&nbsp;Close&nbsp;Binary&nbsp;Systems](https://arxiv.org/abs/2509.25332) |
+| 01 06:44 | **60** | ✅ Accepted | [Ab&nbsp;Initio&nbsp;Melting&nbsp;Properties&nbsp;of&nbsp;Water&nbsp;and&nbsp;Ice&nbsp;from&nbsp;Machine&nbsp;Learning&nbsp;Potentials](https://arxiv.org/abs/2512.23939) |
+| 01 06:44 | **15** | ✅ Accepted | [Hidden&nbsp;long-range&nbsp;correlations&nbsp;in&nbsp;the&nbsp;ion&nbsp;distribution&nbsp;at&nbsp;the&nbsp;graphite&nbsp;/&nbsp;[bmim][NTf$_2$]&nbsp;electrified&nbsp;interface](https://arxiv.org/abs/2512.24900) |
+| 01 06:44 | **45** | ✅ Accepted | [Steering&nbsp;chiral&nbsp;active&nbsp;Brownian&nbsp;motion&nbsp;via&nbsp;stochastic&nbsp;position-orientation&nbsp;resetting](https://arxiv.org/abs/2508.12223) |
+| 01 06:44 | **45** | ✅ Accepted | [Assessment&nbsp;of&nbsp;First-Principles&nbsp;Methods&nbsp;in&nbsp;Modeling&nbsp;the&nbsp;Melting&nbsp;Properties&nbsp;of&nbsp;Water](https://arxiv.org/abs/2512.23940) |
+| 01 06:44 | **25** | ✅ Accepted | [Randomization&nbsp;Times&nbsp;under&nbsp;Quantum&nbsp;Chaotic&nbsp;Hamiltonian&nbsp;Evolution](https://arxiv.org/abs/2512.25074) |
+| 01 06:44 | **55** | ✅ Accepted | [Seafloor&nbsp;Weathering&nbsp;and&nbsp;Stochastic&nbsp;Outgassing&nbsp;Unlikely&nbsp;to&nbsp;Significantly&nbsp;Shorten&nbsp;the&nbsp;Future&nbsp;Lifespan&nbsp;of&nbsp;Earth's&nbsp;Terrestrial&nbsp;Biosphere](https://arxiv.org/abs/2512.24538) |
+| 01 06:44 | **43** | ✅ Accepted | [EMPEROR&nbsp;I.&nbsp;Exoplanet&nbsp;MCMC&nbsp;parallel&nbsp;tempering&nbsp;for&nbsp;RV&nbsp;orbit&nbsp;retrieval](https://arxiv.org/abs/2511.05331) |
+| 01 08:37 | **0** | ✅ Accepted | [Dans&nbsp;les&nbsp;ruines&nbsp;des&nbsp;mondes&nbsp;virtuels](https://www.sciencesetavenir.fr/high-tech/web/dans-les-ruines-des-mondes-virtuels_190135?xtor=RSS-12) |
+| 01 08:37 | **5** | ✅ Accepted | [Soft&nbsp;Agar&nbsp;Assay&nbsp;-&nbsp;Single&nbsp;cell&nbsp;seq&nbsp;help](https://www.reddit.com/r/labrats/comments/1q0xsl6/soft_agar_assay_single_cell_seq_help/) |
+| 01 11:25 | **0** | ✅ Accepted | [A&nbsp;Year&nbsp;of&nbsp;Fires&nbsp;and&nbsp;Floods&nbsp;in&nbsp;Southern&nbsp;California](https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html) |
+| 01 11:25 | **20** | ✅ Accepted | [Space&nbsp;Events&nbsp;2026:&nbsp;NASA’s&nbsp;Artemis&nbsp;II&nbsp;Moon&nbsp;Mission,&nbsp;Summer&nbsp;Eclipse&nbsp;and&nbsp;More](https://www.nytimes.com/2025/12/30/science/space-nasa-spacex-blue-origin-astronomy.html) |
+| 01 12:57 | **0** | ✅ Accepted | [Six&nbsp;Months&nbsp;Off&nbsp;the&nbsp;Street](https://www.theatlantic.com/politics/2026/01/six-months-off-the-street/685422/?utm_source=feed) |
+| 01 14:27 | **15** | ✅ Accepted | [Why&nbsp;Viruses&nbsp;Speak&nbsp;the&nbsp;Language&nbsp;of&nbsp;Black&nbsp;Holes?](https://www.reddit.com/r/labrats/comments/1q13hjm/why_viruses_speak_the_language_of_black_holes/) |
+| 01 16:36 | **0** | ✅ Accepted | [A&nbsp;Bizarre,&nbsp;Challenging&nbsp;Book&nbsp;More&nbsp;People&nbsp;Should&nbsp;Read](https://www.theatlantic.com/books/2026/01/challenging-book-literature-dewitt-gridneff-your-name-here/685453/?utm_source=feed) |
+| 01 17:25 | **0** | ✅ Accepted | [Iranians&nbsp;Have&nbsp;Had&nbsp;Enough](https://www.theatlantic.com/international/2026/01/iran-protests/685472/?utm_source=feed) |
+| 01 18:39 | **45** | ✅ Accepted | [2026&nbsp;Mars&nbsp;mission&nbsp;will&nbsp;set&nbsp;out&nbsp;to&nbsp;solve&nbsp;the&nbsp;mystery&nbsp;of&nbsp;its&nbsp;moons](https://www.newscientist.com/article/2505029-2026-mars-mission-will-set-out-to-solve-the-mystery-of-its-moons/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
