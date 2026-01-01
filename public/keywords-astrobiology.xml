@@ -4,9 +4,41 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T05:34:31.998278+00:00</updated>
+  <updated>2026-01-01T06:44:17.206978+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/keywords-astrobiology.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🟠 astro-ph.EP updates on arXiv.org ➤ Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth&#39;s Terrestrial Biosphere</title>
+    <link href="https://arxiv.org/abs/2512.24538"/>
+    <id>https://arxiv.org/abs/2512.24538</id>
+    <updated>2026-01-01T05:58:59+00:00</updated>
+    <summary>Modeling suggests seafloor weathering and unusually large stochastic CO2 outgassing variations could modestly shorten—but likely not below ~1 Gyr—the remaining lifespan of Earth’s terrestrial biosphere, supporting robustness of long-term planetary habitability estimates relevant to exoplanets.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24538v1 Announce Type: new Abstract: Current understanding suggests that as the Sun brightens in the far future, Earth&amp;#x27;s carbonate-silicate cycle will offset increasing temperatures by drawing CO$_2$ out of the atmosphere, ultimately leading to the extinction of all terrestrial plant life via either overheating or CO$_2$ starvation. Most previous estimates put the future lifespan of Earth&amp;#x27;s terrestrial biosphere at $\sim$1 billion yr, but recent work used a new coupled climate-continental weathering model with up-to-date parameter constraints to revise this estimate upward to 1.6-1.86 billion yr. In this study, we extend the model to examine the impacts of seafloor weathering and stochastic variations in CO$_2$ outgassing rates on the remaining lifespan of Earth&amp;#x27;s terrestrial biosphere. We find that if seafloor weathering has a stronger feedback than continental weathering and accounts for a large portion of global silicate weathering, then the remaining lifespan of the terrestrial biosphere can be shortened, but a lifespan of more than 1 billion yr (Gyr) remains likely. Similarly, stochastic fluctuations in outgassing rates can have a significant impact if the size of the fluctuations exceed those observed over the last 1 billion yr. The impact of weak seafloor weathering and lower variability stochasticity are minor. Our work provisionally supports a lengthened lifespan of Earth&amp;#x27;s terrestrial biosphere, suggests robustness of this lengthened lifespan to planetary parameters that may vary among exoplanets, and identifies seafloor weathering as a key process that requires further study and constraint.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24538&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24538&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 astro-ph.EP updates on arXiv.org ➤ EMPEROR I. Exoplanet MCMC parallel tempering for RV orbit retrieval</title>
+    <link href="https://arxiv.org/abs/2511.05331"/>
+    <id>https://arxiv.org/abs/2511.05331</id>
+    <updated>2026-01-01T05:59:00+00:00</updated>
+    <summary>Introduces an open-source RV inference framework (dynamic nested sampling + adaptive parallel tempering with flexible stellar-noise models) that can improve recovery of low-mass exoplanet signals, but it is primarily methodological and not directly focused on habitability, biosignatures, or origins-of-life processes.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2511.05331v2 Announce Type: replace Abstract: We present EMPEROR, an open-source Python framework designed for efficient exoplanet detection and characterisation with radial velocities (RV). EMPEROR integrates Dynamic Nested Sampling (DNS) and Adaptive Parallel Tempering (APT) Markov Chain Monte Carlo (MCMC), supporting multiple noise models such as Gaussian Processes (GPs) and Moving Averages (MA). The framework enables systematic model comparison using statistical metrics, including Bayesian evidence ($\ln{\mathcal{Z}}$) and Bayesian Information Criterion (BIC), while providing automated, publish-ready visualisations. EMPEROR is evaluated across three distinct systems to assess its capabilities in different detection scenarios. Sampling performance, model selection, and the search for Earth-mass planets are evaluated in data for 51 Pegasi, HD 55693 and Barnard&amp;#x27;s Star (GJ 699). For 51 Pegasi, APT achieves an effective sampling increase over DNS by a factor 3.76, while retrieving tighter parameter estimates. For HD 55693 the stellar rotation $P_{\text{rot}}=29.72^{+0.01}_{-0.02}$ and magnetic cycle $P_{\text{mag}}=2557.0^{+70.1}_{-36.7}$ are recovered, while demonstrating the sensitivity of $\ln{\mathcal{Z}}$ to prior selection. For Barnard&amp;#x27;s star, several noise models are compared, and the confirmed planet parameters are successfully retrieved with all of them. The best model shows a period of 3.1536$\pm$0.0003~d, minimum mass of 0.38$\pm$0.03 M$_{\rm{\oplus}}$, and semi-major axis of 0.02315$\pm$0.00039~AU. Purely statistical inference might be insufficient on its own for robust exoplanet detection. Effective methodologies must integrate domain knowledge, heuristic criteria, and multi-faceted model comparisons. The versatility of EMPEROR in handling diverse noise structures, its systematic model selection, and its improved performance make it a valuable tool for RV exoplanetary studies.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2511.05331&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2511.05331&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🟠 math-ph updates on arXiv.org ➤ A mini-review on combinatorial solutions to the Marcus-Lushnikov irreversible aggregation</title>

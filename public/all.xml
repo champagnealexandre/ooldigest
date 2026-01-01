@@ -4,9 +4,297 @@
   <subtitle>Hourly AI-curated papers on Origins of Life</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/all.xml" rel="self"/>
   <link href="https://github.com/champagnealexandre/ooldigest"/>
-  <updated>2026-01-01T05:34:31.836963+00:00</updated>
+  <updated>2026-01-01T06:44:17.083011+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/all.xml</id>
   <author><name>AI Agent</name></author>
+  
+  <entry>
+    <title>🟤 cs.NE updates on arXiv.org ➤ Projection-based Adversarial Attack using Physics-in-the-Loop Optimization for Monocular Depth Estimation</title>
+    <link href="https://arxiv.org/abs/2512.24792"/>
+    <id>https://arxiv.org/abs/2512.24792</id>
+    <updated>2026-01-01T05:50:19+00:00</updated>
+    <summary>This computer vision paper demonstrates a physics-in-the-loop adversarial light projection attack that induces depth-estimation errors in monocular DNN models, with no direct relevance to origins-of-life or astrobiology.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24792v1 Announce Type: cross Abstract: Deep neural networks (DNNs) remain vulnerable to adversarial attacks that cause misclassification when specific perturbations are added to input images. This vulnerability also threatens the reliability of DNN-based monocular depth estimation (MDE) models, making robustness enhancement a critical need in practical applications. To validate the vulnerability of DNN-based MDE models, this study proposes a projection-based adversarial attack method that projects perturbation light onto a target object. The proposed method employs physics-in-the-loop (PITL) optimization -- evaluating candidate solutions in actual environments to account for device specifications and disturbances -- and utilizes a distributed covariance matrix adaptation evolution strategy. Experiments confirmed that the proposed method successfully created adversarial examples that lead to depth misestimations, resulting in parts of objects disappearing from the target scene.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24792&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24792&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 cond-mat.dis-nn updates on arXiv.org ➤ Non-stationary dynamics of interspike intervals in neuronal populations</title>
+    <link href="https://arxiv.org/abs/2512.23922"/>
+    <id>https://arxiv.org/abs/2512.23922</id>
+    <updated>2026-01-01T05:51:45+00:00</updated>
+    <summary>Develops a population-density/Fokker–Planck framework to model non-stationary inter-spike-interval statistics in integrate-and-fire neuronal populations, with no direct connection to origins-of-life or astrobiology topics.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.23922v1 Announce Type: new Abstract: We study the joint dynamics of membrane potential and time since the last spike in a population of integrate-and-fire neurons using a population density framework. This leads to a two-dimensional Fokker-Planck equation that captures the evolution of the full neuronal state, along with a one-dimensional hierarchy of equations for the moments of the inter-spike interval (ISI). The formalism allows us to characterize the time-dependent ISI distribution, even when the population is far from stationarity, such as under time-varying external input or during network oscillations. By performing a perturbative expansion around the stationary state, we also derive an analytic expression for the linear response of the ISI distribution to weak input modulations.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.23922&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.23922&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 physics.chem-ph updates on arXiv.org ➤ Tritium accumulation and ozone decontamination of tungsten and beryllium</title>
+    <link href="https://arxiv.org/abs/2512.24256"/>
+    <id>https://arxiv.org/abs/2512.24256</id>
+    <updated>2026-01-01T05:46:29+00:00</updated>
+    <summary>Experimental study of tritium uptake on beryllium vs tungsten and in-situ decontamination tests showing ozone alone is ineffective without UV illumination, with minimal direct relevance to origins-of-life research.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24256v1 Announce Type: cross Abstract: Tritium adsorption on surfaces creates a variety of issues, ranging from the fields of fusion applications to small and large-scale laboratory experiments using tritium. The extent to which tritium accumulates on surfaces is generally material-dependent and must be determined through experiments. Additionally, this surface contamination necessitates the implementation of appropriate decontamination procedures, preferably in-situ. A suitable method could be exposure to ozone during UV irradiation. However, it is currently not known if both components are necessary for the decontamination. At Tritium Laboratory Karlsruhe, both questions on contamination and decontamination can be addressed using a single experimental setup. With this, it is possible to expose solid samples to gaseous tritium to measure the temporal activity evolution. Furthermore, the system can be filled with dry air, and dry air containing ozone to explore their decontamination effect. Both measurement modes were applied to beryllium and tungsten samples, which were chosen for their relevance in fusion. The beryllium surface was observed to accumulate tritium more than four times faster than tungsten when exposed to gaseous tritium. Concerning the decontamination, without simultaneous UV irradiation, exposure to ozone did not have any distinct effect on the surface activity compared to simply using dry air. This leads to the conclusion that UV illumination of the surfaces is required to achieve a significant decontamination factor.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24256&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24256&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 astro-ph.EP updates on arXiv.org ➤ EMPEROR I. Exoplanet MCMC parallel tempering for RV orbit retrieval</title>
+    <link href="https://arxiv.org/abs/2511.05331"/>
+    <id>https://arxiv.org/abs/2511.05331</id>
+    <updated>2026-01-01T05:58:59+00:00</updated>
+    <summary>Presents an open-source RV inference framework (Dynamic Nested Sampling + Adaptive Parallel Tempering MCMC with flexible stellar-noise models) that improves orbit retrieval and model comparison for detecting low-mass exoplanets, offering indirect value to astrobiology via better target identification rather than Origins-of-Life mechanisms.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2511.05331v2 Announce Type: replace Abstract: We present EMPEROR, an open-source Python framework designed for efficient exoplanet detection and characterisation with radial velocities (RV). EMPEROR integrates Dynamic Nested Sampling (DNS) and Adaptive Parallel Tempering (APT) Markov Chain Monte Carlo (MCMC), supporting multiple noise models such as Gaussian Processes (GPs) and Moving Averages (MA). The framework enables systematic model comparison using statistical metrics, including Bayesian evidence ($\ln{\mathcal{Z}}$) and Bayesian Information Criterion (BIC), while providing automated, publish-ready visualisations. EMPEROR is evaluated across three distinct systems to assess its capabilities in different detection scenarios. Sampling performance, model selection, and the search for Earth-mass planets are evaluated in data for 51 Pegasi, HD 55693 and Barnard&amp;#x27;s Star (GJ 699). For 51 Pegasi, APT achieves an effective sampling increase over DNS by a factor 3.76, while retrieving tighter parameter estimates. For HD 55693 the stellar rotation $P_{\text{rot}}=29.72^{+0.01}_{-0.02}$ and magnetic cycle $P_{\text{mag}}=2557.0^{+70.1}_{-36.7}$ are recovered, while demonstrating the sensitivity of $\ln{\mathcal{Z}}$ to prior selection. For Barnard&amp;#x27;s star, several noise models are compared, and the confirmed planet parameters are successfully retrieved with all of them. The best model shows a period of 3.1536$\pm$0.0003~d, minimum mass of 0.38$\pm$0.03 M$_{\rm{\oplus}}$, and semi-major axis of 0.02315$\pm$0.00039~AU. Purely statistical inference might be insufficient on its own for robust exoplanet detection. Effective methodologies must integrate domain knowledge, heuristic criteria, and multi-faceted model comparisons. The versatility of EMPEROR in handling diverse noise structures, its systematic model selection, and its improved performance make it a valuable tool for RV exoplanetary studies.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2511.05331&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2511.05331&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 physics.bio-ph updates on arXiv.org ➤ Mechanical properties of chiral actin filaments</title>
+    <link href="https://arxiv.org/abs/2512.24154"/>
+    <id>https://arxiv.org/abs/2512.24154</id>
+    <updated>2026-01-01T05:54:21+00:00</updated>
+    <summary>Introduces a coarse-grained simulation framework for chiral/helical actin filaments showing how filament chirality drives motor-induced torques and collective bundle behaviors (rotation/coiling/buckling), offering broader conceptual relevance to how chirality can shape filament mechanics and self-organization.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24154v1 Announce Type: new Abstract: The mechanical properties of actin filaments are essential to their biological functions. Here, we introduce a highly coarse-grained model of actin filaments that preserves helicity and chirality while enabling mesoscale simulations. The framework is implemented in Cytosim, an open-source cytoskeleton simulation platform. We can predict and finely control the shape and mechanical properties of this helical filament, that can be matched to experimental values. Using this model, we investigated the role of filament chirality in motor-driven dynamics. We first show that in two different experimental configurations, motor movement along a helical filament results in a chiral motion of the filament. In a bundle of helical filaments, dimeric motors exert torques on each filament, inducing collective behaviors in the bundle such as rotation, coiling, and helical buckling, reminiscent of those observed in filopodia. Together, these results demonstrate the central role of helicity and chirality in actin mechanics and motor-driven dynamics, and establish our framework as a powerful tool for mesoscale simulations. This framework can also be used for other helical filaments beyond actin.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24154&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24154&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 physics.chem-ph updates on arXiv.org ➤ Imaging nanoscale photocarrier traps in solar water-splitting catalysts</title>
+    <link href="https://arxiv.org/abs/2512.24543"/>
+    <id>https://arxiv.org/abs/2512.24543</id>
+    <updated>2026-01-01T05:46:30+00:00</updated>
+    <summary>Introduces photomodulated STEM-EELS to image angstrom-scale photocarrier trapping at oxygen-vacancy surface defects in SrTiO3:Rh water-splitting nanoparticles, clarifying how nanoscale defects limit photocatalytic efficiency.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24543v1 Announce Type: new Abstract: Defects trap photocarriers and hinder solar water splitting. The nanoscale photocarrier transport, trapping, and recombination mechanisms are usually inferred from ensemble-averaged measurements and remain elusive. Because an individual high-performing nanoparticle photocatalyst may outperform the ensemble average, design rules that would otherwise enhance catalytic efficiency remain unclear. Here, we introduce photomodulated electron energy-loss spectroscopy (EELS) in an optically coupled scanning transmission electron microscope (STEM) to map photocarrier localization. Using rhodium-doped strontium titanate (SrTiO3:Rh) solar water-splitting nanoparticles, we directly image the carrier densities concentrated at oxygen-vacancy surface trap states. This is achieved by separating photothermal heating from photocarrier populations through experimental and computational analyses of low-loss spectra. Photomodulated STEM-EELS enables angstrom-scale imaging of defect-induced photocarrier traps and their impact on photocatalytic efficiency.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24543&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24543&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟡 astro-ph.EP updates on arXiv.org ➤ Atmospheric Mass Flux as a Function of Ionospheric Emission on Unmagnetized Earth</title>
+    <link href="https://arxiv.org/abs/2512.24004"/>
+    <id>https://arxiv.org/abs/2512.24004</id>
+    <updated>2026-01-01T05:59:00+00:00</updated>
+    <summary>Hybrid plasma simulations suggest an unmagnetized Earth-like planet could retain most of its atmosphere over gigayear timescales because solar-wind ion deposition can rival ionospheric escape, implying intrinsic magnetic shielding may be less critical for long-term habitability than often assumed.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24004v1 Announce Type: new Abstract: We explore ion escape from, and solar ion deposition to, \hll{an unmagnetized Earth-like planet}. We use RHybrid, an ion-kinetic electron-fluid code to simulate the global plasma interaction of unmagnetized Earth with the solar wind. We vary the global ionospheric emission rate, and quantify the resultant planetary ion escape rates ($O^+$ and $H^+$) and the solar wind deposition rate ($H^+$). We use these results to compute the net mass flux to the atmosphere and find that the solar ion deposition rate could be comparable to planetary ion escape rates. For the emission rates simulated, our results show that under typical solar wind conditions ($v_{sw} = 400 \ km \ s^{-1}$, $n_{sw} = 5 \ cm^{-3}$), the mass of the atmosphere would decrease by less than 3\% over a billion years, indicating that Earth&amp;#x27;s intrinsic magnetic field may be unnecessary for retention of its atmosphere. Lastly, we present a hypothesis suggesting that ionospheric emission may evolve through time towards a critical emission rate that occurs at a net mass flux of zero.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24004&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24004&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟢 physics.bio-ph updates on arXiv.org ➤ Protocellular energetics: Free energy estimates for all metabolic, self-assembly and vesicle fission processes</title>
+    <link href="https://arxiv.org/abs/2512.24095"/>
+    <id>https://arxiv.org/abs/2512.24095</id>
+    <updated>2026-01-01T05:54:22+00:00</updated>
+    <summary>Quantifies free-energy budgets across a full protocell lifecycle—including metabolism, self-assembly, membrane bending, and fission—providing a thermodynamic framework directly relevant to origins-of-life protocellular viability.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24095v1 Announce Type: new Abstract: As minimal cells or protocells are dramatically simpler than modern unicells it is possible to quantitatively estimate free energy changes for every process in the lifecycle of a protocell and compare these with estimates of the free energy changes for lifecycles in modern unicells. We present quantitative estimates of all metabolic changes in part by new density function theory (DFT) estimations, in part by compiling previously measured or estimated free energy changes, and in part by new thermodynamic calculations for all self-assembly, vesicle bending, and fission energies.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24095&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24095&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 astro-ph.EP updates on arXiv.org ➤ Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth&#39;s Terrestrial Biosphere</title>
+    <link href="https://arxiv.org/abs/2512.24538"/>
+    <id>https://arxiv.org/abs/2512.24538</id>
+    <updated>2026-01-01T05:59:01+00:00</updated>
+    <summary>Extends coupled climate–weathering models to test whether seafloor weathering and stochastic CO2 outgassing could materially shorten Earth&#39;s remaining terrestrial biosphere lifetime, finding &gt;1 Gyr still likely except under stronger-than-expected seafloor feedbacks or unusually large outgassing variability—relevant mainly to long-term planetary habitability (and exoplanet analogs) rather than origin-of-life mechanisms.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24538v1 Announce Type: new Abstract: Current understanding suggests that as the Sun brightens in the far future, Earth&amp;#x27;s carbonate-silicate cycle will offset increasing temperatures by drawing CO$_2$ out of the atmosphere, ultimately leading to the extinction of all terrestrial plant life via either overheating or CO$_2$ starvation. Most previous estimates put the future lifespan of Earth&amp;#x27;s terrestrial biosphere at $\sim$1 billion yr, but recent work used a new coupled climate-continental weathering model with up-to-date parameter constraints to revise this estimate upward to 1.6-1.86 billion yr. In this study, we extend the model to examine the impacts of seafloor weathering and stochastic variations in CO$_2$ outgassing rates on the remaining lifespan of Earth&amp;#x27;s terrestrial biosphere. We find that if seafloor weathering has a stronger feedback than continental weathering and accounts for a large portion of global silicate weathering, then the remaining lifespan of the terrestrial biosphere can be shortened, but a lifespan of more than 1 billion yr (Gyr) remains likely. Similarly, stochastic fluctuations in outgassing rates can have a significant impact if the size of the fluctuations exceed those observed over the last 1 billion yr. The impact of weak seafloor weathering and lower variability stochasticity are minor. Our work provisionally supports a lengthened lifespan of Earth&amp;#x27;s terrestrial biosphere, suggests robustness of this lengthened lifespan to planetary parameters that may vary among exoplanets, and identifies seafloor weathering as a key process that requires further study and constraint.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24538&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24538&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 cond-mat.stat-mech updates on arXiv.org ➤ Emergence of 3D Superconformal Ising Criticality on the Fuzzy Sphere</title>
+    <link href="https://arxiv.org/abs/2512.25054"/>
+    <id>https://arxiv.org/abs/2512.25054</id>
+    <updated>2026-01-01T05:44:55+00:00</updated>
+    <summary>The paper develops a non-perturbative theoretical framework for 3D supersymmetric conformal field theories on a fuzzy sphere, with no direct connection to origin-of-life chemistry, prebiotic processes, habitability, or biosignatures.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.25054v1 Announce Type: cross Abstract: Supersymmetric conformal field theories (SCFTs) form a unique subset of quantum field theories which provide powerful insights into strongly coupled critical phenomena. Here, we present a microscopic and non-perturbative realization of the three-dimensional $\mathcal{N}=1$ superconformal Ising critical point, based on a Yukawa-type coupling between a 3D Ising CFT and a gauged Majorana fermion. Using the recently developed fuzzy sphere regularization, we directly extract the scaling dimensions of low-lying operators via the state-operator correspondence. At the critical point, we demonstrate conformal multiplet structure together with the hallmark of emergent spacetime supersymmetry through characteristic relations between fermionic and bosonic operators. Moreover, by tuning the Yukawa coupling, we explicitly track the evolution of operator spectra from the decoupled Ising-Majorana fixed point to the interacting superconformal fixed point, revealing renormalization-group flow at the operator level. Our results establish a controlled, non-perturbative microscopic route to 3D SCFTs.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.25054&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.25054&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 astro-ph.EP updates on arXiv.org ➤ Dynamical Architectures of S-type Transiting Planets in Binaries II: A Dichotomy in Orbital Alignment of Small Planets in Close Binary Systems</title>
+    <link href="https://arxiv.org/abs/2509.25332"/>
+    <id>https://arxiv.org/abs/2509.25332</id>
+    <updated>2026-01-01T05:59:02+00:00</updated>
+    <summary>Analyzes TESS S-type small planets in binary stars and finds a statistically favored two-population dichotomy in planet–binary orbital alignment tied to stellar periastron distance, informing (indirectly) how binary dynamics may impact the long-term stability conditions relevant to habitability.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2509.25332v2 Announce Type: replace Abstract: Stellar multiplicity plays a crucial role in shaping planet formation and dynamical evolution. We present a survey of 54 TESS Objects of Interest (TOIs) within 300 pc that exhibit significant Hipparcos-Gaia astrometric accelerations. We identified 35 TOIs with stellar companions at projected separations between $0.1^{\prime\prime}$ to $2^{\prime\prime}$ (or $10-200$ AU). We also identified 12 TOIs that could host planetary-mass or brown dwarf companions, including 6 that are newly discovered. Furthermore, we perform three-dimensional orbital characterization for 12 binaries hosting confirmed planets or planet candidates, allowing us to constrain the line-of-sight mutual inclination, $\Delta I_{\mathrm{los}}$, between the planetary and binary orbits. Combining our sample with previous measurements, we apply Bayesian hierarchical analysis to a total of 26 binary systems with S-type transiting planets ($r_p&amp;lt;5R_{\oplus}$). Specifically, we fit the $\Delta I_{\mathrm{los}}$ distribution with both single (Rayleigh) and mixture models (two-component Rayleigh and Rayleigh-isotropic mixture). We find the mixture models are strongly favored ($\log Z\gtrsim13.9$, or $\approx$5$\sigma$), indicating the observed planet-binary $\Delta I_{\mathrm{los}}$ values likely originate from two underlying populations: one nearly aligned ($\sigma_1 = 2^{\circ}.4^{+0.7}_{-0.9}$) and one with more scattered mutual inclinations ($\sigma_2 = 23^{\circ}.6^{+8.8}_{-7.1}$). Alternatively, the misaligned systems can be equally well described by an isotropic distribution of inclinations. This observed dichotomy likely reflects different dynamical histories. Notably, the misaligned population only emerges in systems with stellar periastron distances $&amp;gt;40$ AU while systems with close-in or eccentric stellar companions (periastron distances $&amp;lt;40$ AU) preserve planet-binary alignment.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2509.25332&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2509.25332&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟡 physics.chem-ph updates on arXiv.org ➤ Ab Initio Melting Properties of Water and Ice from Machine Learning Potentials</title>
+    <link href="https://arxiv.org/abs/2512.23939"/>
+    <id>https://arxiv.org/abs/2512.23939</id>
+    <updated>2026-01-01T05:46:31+00:00</updated>
+    <summary>Uses DFT- and MB-pol–trained machine-learning potentials with path-integral MD to quantify nuclear-quantum effects on ice Ih melting and water anomalies (Tm isotope shift, density discontinuity, density maximum), improving physical fidelity of water models relevant to planetary habitability contexts.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.23939v1 Announce Type: new Abstract: Liquid water exhibits several important anomalous properties in the vicinity of the melting temperature ($T_{\mathrm{m}}$) of ice Ih, including a higher density than ice and a density maximum at 4~$^{\circ}$C. Experimentally, an isotope effect on $T_{\mathrm{m}}$ is observed: the melting temperature of H$_2$O is approximately 4~K lower than that of D$_2$O. This difference can only be explained by nuclear quantum effects (NQEs), which can be accurately captured using path integral molecular dynamics (PIMD). Here we run PIMD simulations driven by Deep Potential (DP) models trained on data from density functional theory (DFT) based on SCAN, revPBE0-D3, SCAN0, and revPBE-D3 and a DP model trained on the MB-pol potential. We calculate the \tm of ice, the density discontinuity at melting, and the temperature of density maximum ($T_{\mathrm{dm}}$) of the liquid. We find that the model based on MB-pol agrees well with experiment. The models based on DFT incorrectly predict that NQEs lower $T_{\mathrm{m}}$. For the density discontinuity, SCAN and SCAN0 predict values close to the experimental result, while revPBE-D3 and revPBE0-D3 significantly underestimate it. Additionally, the models based on SCAN and SCAN0 correctly predict that the $T_{\mathrm{dm}}$ is higher than $T_{\mathrm{m}}$, while those based on revPBE-D3 and revPBE0-D3 predict the opposite. We attribute the deviations of the DFT-based models from experiment to the overestimation of hydrogen bond strength. Our results set the stage for more accurate simulations of aqueous systems grounded on DFT.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.23939&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.23939&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟤 physics.chem-ph updates on arXiv.org ➤ Hidden long-range correlations in the ion distribution at the graphite / [bmim][NTf$_2$] electrified interface</title>
+    <link href="https://arxiv.org/abs/2512.24900"/>
+    <id>https://arxiv.org/abs/2512.24900</id>
+    <updated>2026-01-01T05:46:32+00:00</updated>
+    <summary>Molecular dynamics study of ion-pair ordering and long-range dipole correlations in a synthetic ionic liquid confined between charged graphite electrodes, including effects of absorbed water, mainly relevant to electrochemical interfaces rather than origins-of-life chemistry.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24900v1 Announce Type: new Abstract: A capacitor consisting of the [bmim][NTf$_2$] ionic liquid (IL) confined in between planar graphite electrodes has been investigated by molecular dynamics based on an all-atom, unpolarizable force field. Structural and dynamical properties such as: (i) the density and orientation of the [bmim]$^+$ and [NTf$_2$]$^-$ ions throughout the capacitor; (ii) the electrostatic double layer at the electrode / electrolyte interface; (iii) the ions&amp;#x27; mobility perpendicular and parallel to the graphite plates are determined as a function of the electrostatic charge of the capacitor, the concentration of absorbed water, the temperature and pressure. Grouping the [bmim]$^+$ and [NTf$_2$]$^-$ ions into neutral ion pairs reveals an intriguing ordering normal to the interface that is related to correlations among the dipole moments of the neutral ion pairs. These correlations might explain the observation of an anomalous Stark effect (Pockels effect) reported a few years ago in Langmuir, vol. 37, 5193-5201, (2021), and provides useful insight for the multitude of electro-chemical applications that involve electrode / ionic liquid interfaces.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24900&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24900&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 cond-mat.stat-mech updates on arXiv.org ➤ Steering chiral active Brownian motion via stochastic position-orientation resetting</title>
+    <link href="https://arxiv.org/abs/2508.12223"/>
+    <id>https://arxiv.org/abs/2508.12223</id>
+    <updated>2026-01-01T05:44:56+00:00</updated>
+    <summary>The paper develops a theoretical control strategy (stochastic position-orientation resetting) to tune transport regimes in chiral active Brownian “circle swimmers,” offering physics insight into chirality-driven dynamics but only indirect relevance to origins-of-life questions.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2508.12223v2 Announce Type: replace-cross Abstract: Guiding active motion is important for targeted delivery, sensing, and search tasks. Many active systems exhibit circular swimming, ubiquitous in chemical, physical, and biological systems, that biases motion and reduces transport efficiency. We show that stochastic position-orientation resetting can overcome these limitations in two-dimensional chiral active Brownian particles by interrupting circular motion, resulting in tunable dynamics. When resets are infrequent compared to chiral rotation, the steady-state mean-squared displacement varies non-monotonically with rotational diffusion. Steady state excess kurtosis and orientation autocorrelation yields spatiotemporal state diagram comprising three states: an activity-dominated chiral state, and two resetting-dominated states with and without chiral rotation; in contrast, the achiral(or non-chiral) counterpart supports only the resetting-dominated state without chiral rotation. Chirality thus enriches the dynamical landscape, enabling tunable transitions between transport modes absent in achiral systems. A simple reset protocol can therefore transform chiral active dynamics and offer a practical strategy for optimizing search and transport in circle swimmers.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2508.12223&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2508.12223&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 cond-mat.stat-mech updates on arXiv.org ➤ Assessment of First-Principles Methods in Modeling the Melting Properties of Water</title>
+    <link href="https://arxiv.org/abs/2512.23940"/>
+    <id>https://arxiv.org/abs/2512.23940</id>
+    <updated>2026-01-01T05:44:57+00:00</updated>
+    <summary>Benchmarks first-principles and machine-learning-driven simulations (with nuclear quantum effects) for accurately predicting water’s melting properties—information that underpins planetary hydrology and habitability assessments but is not directly focused on origins-of-life chemistry.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.23940v1 Announce Type: cross Abstract: First-principles simulations have played a crucial role in deepening our understanding of the thermodynamic properties of water, and machine learning potentials (MLPs) trained on these first-principles data widen the range of accessible properties. However, the capabilities of different first-principles methods are not yet fully understood due to the lack of systematic benchmarks, the underestimation of the uncertainties introduced by MLPs, and the neglect of nuclear quantum effects (NQEs). Here, we systematically assess first-principles methods by calculating key melting properties using path integral molecular dynamics (PIMD) driven by Deep Potential (DP) models trained on data from density functional theory (DFT) with SCAN, revPBE0-D3, SCAN0 and revPBE-D3 functionals, as well as from the MB-pol potential. We find that MB-pol is in qualitatively good agreement with the experiment in all properties tested, whereas the four DFT functionals incorrectly predict that NQEs increase the melting temperature. SCAN and SCAN0 slightly underestimate the density change between water and ice upon melting, but revPBE-D3 and revPBE0-D3 severely underestimate it. Moreover, SCAN and SCAN0 correctly predict that the maximum liquid density occurs at a temperature higher than the melting point, while revPBE-D3 and revPBE0-D3 predict the opposite behavior. Our results highlight limitations in widely used first-principles methods and call for a reassessment of their predictive power in aqueous systems.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.23940&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.23940&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🔴 cond-mat.stat-mech updates on arXiv.org ➤ Randomization Times under Quantum Chaotic Hamiltonian Evolution</title>
+    <link href="https://arxiv.org/abs/2512.25074"/>
+    <id>https://arxiv.org/abs/2512.25074</id>
+    <updated>2026-01-01T05:44:58+00:00</updated>
+    <summary>The paper analyzes how quickly generic quantum-chaotic Hamiltonian dynamics can generate effectively Haar-random behavior (in observables and entanglement) from unentangled initial states, with randomization occurring on polynomial—sometimes linear-in-size—timescales.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.25074v1 Announce Type: new Abstract: Randomness generation through quantum-chaotic evolution underpins foundational questions in statistical mechanics and applications across quantum information science, including benchmarking, tomography, metrology, and demonstrations of quantum computational advantage. While statistical mechanics successfully captures the temporal averages of local observables, understanding randomness at the level of higher statistical moments remains a daunting challenge, with analytic progress largely confined to random quantum circuit models or fine-tuned systems exhibiting space-time duality. Here we study how much randomness can be dynamically generated by generic quantum-chaotic evolution under physical, non-random Hamiltonians. Combining theoretical insights with numerical simulations, we show that for broad classes of initially unentangled states, the dynamics become effectively Haar-random well before the system can ergodically explore the physically accessible Hilbert space. Both local and highly nonlocal observables, including entanglement measures, equilibrate to their Haar expectation values and fluctuations on polynomial timescales with remarkably high numerical precision, and with the fastest randomization occurring in regions of parameter space previously identified as maximally chaotic. Interestingly, this effective randomization can occur on timescales linear in system size, suggesting that the sub-ballistic growth of Renyi entropies typically observed in systems with conservation laws can be bypassed in non-random Hamiltonians with an appropriate choice of initial conditions.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.25074&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.25074&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 astro-ph.EP updates on arXiv.org ➤ Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth&#39;s Terrestrial Biosphere</title>
+    <link href="https://arxiv.org/abs/2512.24538"/>
+    <id>https://arxiv.org/abs/2512.24538</id>
+    <updated>2026-01-01T05:59:03+00:00</updated>
+    <summary>Modeling suggests seafloor weathering and unusually large stochastic CO2 outgassing variations could modestly shorten—but likely not below ~1 Gyr—the remaining lifespan of Earth’s terrestrial biosphere, supporting robustness of long-term planetary habitability estimates relevant to exoplanets.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2512.24538v1 Announce Type: new Abstract: Current understanding suggests that as the Sun brightens in the far future, Earth&amp;#x27;s carbonate-silicate cycle will offset increasing temperatures by drawing CO$_2$ out of the atmosphere, ultimately leading to the extinction of all terrestrial plant life via either overheating or CO$_2$ starvation. Most previous estimates put the future lifespan of Earth&amp;#x27;s terrestrial biosphere at $\sim$1 billion yr, but recent work used a new coupled climate-continental weathering model with up-to-date parameter constraints to revise this estimate upward to 1.6-1.86 billion yr. In this study, we extend the model to examine the impacts of seafloor weathering and stochastic variations in CO$_2$ outgassing rates on the remaining lifespan of Earth&amp;#x27;s terrestrial biosphere. We find that if seafloor weathering has a stronger feedback than continental weathering and accounts for a large portion of global silicate weathering, then the remaining lifespan of the terrestrial biosphere can be shortened, but a lifespan of more than 1 billion yr (Gyr) remains likely. Similarly, stochastic fluctuations in outgassing rates can have a significant impact if the size of the fluctuations exceed those observed over the last 1 billion yr. The impact of weak seafloor weathering and lower variability stochasticity are minor. Our work provisionally supports a lengthened lifespan of Earth&amp;#x27;s terrestrial biosphere, suggests robustness of this lengthened lifespan to planetary parameters that may vary among exoplanets, and identifies seafloor weathering as a key process that requires further study and constraint.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2512.24538&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2512.24538&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
+  
+  <entry>
+    <title>🟠 astro-ph.EP updates on arXiv.org ➤ EMPEROR I. Exoplanet MCMC parallel tempering for RV orbit retrieval</title>
+    <link href="https://arxiv.org/abs/2511.05331"/>
+    <id>https://arxiv.org/abs/2511.05331</id>
+    <updated>2026-01-01T05:59:04+00:00</updated>
+    <summary>Introduces an open-source RV inference framework (dynamic nested sampling + adaptive parallel tempering with flexible stellar-noise models) that can improve recovery of low-mass exoplanet signals, but it is primarily methodological and not directly focused on habitability, biosignatures, or origins-of-life processes.</summary>
+    <content type="html">
+    &lt;hr/&gt;
+    &lt;strong&gt;Abstract:&lt;/strong&gt;&lt;br/&gt;
+    arXiv:2511.05331v2 Announce Type: replace Abstract: We present EMPEROR, an open-source Python framework designed for efficient exoplanet detection and characterisation with radial velocities (RV). EMPEROR integrates Dynamic Nested Sampling (DNS) and Adaptive Parallel Tempering (APT) Markov Chain Monte Carlo (MCMC), supporting multiple noise models such as Gaussian Processes (GPs) and Moving Averages (MA). The framework enables systematic model comparison using statistical metrics, including Bayesian evidence ($\ln{\mathcal{Z}}$) and Bayesian Information Criterion (BIC), while providing automated, publish-ready visualisations. EMPEROR is evaluated across three distinct systems to assess its capabilities in different detection scenarios. Sampling performance, model selection, and the search for Earth-mass planets are evaluated in data for 51 Pegasi, HD 55693 and Barnard&amp;#x27;s Star (GJ 699). For 51 Pegasi, APT achieves an effective sampling increase over DNS by a factor 3.76, while retrieving tighter parameter estimates. For HD 55693 the stellar rotation $P_{\text{rot}}=29.72^{+0.01}_{-0.02}$ and magnetic cycle $P_{\text{mag}}=2557.0^{+70.1}_{-36.7}$ are recovered, while demonstrating the sensitivity of $\ln{\mathcal{Z}}$ to prior selection. For Barnard&amp;#x27;s star, several noise models are compared, and the confirmed planet parameters are successfully retrieved with all of them. The best model shows a period of 3.1536$\pm$0.0003~d, minimum mass of 0.38$\pm$0.03 M$_{\rm{\oplus}}$, and semi-major axis of 0.02315$\pm$0.00039~AU. Purely statistical inference might be insufficient on its own for robust exoplanet detection. Effective methodologies must integrate domain knowledge, heuristic criteria, and multi-faceted model comparisons. The versatility of EMPEROR in handling diverse noise structures, its systematic model selection, and its improved performance make it a valuable tool for RV exoplanetary studies.
+    &lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Source Paper:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&#39;https://arxiv.org/abs/2511.05331&#39;&gt;Direct Journal Link (Original Article)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+    &lt;br/&gt;&lt;br/&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/2511.05331&#34;&gt;Read Full Article&lt;/a&gt;
+    </content>
+  </entry>
   
   <entry>
     <title>🔴 q-bio.PE updates on arXiv.org ➤ Binary Galton-Watson trees with mutations</title>
