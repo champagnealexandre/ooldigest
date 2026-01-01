@@ -125,13 +125,16 @@ def main():
     feeds = load_feeds()
     logging.info(f"Fetching {len(feeds)} RSS feeds...")
     candidates: List[Paper] = []
+    total_fetched = 0
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=20) as ex:
         futures = [ex.submit(fetch_feed, f, seen, keywords, cutoff) for f in feeds]
         for fut in concurrent.futures.as_completed(futures):
-            candidates.extend(fut.result())
+            papers, count = fut.result()
+            candidates.extend(papers)
+            total_fetched += count
     
-    logging.info(f"Found {len(candidates)} keyword matches")
+    logging.info(f"Fetched {total_fetched} papers, {len(candidates)} match keywords")
     
     if not candidates:
         logging.info("No new papers. Regenerating feed from history.")
