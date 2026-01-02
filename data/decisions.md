@@ -160,3 +160,8 @@
 | 0 | Accept | [Sequence-Only Prediction of Antibody Fab Thermostability Usi](https://www.biorxiv.org/content/10.64898/2025.12.30.697053v1?rss=1) |
 | 30 | Accept | [Beta-coalescents when sample size is large](https://www.biorxiv.org/content/10.64898/2025.12.30.697022v1?rss=1) |
 | 5 | Accept | [HPVarcall: Calling lineages and sublineages for partial DNA ](https://www.biorxiv.org/content/10.64898/2025.12.31.697187v1?rss=1) |
+| 0 | Accept | [Une alternative aux bisphénols de nos tickets de caisse : du](https://www.sciencesetavenir.fr/fondamental/materiaux/une-alternative-aux-bisphenols-de-nos-tickets-de-caisse-du-bois_190242?xtor=RSS-10) |
+| 15 | Accept | [Evidence of upright walking found in 7-million-year-old Sahe](https://phys.org/news/2025-12-evidence-upright-million-year-sahelanthropus.html) |
+| 5 | Accept | [Flowering plant origins: Dosage-sensitive genes suggest no w](https://phys.org/news/2026-01-dosage-sensitive-genes-genome-duplications.html) |
+| 5 | Accept | [The targeted cytosolic degradation of class I histone deacet](https://www.biorxiv.org/content/10.64898/2026.01.02.697337v1?rss=1) |
+| 8 | Accept | [CellPredX, a computational framework for cross-data type, cr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013824) |
