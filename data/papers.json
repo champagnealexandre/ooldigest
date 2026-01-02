@@ -1,5 +1,93 @@
 [
   {
+    "title": "Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)",
+    "summary": "<p>NASA astronaut and Expedition 73 Flight Engineer Zena Cardman inspects sample cassettes for installation into the Advanced Space Experiment Processor-4 (ADSEP-4) at the maintenance work area inside the International Space Station&#8217;s Harmony module. She was conducting research operations for the Pharmaceutical In-space Laboratory biotechnology experiment, which is investigating methods to advance pharmaceutical manufacturing in microgravity. [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html\">Offworld Biotechnology Research: Advanced Space Experiment Processor-4 (ADSEP-4)</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html",
+    "published_date": "2026-01-02T16:44:55Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 15,
+      "summary": "ISS-based ADSEP-4 operations supporting microgravity pharmaceutical manufacturing are space-biotech relevant but provide minimal direct insight into origins-of-life mechanisms or prebiotic chemistry."
+    }
+  },
+  {
+    "title": "Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars",
+    "summary": "<p>The Perseverance rover has collected rock samples from the floor of Jezero crater, Mars, set to be returned to Earth through the Mars Sample Return (MSR) mission. These surface rocks are continuously bombarded by cosmic rays, resulting in the formation of cosmogenic nuclides. To accurately date these rocks and understand past geological events, precise estimates [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html\">Recent Production Rates Of Cosmogenic Nuclides In The Igneous Rocks of Jezero Crater Floor, Mars</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html",
+    "published_date": "2026-01-02T16:34:24Z",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41598-025-33031-5?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata_scirep"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Measures cosmogenic nuclide production rates in Perseverance-collected Jezero crater floor igneous rocks to improve exposure-age and chronology constraints relevant to interpreting Mars\u2019 geological and potential habitability history."
+    }
+  },
+  {
+    "title": "Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life",
+    "summary": "<p>Life demonstrates remarkable homochirality of its major building blocks: nucleic acids, amino acids, sugars, and phospholipids. We propose a mechanism that places the root of life homochirality in the formation of phospholipid bilayer vesicles (liposomes). These liposomes are formed at the water-air interface from Langmuir layers and contain ribose, presumably delivered to Early Earth by [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html\">Heuristic Model On The Origin Of The Homochirality Of Life Heuristic Model On The Origin Of The Homochirality Of life</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html",
+    "published_date": "2026-01-02T16:39:23Z",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2512.11136",
+      "https://arxiv.org/abs/2512.11136"
+    ],
+    "analysis_result": {
+      "score": 100,
+      "summary": "Proposes a prebiotic self-assembly mechanism in protocell-like phospholipid vesicles at the water\u2013air interface to explain the origin of life\u2019s molecular homochirality."
+    }
+  },
+  {
+    "title": "Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential",
+    "summary": "<p>Lava tubes, or subsurface conduits formed by volcanic activity, have emerged as critical geological features for understanding planetary evolution and for supporting future human space exploration. This paper provides an integrated review of the formation, morphology, and preservation of lava tubes on Earth, the Moon, and Mars, emphasizing their geological significance and habitability potential. We [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html\">Lava Tubes On Earth, the Moon, And Mars: Detection, Evolution, And Exploration Potential</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html",
+    "published_date": "2026-01-02T16:27:44Z",
+    "hunted_links": [
+      "https://link.springer.com/article/10.1007/s11214-025-01260-9",
+      "https://doi.org/10.1007/s11214-025-01260-9"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Reviewing lava tube formation and preservation on Earth, the Moon, and Mars, this paper highlights their astrobiological relevance primarily through habitat preservation and future habitability/exploration potential rather than direct origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Two white-blooded fish, two paths: Icefish and noodlefish independently lose red blood cell function",
+    "summary": "Antarctic icefish are famous for living without red blood cells, but they are not alone. A species of needle-shaped, warm-water fish called the Asian noodlefish also lacks hemoglobin and red blood cells. Like icefish, its veins are filled with translucent white blood, said H. William Detrich, professor emeritus of marine and environmental sciences, who collaborated with Chinese scientists on a paper about the strange aquatic creatures published in Current Biology.",
+    "url": "https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html",
+    "published_date": "2026-01-02T16:45:17Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Comparative evolutionary physiology study showing independent loss of hemoglobin/red blood cell function in icefish and Asian noodlefish, with minimal direct relevance to origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History",
+    "summary": "<p>Ooids are small spheroidal carbonate grains that have circularly concentric and radially aligned crystals. Oolitic carbonates are commonly associated with fossils or organic matter, which has led to hypothetical formation models involving both biological and abiotic processes. The most commonly invoked model involves precipitates from supersaturated CaCO3 water under high-energy conditions. However, this model does [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html\">Authigenic Biosignatures Of Microbial Biomass Preserved As Carbonate Ooids Formed By Abiotic Chemically Oscillating Reactions Throughout Earth History</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html",
+    "published_date": "2026-01-02T16:23:15Z",
+    "hunted_links": [
+      "https://pubs.geoscienceworld.org/gsa/gsabulletin/article/doi/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass",
+      "https://doi.org/10.1130/B38526.1/666459/Authigenic-biosignatures-of-microbial-biomass"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "The paper argues that carbonate ooids can form via abiotic chemically oscillating reactions while still preserving authigenic biosignatures of microbial biomass, informing how early Earth life signals and potential extraterrestrial biosignatures might be recognized or misinterpreted."
+    }
+  },
+  {
+    "title": "Sequence-Only Prediction of Antibody Fab Thermostability Using Protein Language Model Embeddings",
+    "summary": "Antibody developability is a critical consideration in therapeutic manufacturing, with conformational stability, measured by melting temperature (Tm), being a key determinant of manufacturability. Traditional experimental approaches to assess Tm are costly and low-throughput, while statistical models offer limited predictive power and generalizability. In this study, we present a scalable, sequence-only machine learning (ML) approach to predict the thermostability of antigen-binding fragments (Fabs) using embeddings from IgBERT, a protein language model fine-tuned on antibody sequences. We trained a Random Forest regressor on 133 proprietary antibody sequences with measured Fab Tm values, achieving a Pearson correlation coefficient (PCC) of 0.77 on a held-out internal test set. When applied to a Jain set of clinical-stage therapeutics, the model retained predictive power (PCC = 0.28), outperforming baseline statistical and sequence-similarity methods. Embedding proximity in t-SNE space correlated with prediction accuracy, suggesting that model generalizability is influenced by distributional similarity rather than sequence identity. Our results demonstrate that PLM-derived embeddings encode biophysical features relevant to Fab thermostability and offer a fast, interpretable, and scalable route to de-risk antibody lead candidates.",
+    "url": "https://www.biorxiv.org/content/10.64898/2025.12.30.697053v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Error"
+    }
+  },
+  {
     "title": "Curiosity sends holiday postcard from Mars",
     "summary": "Team members working with NASA's Curiosity Mars rover created this \"postcard\" by commanding the rover to take images at two times of day on Nov. 18, 2025, spanning periods that occurred on both the 4,722nd and 4,723rd Martian days, or sols, of the mission.",
     "url": "https://phys.org/news/2026-01-curiosity-holiday-postcard-mars.html",

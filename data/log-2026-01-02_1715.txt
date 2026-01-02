@@ -1,0 +1,6 @@
+17:15:01 Fetching 93 RSS feeds...
+17:15:05 Fetched 168 papers from 93 feeds (4 errors), 7 match keywords
+17:15:05 Processing 7 papers...
+17:40:05 LLM Error: Expecting value: line 7139 column 1 (char 39259)
+17:40:05 Processed 7 papers (avg score: 44, errors: 0)
+17:40:05 Done. Feed has 158 papers.

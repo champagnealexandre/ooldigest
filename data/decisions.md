@@ -151,3 +151,10 @@
 | 75 | Accept | [Could TRAPPIST-1's seven worlds host moons?](https://phys.org/news/2026-01-trappist-worlds-host-moons.html) |
 | 20 | Accept | [Origins of THC, CBD and CBC in cannabis revealed](https://phys.org/news/2026-01-thc-cbd-cbc-cannabis-revealed.html) |
 | 30 | Accept | [Curiosity sends holiday postcard from Mars](https://phys.org/news/2026-01-curiosity-holiday-postcard-mars.html) |
+| 15 | Accept | [Offworld Biotechnology Research: Advanced Space Experiment P](https://astrobiology.com/2026/01/offworld-biotechnology-research-advanced-space-experiment-processor-4-adsep-4.html) |
+| 55 | Accept | [Recent Production Rates Of Cosmogenic Nuclides In The Igneou](https://astrobiology.com/2026/01/recent-production-rates-of-cosmogenic-nuclides-in-the-igneous-rocks-of-jezero-crater-floor-mars.html) |
+| 100 | Accept | [Heuristic Model On The Origin Of The Homochirality Of Life H](https://astrobiology.com/2026/01/heuristic-model-on-the-origin-of-the-homochirality-of-life-heuristic-model-on-the-origin-of-the-homochirality-of-life.html) |
+| 60 | Accept | [Lava Tubes On Earth, the Moon, And Mars: Detection, Evolutio](https://astrobiology.com/2026/01/lava-tubes-on-earth-the-moon-and-mars-detection-evolution-and-exploration-potential.html) |
+| 15 | Accept | [Two white-blooded fish, two paths: Icefish and noodlefish in](https://phys.org/news/2026-01-white-blooded-fish-paths-icefish.html) |
+| 65 | Accept | [Authigenic Biosignatures Of Microbial Biomass Preserved As C](https://astrobiology.com/2026/01/authigenic-biosignatures-of-microbial-biomass-preserved-as-carbonate-ooids-formed-by-abiotic-chemically-oscillating-reactions-throughout-earth-history.html) |
+| 0 | Accept | [Sequence-Only Prediction of Antibody Fab Thermostability Usi](https://www.biorxiv.org/content/10.64898/2025.12.30.697053v1?rss=1) |
