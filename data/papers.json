@@ -1,5 +1,16 @@
 [
   {
+    "title": "The evolution of socially modulated dispersal",
+    "summary": "Dispersal plays a key role in ecology and evolutionary biology, including as a mechanism that reduces local competition. However, dispersers often suffer a fitness disadvantage relative to nondispersers, which may lead individuals to prefer that others disperse rather than dispersing themselves. Hence, if individuals can force their neighbours to disperse, they may be favoured to do so rather than voluntarily dispersing for the good of others. Besides forcing dispersal, individuals might also improve their neighbours' ability to disperse. Here, we investigate the evolutionary drivers and consequences of socially modulated dispersal. We find that: (1) there are three possible stable evolutionary outcomes, involving only voluntary dispersal, only socially modulated dispersal, or coexistence of the two; (2) although social modulation that does not improve dispersal success can only be favoured if it is less costly than dispersal itself, social modulation that facilitates dispersal can be favoured even if it is highly expensive for the facilitator; (3) facilitated dispersal may, counterintuitively, lead to a reduced overall level of dispersal; and (4) social modulation can be either welcome or unwelcome from the perspective of the disperser. These predictions emphasise that the evolution of dispersal depends on individuals' abilities to both disperse and modulate.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.01.697281v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 15,
+      "summary": "The paper develops evolutionary theory for how individuals can influence neighbors\u2019 dispersal decisions and outcomes, but it has only indirect relevance to origins-of-life or astrobiology."
+    }
+  },
+  {
     "title": "On maximum distance separable and completely regular codes",
     "summary": "arXiv:2512.24292v1 Announce Type: cross \nAbstract: We investigate when a maximum distance separable ($MDS$) code over $F_q$ is also completely regular ($CR$). For lengths $n=q+1$ and $n=q+2$ we provide a complete classification of the $MDS$ codes that are $CR$ or at least uniformly packed in the wide sense ($UPWS$). For the more restricted case $n\\leq q$ with $q\\leq 5$ we obtain a full classification (up to equivalence) of all nontrivial $MDS$ codes: there are none for $q=2$; only the ternary Hamming code for $q=3$; four nontrivial families for $q=4$; and exactly six linear $MDS$ codes for $q=5$ (three of which are $CR$ and one admits a self-dual version). Additionally, we close two gaps left open in a previous classification of self-dual $CR$ codes with covering radius $\\rho\\leq 3$: we precisely determine over which finite fields the $MDS$ self-dual completely regular codes with parameters $[2,1,2]_q$ and $[4,2,3]_q$ exist.",
     "url": "https://arxiv.org/abs/2512.24292",

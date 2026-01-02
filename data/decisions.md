@@ -135,3 +135,4 @@
 | 0 | Accept | [In Science Journals](https://www.science.org/doi/abs/10.1126/science.aee9316?af=R) |
 | 15 | Accept | [La Réunion: éruption "probable ou imminente" du Piton de la ](https://www.sciencesetavenir.fr/nature-environnement/la-reunion-eruption-probable-ou-imminente-du-piton-de-la-fournaise_190243?xtor=RSS-15) |
 | 65 | Accept | [Luca, l'ancêtre de tous les êtres vivants](https://www.sciencesetavenir.fr/archeo-paleo/evolution/luca-l-ancetre-de-tous-les-etres-vivants_190060?xtor=RSS-4) |
+| 15 | Accept | [The evolution of socially modulated dispersal](https://www.biorxiv.org/content/10.64898/2026.01.01.697281v1?rss=1) |

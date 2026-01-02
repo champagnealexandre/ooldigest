@@ -3,8 +3,16 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-02T08:24:32.044430+00:00</updated>
+  <updated>2026-01-02T09:20:59.833160+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [15] The evolution of socially modulated dispersal</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.01.697281v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.01.697281v1?rss=1</id>
+    <updated>2026-01-02T00:00:00Z</updated>
+    <summary>Dispersal plays a key role in ecology and evolutionary biology, including as a mechanism that reduces local competition. However, dispersers often suf</summary>
+    <content type="html"><![CDATA[<p>Dispersal plays a key role in ecology and evolutionary biology, including as a mechanism that reduces local competition. However, dispersers often suffer a fitness disadvantage relative to nondispersers, which may lead individuals to prefer that others disperse rather than dispersing themselves. Hen</p><h4>Sources</h4><p><em>No links found</em></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [0] On maximum distance separable and completely regular codes</title>
     <link href="https://arxiv.org/abs/2512.24292"/>
