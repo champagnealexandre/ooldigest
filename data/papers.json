@@ -1,5 +1,27 @@
 [
   {
+    "title": "A variational method for efficient estimation of diffusion and free-energy profiles along collective variables",
+    "summary": "An efficient variational method is presented for estimating the diffusion coefficients and free-energy profiles along selected collective variables from projected molecular dynamics trajectories under both equilibrium and nonequilibrium conditions. The method is based on the assumption that the short-time transition probability density of the coordinate moves can be approximated by a Gaussian form. Defining a loss function as the sum of Kullback-Leibler divergences between the analytical short-time propagators of an overdamped Langevin model and those estimated directly from the projected trajectories maximises the agreement between the two and allows for its analytic evaluation. To efficiently minimise this loss function by varying diffusion and free-energy profiles along collective variables, we use an adaptive Monte Carlo scheme. The method is applied to two model systems exhibiting diffusive dynamics, as well as to water diffusion across the interface of a biomolecular condensate, demonstrating its robustness and accuracy.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.01.697292v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 35,
+      "summary": "Presents a computational variational framework to extract diffusion and free-energy profiles from MD trajectories (including water diffusion in biomolecular condensates), offering potentially useful methodology for modeling physicochemical processes relevant to prebiotic environments but not directly focused on origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "scDeepVariant: A population-informed deep learning framework for germline variant calling in scRNA-seq",
+    "summary": "Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution of cellular heterogeneity while also capturing information on germline genetic variation, but accurate variant calling remains limited by sparse coverage, allelic imbalance, and RNA-specific artifacts. Existing single-cell methods, including cellSNP, scAllele, and Monopogen, address some of these challenges, yet either suffer from low sensitivity and precision or rely on linkage disequilibrium (LD) priors that restrict performance on rare variants. Here, we introduce single-cell DeepVariant (scDV), a deep learning-based framework adapted from DeepVariant and trained on paired WGS and scRNA-seq data. We show that scDV can be effectively trained on sparse single-cell data and that augmenting models with allele frequency information from gnomAD or the 1000 Genomes Project consistently improves performance. Across benchmarks, scDV with allele frequency channels achieved higher precision and recall than standard six-channel configurations, surpassing Monopogen at coverage depth above 10 reads and demonstrating a pronounced advantage in rare variant detection, where LD-based refinement is most limited. These results establish scDV as a robust alternative for germline variant discovery from scRNA-seq and highlight the broader value of integrating population-scale information into deep learning frameworks for transcriptomic variant calling.",
+    "url": "https://www.biorxiv.org/content/10.64898/2025.12.31.696877v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Introduces a population-informed deep learning method (scDeepVariant) to improve germline variant calling from sparse scRNA-seq data, with strong gains for rare variants when incorporating allele-frequency priors."
+    }
+  },
+  {
     "title": "Instability cascades in crumpling mylar sheets follow a log-Poisson statistic",
     "summary": "Author(s): Stefan Boettcher and Paula A. Gago<br /><p>The process of aging following a hard quench into a glassy state is characterized universally, for a wide class of materials, by logarithmic evolution of state variables and a power-law decay of two-time correlation functions that collapse only for the ratio of those times. This stands in stark cont\u2026</p><br />[Phys. Rev. E 113, 015402] Published Fri Jan 02, 2026",
     "url": "http://link.aps.org/doi/10.1103/n7dw-zhvr",

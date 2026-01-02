@@ -3,8 +3,24 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-02T22:17:07.772998+00:00</updated>
+  <updated>2026-01-02T23:16:15.329586+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] A variational method for efficient estimation of diffusion and free-energy profiles along collective variables</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.01.697292v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.01.697292v1?rss=1</id>
+    <updated>2026-01-02T00:00:00Z</updated>
+    <summary>An efficient variational method is presented for estimating the diffusion coefficients and free-energy profiles along selected collective variables fr</summary>
+    <content type="html"><![CDATA[<p>An efficient variational method is presented for estimating the diffusion coefficients and free-energy profiles along selected collective variables from projected molecular dynamics trajectories under both equilibrium and nonequilibrium conditions. The method is based on the assumption that the shor</p><h4>Sources</h4><p><em>No links found</em></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] scDeepVariant: A population-informed deep learning framework for germline variant calling in scRNA-seq</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2025.12.31.696877v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2025.12.31.696877v1?rss=1</id>
+    <updated>2026-01-02T00:00:00Z</updated>
+    <summary>Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution of cellular heterogeneity while also capturing information on germline geneti</summary>
+    <content type="html"><![CDATA[<p>Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution of cellular heterogeneity while also capturing information on germline genetic variation, but accurate variant calling remains limited by sparse coverage, allelic imbalance, and RNA-specific artifacts. Existing single-cell meth</p><h4>Sources</h4><p><em>No links found</em></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [0] Instability cascades in crumpling mylar sheets follow a log-Poisson statistic</title>
     <link href="http://link.aps.org/doi/10.1103/n7dw-zhvr"/>

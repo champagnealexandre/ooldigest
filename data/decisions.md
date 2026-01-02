@@ -168,3 +168,5 @@
 | 30 | Accept | [An anti-aggregation region of the SGS3 N-terminal IDR is ess](https://www.biorxiv.org/content/10.64898/2026.01.02.697351v1?rss=1) |
 | 0 | Accept | [Instability cascades in crumpling mylar sheets follow a log-](http://link.aps.org/doi/10.1103/n7dw-zhvr) |
 | 25 | Accept | [The one that abstained: Psilocybe fuscofulva genome suggests](https://www.biorxiv.org/content/10.64898/2025.12.30.697041v1?rss=1) |
+| 35 | Accept | [A variational method for efficient estimation of diffusion a](https://www.biorxiv.org/content/10.64898/2026.01.01.697292v1?rss=1) |
+| 20 | Accept | [scDeepVariant: A population-informed deep learning framework](https://www.biorxiv.org/content/10.64898/2025.12.31.696877v1?rss=1) |
