@@ -166,3 +166,5 @@
 | 5 | Accept | [The targeted cytosolic degradation of class I histone deacet](https://www.biorxiv.org/content/10.64898/2026.01.02.697337v1?rss=1) |
 | 8 | Accept | [CellPredX, a computational framework for cross-data type, cr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013824) |
 | 30 | Accept | [An anti-aggregation region of the SGS3 N-terminal IDR is ess](https://www.biorxiv.org/content/10.64898/2026.01.02.697351v1?rss=1) |
+| 0 | Accept | [Instability cascades in crumpling mylar sheets follow a log-](http://link.aps.org/doi/10.1103/n7dw-zhvr) |
+| 25 | Accept | [The one that abstained: Psilocybe fuscofulva genome suggests](https://www.biorxiv.org/content/10.64898/2025.12.30.697041v1?rss=1) |

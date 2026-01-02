@@ -1,5 +1,27 @@
 [
   {
+    "title": "Instability cascades in crumpling mylar sheets follow a log-Poisson statistic",
+    "summary": "Author(s): Stefan Boettcher and Paula A. Gago<br /><p>The process of aging following a hard quench into a glassy state is characterized universally, for a wide class of materials, by logarithmic evolution of state variables and a power-law decay of two-time correlation functions that collapse only for the ratio of those times. This stands in stark cont\u2026</p><br />[Phys. Rev. E 113, 015402] Published Fri Jan 02, 2026",
+    "url": "http://link.aps.org/doi/10.1103/n7dw-zhvr",
+    "published_date": "2026-01-02T10:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Reports log-Poisson statistics in instability cascades during aging of crumpled mylar sheets, with no direct connection to origins-of-life chemistry, biology, or astrobiological habitability."
+    }
+  },
+  {
+    "title": "The one that abstained: Psilocybe fuscofulva genome suggests two recent origins of the psilocybin gene cluster in Psilocybe",
+    "summary": "Nearly all species in the genus Psilocybe sensu stricto produce psilocybin, yet P. fuscofulva is a striking exception in which psilocybin has not been detected. To elucidate the evolutionary events leading to differential psilocybin production in Psilocybe, we produced genome assemblies for two P. fuscofulva strains, one P. polytrichoides strain, and one P. tampanensis strain, complemented by reannotated public genomes and metagenome-derived assemblies from fungarium specimens representing both major Psilocybe clades and related genera. Phylogenomic analysis based on 100 single-copy orthologs curated for high branch support strongly placed P. fuscofulva as the earliest-diverging lineage in Psilocybe Clade I. No psilocybin gene cluster (PGC) homologs, whether clustered or dispersed, were identified in P. fuscofulva, whereas a single intact PGC was present in all other examined Psilocybe genomes. The PGC resides in two distinct, clade-specific genomic loci: one conserved in Clade I and another in Clade II, each displaying characteristic gene orders and orientations consistent with rearrangement through circular intermediates. Time-calibrated phylogenies estimated the Psilocybe crown group at approximately 28 million years ago, with major clade divergences occurring in the Miocene. The absence of the PGC in P. fuscofulva, together with clade-specific structural conservation and the lack of remnant sequences at alternate loci, supports two independent origins of the PGC within Psilocybe: one in the ancestor of Clade II and a subsequent origin in Clade I following divergence from P. fuscofulva, most likely via horizontal gene transfer (HGT). Gene phylogenies provide weak support for transfer from Clade I to Clade II, although broader sampling is required for confirmation. These results constrain the timeframe of PGC emergence and dispersal to the Miocene, implying rapid HGT events possibly driven by ecological pressures in expanding grassland ecosystems. This study challenges the assumption of an ancestral psilocybin pathway in Psilocybe and its close relatives and underscores multiple recent acquisitions of an ecologically important metabolic trait.",
+    "url": "https://www.biorxiv.org/content/10.64898/2025.12.30.697041v1?rss=1",
+    "published_date": "2026-01-02T00:00:00Z",
+    "hunted_links": [],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Comparative fungal genomics indicates Psilocybe psilocybin biosynthesis likely arose twice via relatively recent horizontal gene transfer, reframing the pathway as a late, ecologically driven acquisition rather than an ancestral trait."
+    }
+  },
+  {
     "title": "An anti-aggregation region of the SGS3 N-terminal IDR is essential for secondary siRNA biogenesis",
     "summary": "Secondary siRNA biogenesis amplifies small RNA signals from target transcripts and plays a pivotal role in plant development and defense responses. The RNA-binding protein SGS3 is essential for this pathway, recruiting RNA-dependent RNA polymerase 6 (RDR6) to Argonaute-small RNA-bound targets. The N-terminal intrinsically disordered region (IDR) of SGS3, which contains a prion-like domain (PrLD), has been reported to drive liquid-liquid phase separation, forming siRNA bodies, and to be required for secondary siRNA production. However, the molecular mechanism by which the N-terminal IDR contributes to secondary siRNA production remains unclear. Here, using in vitro reconstitution and in planta assays, we show that the N-terminal IDR comprises two functional modules: the PrLD and a negatively charged region (NCR). The PrLD is required for phase separation and siRNA body formation but is dispensable for secondary siRNA production. In contrast, mutations in the NCR caused SGS3 to form abnormally large cytoplasmic assemblies and markedly impaired secondary siRNA production. These results suggest that the N-terminal IDR helps maintain SGS3 in a functional, soluble state that supports efficient secondary siRNA biogenesis.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.697351v1?rss=1",
