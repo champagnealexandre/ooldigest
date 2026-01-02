@@ -139,3 +139,8 @@
 | 30 | Accept | [Ultrafast Thermometry of Gold Nanoparticles: Resolving Parti](https://dx.doi.org/10.26434/chemrxiv-2026-k7rt6?rft_dat=source%3Ddrss) |
 | 20 | Accept | [A round-robin exercise for the precise prediction of aqueous](https://dx.doi.org/10.26434/chemrxiv-2026-6xb6k?rft_dat=source%3Ddrss) |
 | 30 | Accept | [Parallel ZNF598 and GIGYF2 pathways mediate conserved collis](https://www.biorxiv.org/content/10.64898/2026.01.01.697312v1?rss=1) |
+| 35 | Accept | [Murder victim discovered to have two sets of DNA due to rare](https://www.newscientist.com/article/2507675-murder-victim-discovered-to-have-two-sets-of-dna-due-to-rare-condition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| 20 | Accept | [Murder victim discovered to have two sets of DNA due to rare](https://www.newscientist.com/article/2507675-murder-victim-discovered-to-have-two-sets-of-dna-due-to-rare-condition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| 5 | Accept | [Single cell RNA-sequencing reveals an association between te](https://www.biorxiv.org/content/10.64898/2025.12.31.697241v1?rss=1) |
+| 5 | Accept | [Murder victim discovered to have two sets of DNA due to rare](https://www.newscientist.com/article/2507675-murder-victim-discovered-to-have-two-sets-of-dna-due-to-rare-condition/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| 60 | Accept | [Biomimetic catalysis enables asymmetric Atherton–Todd reacti](https://www.nature.com/articles/s41557-025-02030-4) |
