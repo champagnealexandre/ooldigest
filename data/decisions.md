@@ -136,3 +136,6 @@
 | 15 | Accept | [La Réunion: éruption "probable ou imminente" du Piton de la ](https://www.sciencesetavenir.fr/nature-environnement/la-reunion-eruption-probable-ou-imminente-du-piton-de-la-fournaise_190243?xtor=RSS-15) |
 | 65 | Accept | [Luca, l'ancêtre de tous les êtres vivants](https://www.sciencesetavenir.fr/archeo-paleo/evolution/luca-l-ancetre-de-tous-les-etres-vivants_190060?xtor=RSS-4) |
 | 15 | Accept | [The evolution of socially modulated dispersal](https://www.biorxiv.org/content/10.64898/2026.01.01.697281v1?rss=1) |
+| 30 | Accept | [Ultrafast Thermometry of Gold Nanoparticles: Resolving Parti](https://dx.doi.org/10.26434/chemrxiv-2026-k7rt6?rft_dat=source%3Ddrss) |
+| 20 | Accept | [A round-robin exercise for the precise prediction of aqueous](https://dx.doi.org/10.26434/chemrxiv-2026-6xb6k?rft_dat=source%3Ddrss) |
+| 30 | Accept | [Parallel ZNF598 and GIGYF2 pathways mediate conserved collis](https://www.biorxiv.org/content/10.64898/2026.01.01.697312v1?rss=1) |
