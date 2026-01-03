@@ -60,9 +60,13 @@ keywords_astro:
   - planetesimal
   - venus
 
+# Keyword syntax:
+#   word      → exact word match (word boundaries)
+#   word*     → prefix match (e.g., eukaryo* matches eukaryote, eukaryotic)
+#   word(s)   → optional plural (e.g., origin(s) matches origin or origins)
 keywords_ool:
   - prebiotic
-  - origin of life
+  - origin(s) of life
   - autocatalysis
   - autocatalytic
   - chirality
@@ -71,7 +75,6 @@ keywords_ool:
   - nucleic acid
   - eukaryo*
   - water
-  - origins of life
   - RNA
   - DNA
   - evolution

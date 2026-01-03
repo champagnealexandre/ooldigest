@@ -41,8 +41,10 @@ def load_feeds() -> dict:
 def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> bool:
     """Check if entry matches any keyword.
     
-    Supports wildcard syntax: 'eukaryo*' matches eukaryote, eukaryotic, etc.
-    Without wildcard: exact word boundary match to avoid false positives.
+    Syntax:
+      - 'eukaryo*' → prefix match (eukaryote, eukaryotic, etc.)
+      - 'origin(s)' → optional plural (origin or origins)
+      - 'RNA' → exact word boundary match
     """
     text = f"{entry.get('title', '')} {entry.get('summary', '')}".lower()
     if 'tags' in entry:
@@ -51,13 +53,26 @@ def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> b
     import re
     for kw in keywords:
         kw_lower = kw.lower()
-        if kw_lower.endswith('*'):
+        
+        # Handle (s) optional plural syntax: "origin(s)" -> "origins?"
+        kw_processed = re.sub(r'\(s\)', 's?', kw_lower)
+        
+        if kw_processed.endswith('*'):
             # Prefix match: word boundary at start, any continuation allowed
-            prefix = kw_lower[:-1]
+            prefix = kw_processed[:-1]
             pattern = r'\b' + re.escape(prefix)
         else:
             # Exact word match with boundaries on both sides
-            pattern = r'\b' + re.escape(kw_lower) + r'\b'
+            # We need to handle the s? specially since re.escape would escape it
+            if 's?' in kw_processed:
+                # Build pattern preserving the s? regex
+                parts = kw_processed.split('s?')
+                escaped_parts = [re.escape(p) for p in parts]
+                inner = 's?'.join(escaped_parts)
+                pattern = r'\b' + inner + r'\b'
+            else:
+                pattern = r'\b' + re.escape(kw_processed) + r'\b'
+        
         if re.search(pattern, text):
             return True
     return False
