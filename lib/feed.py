@@ -60,9 +60,18 @@ def _build_entry(paper: Dict[str, Any]) -> str:
     if ai_summary:
         content_parts.append(f"<p><strong>AI Decision:</strong> {html.escape(ai_summary)}</p>")
     
-    # Abstract (full, not truncated)
+    # Abstract - check if it's real content or just metadata
     if abstract:
-        content_parts.append(f"<p><strong>Abstract:</strong> {html.escape(abstract)}</p>")
+        # Some feeds only provide metadata like "Publication date: ... Source: ... Author(s): ..."
+        is_metadata_only = (
+            abstract.startswith('Publication date:') or 
+            'Source:' in abstract[:100] and 'Author(s):' in abstract
+        )
+        if is_metadata_only:
+            content_parts.append(f"<p><em>Abstract not available in RSS feed.</em></p>")
+            content_parts.append(f"<p><strong>Metadata:</strong> {html.escape(abstract)}</p>")
+        else:
+            content_parts.append(f"<p><strong>Abstract:</strong> {html.escape(abstract)}</p>")
     
     # Hunted links
     links = paper.get('hunted_links', [])
