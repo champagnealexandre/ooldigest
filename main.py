@@ -123,7 +123,7 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
 
 
 def write_feed_status(feed_results: List[dict], categories: dict):
-    """Write feed health report to data/feeds-status.md."""
+    """Write feed health report to data/last_feeds-status.md."""
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     
     # Group results by category
@@ -186,7 +186,7 @@ def write_feed_status(feed_results: List[dict], categories: dict):
             lines.append(f"- {icon} {r['title']}")
         lines.append("")
     
-    with open("data/feeds-status.md", "w") as f:
+    with open("data/last_feeds-status.md", "w") as f:
         f.write("\n".join(lines))
 
 
@@ -212,7 +212,8 @@ def process_paper(paper: Paper, config: Config, client, keywords: List[str]) -> 
 
 def main():
     # Setup logging: console + timestamped file
-    log_file = f"data/log-{datetime.datetime.now().strftime('%Y-%m-%d_%H%M')}.txt"
+    os.makedirs("data/logs", exist_ok=True)
+    log_file = f"data/logs/{datetime.datetime.now().strftime('%Y-%m-%d_%H%M')}.txt"
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s %(message)s',
@@ -272,7 +273,7 @@ def main():
         for fut in concurrent.futures.as_completed(futures):
             try:
                 paper = fut.result()
-                utils.log_decision("data/decisions.md", paper.title, 
+                utils.log_decision("data/last_decisions.md", paper.title, 
                                    paper.analysis_result.get('score', 0), 
                                    "Accept", paper.url)
                 processed.append(paper)
