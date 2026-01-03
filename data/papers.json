@@ -1,5 +1,150 @@
 [
   {
+    "title": "Computational Discovery of BMS-986205 as a Resistance-Proof Inhibitor for the Nipah Virus Polymerase",
+    "summary": "Nipah virus (NiV) represents a catastrophic public health risk to the Indian subcontinent, as evidenced by recurring outbreaks in Kerala (2018, 2021, 2023) where case fatality rates reached as high as 70-90%. There are currently no clinically approved therapeutics or vaccines specifically for NiV. A major hurdle in the drug development pipeline is the high mutation rate of RNA viruses, which allows them to rapidly evolve resistance against site-specific inhibitors. This research project utilizes a multi-layered computational strategy to identify a small-molecule inhibitor capable of targeting the viral polymerase while maintaining efficacy against the predicted high-probability W730A resistance mutation. Through a first-principles assessment of the viral polymerase structure (PDB: 9KNZ), I established a design constraint called Allosteric Independence. This requires any lead candidate to bind in a pocket that is geometrically distinct from the mutation site W730, thereby preventing steric or electronic disruption upon mutation. After screening a library of 50 high-potential candidates using a rigid-receptor docking protocol, I identified BMS-986205 (Linrodostat), an investigational IDO1 inhibitor, as a superior lead. BMS-986205 demonstrated a binding affinity of -7.17 kcal/mol against the wild-type polymerase and a paradoxical increase to -7.29 kcal/mol against the W730A mutant. Geometric analysis confirmed a physical separation of 6.28 \u00c5 from the mutation site. Given its current status in global Phase 3 clinical trials for oncology, BMS-986205 is a primary candidate for rapid drug repurposing to secure India\u2019s population against future outbreaks.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9pxlm?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-9pxlm"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Computational repurposing study identifying BMS-986205 as a potential Nipah virus polymerase inhibitor robust to a predicted resistance mutation, with only tangential relevance to origins-of-life via RNA/evolution context."
+    }
+  },
+  {
+    "title": "MINT32: A Minimum-Image INT32 Coordinate Representation for Fast and Accurate Molecular Dynamics on GPUs",
+    "summary": "Molecular dynamics simulations on GPUs have historically required a trade-off between performance and numerical precision. Mixed-precision approaches, such as AMBER SPFP and OpenMM, accumulate forces in high precision while representing coordinates in single precision (FP32). This design introduces a fundamental \u201cnoise floor\u201d: quantization error in FP32 coordinates injects artificial heat into the system, degrading long-term stability and distorting kinetic properties.\n\nWe introduce MINT32, a coordinate representation that maps the simulation box onto a 32-bit integer grid. MINT32 achieves a spatial resolution of approximately 0.01 fm, roughly 300 times finer than FP32, without the memory bandwidth penalties associated with 64-bit integer arithmetic. In addition, MINT32 offers algorithmic elegance through self-wrapping, whereby periodic boundary conditions are enforced via exact integer overflow, eliminating branch divergence entirely.\n\nBenchmark results demonstrate that MINT32 reduces energy drift in microcanonical (NVE) simulations by nearly an order of magnitude (7--10x), delivering double-precision-level stability for challenging PME water systems. When paired with single-precision force evaluations, MINT32 outperforms conventional mixed-precision models, indicating that coordinate precision is the dominant factor governing simulation stability in the systems examined. The fixed-point grid further enables constraint solvers (SHAKE) to converge to tolerances of 10A, effectively eliminating constraint instabilities. Our implementation achieves approximately 85\\% of production throughput on consumer-grade GPUs, serving as a conceptual foundation for future molecular dynamics (MD) engines.\n\nThe primary objective of this study is to identify an optimal coordinate representation for next-generation MD software. To this end, we present a prototype framework designed to isolate and evaluate the numerical behavior of coordinate representations in molecular dynamics, with a modified version of the AMBER simulation package serving solely as a testbed.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-dshbp?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-dshbp"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Introduces an integer-grid coordinate scheme (MINT32) that greatly reduces energy drift and improves long-timescale stability in GPU molecular dynamics, a broadly enabling advance for high-precision simulations (including water and biomolecular systems) but not directly focused on origins-of-life questions."
+    }
+  },
+  {
+    "title": "Computational Discovery of BMS-986205 as a Resistance-Proof Inhibitor for the Nipah Virus Polymerase",
+    "summary": "Nipah virus (NiV) represents a catastrophic public health risk to the Indian subcontinent, as evidenced by recurring outbreaks in Kerala (2018, 2021, 2023) where case fatality rates reached as high as 70-90%. There are currently no clinically approved therapeutics or vaccines specifically for NiV. A major hurdle in the drug development pipeline is the high mutation rate of RNA viruses, which allows them to rapidly evolve resistance against site-specific inhibitors. This research project utilizes a multi-layered computational strategy to identify a small-molecule inhibitor capable of targeting the viral polymerase while maintaining efficacy against the predicted high-probability W730A resistance mutation. Through a first-principles assessment of the viral polymerase structure (PDB: 9KNZ), I established a design constraint called Allosteric Independence. This requires any lead candidate to bind in a pocket that is geometrically distinct from the mutation site W730, thereby preventing steric or electronic disruption upon mutation. After screening a library of 50 high-potential candidates using a rigid-receptor docking protocol, I identified BMS-986205 (Linrodostat), an investigational IDO1 inhibitor, as a superior lead. BMS-986205 demonstrated a binding affinity of -7.17 kcal/mol against the wild-type polymerase and a paradoxical increase to -7.29 kcal/mol against the W730A mutant. Geometric analysis confirmed a physical separation of 6.28 \u00c5 from the mutation site. Given its current status in global Phase 3 clinical trials for oncology, BMS-986205 is a primary candidate for rapid drug repurposing to secure India\u2019s population against future outbreaks.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9pxlm?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-9pxlm"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Computational docking study proposing repurposing the IDO1 inhibitor BMS-986205 as an allosterically independent, resistance-tolerant inhibitor of the Nipah virus polymerase, with only tangential relevance to Origins of Life via mention of RNA viruses."
+    }
+  },
+  {
+    "title": "Magnesium-Catalysed, Hydroboration of C\u2013C sigma-bonds of Benzylidene Cyclobutanes",
+    "summary": "Selective synthetic routes to prepare boronic esters are highly desirable as they are valuable intermediates in the preparation of pharmaceuticals, agrochemicals, and functional materials. In this paper, we report a new approach to generate boronic esters through the ring-opening hydroboration of benzylidene cyclobutanes catalysed by magnesium(II) complexes. For the first time, products were accessed through the selective hydroboration of a single C\u2013C sigma-bond of the cyclobutane ring with complete chemoselectivity and high E:Z selectivities (99:1 to 3:1) across a wide range of substrates. The mechanism is proposed to proceed through the hydromagnesiation of the benzylidene cyclobutane, ring-opening by beta-alkyl migration, and subsequent Mg-to-B metathesis. Probe experiments, 11B NMR spectroscopy, and DFT calculations suggest that boronate complexes play a role in catalytic turnover, and that ring-closed hydroborated species form as off-cycle intermediates. The new process represents an important example in which a sustainable and inexpensive magnesium catalyst performs in an entirely complementary manner to transition metal systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-vqpmn?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The growing role of open source software in molecular modeling",
+    "summary": "The increasing importance and predictive power of modern molecular modeling, driven by physics- and machine learning-based methods, necessitates a new collaborative architecture to replace the isolated, traditional model of software development. The traditional approach often led to redundant engineering effort, high costs, and opaque systems that limit reproducibility, independent scrutiny, and scientific independence.  \n\nThis perspective advocates for permissively licensed open source software as a scientific and economic multiplier by reducing the duplication of effort, enabling scientific validation of modeling tools, and frictionless experimentation with new ideas. Coordinated, multi-project consortia, such as Open Force Field, Open Free Energy, OpenFold, and OpenADMET have formed to collaboratively build shared computational infrastructure and release all methods under permissive licenses. The success of these large-scale efforts requires organizational structures that extend beyond code. The Open Molecular Software Foundation (OMSF), a US nonprofit, serves as a domain-specific institutional home and fiscal sponsor. By providing governance, administrative infrastructure, and dedicated research software engineers, OMSF aligns incentives across academic and industrial stakeholders. This framework enables a synergistic ecosystem where projects interoperate to accelerate innovation, eliminate duplication, and ensure long-term software sustainability, thereby creating durable foundations that elevate the entire molecular modeling community.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-6n5lz?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "COLVARS-Driven Reactive Molecular Dynamics of Vitrimer Polymerization and Thermomechanical Property Analysis",
+    "summary": "Vitrimers are the new class of covalent adaptable networks (CANs) capable of topological rearrangement through dynamic bond exchange, enabling recyclability, self-healing and stress relaxation while maintaining network integrity. The ring opening of epoxides by carboxylic acids is a fundamental epoxy\u2013acid esterification reaction underlying vitrimer network formation, yet its atomistic mechanism remains challenging to simulate as experimental time scales for crosslinking reactions in polymers range from minutes to hours\u2014far beyond the reach of atomistic molecular dynamics (MD) simulations. In this work, we employ biased MD using the Collective Variables (COLVARS) module in LAMMPS combined with a reactive ReaxFF potential to promote the ring-opening reaction between Diglycidyl Ether of Bisphenol A (DGEBA) and oxalic acid. Three coupled collective variables were designed to represent epoxide C\u2013O bond cleavage, C(epoxide)\u2013O(acid) bond formation, and proton transfer between acid and epoxide oxygens. This external bias promotes nucleophilic addition of acid-derivedcarboxylate oxygen to the epoxide carbon, resulting in ring opening, followed by proton transfer to yield the \u03b2-hydroxy ester functionality characteristic of vitrimer networks. This method allows simulating cross-linking at realistic, low, temperatures which helps to mimic chemical reactions and avoids unwanted high-temperature side reactions. Since not all accelerated events lead to the desired product, careful selection of initial configurations, molecular orientations, and suitable external bias parameters increases the probability of meaningful simulation results. Furthermore, the stability of the resulting vitrimer was evaluated in the absence of any external bias, and its thermomechanical properties were subsequently analyzed. Results show that the biased MD approach successfully captures the atomistic steps of the esterification reaction and the resulting vitrimer network can be used for accurate prediction of thermomechanical properties.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-k6fn6?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Synthesis and design of Nickel-Enzyme Ligand Framework for Catalytic Applications",
+    "summary": "Metal\u2013organic frameworks (MOFs) are a versatile family of porous materials whose modular architecture enables tunable structural diversity and functional versatility. biological MOFs extend this concept by incorporating biomolecules as linkers, introducing biocompatibility and catalytic functionality. \nHere we performed the in situ construction of MOF elements through the direct involvement of enzymes during framework formation. In the absence of enzymes, Ni\u2013MOFs exhibited a typical compact, closed morphology, whereas enzyme-assisted synthesis produced well-defined microsnowflake-like structures. The formation process was rapid, and extended synthesis times did not induce changes in the final morphology. Notably, the enzyme structure played a key role in determining the final architecture; the use of larger enzymes, such as catalase, resulted in the formation of a sandwich-like layered structure. Structural characterization confirmed the formation of a porous material with an average pore size of revealing an average pore diameter ranging from 3 to 6 nm and pore volumes between 0.17 and 0.22 cm\u00b3/g .  Also Ni-ELFs hybrid showed  surface area from 82 of m\u00b2/g  to 139 m\u00b2/g (for Ni-ELF 1). Fluorescent labeling of the protein allowed the localization of the enzyme within the flake-like structures, revealing its preferential distribution at the periphery while leaving the central region accessible, thereby generating a novel hierarchical hybrid porous material.\nTo evaluate catalytic efficiency, ELFs were tested in hydrolytic reactions as esterase/lipase-mimic catalysts. In this context, Ni-based ELFs outperformed free lipases with ELF-1 exhibiting the highest catalytic activity compared to other ELF hybrids. As a proof of concept for hydrolysis-mimic plastic degradation, ELF-1 demonstrated notable activity in the direct degradation of PET bottle fragments into microstructured products.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-f6kmp?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sequence-controlled Rapid Living Anionic Copolymerization of Polystyrene Derivatives Using a Flow Microreactor",
+    "summary": "Copolymers play a vital role in a diverse array of functional materials, where their properties are determined by both their molecular weight and monomer sequence. While precise molecular weight control has been achieved in anionic polymerization reactions, sequence control remains a major challenge, particularly in fast copolymerization reactions that occur on the millisecond (ms) timescale. This limitation arises because conventional in situ spectroscopic analyses fail to capture such rapid kinetics in polar solvents, and existing quenched-flow setups are too complex for practical use. Here, we report a modular flow- microreactor platform that enables both kinetic analysis and sequence control in a fast, living anionic copolymerization reaction. By exploiting ms-scale mixing and quenching, we determined the propagation rate constants for the copolymerization of styrene and tert-butoxystyrene using the Beckingham\u2013Sanoja\u2013Lynd model, providing the first quantitative kinetic insight into such a rapid anionic system. Furthermore, by controlling the monomer feed based on the obtained rate constants, we achieved the synthesis of pseudo-random, gradient, and block copolymers. The pseudo-random copolymer exhibits low glass-transition temperatures and high solubility. This work provides a practical and quantitative approach for analyzing ms-scale polymerization processes and offers a general platform that combines reaction kinetics with polymer-sequence design, thus opening new opportunities for the rational development of functional materials through living anionic polymerization.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2p8xf?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mechanochemical Activation of Spiropyran in PMMA - A Hybrid Quantum Chemical/Atomistic/Coarse-Grained Approach",
+    "summary": "Embedding mechanophores into polymer matrices to activate mechanochemical reactions has been extensively employed to realize diverse functional applications. Spiropyran (SP) is a widely used mechanophore that undergoes force-induced isomerization into its activated merocyanine (MC) form, accompanied by a color change. To accurately simulate the SP-MC isomerization process under tension, the present work introduces a large-scale hybrid coarse-grained/atomistic (CG/AA) model in which poly(methyl metacrylate) (PMMA) monomers are represented by in dividual beads, while SP remains fully described at the AA level. We used force field parameters derived from quantum chemical (QC) data, employing the fully atomistic framework previously developed by our group. The underlying CG PMMA force field was reparameterized to match experimental bulk properties and compared with a corresponding atomistic force field. This approach enabled deformation simulations of significantly larger systems than possible with a pure AA force field, at reduced computational cost, thereby providing novel insights into force transduction and mechanophore activation. Furthermore, a parabolic stress distribution was observed along individual PMMA chains, resulting in preferential SP activation near chain centers. Non specific chain scission events occurred far less frequently than SP activations. The developed hybrid model offers a powerful framework for investigating more complex mechanophore doped polymer networks.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-vv226?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Design of a Novel Tricyclic Opioid Scaffold Inspired by Amitriptyline: A Computational Docking Study",
+    "summary": "The opioid receptor family remains a key target in pain management, yet the discovery of novel scaffolds with favorable CNS penetration and selective \u03bc-opioid activity is limited. Here, we report a tricyclic scaffold inspired by amitriptyline, modified to incorporate opioid pharmacophore features including a phenolic hydroxyl and a tertiary amine side chain. Computational docking of the ligand against the \u03bc-opioid receptor was performed across nine poses, with interactions analyzed using PLIP [4]. The ligand engages a conserved hydrophobic pocket (ILE 245, VAL 249, ILE 271, TRP 242) and forms hydrogen bonds and salt bridges with polar residues (HIS 3, ASP 96, TYR 97/275). Our results suggest that this tricyclic scaffold is compatible with the \u03bc-opioid receptor binding site and may serve as a starting point for further medicinal chemistry optimization.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-r2r33?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A 4D Electrostatic Model for Fast Computational Chemistry: Using Explicit Electron Internal Structure.",
+    "summary": "Electrons have internal structure, you cannot have spin without internal structure, you  cannot have chemistry without spin, computing with out an explicit model for spin has  made chemists\u2019 lives hard.  We present a deterministic framework for computational chemistry that replaces the  probabilistic wave function with a classical electromagnetic model of the electron possessing  internal temporal structure. By recognizing the electron as a half-photon electromagnetic  field configuration oscillating between two temporal poles separated by \u03b40 = \u03bbC /2 \u22481.21  pm, we resolve the classical radiation catastrophe and recover atomic stability without quan-  tum axioms. The electron\u2019s energy resides entirely in the half-photon field oscillation at  frequency \u03c90 = mec2/\u210f, not in electrostatic self-energy of the temporal poles. Angular mo-  mentum conservation (L= \u210f) makes the electron stiff against stretching but compressible  under strong nuclear fields, with compression energy E(\u03b4) = \u210fc/\u03b4 increasing hyperbolically  as \u03b4 < \u03b40. This temporal structure naturally regularizes the nuclear Coulomb potential,  predicting the hydrogen ground state to 0.18% accuracy. The exchange interaction emerges  as magnetic phase-locking between antiparallel electron pairs, calibrated from Cooper pair  coherence lengths in superconductors. This mechanism reproduces the lithium ionization  energy (0.8% error) and derives nitrogen\u2019s sp3 geometry from magnetic dipole packing con-  straints. The Pauli exclusion principle arises from two physical mechanisms: (1) compressed  electrons cannot phase-lock with uncompressed electrons due to frequency mismatch, and  (2) half-photon analytic paths resist spatial overlap. The model offers O(N2) computational  scaling for molecular systems, presenting a classical alternative to density functional theory.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-w2s4x?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Comprehensive Guidelines for Magnetoelectrocatalysis: Quantum-Engineered Materials, Mechanistic Insights, and Application Spectrum",
+    "summary": "Amid the alarming threat of pollution, the electrocatalytic pathway stands out as a frontrunner, offering a promising strategy for clean energy conversion and environmental remediation. However, despite its immense potential, the practical substitution of the industrial process remains an elusive target. Despite conducting considerable research for over a century, the primary problem remains the engineering of an efficient and durable electrocatalyst to overcome bottlenecks and convert electrochemical pathways into viable, scalable technologies. Herein, this work transcends a comprehensive review by bridging material breakthroughs with their fundamental mechanistic insights and, through a meticulous analysis of existing experimental studies, reveals how either a small magnetic field or a fictitious magnetic field orchestrates complex catalytic pathways, positioning itself as a cornerstone work to propel the future of magneto-electrochemistry. The material aspects cover not only the already tested materials but also draw a new roadmap for advanced quantum materials that can change the landscape of spin-based catalysis research. Ultimately, the integration of complex materials with dynamic mechanistic understanding, rational cell engineering across diverse applications, and AI- and ML-driven predictive design is poised to revolutionize magnetic-field-assisted catalysis. This unified and adaptive framework for magneto-electrocatalysis not only delineates existing challenges but also illuminates sustainable and scalable pathways toward next-generation energy conversion, environmental remediation, and green chemical manufacturing.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-dvwc9?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Magnesium-Catalysed, Hydroboration of C\u2013C sigma-bonds of Benzylidene Cyclobutanes",
+    "summary": "Selective synthetic routes to prepare boronic esters are highly desirable as they are valuable intermediates in the preparation of pharmaceuticals, agrochemicals, and functional materials. In this paper, we report a new approach to generate boronic esters through the ring-opening hydroboration of benzylidene cyclobutanes catalysed by magnesium(II) complexes. For the first time, products were accessed through the selective hydroboration of a single C\u2013C sigma-bond of the cyclobutane ring with complete chemoselectivity and high E:Z selectivities (99:1 to 3:1) across a wide range of substrates. The mechanism is proposed to proceed through the hydromagnesiation of the benzylidene cyclobutane, ring-opening by beta-alkyl migration, and subsequent Mg-to-B metathesis. Probe experiments, 11B NMR spectroscopy, and DFT calculations suggest that boronate complexes play a role in catalytic turnover, and that ring-closed hydroborated species form as off-cycle intermediates. The new process represents an important example in which a sustainable and inexpensive magnesium catalyst performs in an entirely complementary manner to transition metal systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-vqpmn?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-03T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Imidazolidines via 1,3-dipolar (Huisgen) cycloaddition",
     "summary": "Microreview describes recent (2013-2025) advances in the synthesis of imidazolidines using 1,3-dipolar (Huisgen) cycloaddition of N-benzyl-1-methoxy-N-((trimethylsilyl)methyl)-methanamine or its analogs to an imine double bond",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-dnwbq?rft_dat=source%3Ddrss",

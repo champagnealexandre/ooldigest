@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Computational Discovery of BMS-986205 as a Resistance-Proof ](https://dx.doi.org/10.26434/chemrxiv-2026-9pxlm?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [MINT32: A Minimum-Image INT32 Coordinate Representation for ](https://dx.doi.org/10.26434/chemrxiv-2026-dshbp?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Computational Discovery of BMS-986205 as a Resistance-Proof ](https://dx.doi.org/10.26434/chemrxiv-2026-9pxlm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Magnesium-Catalysed, Hydroboration of C–C sigma-bonds of Ben](https://dx.doi.org/10.26434/chemrxiv-2026-vqpmn?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Comprehensive Guidelines for Magnetoelectrocatalysis: Quantu](https://dx.doi.org/10.26434/chemrxiv-2026-dvwc9?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A 4D Electrostatic Model for Fast Computational Chemistry: U](https://dx.doi.org/10.26434/chemrxiv-2026-w2s4x?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Design of a Novel Tricyclic Opioid Scaffold Inspired by Amit](https://dx.doi.org/10.26434/chemrxiv-2026-r2r33?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Mechanochemical Activation of Spiropyran in PMMA - A Hybrid ](https://dx.doi.org/10.26434/chemrxiv-2026-vv226?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Sequence-controlled Rapid Living Anionic Copolymerization of](https://dx.doi.org/10.26434/chemrxiv-2026-2p8xf?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Synthesis and design of Nickel-Enzyme Ligand Framework for C](https://dx.doi.org/10.26434/chemrxiv-2026-f6kmp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [COLVARS-Driven Reactive Molecular Dynamics of Vitrimer Polym](https://dx.doi.org/10.26434/chemrxiv-2026-k6fn6?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The growing role of open source software in molecular modeli](https://dx.doi.org/10.26434/chemrxiv-2026-6n5lz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Magnesium-Catalysed, Hydroboration of C–C sigma-bonds of Ben](https://dx.doi.org/10.26434/chemrxiv-2026-vqpmn?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Imidazolidines via 1,3-dipolar (Huisgen) cycloaddition](https://dx.doi.org/10.26434/chemrxiv-2026-dnwbq?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Imidazolidines via 1,3-dipolar (Huisgen) cycloaddition](https://dx.doi.org/10.26434/chemrxiv-2026-dnwbq?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [A Chiral Saddle-shaped Nanographene with Two Heptagon-Embedd](https://dx.doi.org/10.26434/chemrxiv-2026-lnp7q?rft_dat=source%3Ddrss) |
