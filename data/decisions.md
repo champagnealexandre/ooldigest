@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [A Chiral Saddle-shaped Nanographene with Two Heptagon-Embedd](https://dx.doi.org/10.26434/chemrxiv-2026-lnp7q?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [A Chiral Saddle-shaped Nanographene with Two Heptagon-Embedd](https://dx.doi.org/10.26434/chemrxiv-2026-lnp7q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Photochemical post-functionalization of polystyrene enables ](https://dx.doi.org/10.26434/chemrxiv-2025-t5xtc-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Deep Eutectic Solvent (DES)–Based Gels: Structure, Propertie](https://dx.doi.org/10.26434/chemrxiv-2026-mjlk8?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [Chromosome-naïve global networks of initiators of hybrid ass](https://dx.doi.org/10.26434/chemrxiv-2026-z15zr?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [À la fin de l'âge du Bronze, un effondrement des grandes pui](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/a-la-fin-de-l-age-du-bronze-un-effondrement-des-grandes-puissances-de-la-mediterranee_190103?xtor=RSS-4) |
 | keyword_rejected | - | [Facile access to N-substituted pyridyl ligands](https://dx.doi.org/10.26434/chemrxiv-2026-3r72l?rft_dat=source%3Ddrss) |
