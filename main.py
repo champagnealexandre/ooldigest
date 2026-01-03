@@ -39,11 +39,18 @@ def load_feeds() -> dict:
 # ─────────────────────────────────────────────────────────────────────────────
 
 def matches_keywords(entry: feedparser.FeedParserDict, keywords: List[str]) -> bool:
-    """Check if entry matches any keyword."""
+    """Check if entry matches any keyword (whole word match)."""
     text = f"{entry.get('title', '')} {entry.get('summary', '')}".lower()
     if 'tags' in entry:
         text += " " + " ".join(t.term.lower() for t in entry.tags)
-    return any(kw.lower() in text for kw in keywords)
+    
+    # Use word boundaries to avoid false positives like "journal" matching "RNA"
+    import re
+    for kw in keywords:
+        pattern = r'\b' + re.escape(kw.lower()) + r'\b'
+        if re.search(pattern, text):
+            return True
+    return False
 
 
 def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.datetime, category: str) -> dict:
