@@ -309,6 +309,10 @@ def main():
     # Convert rejected papers to dict for history
     rejected_dicts = [p.model_dump(mode='json') for p in rejected]
     
+    # Log keyword-rejected papers
+    for p in rejected:
+        utils.log_decision("data/decisions.md", p.title, "keyword_rejected", "-", p.url)
+    
     if not candidates:
         logging.info("No new keyword matches. Saving rejected papers and regenerating feed.")
         new_history = rejected_dicts + history
@@ -327,9 +331,8 @@ def main():
         for fut in concurrent.futures.as_completed(futures):
             try:
                 paper = fut.result()
-                utils.log_decision("data/last_decisions.md", paper.title, 
-                                   paper.analysis_result.get('score', 0), 
-                                   "Accept", paper.url)
+                score = paper.analysis_result.get('score', 0)
+                utils.log_decision("data/decisions.md", paper.title, "ai_scored", score, paper.url)
                 processed.append(paper)
             except Exception:
                 errors += 1

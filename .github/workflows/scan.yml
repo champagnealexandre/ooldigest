@@ -32,7 +32,7 @@ jobs:
         if: ${{ inputs.reset_all_data }}
         run: |
           echo "[]" > data/papers.json
-          rm -f data/last_decisions.md
+          rm -f data/decisions.md
           rm -f data/last_feeds-status.md
           rm -rf data/logs/
 

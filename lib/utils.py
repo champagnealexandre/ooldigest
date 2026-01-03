@@ -28,14 +28,31 @@ def clean_text(text: str) -> str:
     return " ".join(text.split())
 
 
-def log_decision(log_file: str, title: str, score: Any, action: str, link: str) -> None:
-    """Append a decision to a markdown log file."""
+def log_decision(log_file: str, title: str, status: str, score: Any, link: str, max_entries: int = 100000) -> None:
+    """Append a decision to decisions.md, keeping last max_entries.
+    
+    Status values:
+      - keyword_rejected: didn't match any keywords
+      - ai_scored: matched keywords and scored by AI
+    """
     os.makedirs(os.path.dirname(log_file), exist_ok=True)
     
-    if not os.path.exists(log_file):
-        with open(log_file, 'w') as f:
-            f.write("| Score | Action | Paper |\n")
-            f.write("|-------|--------|-------|\n")
+    header = "| Status | Score | Paper |\n|--------|-------|-------|\n"
+    new_line = f"| {status} | {score if score != '-' else '-'} | [{title[:60]}]({link}) |\n"
     
-    with open(log_file, 'a') as f:
-        f.write(f"| {score} | {action} | [{title[:60]}]({link}) |\n")
+    # Read existing entries (skip header)
+    entries = []
+    if os.path.exists(log_file):
+        with open(log_file, 'r') as f:
+            lines = f.readlines()
+            # Skip header (first 2 lines)
+            entries = lines[2:] if len(lines) > 2 else []
+    
+    # Prepend new entry and limit to max_entries
+    entries = [new_line] + entries
+    entries = entries[:max_entries]
+    
+    # Write back with header
+    with open(log_file, 'w') as f:
+        f.write(header)
+        f.writelines(entries)
