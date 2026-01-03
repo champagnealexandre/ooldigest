@@ -1,0 +1,32 @@
+# Academic domains for link hunter
+# Links from these domains are extracted and passed to the AI for scoring
+
+academic_domains:
+  - doi.org
+  - arxiv.org
+  - biorxiv.org
+  - ncbi.nlm.nih.gov
+  - nature.com
+  - science.org
+  - pnas.org
+  - acs.org
+  - wiley.com
+  - springer.com
+  - cell.com
+  - oup.com
+  - iop.org
+  - aps.org
+  - sciencedirect.com
+  - elsevier.com
+  - linkinghub.elsevier.com
+  - mdpi.com
+  - frontiersin.org
+  - tandfonline.com
+  - sagepub.com
+  - ieee.org
+  - osapublishing.org
+  - optica.org
+  - aanda.org
+  - agu.org
+  - geoscienceworld.org
+  - gsapubs.org

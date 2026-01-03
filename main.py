@@ -23,8 +23,14 @@ from lib import utils, hunter, ai, feed
 # ─────────────────────────────────────────────────────────────────────────────
 
 def load_config() -> Config:
-    with open("config/config.yaml") as f:
-        return Config(**yaml.safe_load(f))
+    """Load config from multiple YAML files."""
+    config_data = {}
+    
+    for filename in ["config.yaml", "prompt.yaml", "keywords.yaml", "domains.yaml"]:
+        with open(f"config/{filename}") as f:
+            config_data.update(yaml.safe_load(f))
+    
+    return Config(**config_data)
 
 
 def load_feeds() -> dict:

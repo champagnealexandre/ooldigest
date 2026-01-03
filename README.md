@@ -26,7 +26,10 @@ All config lives in `config/`:
 
 | File | Purpose |
 |------|---------|
-| `config.yaml` | LLM settings, keywords, scoring prompt |
+| `config.yaml` | Core settings: model tier, workers, paths |
+| `prompt.yaml` | LLM prompt template + custom instructions |
+| `keywords.yaml` | Keyword lists (astro, ool) |
+| `domains.yaml` | Academic domains for link hunter |
 | `feeds.yaml` | RSS feed sources by category |
 
 ### Keyword Syntax
