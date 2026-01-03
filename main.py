@@ -99,11 +99,18 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
             
             result['total'] += 1
             if matches_keywords(entry, keywords):
+                # Use RSS date if available, otherwise use current time (rounded to hour)
+                if pub:
+                    item_date = pub
+                else:
+                    now = datetime.datetime.now(datetime.timezone.utc)
+                    item_date = now.replace(minute=0, second=0, microsecond=0)
+                
                 result['papers'].append(Paper(
                     title=entry.get('title', 'No Title'),
                     summary=entry.get('summary', ''),
                     url=link,
-                    published_date=pub or datetime.datetime.now(datetime.timezone.utc),
+                    published_date=item_date,
                     source_feed=title,
                 ))
         
