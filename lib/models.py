@@ -26,5 +26,6 @@ class Paper(BaseModel):
     summary: str
     url: str
     published_date: datetime
+    source_feed: str = ""
     hunted_links: List[str] = Field(default_factory=list)
     analysis_result: Optional[Dict[str, Any]] = None

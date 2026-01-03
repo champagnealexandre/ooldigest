@@ -104,6 +104,7 @@ def fetch_feed(feed_cfg: dict, seen: set, keywords: List[str], cutoff: datetime.
                     summary=entry.get('summary', ''),
                     url=link,
                     published_date=pub or datetime.datetime.now(datetime.timezone.utc),
+                    source_feed=title,
                 ))
         
         result['latest_date'] = latest

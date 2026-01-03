@@ -37,29 +37,51 @@ def _build_entry(paper: Dict[str, Any]) -> str:
     """Build XML for a single feed entry."""
     result = paper.get('analysis_result') or {}
     score = result.get('score', 0)
+    ai_summary = result.get('summary', '')
     if score < 0:
         return ""
     
     title = clean_text(paper.get('title', 'Untitled'))
+    source_feed = paper.get('source_feed', '')
     link = paper.get('url', '')
-    summary = clean_text(paper.get('summary', ''))[:300]
+    abstract = clean_text(paper.get('summary', ''))
     date = paper.get('published_date', datetime.datetime.now(datetime.timezone.utc).isoformat())
     
+    # Title format: emoji [score] source ▶ title
+    if source_feed:
+        display_title = f"{_emoji(score)} [{score}] {source_feed} ▶ {html.escape(title)}"
+    else:
+        display_title = f"{_emoji(score)} [{score}] {html.escape(title)}"
+    
     # Build HTML content
+    content_parts = []
+    
+    # AI Decision
+    if ai_summary:
+        content_parts.append(f"<p><strong>AI Decision:</strong> {html.escape(ai_summary)}</p>")
+    
+    # Abstract (full, not truncated)
+    if abstract:
+        content_parts.append(f"<p><strong>Abstract:</strong> {html.escape(abstract)}</p>")
+    
+    # Hunted links
     links = paper.get('hunted_links', [])
     if links:
-        links_html = "<ul>" + "".join(f'<li><a href="{html.escape(u)}">{html.escape(u[:60])}</a></li>' for u in links[:5]) + "</ul>"
-    else:
-        links_html = "<p><em>No links found</em></p>"
+        content_parts.append("<p><strong>Links found:</strong></p><ul>")
+        for u in links[:10]:
+            content_parts.append(f'<li><a href="{html.escape(u)}">{html.escape(u)}</a></li>')
+        content_parts.append("</ul>")
     
-    content = f"<p>{html.escape(summary)}</p><h4>Sources</h4>{links_html}"
-    display_title = f"{_emoji(score)} [{score}] {html.escape(title)}"
+    # Source link
+    content_parts.append(f'<p><a href="{html.escape(link)}">Read source article</a></p>')
+    
+    content = "\n".join(content_parts)
     
     return ENTRY_TEMPLATE.format(
         title=display_title,
         link=html.escape(link),
         date=date,
-        summary=html.escape(summary[:150]),
+        summary=html.escape(abstract[:200]) if abstract else "",
         content=content
     )
 
