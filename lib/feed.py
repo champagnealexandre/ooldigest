@@ -80,6 +80,8 @@ def _build_entry(paper: Dict[str, Any]) -> str:
         for u in links[:10]:
             content_parts.append(f'<li><a href="{html.escape(u)}">{html.escape(u)}</a></li>')
         content_parts.append("</ul>")
+    else:
+        content_parts.append("<p><strong>Links found:</strong> <em>No links found</em></p>")
     
     # Source link
     content_parts.append(f'<p><a href="{html.escape(link)}">Read source article</a></p>')
