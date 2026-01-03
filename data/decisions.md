@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Imidazolidines via 1,3-dipolar (Huisgen) cycloaddition](https://dx.doi.org/10.26434/chemrxiv-2026-dnwbq?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Imidazolidines via 1,3-dipolar (Huisgen) cycloaddition](https://dx.doi.org/10.26434/chemrxiv-2026-dnwbq?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [A Chiral Saddle-shaped Nanographene with Two Heptagon-Embedd](https://dx.doi.org/10.26434/chemrxiv-2026-lnp7q?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [A Chiral Saddle-shaped Nanographene with Two Heptagon-Embedd](https://dx.doi.org/10.26434/chemrxiv-2026-lnp7q?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Photochemical post-functionalization of polystyrene enables ](https://dx.doi.org/10.26434/chemrxiv-2025-t5xtc-v2?rft_dat=source%3Ddrss) |
