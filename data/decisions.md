@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Cellulose Coating Altered the Electro-Chemo-Mechanical Evolu](https://dx.doi.org/10.26434/chemrxiv-2026-bwt22?rft_dat=source%3Ddrss) |
+| ai_scored | 35 | [Tailoring TiO2 Morphology and Surface Chemistry for Optimize](https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Leveraging Divergent LMCT Excited State Pathways for Catalys](https://dx.doi.org/10.26434/chemrxiv-2025-b2p6p-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Chemodivergent Hydrazinolysis of Donor-Acceptor Cyclopropane](https://dx.doi.org/10.26434/chemrxiv-2026-2q58h?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Grignard Reagents Unlock 3D Nitrogen Heterocycles via Single](https://dx.doi.org/10.26434/chemrxiv-2026-18cn1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Accessing Trans-Substituted Azetidines through Diastereosele](https://dx.doi.org/10.26434/chemrxiv-2026-cbnrs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Leveraging Divergent LMCT Excited State Pathways for Catalys](https://dx.doi.org/10.26434/chemrxiv-2025-b2p6p-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [eMap 2.0: A web-based platform for identifying electron tran](https://dx.doi.org/10.26434/chemrxiv-2025-bvnp7-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Non-covalent inter-chain interactions dictate single chain e](https://dx.doi.org/10.26434/chemrxiv-2026-s79jv?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Chemodivergent Hydrazinolysis of Donor-Acceptor Cyclopropane](https://dx.doi.org/10.26434/chemrxiv-2026-2q58h?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Minding the Band gap: Major Factors for Correlating Computat](https://dx.doi.org/10.26434/chemrxiv-2026-km72d?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Grignard Reagents Unlock 3D Nitrogen Heterocycles via Single](https://dx.doi.org/10.26434/chemrxiv-2026-18cn1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Accessing Trans-Substituted Azetidines through Diastereosele](https://dx.doi.org/10.26434/chemrxiv-2026-cbnrs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Modulating Polymorphic Phase Boundaries and Defect Chemistry](https://dx.doi.org/10.26434/chemrxiv-2026-wfgdd?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Collaborative positional attention for image to English ques](https://www.nature.com/articles/s41598-025-31627-5) |
 | keyword_rejected | - | [Leonardo under cover](https://dx.doi.org/10.26434/chemrxiv-2026-1mp5h?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [A Reversible 900 nm Near Infrared Photoswitch for Invisibly ](https://dx.doi.org/10.26434/chemrxiv-2026-2fvfb?rft_dat=source%3Ddrss) |

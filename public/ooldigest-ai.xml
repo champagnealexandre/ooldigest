@@ -3,8 +3,34 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-04T18:23:59.983576+00:00</updated>
+  <updated>2026-01-04T19:13:15.477015+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] ChemRxiv ▶ Tailoring TiO2 Morphology and Surface Chemistry for Optimized Photocatalytic Activity in rGO Hybrids</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-04T00:00:00Z</updated>
+    <summary>TiO2–reduced graphene oxide (rGO) hybrids were investigated in this study to elucidate how TiO2 morphology and surface chemistry govern charge-transfer pathways and, ultimately, reaction selectivity. </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Materials-focused study showing how TiO2 facet exposure and surface functionalization in TiO2–rGO hybrids reroute photocatalytic charge transfer, enhancing oxidative organic degradation but suppressing reductive H2 evolution—mechanistically relevant to mineral-surface photoredox contexts but not directly origins-of-life or prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> TiO2–reduced graphene oxide (rGO) hybrids were investigated in this study to elucidate how TiO2 morphology and surface chemistry govern charge-transfer pathways and, ultimately, reaction selectivity. Three anatase TiO2 nanostructures were compared: bipyramids predominantly exposing {101} facets (bipy) and two nanosheet-like samples enriched in {001} facets, either fluorinated (n-sh) or thermally defluorinated and {101}-enriched (n-sh_873K). A constant rGO loading (2 wt.%) was introduced via in situ hydrazine reduction of graphene oxide in the presence of TiO2. Photocatalytic activity was evaluated under Xe-lamp irradiation in two model reactions probing oxidative and reductive pathways: phenol degradation and H2 evolution using formic acid as a scavenger. rGO systematically enhanced phenol degradation for all morphologies, with bipy+rGO showing the highest activity. In contrast, H2 evolution was consistently suppressed upon rGO incorporation across all TiO2 samples, although the bipyramidal morphology remained the most active within each series. These results highlight that facet exposure and surface functionalization dictate the beneficial or detrimental role of rGO depending on the targeted photocatalytic pathway.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-65917">https://doi.org/10.26434/chemrxiv-2026-65917</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [10] ChemRxiv ▶ Cellulose Coating Altered the Electro-Chemo-Mechanical Evolution of Sodium Thioantimonate Electrolyte in Solid-state Sodium Batteries: An Operando Raman Study</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-bwt22?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-bwt22?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-04T00:00:00Z</updated>
+    <summary>All-solid-state batteries (ASSBs) attracted increasing attention due to their improved safety and energy densities; yet electrolyte decomposition and subsequent contact loss limited the interfacial st</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Operando Raman tracking shows how a carboxymethyl-cellulose coating modulates the reduction/oxidation kinetics and electro-chemo-mechanical degradation products of Na3SbS4 solid electrolyte interfaces in all-solid-state sodium batteries.</p>
+<p><strong>Abstract:</strong> All-solid-state batteries (ASSBs) attracted increasing attention due to their improved safety and energy densities; yet electrolyte decomposition and subsequent contact loss limited the interfacial stability of ASSBs. Herein, we report an operando Raman characterization that provides high voltage, time, and spatial resolutions, which enables simultaneous analysis of interfacial decomposition mechanism and morphological evolution. Using Na3SbS4 electrolyte (NSS) and its carboxymethyl-cellulose-encapsulated analogue (NSS-CMC) as exemplars, we precisely contrasted the subtle differences in the two-step reduction mechanism of the two electrolytes. In both systems, Na3SbS3 formed as an intermediate, and Na3Sb binary as one major final product; while the CMC coating altered the kinetics of Na3SbS3 formation and consumption, and extended the formation potential of Na3Sb from 1.35 V (seen in NSS) to 0.50 V (vs. Na/Na+). Oxidation of NSS and NSS-CMC both occur near 2.20 V, although CMC coating altered the crystallinity of the oxidative products. Simultaneously, we captured phenomena that are unique to solid-state electrochemical systems such as particle relocation, morphological change, and reversed reactions. We inferred CMC’s dual role as a voltage barrier and a mechanical buffer in suppressing the electro-chemo-mechanical decomposition of NSS electrolyte. The deep mechanistic insights unravel the exact modification needed for improved interfacial stability.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-bwt22">https://doi.org/10.26434/chemrxiv-2026-bwt22</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-bwt22?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [55] Astrobiology (astrobiology.com) ▶ The Future of Evolved Planetary Systems</title>
     <link href="https://astrobiology.com/2026/01/the-future-of-evolved-planetary-systems.html"/>

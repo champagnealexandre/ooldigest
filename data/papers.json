@@ -1,5 +1,155 @@
 [
   {
+    "title": "Tailoring TiO2 Morphology and Surface Chemistry for Optimized Photocatalytic Activity in rGO Hybrids",
+    "summary": "TiO2\u2013reduced graphene oxide (rGO) hybrids were investigated in this study to elucidate how TiO2 morphology and surface chemistry govern charge-transfer pathways and, ultimately, reaction selectivity. Three anatase TiO2 nanostructures were compared: bipyramids predominantly exposing {101} facets (bipy) and two nanosheet-like samples enriched in {001} facets, either fluorinated (n-sh) or thermally defluorinated and {101}-enriched (n-sh_873K). A constant rGO loading (2 wt.%) was introduced via in situ hydrazine reduction of graphene oxide in the presence of TiO2. Photocatalytic activity was evaluated under Xe-lamp irradiation in two model reactions probing oxidative and reductive pathways: phenol degradation and H2 evolution using formic acid as a scavenger. rGO systematically enhanced phenol degradation for all morphologies, with bipy+rGO showing the highest activity. In contrast, H2 evolution was consistently suppressed upon rGO incorporation across all TiO2 samples, although the bipyramidal morphology remained the most active within each series.\nThese results highlight that facet exposure and surface functionalization dictate the beneficial or detrimental role of rGO depending on the targeted photocatalytic pathway.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-65917?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-65917"
+    ],
+    "analysis_result": {
+      "score": 35,
+      "summary": "Materials-focused study showing how TiO2 facet exposure and surface functionalization in TiO2\u2013rGO hybrids reroute photocatalytic charge transfer, enhancing oxidative organic degradation but suppressing reductive H2 evolution\u2014mechanistically relevant to mineral-surface photoredox contexts but not directly origins-of-life or prebiotic chemistry."
+    }
+  },
+  {
+    "title": "Cellulose Coating Altered the Electro-Chemo-Mechanical Evolution of Sodium Thioantimonate Electrolyte in Solid-state Sodium Batteries: An Operando Raman Study",
+    "summary": "All-solid-state batteries (ASSBs) attracted increasing attention due to their improved safety and energy densities; yet electrolyte decomposition and subsequent contact loss limited the interfacial stability of ASSBs. Herein, we report an operando Raman characterization that provides high voltage, time, and spatial resolutions, which enables simultaneous analysis of interfacial decomposition mechanism and morphological evolution. Using Na3SbS4 electrolyte (NSS) and its carboxymethyl-cellulose-encapsulated analogue (NSS-CMC) as exemplars, we precisely contrasted the subtle differences in the two-step reduction mechanism of the two electrolytes. In both systems, Na3SbS3 formed as an intermediate, and Na3Sb binary as one major final product; while the CMC coating altered the kinetics of Na3SbS3 formation and consumption, and extended the formation potential of Na3Sb from 1.35 V (seen in NSS) to 0.50 V (vs. Na/Na+). Oxidation of NSS and NSS-CMC both occur near 2.20 V, although CMC coating altered the crystallinity of the oxidative products. Simultaneously, we captured phenomena that are unique to solid-state electrochemical systems such as particle relocation, morphological change, and reversed reactions. We inferred CMC\u2019s dual role as a voltage barrier and a mechanical buffer in suppressing the electro-chemo-mechanical decomposition of NSS electrolyte. The deep mechanistic insights unravel the exact modification needed for improved interfacial stability.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-bwt22?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-bwt22"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "Operando Raman tracking shows how a carboxymethyl-cellulose coating modulates the reduction/oxidation kinetics and electro-chemo-mechanical degradation products of Na3SbS4 solid electrolyte interfaces in all-solid-state sodium batteries."
+    }
+  },
+  {
+    "title": "Modulating Polymorphic Phase Boundaries and Defect Chemistry in KNN-Based Piezoceramics Through Multi-Element Doping Strategies",
+    "summary": "Lead-free potassium-sodium niobate (K0.5Na0.5NbO\u2083, KNN) ceramics represent a promising alternative to replace lead-based piezoelectrics in energy harvesting and actuator applications due to their high Curie temperature and favorable ferroelectric properties. This study investigates the structural, dielectric, ferroelectric, and piezoelectric properties of pure KNN and multi-element doped compositions: (K0.4Na0.48Bi0.1La0.02)(Nb0.9Ti0.1)O3 (KNN-BiLaTi) and (K0.4Na0.56La0.02Y0.02)(Nb0.9V0.05Sb0.05)O3 (KNN-LaYVSb), synthesized via conventional solid-state methods. Structural analysis (XRD/Rietveld) revealed single-phase orthorhombic perovskite structures (space group Amm2) for all samples, with no detectable secondary phases. XPS, Raman, SEM, and TEM revealed that the dopants tune defect chemistry, suppress surface alkali degradation, and refine the microstructure, especially in dense, low-porosity KNN-LaYVSb, which has pronounced lattice distortion for favorable domain wall motion. Dielectric experiments demonstrated lower orthorhombic\u2013tetragonal transition temperatures and wider, more diffuse phase transitions. However, Curie temperatures remained high, indicating reliable operation over a wide range of temperatures. At optimal poling, KNN-LaYVSb attained the highest piezoelectric coefficient (d\u2083\u2083 = 221 pC/N) and excellent thermal stability up to 275 \u00b0C, retaining over 90% of room-temperature value and over 80% at elevated temperatures near 450 \u00b0C. The improved temperature stability arises from diffuse phase transitions, defect-dipole stabilization, and nanoscale heterogeneity due to multi-element doping. The remnant polarization increased from 3.49 \u00b5C/cm\u00b2 (Pure-KNN) to 25.3 \u00b5C/cm\u00b2 (KNN-LaYVSb) with significantly reduced coercive field (6.10 kV/cm). These findings illustrate that selective multi-element co-doping at A- and B-sites effectively modifies polymorphic phase boundaries near room temperature by improving defect chemistry through controlled vacancy formation and optimizing microstructure. This results in robust, high-performance lead-free piezoceramics for advanced energy harvesting and sensing applications operating across wide temperature ranges.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-wfgdd?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Accessing Trans-Substituted Azetidines through Diastereoselective Metalation",
+    "summary": "A diastereoselective metalation of 3-substituted azetidines is reported, providing efficient access to a variety of 2,3-trans-disubstituted azetidines. This transformation complements our previously developed cis-selective hydrogenation of azetines, which delivers the corresponding 2,3-cis-disubstituted analogues. Together, these two methodologies establish a stereodivergent strategy for the preparation of functionalized azetidines with precise control over relative configuration. The newly developed trans-selective protocol further enables the synthesis of non-natural amino acid derivatives bearing a trans-relationship between substituents\u2014structural motifs that are otherwise difficult to access by conventional means.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-cbnrs?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Grignard Reagents Unlock 3D Nitrogen Heterocycles via Single Carbon Ring Insertion",
+    "summary": "Nitrogen heterocycles are integral part of pharmaceuticals, catalysts, and materials, yet most accessible molecular scaffolds remain flat, aromatic rings with limited three-dimensionality. As medicinal chemistry increasingly seeks non-planar, sp3-rich architectures to improve molecular performance and to expand underexplored chemical space, methods that can remodel existing heterocycles into new 3D frameworks are urgently needed. Here we introduce a fundamentally new strategy for ring insertion that uses simple nucleophilic reagents - most notably, Grignard reagents - to introduce one-carbon  into azolium rings. This unprecedented nucleophilic rearrangement converts planar triazolium salts, derived from alkenes, into a previously inaccessible family of saturated, three-dimensional 1,2,4-triazinanes. The method is operationally simple, broadly applicable to cyclic, acyclic, natural, and highly functionalized alkenes, and remarkably tolerant of sensitive groups including esters, amides, sulfonamides, acetals, phosphates, and alkynes. Mechanistic experiments and density functional theory computations reveal a unique nitrenium-centered pathway that enables this umpolung reactivity. By transforming readily available olefins into complex, non-planar nitrogen heterocycles in just two steps, this work provides a powerful entry into new heterocyclic space and opens opportunities for late-stage diversification relevant to drug discovery, catalysis, and molecular design.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-18cn1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Minding the Band gap: Major Factors for Correlating Computations with Experiments in Cu14 and Au20 Atomically Precise Nanoclusters",
+    "summary": "In a Perspective article titled \"Mind the Gap!\", Bredas clarifies the distinction between different uses of the term  \"band gap\" in the context of experimentally measured or computationally evaluated energy gaps. In view of the tremendous progress in atomically precise metal nanoclusters where electrochemical and optical energetics are routinely supported by computations to establish structure-function correlations, we explore the relationship between different protocols for measuring and computing band gaps of two distinct organic ligand-protected nanoclusters: [Cu14H10(MBN)3(PPh3)8]+ and Au20(TBBT)16. Through UV/visible spectroscopy and differential pulse voltammetry, we measure optical and electrochemical band gaps in those systems. We then compare these experimental gaps to HOMO-LUMO gaps, fundamental gaps, vertical excitation energies, and Eox - Ered potentials computed using density functional theory (DFT) or time-dependent DFT (TD-DFT). We test functionals with varying degrees of Hartree-Fock (HF) exchange from 0% to 50%, different correlation functionals, basis sets, and (equilibrium and non-equilibrium) continuum solvation models. We find that in both copper and gold nanoclusters, the most important factor affecting the magnitude of the band gap is the % HF exchange, which in the case of the HOMO-LUMO gap can vary by several eV. This sensitivity is partially mitigated when computing the fundamental, optical, and electrochemical gaps. The second most important factor is the proper description of solvation effects. Other factors, such as the nature of the correlation functional, basis set, and geometry relaxation, have a considerably smaller effect on computed band gaps in these systems. Overall, this work provides generalizable guidelines on factors at varied importance for correlating computed and experimental \"band gap\" values.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-km72d?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chemodivergent Hydrazinolysis of Donor-Acceptor Cyclopropanes: Approach to Hexahydropyridazin-3-ones and 1-Aminopyrrolidin-2-\u043enes",
+    "summary": "A divergent synthesis of substituted hexahydropyridazin-3-ones and 1-aminopyrrolidin-2-ones has been achieved through domino ring opening/ring closure reactions of donor\u2013acceptor cyclopropanes with ambident, unsymmetrically substituted hydrazines, affording target products in good yields under mild conditions. The selectivity of this process depends strongly on the nature of substituents in hydrazine. Aryl hydrazines bearing electron-rich and electron-neutral aromatic groups form six-membered rings by attacking the cyclopropane via the NH group, while the NH2 group reacts in hydrazines equipped with electron-withdrawing aromatic substituents, \tacyl hydrazines, and carbazates. In both scenarios, the initial products of nucleophilic ring opening undergo in situ Lewis acid-induced cyclization, providing important azaheterocyclic systems in a single synthetic step; further transformations enable access to other valuable products. The proposed mechanism of the title process and the observed chemoselectivity switch have been explained by both experimental and computational studies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2q58h?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Non-covalent inter-chain interactions dictate single chain encapsulation behavior of pnictogen chalcogenides within van der Waals nanotubes",
+    "summary": "A fully developed understanding of the chemistry that governs interactions in low-dimensional materials is essential to realizing control over their structure, nanoscale morphology, and distinct physical properties. Yet, precisely achieving this in extended solids comprised of highly polarizable main group elements has remained a grand challenge especially in one-dimensional materials that approach the atomic scale. This is owing to the propensity of these heavy main group elements to drive the unusual localization or delocalization behavior of electrons in the system and the formation of competing metastable polytypes due to lone pair effects. In this report, we establish the composition-dependent encapsulation behavior of single chains derived from the low-dimensional Pn2Ch3 pnictogen chalcogenide class (Pn = Sb, Bi; Ch = S, Se, Te) and their strong dependence on the strength of inter-chain non-covalent interactions. Using Sb2S3 and Bi2S3 as model phases, we find that the degree of pnictogen (Pn) bonding is a significant factor in dictating the packing of the constituent quasi-1D chains in the bulk and their growth behavior as single chains upon encapsulation within single-walled carbon nanotubes (SWCNTs). Specifically, chains with weaker inter-chain interactions like Sb2S3 preferentially crystallize under slow-cooled growth parameters that resemble more thermodynamically preferred conditions while chains with stronger inter-chain interactions like Bi2S3 prefer to crystallize and isolate as bulk and only form the elusive encapsulated clustered and crystalline chain domains under rapidly quenched conditions. Systematic Sb/Bi alloying of the precursors revealed the pnictogen-dependence of the chain crystallization where Sb-rich alloys tend to more preferentially crystallize within SWCNTs. In these alloys, Bi preferentially occupies the peripheral three-coordinate site to maximize inter-chain interactions in the bulk, while Sb preferentially occupies the same site when encapsulated within SWCNT and devoid of chains adjacent to it. These results demonstrate that non-covalent bonding concepts in molecular main group systems track in low-dimensional solids that approach the atomic regime when encapsulated within nanotubes, marking a significant step forward in the rational and predictable encapsulation of all-inorganic chains within confined spaces.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-s79jv?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "eMap 2.0: A web-based platform for identifying electron transfer pathways in proteins and protein families",
+    "summary": "In this review we present eMap 2.0, a web-based application for predicting electron/hole transfer pathways in proteins and protein families based on their structures. The underlying model can be viewed as a coarse-grained version of the Pathways approach by Beratan and Onuchic [Beratan et al. J. Chem. Phys. 1987, 86, 4488]. Similar to the original framework, eMap employs graph-theory algorithms to search for the most efficient electron transfer pathways as shortest paths on a graph representation of the protein. What distinguishes eMap from the original formulation is that the nodes represent electron transfer active sites instead of atoms and only through-space tunneling is considered for each individual electron/hole hop. eMap 2.0 takes one step further by aiming at identifying shared electron transfer pathways in protein sets. From a graph theory standpoint, this is achieved using frequent subgraph mining (FSM) algorithms. Lastly, eMap 2.0 utilizes sequence and structural similarity measures to analyze and cluster the results. Here, we show how this robust method can be utilized to rapidly provide insights regarding conserved electron transfer pathways within protein families and to identify outliers in protein families, in which the conserved electron transfer pathway is blocked either by a mutation or conformational changes.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-bvnp7-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Leveraging Divergent LMCT Excited State Pathways for Catalyst Control over Alkoxyl Radical Reactivity",
+    "summary": "Ligand-to-metal charge-transfer (LMCT) excitation has emerged in recent years as a powerful modality in organic synthesis, namely for the generation of heteroatom-centered radicals through formal met-al-ligand bond homolysis from the LMCT excited state. However, exploitation of alternative LMCT excited state processes has been extremely limited. Here, we describe a general strategy for tuning the reaction course from LMCT excited states of titanium alkoxides. This reactivity paradigm has been exploited for tandem \u03b2-scission/Giese addition reactions of both scission-amenable and scis-sion-recalcitrant alcohols under divergent reaction pathways of met-al-ligand bond homolysis and excited state \u03b2-scission through judicious choice of electronically tuned Ti catalysts. Through intramolecular competition studies, catalyst-controlled scission is shown to facilitate a rate enhancement of up to 103-fold over the intrinsic scission of free alkoxyl radical, highlighting the impact of accessing the excited state scission paradigm. Computations support the relevance of a scission-promoting LMCT excited state with stereoelectronically aligned alkoxyl radical cation character to enable direct, selective \u03b2-scission.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-b2p6p-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Accessing Trans-Substituted Azetidines through Diastereoselective Metalation",
+    "summary": "A diastereoselective metalation of 3-substituted azetidines is reported, providing efficient access to a variety of 2,3-trans-disubstituted azetidines. This transformation complements our previously developed cis-selective hydrogenation of azetines, which delivers the corresponding 2,3-cis-disubstituted analogues. Together, these two methodologies establish a stereodivergent strategy for the preparation of functionalized azetidines with precise control over relative configuration. The newly developed trans-selective protocol further enables the synthesis of non-natural amino acid derivatives bearing a trans-relationship between substituents\u2014structural motifs that are otherwise difficult to access by conventional means.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-cbnrs?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Grignard Reagents Unlock 3D Nitrogen Heterocycles via Single Carbon Ring Insertion",
+    "summary": "Nitrogen heterocycles are integral part of pharmaceuticals, catalysts, and materials, yet most accessible molecular scaffolds remain flat, aromatic rings with limited three-dimensionality. As medicinal chemistry increasingly seeks non-planar, sp3-rich architectures to improve molecular performance and to expand underexplored chemical space, methods that can remodel existing heterocycles into new 3D frameworks are urgently needed. Here we introduce a fundamentally new strategy for ring insertion that uses simple nucleophilic reagents - most notably, Grignard reagents - to introduce one-carbon  into azolium rings. This unprecedented nucleophilic rearrangement converts planar triazolium salts, derived from alkenes, into a previously inaccessible family of saturated, three-dimensional 1,2,4-triazinanes. The method is operationally simple, broadly applicable to cyclic, acyclic, natural, and highly functionalized alkenes, and remarkably tolerant of sensitive groups including esters, amides, sulfonamides, acetals, phosphates, and alkynes. Mechanistic experiments and density functional theory computations reveal a unique nitrenium-centered pathway that enables this umpolung reactivity. By transforming readily available olefins into complex, non-planar nitrogen heterocycles in just two steps, this work provides a powerful entry into new heterocyclic space and opens opportunities for late-stage diversification relevant to drug discovery, catalysis, and molecular design.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-18cn1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chemodivergent Hydrazinolysis of Donor-Acceptor Cyclopropanes: Approach to Hexahydropyridazin-3-ones and 1-Aminopyrrolidin-2-\u043enes",
+    "summary": "A divergent synthesis of substituted hexahydropyridazin-3-ones and 1-aminopyrrolidin-2-ones has been achieved through domino ring opening/ring closure reactions of donor\u2013acceptor cyclopropanes with ambident, unsymmetrically substituted hydrazines, affording target products in good yields under mild conditions. The selectivity of this process depends strongly on the nature of substituents in hydrazine. Aryl hydrazines bearing electron-rich and electron-neutral aromatic groups form six-membered rings by attacking the cyclopropane via the NH group, while the NH2 group reacts in hydrazines equipped with electron-withdrawing aromatic substituents, \tacyl hydrazines, and carbazates. In both scenarios, the initial products of nucleophilic ring opening undergo in situ Lewis acid-induced cyclization, providing important azaheterocyclic systems in a single synthetic step; further transformations enable access to other valuable products. The proposed mechanism of the title process and the observed chemoselectivity switch have been explained by both experimental and computational studies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2q58h?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Leveraging Divergent LMCT Excited State Pathways for Catalyst Control over Alkoxyl Radical Reactivity",
+    "summary": "Ligand-to-metal charge-transfer (LMCT) excitation has emerged in recent years as a powerful modality in organic synthesis, namely for the generation of heteroatom-centered radicals through formal met-al-ligand bond homolysis from the LMCT excited state. However, exploitation of alternative LMCT excited state processes has been extremely limited. Here, we describe a general strategy for tuning the reaction course from LMCT excited states of titanium alkoxides. This reactivity paradigm has been exploited for tandem \u03b2-scission/Giese addition reactions of both scission-amenable and scis-sion-recalcitrant alcohols under divergent reaction pathways of met-al-ligand bond homolysis and excited state \u03b2-scission through judicious choice of electronically tuned Ti catalysts. Through intramolecular competition studies, catalyst-controlled scission is shown to facilitate a rate enhancement of up to 103-fold over the intrinsic scission of free alkoxyl radical, highlighting the impact of accessing the excited state scission paradigm. Computations support the relevance of a scission-promoting LMCT excited state with stereoelectronically aligned alkoxyl radical cation character to enable direct, selective \u03b2-scission.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-b2p6p-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "A Reversible 900 nm Near Infrared Photoswitch for Invisibly Writable 2D and 3D Displays",
     "summary": "Molecular photoswitches interchange between different states in response to light irradiation and represent prominent tools to deliberately control changes at the smallest scales. A standing challenge for their development is pushing absorptions into the low-energy end of the electromagnetic spectrum, which is highly desirable to avoid photodamage, allows mixing of photoresponsive components, and maximizes the available color range. Here we report on a novel photoswitch motive, peri-benzo[a]fluoranthenethioindigo (PBFT), enabling direct excitation with NIR light up to 900 nm wavelengths in a fully reversible fashion. PBFT provides an outstanding property profile with high isomer yields, good thermal bistability, and strongly distinct color changes from bright green to deep blue. Application in a commercially available and easy-to use polymer material allows to realize reversible and spatially resolved inscription of information with extremely long wavelengths of light. Writing information into versatile handheld 2D and 3D optical displays and optical memories is thus possible with non-damaging light, invisible to the naked eye.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2fvfb?rft_dat=source%3Ddrss",
