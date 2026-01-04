@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Vertically Resolved Minimal-set k-distribution For Thermal I](https://astrobiology.com/2026/01/vertically-resolved-minimal-set-k-distribution-for-thermal-infrared-absorption-in-the-venus-atmosphere.html) |
+| ai_scored | 70 | [Ancient Metagenomics Reveals Subglacial Microbiomes Driven B](https://astrobiology.com/2026/01/ancient-metagenomics-reveals-subglacial-microbiomes-driven-by-oxygen-availability.html) |
+| ai_scored | 45 | [Subsurface Microbiology And The Pressing Societal Need To Su](https://astrobiology.com/2026/01/subsurface-microbiology-and-the-pressing-societal-need-to-support-future-exploration.html) |
+| ai_scored | 55 | [The Future of Evolved Planetary Systems](https://astrobiology.com/2026/01/the-future-of-evolved-planetary-systems.html) |
 | ai_scored | 50 | [Lattice Alkali in Cu₃N Reprograms Interfacial Electronics fo](https://dx.doi.org/10.26434/chemrxiv-2026-k2dn5?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Author Correction: Rewiring an olfactory circuit by altering](https://www.nature.com/articles/s41586-025-10090-2) |
 | keyword_rejected | - | [Author Correction: Repulsions instruct synaptic partner matc](https://www.nature.com/articles/s41586-025-10089-9) |
