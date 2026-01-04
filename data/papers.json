@@ -1,5 +1,40 @@
 [
   {
+    "title": "Lattice Alkali in Cu\u2083N Reprograms Interfacial Electronics for Selective Aqueous Nitrate-to-Ammonia",
+    "summary": "Electrochemical nitrate reduction to ammonia (NO\u2083RR \u2192 NH\u2083) suffers from poor selectivity and strong competition from hydrogen evolution. Here we show that materials-intrinsic electrostatic reprogramming of colloidal copper nitride (Cu\u2083N) nanocrystals provides a robust lever to bias NO\u2083RR. Two routes are established in a single electrolyte (0.50 M KNO\u2083 + 0.10 M KOH): (i) dilute Na incorporation that preserves the anti-ReO\u2083 (Pm-3m) lattice with small peak shifts, and (ii) Li treatment that amorphizes Cu\u2083N, yielding short-range\u2013ordered Li\u2013Cu\u2013N. Across both families, cyclic voltammetry, LSV/Tafel analysis, and impedance spectroscopy reveal earlier cathodic onset (\u224860\u2013120 mV), reduced charge-transfer resistance (R_ct down to ~16 \u03a9 from ~79 \u03a9 for pristine), and favorable potential-of-zero-charge (PZC) shifts within the operating window. Chronoamperometry with indophenol quantification gives Faradaic efficiencies up to 74% and NH\u2083 production rates up to 8.8 \u00d7 10\u207b\u00b3 mmol h\u207b\u00b9 mg\u207b\u00b9 (10% Li\u2013Cu\u2013N), with Tafel slopes of 120\u2013167 mV dec\u207b\u00b9, consistent with a first electron-transfer step as rate determining. Electrolyte-cation spike and rinse\u2013swap controls decouple double-layer effects from materials changes: gains on undoped Cu\u2083N vanish after rinsing, whereas Na-modified and Li-amorphous electrodes retain performance. The results delineate two complementary design paradigms lattice-level Na incorporation and controlled Li-induced amorphization that embed a beneficial interfacial field and accelerate NO\u2083RR without reactor or electrolyte redesign.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-k2dn5?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-k2dn5"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Materials-engineered Cu\u2083N (via lattice Na incorporation or Li-induced amorphization) shifts interfacial electrostatics to suppress H\u2082 evolution and boost aqueous nitrate-to-ammonia electroreduction, a potentially relevant route for prebiotic/planetary nitrogen feedstock generation though primarily an electrocatalysis study."
+    }
+  },
+  {
+    "title": "Author Correction: Repulsions instruct synaptic partner matching in an olfactory circuit",
+    "summary": "<p>Nature, Published online: 04 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-10089-9\">doi:10.1038/s41586-025-10089-9</a></p>Author Correction: Repulsions instruct synaptic partner matching in an olfactory circuit",
+    "url": "https://www.nature.com/articles/s41586-025-10089-9",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Author Correction: Rewiring an olfactory circuit by altering cell-surface combinatorial code",
+    "summary": "<p>Nature, Published online: 04 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-10090-2\">doi:10.1038/s41586-025-10090-2</a></p>Author Correction: Rewiring an olfactory circuit by altering cell-surface combinatorial code",
+    "url": "https://www.nature.com/articles/s41586-025-10090-2",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Crystal Growth, Structures and Optical Bandgaps of Cuprous Rare-Earth Molybdates",
     "summary": "Cuprous-oxide semiconductors have been growing in research interest because of their promising optical and catalytic properties for solar energy conversion. While much recent research has focused on binary and ternary cuprous oxides, the more structurally complex quaternary and higher systems remain significantly less explored. Crystal growth in the cuprous rare-earth (RE) molybdate system has been investigated using high temperature and arc-melting synthesis techniques. Prior studies show the formation of two closely related compounds in these systems, occurring as either Cu6RE4(MoO4)9 (Space group: R3c, No. 161; exclusive for RE = La) or CuRE(MoO4)2 (Space group: Pbca, No. 61; for R = Nd and heavier REs). By contrast, our new synthetic investigations for RE = Ce and La demonstrate the crystallization of both structure types, i.e., as red-colored crystals of Cu6RE4(MoO4)9 (RE = La(1) or Ce(2)) and as yellow-colored crystals of CuRE(MoO4)2 (RE = La(3) or Ce(4)), as obtained by slow cooling from 950 oC and from arc-melting techniques, respectively. Both structures similarly consist of [MoO4]2- tetrahedra bridged either by highly-distorted CuO4 tetrahedra and CeO9 tricapped trigonal prisms in 1 and 2 or by T-shaped CuO3 and CeO8 square antiprisms in 3 and 4. Optical UV-Vis diffuse reflectance measurements on powders of CuRE(MoO4)2 for RE = La, Ce, Sm, Eu, and Yb show relatively larger direct bandgaps in the range of 2.36 to 2.47 eV, while the crystals of Cu6RE4(MoO4)9 for RE = La and Ce yield smaller indirect bandgaps of about 1.89 to 2.05 eV. Electronic structure calculations show bandgaps which stem predominantly from electronic transitions between the filled 3d10-based orbitals of the Cu(I) cations and the empty d-based orbitals of the Mo(VI) cations. Thus, the RE cations are found to have an indirect effect on the optical bandgaps via changes in the local coordination environments of each of these cations. The change in crystal structure, such as from Cu6Ce4(MoO4)9 to CuCe(MoO4)2, has a dramatically larger effect of decreasing the bandgap by ~0.4 to 0.5 eV as compared to only changing the RE cation within the same structure type. In summary, new synthetic investigation of the quaternary cuprous molybdates has elucidated the impact of RE cations on their crystal structures, compositions, and visible-light bandgaps, with the underlying relationships revealed via electronic structure calculations.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-3hx92?rft_dat=source%3Ddrss",

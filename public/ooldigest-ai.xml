@@ -3,8 +3,21 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-04T13:27:22.092450+00:00</updated>
+  <updated>2026-01-04T14:15:07.308956+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Lattice Alkali in Cu₃N Reprograms Interfacial Electronics for Selective Aqueous Nitrate-to-Ammonia</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-k2dn5?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-k2dn5?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-04T00:00:00Z</updated>
+    <summary>Electrochemical nitrate reduction to ammonia (NO₃RR → NH₃) suffers from poor selectivity and strong competition from hydrogen evolution. Here we show that materials-intrinsic electrostatic reprogrammi</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Materials-engineered Cu₃N (via lattice Na incorporation or Li-induced amorphization) shifts interfacial electrostatics to suppress H₂ evolution and boost aqueous nitrate-to-ammonia electroreduction, a potentially relevant route for prebiotic/planetary nitrogen feedstock generation though primarily an electrocatalysis study.</p>
+<p><strong>Abstract:</strong> Electrochemical nitrate reduction to ammonia (NO₃RR → NH₃) suffers from poor selectivity and strong competition from hydrogen evolution. Here we show that materials-intrinsic electrostatic reprogramming of colloidal copper nitride (Cu₃N) nanocrystals provides a robust lever to bias NO₃RR. Two routes are established in a single electrolyte (0.50 M KNO₃ + 0.10 M KOH): (i) dilute Na incorporation that preserves the anti-ReO₃ (Pm-3m) lattice with small peak shifts, and (ii) Li treatment that amorphizes Cu₃N, yielding short-range–ordered Li–Cu–N. Across both families, cyclic voltammetry, LSV/Tafel analysis, and impedance spectroscopy reveal earlier cathodic onset (≈60–120 mV), reduced charge-transfer resistance (R_ct down to ~16 Ω from ~79 Ω for pristine), and favorable potential-of-zero-charge (PZC) shifts within the operating window. Chronoamperometry with indophenol quantification gives Faradaic efficiencies up to 74% and NH₃ production rates up to 8.8 × 10⁻³ mmol h⁻¹ mg⁻¹ (10% Li–Cu–N), with Tafel slopes of 120–167 mV dec⁻¹, consistent with a first electron-transfer step as rate determining. Electrolyte-cation spike and rinse–swap controls decouple double-layer effects from materials changes: gains on undoped Cu₃N vanish after rinsing, whereas Na-modified and Li-amorphous electrodes retain performance. The results delineate two complementary design paradigms lattice-level Na incorporation and controlled Li-induced amorphization that embed a beneficial interfacial field and accelerate NO₃RR without reactor or electrolyte redesign.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-k2dn5">https://doi.org/10.26434/chemrxiv-2026-k2dn5</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-k2dn5?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] Sciences et Avenir ▶ Le sexe, un avantage évolutif</title>
     <link href="https://www.sciencesetavenir.fr/archeo-paleo/evolution/le-sexe-un-avantage-evolutif_190069?xtor=RSS-4"/>

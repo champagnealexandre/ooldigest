@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Lattice Alkali in Cu₃N Reprograms Interfacial Electronics fo](https://dx.doi.org/10.26434/chemrxiv-2026-k2dn5?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Author Correction: Rewiring an olfactory circuit by altering](https://www.nature.com/articles/s41586-025-10090-2) |
+| keyword_rejected | - | [Author Correction: Repulsions instruct synaptic partner matc](https://www.nature.com/articles/s41586-025-10089-9) |
 | keyword_rejected | - | [Le Lidar révèle une autre Amazonie](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/le-lidar-revele-une-autre-amazonie_190121?xtor=RSS-4) |
 | keyword_rejected | - | [Next-generation polydopamine nanocoatings advancing the unde](https://www.nature.com/articles/s41598-025-33787-w) |
 | keyword_rejected | - | [Research on boost conversion of SiC-based laser power supply](https://www.nature.com/articles/s41598-025-33577-4) |
