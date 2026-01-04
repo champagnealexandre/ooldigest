@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Long term outcomes of valve sparing aortic root replacement ](https://www.nature.com/articles/s41598-025-34107-y) |
+| keyword_rejected | - | [Green agricultural product quality supervision based on pros](https://www.nature.com/articles/s41598-025-29675-y) |
 | ai_scored | 25 | [NASA JPL Unveils Rover Operations Center For Future Missions](https://astrobiology.com/2026/01/nasa-jpl-unveils-rover-operations-center-for-future-missions.html) |
 | ai_scored | 15 | [Computational Discovery of BMS-986205 as a Resistance-Proof ](https://dx.doi.org/10.26434/chemrxiv-2026-9pxlm?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [MINT32: A Minimum-Image INT32 Coordinate Representation for ](https://dx.doi.org/10.26434/chemrxiv-2026-dshbp?rft_dat=source%3Ddrss) |
