@@ -323,7 +323,8 @@ def main():
         logging.info("No new keyword matches. Saving rejected papers and regenerating feed.")
         new_history = rejected_dicts + history
         utils.save_history(new_history, config.history_file)
-        feed.generate_feed(history, config.model_dump(), "ooldigest-ai.xml")
+        ai_scored = [p for p in history if p.get('stage') == 'ai_scored']
+        feed.generate_feed(ai_scored, config.model_dump(), "ooldigest-ai.xml")
         return
     
     # STAGE 2 & 3: Process papers (hunt + analyze)
