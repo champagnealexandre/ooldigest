@@ -1,5 +1,55 @@
 [
   {
+    "title": "A Reversible 900 nm Near Infrared Photoswitch for Invisibly Writable 2D and 3D Displays",
+    "summary": "Molecular photoswitches interchange between different states in response to light irradiation and represent prominent tools to deliberately control changes at the smallest scales. A standing challenge for their development is pushing absorptions into the low-energy end of the electromagnetic spectrum, which is highly desirable to avoid photodamage, allows mixing of photoresponsive components, and maximizes the available color range. Here we report on a novel photoswitch motive, peri-benzo[a]fluoranthenethioindigo (PBFT), enabling direct excitation with NIR light up to 900 nm wavelengths in a fully reversible fashion. PBFT provides an outstanding property profile with high isomer yields, good thermal bistability, and strongly distinct color changes from bright green to deep blue. Application in a commercially available and easy-to use polymer material allows to realize reversible and spatially resolved inscription of information with extremely long wavelengths of light. Writing information into versatile handheld 2D and 3D optical displays and optical memories is thus possible with non-damaging light, invisible to the naked eye.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2fvfb?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Length vs Velocity Gauge Formulation of the Frequency-Dependent Polarizability for 1D Periodic Systems at Coupled Cluster with Single and Double Excitations Level",
+    "summary": "This work presents the implementation of the linear response function for 1D periodic systems at coupled cluster with single and double excitations with periodic boundary conditions level (LR-CCSD-PBC) for the calculation of the frequency-dependent electric dipole-electric dipole polarizability tensor, $\\boldsymbol{\\alpha}(\\omega)$, with the modified velocity gauge (MVG) formalism. We compare this approach with the length gauge (LG) formalism that we presented in a previous work [APL Comp. Phys. 1, 026107 (2025)] in terms of theoretical analysis and computational results. Calculations on molecular systems with large Dunning basis sets including diffuse functions show a smooth convergence towards the complete basis set limit (CBS) with both formalisms, but LG and MVG converge to different values when CCSD provides an incomplete treatment of electron correlation. With the  small basis sets used in the PBC calculations, the difference between the gauge formalisms increases due to basis set incompleteness. For the PBC calculations on 1D periodic systems, the MVG formalism shows a faster convergence towards the thermodynamic limit with $k$ sampling compared to LG. Furthermore, the MVG formalism provides perfect agreement between PBC and long molecular cluster models. This is not the case for LG due to the so-called missing integer issue. However, a comparison with the molecular data suggests that the LG-PBC results with the small basis set affordable in this work are closer to the CBS results than those with MVG. This work represents a further step forward for the simulation of optical response properties for solid-state materials with systematically improvable quantum mechanical methods.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-9c3p4-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Reversible 900 nm Near Infrared Photoswitch for Invisibly Writable 2D and 3D Displays",
+    "summary": "Molecular photoswitches interchange between different states in response to light irradiation and represent prominent tools to deliberately control changes at the smallest scales. A standing challenge for their development is pushing absorptions into the low-energy end of the electromagnetic spectrum, which is highly desirable to avoid photodamage, allows mixing of photoresponsive components, and maximizes the available color range. Here we report on a novel photoswitch motive, peri-benzo[a]fluoranthenethioindigo (PBFT), enabling direct excitation with NIR light up to 900 nm wavelengths in a fully reversible fashion. PBFT provides an outstanding property profile with high isomer yields, good thermal bistability, and strongly distinct color changes from bright green to deep blue. Application in a commercially available and easy-to use polymer material allows to realize reversible and spatially resolved inscription of information with extremely long wavelengths of light. Writing information into versatile handheld 2D and 3D optical displays and optical memories is thus possible with non-damaging light, invisible to the naked eye.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-2fvfb?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Leonardo under cover",
+    "summary": "The study of artwork is an interesting field that has undergone a major turn the last decades as new scientific analysis methods have been introduced and is becoming a significant part of the investigations. In this study we have employed Raman spectroscopy to analyse the pigments in an old painting of the Roman Emperor Domitian. The painting is of special interest since its creation is historically attributed to Tiziano Vecellio, more known as Titian, but it has recently been found to contain a signature that reads L daVinci. We here perform a rigorous pigment analysis of the painting and signature area to identify and classify the pigments by usage and the potential time of deployment. Microscopic cut outs from selected areas of the painting were analysed in a Raman microscope where 14 different pigments were identified. Out of these, 12 pigments were contemporary with Titian (1488/90-1567) and Leonardo da Vinci (1452-1519), one pigment, titanium white, was present during the Middle Ages but came into common use at a later time and one pigment, Prussian blue, is of newer origin. Complimentary X-ray imaging shows that at least one of the areas where Prussian blue was found has likely been altered at a later stage, providing an explanation for the presence of a modern pigment in an old painting. Special emphasis was also applied to resonant and non-resonant Raman response of Prussian green and blue, expressing different ratios of Fe2+ and Fe3+ states, valuable for identification and discrimination of the compounds in pigment identification and in the more recent field of battery research.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1mp5h?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Collaborative positional attention for image to English question answering",
+    "summary": "<p>Scientific Reports, Published online: 04 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-31627-5\">doi:10.1038/s41598-025-31627-5</a></p>Collaborative positional attention for image to English question answering",
+    "url": "https://www.nature.com/articles/s41598-025-31627-5",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Le prince de Lavau, un Celte d'exception",
     "summary": "L'analyse du \"tr\u00e9sor\" exhum\u00e9 de sa s\u00e9pulture, pr\u00e8s de Troyes, \u00e9claire sous un nouveau jour la soci\u00e9t\u00e9 celtique du 5e si\u00e8cle avant notre \u00e8re.",
     "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/le-prince-de-lavau-un-celte-d-exception_190122?xtor=RSS-4",

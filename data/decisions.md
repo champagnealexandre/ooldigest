@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Collaborative positional attention for image to English ques](https://www.nature.com/articles/s41598-025-31627-5) |
+| keyword_rejected | - | [Leonardo under cover](https://dx.doi.org/10.26434/chemrxiv-2026-1mp5h?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Reversible 900 nm Near Infrared Photoswitch for Invisibly ](https://dx.doi.org/10.26434/chemrxiv-2026-2fvfb?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Length vs Velocity Gauge Formulation of the Frequency-Depend](https://dx.doi.org/10.26434/chemrxiv-2025-9c3p4-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Reversible 900 nm Near Infrared Photoswitch for Invisibly ](https://dx.doi.org/10.26434/chemrxiv-2026-2fvfb?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Le prince de Lavau, un Celte d'exception](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/le-prince-de-lavau-un-celte-d-exception_190122?xtor=RSS-4) |
 | keyword_rejected | - | [The first complete mitochondrial genome and phylogenetic ana](https://www.nature.com/articles/s41598-025-33261-7) |
 | ai_scored | 45 | [Vertically Resolved Minimal-set k-distribution For Thermal I](https://astrobiology.com/2026/01/vertically-resolved-minimal-set-k-distribution-for-thermal-infrared-absorption-in-the-venus-atmosphere.html) |
