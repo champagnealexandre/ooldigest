@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Tricorder Tech For Everyone: NASA’s STELLA Open Science Inst](https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html) |
+| keyword_rejected | - | [Prediction model for the dissemination of AI-generated deepf](https://www.nature.com/articles/s41598-025-34789-4) |
+| keyword_rejected | - | [Enhanced gait following NW-RSA training links to reduced myo](https://www.nature.com/articles/s41598-025-32563-0) |
+| keyword_rejected | - | [Enhancing chronic disease management: hybrid graph networks ](https://www.nature.com/articles/s41598-025-34065-5) |
+| keyword_rejected | - | [Cryoablation temperature monitoring with dense ultrasonic sp](https://www.biorxiv.org/content/10.64898/2026.01.04.697528v1?rss=1) |
+| keyword_rejected | - | [Glucose is a ligand-like trigger for secretion of postprandi](https://www.biorxiv.org/content/10.64898/2026.01.04.697549v1?rss=1) |
+| keyword_rejected | - | [Biochemical and Immunological Properties of Engineered Low-I](https://www.biorxiv.org/content/10.64898/2026.01.04.697554v1?rss=1) |
 | ai_scored | 5 | [Decoupled Representation Learning Improves Generalization in](https://www.biorxiv.org/content/10.64898/2026.01.04.697551v1?rss=1) |
 | keyword_rejected | - | [From fibril to framework: P. abyssi AbpX illuminates a calci](https://www.biorxiv.org/content/10.64898/2026.01.04.697558v1?rss=1) |
 | keyword_rejected | - | [NetMedGPT - A network medicine foundation model for extensiv](https://www.biorxiv.org/content/10.64898/2026.01.04.697552v1?rss=1) |

@@ -1,5 +1,82 @@
 [
   {
+    "title": "Tricorder Tech For Everyone: NASA\u2019s STELLA Open Science Instrument",
+    "summary": "<p>Editor\u2019s note: NASA has just authored a paper on a new way for people with a wide variety of interests to use &#8211; and build &#8211; sensor technology that is a preview of the devices we will use to explore other planets. The paper is online here: Science and Technology Education for Land / Life [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html\">Tricorder Tech For Everyone: NASA&#8217;s STELLA Open Science Instrument</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html",
+    "published_date": "2026-01-04T22:55:30Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025CN000284",
+      "https://doi.org/10.1029/2025CN000284",
+      "https://doi.org/10.17605/OSF.IO/HMNYT"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "NASA\u2019s STELLA is an open-science, buildable sensor platform aimed at broadening access to field instrumentation that previews tools used in future planetary life-detection and exploration missions."
+    }
+  },
+  {
+    "title": "Biochemical and Immunological Properties of Engineered Low-Immunogenic Staphylokinases for Next-Generation Thrombolytic Therapy",
+    "summary": "Staphylokinase (SAK) is a highly fibrin-specific plasminogen activator with significant potential as a safe and affordable thrombolytic. Yet, its clinical translation can be limited by potential immunogenicity. To accelerate the development of improved thrombolytics, a critical step is identifying the most suitable molecular template. Therefore, we performed a comparative analysis of biochemical and immunological properties of three engineered low-immunogenic variants (SAK SY155, SAK THR174, and SAK STAR FRIDA) and two wild-types (SAK STAR and SAK 42D), using a newly established panel of assays. All variants retained potent thrombolytic activity, with SAK SY155 displaying the highest catalytic efficiency and fibrin-clot permeability. However, this advantage did not fully translate into improved clot reduction under flow conditions. Comprehensive immunological profiling, including monocyte activation, T lymphocyte proliferation, dendritic cell maturation, and mouse immunization models, revealed no strong immunogenic response in any tested variant. Overall, low-immunogenic SAK SY155 and its background wild-type SAK STAR emerged as the most promising templates for rational engineering of next-generation thrombolytics.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697554v1?rss=1",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Glucose is a ligand-like trigger for secretion of postprandial GLP-1",
+    "summary": "Glucagon-like peptide 1 (GLP-1) is secreted from the intestinal L cells in a glucose-dependent manner. However, the mechanism underlying how glucose stimulates the secretion remains unclear. Here, we found that glucose at postprandial concentrations near the Km of GK for glucose (~10 mM), as well as nonmetabolizable glucose analogs, triggers GLP-1 secretion by intestinal L cells through directly binding to glucokinase (GK), without increasing intracellular ATP levels. We also show that in postprandially high glucose, glucose-bound GK interacts and inhibits KATP, as assessed by immunoprecipitation and FRET-FLIM analyses, as well as patch clamping. In addition, we have utilized GK mutants identified in diabetics, demonstrating that those mutants defective in binding to glucose impair GLP-1 secretion in however high glucose, whereas mutants constitutively bound to glucose with defects in catalysis, promote GLP-1 secretion even in low glucose. Furthermore, the KATP mutant unable to bind to GK blocks GLP-1 secretion in high glucose. We have also provided evidence showing that sodium-glucose cotransporter 1 (SGLT1) plays an important role in the basal secretion of GLP-1, but not in high glucose. We have thus revealed that glucose the molecule itself and GK act as a ligand and the receptor, respectively, to induce GLP-1 secretion in response to high glucose, providing new therapeutic avenues targeting metabolic diseases.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697549v1?rss=1",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cryoablation temperature monitoring with dense ultrasonic speed-of-sound shift imaging",
+    "summary": "Accurate temperature monitoring during cryoablation, a minimally invasive technique that destroys tissue locally by forming an ice ball around an inserted cryoprobe, is vital for achieving complete ablation while protecting surrounding tissue. We present a dense slowness-shift imaging method that estimates local speed-of-sound changes from ultrasound B-mode images using optical flow. This single-transducer, image-based approach enables mapping of spatial temperature change without requiring additional hardware. Cryoablation experiments in a tissue-mimicking phantom and ex vivo turkey breast demonstrated that slowness deviation increases with decreasing temperature. In the phantom, the dependence was linear (a = -20.70 s{middle dot}m-1C{degrees}-1), while in turkey breast it presented an exponential relationship (t = 34.04xexp(0.075(-{Delta}T)) s{middle dot}m-1C{degrees}-1). The algorithm detected sub-degree temperature variations and accurately tracked cooling down to -39.4 {+/-} 5.6 {degrees}C. This work demonstrates the feasibility of ultrasound-based, noninvasive temperature monitoring during cryoablation, providing a scalable, real-time alternative to existing invasive or high-cost thermal assessment techniques.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697528v1?rss=1",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Enhancing chronic disease management: hybrid graph networks and explainable AI for intelligent diagnosis",
+    "summary": "<p>Scientific Reports, Published online: 04 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34065-5\">doi:10.1038/s41598-025-34065-5</a></p>Enhancing chronic disease management: hybrid graph networks and explainable AI for intelligent diagnosis",
+    "url": "https://www.nature.com/articles/s41598-025-34065-5",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Enhanced gait following NW-RSA training links to reduced myostatin and improved L-arginine metabolites in older women with preserved vitamin D",
+    "summary": "<p>Scientific Reports, Published online: 04 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32563-0\">doi:10.1038/s41598-025-32563-0</a></p>Enhanced gait following NW-RSA training links to reduced myostatin and improved L-arginine metabolites in older women with preserved vitamin D",
+    "url": "https://www.nature.com/articles/s41598-025-32563-0",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Prediction model for the dissemination of AI-generated deepfake videos in the intelligent entertainment paradigm",
+    "summary": "<p>Scientific Reports, Published online: 04 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34789-4\">doi:10.1038/s41598-025-34789-4</a></p>Prediction model for the dissemination of AI-generated deepfake videos in the intelligent entertainment paradigm",
+    "url": "https://www.nature.com/articles/s41598-025-34789-4",
+    "published_date": "2026-01-04T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Decoupled Representation Learning Improves Generalization in CRISPR Off-Target Prediction",
     "summary": "Computational prediction of CRISPR-Cas9 off-target activity is a critical step toward the safe and scalable design of guide RNAs. Most existing deep learning models are trained on large proxy datasets derived from high-throughput assays; however, their performance often degrades when evaluated on experimentally validated off-target sites. This limitation raises concerns about the generalization ability of proxy-trained models and highlights the need for architectures that better transfer to biologically relevant benchmarks such as TrueOT. We propose a two-stage deep learning framework that decouples sequence representation learning from off-target classification. In the first stage, guide RNA sequences are encoded using pretrained transformer-based embeddings learned from large genomic corpora. In the second stage, a hybrid neural network integrates these embeddings with mismatch-level and sequence-pair features to predict off-target activity. Models are trained exclusively on a proxy dataset and evaluated under strict external validation on the TrueOT benchmark. Our results show that incorporating pretrained sequence embeddings substantially improves generalization performance. The full two-stage model achieves consistent improvements in ROC-AUC and PR-AUC on TrueOT, relative to proxy-only baselines, across repeated runs. We demonstrate a consistent generalization effect under distribution shift, robust to training noise, seeds, and evaluation variance. These findings provide empirical evidence that representation transfer plays a critical role in bridging the gap between proxy assay data and experimentally validated off-target behavior.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697551v1?rss=1",
