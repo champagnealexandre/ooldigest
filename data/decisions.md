@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le Lidar révèle une autre Amazonie](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/le-lidar-revele-une-autre-amazonie_190121?xtor=RSS-4) |
+| keyword_rejected | - | [Next-generation polydopamine nanocoatings advancing the unde](https://www.nature.com/articles/s41598-025-33787-w) |
+| keyword_rejected | - | [Research on boost conversion of SiC-based laser power supply](https://www.nature.com/articles/s41598-025-33577-4) |
+| keyword_rejected | - | [Exosome-based layered double hydroxide nanohybrids from adip](https://www.nature.com/articles/s41598-025-34937-w) |
+| keyword_rejected | - | [Preoperative assessment of axillary lymph node tumor burden ](https://www.nature.com/articles/s41598-025-34371-y) |
+| keyword_rejected | - | [Decomposition of magnetic coupling in µ-oxo-bridged metal co](https://dx.doi.org/10.26434/chemrxiv-2025-gbcfl-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Crystal Growth, Structures and Optical Bandgaps of Cuprous R](https://dx.doi.org/10.26434/chemrxiv-2026-3hx92?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [A dissolvable microneedle patch co-delivering Zerumbone and ](https://www.nature.com/articles/s41598-025-33891-x) |
 | keyword_rejected | - | [Body mass index mediates the association between neutrophil-](https://www.nature.com/articles/s41598-025-34721-w) |
 | keyword_rejected | - | [An investigation into the physico-chemical characteristics a](https://www.nature.com/articles/s41598-025-33181-6) |
