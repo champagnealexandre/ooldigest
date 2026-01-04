@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le plomb, moteur de l’évolution du langage ?](https://www.pourlascience.fr/sd/paleoanthropologie/le-plomb-moteur-de-l-evolution-du-langage-28611.php) |
 | ai_scored | 40 | [Le sexe, un avantage évolutif](https://www.sciencesetavenir.fr/archeo-paleo/evolution/le-sexe-un-avantage-evolutif_190069?xtor=RSS-4) |
 | keyword_rejected | - | [Long term outcomes of valve sparing aortic root replacement ](https://www.nature.com/articles/s41598-025-34107-y) |
 | keyword_rejected | - | [Green agricultural product quality supervision based on pros](https://www.nature.com/articles/s41598-025-29675-y) |
