@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [An improved artificial bee colony algorithm with path relink](https://www.nature.com/articles/s41598-025-34976-3) |
+| keyword_rejected | - | [Effect of suction stress on the strength of rupture zone and](https://www.nature.com/articles/s41598-025-34658-0) |
+| keyword_rejected | - | [Pressure and coping strategies of caregivers of children wit](https://www.nature.com/articles/s41598-025-34876-6) |
+| keyword_rejected | - | [Assessing current capabilities for incorporating lipidomics ](https://dx.doi.org/10.26434/chemrxiv-2026-rkm55?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Fermetures de cabinets médicaux et reports d'opérations atte](https://www.sciencesetavenir.fr/sante/fermetures-de-cabinets-medicaux-et-reports-d-operations-attendus-a-partir-de-lundi_190265?xtor=RSS-16) |
 | keyword_rejected | - | [Le Premier ministre reçoit les syndicats d'un monde agricole](https://www.sciencesetavenir.fr/nature-environnement/le-premier-ministre-recoit-les-syndicats-d-un-monde-agricole-ou-persiste-la-colere_190264?xtor=RSS-15) |
 | keyword_rejected | - | [Neuronal feedback loop of the suprachiasmatic nucleus genera](https://www.nature.com/articles/s41467-025-68218-x) |

@@ -1,5 +1,45 @@
 [
   {
+    "title": "Assessing current capabilities for incorporating lipidomics in multiomics data integration",
+    "summary": "Comprehensive analyses of multiple biological components including nucleic acids, proteins, metabolites, and lipids (i.e., \u201cmultiomics\u201d) provide unique insights into complex biological processes. Combining insights from these components through multiomics data integration enhances the depth and nuance of biological understanding available from these measurements. Among methods that integrate data across different technologies (e.g. mass spectrometry, sequencing), those that link components based on biological prior knowledge\u2014pathway analyses\u2014represent the most direct way of translating molecular-level observations into meaningful biological insights. However, significant barriers exist that prevent full utilization of metabolomics and especially lipidomics data in pathway integration. Challenges include the fast turnover and complex interactions of small molecules compared to biological macromolecules, low metabolite annotation rates, isomerism among lipids, and a lack of lipid representation in existing pathway knowledge bases. While these issues stem from a variety of causes, improvements to multiomics pathway integration including better incorporation of lipids into pathway knowledge bases and increased adoption of artificial intelligence approaches can greatly enhance the utility of small molecule -omics data, particularly for lipidomics. Here we describe the current landscape of multiomics integration tools with an emphasis on support for metabolomics and lipidomics data, we highlight their capabilities and gaps with tangible examples using real multiomics data, and provide our perspective on how these approaches can be improved to better support generation of useful biological insights from complex multiomics data",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-rkm55?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pressure and coping strategies of caregivers of children with autism spectrum disorder in rural areas: a qualitative study",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34876-6\">doi:10.1038/s41598-025-34876-6</a></p>Pressure and coping strategies of caregivers of children with autism spectrum disorder in rural areas: a qualitative study",
+    "url": "https://www.nature.com/articles/s41598-025-34876-6",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Effect of suction stress on the strength of rupture zone and stability of landslide",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34658-0\">doi:10.1038/s41598-025-34658-0</a></p>Effect of suction stress on the strength of rupture zone and stability of landslide",
+    "url": "https://www.nature.com/articles/s41598-025-34658-0",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "An improved artificial bee colony algorithm with path relinking strategy for the integrated distributed no-wait flow-shop scheduling and vehicle routing problem",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34976-3\">doi:10.1038/s41598-025-34976-3</a></p>An improved artificial bee colony algorithm with path relinking strategy for the integrated distributed no-wait flow-shop scheduling and vehicle routing problem",
+    "url": "https://www.nature.com/articles/s41598-025-34976-3",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Individual and institutional factors influencing dentists\u2019 practice in underserved areas",
     "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32094-8\">doi:10.1038/s41598-025-32094-8</a></p>Individual and institutional factors influencing dentists\u2019 practice in underserved areas",
     "url": "https://www.nature.com/articles/s41598-025-32094-8",
