@@ -1,5 +1,226 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 80 | [Self-assembled versus biological pattern formation in geolog](https://arxiv.org/abs/2601.00323) |
+| ai_scored | 65 | [The Physics of Causation](https://arxiv.org/abs/2601.00515) |
+| ai_scored | 5 | [Multistep quantum master equation theory for response functi](https://arxiv.org/abs/2601.00431) |
+| ai_scored | 50 | [The Physics of Causation](https://arxiv.org/abs/2601.00515) |
+| ai_scored | 5 | [Modeling Epidemic Dynamics of Mutant Strains with Evolutiona](https://arxiv.org/abs/2601.00757) |
+| ai_scored | 23 | [Fast Ewald Summation with Prolates for Charged Systems in th](https://arxiv.org/abs/2601.00161) |
+| ai_scored | 70 | [Self-assembled versus biological pattern formation in geolog](https://arxiv.org/abs/2601.00323) |
+| ai_scored | 0 | [High-Temperature Deformation Behavior of Co-Free Non-Equiato](https://arxiv.org/abs/2601.00619) |
+| ai_scored | 60 | [The Physics of Causation](https://arxiv.org/abs/2601.00515) |
+| ai_scored | 30 | [Materials Informatics: Emergence To Autonomous Discovery In ](https://arxiv.org/abs/2601.00742) |
+| ai_scored | 30 | [Reaction-diffusion systems from kinetic models for bacterial](https://arxiv.org/abs/2501.17192) |
+| ai_scored | 0 | [Analysis of Semantic Communication for Logic-based Hypothesi](https://arxiv.org/abs/2508.21755) |
+| ai_scored | 50 | [The Solar Neighborhood LV: Spectral Characterization of an E](https://arxiv.org/abs/2601.00462) |
+| ai_scored | 20 | [Evolutionary Optimization of Physics-Informed Neural Network](https://arxiv.org/abs/2312.03243) |
+| ai_scored | 0 | [Sequential Reservoir Computing for Efficient High-Dimensiona](https://arxiv.org/abs/2601.00172) |
+| ai_scored | 0 | [Geometric Complexity of Quantum Channels via Unitary Dilatio](https://arxiv.org/abs/2601.00735) |
+| ai_scored | 0 | [Evolution of UE in Massive MIMO Systems for 6G: From Passive](https://arxiv.org/abs/2601.00251) |
+| ai_scored | 30 | [Onsager Condensation in Chiral Active Matter: Universality o](https://arxiv.org/abs/2512.01884) |
+| ai_scored | 35 | [Evidence for a Nonzero Eccentricity Superpuff Exoplanet WASP](https://arxiv.org/abs/2601.00640) |
+| ai_scored | 15 | [The dynamics of cultural systems](https://arxiv.org/abs/2601.00440) |
+| ai_scored | 0 | [Topological Vibration Analysis of Elastic Lattices via Bloch](https://arxiv.org/abs/2510.11930) |
+| ai_scored | 60 | [Sub-Neptune Memories I: Implications of Inefficient Mantle C](https://arxiv.org/abs/2601.00059) |
+| ai_scored | 5 | [Covariance Matrix Adaptation Evolution Strategy without a ma](https://arxiv.org/abs/2601.00102) |
+| ai_scored | 15 | [Origin of geometric cohesion in non-convex granular material](https://arxiv.org/abs/2601.00262) |
+| ai_scored | 5 | [Classical vs quantum dynamics and the onset of chaos in a ma](https://arxiv.org/abs/2601.00062) |
+| ai_scored | 0 | [A Topological Framework for Atmospheric River Interaction Us](https://arxiv.org/abs/2601.00354) |
+| keyword_rejected | - | [Seasonal characteristics and key sources of trace element de](https://www.nature.com/articles/s41598-025-32170-z) |
+| keyword_rejected | - | [Development of a multimodal magnetic resonance imaging-based](https://www.nature.com/articles/s41598-025-33610-6) |
+| keyword_rejected | - | [Identification of a deepest oblique layer within the layered](https://www.nature.com/articles/s41598-025-34600-4) |
+| keyword_rejected | - | [Optimizing soil cover systems for coal gangue reclamation: b](https://www.nature.com/articles/s41598-025-32202-8) |
+| keyword_rejected | - | [Low-noise optomechanical single phonon-photon conversion for](https://www.nature.com/articles/s41467-025-67956-2) |
+| keyword_rejected | - | [Detection of 1-Hydroxypyrene as biomarker for polycyclic aro](https://dx.doi.org/10.26434/chemrxiv-2026-kjpmp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [MAPLE: A General Framework for Automated Molecular Modeling ](https://dx.doi.org/10.26434/chemrxiv-2026-k7znx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [ReactFormer: A Reaction-Aware Graph Transformer for Barrier ](https://dx.doi.org/10.26434/chemrxiv-2026-xfqfx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Iridium-Catalyzed Ring-Expanding Silylene Transfer from Aryl](https://dx.doi.org/10.26434/chemrxiv-2026-kl9d9?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Fabrication of Electrically Conductive Cellulose Nanofiber S](https://dx.doi.org/10.26434/chemrxiv-2026-kxths?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Functional Group Identification from Infrared Spectra via a ](https://dx.doi.org/10.26434/chemrxiv-2026-3v5vb?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Computing Evolutionarily Stable Strategies in Multiplayer Ga](https://arxiv.org/abs/2511.20859) |
+| keyword_rejected | - | [Gardner volumes and self-organization in a minimal model of ](https://arxiv.org/abs/2601.00707) |
+| keyword_rejected | - | [Non-dilemmatic social dynamics promote cooperation in multil](https://arxiv.org/abs/2601.00460) |
+| keyword_rejected | - | [Evolutionary and Structural Constraints Define a Mutation-Re](https://arxiv.org/abs/2601.00769) |
+| keyword_rejected | - | [Synchronous Differential Hot-charge Emission Spectroscopy: T](https://arxiv.org/abs/2512.06855) |
+| keyword_rejected | - | [Multistate iterative qubit coupled cluster (MS-iQCC): a quan](https://arxiv.org/abs/2511.01121) |
+| keyword_rejected | - | [Effects of Donor-Acceptor Quantum Coherence and Non-Markovia](https://arxiv.org/abs/2601.00708) |
+| keyword_rejected | - | [Computational Modeling of Exciton-bath Hamiltonians for LH2 ](https://arxiv.org/abs/2601.00576) |
+| keyword_rejected | - | [Automated decision-making by chemical echolocation in active](https://arxiv.org/abs/2601.00480) |
+| keyword_rejected | - | [Coupled thermo-chemo-mechanical phase field-based modelling ](https://arxiv.org/abs/2601.00471) |
+| keyword_rejected | - | [Transient spark dielectric barrier post-discharge plasma rea](https://arxiv.org/abs/2601.00236) |
+| keyword_rejected | - | [AceFF: A State-of-the-Art Machine Learning Potential for Sma](https://arxiv.org/abs/2601.00581) |
+| keyword_rejected | - | [Interpretable Machine Learning for Quantum-Informed Property](https://arxiv.org/abs/2601.00503) |
+| keyword_rejected | - | [Reassessing carotenoid photophysics -- new light on dark sta](https://arxiv.org/abs/2601.00316) |
+| keyword_rejected | - | [Random phase approximation-based local natural orbital coupl](https://arxiv.org/abs/2601.00131) |
+| keyword_rejected | - | [Asymptotic Vanishing of the Success Probability in Shor's Al](https://arxiv.org/abs/2510.06271) |
+| keyword_rejected | - | [Photon Blockade Mediated by Two-Photon Absorption in an Opti](https://arxiv.org/abs/2509.15696) |
+| keyword_rejected | - | [Homogenization with Guaranteed Bounds via Primal-Dual Physic](https://arxiv.org/abs/2509.07579) |
+| keyword_rejected | - | [Random Batch Sum-of-Gaussians Method for Molecular Dynamics ](https://arxiv.org/abs/2512.24970) |
+| keyword_rejected | - | [Enhancement of plastic deformation in ultrasound-assisted co](https://arxiv.org/abs/2510.09803) |
+| keyword_rejected | - | [Electronic-Entropy-Driven Solid-Solid Phase Transitions in E](https://arxiv.org/abs/2601.00740) |
+| keyword_rejected | - | [Bayesian optimization for re-analysis and calibration of ext](https://arxiv.org/abs/2601.00628) |
+| keyword_rejected | - | [Combining multiple interface set path ensembles with MBAR re](https://arxiv.org/abs/2601.00458) |
+| keyword_rejected | - | [Solving nonlinear subsonic compressible flow in infinite dom](https://arxiv.org/abs/2601.00342) |
+| keyword_rejected | - | [Coupled Modal-Nonmodal Interactions Due to Periodic, Infinit](https://arxiv.org/abs/2601.00295) |
+| keyword_rejected | - | [Full grid solution for multi-asset options pricing with tens](https://arxiv.org/abs/2601.00009) |
+| keyword_rejected | - | [Additive general integral equations in thermoelastic microme](https://arxiv.org/abs/2601.00019) |
+| keyword_rejected | - | [New RVE concept in thermoelasticity of periodic composites s](https://arxiv.org/abs/2601.00018) |
+| keyword_rejected | - | [Evolutionary and Structural Constraints Define a Mutation-Re](https://arxiv.org/abs/2601.00769) |
+| keyword_rejected | - | [Quantifying the uncertainty of molecular dynamics simulation](https://arxiv.org/abs/2601.00618) |
+| keyword_rejected | - | [The thermodynamics of pressure activated assembly of supramo](https://arxiv.org/abs/2601.00599) |
+| keyword_rejected | - | [Anomalous diffusion in coupled viscoelastic media: A fractio](https://arxiv.org/abs/2507.08291) |
+| keyword_rejected | - | [Foundations of Adaptive High-Level Tight Control of Prostate](https://arxiv.org/abs/2410.16005) |
+| keyword_rejected | - | [Effects of Donor-Acceptor Quantum Coherence and Non-Markovia](https://arxiv.org/abs/2601.00708) |
+| keyword_rejected | - | [Fisher-Information-Driven Adaptive Acquisition for Photon-Ef](https://arxiv.org/abs/2601.00490) |
+| keyword_rejected | - | [Transient spark dielectric barrier post-discharge plasma rea](https://arxiv.org/abs/2601.00236) |
+| keyword_rejected | - | [Computational Modeling of Exciton-bath Hamiltonians for LH2 ](https://arxiv.org/abs/2601.00576) |
+| keyword_rejected | - | [Hermitian-Singer Functional and Differential Codes](https://arxiv.org/abs/2511.14345) |
+| keyword_rejected | - | [Enhancing Sum Capacity via Quantum and No-Signaling Cooperat](https://arxiv.org/abs/2509.08219) |
+| keyword_rejected | - | [On large Sidon sets](https://arxiv.org/abs/2411.12911) |
+| keyword_rejected | - | [When Wires Can't Keep Up: Reconfigurable AI Data Centers Emp](https://arxiv.org/abs/2512.24110) |
+| keyword_rejected | - | [Faster-than-Nyquist Signaling for Next-Generation Wireless: ](https://arxiv.org/abs/2512.23377) |
+| keyword_rejected | - | [Considerate Ramp Secret Sharing](https://arxiv.org/abs/2412.17987) |
+| keyword_rejected | - | [Dual-Scale Channel Estimation in Sensing-Assisted Communicat](https://arxiv.org/abs/2411.05267) |
+| keyword_rejected | - | [DMH-HARQ: Reliable and Open Latency-Constrained Wireless Tra](https://arxiv.org/abs/2212.03602) |
+| keyword_rejected | - | [Three results on twisted $G-$codes and skew twisted $G-$code](https://arxiv.org/abs/2601.00752) |
+| keyword_rejected | - | [MIMO-AFDM Outperforms MIMO-OFDM in the Face of Hardware Impa](https://arxiv.org/abs/2601.00502) |
+| keyword_rejected | - | [When Does Quantum Differential Privacy Compose?](https://arxiv.org/abs/2601.00337) |
+| keyword_rejected | - | [Optimal codes and arcs for the generalized Hamming weights](https://arxiv.org/abs/2601.00250) |
+| keyword_rejected | - | [Modern Neuromorphic AI: From Intra-Token to Inter-Token Proc](https://arxiv.org/abs/2601.00245) |
+| keyword_rejected | - | [Neural Minimum Weight Perfect Matching for Quantum Error Cod](https://arxiv.org/abs/2601.00242) |
+| keyword_rejected | - | [Universal Outlier Hypothesis Testing via Mean- and Median-Ba](https://arxiv.org/abs/2601.00712) |
+| keyword_rejected | - | [CoCo-Fed: A Unified Framework for Memory- and Communication-](https://arxiv.org/abs/2601.00549) |
+| keyword_rejected | - | [On the burst-covering radius of binary cyclic codes](https://arxiv.org/abs/2601.00435) |
+| keyword_rejected | - | [Semantic Transmission Framework in Direct Satellite Communic](https://arxiv.org/abs/2601.00381) |
+| keyword_rejected | - | [The permutation group of Reed-Solomon codes over arbitrary p](https://arxiv.org/abs/2601.00122) |
+| keyword_rejected | - | [A repair scheme for a distributed storage system based on mu](https://arxiv.org/abs/2601.00120) |
+| keyword_rejected | - | [Unifying Weak Independence and Signal Hierarchy Theory: Exte](https://arxiv.org/abs/2601.00036) |
+| keyword_rejected | - | [Multidimensional derivative-free optimization. A case study ](https://arxiv.org/abs/2512.24509) |
+| keyword_rejected | - | [Symmetry-Based Quantum Codes Beyond the Pauli Group](https://arxiv.org/abs/2512.07908) |
+| keyword_rejected | - | [Distortion of charge distribution due to internal electric f](https://arxiv.org/abs/2511.16956) |
+| keyword_rejected | - | [Maulik-Okounkov quantum loop groups and Drinfeld double of p](https://arxiv.org/abs/2511.02161) |
+| keyword_rejected | - | [Asymptotic Vanishing of the Success Probability in Shor's Al](https://arxiv.org/abs/2510.06271) |
+| keyword_rejected | - | [Genus zero Whitham hierarchy via Hurwitz--Frobenius manifold](https://arxiv.org/abs/2507.07615) |
+| keyword_rejected | - | [Support Vector Machine Kernels as Quantum Propagators](https://arxiv.org/abs/2502.11153) |
+| keyword_rejected | - | [Exact solvability of an Ising-type model, and exact solvabil](https://arxiv.org/abs/2501.01996) |
+| keyword_rejected | - | [One-Point Restricted Conformal Blocks and the Fusion Tensor ](https://arxiv.org/abs/2411.06313) |
+| keyword_rejected | - | [A BGK-type model for multi-component gas mixtures undergoing](https://arxiv.org/abs/2407.13786) |
+| keyword_rejected | - | [Investigating dynamics and asymptotic trend to equilibrium i](https://arxiv.org/abs/2407.07129) |
+| keyword_rejected | - | [On resonant energy sets for Hamiltonian systems with reflect](https://arxiv.org/abs/2405.14464) |
+| keyword_rejected | - | [Higher spin representations of the Yangian of $\mathfrak{sl}](https://arxiv.org/abs/2403.17433) |
+| keyword_rejected | - | [Moment propagation of a Vlasov-Poisson system for ions flow ](https://arxiv.org/abs/2402.02786) |
+| keyword_rejected | - | [Calculus and applications](https://arxiv.org/abs/2401.00911) |
+| keyword_rejected | - | [The Minimal Attached Eddy in Wall Turbulence: Statistical Fo](https://arxiv.org/abs/2301.10905) |
+| keyword_rejected | - | [From Yang-Mills to Yang-Baxter: In Memory of Rodney Baxter a](https://arxiv.org/abs/2512.24494) |
+| keyword_rejected | - | [Symmetry transformation group arising from the Laplace-Runge](https://arxiv.org/abs/2512.02903) |
+| keyword_rejected | - | [Diffeology and Arithmetic of Irrational Tori](https://arxiv.org/abs/2508.07460) |
+| keyword_rejected | - | [Contact Lie systems on Riemannian and Lorentzian spaces: fro](https://arxiv.org/abs/2503.20558) |
+| keyword_rejected | - | [Finding All Solutions of qKZ Equations in Characteristic $p$](https://arxiv.org/abs/2503.06326) |
+| keyword_rejected | - | [Hamiltonian representation of isomonodromic deformations of ](https://arxiv.org/abs/2302.13905) |
+| keyword_rejected | - | [Voronoi Percolation: Topological Stability and Giant Cycles](https://arxiv.org/abs/2601.00793) |
+| keyword_rejected | - | [Spin-operator form factors of the critical Ising chain and t](https://arxiv.org/abs/2601.00751) |
+| keyword_rejected | - | [Chaos and thermalization in Clifford-Floquet dynamics](https://arxiv.org/abs/2601.00511) |
+| keyword_rejected | - | [Large-party limit of topological entanglement entropy in Che](https://arxiv.org/abs/2601.00406) |
+| keyword_rejected | - | [$\Delta_T$ Noise from Electron-Hole Asymmetry in Normal and ](https://arxiv.org/abs/2601.00402) |
+| keyword_rejected | - | [Sharp nonuniqueness for the forced 2D Navier-Stokes and diss](https://arxiv.org/abs/2601.00331) |
+| keyword_rejected | - | [Coupled Modal-Nonmodal Interactions Due to Periodic, Infinit](https://arxiv.org/abs/2601.00295) |
+| keyword_rejected | - | [Nature is stingy: Universality of Scrooge ensembles in quant](https://arxiv.org/abs/2601.00266) |
+| keyword_rejected | - | [Equivariant Cohomology, BRST Quantization, and Analytic Loca](https://arxiv.org/abs/2601.00256) |
+| keyword_rejected | - | [Existence and (in)stability of standing waves for the nonlin](https://arxiv.org/abs/2601.00158) |
+| keyword_rejected | - | [The universal logic of repeated experiments](https://arxiv.org/abs/2601.00118) |
+| keyword_rejected | - | [A compellingly simple proof of the speed of sound for intera](https://arxiv.org/abs/2601.00111) |
+| keyword_rejected | - | [Transpositional rule for constrained systems](https://arxiv.org/abs/2601.00032) |
+| keyword_rejected | - | [The Ground State Energy of a Mean-Field Fermi Gas in Two Dim](https://arxiv.org/abs/2601.00750) |
+| keyword_rejected | - | [Bethe Vectors in Quantum Integrable Models with Classical Sy](https://arxiv.org/abs/2601.00713) |
+| keyword_rejected | - | [On the computation of the dyadic Green's functions of Maxwel](https://arxiv.org/abs/2601.00709) |
+| keyword_rejected | - | [The Lagrangian and symplectic structures of the Kuramoto osc](https://arxiv.org/abs/2601.00113) |
+| keyword_rejected | - | [Collisions and fusion of one- and two-dimensional solitons d](https://arxiv.org/abs/2601.00187) |
+| keyword_rejected | - | [Symphony: A Heuristic Normalized Calibrated Advantage Actor ](https://arxiv.org/abs/2512.10477) |
+| keyword_rejected | - | [Evolutionary Optimization of Physics-Informed Neural Network](https://arxiv.org/abs/2501.06572) |
+| keyword_rejected | - | [Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based](https://arxiv.org/abs/2409.15298) |
+| keyword_rejected | - | [A Pairwise Comparison Relation-assisted Multi-objective Evol](https://arxiv.org/abs/2407.15600) |
+| keyword_rejected | - | [Quadratic Unconstrained Binary Optimisation for Training and](https://arxiv.org/abs/2601.00449) |
+| keyword_rejected | - | [Bio-inspired Agentic Self-healing Framework for Resilient Di](https://arxiv.org/abs/2601.00339) |
+| keyword_rejected | - | [Vehicle Painting Robot Path Planning Using Hierarchical Opti](https://arxiv.org/abs/2601.00271) |
+| keyword_rejected | - | [Rectifying Adversarial Examples Using Their Vulnerabilities](https://arxiv.org/abs/2601.00270) |
+| keyword_rejected | - | [Cost Optimization in Production Line Using Genetic Algorithm](https://arxiv.org/abs/2601.00689) |
+| keyword_rejected | - | [QSLM: A Performance- and Memory-aware Quantization Framework](https://arxiv.org/abs/2601.00679) |
+| keyword_rejected | - | [Three factor delay learning rules for spiking neural network](https://arxiv.org/abs/2601.00668) |
+| keyword_rejected | - | [Benchmarking ERP Analysis: Manual Features, Deep Learning, a](https://arxiv.org/abs/2601.00573) |
+| keyword_rejected | - | [RMAAT: Astrocyte-Inspired Memory Compression and Replay for ](https://arxiv.org/abs/2601.00426) |
+| keyword_rejected | - | [Modern Neuromorphic AI: From Intra-Token to Inter-Token Proc](https://arxiv.org/abs/2601.00245) |
+| keyword_rejected | - | [Personalized Spiking Neural Networks with Ferroelectric Syna](https://arxiv.org/abs/2601.00020) |
+| keyword_rejected | - | [Eigenfunctionals for positive operators](https://arxiv.org/abs/2512.10646) |
+| keyword_rejected | - | [On subsets of integers having dense orbits](https://arxiv.org/abs/2512.14430) |
+| keyword_rejected | - | [On the future cover of a sofic shift](https://arxiv.org/abs/2512.01368) |
+| keyword_rejected | - | [Exponential decay of correlations for random interval diffeo](https://arxiv.org/abs/2504.16549) |
+| keyword_rejected | - | [On resonant energy sets for Hamiltonian systems with reflect](https://arxiv.org/abs/2405.14464) |
+| keyword_rejected | - | [Gardner volumes and self-organization in a minimal model of ](https://arxiv.org/abs/2601.00707) |
+| keyword_rejected | - | [Global Dynamics and Stabilization of Zero-Mode Singularities](https://arxiv.org/abs/2601.00638) |
+| keyword_rejected | - | [Effective geometric ergodicty for Markov chains in random en](https://arxiv.org/abs/2601.00467) |
+| keyword_rejected | - | [The Lagrangian and symplectic structures of the Kuramoto osc](https://arxiv.org/abs/2601.00113) |
+| keyword_rejected | - | [Piecewise Smooth Dynamical Systems Regularized by Convolutio](https://arxiv.org/abs/2601.00697) |
+| keyword_rejected | - | [Exponential stability of second order delay differential equ](https://arxiv.org/abs/2601.00690) |
+| keyword_rejected | - | [A direct approach to simplicity of solution manifolds](https://arxiv.org/abs/2601.00642) |
+| keyword_rejected | - | [Mean Assouad dimension and spectrum, with applications to in](https://arxiv.org/abs/2601.00233) |
+| keyword_rejected | - | [Intermediate topological presssures and variational principl](https://arxiv.org/abs/2601.00182) |
+| keyword_rejected | - | [Orbit equivalence of Cantor minimal systems](https://arxiv.org/abs/2601.00179) |
+| keyword_rejected | - | [A new fast multiple-shooting method for computing periodic o](https://arxiv.org/abs/2601.00149) |
+| keyword_rejected | - | [Group Cross-Correlations with Faintly Constrained Filters](https://arxiv.org/abs/2601.00045) |
+| keyword_rejected | - | [Reduced-Order Inference with Structure-Preserving Parametriz](https://arxiv.org/abs/2601.00026) |
+| keyword_rejected | - | [Shaping chaos in bilayer graphene cavities](https://arxiv.org/abs/2512.10914) |
+| keyword_rejected | - | [Clifford Circuits Augmented Grassmann Matrix Product States](https://arxiv.org/abs/2510.04164) |
+| keyword_rejected | - | [Anomalous diffusion in coupled viscoelastic media: A fractio](https://arxiv.org/abs/2507.08291) |
+| keyword_rejected | - | [Support Vector Machine Kernels as Quantum Propagators](https://arxiv.org/abs/2502.11153) |
+| keyword_rejected | - | [Charge pumps, boundary modes, and the necessity of unnecessa](https://arxiv.org/abs/2408.15351) |
+| keyword_rejected | - | [Quantum Computing Inspired Approach for Self-Avoiding Walk (](https://arxiv.org/abs/2512.24648) |
+| keyword_rejected | - | [One-dimensional lattice random walks in a Gaussian random po](https://arxiv.org/abs/2509.23985) |
+| keyword_rejected | - | [Exact solvability of an Ising-type model, and exact solvabil](https://arxiv.org/abs/2501.01996) |
+| keyword_rejected | - | [A BGK-type model for multi-component gas mixtures undergoing](https://arxiv.org/abs/2407.13786) |
+| keyword_rejected | - | [Investigating dynamics and asymptotic trend to equilibrium i](https://arxiv.org/abs/2407.07129) |
+| keyword_rejected | - | [Exponentially Accelerated Sampling of Pauli Strings for Nons](https://arxiv.org/abs/2601.00761) |
+| keyword_rejected | - | [Spin-operator form factors of the critical Ising chain and t](https://arxiv.org/abs/2601.00751) |
+| keyword_rejected | - | [Chaos and thermalization in Clifford-Floquet dynamics](https://arxiv.org/abs/2601.00511) |
+| keyword_rejected | - | [Effective Graph Resistance as Cumulative Heat Dissipation](https://arxiv.org/abs/2601.00330) |
+| keyword_rejected | - | [Nature is stingy: Universality of Scrooge ensembles in quant](https://arxiv.org/abs/2601.00266) |
+| keyword_rejected | - | [Anderson localisation in spatially structured random graphs](https://arxiv.org/abs/2601.00220) |
+| keyword_rejected | - | [Topological physics in quantum critical systems](https://arxiv.org/abs/2601.00184) |
+| keyword_rejected | - | [Nanocrystal Geometry Governs Phase Transformation Pathways i](https://arxiv.org/abs/2601.00093) |
+| keyword_rejected | - | [Modelling the movements of organisms by stochastic theory in](https://arxiv.org/abs/2512.24937) |
+| keyword_rejected | - | [Kinetic Turing Instability and Emergent Spectral Scaling in ](https://arxiv.org/abs/2508.21012) |
+| keyword_rejected | - | [Combining multiple interface set path ensembles with MBAR re](https://arxiv.org/abs/2601.00458) |
+| keyword_rejected | - | [Constructive Cavity Method](https://arxiv.org/abs/2601.00410) |
+| keyword_rejected | - | [Bridging Commutant and Polynomial Methods for Hilbert Space ](https://arxiv.org/abs/2601.00294) |
+| keyword_rejected | - | [Thermalization in a closed quantum system from randomized dy](https://arxiv.org/abs/2601.00056) |
+| keyword_rejected | - | [A targeted, parallax-based search for Planet Nine](https://arxiv.org/abs/2504.05473) |
+| keyword_rejected | - | [A new fast multiple-shooting method for computing periodic o](https://arxiv.org/abs/2601.00149) |
+| keyword_rejected | - | [Callisto's Nonresonant Orbit as an Outcome of Circum-Jovian ](https://arxiv.org/abs/2601.00786) |
+| keyword_rejected | - | [Irradiated Atmosphere V: Effects of Vertical-Mixing induced ](https://arxiv.org/abs/2601.00606) |
+| keyword_rejected | - | [The Persistent Thermal Anomalies in Rocky Worlds](https://arxiv.org/abs/2601.00412) |
+| keyword_rejected | - | [KMT-2024-BLG-0816/OGLE-2024-BLG-0519 -- A Microlensing Event](https://arxiv.org/abs/2601.00325) |
+| keyword_rejected | - | [Covertly Active Comet (139359) 2001 ME1](https://arxiv.org/abs/2601.00060) |
+| keyword_rejected | - | [A free-floating-planet microlensing event caused by a Saturn](https://arxiv.org/abs/2601.00057) |
+| keyword_rejected | - | [Shaping chaos in bilayer graphene cavities](https://arxiv.org/abs/2512.10914) |
+| keyword_rejected | - | [Local Hall Conductivity in Disordered Topological Insulators](https://arxiv.org/abs/2507.18441) |
+| keyword_rejected | - | [Renormalization group for deep neural networks: Universality](https://arxiv.org/abs/2510.25553) |
+| keyword_rejected | - | [Symmetric approximant formalism for statistical topological ](https://arxiv.org/abs/2601.00784) |
+| keyword_rejected | - | [Anderson localisation in spatially structured random graphs](https://arxiv.org/abs/2601.00220) |
+| keyword_rejected | - | [Density-Based Algorithms for Corruption-Robust Contextual Se](https://arxiv.org/abs/2206.07528) |
+| keyword_rejected | - | [Computing Evolutionarily Stable Strategies in Multiplayer Ga](https://arxiv.org/abs/2511.20859) |
+| keyword_rejected | - | [Introspectively Envy-Free and Efficient Allocation of Indivi](https://arxiv.org/abs/2509.18673) |
+| keyword_rejected | - | [Constant Inapproximability of Pacing Equilibria in Second-Pr](https://arxiv.org/abs/2501.15295) |
+| keyword_rejected | - | [Bayesian Inverse Games with High-Dimensional Multi-Modal Obs](https://arxiv.org/abs/2601.00696) |
+| keyword_rejected | - | [Quantitative Rule-Based Strategy modeling in Classic Indian ](https://arxiv.org/abs/2601.00024) |
+| keyword_rejected | - | [The CoinAlg Bind: Profitability-Fairness Tradeoffs in Collec](https://arxiv.org/abs/2601.00523) |
+| keyword_rejected | - | [Unifying Proportional Fairness in Centroid and Non-Centroid ](https://arxiv.org/abs/2601.00447) |
+| keyword_rejected | - | [Sparse Probabilistic Coalition Structure Generation: Bayesia](https://arxiv.org/abs/2601.00329) |
+| keyword_rejected | - | [Quantum Averaging Theory for Multi-Timescale Driven Quantum ](https://arxiv.org/abs/2503.09761) |
+| keyword_rejected | - | [Global Dynamics and Stabilization of Zero-Mode Singularities](https://arxiv.org/abs/2601.00638) |
+| keyword_rejected | - | [A new fast multiple-shooting method for computing periodic o](https://arxiv.org/abs/2601.00149) |
+| keyword_rejected | - | [Controlling synchronization dynamics via physics-informed ne](https://arxiv.org/abs/2601.00178) |
+| keyword_rejected | - | [Foundations of Adaptive High-Level Tight Control of Prostate](https://arxiv.org/abs/2410.16005) |
+| keyword_rejected | - | [Improved estimators of causal emergence for large systems](https://arxiv.org/abs/2601.00013) |
+| keyword_rejected | - | [Gardner volumes and self-organization in a minimal model of ](https://arxiv.org/abs/2601.00707) |
 | keyword_rejected | - | [An improved artificial bee colony algorithm with path relink](https://www.nature.com/articles/s41598-025-34976-3) |
 | keyword_rejected | - | [Effect of suction stress on the strength of rupture zone and](https://www.nature.com/articles/s41598-025-34658-0) |
 | keyword_rejected | - | [Pressure and coping strategies of caregivers of children wit](https://www.nature.com/articles/s41598-025-34876-6) |

@@ -3,8 +3,580 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T04:54:12.471112+00:00</updated>
+  <updated>2026-01-05T05:34:36.236381+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [0] nlin.CD updates on arXiv.org ▶ A Topological Framework for Atmospheric River Interaction Using Framed Braids</title>
+    <link href="https://arxiv.org/abs/2601.00354"/>
+    <id>https://arxiv.org/abs/2601.00354</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00354v1 Announce Type: new Abstract: Atmospheric Rivers (ARs) are filamentary moisture pathways responsible for a large fraction of extreme precipitation and often occur as interacting fila</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Introduces a framed-braid topological method to characterize interactions and internal intensity changes among multiple atmospheric river filaments in Earth reanalysis data, with no direct relevance to origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00354v1 Announce Type: new Abstract: Atmospheric Rivers (ARs) are filamentary moisture pathways responsible for a large fraction of extreme precipitation and often occur as interacting filament bundles within the same synoptic regime. Existing diagnostics typically analyze ARs in isolation, despite the frequent coexistence and interaction of multiple filaments. We introduce a topological framework for AR analysis based on framed braids and framed braidoids, which encodes both the geometric interaction of AR centroids and the internal evolution of moisture transport. In this approach, AR filaments are represented as strands whose time-ordered crossings form braid words, while moisture-based framing captures internal intensification or weakening along each filament. Applying this framework to reanalysis-derived Atmospheric River track data, we construct braid and framed braid representations over sliding time windows and analyze a strongly interacting multi-filament AR episode in the North Pacific. The results show that braid-based indicators capture structural reorganizations and moisture intensification episodes that are not apparent from centroid geometry or IVT magnitude alone, offering a complementary structural perspective on atmospheric moisture transport.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/html/2601.00354v1">https://arxiv.org/html/2601.00354v1</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00354">https://doi.org/10.48550/arXiv.2601.00354</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Diamantis,+I">https://arxiv.org/search/nlin?searchtype=author&amp;query=Diamantis,+I</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00354">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] cond-mat.dis-nn updates on arXiv.org ▶ Classical vs quantum dynamics and the onset of chaos in a macrospin system</title>
+    <link href="https://arxiv.org/abs/2601.00062"/>
+    <id>https://arxiv.org/abs/2601.00062</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00062v1 Announce Type: cross Abstract: We study a periodically driven macrospin system with anisotropic long-range interactions and collective dissipation, described by a Lindblad master eq</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> The paper investigates classical–quantum correspondence and chaos in a driven macrospin Lindblad system, offering general complex-systems insights but no direct connection to origins-of-life chemistry, biology, habitability, or biosignatures.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00062v1 Announce Type: cross Abstract: We study a periodically driven macrospin system with anisotropic long-range interactions and collective dissipation, described by a Lindblad master equation. In the thermodynamic limit ($N\to\infty$), a mean-field treatment yields classical equations of motion, whose dynamics are characterized via the maximal Lyapunov exponent (MLE). Focusing on the thermodynamic limit, we map out chaotic, quasiperiodic, and periodic phases via bifurcation diagrams, MLEs, and Fourier spectra of evolved observables, identifying classic period-doubling bifurcations and fractal boundaries in the regions of attractors. Finite-size quantum simulations in the Dicke basis reveal that while both quantum and classical systems exhibit diverse dynamical phases, finite-size effects suppress some behaviors present in the thermodynamic limit. The sign of $\lambda_{\mathrm{max}}$ serves as a key indicator of convergence between quantum and classical dynamics, which agree over timescales up to the Lyapunov time. Analysis of the density matrix shows that convergence occurs only when its nonzero elements are sharply localized. However, the nonconvergence does not imply a fundamental difference between quantum and classical dynamics: in chaotic regimes, although the evolution orbits of quantum and classical systems show significant differences, quantum evolution becomes mixed and diffusively explores the Hilbert space, signaling quantum chaos, which can be confirmed by the delocalized nature of the density matrix.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/html/2601.00062v1">https://arxiv.org/html/2601.00062v1</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00062">https://doi.org/10.48550/arXiv.2601.00062</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Fan,+H">https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Fan,+H</a></li>
+<li><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/">http://arxiv.org/licenses/nonexclusive-distrib/1.0/</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Li,+X">https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Li,+X</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00062">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] cond-mat.dis-nn updates on arXiv.org ▶ Origin of geometric cohesion in non-convex granular materials: interplay between interdigitation and rotational constraints enhancing frictional stability</title>
+    <link href="https://arxiv.org/abs/2601.00262"/>
+    <id>https://arxiv.org/abs/2601.00262</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00262v1 Announce Type: cross Abstract: We present a series of experiments investigating the local microstructure of cylindrical piles composed of highly concave particles. By systematically</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Experimental X-ray tomography of piles made from highly concave “polypod” particles identifies how interdigitation and rotational constraints produce geometry-induced frictional stability (cohesion), offering general physical insight but little direct relevance to origins-of-life chemistry or biology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00262v1 Announce Type: cross Abstract: We present a series of experiments investigating the local microstructure of cylindrical piles composed of highly concave particles. By systematically varying particle geometry -- from spheres to strongly non-convex polypods -- as well as frictional properties and the number of branches, we explore how these parameters, together with the preparation protocol, shape the internal structure of the system. Using X-ray tomography combined with a dedicated image-analysis pipeline, we accurately extract the position, orientation, and contacts of every particle in each pile. This allows us to quantify the evolution of key structural observables as a function of particle geometry and preparation method. In particular, we measure the distributions of local packing fraction, coordination number, number of neighbors, and contact locations, along with particle-particle positional and orientational correlations. More importantly, we construct a new stability indicator that correlates perfectly with the observed pile stabilities, enabling us to identify the fundamental mechanisms responsible for \textit{geometrically induced cohesion} in granular systems composed of non-interlocking particle shapes: interdigitation, rotational constraint, friction-mediated cohesion, and the ability of a pile to re-stabilize.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/html/2601.00262v1">https://arxiv.org/html/2601.00262v1</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Bar%C3%A9s,+J">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Bar%C3%A9s,+J</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00262">https://doi.org/10.48550/arXiv.2601.00262</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Az%C3%A9ma,+E">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Az%C3%A9ma,+E</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://iarxiv.org/about">https://iarxiv.org/about</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Estrada,+N">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Estrada,+N</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Aponte,+D">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Aponte,+D</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00262">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] cs.NE updates on arXiv.org ▶ Covariance Matrix Adaptation Evolution Strategy without a matrix</title>
+    <link href="https://arxiv.org/abs/2601.00102"/>
+    <id>https://arxiv.org/abs/2601.00102</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00102v1 Announce Type: new Abstract: Covariance Matrix Adaptation Evolution Strategy (CMA-ES) is a highly effective optimization technique. A primary challenge when applying CMA-ES in high </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Introduces a matrix-free variant of the CMA-ES optimization algorithm that avoids covariance decomposition while preserving the sampling distribution, but it is not directly relevant to origins-of-life or astrobiology beyond the generic use of &quot;evolution&quot; in the algorithm name.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00102v1 Announce Type: new Abstract: Covariance Matrix Adaptation Evolution Strategy (CMA-ES) is a highly effective optimization technique. A primary challenge when applying CMA-ES in high dimensionality is sampling from a multivariate normal distribution with an arbitrary covariance matrix, which involves its decomposition. The cubic complexity of this process is the main obstacle to applying CMA-ES in highdimensional spaces. We introduce a version of CMA-ES that uses no covariance matrix at all. In the proposed matrix-free CMA-ES, an archive stores the vectors of differences between individuals and the midpoint, normalized by the step size. New individuals are generated as the weighted combinations of the vectors from the archive. We prove that the probability distribution of individuals generated by the proposed method is identical to that of the standard CMA-ES. Experimental results show that reducing the archive size to store only a fixed number of the most recent populations is sufficient, without compromising optimization efficiency. The matrix-free and matrix-based CMA-ES achieve comparable results on the quadratic function when the step-size adaptation is turned off. When coupled with the step-size adaptation method, the matrix-free CMA-ES converges faster than the matrix-based, and usually yields the results of a comparable or superior quality, according to the results obtained for the CEC&#x27;2017 benchmark suite. Presented approach simplifies the algorithm, offers a novel perspective on covariance matrix adaptation, and serves as a stepping stone toward even more efficient methods.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Jagodzi%C5%84ski,+D">https://arxiv.org/search/cs?searchtype=author&amp;query=Jagodzi%C5%84ski,+D</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00102">https://doi.org/10.48550/arXiv.2601.00102</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Stelmaszczyk,+A">https://arxiv.org/search/cs?searchtype=author&amp;query=Stelmaszczyk,+A</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Biedrzycki,+R">https://arxiv.org/search/cs?searchtype=author&amp;query=Biedrzycki,+R</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Warchulski,+E">https://arxiv.org/search/cs?searchtype=author&amp;query=Warchulski,+E</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00102">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] astro-ph.EP updates on arXiv.org ▶ Sub-Neptune Memories I: Implications of Inefficient Mantle Cooling and Silicate Rain</title>
+    <link href="https://arxiv.org/abs/2601.00059"/>
+    <id>https://arxiv.org/abs/2601.00059</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00059v1 Announce Type: new Abstract: We explore the evolution of sub-Neptune (radii between $\sim$1.5 and 4 R$_\oplus$) exoplanet interior structures using our upgraded planetary evolution </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Models of sub-Neptune thermal/compositional evolution suggest inefficient mantle cooling plus silicate rain can keep radii inflated and atmospheres silicate-depleted for Gyr, potentially reinterpreting planets like K2-18 b as hot silicate-mantle worlds with thin H/He envelopes rather than water worlds—impacting habitability and composition inferences relevant to life-search target selection.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00059v1 Announce Type: new Abstract: We explore the evolution of sub-Neptune (radii between $\sim$1.5 and 4 R$_\oplus$) exoplanet interior structures using our upgraded planetary evolution code, \texttt{APPLE}, which self-consistently couples the thermal and compositional evolution of the whole structure. We incorporate stably stratified regions with convective mixing and, for the first time, ab initio results on the phase separation of silicate-hydrogen mixtures to model silicate rain in sub-Neptune envelopes. We demonstrate that inefficient mantle cooling can retain sufficient heat to Gyr ages: inefficient heat transport from mantle to envelope alone keeps radii $\sim$10\% larger than predicted by adiabatic models at late times. Silicate rain can contribute an additional $\sim$5\% to the radius, depending on envelope mass and initial metal abundance. The silicate-hydrogen immiscibility region may lie in the middle or even upper envelope, far above the envelope-mantle boundary layer, and bifurcates the envelope into two an upper, hydrogen-rich region and a lower, metal-rich region above the mantle. If silicate rain occurs, atmospheres should appear depleted of silicates while radii remain inflated at late ages. To demonstrate this, we present interior evolution models for GJ 1214 b, K2-18 b, TOI-270 d, and TOI-1801 b, showing that hot, liquid silicate mantles with thin envelopes reproduce their radii and mean densities, providing an alternative to water-world interpretations. These results imply that bulk compositions inferred from mean density must account for mantle thermal state and envelope mixing/phase separation history; such thermal ``memories&#x27;&#x27; may constrain formation entropies and temperatures when metallicities are better measured.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Deng,+J">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Deng,+J</a></li>
+<li><a href="https://arxiv.org/html/2601.00059v1">https://arxiv.org/html/2601.00059v1</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Arevalo,+R+T">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Arevalo,+R+T</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Zheng,+D">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Zheng,+D</a></li>
+<li><a href="https://iarxiv.org/about">https://iarxiv.org/about</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Gupta,+A">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Gupta,+A</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/">http://arxiv.org/licenses/nonexclusive-distrib/1.0/</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Burrows,+A">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Burrows,+A</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00059">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] nlin.CD updates on arXiv.org ▶ Topological Vibration Analysis of Elastic Lattices via Bloch Sphere Mapping</title>
+    <link href="https://arxiv.org/abs/2510.11930"/>
+    <id>https://arxiv.org/abs/2510.11930</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2510.11930v2 Announce Type: replace Abstract: Mechanical lattices support topological wave phenomena governed by geometric phases. We develop a compact Hilbert space description for one-dimensio</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a Bloch-sphere-based geometric-phase framework for topological vibrations in engineered elastic lattices, with no substantive connection to origins-of-life, astrobiology, habitability, or biosignatures.</p>
+<p><strong>Abstract:</strong> arXiv:2510.11930v2 Announce Type: replace Abstract: Mechanical lattices support topological wave phenomena governed by geometric phases. We develop a compact Hilbert space description for one-dimensional elastic chains, expressing intra-cell motion as a normalized superposition of orthogonal eigenstates and tracking complex amplitudes as trajectories on a Bloch sphere. For diatomic lattices, this framework makes inversion symmetry protection explicit: the relative phase between in-phase and out-of-phase modes is piecewise locked, and the Zak phase is quantized with band-dependent jumps at symmetry points. Extending the analysis to triatomic lattices shows that restoring inversion retains quantization, whereas breaking it dequantizes the geometric phase while leaving the spectral origin invariant. Viewing norm-preserving transformations of the modal coefficient pair as Bloch sphere rotations, we demonstrate classical analogues of single-qubit logic gates. A pi-phase rotation about a transverse axis swaps the modal poles, and a longitudinal-axis phase flip maps balanced superpositions to their conjugates. These gate-like operations are realized by controlled evolution across wavenumber space and can be driven or reprogrammed through spatiotemporal stiffness modulation. Introducing space-time modulation hybridizes carrier and sideband harmonics, producing continuous phase winding and open-path geometric phases accumulated along the Floquet trajectory. Across static and modulated regimes, the framework unifies algebraic and geometric viewpoints, remains robust to gauge and basis choices, and operates directly on amplitude-phase data. The results clarify how symmetry, modulation, and topology jointly govern dispersion, modal mixing, and phase accumulation, providing tools to analyze and design vibration and acoustic functionalities in engineered structures.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Hasan,+M+A">https://arxiv.org/search/nlin?searchtype=author&amp;query=Hasan,+M+A</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2510.11930">https://doi.org/10.48550/arXiv.2510.11930</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Mahmood,+K+T">https://arxiv.org/search/nlin?searchtype=author&amp;query=Mahmood,+K+T</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2510.11930">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] math.DS updates on arXiv.org ▶ The dynamics of cultural systems</title>
+    <link href="https://arxiv.org/abs/2601.00440"/>
+    <id>https://arxiv.org/abs/2601.00440</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00440v1 Announce Type: cross Abstract: Culture is not just traits but a dynamic system of interdependent beliefs, practices and artefacts embedded in cognitive, social and material structur</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A conceptual model of culture as a self-organizing, coherence-seeking information-processing system with attractor dynamics and algorithmic feedbacks, offering only indirect analogies to evolutionary dynamics relevant to origins-of-life.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00440v1 Announce Type: cross Abstract: Culture is not just traits but a dynamic system of interdependent beliefs, practices and artefacts embedded in cognitive, social and material structures. Culture evolves as these entities interact, generating path dependence, attractor states and tension, with long-term stability punctuated by rapid systemic transformations. Cultural learning and creativity is modelled as coherence-seeking information processing: individuals filter, transform and recombine input in light of prior acquisitions and dissonance reduction, thereby creating increasingly structured worldviews. Higher-order traits such as goals, skills, norms and cognitive gadgets act as emergent metafilters that regulate subsequent selection by defining what counts as coherent. Together, these filtering processes self-organise into epistemic niches, echo chambers, polarised groups and institutions that channel information flows and constrain future evolution. In this view, LLMs and recommender algorithms are products of cultural embeddings that now act back on cultural systems by automated filtering and recombination of information, reshaping future dynamics of cultural systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Jansson,+F">https://arxiv.org/search/physics?searchtype=author&amp;query=Jansson,+F</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/html/2601.00440v1">https://arxiv.org/html/2601.00440v1</a></li>
+<li><a href="https://info.arxiv.org/about">https://info.arxiv.org/about</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00440">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ Evidence for a Nonzero Eccentricity Superpuff Exoplanet WASP-107 b Using JWST Occultation Observation</title>
+    <link href="https://arxiv.org/abs/2601.00640"/>
+    <id>https://arxiv.org/abs/2601.00640</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00640v1 Announce Type: new Abstract: WASP-107~b is an extremely low-density super-puff exoplanet whose inflated radius and evidence of strong internal heating make it a key target for under</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> JWST secondary-eclipse timing combined with transit data constrains WASP-107 b’s eccentricity (e≈0.09), supporting tidal-heating/high-eccentricity migration scenarios that inform exoplanet evolution but are only indirectly relevant to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00640v1 Announce Type: new Abstract: WASP-107~b is an extremely low-density super-puff exoplanet whose inflated radius and evidence of strong internal heating make it a key target for understanding planetary structure and evolution. Its orbital eccentricity is a critical parameter for testing mechanisms such as tidal heating and high-eccentricity migration, yet previous measurements have remained inconclusive. Due to the large radial velocity jitter caused by stellar activity, and the presence of at least one additional planet in the system, previous radial velocity measurements could not robustly determine the eccentricity of WASP-107~b. Here we combine the new JWST secondary eclipse data with transit timing data from HST, TESS, and JWST to measure the eccentricity of WASP-107~b. Our joint analysis shows that WASP-107~b has an eccentricity of $0.09\pm0.02$, a mass of $0.096\pm0.005 \, M_J$, and an orbital period of $5.721487\pm0.000001$~days. We find the $99.7\%$ lower limit of the eccentricity is about 0.04. These new measurements are consistent with the scenario in which WASP-107~b is in the final stage of high-eccentricity migration. Preliminary estimate shows that eccentricity-driven tidal dissipation can provide a significant contribution to the energy required to sustain the observed radius inflation of WASP-107~b. Our results establish the dynamical status of one of the most intriguing low-density exoplanets known, and offer new insights into its formation and evolution history.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Ma,+X">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Ma,+X</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Chen,+D">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Chen,+D</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Zhang,+Z">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Zhang,+Z</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Yu,+C">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Yu,+C</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+<li><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/">http://arxiv.org/licenses/nonexclusive-distrib/1.0/</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Liu,+S">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Liu,+S</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00640">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] nlin.AO updates on arXiv.org ▶ Onsager Condensation in Chiral Active Matter: Universality of Supersonic Topological Gas Dynamics</title>
+    <link href="https://arxiv.org/abs/2512.01884"/>
+    <id>https://arxiv.org/abs/2512.01884</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2512.01884v6 Announce Type: cross Abstract: To explain how dissipative active turbulence sustains inertial cascades, we map overdamped chiral flocks to a compressible vortex gas, realizing super</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A theoretical condensed-matter study mapping overdamped chiral active turbulence to a compressible vortex gas with Mach-cone “acoustic horizons,” offering only indirect origins-of-life relevance via generic links to chirality and fluid/collective dynamics.</p>
+<p><strong>Abstract:</strong> arXiv:2512.01884v6 Announce Type: cross Abstract: To explain how dissipative active turbulence sustains inertial cascades, we map overdamped chiral flocks to a compressible vortex gas, realizing supersonic topological gas dynamics. Here, Mach cones function as acoustic horizons, shielding defect cores from the radiative decay of shallow water flows. Disorder activates a topological heat pump driving an inverse cascade toward a negative-temperature Onsager dipole, unless arrested into a vortex glass. This identifies a universality class unifying active swarms with classical inviscid fluids.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Ivarsen,+M+F">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Ivarsen,+M+F</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://iarxiv.org/about">https://iarxiv.org/about</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://arxiv.org/html/2512.01884v6">https://arxiv.org/html/2512.01884v6</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2512.01884">https://doi.org/10.48550/arXiv.2512.01884</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.01884">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] cs.IT updates on arXiv.org ▶ Evolution of UE in Massive MIMO Systems for 6G: From Passive to Active</title>
+    <link href="https://arxiv.org/abs/2601.00251"/>
+    <id>https://arxiv.org/abs/2601.00251</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00251v1 Announce Type: new Abstract: As wireless networks continue to evolve, stringent latency and reliability requirements and highly dynamic channels expose fundamental limitations of gN</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper focuses on user-equipment evolution in 5G/6G massive MIMO wireless architectures (CSI reporting, beam management, AI/ML processing) and has no direct relevance to origins-of-life, astrobiology, habitability, or biosignatures.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00251v1 Announce Type: new Abstract: As wireless networks continue to evolve, stringent latency and reliability requirements and highly dynamic channels expose fundamental limitations of gNB-centric massive multiple-input multiple-output (mMIMO) architectures, motivating a rethinking of the user equipment (UE) role. In response, the UE is transitioning from a passive transceiver into an active entity that directly contributes to system-level performance. In this context, this article examines the evolving role of the UE in mMIMO systems during the transition from fifth-generation (5G) to sixth-generation (6G), bridging third generation partnership project (3GPP) standardization, device implementation, and architectural innovation. Through a chronological review of 3GPP Releases 15 to 19, we highlight the progression of UE functionalities from basic channel state information (CSI) reporting to artificial intelligence (AI) and machine learning (ML)-based CSI enhancement and UE-initiated beam management. We further examine key implementation challenges, including multi-panel UE (MPUE) architectures, on-device intelligent processing, and energy-efficient operation, and then discuss corresponding architectural innovations under practical constraints. Using digital-twin-based evaluations, we validate the impact of emerging UE-centric functionalities, illustrating that UE-initiated beam reporting improves throughput in realistic mobility scenarios, while a multi-panel architecture enhances link robustness compared with a single-panel UE.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Choi,+J">https://arxiv.org/search/cs?searchtype=author&amp;query=Choi,+J</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Han,+G">https://arxiv.org/search/cs?searchtype=author&amp;query=Han,+G</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Park,+S">https://arxiv.org/search/cs?searchtype=author&amp;query=Park,+S</a></li>
+<li><a href="https://arxiv.org/html/2601.00251v1">https://arxiv.org/html/2601.00251v1</a></li>
+<li><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/">http://arxiv.org/licenses/nonexclusive-distrib/1.0/</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Choi,+H">https://arxiv.org/search/cs?searchtype=author&amp;query=Choi,+H</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00251">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] math-ph updates on arXiv.org ▶ Geometric Complexity of Quantum Channels via Unitary Dilations</title>
+    <link href="https://arxiv.org/abs/2601.00735"/>
+    <id>https://arxiv.org/abs/2601.00735</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00735v1 Announce Type: cross Abstract: Nielsen&#x27;s geometric approach to quantum circuit complexity provides a Riemannian framework for quantifying the cost of implementing unitary (closed--s</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper develops a geometric framework for quantifying the complexity of open-system quantum dynamics via unitary dilations, with no apparent connection to origins-of-life, prebiotic chemistry, biosignatures, or astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00735v1 Announce Type: cross Abstract: Nielsen&#x27;s geometric approach to quantum circuit complexity provides a Riemannian framework for quantifying the cost of implementing unitary (closed--system) dynamics. For open dynamics, however, the reduced evolution is described by quantum channels and admits many inequivalent Stinespring realizations, so any meaningful complexity notion must specify which microscopic resources are counted as accessible and which transformations are regarded as gauge. We introduce and analyze a geometric complexity functional for families of quantum channels based on unitary dilations. We distinguish an implementation-dependent complexity, defined relative to explicit dilation data, from an intrinsic channel complexity obtained by minimizing over a physically motivated class of admissible dilations (e.g. bounded environment dimension, energy or norm constraints, and penalty structures). The functional has a subtractive form: it compares the geometric cost of the total unitary realization with a canonical surrogate term that removes purely environmental contributions. We justify this subtraction from concise postulates, including closed-system consistency, environment-only neutrality, and invariance under dilation gauge transformations that leave the channel unchanged. This leads to a companion quantity, noise complexity, quantifying the loss of geometric complexity relative to a prescribed ideal closed evolution. We establish a coherence-based lower bound for unitary geometric complexity, derive structural properties such as linear time scaling under time-homogeneous dilations, and obtain dissipator--controlled bounds in the Markovian (GKSL/Lindblad) regime under a standard dilation construction. Finally, we illustrate the framework on canonical benchmark noise models, including dephasing, amplitude damping, and depolarizing (Pauli) channels.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Acevedo,+A">https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Acevedo,+A</a></li>
+<li><a href="https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Falc%C3%B3,+A">https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Falc%C3%B3,+A</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00735">https://doi.org/10.48550/arXiv.2601.00735</a></li>
+<li><a href="https://arxiv.org/html/2601.00735v1">https://arxiv.org/html/2601.00735v1</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00735">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] cs.NE updates on arXiv.org ▶ Sequential Reservoir Computing for Efficient High-Dimensional Spatiotemporal Forecasting</title>
+    <link href="https://arxiv.org/abs/2601.00172"/>
+    <id>https://arxiv.org/abs/2601.00172</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00172v1 Announce Type: cross Abstract: Forecasting high-dimensional spatiotemporal systems remains computationally challenging for recurrent neural networks (RNNs) and long short-term memor</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Introduces a sequential reservoir computing architecture for efficient high-dimensional spatiotemporal forecasting, but it has no direct connection to origins-of-life, astrobiology, biosignatures, or habitability topics.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00172v1 Announce Type: cross Abstract: Forecasting high-dimensional spatiotemporal systems remains computationally challenging for recurrent neural networks (RNNs) and long short-term memory (LSTM) models due to gradient-based training and memory bottlenecks. Reservoir Computing (RC) mitigates these challenges by replacing backpropagation with fixed recurrent layers and a convex readout optimization, yet conventional RC architectures still scale poorly with input dimensionality. We introduce a Sequential Reservoir Computing (Sequential RC) architecture that decomposes a large reservoir into a series of smaller, interconnected reservoirs. This design reduces memory and computational costs while preserving long-term temporal dependencies. Using both low-dimensional chaotic systems (Lorenz63) and high-dimensional physical simulations (2D vorticity and shallow-water equations), Sequential RC achieves 15-25% longer valid forecast horizons, 20-30% lower error metrics (SSIM, RMSE), and up to three orders of magnitude lower training cost compared to LSTM and standard RNN baselines. The results demonstrate that Sequential RC maintains the simplicity and efficiency of conventional RC while achieving superior scalability for high-dimensional dynamical systems. This approach provides a practical path toward real-time, energy-efficient forecasting in scientific and engineering applications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wudarski,+F">https://arxiv.org/search/cs?searchtype=author&amp;query=Wudarski,+F</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Venturelli,+D">https://arxiv.org/search/cs?searchtype=author&amp;query=Venturelli,+D</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Strbac,+E">https://arxiv.org/search/cs?searchtype=author&amp;query=Strbac,+E</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Geaney,+S">https://arxiv.org/search/cs?searchtype=author&amp;query=Geaney,+S</a></li>
+<li><a href="https://arxiv.org/html/2601.00172v1">https://arxiv.org/html/2601.00172v1</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Asanjan,+A+A">https://arxiv.org/search/cs?searchtype=author&amp;query=Asanjan,+A+A</a></li>
+<li><a href="https://iarxiv.org/about">https://iarxiv.org/about</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=O&#x27;Connor,+D">https://arxiv.org/search/cs?searchtype=author&amp;query=O&#x27;Connor,+D</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00172">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] cs.NE updates on arXiv.org ▶ Evolutionary Optimization of Physics-Informed Neural Networks: Advancing Generalizability by the Baldwin Effect</title>
+    <link href="https://arxiv.org/abs/2312.03243"/>
+    <id>https://arxiv.org/abs/2312.03243</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2312.03243v4 Announce Type: replace Abstract: Physics-informed neural networks (PINNs) are at the forefront of scientific machine learning, making possible the creation of machine intelligence t</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Introduces a Baldwinian (evolution-inspired) meta-learning framework to evolve physics-informed neural networks that generalize across physics tasks with major gains in accuracy and compute efficiency, but with only indirect relevance to origins-of-life research (primarily as a potential modeling tool).</p>
+<p><strong>Abstract:</strong> arXiv:2312.03243v4 Announce Type: replace Abstract: Physics-informed neural networks (PINNs) are at the forefront of scientific machine learning, making possible the creation of machine intelligence that is cognizant of physical laws and able to accurately simulate them. However, today&#x27;s PINNs are often trained for a single physics task and require computationally expensive re-training for each new task, even for tasks from similar physics domains. To address this limitation, this paper proposes a pioneering approach to advance the generalizability of PINNs through the framework of Baldwinian evolution. Drawing inspiration from the neurodevelopment of precocial species that have evolved to learn, predict and react quickly to their environment, we envision PINNs that are pre-wired with connection strengths inducing strong biases towards efficient learning of physics. A novel two-stage stochastic programming formulation coupling evolutionary selection pressure (based on proficiency over a distribution of physics tasks) with lifetime learning (to specialize on a sampled subset of those tasks) is proposed to instantiate the Baldwin effect. The evolved Baldwinian-PINNs demonstrate fast and physics-compliant prediction capabilities across a range of empirically challenging problem instances with more than an order of magnitude improvement in prediction accuracy at a fraction of the computation cost compared to state-of-the-art gradient-based meta-learning methods. For example, when solving the diffusion-reaction equation, a 70x improvement in accuracy was obtained while taking 700x less computational time. This paper thus marks a leap forward in the meta-learning of PINNs as generalizable physics solvers. Sample codes are available at https://github.com/chiuph/Baldwinian-PINN.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/html/2312.03243v4">https://arxiv.org/html/2312.03243v4</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Dao,+M+H">https://arxiv.org/search/cs?searchtype=author&amp;query=Dao,+M+H</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gupta,+A">https://arxiv.org/search/cs?searchtype=author&amp;query=Gupta,+A</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2312.03243">https://doi.org/10.48550/arXiv.2312.03243</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chiu,+P">https://arxiv.org/search/cs?searchtype=author&amp;query=Chiu,+P</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ong,+Y">https://arxiv.org/search/cs?searchtype=author&amp;query=Ong,+Y</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2312.03243">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ The Solar Neighborhood LV: Spectral Characterization of an Equatorial Sample of 580 K Dwarfs</title>
+    <link href="https://arxiv.org/abs/2601.00462"/>
+    <id>https://arxiv.org/abs/2601.00462</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00462v1 Announce Type: cross Abstract: We present a spectroscopic characterization of 580 K dwarfs within 33 pc, observed with the CHIRON echelle spectrograph (R=80,000) on the SMARTS 1.5m </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> High-resolution spectra of 580 nearby K dwarfs constrain temperature, metallicity, rotation, and youth/activity (Hα, Li, kinematics) to identify a large subset of quiet, mature stars as prime targets for terrestrial exoplanet and habitability-focused surveys in the solar neighborhood.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00462v1 Announce Type: cross Abstract: We present a spectroscopic characterization of 580 K dwarfs within 33 pc, observed with the CHIRON echelle spectrograph (R=80,000) on the SMARTS 1.5m telescope. This volume-limited sample is part of the RKSTAR survey of $\sim$4400 K dwarf primaries within 50 pc. Using Empirical SpecMatch and the diagnostic lines H-alpha (6562.8 Angstrom) and Li I (6707.8 Angstrom), we derive stellar properties, activity status, and age indicators calibrated against 35 benchmark K dwarfs with ages from 20 Myr to 5 Gyr. We find that 7.4% (43 stars) exhibit signatures of youth and/or chromospheric activity: 19 stars show lithium absorption indicating ages $&lt;$1 Gyr, and 36 display H$\alpha$ emission. Kinematic analysis using BANYAN $\Sigma$ identifies 8 additional young stars through membership in the AB Doradus moving group and the Hyades cluster, bringing the total young/active population to 8.8% (51 stars). Stellar parameters span 3600--5500 K in \teff, $-$0.60 to $+$0.55 dex in [Fe/H], and $&lt;$10 to $&gt;$25 km s$^{-1}$ in $v\sin i$. A metal-poor population ([Fe/H] $\leq -$0.50 dex) comprises 4\% of the sample. Galactic kinematics place 80% in the thin disk and 18.4% in the thick disk, with one halo member (HD 134439). Young and active stars are predominantly thin disk members, with two thick disk exceptions. Cross-matching with NASA&#x27;s Exoplanet Archive reveals only 7.5% (44 stars) host confirmed planets as of July 2025. Our results identify 529 mature, inactive K dwarfs as prime targets for terrestrial planet searches, providing a crucial resource for exoplanet habitability studies in the solar neighborhood.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Carrazco-Gaxiola,+S">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Carrazco-Gaxiola,+S</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Paredes,+L+A">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Paredes,+L+A</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00462">https://doi.org/10.48550/arXiv.2601.00462</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Nizak,+A+H">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Nizak,+A+H</a></li>
+<li><a href="https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Jao,+W">https://arxiv.org/search/astro-ph?searchtype=author&amp;query=Jao,+W</a></li>
+<li><a href="https://iarxiv.org/about">https://iarxiv.org/about</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00462">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] cs.IT updates on arXiv.org ▶ Analysis of Semantic Communication for Logic-based Hypothesis Deduction</title>
+    <link href="https://arxiv.org/abs/2508.21755"/>
+    <id>https://arxiv.org/abs/2508.21755</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2508.21755v2 Announce Type: replace Abstract: This work presents an analysis of semantic communication in the context of First-Order Logic (FOL)-based deduction. Specifically, the receiver holds</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Develops an optimal message-selection framework for semantic communication in first-order-logic hypothesis deduction via constrained resource allocation and Bayesian MAP inference, with theoretical guarantees and experiments, but it is not related to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2508.21755v2 Announce Type: replace Abstract: This work presents an analysis of semantic communication in the context of First-Order Logic (FOL)-based deduction. Specifically, the receiver holds a set of hypotheses about the State of the World (SotW), while the transmitter has incomplete evidence about the true SotW but lacks access to the ground truth. The transmitter aims to communicate limited information to help the receiver identify the hypothesis most consistent with true SotW. We formulate the objective as approximating the posterior distribution of the transmitter at the receiver. Using Stirling&#x27;s approximation, this reduces to a constrained, finite-horizon resource allocation problem. Applying the Karush-Kuhn-Tucker conditions yields a truncated water-filling solution. Despite the problem&#x27;s non-convexity, symmetry and permutation invariance ensure global optimality. Based on this, we design message selection strategies, both for single- and multi- round communication, and model the receiver&#x27;s inference as an $m$-ary Bayesian hypothesis testing problem. Under the Maximum A Posteriori (MAP) rule, our communication strategy achieves optimal performance within budget constraints. We further analyze convergence rates and validate the theoretical findings through experiments, demonstrating reduced error over random selection and prior methods.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/html/2508.21755v2">https://arxiv.org/html/2508.21755v2</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Saz,+A+F">https://arxiv.org/search/cs?searchtype=author&amp;query=Saz,+A+F</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://info.arxiv.org/about">https://info.arxiv.org/about</a></li>
+<li><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xiong,+S">https://arxiv.org/search/cs?searchtype=author&amp;query=Xiong,+S</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2508.21755">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] math-ph updates on arXiv.org ▶ Reaction-diffusion systems from kinetic models for bacterial communities on a leaf surface</title>
+    <link href="https://arxiv.org/abs/2501.17192"/>
+    <id>https://arxiv.org/abs/2501.17192</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2501.17192v2 Announce Type: replace-cross Abstract: Many mathematical models for biological phenomena, such as the spread of diseases, are based on reaction-diffusion equations for densities of </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Derives macroscopic reaction–diffusion (including nonlinear and cross-diffusion) equations from kinetic Boltzmann models and applies them to bacterial pattern formation on leaf surfaces via Turing instabilities, with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2501.17192v2 Announce Type: replace-cross Abstract: Many mathematical models for biological phenomena, such as the spread of diseases, are based on reaction-diffusion equations for densities of interacting cell populations. We present a consistent derivation of reaction-diffusion equations from systems of suitably rescaled kinetic Boltzmann equations for distribution functions of cell populations interacting in a host medium. We show at first that the classical diffusive limit of kinetic equations leads to linear diffusion terms only. Then, we show possible strategies in order to obtain, from the kinetic level, macroscopic systems with nonlinear diffusion and also with cross-diffusion effects. The derivation from a kinetic description has the advantage of relating reaction and diffusion coefficients to the microscopic parameters of the interactions. We present an application of our approach to the study of the evolution of different bacterial populations on a leaf surface. Turing instability properties of the relevant macroscopic systems are investigated by analytical methods and numerical tools, with particular emphasis on pattern formation for varying parameters in two-dimensional space domains.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/math?searchtype=author&amp;query=Bisi,+M">https://arxiv.org/search/math?searchtype=author&amp;query=Bisi,+M</a></li>
+<li><a href="https://arxiv.org/search/math?searchtype=author&amp;query=Travaglini,+R">https://arxiv.org/search/math?searchtype=author&amp;query=Travaglini,+R</a></li>
+<li><a href="https://arxiv.org/search/math?searchtype=author&amp;query=Cusseddu,+D">https://arxiv.org/search/math?searchtype=author&amp;query=Cusseddu,+D</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2501.17192">https://doi.org/10.48550/arXiv.2501.17192</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/search/math?searchtype=author&amp;query=Soares,+A+J">https://arxiv.org/search/math?searchtype=author&amp;query=Soares,+A+J</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2501.17192">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] physics.comp-ph updates on arXiv.org ▶ Materials Informatics: Emergence To Autonomous Discovery In The Age Of AI</title>
+    <link href="https://arxiv.org/abs/2601.00742"/>
+    <id>https://arxiv.org/abs/2601.00742</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00742v1 Announce Type: new Abstract: This perspective explores the evolution of materials informatics, from its foundational roots in physics and information theory to its maturation throug</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A perspective on AI-driven materials informatics (Bayesian optimization, RL, transformers/LLMs, and self-driving labs) that is not directly about origins-of-life but could indirectly enable autonomous experimental discovery relevant to prebiotic chemistry and related lab workflows.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00742v1 Announce Type: new Abstract: This perspective explores the evolution of materials informatics, from its foundational roots in physics and information theory to its maturation through artificial intelligence (AI). We trace the field&#x27;s trajectory from early milestones to the transformative impact of the Materials Genome Initiative and the recent advent of large language models (LLMs). Rather than a mere toolkit, we present materials informatics as an evolving ecosystem, reviewing key methodologies such as Bayesian Optimization, Reinforcement Learning, and Transformers that drive inverse design and autonomous self-driving laboratories. We specifically address the practical challenges of LLM integration, comparing specialist versus generalist models and discussing solutions for uncertainty quantification. Looking forward, we assess the transition of AI from a predictive tool to a collaborative research partner. By leveraging active learning and retrieval-augmented generation (RAG), the field is moving toward a new era of autonomous materials science, increasingly characterized by &quot;human-out-of-the-loop&quot; discovery processes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Gao,+Z">https://arxiv.org/search/physics?searchtype=author&amp;query=Gao,+Z</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00742">https://doi.org/10.48550/arXiv.2601.00742</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Liu,+Y">https://arxiv.org/search/physics?searchtype=author&amp;query=Liu,+Y</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Lookman,+T">https://arxiv.org/search/physics?searchtype=author&amp;query=Lookman,+T</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00742">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] q-bio.MN updates on arXiv.org ▶ The Physics of Causation</title>
+    <link href="https://arxiv.org/abs/2601.00515"/>
+    <id>https://arxiv.org/abs/2601.00515</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00515v1 Announce Type: cross Abstract: Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical sc</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Proposes assembly theory as a physics-grounded metrology of causation using assembly index and copy number to define a selective threshold that purportedly demarcates life as persistent high-complexity structures, offering a conceptual framework relevant to origins-of-life and life-detection theory.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00515v1 Announce Type: cross Abstract: Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is quantified with the assembly index, defined as the minimum number of steps necessary for a distinguishable object to exist, where steps are assembled recursively. Observing countable copies of high assembly index objects indicates that a mechanism to produce them is persistent, such that the object&#x27;s environment builds a memory that traps causation within a contingent chain. Copy number and assembly index underlie the standardized metrology for detecting causation (assembly index), and evidence of contingency (copy number). Together, these allow the precise definition of a selective threshold in assembly space, understood as the set of all causal possibilities. This threshold demarcates life (and its derivative agential, intelligent and technological forms) as structures with persistent copies beyond the threshold. In introducing a fundamental concept of material causation to explain and measure life, AT represents a departure from prior theories of causation, such as interventional ones, which have so far proven incompatible with fundamental physics. We discuss how AT&#x27;s concept of causation provides the foundation for a theory of physics where novelty, contingency and the potential for open-endedness are fundamental, and determinism is emergent along assembled lineages.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Walker,+S+I">https://arxiv.org/search/physics?searchtype=author&amp;query=Walker,+S+I</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00515">https://doi.org/10.48550/arXiv.2601.00515</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cronin,+L">https://arxiv.org/search/physics?searchtype=author&amp;query=Cronin,+L</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00515">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] physics.comp-ph updates on arXiv.org ▶ High-Temperature Deformation Behavior of Co-Free Non-Equiatomic CrMnFeNi Alloy</title>
+    <link href="https://arxiv.org/abs/2601.00619"/>
+    <id>https://arxiv.org/abs/2601.00619</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00619v1 Announce Type: cross Abstract: Cobalt-free high-entropy alloys (HEAs) have garnered interest for nuclear structural applications due to their good mechanical performance, thermal st</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper studies high-temperature plastic deformation mechanisms in a cobalt-free CrMnFeNi high-entropy alloy for nuclear structural applications, with no direct relevance to origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00619v1 Announce Type: cross Abstract: Cobalt-free high-entropy alloys (HEAs) have garnered interest for nuclear structural applications due to their good mechanical performance, thermal stability, and resistance to radiation-induced degradation, while avoiding long-lived Co radioisotopes. This study presents an experimental and computational investigation of the plastic deformation behavior of a non-equatomic CrMnFeNi alloy, designed to maintain a stability of fcc phase in a large domain of temperatures and to balance stacking fault (SF) energies for enhanced strain hardening and ductility. Tensile tests reveal a temperature-dependent reduction in mechanical strength, attributed to thermally activated deformation mechanisms and microstructural evolution. Molecular dynamics simulations of single- and polycrystals capture dislocation activity, SF formation, and twin nucleation as a function of strain and temperature. Electron backscatter diffraction (EBSD) confirms twin formation and grain boundary activity. The Schmid factor mapping is drawn to interpret local slip activity and anisotropic deformation behavior. The absence of Co leads to enhanced high-temperature strength compared to the Cantor alloy.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Frelek-Kozak,+M">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Frelek-Kozak,+M</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Jozwik,+I">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Jozwik,+I</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Daramola,+A">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Daramola,+A</a></li>
+<li><a href="https://doi.org/10.1103/gflg-2wmy">https://doi.org/10.1103/gflg-2wmy</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Kurpaska,+L">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Kurpaska,+L</a></li>
+<li><a href="https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Fraczkiewicz,+A">https://arxiv.org/search/cond-mat?searchtype=author&amp;query=Fraczkiewicz,+A</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00619">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] nlin.PS updates on arXiv.org ▶ Self-assembled versus biological pattern formation in geology</title>
+    <link href="https://arxiv.org/abs/2601.00323"/>
+    <id>https://arxiv.org/abs/2601.00323</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00323v1 Announce Type: new Abstract: Both abiotic self-organization and biological mechanisms have been put forward as the origin of a number of geological patterns. It is important to comp</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reviews how abiotic self-organization can mimic biological pattern formation in geological settings, framing diagnostic criteria crucial for interpreting early Earth traces and potential biosignatures in extraterrestrial geology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00323v1 Announce Type: new Abstract: Both abiotic self-organization and biological mechanisms have been put forward as the origin of a number of geological patterns. It is important to comprehend the formation mechanisms of such structures both to understand geological self-organization and in order to differentiate them from biological patterns -- fossils and bio-influenced structures -- seen in geological systems. Being able to distinguish the traces of biological activity from geological self-organization is fundamental both for understanding the origin of life on Earth and for the search for life beyond Earth.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Sainz-D%C3%ADaz,+C+I">https://arxiv.org/search/nlin?searchtype=author&amp;query=Sainz-D%C3%ADaz,+C+I</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Szymczak,+P">https://arxiv.org/search/nlin?searchtype=author&amp;query=Szymczak,+P</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Kotopoulou,+E">https://arxiv.org/search/nlin?searchtype=author&amp;query=Kotopoulou,+E</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Knoll,+P">https://arxiv.org/search/nlin?searchtype=author&amp;query=Knoll,+P</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Neubeck,+A">https://arxiv.org/search/nlin?searchtype=author&amp;query=Neubeck,+A</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Pimentel,+C">https://arxiv.org/search/nlin?searchtype=author&amp;query=Pimentel,+C</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00323">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [23] physics.chem-ph updates on arXiv.org ▶ Fast Ewald Summation with Prolates for Charged Systems in the NPT Ensemble</title>
+    <link href="https://arxiv.org/abs/2601.00161"/>
+    <id>https://arxiv.org/abs/2601.00161</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00161v1 Announce Type: cross Abstract: We present an NPT extension of Ewald summation with prolates (ESP), a spectrally accurate and scalable particle-mesh method for molecular dynamics sim</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Computational physics paper introducing an NPT-consistent, scalable Ewald-summation variant (ESP) for accurate pressures/forces in periodic charged molecular simulations (validated on water, ionic liquids, and membranes), indirectly useful for modeling aqueous prebiotic systems but not an Origins-of-Life study.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00161v1 Announce Type: cross Abstract: We present an NPT extension of Ewald summation with prolates (ESP), a spectrally accurate and scalable particle-mesh method for molecular dynamics simulations of periodic, charged systems. Building on the recently introduced ESP framework, this work focuses on rigorous and thermodynamically consistent pressure/stress evaluation in the isothermal--isobaric ensemble. ESP employs prolate spheroidal wave functions as both splitting and spreading kernels, reducing the Fourier grid size needed to reach a prescribed pressure accuracy compared with current widely used mesh-Ewald methods based on Gaussian splitting and B-spline spreading. We derive a unified pressure-tensor formulation applicable to isotropic, semi-isotropic, anisotropic, and fully flexible cells, and show that the long-range pressure can be evaluated with a single forward FFT followed by diagonal scaling, whereas force evaluation requires both forward and inverse transforms. We provide production implementations in LAMMPS and GROMACS and validate pressure and force accuracy on bulk water, LiTFSI ionic liquids, and a transmembrane system. Benchmarks on up to $3\times 10^3$ CPU cores demonstrate strong scaling and reduced communication cost at matched accuracy, particularly for NPT pressure evaluation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/math?searchtype=author&amp;query=Lu,+L">https://arxiv.org/search/math?searchtype=author&amp;query=Lu,+L</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/html/2601.00161v1">https://arxiv.org/html/2601.00161v1</a></li>
+<li><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/">http://arxiv.org/licenses/nonexclusive-distrib/1.0/</a></li>
+<li><a href="https://arxiv.org/search/math?searchtype=author&amp;query=Liang,+J">https://arxiv.org/search/math?searchtype=author&amp;query=Liang,+J</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00161">https://doi.org/10.48550/arXiv.2601.00161</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/search/math?searchtype=author&amp;query=Jiang,+S">https://arxiv.org/search/math?searchtype=author&amp;query=Jiang,+S</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00161">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] q-bio.PE updates on arXiv.org ▶ Modeling Epidemic Dynamics of Mutant Strains with Evolutionary Game-based Vaccination Behavior</title>
+    <link href="https://arxiv.org/abs/2601.00757"/>
+    <id>https://arxiv.org/abs/2601.00757</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00757v1 Announce Type: new Abstract: The outbreak of mutant strains and vaccination behaviors have been the focus of recent epidemiological research, but most existing epidemic models faile</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Uses evolutionary game theory coupled to an extended SIRS epidemic model to study how vaccination behavior affects outbreaks involving mutant viral strains, with little direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00757v1 Announce Type: new Abstract: The outbreak of mutant strains and vaccination behaviors have been the focus of recent epidemiological research, but most existing epidemic models failed to simultaneously capture viral mutation and consider the complexity and behavioral dynamics of vaccination. To address this gap, we develop an extended SIRS model that distinguishes infections with the original strain and a mutant strain, and explicitly introduces a vaccinated compartment state. At the behavioral level, we employ evolutionary game theory to model individual vaccination decisions, where strategies are determined by both neighbors&#x27; choices and the current epidemiological situation. This process corresponds to the time-varying vaccination rate of susceptible individuals transitioning to vaccinated individuals at the epidemic spreading level. We then couple the epidemic and vaccination behavioral processes through the microscopic Markov chain approach (MMCA) and finally investigate the evolutionary dynamics via numerical simulations. The results show that our framework can effectively mitigate outbreaks across different disease scenarios. Sensitivity analysis further reveals that vaccination uptake is most strongly influenced by vaccine cost, efficacy, and perceived risk of side effects. Overall, this behavior-aware modeling framework captures the co-evolution of viral mutation and vaccination behavior, providing quantitative and theoretical support for designing effective public health vaccination policies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Huang,+G">https://arxiv.org/search/q-bio?searchtype=author&amp;query=Huang,+G</a></li>
+<li><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Feng,+M">https://arxiv.org/search/q-bio?searchtype=author&amp;query=Feng,+M</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00757">https://doi.org/10.48550/arXiv.2601.00757</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Li,+Q">https://arxiv.org/search/q-bio?searchtype=author&amp;query=Li,+Q</a></li>
+<li><a href="http://arxiv.org/licenses/nonexclusive-distrib/1.0/">http://arxiv.org/licenses/nonexclusive-distrib/1.0/</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://arxiv.org/search/q-bio?searchtype=author&amp;query=Li,+Y">https://arxiv.org/search/q-bio?searchtype=author&amp;query=Li,+Y</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00757">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] q-bio.PE updates on arXiv.org ▶ The Physics of Causation</title>
+    <link href="https://arxiv.org/abs/2601.00515"/>
+    <id>https://arxiv.org/abs/2601.00515</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00515v1 Announce Type: cross Abstract: Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical sc</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Proposes assembly theory as a physics-based metrology of causation using assembly index and copy number to define a quantitative threshold for identifying life-like structures and persistent selection, offering broad conceptual relevance to origins-of-life and life detection rather than direct prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00515v1 Announce Type: cross Abstract: Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is quantified with the assembly index, defined as the minimum number of steps necessary for a distinguishable object to exist, where steps are assembled recursively. Observing countable copies of high assembly index objects indicates that a mechanism to produce them is persistent, such that the object&#x27;s environment builds a memory that traps causation within a contingent chain. Copy number and assembly index underlie the standardized metrology for detecting causation (assembly index), and evidence of contingency (copy number). Together, these allow the precise definition of a selective threshold in assembly space, understood as the set of all causal possibilities. This threshold demarcates life (and its derivative agential, intelligent and technological forms) as structures with persistent copies beyond the threshold. In introducing a fundamental concept of material causation to explain and measure life, AT represents a departure from prior theories of causation, such as interventional ones, which have so far proven incompatible with fundamental physics. We discuss how AT&#x27;s concept of causation provides the foundation for a theory of physics where novelty, contingency and the potential for open-endedness are fundamental, and determinism is emergent along assembled lineages.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Walker,+S+I">https://arxiv.org/search/physics?searchtype=author&amp;query=Walker,+S+I</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00515">https://doi.org/10.48550/arXiv.2601.00515</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cronin,+L">https://arxiv.org/search/physics?searchtype=author&amp;query=Cronin,+L</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00515">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] physics.chem-ph updates on arXiv.org ▶ Multistep quantum master equation theory for response functions in four wave mixing electronic spectroscopy of multichromophoric macromolecules</title>
+    <link href="https://arxiv.org/abs/2601.00431"/>
+    <id>https://arxiv.org/abs/2601.00431</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00431v1 Announce Type: cross Abstract: This work provides an alternative derivation of third order response functions in four wave mixing spectroscopy of multichromophoric macromolecular sy</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Develops a quantum master equation framework for computing third-order four-wave-mixing response functions in multichromophoric macromolecules, improving theoretical interpretation of 2D electronic spectroscopy but with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00431v1 Announce Type: cross Abstract: This work provides an alternative derivation of third order response functions in four wave mixing spectroscopy of multichromophoric macromolecular systems considering only single exciton states. For the case of harmonic oscillator bath linearly and diagonally coupled to exciton states, closed form expressions showing all the explicit time dependences are derived. These expressions can provide more solid physical basis for understanding 2-dimensional electronic spectroscopy signals. For more general cases of system-bath coupling, the quantum master equation (QME) approach is employed for the derivation of multistep time evolution equations for Green function-like operators. Solution of these equations is feasible at the level of 2nd order non-Markovian QME, and the new approach can account for inter-exciton coupling, dephasing, relaxation, and non-Markovian effects in a consistent manner.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00431">https://doi.org/10.48550/arXiv.2601.00431</a></li>
+<li><a href="https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Jang,+S+J">https://arxiv.org/search/quant-ph?searchtype=author&amp;query=Jang,+S+J</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/html/2601.00431v1">https://arxiv.org/html/2601.00431v1</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://doi.org/10.5012/bkcs.2012.33.3.997">https://doi.org/10.5012/bkcs.2012.33.3.997</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00431">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] physics.bio-ph updates on arXiv.org ▶ The Physics of Causation</title>
+    <link href="https://arxiv.org/abs/2601.00515"/>
+    <id>https://arxiv.org/abs/2601.00515</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00515v1 Announce Type: cross Abstract: Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical sc</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This paper advances Assembly Theory as a physics-grounded, quantitative framework for causation using assembly index and copy number to define a selective threshold that operationally distinguishes life and supports open-ended evolution/detectability.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00515v1 Announce Type: cross Abstract: Assembly theory (AT) introduces a concept of causation as a material property, constitutive of a metrology of evolution and selection. The physical scale for causation is quantified with the assembly index, defined as the minimum number of steps necessary for a distinguishable object to exist, where steps are assembled recursively. Observing countable copies of high assembly index objects indicates that a mechanism to produce them is persistent, such that the object&#x27;s environment builds a memory that traps causation within a contingent chain. Copy number and assembly index underlie the standardized metrology for detecting causation (assembly index), and evidence of contingency (copy number). Together, these allow the precise definition of a selective threshold in assembly space, understood as the set of all causal possibilities. This threshold demarcates life (and its derivative agential, intelligent and technological forms) as structures with persistent copies beyond the threshold. In introducing a fundamental concept of material causation to explain and measure life, AT represents a departure from prior theories of causation, such as interventional ones, which have so far proven incompatible with fundamental physics. We discuss how AT&#x27;s concept of causation provides the foundation for a theory of physics where novelty, contingency and the potential for open-endedness are fundamental, and determinism is emergent along assembled lineages.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Walker,+S+I">https://arxiv.org/search/physics?searchtype=author&amp;query=Walker,+S+I</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://status.arxiv.org">https://status.arxiv.org</a></li>
+<li><a href="https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer">https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer</a></li>
+<li><a href="https://arxiv.org/login">https://arxiv.org/login</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.00515">https://doi.org/10.48550/arXiv.2601.00515</a></li>
+<li><a href="https://arxiv.org/search/physics?searchtype=author&amp;query=Cronin,+L">https://arxiv.org/search/physics?searchtype=author&amp;query=Cronin,+L</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00515">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [80] q-bio.PE updates on arXiv.org ▶ Self-assembled versus biological pattern formation in geology</title>
+    <link href="https://arxiv.org/abs/2601.00323"/>
+    <id>https://arxiv.org/abs/2601.00323</id>
+    <updated>2026-01-05T05:00:00Z</updated>
+    <summary>arXiv:2601.00323v1 Announce Type: cross Abstract: Both abiotic self-organization and biological mechanisms have been put forward as the origin of a number of geological patterns. It is important to co</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reviews how abiotic self-organization can mimic biological pattern formation in geological settings, outlining criteria important for distinguishing true biosignatures relevant to Earth’s early life record and life detection beyond Earth.</p>
+<p><strong>Abstract:</strong> arXiv:2601.00323v1 Announce Type: cross Abstract: Both abiotic self-organization and biological mechanisms have been put forward as the origin of a number of geological patterns. It is important to comprehend the formation mechanisms of such structures both to understand geological self-organization and in order to differentiate them from biological patterns -- fossils and bio-influenced structures -- seen in geological systems. Being able to distinguish the traces of biological activity from geological self-organization is fundamental both for understanding the origin of life on Earth and for the search for life beyond Earth.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Sainz-D%C3%ADaz,+C+I">https://arxiv.org/search/nlin?searchtype=author&amp;query=Sainz-D%C3%ADaz,+C+I</a></li>
+<li><a href="https://arxiv.org/search/advanced">https://arxiv.org/search/advanced</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Szymczak,+P">https://arxiv.org/search/nlin?searchtype=author&amp;query=Szymczak,+P</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Kotopoulou,+E">https://arxiv.org/search/nlin?searchtype=author&amp;query=Kotopoulou,+E</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Knoll,+P">https://arxiv.org/search/nlin?searchtype=author&amp;query=Knoll,+P</a></li>
+<li><a href="https://info.arxiv.org/labs/index.html">https://info.arxiv.org/labs/index.html</a></li>
+<li><a href="https://info.arxiv.org/help">https://info.arxiv.org/help</a></li>
+<li><a href="https://arxiv.org/">https://arxiv.org/</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Neubeck,+A">https://arxiv.org/search/nlin?searchtype=author&amp;query=Neubeck,+A</a></li>
+<li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Pimentel,+C">https://arxiv.org/search/nlin?searchtype=author&amp;query=Pimentel,+C</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.00323">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] Astrobiology (astrobiology.com) ▶ Tricorder Tech For Everyone: NASA’s STELLA Open Science Instrument</title>
     <link href="https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html"/>
