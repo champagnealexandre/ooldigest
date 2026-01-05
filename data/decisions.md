@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Author Correction: <i>Leishmania</i> RNA virus exacerbates L](https://www.nature.com/articles/s41467-025-67433-w) |
+| ai_scored | 50 | [The ambitious plan to spot habitable moons around giant plan](https://phys.org/news/2026-01-ambitious-habitable-moons-giant-planets.html) |
+| ai_scored | 15 | [Efflux pump regulation and metabolic rewiring define the cei](https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1) |
+| ai_scored | 5 | [Ultramassive black holes and their galaxies: A matter of sca](https://phys.org/news/2026-01-ultramassive-black-holes-galaxies-scale.html) |
+| ai_scored | 25 | [Astrobiologist Dale Andersen’s Antarctic Field Report: 5 Jan](https://astrobiology.com/2026/01/astrobiologist-dale-andersens-antarctic-field-report-5-january-2026-preparing-to-leave-cape-town-for-the-ice.html) |
+| keyword_rejected | - | [Longest-Ever Look at Stormy Region on the Sun Offers New Clu](https://www.scientificamerican.com/article/longest-ever-look-at-stormy-region-on-the-sun-offers-new-clues-to-space/) |
+| keyword_rejected | - | [La neige perturbe le trafic dans l'ouest de la France, 26 dé](https://www.sciencesetavenir.fr/nature-environnement/la-neige-perturbe-le-trafic-dans-l-ouest-de-la-france-26-departements-en-vigilance-orange_190282?xtor=RSS-15) |
+| keyword_rejected | - | [Correction: SF3B4 downregulation restrains lung adenocarcino](https://www.nature.com/articles/s41598-025-33009-3) |
+| keyword_rejected | - | [Author Correction: Estimating health and economic burden of ](https://www.nature.com/articles/s41598-025-31519-8) |
+| keyword_rejected | - | [XRISM gives sharpest-ever glimpse at growth of a rapidly-spi](https://phys.org/news/2026-01-xrism-sharpest-glimpse-growth-rapidly.html) |
+| keyword_rejected | - | [PRADA-DTI: A Prototype-Retrieval Augmented Domain-Adaptation](https://www.biorxiv.org/content/10.64898/2026.01.05.697600v1?rss=1) |
+| keyword_rejected | - | [BiomeGPT: A foundation model for the human gut microbiome](https://www.biorxiv.org/content/10.64898/2026.01.05.697599v1?rss=1) |
+| keyword_rejected | - | [Large-scale Visuomotor Reaction Time Self-Testing Reveals Su](https://www.biorxiv.org/content/10.64898/2026.01.02.697425v1?rss=1) |
 | keyword_rejected | - | [L'astronaute Sophie Adenot veut "repousser" ses "limites" pe](https://www.sciencesetavenir.fr/sciences/l-astronaute-sophie-adenot-veut-repousser-ses-limites-pendant-sa-mission-sur-l-iss_190279?xtor=RSS-18) |
 | keyword_rejected | - | [Francis Hallé : "Les arbres ne sont pas programmés pour mour](https://www.sciencesetavenir.fr/nature-environnement/plantes-et-vegetaux/francis-halle-les-arbres-ne-sont-pas-programmes-pour-mourir_190278?xtor=RSS-15) |
 | keyword_rejected | - | [Measuring and locating the changes in protein structure usin](https://www.nature.com/articles/s41467-025-68110-8) |

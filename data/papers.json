@@ -1,5 +1,178 @@
 [
   {
+    "title": "Astrobiologist Dale Andersen\u2019s Antarctic Field Report: 5 January 2026: Preparing to Leave Cape Town For The Ice",
+    "summary": "<p>Keith The team and all of our gear and cargo made it to Cape Town, which feels especially welcoming right now\u2014warm, bright, and easy to settle into. Over Table Mountain, a steady cap cloud drifts to the edge and spills down like a soft waterfall, then thins and vanishes as it warms while descending. And [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/astrobiologist-dale-andersens-antarctic-field-report-5-january-2026-preparing-to-leave-cape-town-for-the-ice.html\">Astrobiologist Dale Andersen&#8217;s Antarctic Field Report: 5 January 2026: Preparing to Leave Cape Town For The Ice</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/astrobiologist-dale-andersens-antarctic-field-report-5-january-2026-preparing-to-leave-cape-town-for-the-ice.html",
+    "published_date": "2026-01-05T17:37:26Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "water",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "A narrative Antarctic expedition field-update about logistics and departure from Cape Town, offering general astrobiology context but no direct origins-of-life, prebiotic chemistry, or biosignature science content."
+    }
+  },
+  {
+    "title": "Ultramassive black holes and their galaxies: A matter of scale",
+    "summary": "Nearly every galaxy has a supermassive black hole in its core. Whether the black hole forms first and then the galaxy around it\u2014or the other way around\u2014is still a matter of some debate, but we know the evolution of both are deeply connected. We can use that relationship to study the black holes.",
+    "url": "https://phys.org/news/2026-01-ultramassive-black-holes-galaxies-scale.html",
+    "published_date": "2026-01-05T17:58:46Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "Discusses scaling relationships between ultramassive black holes and their host galaxies, with no direct connection to origins-of-life or astrobiological chemistry beyond a generic mention of evolution."
+    }
+  },
+  {
+    "title": "Efflux pump regulation and metabolic rewiring define the ceiling of efflux-mediated drug resistance in Mycobacteria",
+    "summary": "Multidrug-resistant efflux pumps play a critical role in antimicrobial resistance, yet the physiological limits of their overexpression remain poorly understood. While gene amplifications and regulatory mutations commonly drive this overexpression, these pumps remain transcriptionally inactive under normal cellular conditions due to their high energetic cost, making it challenging to assess their full impact on resistance evolution and the maximum attainable minimum inhibitory concentration (MIC). To delineate the extent and spectrum of efflux-based resistance, we subjected Mycobacterium smegmatis mc{superscript 2}155(Msm) wild-type and efflux pump-deleted strains ({Delta}lfrA and {Delta}efpA) to adaptive laboratory evolution in the presence of a broad-spectrum efflux substrate ethidium bromide (EtBr). Despite prolonged selection, resistance plateaued at 8-16x MIC, revealing an intrinsic ceiling to efflux-based adaptation. Evolved populations integrated multiple layers of adaptation: enhanced efflux kinetics, reduced intracellular EtBr accumulation, and mutations spanning global regulators, ribosomal genes, and membrane components. Notably, deletion of specific pumps ({Delta}lfrA) triggered compensatory upregulation of alternative efflux systems, highlighting functional redundancy. Beyond efflux activation, evolved strains exhibited metabolic reprogramming, including downregulation of the tricarboxylic acid cycle and upregulation of lipid biosynthesis and {beta}-oxidation, which altered NAD+/NADH homeostasis and membrane potential. Extending this adaptive evolution approach to Mycobacterium tuberculosis H37Ra (Mtb)demonstrated that these adaptive constraints and metabolic alterations are conserved across mycobacterial species. Together, these results uncover fundamental limits to efflux evolution and reveal how bacteria integrate regulatory and metabolic plasticity to maximize drug resistance. Targeting these interconnected networks may offer a powerful strategy to contain the rise of multidrug resistance.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "systems biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Adaptive evolution in Mycobacteria under ethidium bromide selection reveals a hard ceiling on efflux-mediated drug resistance driven by regulatory changes and conserved metabolic rewiring, but it has limited direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "The ambitious plan to spot habitable moons around giant planets",
+    "summary": "So far, humanity has yet to find its first \"exomoon\"\u2014a moon orbiting a planet outside of the solar system. But that hasn't been for lack of trying. According to a new paper by Thomas Winterhalder of the European Southern Observatory and his co-authors, which is available on the arXiv preprint server, the reason isn't because those moons don't exist, but simply because we lack the technology to detect them. They propose a new \"kilometric baseline interferometer\" that can detect moons as small as Earth up to 200 parsecs (652 light years) away.",
+    "url": "https://phys.org/news/2026-01-ambitious-habitable-moons-giant-planets.html",
+    "published_date": "2026-01-05T17:36:34Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Proposes a kilometric-baseline interferometer concept to directly detect Earth-sized exomoons (potentially habitable) around giant exoplanets out to ~200 pc, advancing future habitability target discovery rather than origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Author Correction: <i>Leishmania</i> RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediated NLRP3 inflammasome inhibition",
+    "summary": "<p>Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67433-w\">doi:10.1038/s41467-025-67433-w</a></p>Author Correction: <i>Leishmania</i> RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediated NLRP3 inflammasome inhibition",
+    "url": "https://www.nature.com/articles/s41467-025-67433-w",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-67433-w"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "Author correction to a Nature Communications study reporting that a Leishmania RNA virus worsens leishmaniasis by dampening innate immunity through TLR3-mediated inhibition of the NLRP3 inflammasome."
+    }
+  },
+  {
+    "title": "Large-scale Visuomotor Reaction Time Self-Testing Reveals Subtle Motor Changes in Older Adults with Subjective Cognitive Impairment",
+    "summary": "Introduction: Affordable tools for early Alzheimer's disease (AD) detection could support drug development and early intervention. Subtle motor changes may indicate preclinical AD, but hand response selection and initiation speeds are understudied. This study assessed whether unsupervised, online visuomotor reaction time (RT) tests relate to subjective cognitive impairment (SCI), a validated high risk state for future conversion to AD Methods: A total of 910 participants (age 66.3 +/- 7.5, 70.8% female) completed assessments of simple and choice visuomotor RT tests at home as part of the online TAS Test protocol; they also completed the Cambridge Neuropsychological Test Automated Battery (CANTAB) episodic memory and executive function tests. Among them, 142 participants reported SCI. Results: On the TAS Test visuomotor tests, SCI was associated with 8.4% [1.4%, 15.4%] longer RT ( (p = .008; adjusted for task complexity), greater odds of time-out failure (OR = 1.35 [1.01, 1.81]; p = .037), and greater variance in RT (log-variance (SCI - comparison) = .094 [.028, .159]; p < .001). There were no significant differences between the SCI and comparison groups on any of the CANTAB tests. After adjusting for SCI status, none of the CANTAB tests were significantly associated with RT. Discussion: SCI was associated with longer and more variable visuomotor RT, and greater odds of time-out failure, while not being associated with tests of memory and executive function. Cognitive test scores did not explain a significant amount of variance in visuomotor RT. Taken together, these results support a hypothesis that people with SCI may be experiencing earlier visuomotor deficits that are distinct from (or precede) decline in episodic memory and executive function. Visuomotor tasks that record RT may be more sensitive to preclinical manifestations of cognitive decline than more traditional tests of cognitive function.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.02.697425v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "BiomeGPT: A foundation model for the human gut microbiome",
+    "summary": "The human gut microbiome encodes rich information about host health, yet current analysis pipelines remain narrowly optimized for individual tasks. This limits our ability to gain a thorough view of how the microbiome impacts health and disease. Here we introduce BiomeGPT, a transformer-based foundation model pretrained on over 13,300 human gut metagenomes spanning 32 phenotypes, including healthy and 31 diverse diseases, to learn context-aware, species-level gut microbiome representations. The model captures quantitative compositional structure and intricate cross-species dependencies embedded within community profiles. When fine-tuned for predicting host health status, BiomeGPT accurately distinguishes healthy from diseased microbiomes and resolves individual disease states across a broad clinical spectrum. Furthermore, its attention patterns reveal biologically plausible microbial signatures, highlighting both shared and disease-specific microbial species linked to host phenotypes. By providing a unified, scalable framework for species-level gut microbiome representation learning and prediction, BiomeGPT enables new avenues for biomarker discovery, disease stratification, and microbiome-driven precision medicine.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697599v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "PRADA-DTI: A Prototype-Retrieval Augmented Domain-Adaptation Framework for Drug-Target Interaction Prediction",
+    "summary": "Drug target interaction (DTl) prediction is a fundamental task in computational drug discovery. However, most existing DTI models assume a static learning environment, whereas real-world biomedical data are dynamic, characterized by the continuous emergence of new protein families and interaction patterns. This poses major challenges for model generalization and continual adaptation, especially under privacy and data-access constraints. To address these issues, we introduce PRADA-DTI, a retrieval-augmented, parameter-efficient framework for domain-incremental DTI learning. Built on a shared physicochemical backbone, PRADADTI learns domain-specialized prompts for representation-level modulation, coupled with LowRank Adaptation (LoRA) modules for parameter-space adaptation. At inference, protein embeddings query a compact prototype memory without storing raw molecular data, retrieving similar domains to dynamically compose the relevant prompts and LoRA parameters without requiring domain labels. This retrieval-guided composition enables continual learning from new protein domains while mitigating catastrophic forgetting on previous ones. On BindingDB and BIOSNAP benchmarks, PRADA-DTI substantially outperforms state-of-the-art continual learning and parameter-efficient baselines in both predictive accuracy and forgetting mitigation with minimal parameter updates. Interpretability analysis through residue-level attribution visualization demonstrates that the model correctly attends to binding pocket regions across different protein domains, confirming that the retrieval-guided adaptation mechanism captures biologically relevant structural patterns. These results demonstrate the effectiveness of retrieval augmented parameter adaptation for continual drug discovery.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697600v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "XRISM gives sharpest-ever glimpse at growth of a rapidly-spinning black hole",
+    "summary": "Astronomers have obtained the sharpest-ever X-ray spectrum of an iconic active galaxy, providing the most accurate, precise view ever obtained of the extreme relativistic effects imprinted onto the spacetime around a supermassive black hole.",
+    "url": "https://phys.org/news/2026-01-xrism-sharpest-glimpse-growth-rapidly.html",
+    "published_date": "2026-01-05T17:43:50Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Author Correction: Estimating health and economic burden of PM<sub>10</sub> pollution in Agra, India using AirQ+\u2009and VSL approaches",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-31519-8\">doi:10.1038/s41598-025-31519-8</a></p>Author Correction: Estimating health and economic burden of PM<sub>10</sub> pollution in Agra, India using AirQ+\u2009and VSL approaches",
+    "url": "https://www.nature.com/articles/s41598-025-31519-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Correction: SF3B4 downregulation restrains lung adenocarcinoma tumorigenesis via 5\u2032 alternative splicing of KAT2A",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33009-3\">doi:10.1038/s41598-025-33009-3</a></p>Correction: SF3B4 downregulation restrains lung adenocarcinoma tumorigenesis via 5\u2032 alternative splicing of KAT2A",
+    "url": "https://www.nature.com/articles/s41598-025-33009-3",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "La neige perturbe le trafic dans l'ouest de la France, 26 d\u00e9partements en vigilance orange",
+    "summary": "La neige tomb\u00e9e en abondance lundi sur l'ouest de la France a provoqu\u00e9 d'importantes perturbations routi\u00e8res, particuli\u00e8rement en Normandie, plac\u00e9e en vigilance orange pour neige-verglas comme la Bretagne et l'Ile-de-France.\nElle a \u00e9galement des cons\u00e9quences sur le transport a\u00e9rien, les compagnies devant r\u00e9duire de 15% le nombre de leurs vols dans les a\u00e9roports parisiens de Paris-Charles-de-Gaulle et Orly, a annonc\u00e9 le ministre des Transports Philippe Tabarot.\nDes mesures n\u00e9cessaires pour permettre les op\u00e9rations de d\u00e9neigement et de pr\u00e9paration des appareils.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/la-neige-perturbe-le-trafic-dans-l-ouest-de-la-france-26-departements-en-vigilance-orange_190282?xtor=RSS-15",
+    "published_date": "2026-01-05T17:58:20Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Longest-Ever Look at Stormy Region on the Sun Offers New Clues to Space Weather",
+    "summary": "<p>Scientists observed an active region on the sun for a record 94 days, marking a &ldquo;milestone for solar physics&rdquo;</p>",
+    "url": "https://www.scientificamerican.com/article/longest-ever-look-at-stormy-region-on-the-sun-offers-new-clues-to-space/",
+    "published_date": "2026-01-05T16:40:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Female moths incorporate plant acoustic emissions into their oviposition decision-making process",
     "summary": "Insects rely on plants\u2019 visual, chemical, tactile, and electrical cues when making various decisions. A recent study demonstrated that dehydrated plants emit ultrasonic sounds within the auditory sensitivity range of many moth species. In this study, we sought to determine whether insects also rely on plant acoustic signals when making decisions. We investigated whether female moths rely on ultrasonic clicks which are typically produced by dehydrated plants when deciding where to oviposit. In the absence of an actual plant, the moths indeed preferred to lay their eggs in proximity to acoustic signals which represent dehydrating plants. Tracking the moths\u2019 behavior prior to the decision showed that they examined both sides of the arena and gradually spent more time on the acoustic-playback side. Interestingly, when actual plants were added to the arena, the oviposition preference was reversed and the moths preferred silent plants, which is in accordance with their a priori preference for hydrated plants. Deafening the moths eliminated their preference, confirming that the choice was based on hearing. Moreover, the presence of male moths, including their auditory signals, did not affect their oviposition decision, suggesting that the response was specific to plant sound emissions. We reveal evidence for a first acoustic interaction between moths and plants, but as plants emit various sounds, our findings hint at the existence of more currently unknown insect-plant acoustic interactions.",
     "url": "https://elifesciences.org/articles/104700",
