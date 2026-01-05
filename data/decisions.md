@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [CNOT10 is involved in TTP-mediated AU-rich element containin](https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1) |
+| ai_scored | 60 | [Thin ice may have protected lake water on frozen Mars](https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html) |
+| ai_scored | 45 | [Nucleotide diversity is a poor predictor of short-term adapt](https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1) |
+| keyword_rejected | - | [U.S. Axes Number of Recommended Childhood Vaccines in Blow t](https://www.scientificamerican.com/article/u-s-axes-number-of-recommended-childhood-vaccines-in-blow-to-public-health/) |
+| keyword_rejected | - | [Wegovy Weight-Loss Pills Hit U.S. Pharmacies—Costs and Treat](https://www.scientificamerican.com/article/wegovy-weight-loss-pills-hit-u-s-pharmacies-costs-and-treatments-explained/) |
+| keyword_rejected | - | [Betelgeuse's elusive companion star: Siwarha's 'wake' detect](https://phys.org/news/2026-01-betelgeuse-elusive-companion-star-siwarha.html) |
+| keyword_rejected | - | [A multiscale topology optimization design framework with dat](https://www.nature.com/articles/s41598-025-34920-5) |
+| keyword_rejected | - | [Inversions support both parallel and location-specific adapt](https://www.biorxiv.org/content/10.64898/2026.01.05.697708v1?rss=1) |
+| keyword_rejected | - | [MCBO: Mammalian Cell Bioprocessing Ontology, A Hub-and-Spoke](https://www.biorxiv.org/content/10.64898/2026.01.05.697007v1?rss=1) |
 | ai_scored | 15 | [Microbes may hold the key to brain evolution](https://phys.org/news/2026-01-microbes-key-brain-evolution.html) |
 | ai_scored | 50 | [Surface tension enhancement in nanoconfined water: The role ](http://link.aps.org/doi/10.1103/fmnj-d2gy) |
 | keyword_rejected | - | [Stunningly Hot Galaxy Cluster Puts New Spin on How These Cos](https://www.scientificamerican.com/article/stunningly-hot-galaxy-cluster-puts-new-spin-on-how-these-cosmic-behemoths/) |

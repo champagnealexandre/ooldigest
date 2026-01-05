@@ -1,5 +1,125 @@
 [
   {
+    "title": "Nucleotide diversity is a poor predictor of short-term adaptive potential",
+    "summary": "A capacity to adapt is essential for a population to avoid extinction in a changing world and is recognised as a global conservation priority. Adaptation requires additive (heritable) genetic variation for traits that influence survival and fecundity, but measuring this variation is difficult, particularly in species of conservation concern. Instead, molecular genetic diversity is often used to infer adaptive potential. However, previous research has cast doubt on the suitability of traditional molecular markers (allozymes and microsatellites) for this purpose given their weak relationship with heritability - a common measure of additive genetic variance. Recent advances in sequencing technology have since shifted focus towards nucleotide diversity and variation in functional regions, but their practicality for predicting adaptive potential remains debated and untested. Furthermore, heritability itself is a poor proxy for adaptive potential because it depends on environmental variance. We collated 2,113 published estimates of evolvability - a measure of additive genetic variance that avoids environmental confounding - across 193 eukaryotic species, and evaluated how well evolvability is predicted by molecular diversity. We find that microsatellite and nucleotide diversity are not significantly correlated to each other, and neither predict evolvability (nucleotide diversity explains 0.7% of interspecific differences in evolvability and doubling nucleotide diversity only corresponds to a 9.2% increase in evolvability). With new theoretical work, we show that such weak associations are expected. Together, our results suggest that simple molecular measures of genetic variation are insufficient for predicting adaptive potential and continued reliance on these metrics risks misinforming conservation management.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1"
+    ],
+    "matched_keywords": [
+      "eukaryo*"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "A large comparative analysis across eukaryotes shows that nucleotide diversity (and microsatellite diversity) poorly predicts short-term adaptive potential (evolvability), cautioning against using simple molecular diversity metrics as proxies for adaptation-relevant genetic variance."
+    }
+  },
+  {
+    "title": "Thin ice may have protected lake water on frozen Mars",
+    "summary": "Small lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing.",
+    "url": "https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html",
+    "published_date": "2026-01-05T21:57:38Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "water",
+      "mars",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Modeling suggests thin ice cover could have insulated small ancient Martian lakes enough to keep liquid water stable for decades despite subfreezing mean air temperatures, increasing localized habitability potential."
+    }
+  },
+  {
+    "title": "CNOT10 is involved in TTP-mediated AU-rich element containing mRNA metabolism, independent of mRNA decay regulation",
+    "summary": "Tristetraprolin (TTP)/ ZFP36 is an RNA binding protein that is involved in the turnover regulation of target adenylate-uridylate-rich RNA element (ARE) containing mRNAs. AREs are present in the 3'-untranslated region of transcripts expressed from many immediate-early genes, including cytokines and chemokines. It has been demonstrated that TTP-mediated post-transcriptional mRNA decay regulation is crucial for modulating physiological control, particularly in response to inflammatory stimulation. TTP is associated with the CCR4-NOT deadenylation complex through the TTP C-terminus to promote mRNA decay. However, it is not fully understood whether there are additional sites within TTP that contribute to its function through interacting with other factors. We analyzed the functionality of the unique tryptophan residues located in the TTP N-terminus using a cell-based assay system that consists of a tetracycline-responsive CMV promoter-driven, intron-inserted luciferase (LUC). This system enabled us to analyze TTP activity during both the early phase and the steady-state phase of gene expression, as well as in the post-transcriptional mRNA decay following the treatment of tetracycline analogs. Meanwhile, we identified putative TTP associates using a proximity labeling method. We found that tryptophan residues in the TTP N-terminus together with CNOT10, a component of the CCR4-NOT complex, were involved specifically in the reduction of the ARE-containing LUC mRNA level during the early phase of gene expression. However, they were not involved in the decay of LUC mRNA in the steady-state phase. We propose a novel post-transcriptional TTP functionality in the reduction of ARE-containing mRNA level, which differs from the well-characterized mRNA decay activity.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "This study dissects how the eukaryotic RNA-binding protein TTP and CCR4-NOT component CNOT10 regulate AU-rich mRNA levels during early gene expression, a mechanistic advance in post-transcriptional control but not directly relevant to origins-of-life research."
+    }
+  },
+  {
+    "title": "MCBO: Mammalian Cell Bioprocessing Ontology, A Hub-and-Spoke, IOF-Anchored Application Ontology",
+    "summary": "Mammalian cell-based biopharmaceutical manufacturing generates vast, heterogeneous datasets that remain fragmented due to the lack of a standardized metadata framework. A key challenge in biologics manufacturing is linking bioreactor conditions, cell line characteristics and recombinant product production. A datahub for mammalian cell bioprocessing, integrated by semantic technologies, will serve as a tool to understand and query the connections between these complex datasets. While existing ontologies cover general biological and experimental concepts, they often lack the operational specificity required to harmonize bioreactor conditions, cell line engineering, and product quality metrics. To address this specific gap, we present the Mammalian Cell Bioprocessing Ontology (MCBO), a hub-and-spoke application ontology built on Basic Formal Ontology (BFO) foundations and anchored to the Industrial Ontology Foundry (IOF) Core. MCBO formalizes the process-participant-quality modeling pattern, enabling precise tracking of culture environmental conditions as qualities of the physical culture system. We demonstrate the utility of MCBO through a central datahub populated with 723 curated cell culture process instances and 325 unique bioprocess samples from published studies. The framework is validated against eight competency questions implemented via SPARQL, demonstrating efficient cross-study querying of culture optimization, cell line engineering, and multi-omics integration. By providing a stable, schema-independent substrate for data harmonization, MCBO enables AI agent-powered, human-in-the-loop workflows and facilitates LLM-assisted extraction of structured metadata from legacy records. MCBO is open-source and designed for deployment behind institutional firewalls to support interoperable biomanufacturing intelligence while maintaining intellectual property sensitivity. MCBO is supported by the International Biomanufacturing Network (IBioNe), which aims to accelerate discoveries and developments by providing a network of biomanufacturing training and workforce development to educate the next generation of biomanufacturing experts. Availability: https://github.com/lewiscelllabs/mcbo",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697007v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Inversions support both parallel and location-specific adaptations in snail ecotypes",
+    "summary": "Replicated hybrid zones between ecotypes established over within shore environmental gradients provide an opportunity to study the genomic architecture of barriers to gene flow. The marine snail Littorina fabalis segregates locally into dwarf and large ecotypes over wave-exposure gradients on northwestern European shores. Previous work focusing on a hybrid zone in Sweden revealed strong genetic differentiation between the ecotypes, concentrated in 12 putative chromosomal inversions. Here we compare the Swedish hybrid zone with samples from France distributed across a similar wave-exposed gradient. Our aims were to test if similar exposure gradients promote parallel ecotype distributions and hybrid zones, and if similar genomic architectures contribute to divergence and adaptation across the gradients. Unpredictably, we found that the shell size cline was reversed in France compared to Sweden, with small individuals occupying the more-sheltered end of the environmental gradient in Sweden but the more-exposed end in France. We also observed a cline in shell colour in France, whereas nearly all Swedish snails were yellow. Using whole-genome sequencing, we found similar levels of genetic differentiation between ecotypes in both places. Most of the differences were accounted for by the same 15 inversions, and the arrangement clines showed similar associations to the wave-exposure gradient in both hybrid zones. These inversions were enriched in SNPs differentiating the ecotypes that were either specific to one hybrid zone or showed reversed cline patterns between zones. Genome-wide association studies (GWAS) detected significant associations between genomic regions within inversions and shell size in Sweden, while one inversion was associated with colour in France. Our results show that the same inversions play a dual role: they support ecotype differences across similar environmental gradients in distant locations, while also contribute site-specific variation contributing to local adaptation.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697708v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A multiscale topology optimization design framework with data driven surrogate model",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34920-5\">doi:10.1038/s41598-025-34920-5</a></p>A multiscale topology optimization design framework with data driven surrogate model",
+    "url": "https://www.nature.com/articles/s41598-025-34920-5",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Betelgeuse's elusive companion star: Siwarha's 'wake' detected",
+    "summary": "Using new observations from NASA's Hubble Space Telescope and ground-based observatories, astronomers have tracked the influence of a recently discovered companion star, Siwarha, on the gas around Betelgeuse. The research, by scientists at the Center for Astrophysics | Harvard & Smithsonian (CfA), reveals a trail of dense gas swirling through Betelgeuse's vast, extended atmosphere, shedding light on why the giant star's brightness and atmosphere have changed in strange and unusual ways.",
+    "url": "https://phys.org/news/2026-01-betelgeuse-elusive-companion-star-siwarha.html",
+    "published_date": "2026-01-05T21:20:31Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Wegovy Weight-Loss Pills Hit U.S. Pharmacies\u2014Costs and Treatments Explained",
+    "summary": "<p>The first GLP-1 pills for weight loss are hitting U.S. pharmacies. But how will they be prescribed?</p>",
+    "url": "https://www.scientificamerican.com/article/wegovy-weight-loss-pills-hit-u-s-pharmacies-costs-and-treatments-explained/",
+    "published_date": "2026-01-05T22:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "U.S. Axes Number of Recommended Childhood Vaccines in Blow to Public Health",
+    "summary": "<p>The U.S. Centers for Disease Control and Prevention is reducing the recommended number of vaccines for children to those that protect against 11 diseases instead of the protections against 17 illnesses that it recommended previously</p>",
+    "url": "https://www.scientificamerican.com/article/u-s-axes-number-of-recommended-childhood-vaccines-in-blow-to-public-health/",
+    "published_date": "2026-01-05T20:23:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Surface tension enhancement in nanoconfined water: The role of confinement and excluded volume effects",
     "summary": "Author(s): Grace-Espoir Makaya and Aziz Ghoufi<br /><p>In this work, the surface tension ($\u03b3$) of nanoconfined water between planar interfaces was evaluated using atomistic simulations combined with the test-area method. To elucidate the role of spatial restriction, two types of confinement were considered: solid and liquid. In the case of solid surface\u2026</p><br />[Phys. Rev. E 113, 015501] Published Mon Jan 05, 2026",
     "url": "http://link.aps.org/doi/10.1103/fmnj-d2gy",

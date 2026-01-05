@@ -3,8 +3,48 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T21:18:28.784135+00:00</updated>
+  <updated>2026-01-05T22:17:28.124704+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ Nucleotide diversity is a poor predictor of short-term adaptive potential</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>A capacity to adapt is essential for a population to avoid extinction in a changing world and is recognised as a global conservation priority. Adaptation requires additive (heritable) genetic variatio</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> A large comparative analysis across eukaryotes shows that nucleotide diversity (and microsatellite diversity) poorly predicts short-term adaptive potential (evolvability), cautioning against using simple molecular diversity metrics as proxies for adaptation-relevant genetic variance.</p>
+<p><strong>Abstract:</strong> A capacity to adapt is essential for a population to avoid extinction in a changing world and is recognised as a global conservation priority. Adaptation requires additive (heritable) genetic variation for traits that influence survival and fecundity, but measuring this variation is difficult, particularly in species of conservation concern. Instead, molecular genetic diversity is often used to infer adaptive potential. However, previous research has cast doubt on the suitability of traditional molecular markers (allozymes and microsatellites) for this purpose given their weak relationship with heritability - a common measure of additive genetic variance. Recent advances in sequencing technology have since shifted focus towards nucleotide diversity and variation in functional regions, but their practicality for predicting adaptive potential remains debated and untested. Furthermore, heritability itself is a poor proxy for adaptive potential because it depends on environmental variance. We collated 2,113 published estimates of evolvability - a measure of additive genetic variance that avoids environmental confounding - across 193 eukaryotic species, and evaluated how well evolvability is predicted by molecular diversity. We find that microsatellite and nucleotide diversity are not significantly correlated to each other, and neither predict evolvability (nucleotide diversity explains 0.7% of interspecific differences in evolvability and doubling nucleotide diversity only corresponds to a 9.2% increase in evolvability). With new theoretical work, we show that such weak associations are expected. Together, our results suggest that simple molecular measures of genetic variation are insufficient for predicting adaptive potential and continued reliance on these metrics risks misinforming conservation management.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] phys.org - Space News ▶ Thin ice may have protected lake water on frozen Mars</title>
+    <link href="https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html"/>
+    <id>https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html</id>
+    <updated>2026-01-05T21:57:38Z</updated>
+    <summary>Small lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, mars, astrobio*</p>
+<p><strong>AI Decision:</strong> Modeling suggests thin ice cover could have insulated small ancient Martian lakes enough to keep liquid water stable for decades despite subfreezing mean air temperatures, increasing localized habitability potential.</p>
+<p><strong>Abstract:</strong> Small lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] molecular biology - biorXiv Preprints ▶ CNOT10 is involved in TTP-mediated AU-rich element containing mRNA metabolism, independent of mRNA decay regulation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Tristetraprolin (TTP)/ ZFP36 is an RNA binding protein that is involved in the turnover regulation of target adenylate-uridylate-rich RNA element (ARE) containing mRNAs. AREs are present in the 3&#x27;-unt</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study dissects how the eukaryotic RNA-binding protein TTP and CCR4-NOT component CNOT10 regulate AU-rich mRNA levels during early gene expression, a mechanistic advance in post-transcriptional control but not directly relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Tristetraprolin (TTP)/ ZFP36 is an RNA binding protein that is involved in the turnover regulation of target adenylate-uridylate-rich RNA element (ARE) containing mRNAs. AREs are present in the 3&#x27;-untranslated region of transcripts expressed from many immediate-early genes, including cytokines and chemokines. It has been demonstrated that TTP-mediated post-transcriptional mRNA decay regulation is crucial for modulating physiological control, particularly in response to inflammatory stimulation. TTP is associated with the CCR4-NOT deadenylation complex through the TTP C-terminus to promote mRNA decay. However, it is not fully understood whether there are additional sites within TTP that contribute to its function through interacting with other factors. We analyzed the functionality of the unique tryptophan residues located in the TTP N-terminus using a cell-based assay system that consists of a tetracycline-responsive CMV promoter-driven, intron-inserted luciferase (LUC). This system enabled us to analyze TTP activity during both the early phase and the steady-state phase of gene expression, as well as in the post-transcriptional mRNA decay following the treatment of tetracycline analogs. Meanwhile, we identified putative TTP associates using a proximity labeling method. We found that tryptophan residues in the TTP N-terminus together with CNOT10, a component of the CCR4-NOT complex, were involved specifically in the reduction of the ARE-containing LUC mRNA level during the early phase of gene expression. However, they were not involved in the decay of LUC mRNA in the steady-state phase. We propose a novel post-transcriptional TTP functionality in the reduction of ARE-containing mRNA level, which differs from the well-characterized mRNA decay activity.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] Phys. Rev. E ▶ Surface tension enhancement in nanoconfined water: The role of confinement and excluded volume effects</title>
     <link href="http://link.aps.org/doi/10.1103/fmnj-d2gy"/>
