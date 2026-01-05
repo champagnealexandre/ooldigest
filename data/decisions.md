@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [The E3 ubiquitin ligase mechanism specifying target-directed](https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1) |
+| keyword_rejected | - | [TRPV4 Inhibition by a Natural Product Mediates Analgesia](https://www.biorxiv.org/content/10.64898/2026.01.05.697673v1?rss=1) |
 | ai_scored | 5 | [CNOT10 is involved in TTP-mediated AU-rich element containin](https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1) |
 | ai_scored | 60 | [Thin ice may have protected lake water on frozen Mars](https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html) |
 | ai_scored | 45 | [Nucleotide diversity is a poor predictor of short-term adapt](https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1) |

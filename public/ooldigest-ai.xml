@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T22:17:28.124704+00:00</updated>
+  <updated>2026-01-05T23:17:57.254726+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] biochemistry - biorXiv Preprints ▶ The E3 ubiquitin ligase mechanism specifying target-directed microRNA degradation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>MicroRNAs (miRNAs) associate with Argonaute (AGO) proteins to form complexes that down-regulate target RNAs, including mRNAs from most human genes. Within each complex, the miRNA pairs to target mRNAs</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Mechanistic cryo-EM and biochemical study showing how a CUL3–ZSWIM8 E3 ligase recognizes an AGO–miRNA–trigger RNA complex to polyubiquitylate AGO and drive target-directed microRNA degradation, informing modern RNA regulation rather than origins-of-life processes.</p>
+<p><strong>Abstract:</strong> MicroRNAs (miRNAs) associate with Argonaute (AGO) proteins to form complexes that down-regulate target RNAs, including mRNAs from most human genes. Within each complex, the miRNA pairs to target mRNAs to specify their repression, and AGO provides effector function while also protecting the miRNA from cellular nucleases. Although much has been learned about this mode of posttranscriptional gene regulation, less is known about how the miRNAs themselves are regulated. In one such regulatory pathway, unusual miRNA targets called &quot;trigger&quot; RNAs reverse the canonical regulatory logic and instead down-regulate microRNAs. This target-directed miRNA degradation (TDMD) is thought to require a cullin [mdash]RING E3 ligase (CRL) because it depends on the cullin protein CUL3 and other ubiquitylation components, including the BC-box protein ZSWIM8. ZSWIM8 is required for murine perinatal viability and for destabilization of most short-lived miRNAs, but is otherwise poorly understood. Here, we demonstrate that a human AGO [mdash]miRNA-- trigger complex selectively binds ZSWIM8 for CUL3-mediated polyubiquitylation of the AGO protein within this complex. Cryogenic electron-microscopy (cryo-EM) analyses show how ZSWIM8 recognizes the distinct AGO2 and miRNA--trigger conformations shaped by pairing of the miRNA to the trigger. For example, this pairing extracts the miRNA from a binding pocket within AGO2, allowing the pocket to be captured by ZSWIM8, and it directs the trigger RNA along a distinct trajectory to be also recognized by ZSWIM8. These results biochemically establish AGO binding and polyubiquitylation as the key regulatory step of TDMD, define a unique CRL class, and reveal generalizable RNA--RNA, RNA--protein, and protein--protein interactions that specify the ubiquitin-mediated degradation of AGO with exquisite selectivity. The substrate features recognized by the E3 ubiquitin ligase do not conform to a conventional degron, but rather establish a two-RNA-factor authentication mechanism specifying a protein ubiquitylation substrate.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ Nucleotide diversity is a poor predictor of short-term adaptive potential</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1"/>

@@ -1,5 +1,34 @@
 [
   {
+    "title": "The E3 ubiquitin ligase mechanism specifying target-directed microRNA degradation",
+    "summary": "MicroRNAs (miRNAs) associate with Argonaute (AGO) proteins to form complexes that down-regulate target RNAs, including mRNAs from most human genes. Within each complex, the miRNA pairs to target mRNAs to specify their repression, and AGO provides effector function while also protecting the miRNA from cellular nucleases. Although much has been learned about this mode of posttranscriptional gene regulation, less is known about how the miRNAs themselves are regulated. In one such regulatory pathway, unusual miRNA targets called \"trigger\" RNAs reverse the canonical regulatory logic and instead down-regulate microRNAs. This target-directed miRNA degradation (TDMD) is thought to require a cullin [mdash]RING E3 ligase (CRL) because it depends on the cullin protein CUL3 and other ubiquitylation components, including the BC-box protein ZSWIM8. ZSWIM8 is required for murine perinatal viability and for destabilization of most short-lived miRNAs, but is otherwise poorly understood. Here, we demonstrate that a human AGO [mdash]miRNA-- trigger complex selectively binds ZSWIM8 for CUL3-mediated polyubiquitylation of the AGO protein within this complex. Cryogenic electron-microscopy (cryo-EM) analyses show how ZSWIM8 recognizes the distinct AGO2 and miRNA--trigger conformations shaped by pairing of the miRNA to the trigger. For example, this pairing extracts the miRNA from a binding pocket within AGO2, allowing the pocket to be captured by ZSWIM8, and it directs the trigger RNA along a distinct trajectory to be also recognized by ZSWIM8. These results biochemically establish AGO binding and polyubiquitylation as the key regulatory step of TDMD, define a unique CRL class, and reveal generalizable RNA--RNA, RNA--protein, and protein--protein interactions that specify the ubiquitin-mediated degradation of AGO with exquisite selectivity. The substrate features recognized by the E3 ubiquitin ligase do not conform to a conventional degron, but rather establish a two-RNA-factor authentication mechanism specifying a protein ubiquitylation substrate.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 35,
+      "summary": "Mechanistic cryo-EM and biochemical study showing how a CUL3\u2013ZSWIM8 E3 ligase recognizes an AGO\u2013miRNA\u2013trigger RNA complex to polyubiquitylate AGO and drive target-directed microRNA degradation, informing modern RNA regulation rather than origins-of-life processes."
+    }
+  },
+  {
+    "title": "TRPV4 Inhibition by a Natural Product Mediates Analgesia",
+    "summary": "The transient receptor potential vanilloid 4 (TRPV4) channel, a polymodal calcium-permeable cation channel, is activated by diverse stimuli, including hyposmolarity, moderate heat, mechanical stress, and acidic pH. TRPV4 plays a critical role in the onset and progression of pain and is implicated in multiple pathological conditions, positioning it as an attractive therapeutic target. However, the development of TRPV4-targeted therapeutics has been hindered by limited mechanistic understanding of its inhibition. Here, the natural product (R)-1-(3-ethylphenyl)ethane-1,2-diol (AH001) is identified as a potent, subtype-selective TRPV4 inhibitor. A potential gating mechanism of TRPV4 inhibition is proposed through a combination of structural analyses and site-directed mutagenesis. Electrophysiological studies and cryo-electron microscopy (cryo-EM) further reveal that AH001's glucuronide metabolite, AHP, retains robust TRPV4 inhibitory activity, providing a critical structural basis for rational optimization of AH001 as a lead compound. Notably, AH001 demonstrated significant efficacy in reducing neuronal hyperexcitability in dorsal root ganglia (DRGs) and produced pronounced analgesic effects across multiple pain models, highlighting its therapeutic potential in pain relief. This study offers critical structural and mechanistic insights into TRPV4 inhibition and lays the groundwork for the structure-based design of TRPV4-targeted therapeutics.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697673v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Nucleotide diversity is a poor predictor of short-term adaptive potential",
     "summary": "A capacity to adapt is essential for a population to avoid extinction in a changing world and is recognised as a global conservation priority. Adaptation requires additive (heritable) genetic variation for traits that influence survival and fecundity, but measuring this variation is difficult, particularly in species of conservation concern. Instead, molecular genetic diversity is often used to infer adaptive potential. However, previous research has cast doubt on the suitability of traditional molecular markers (allozymes and microsatellites) for this purpose given their weak relationship with heritability - a common measure of additive genetic variance. Recent advances in sequencing technology have since shifted focus towards nucleotide diversity and variation in functional regions, but their practicality for predicting adaptive potential remains debated and untested. Furthermore, heritability itself is a poor proxy for adaptive potential because it depends on environmental variance. We collated 2,113 published estimates of evolvability - a measure of additive genetic variance that avoids environmental confounding - across 193 eukaryotic species, and evaluated how well evolvability is predicted by molecular diversity. We find that microsatellite and nucleotide diversity are not significantly correlated to each other, and neither predict evolvability (nucleotide diversity explains 0.7% of interspecific differences in evolvability and doubling nucleotide diversity only corresponds to a 9.2% increase in evolvability). With new theoretical work, we show that such weak associations are expected. Together, our results suggest that simple molecular measures of genetic variation are insufficient for predicting adaptive potential and continued reliance on these metrics risks misinforming conservation management.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1",
