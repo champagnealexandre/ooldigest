@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T05:34:36.236381+00:00</updated>
+  <updated>2026-01-05T06:34:18.501732+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] ScienceDaily: Origin of Life News ▶ Egypt’s Karnak Temple may have risen from water like a creation myth</title>
+    <link href="https://www.sciencedaily.com/releases/2025/12/251228074502.htm"/>
+    <id>https://www.sciencedaily.com/releases/2025/12/251228074502.htm</id>
+    <updated>2026-01-05T00:45:57Z</updated>
+    <summary>New research shows Karnak Temple was built on a rare island of high ground formed as Nile river channels shifted thousands of years ago. Before that, the area was too flooded for settlement, making th</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Geoscience/archaeology study arguing Karnak Temple was built on newly emergent high ground amid shifting Nile channels, echoing Egyptian creation myths of land rising from water but offering only very indirect relevance to origins-of-life science.</p>
+<p><strong>Abstract:</strong> New research shows Karnak Temple was built on a rare island of high ground formed as Nile river channels shifted thousands of years ago. Before that, the area was too flooded for settlement, making the temple’s eventual rise even more remarkable. The landscape closely mirrors ancient Egyptian creation myths, where sacred land emerges from water. This suggests Karnak’s location was chosen not just for practicality, but for its deep symbolic power.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1038/s41561-024-01451-z">https://doi.org/10.1038/s41561-024-01451-z</a></li>
+<li><a href="https://doi.org/10.15184/aqy.2025.10185">https://doi.org/10.15184/aqy.2025.10185</a></li>
+<li><a href="http://dx.doi.org/10.15184/aqy.2025.10185">http://dx.doi.org/10.15184/aqy.2025.10185</a></li>
+<li><a href="http://doi.org/10.1038/s41561-024-01451-z">http://doi.org/10.1038/s41561-024-01451-z</a></li>
+</ul>
+<p><a href="https://www.sciencedaily.com/releases/2025/12/251228074502.htm">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] ChemRxiv ▶ Kinetic insights into cholera toxin B-biomimetic glycan interactions</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Enterotoxins cause severe diseases worldwide, exacerbated by limited access to clean water, food, and medical care. Cholera is a diarrheal disease driven by cholera enterotoxin (CTX) and is secreted b</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study uses SPR to quantify how multivalent galactose/fucose glycopolymers form unusually stable, slow-dissociating aggregates with cholera toxin B under flow—useful for anti-toxin design but only tangentially relevant to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Enterotoxins cause severe diseases worldwide, exacerbated by limited access to clean water, food, and medical care. Cholera is a diarrheal disease driven by cholera enterotoxin (CTX) and is secreted by Vibrio cholerae in the small intestinal (SI) epithelium. CTX consists of an enzymatic A subunit (CTA) and a pentameric B subunit (CTB), which mediates cellular uptake by binding to glycans. While CTB primarily recognizes GM1 glycosphingolipid or galactose ligands, GM1 is undetectable in the human SI, and fucose ligands are a key alternative binding target. Previously, we developed linear norbornenyl glycopolymers as biomimetic inhibitors that block CTB binding through interchain crosslinking, forming CTB-glycopolymer aggregates. To assess the polymers’ potential efficacy under flow conditions, we evaluated CTB-glycopolymer binding kinetics under dynamic conditions using surface plasmon resonance (SPR). Copolymer with a random display of galactose and fucose (pGal50Fuc50) showed nanomolar avidity with stable complex formation driven primarily by a slow dissociation rate in the multivalent phase (kd1). In contrast, an equimolar mixture of homopolymers (pGal100 + pFuc100) exhibited similar binding avidity and comparable inhibitory efficacy but did not display slow-dissociation. Moreover, random copolymer pGal25Fuc75 dissociated slowly even from low-CTB-density surfaces. These results highlight the superior stability of copolymers in forming CTB–copolymer aggregates under low CTB abundance and flow conditions. These findings underscore the importance of co-displaying galactose and fucose for complex formation and for developing clinically-useful therapies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-89c3z">https://doi.org/10.26434/chemrxiv-2026-89c3z</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] ChemRxiv ▶ Aqueous Dispersion of Carbon Nanotubes by Chlorine Dioxide Oxidation</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>The poor solubility and dispersibility of single-walled carbon nanotubes (SWCNTs) in aqueous media remain critical limitations for their practical application because conventional oxidative treatments</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a mild chlorine dioxide oxidation method that adds oxygenated groups to single-walled carbon nanotubes to yield stable, surfactant-free aqueous dispersions while largely preserving conductivity, with only indirect relevance to origins-of-life (water-processable carbon surfaces).</p>
+<p><strong>Abstract:</strong> The poor solubility and dispersibility of single-walled carbon nanotubes (SWCNTs) in aqueous media remain critical limitations for their practical application because conventional oxidative treatments typically require harsh conditions that degrade the nanotube structure. Here, we report a simple and scalable method for dispersing SWCNTs in water via chlorine dioxide (ClO₂•)-mediated oxidation under ambient conditions. The treatment selectively introduced oxygenated functionalities—including hydroxy, carbonyl, and carboxy groups—onto the CNT surface while preserving the tubular framework, as confirmed by transmission electron microscopy, Raman spectroscopy, and X-ray photoelectron spectroscopy analyses. The resulting dispersions exhibited long-term colloidal stability without the need for surfactants, supported by a strongly negative ζ potential (−41.6 mV). Importantly, electronic conductivity was largely maintained: the resistivity of oxidized CNT films was only threefold higher than that of sodium cholate–dispersed CNTs (0.045 vs 0.016 Ω·cm at 25 °C), with &lt;10% variation between 25 and 50 °C. This unique balance between enhanced aqueous dispersibility and preserved charge transport underscores ClO₂• oxidation as a green and effective strategy for producing water-processable CNTs, showing promise for applications in pharmaceutical drugs, printable electronics, functional composites, energy storage, and sensing.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-thdp9">https://doi.org/10.26434/chemrxiv-2026-thdp9</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [0] nlin.CD updates on arXiv.org ▶ A Topological Framework for Atmospheric River Interaction Using Framed Braids</title>
     <link href="https://arxiv.org/abs/2601.00354"/>

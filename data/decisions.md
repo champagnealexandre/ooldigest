@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Aqueous Dispersion of Carbon Nanotubes by Chlorine Dioxide O](https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Kinetic insights into cholera toxin B-biomimetic glycan inte](https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss) |
+| ai_scored | 20 | [Egypt’s Karnak Temple may have risen from water like a creat](https://www.sciencedaily.com/releases/2025/12/251228074502.htm) |
+| keyword_rejected | - | [Plastique : le va-tout de l’industrie pétrolière](https://www.pourlascience.fr/sd/environnement/plastique-le-va-tout-de-l-industrie-petroliere-28580.php) |
+| keyword_rejected | - | [Numerical simulation of hydraulic–natural fracture interacti](https://www.nature.com/articles/s41598-025-34508-z) |
+| keyword_rejected | - | [Reversible Multifunctional Fluorescent Cellulose Materials v](https://dx.doi.org/10.26434/chemrxiv-2026-9cd38?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Heteroatom-Engineered Covalent Organic Frameworks Break the ](https://dx.doi.org/10.26434/chemrxiv-2026-0024b?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Redox Robust Mn(I/0/-I) Dicarbenes: Electrochemistry, Steric](https://dx.doi.org/10.26434/chemrxiv-2026-cznhs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Beyond Deep Learning Dominance: A Scaffold-Aware Hybrid Fram](https://dx.doi.org/10.26434/chemrxiv-2026-f6g15?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Indexing 2D Powders and Lagrange-Gauss Reduction](https://dx.doi.org/10.26434/chemrxiv-2026-qntp2?rft_dat=source%3Ddrss) |
 | ai_scored | 80 | [Self-assembled versus biological pattern formation in geolog](https://arxiv.org/abs/2601.00323) |
 | ai_scored | 65 | [The Physics of Causation](https://arxiv.org/abs/2601.00515) |
 | ai_scored | 5 | [Multistep quantum master equation theory for response functi](https://arxiv.org/abs/2601.00431) |

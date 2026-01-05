@@ -1,5 +1,123 @@
 [
   {
+    "title": "Egypt\u2019s Karnak Temple may have risen from water like a creation myth",
+    "summary": "New research shows Karnak Temple was built on a rare island of high ground formed as Nile river channels shifted thousands of years ago. Before that, the area was too flooded for settlement, making the temple\u2019s eventual rise even more remarkable. The landscape closely mirrors ancient Egyptian creation myths, where sacred land emerges from water. This suggests Karnak\u2019s location was chosen not just for practicality, but for its deep symbolic power.",
+    "url": "https://www.sciencedaily.com/releases/2025/12/251228074502.htm",
+    "published_date": "2026-01-05T00:45:57Z",
+    "source_feed": "ScienceDaily: Origin of Life News",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.1038/s41561-024-01451-z",
+      "https://doi.org/10.15184/aqy.2025.10185",
+      "http://dx.doi.org/10.15184/aqy.2025.10185",
+      "http://doi.org/10.1038/s41561-024-01451-z"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Geoscience/archaeology study arguing Karnak Temple was built on newly emergent high ground amid shifting Nile channels, echoing Egyptian creation myths of land rising from water but offering only very indirect relevance to origins-of-life science."
+    }
+  },
+  {
+    "title": "Kinetic insights into cholera toxin B-biomimetic glycan interactions",
+    "summary": "Enterotoxins cause severe diseases worldwide, exacerbated by limited access to clean water, food, and medical care. Cholera is a diarrheal disease driven by cholera enterotoxin (CTX) and is secreted by Vibrio cholerae in the small intestinal (SI) epithelium. CTX consists of an enzymatic A subunit (CTA) and a pentameric B subunit (CTB), which mediates cellular uptake by binding to glycans. While CTB primarily recognizes GM1 glycosphingolipid or galactose ligands, GM1 is undetectable in the human SI, and fucose ligands are a key alternative binding target. Previously, we developed linear norbornenyl glycopolymers as biomimetic inhibitors that block CTB binding through interchain crosslinking, forming CTB-glycopolymer aggregates. To assess the polymers\u2019 potential efficacy under flow conditions, we evaluated CTB-glycopolymer binding kinetics under dynamic conditions using surface plasmon resonance (SPR). Copolymer with a random display of galactose and fucose (pGal50Fuc50) showed nanomolar avidity with stable complex formation driven primarily by a slow dissociation rate in the multivalent phase (kd1). In contrast, an equimolar mixture of homopolymers (pGal100 + pFuc100) exhibited similar binding avidity and comparable inhibitory efficacy but did not display slow-dissociation. Moreover, random copolymer pGal25Fuc75 dissociated slowly even from low-CTB-density surfaces. These results highlight the superior stability of copolymers in forming CTB\u2013copolymer aggregates under low CTB abundance and flow conditions. These findings underscore the importance of co-displaying galactose and fucose for complex formation and for developing clinically-useful therapies.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-89c3z"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "This study uses SPR to quantify how multivalent galactose/fucose glycopolymers form unusually stable, slow-dissociating aggregates with cholera toxin B under flow\u2014useful for anti-toxin design but only tangentially relevant to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Aqueous Dispersion of Carbon Nanotubes by Chlorine Dioxide Oxidation",
+    "summary": "The poor solubility and dispersibility of single-walled carbon nanotubes (SWCNTs) in aqueous media remain critical limitations for their practical application because conventional oxidative treatments typically require harsh conditions that degrade the nanotube structure. Here, we report a simple and scalable method for dispersing SWCNTs in water via chlorine dioxide (ClO\u2082\u2022)-mediated oxidation under ambient conditions. The treatment selectively introduced oxygenated functionalities\u2014including hydroxy, carbonyl, and carboxy groups\u2014onto the CNT surface while preserving the tubular framework, as confirmed by transmission electron microscopy, Raman spectroscopy, and X-ray photoelectron spectroscopy analyses. The resulting dispersions exhibited long-term colloidal stability without the need for surfactants, supported by a strongly negative \u03b6 potential (\u221241.6 mV). Importantly, electronic conductivity was largely maintained: the resistivity of oxidized CNT films was only threefold higher than that of sodium cholate\u2013dispersed CNTs (0.045 vs 0.016 \u03a9\u00b7cm at 25 \u00b0C), with <10% variation between 25 and 50 \u00b0C. This unique balance between enhanced aqueous dispersibility and preserved charge transport underscores ClO\u2082\u2022 oxidation as a green and effective strategy for producing water-processable CNTs, showing promise for applications in pharmaceutical drugs, printable electronics, functional composites, energy storage, and sensing.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-thdp9"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Reports a mild chlorine dioxide oxidation method that adds oxygenated groups to single-walled carbon nanotubes to yield stable, surfactant-free aqueous dispersions while largely preserving conductivity, with only indirect relevance to origins-of-life (water-processable carbon surfaces)."
+    }
+  },
+  {
+    "title": "Indexing 2D Powders and Lagrange-Gauss Reduction",
+    "summary": "2D powders constitute an important class of molecular thin films where a specific close-packed plane\nforms parallel to the substrate surface, while there is no preferred lateral ordering. Using results from\nclassic lattice reduction theory, a systematic scheme is proposed, in order to determine the surface unit\ncell for 2D powders in reciprocal space. The approach is based on a sorted set of scattering vector\nlengths \ud835\udc5e1, \ud835\udc5e2, \ud835\udc5e3, \u2026 directly obtained from the scattering pattern. After a first match is established, a\nrefinement procedure is presented that makes full use of the complete set of scattering vectors and as\nsuch corrects for small experimental errors and ensures a good overall match with the observed\nreflections.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-qntp2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Beyond Deep Learning Dominance: A Scaffold-Aware Hybrid Framework for Robust Toxicity Prediction in Data-Scarce Regimes",
+    "summary": "Computational toxicology plays a pivotal role in modern drug discovery and environmental risk assessment; however, the reliability of predictive models on unseen chemical scaffolds remains a critical bottleneck. Deep learning architectures, despite their prevalence, are susceptible to \u2019silent failures\u2019\u2014yielding high-confidence errors on out-of-distribution data\u2014which poses significant risks in safety-critical applications. In this study, we propose a \u2019Safe-byDesign\u2019 hybrid framework to mitigate this epistemic uncertainty. Rather than relying on a single algorithmic paradigm, we integrate the explicit structural \u2019memory\u2019 of classical Random Forests with the topological \u2019intuition\u2019 of Graph Neural Networks (GNNs) via a transparent Stacking Ensemble (Logistic Regression) functioning as a Mixture of Experts (MoE). Evaluated across 12 Tox21 endpoints using a rigorous 5-seed benchmarking protocol under Nested Scaffold Split, our analysis demonstrates that classical models serve as an essential robustness layer in data-scarce regimes. Crucially, the Hybrid MoE functions as a fail-safe mechanism, preventing performance degradation in tasks where pure GNNs struggle to generalize (e.g., NR-AR-LBD), while leveraging complementary strengths in others (e.g., SR-MMP). Benchmarking against the industry-standard DeepChem GraphConv model reveals statistical equivalence (p > 0.05) in overall performance, with the Hybrid framework exhibiting superior predictive stability in 7 out of 12 assays, particularly in complex endpoints such as SR-p53 and Androgen Receptor targets. These findings suggest that the proposed architecture offers a viable pathway toward achieving state-of-the-art predictive power without compromising the interpretability required for regulatory acceptance.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-f6g15?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Redox Robust Mn(I/0/-I) Dicarbenes: Electrochemistry, Steric Mapping, and Borate-Directed C-C Bond Formation",
+    "summary": "Manganese is perhaps the most electronically versatile element, accessing eleven different formal oxidation states (-3 to +7). However, the redox properties and reactivities of low valent monometallic Mn(0) and Mn(-I) systems remain severely underexplored due to the propensity of Mn0 to dimerize and quench high-energy metalloradicals. We report a new series of redox active monometallic Mn(I), Mn(0) and Mn(-I) complexes containing a BH2-bridged dicarbene ligand coordinated to Mn, all which have been characterized using a suite of experimental and cutting-edge computational (DFT) methods. Slow electron transfer kinetics at Mn(I/0) are observed, with computations and electrochemical simulations in excellent agreement with experiment. Despite the lack of steric bulk at the BH2-bridged Mn(0), the tBu groups at the dicarbene provide sufficient steric protection to prevent dimerization, with percent buried volume (%V_bur) serving as a steric ranking tool for to predict whether Mn(0) complexes will remain monometallic in solution. We show that when %V_bur > 83% prevents dimerization for a diverse array of of Mn(0) complexes from the literature. Ligand sterics of the BPh2-bridged and BH2 bridged complexes dictate reaction outcomes when Mn(I) and Mn(-I) are exposed to nucleophiles and electrophiles, respectively, while the Mn(0) metalloradicals facilitate radical cycloisomerization catalysis of 6-iodo-1-hexene at room temperature. This work underscores the importance of ligand sterics in rationalizing reactivity patterns at Mn and offers valuable insights for designing chelating ligands that can selectively leverage  Mn(I/0/-I) states in redox-mediated reactions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-cznhs?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Heteroatom-Engineered Covalent Organic Frameworks Break the CO2 Separation Trade-Off in Mixed Matrix Membranes",
+    "summary": "Breaking the long-standing permeability\u2013selectivity trade-off remains a central challenge in membrane-based carbon dioxide separations. Here we report a heteroatom-engineering strategy that leverages structurally precise covalent organic frameworks (COFs) to transcend this limitation in mixed matrix membranes (MMMs). Two isostructural, \u03c0-conjugated two-dimensional COFs, TUS-621 and TUS-622, were rationally designed through symmetry-guided reticulation of a hexatopic triphenylene node with oxygen- and sulfur-containing diamine linkers, respectively, enabling systematic modulation of pore surface chemistry without altering topology. When incorporated into a Pebax polymer matrix, these COFs function as CO2-philic, molecularly defined transport domains that synergistically couple preferential CO2 sorption with ordered and fast diffusion channels. The optimized TUS-621/Pebax-10% membrane exhibits a CO2 permeability of 433 Barrer with a CO2/CH4 selectivity of 55.3 under mixed-gas conditions, decisively surpassing the 2008 Robeson upper bound for CO2/CH4 separation, while simultaneously achieving high CO2/H2 separation performance (CO2 permeability of 407 Barrer and selectivity of 25.2). Comprehensive pressure- and temperature-dependent permeation studies reveal that selectivity remains remarkably stable over 2\u201310 bar and 25\u2013100 \u00b0C, underscoring the robustness of the COF-enabled transport pathways. Long-term operation over 30 days shows negligible performance decay, highlighting excellent resistance to physical aging and interfacial degradation. Comparative analysis establishes that oxygen-rich pore environments in TUS-621 impart stronger CO2 affinity and higher accessible surface area than the sulfur-containing analogue, directly translating molecular-level design into macroscopic separation performance. This work demonstrates that heteroatom-engineered COFs provide a powerful platform for overcoming fundamental transport trade-offs and advancing MMMs toward practical, high-efficiency CO2 separations.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-0024b?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reversible Multifunctional Fluorescent Cellulose Materials via Hydroxyl-Yne Click Reaction: Integrating UV-Shielding, Multicolor Fluorescence, and Acid-Responsive Properties",
+    "summary": "Cellulose-based fluorescent materials enjoy advantages such as excellent biocompatibility, biodegradability, and environmental friendliness, making them potentially useful for chemical sensing, bioimaging, and information encryption. However, traditional cellulose-based fluorescent materials face issues of single functionality and aggregation-caused quenching, making the development of multifunctional fluorescent cellulose materials applicable in aggregated states desirable but challenging. Herein, we innovatively endowed fluorescent cellulose materials with an aggregation-induced emission characteristic through hydroxyl-yne click reaction. The developed ECTPEs exhibit breakthrough performance with high transparency (>95%), full ultraviolet (UV)-shielding efficiency (>99.9%), accompanied by fluorescence characteristics, thereby achieving simultaneous UV blocking and indicating functions for UV-sensitive materials. Additionally, ECTPEs demonstrate grafting ratio-dependent multicolor fluorescence, enabling their application in high-resolution fluorescent QR codes. The further development of acid-responsive ECTPE-MTPAPs through secondary grafting realizes fluorescence color switching under acidic stimulation and enables the creation of dynamic multicolor coding devices with enhanced data storage density and sophisticated encryption capabilities. Significantly, an amine exchange strategy based on dynamic enol ether bonds effectively resolves the inherent conflict between material functionalization and degradability. This work provides an innovative methodology for developing reversible multifunctional fluorescent cellulose materials, offering crucial guidance for advancing the development of sustainable fluorescent materials.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9cd38?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Numerical simulation of hydraulic\u2013natural fracture interaction based on the continuous\u2013discontinuous element method",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34508-z\">doi:10.1038/s41598-025-34508-z</a></p>Numerical simulation of hydraulic\u2013natural fracture interaction based on the continuous\u2013discontinuous element method",
+    "url": "https://www.nature.com/articles/s41598-025-34508-z",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Plastique\u00a0: le va-tout de l\u2019industrie p\u00e9troli\u00e8re",
+    "summary": "Alors que la r\u00e9duction des \u00e9missions de gaz \u00e0 effet de serre contraint le march\u00e9 des combustibles fossiles, la production de plastique offre de nouveaux d\u00e9bouch\u00e9s aux entreprises du p\u00e9trole et du gaz.",
+    "url": "https://www.pourlascience.fr/sd/environnement/plastique-le-va-tout-de-l-industrie-petroliere-28580.php",
+    "published_date": "2026-01-05T06:28:02Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "A Topological Framework for Atmospheric River Interaction Using Framed Braids",
     "summary": "arXiv:2601.00354v1 Announce Type: new \nAbstract: Atmospheric Rivers (ARs) are filamentary moisture pathways responsible for a large fraction of extreme precipitation and often occur as interacting filament bundles within the same synoptic regime. Existing diagnostics typically analyze ARs in isolation, despite the frequent coexistence and interaction of multiple filaments. We introduce a topological framework for AR analysis based on framed braids and framed braidoids, which encodes both the geometric interaction of AR centroids and the internal evolution of moisture transport.\n  In this approach, AR filaments are represented as strands whose time-ordered crossings form braid words, while moisture-based framing captures internal intensification or weakening along each filament. Applying this framework to reanalysis-derived Atmospheric River track data, we construct braid and framed braid representations over sliding time windows and analyze a strongly interacting multi-filament AR episode in the North Pacific. The results show that braid-based indicators capture structural reorganizations and moisture intensification episodes that are not apparent from centroid geometry or IVT magnitude alone, offering a complementary structural perspective on atmospheric moisture transport.",
     "url": "https://arxiv.org/abs/2601.00354",
