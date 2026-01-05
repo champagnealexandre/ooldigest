@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Blue amine hydrates as a novel strategy for partitioning CO2](https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss) |
+| ai_scored | 10 | [Unravelling gas evolution mechanisms in battery electrode ma](https://www.nature.com/articles/s41557-025-02016-2) |
+| ai_scored | 8 | [Tunable Gelation and Viscoelasticity of Lung-Tissue–Mimetic ](https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Chutes de neige dans l'ouest de la France, 26 départements e](https://www.sciencesetavenir.fr/nature-environnement/chutes-de-neige-dans-l-ouest-de-la-france-26-departements-en-vigilance-orange_190271?xtor=RSS-15) |
+| keyword_rejected | - | [How to Keep Your New Year’s Resolutions—Behavioral Science T](https://www.scientificamerican.com/podcast/episode/how-to-keep-your-new-years-resolutions-behavioral-science-tips-that-work/) |
+| keyword_rejected | - | [Geometry-driven asymmetric cell divisions pattern cell cycle](https://www.nature.com/articles/s41567-025-03122-1) |
+| keyword_rejected | - | [Embryo geometry sets the tempo](https://www.nature.com/articles/s41567-025-03136-9) |
+| keyword_rejected | - | [Discovering the laws behind complex networked systems](https://www.nature.com/articles/s43588-025-00929-z) |
+| keyword_rejected | - | [Direct enantioselective C(<i>sp</i><sup>3</sup>)−H coupling ](https://www.nature.com/articles/s41557-025-02018-0) |
+| keyword_rejected | - | [Intralayer bidentate diammoniums for stable two-dimensional ](https://www.nature.com/articles/s41557-025-02038-w) |
+| keyword_rejected | - | [Electrochemistry lurks beneath the surface of thermocatalyti](https://www.nature.com/articles/s41557-025-02024-2) |
+| keyword_rejected | - | [VACmap: an accurate long-read aligner for unraveling complex](https://www.nature.com/articles/s41467-025-67096-7) |
+| keyword_rejected | - | [Aggregate Engineering: Distinct Photophysical Properties and](https://dx.doi.org/10.26434/chemrxiv-2025-vxq2x-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Discovery of β-Sheet Peptide Assembly Codes via an Experimen](https://dx.doi.org/10.26434/chemrxiv-2026-4c5h0?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [TubercuProbe: A Cross-Attention Graph-Sequence Model for Cro](https://www.biorxiv.org/content/10.64898/2026.01.04.697588v1?rss=1) |
 | ai_scored | 40 | [Diverse bacterial pattern recognition receptors sense the co](https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1) |
 | ai_scored | 20 | [Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanis](https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss) |
 | ai_scored | 20 | [Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanis](https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss) |

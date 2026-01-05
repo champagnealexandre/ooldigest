@@ -3,8 +3,56 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T10:22:21.199793+00:00</updated>
+  <updated>2026-01-05T11:17:31.084072+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [8] ChemRxiv ▶ Tunable Gelation and Viscoelasticity of Lung-Tissue–Mimetic Sealant: Linking Shear History to In Situ Mechanical Performance through Physics-Informed Machine Learning</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Hydrogel-based lung sealants are optimized largely based on formulation and post-cure mechanics, even though deformation history during delivery and placement plays a critical, yet under-characterized</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Biomedical materials study using rheology and physics-informed machine learning to predict how shear history tunes hydrogel gelation and viscoelasticity in a lung-mimetic sealant, with minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Hydrogel-based lung sealants are optimized largely based on formulation and post-cure mechanics, even though deformation history during delivery and placement plays a critical, yet under-characterized, role in determining in situ performance. This disconnect is particularly consequential on the application of lung sealants, where excessive stiffness promotes delamination while insufficient stiffness compromises airtight sealing. Here, we establish a quantitative process–structure–property framework for a gelatin–tannic acid–transglutaminase lung-mimetic sealant by integrating time-resolved rheology with physics-informed machine learning. Using small-amplitude oscillatory shear and steady torsional flow at 37 °C, we show that gelation follows a reproducible kinetic clock (storage modulus, G′– loss modulus, G″, crossover at ~100 s; modulus plateau by ~600 s), while the attainable viscoelastic state is strongly governed by deformation history. Increasing oscillatory strain amplitude from 0.1 % to 50 % suppresses network maturation, reducing the post-gelation storage modulus, G′, from ~10⁶ to ~10⁴ Pa, whereas sustained steady shear (0.01–1 s⁻¹) decreases magnitude of complex viscosity by 2–3 orders of magnitude and permanently downshifts elastic moduli, G′–, from ≈3.5×10³ to ≈4×10² Pa. These modulus ranges span the effective compliance of lung parenchyma under physiological tidal strain, delineating mechanical regimes associated with airtight sealing, strain accommodation, or premature interfacial failure. Controlled aeration during the processing of the sealant further decreases stiffness by ~30 % without altering gelation kinetics, providing an additional, physically interpretable compliance-tuning mechanism. To unify these effects, we introduce a dimensionless Degree of Gelation (DoG), serving as a rheological state variable that collapses oscillatory and steady-shear histories into a single, time-resolved descriptor of network evolution. Machine-learning models trained on experimentally accessible inputs (time, strain amplitude, shear rate, frequency, aeration) accurately predict DoG (R² ≈ 0.9) and, in inverse mode, identify handling conditions required to achieve targeted in situ mechanical states. This rheology–machine-learning framework reframes lung sealant development from a static materials optimization problem to a controllable, process-driven design strategy. By quantitatively linking applicator-level parameters to failure-relevant mechanical outcomes—airtightness, compliance, and resistance to delamination—it provides a mechanistic and generalizable foundation for the design of injectable hydrogels, bioadhesives, and tissue-interfacing</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-zkrvp">https://doi.org/10.26434/chemrxiv-2026-zkrvp</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [10] Nature Chemistry ▶ Unravelling gas evolution mechanisms in battery electrode materials</title>
+    <link href="https://www.nature.com/articles/s41557-025-02016-2"/>
+    <id>https://www.nature.com/articles/s41557-025-02016-2</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Nature Chemistry, Published online: 05 January 2026; doi:10.1038/s41557-025-02016-2 Gas evolution severely limits the performance of LiFexMn1−xPO4 batteries, yet its mechanisms remain unclear. Now it </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This Nature Chemistry study pinpoints CO2 formation mainly at the LiFexMn1−xPO4 cathode and H2 generation via Mn/Fe-catalysed anode reactions, showing that uniform carbon coatings suppress metal dissolution and stabilize cycling, but it has minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Nature Chemistry, Published online: 05 January 2026; doi:10.1038/s41557-025-02016-2 Gas evolution severely limits the performance of LiFexMn1−xPO4 batteries, yet its mechanisms remain unclear. Now it has been shown that CO2 originates mainly from the cathode and H2 from Mn/Fe-catalysed reactions at the anode, while a uniform carbon coating effectively suppresses metal dissolution and stabilizes cycling.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1039%2FD1EE04053G">https://doi.org/10.1039%2FD1EE04053G</a></li>
+<li><a href="https://authorservices.springernature.com/scientific-editing/">https://authorservices.springernature.com/scientific-editing/</a></li>
+<li><a href="https://doi.org/10.1038%2Fs41565-024-01787-y">https://doi.org/10.1038%2Fs41565-024-01787-y</a></li>
+<li><a href="https://doi.org/10.1038%2Fs41467-023-41867-6">https://doi.org/10.1038%2Fs41467-023-41867-6</a></li>
+<li><a href="https://doi.org/10.1021%2Facsenergylett.2c01059">https://doi.org/10.1021%2Facsenergylett.2c01059</a></li>
+<li><a href="https://doi.org/10.1002/anie.202317109">https://doi.org/10.1002/anie.202317109</a></li>
+<li><a href="https://doi.org/10.1149/2.0041906jes">https://doi.org/10.1149/2.0041906jes</a></li>
+<li><a href="https://doi.org/10.1149%2F2.0041906jes">https://doi.org/10.1149%2F2.0041906jes</a></li>
+<li><a href="https://doi.org/10.1016%2Fj.joule.2025.101847">https://doi.org/10.1016%2Fj.joule.2025.101847</a></li>
+<li><a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41557-025-02016-2/MediaObjects/41557_2025_2016_MOESM3_ESM.xlsx">https://static-content.springer.com/esm/art%3A10.1038%2Fs41557-025-02016-2/MediaObjects/41557_2025_2016_MOESM3_ESM.xlsx</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41557-025-02016-2">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Blue amine hydrates as a novel strategy for partitioning CO2</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>We report a novel CO2 capture and separation principle based on the unexpected formation of CO2-loaded amine hydrates. Unlike conventional amine scrubbing, which relies on energy-intensive thermal reg</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a cooling-driven phase-change CO2 capture mechanism where CO2-loaded bifunctional amines become incorporated into THF clathrate hydrate lattices, enabling CO2 partitioning into a solid hydrate phase and potentially informing broader aqueous phase-separation chemistry relevant to planetary environments.</p>
+<p><strong>Abstract:</strong> We report a novel CO2 capture and separation principle based on the unexpected formation of CO2-loaded amine hydrates. Unlike conventional amine scrubbing, which relies on energy-intensive thermal regeneration, our approach utilizes a phase change driven by cooling. We discovered that various bifunctional amines, upon capturing CO2 in aqueous solutions containing tetrahydrofuran (THF), are structurally incorporated into the hydrate crystal lattice. This phenomenon was unequivocally confirmed via solid-state NMR and FTIR spectroscopy, with some hydrates exhibiting a distinct blue coloration. This phase separation facilitates partial dehydration and the partitioning of CO2-loaded amines into the solid phase, effectively reducing the working solution’s heat capacity. Scalability was successfully demonstrated in a 150-mL system under ambient pressure. These findings establish a new regime in amine-CO2-water chemistry, offering a “cooling-based” fractionation strategy to significantly lower the energy penalty of carbon capture processes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-ph4lm">https://doi.org/10.26434/chemrxiv-2026-ph4lm</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] ChemRxiv ▶ Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanism with Heavy Water Using pTSA Catalyst.</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss"/>
