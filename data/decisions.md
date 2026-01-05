@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [A Glimpse Into Darkness: Diversity Of Culturable Cyanobacter](https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html) |
+| ai_scored | 20 | [Theoretical Framework for Absolute Quantification in Digital](https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss) |
+| ai_scored | 65 | [A Roadmap For The Exploration Of Enceladus](https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html) |
+| ai_scored | 55 | [Searching For Extraterrestrial Life Advances Terrestrial Sus](https://astrobiology.com/2026/01/searching-for-extraterrestrial-life-advances-terrestrial-sustainability.html) |
+| ai_scored | 55 | [How To Build A Genome – Troubleshooting Manual For Synthetic](https://astrobiology.com/2026/01/how-to-build-a-genome-troubleshooting-manual-for-synthetic-life-published.html) |
+| ai_scored | 50 | [Seafloor Weathering and Stochastic Outgassing Unlikely to Si](https://astrobiology.com/2026/01/seafloor-weathering-and-stochastic-outgassing-unlikely-to-significantly-shorten-the-future-lifespan-of-earths-terrestrial-biosphere.html) |
+| ai_scored | 65 | [Europa’s Ice Thickness And Subsurface Structure Characterize](https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html) |
+| keyword_rejected | - | [A strange kind of quantumness may be key to quantum computer](https://www.newscientist.com/article/2509667-a-strange-kind-of-quantumness-may-be-key-to-quantum-computers-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [A strange kind of quantumness may be key to quantum computer](https://www.newscientist.com/article/2509667-a-strange-kind-of-quantumness-may-be-key-to-quantum-computers-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bipédie de Toumaï, résistance génétique aux leucémies et alt](https://www.sciencesetavenir.fr/ultrabreves/bipedie-de-toumai-resistance-genetique-aux-leucemies-et-alternative-naturelle-au-bisphenol-l-actu-des-sciences-en-ultrabreves_190274) |
+| keyword_rejected | - | [A strange kind of quantumness may be key to quantum computer](https://www.newscientist.com/article/2509667-a-strange-kind-of-quantumness-may-be-key-to-quantum-computers-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why astronomy needs a giant in the Canary Islands](https://phys.org/news/2026-01-astronomy-giant-canary-islands.html) |
+| keyword_rejected | - | [Homogeneous crystallization via sustained solvent-extraction](https://www.nature.com/articles/s41467-025-68213-2) |
+| keyword_rejected | - | [Basement membrane turnover drives filopodial protease-indepe](https://www.biorxiv.org/content/10.64898/2026.01.05.697631v1?rss=1) |
+| keyword_rejected | - | [Fluorescence based microviscosity mapping in membraneless or](https://www.biorxiv.org/content/10.64898/2026.01.05.697638v1?rss=1) |
+| keyword_rejected | - | [Time-Resolved Analysis of the Cell Wall Proteome in Saccharo](https://www.biorxiv.org/content/10.64898/2026.01.05.697623v1?rss=1) |
+| keyword_rejected | - | [Slap restricts oncogenic Src-family kinase signaling to main](https://www.biorxiv.org/content/10.64898/2026.01.05.697659v1?rss=1) |
 | ai_scored | 15 | [Mechanistic insights into chromatin modulation by the orphan](https://www.biorxiv.org/content/10.64898/2026.01.04.697590v1?rss=1) |
 | ai_scored | 30 | [A Genome-Wide Genetic Screen Identifies a Novel kDNA Replica](https://www.biorxiv.org/content/10.64898/2026.01.05.697628v1?rss=1) |
 | ai_scored | 30 | [I see Mozambique’s baboons as windows into hominid evolution](https://www.nature.com/articles/d41586-025-04153-7) |

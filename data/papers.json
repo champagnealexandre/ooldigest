@@ -1,5 +1,256 @@
 [
   {
+    "title": "Europa\u2019s Ice Thickness And Subsurface Structure Characterized By The Juno Microwave Radiometer",
+    "summary": "<p>Jupiter\u2019s moon Europa is thought to harbour a saltwater ocean beneath a variously disrupted ice shell, and it is, thus, one of the highest priority astrobiology targets in the Solar System. Estimates of the ice-shell thickness range from 3\u2009km to over 30\u2009km, and observations by the Galileo spacecraft indicated widespread regions of ice disruption (chaotic [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html\">Europa\u2019s Ice Thickness And Subsurface Structure Characterized By The Juno Microwave Radiometer</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html",
+    "published_date": "2026-01-05T15:01:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41550-025-02718-0"
+    ],
+    "matched_keywords": [
+      "habitab*",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Juno\u2019s microwave radiometer constraints on Europa\u2019s ice-shell thickness and subsurface structure refine estimates of ocean accessibility and potential habitability, informing astrobiology-relevant boundary conditions rather than directly addressing origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth\u2019s Terrestrial Biosphere",
+    "summary": "<p>Current understanding suggests that as the Sun brightens in the far future, Earth&#8217;s carbonate-silicate cycle will offset increasing temperatures by drawing CO2 out of the atmosphere, ultimately leading to the extinction of all terrestrial plant life via either overheating or CO2 starvation. Most previous estimates put the future lifespan of Earth&#8217;s terrestrial biosphere at \u223c1 [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/seafloor-weathering-and-stochastic-outgassing-unlikely-to-significantly-shorten-the-future-lifespan-of-earths-terrestrial-biosphere.html\">Seafloor Weathering and Stochastic Outgassing Unlikely to Significantly Shorten the Future Lifespan of Earth&#8217;s Terrestrial Biosphere</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/seafloor-weathering-and-stochastic-outgassing-unlikely-to-significantly-shorten-the-future-lifespan-of-earths-terrestrial-biosphere.html",
+    "published_date": "2026-01-05T15:01:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2512.24538",
+      "https://doi.org/10.48550/arXiv.2512.24538",
+      "https://doi.org/10.3847/2041-8213/ae2b58"
+    ],
+    "matched_keywords": [
+      "habitab*",
+      "water",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Using carbon\u2013silicate cycle modeling with seafloor weathering and stochastic volcanic outgassing, the authors argue these processes are unlikely to substantially shorten Earth\u2019s remaining window for sustaining a terrestrial biosphere as solar luminosity rises."
+    }
+  },
+  {
+    "title": "How To Build A Genome \u2013 Troubleshooting Manual For Synthetic Life Published",
+    "summary": "<p>Leading synthetic biologists have shared hard-won lessons from their decade-long quest to build the world&#8217;s first synthetic eukaryotic genome in a Nature Biotechnology paper out today. Their insights could accelerate development of the next generation of engineered organisms, from climate-resilient crops to custom-built cell factories. &#8220;We&#8217;ve assembled a comprehensive overview of the literature on how [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/how-to-build-a-genome-troubleshooting-manual-for-synthetic-life-published.html\">How To Build A Genome &#8211; Troubleshooting Manual For Synthetic Life Published</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/how-to-build-a-genome-troubleshooting-manual-for-synthetic-life-published.html",
+    "published_date": "2026-01-05T14:59:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41587-025-02913-4"
+    ],
+    "matched_keywords": [
+      "eukaryo*",
+      "DNA",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Nature Biotechnology report distills practical lessons from building a synthetic eukaryotic genome, offering broad astrobiology-relevant insights into genome architecture and engineering rather than directly addressing abiogenesis or early prebiotic evolution."
+    }
+  },
+  {
+    "title": "Searching For Extraterrestrial Life Advances Terrestrial Sustainability",
+    "summary": "<p>Astrobiology, while traditionally focused on understanding the origin of life on Earth and the potential for life elsewhere, offers powerful tools and insights for addressing urgent challenges on our planet. We call for a deliberate integration of astrobiological research with applied science. Knowledge gained from biological systems and study sites on Earth that guide investigation [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/searching-for-extraterrestrial-life-advances-terrestrial-sustainability.html\">Searching For Extraterrestrial Life Advances Terrestrial Sustainability</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/searching-for-extraterrestrial-life-advances-terrestrial-sustainability.html",
+    "published_date": "2026-01-05T15:02:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-67794-2"
+    ],
+    "matched_keywords": [
+      "habitab*",
+      "water",
+      "evolution",
+      "origin(s) of life",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "A perspective arguing that astrobiology\u2014including origin-of-life framing and life-detection thinking\u2014can be deliberately integrated with applied research to improve terrestrial sustainability outcomes."
+    }
+  },
+  {
+    "title": "A Roadmap For The Exploration Of Enceladus",
+    "summary": "<p>This paper provides key hypotheses to guide future missions to Enceladus for the current decadal cycle and beyond. Enceladus is a high priority target for the fields of astrobiology and planetary science because it contains the three basic ingredients for life as we understand it: organic materials, a liquid solvent, and an energy source. This [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html\">A Roadmap For The Exploration Of Enceladus</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html",
+    "published_date": "2026-01-05T14:56:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.1029/2024JE008907",
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008907"
+    ],
+    "matched_keywords": [
+      "biosignature",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Provides a mission-science roadmap for exploring Enceladus\u2019 ocean world potential\u2014including key hypotheses and measurements aimed at assessing habitability and possible biosignatures in its plume material."
+    }
+  },
+  {
+    "title": "Theoretical Framework for Absolute Quantification in Digital Immunoassays and Advancements in Microfluidic-Free Droplet-Based Digital Immunoassay Methodologies",
+    "summary": "Current single-molecule immunoassays primarily rely on Poisson distribution models, which have limitations in achieving absolute quantification of target proteins. To address this, we developed a novel mathematical model that treats the capture of target proteins by magnetic beads as a discrete Poisson process, while the subsequent washing and secondary sampling steps are modeled using a hypergeometric distribution. Based on this combined distribution model, we constructed a new theoretical framework for digital immunoassays and proposed a calibration\u2011curve\u2011free absolute quantification method based on micro\u2011volume calculation. To validate the feasibility of this model, we established a digital immunoassay platform using a water\u2011in\u2011oil magnetic bead system without the need for complex microfluidic devices. This approach not only eliminates reliance on traditional calibration curves but also demonstrates enhanced feasibility and a broader dynamic range compared to existing methods such as Single Molecule Immunoassays and Electrochemiluminescence Immunoassays. Additionally, it allows for the determination of the binding efficiency and accurate blank coefficients of the detection system. Furthermore, the potential application of an internal calibration method within this system is explored. The proposed theoretical framework offers a new strategy to address the challenge of absolute quantification in protein immunoassays, provides important insights for advancing protein quantification methodologies, and supports the development of more precise detection techniques. It is expected to expand the application of digital immunoassays in biomedical research and clinical diagnostics.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Develops a Poisson\u2013hypergeometric theoretical framework and a microfluidic-free droplet digital immunoassay enabling calibration-curve-free absolute protein quantification, a methodological advance with only indirect potential relevance to astrobiological biosignature detection."
+    }
+  },
+  {
+    "title": "A Glimpse Into Darkness: Diversity Of Culturable Cyanobacteria, Green Algae And Fungi From Subaerial Cave Biofilms",
+    "summary": "<p>Caves and hypogean environments provide stable microclimates characterized by uniform temperatures, constant humidity, and low light levels. In such sites, extremely low light irradiance can support the growth of subaerial biofilms (SABs) dominated by unique photosynthetic communities of cyanobacteria accompanied by chlorophytes, heterotrophic bacteria, and fungi. This study aimed to apply a culture\u2010dependent approach to [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html\">A Glimpse Into Darkness: Diversity Of Culturable Cyanobacteria, Green Algae And Fungi From Subaerial Cave Biofilms</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html",
+    "published_date": "2026-01-05T15:00:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12718444/",
+      "https://doi.org/10.1111/jpy.70104",
+      "https://onlinelibrary.wiley.com/doi/10.1111/jpy.70104"
+    ],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Culture-based survey of cyanobacteria, green algae, and fungi in low-light subaerial cave biofilms, offering an astrobiology-relevant analog for microbial persistence and potential biosignature formation in dark, humid environments rather than a direct origins-of-life study."
+    }
+  },
+  {
+    "title": "Slap restricts oncogenic Src-family kinase signaling to maintain colonic epithelial homeostasis",
+    "summary": "Src-family kinases (SFKs) regulate proliferation in colonic epithelial cells (CECs), but the mechanisms that restrain their activity remain poorly defined. We identify Src-like adaptor protein (SLAP), a negative regulator of receptor tyrosine kinase signaling, as a key suppressor of SFK activity in the colon. Constitutive and inducible epithelial-specific Slap deletion using a villin-CreERT2 model increases CEC proliferation and accelerates tumorigenesis in the azoxymethane/dextran sodium sulfate (AOM/DSS) model. Slap deficiency also enhances SFK-dependent expansion of normal and tumor-derived colonic organoids. Mechanistically, we identify the receptor tyrosine kinase EphB2, an upstream activator of SFKs and CEC proliferation, as an additional SLAP-regulated target. Together, these findings reveal a non-genetic mechanism by which SFKs drive colonic transformation and establish SLAP as a tumor suppressor that constrains oncogenic SFK signaling in the colonic epithelium.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697659v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Time-Resolved Analysis of the Cell Wall Proteome in Saccharomyces cerevisiae S288c During Batch Fermentation",
+    "summary": "The yeast cell wall is a highly dynamic and multifunctional structure that is essential for maintaining cellular integrity, protecting against environmental stresses, and enabling adhesion, signaling, and interactions with the surrounding environment. Its chemical composition and organization are strongly influenced by external factors such as temperature, pH, nutrient availability and their delivery mode. In batch culture systems, yeast cells grow in a closed environment with limited nutrients, leading to well-defined growth phases that reflect major metabolic transitions. While global proteomic changes during these phases have been described, the temporal regulation of cell wall protein (CWP) expression remains insufficiently characterized. In this study, the temporal remodeling of the cell wall proteome of Saccharomyces cerevisiae S288c was examined during batch cultivation in rich medium over 24 hours. A classical proteomics workflow was applied to analyze CWPs from samples collected at multiple time points over the cultivation period. The analysis revealed substantial qualitative and quantitative changes in CWPs expression linked to metabolic shifts between growth phases. Proteins involved in cell wall remodeling and glycoprotein biosynthesis were particularly enriched at the initial sampling point (b-T0h), corresponding to the transition from flask cultivation to bioreactor conditions, and overall CWP abundance was highest during this early growth stage. Time-resolved quantitative, transcription factor, and functional enrichment analyses revealed coordinated regulation of cell wall adaptation. Stationary-phase specific protein markers linked to glucose depletion were identified, offering insight into nutrient-limited remodeling. Comparisons with previous studies showed variability driven by strain differences, culture conditions, and methodological approaches.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697623v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fluorescence based microviscosity mapping in membraneless organelles",
+    "summary": "Membraneless organelles (MLOs) are cellular biomolecular condensates formed by liquid-liquid phase separation. Their biological functions are intimately linked to their material properties including viscosity. Condensate viscosity is determined by the size, shape, concentration and molecular interactions between MLOs components. It impacts the diffusion of MLOs constituents and the selective permeability of the condensate, thereby regulating the rate of biochemical reactions. Viscosity modifications associated with liquid-to-gel transition of the condensates are related to pathologies. Current experimental approaches for characterizing the material properties of cellular condensates remain limited. In this study, we report the use of BODIPY-based molecular rotors, in combination with fluorescence lifetime imaging microscopy (FLIM), to monitor the microviscosity of cellular MLOs directly in living cells. The fluorescence lifetime of BODIPY derivatives increases with the viscosity of their microenvironment, enabling quantitative assessment of microviscosity within condensates. HaloTag technology was employed to specifically label MLO components. Our findings reveal that the nucleolus exhibits higher viscosity than the surrounding nucleoplasm and that microviscosity varies across nucleolar sub-compartments. Furthermore, nucleolar reorganization induced by inhibition of rRNA synthesis results in a measurable increase in microviscosity. Finally, we demonstrate that the microviscosity of stress granules is lower than that of the nucleolus. Overall, presented results demonstrate the strong potential of the BODIPY based molecular rotors as a versatile and powerful tools for probing the material properties of cellular MLOs.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697638v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Basement membrane turnover drives filopodial protease-independent invasion",
+    "summary": "The basement membrane is a specialised nanoporous extracellular matrix mainly composed of collagen IV fibres and laminins. As collagen IV fibres form covalent cross-links, cells cannot freely cross it. Basement membrane breaching marks the transition from in situ to invasive carcinoma, commonly attributed to protease activity. Yet, recent data show that tumour cells can cross basement membranes through protease-independent mechanisms. Experimental evidence suggests that filopodia can play an active role in pore enlargement in extracellular matrices by generating plastic mechanical deformation. Moreover, plasticity can be regulated by covalent cross-link concentration, which we hypothesise can be responsive to collagen IV turnover, thus generating transient weak spots. To test this, we developed a quantitative, biophysical mathematical model describing the interaction between a tumour-cell cluster and a basement membrane using relevant biological assumptions and parameters. The cluster is represented as an evolving, energetic surface and the basement membrane is described as a set of points representing active and inactive links. Simulations show that synchronisation of collagen IV turnover coupled with filopodium extension drives pore enlargement, providing a mechanistic basis for protease-independent invasion. Consistent with experiments, simulations identify two complementary filopodium groups: one driving global degradation and the other promoting local pore enlargement.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697631v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Homogeneous crystallization via sustained solvent-extraction channels for methylammonium-free all-perovskite tandem solar cells",
+    "summary": "<p>Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68213-2\">doi:10.1038/s41467-025-68213-2</a></p>Despite high efficiencies, all-perovskite tandem solar cells are hindered by thermal instability. Guo et al. address this issue by introducing a multi-Lewis-base modulator, which suppresses the formation of dense Cs-rich films in Pb-Sn perovskites to concurrently deliver high performance and stability.",
+    "url": "https://www.nature.com/articles/s41467-025-68213-2",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Why astronomy needs a giant in the Canary Islands",
+    "summary": "Size matters when it comes to telescopes. The bigger they are, the farther they can see. Prioritizing constructing large ones is therefore high on the priority list for many observational organizations. But doing so comes at a cost, and not just in terms of money. Finding a suitable site can be a challenge, and that has been particularly true for the effort to build a 30-meter telescope in the Northern Hemisphere.",
+    "url": "https://phys.org/news/2026-01-astronomy-giant-canary-islands.html",
+    "published_date": "2026-01-05T15:15:19Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A strange kind of quantumness may be key to quantum computers' success",
+    "summary": "Researchers at Google have used their Willow quantum computer to demonstrate that \"quantum contextuality\" may be a crucial ingredient for its computational prowess",
+    "url": "https://www.newscientist.com/article/2509667-a-strange-kind-of-quantumness-may-be-key-to-quantum-computers-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T12:00:59Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bip\u00e9die de Touma\u00ef, r\u00e9sistance g\u00e9n\u00e9tique aux leuc\u00e9mies et alternative au bisph\u00e9nol : l\u2019actu des sciences",
+    "summary": "Au sommaire des ultrabr\u00e8ves du 5 janvier 2026 : une nouvelle \u00e9tude en faveur de la bip\u00e9die de Touma\u00ef, la r\u00e9sistance g\u00e9n\u00e9tique aux leuc\u00e9mies expliqu\u00e9e et une alternative naturelle au bisph\u00e9nol.",
+    "url": "https://www.sciencesetavenir.fr/ultrabreves/bipedie-de-toumai-resistance-genetique-aux-leucemies-et-alternative-naturelle-au-bisphenol-l-actu-des-sciences-en-ultrabreves_190274",
+    "published_date": "2026-01-05T15:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A strange kind of quantumness may be key to quantum computers' success",
+    "summary": "Researchers at Google have used their Willow quantum computer to demonstrate that \"quantum contextuality\" may be a crucial ingredient for its computational prowess",
+    "url": "https://www.newscientist.com/article/2509667-a-strange-kind-of-quantumness-may-be-key-to-quantum-computers-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T12:00:59Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A strange kind of quantumness may be key to quantum computers' success",
+    "summary": "Researchers at Google have used their Willow quantum computer to demonstrate that \"quantum contextuality\" may be a crucial ingredient for its computational prowess",
+    "url": "https://www.newscientist.com/article/2509667-a-strange-kind-of-quantumness-may-be-key-to-quantum-computers-success/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T12:00:59Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "I see Mozambique\u2019s baboons as windows into hominid evolution",
     "summary": "<p>Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04153-7\">doi:10.1038/d41586-025-04153-7</a></p>In Gorongosa National Park in Mozambique, Rassina Farassi studies how humans came to walk on two legs.",
     "url": "https://www.nature.com/articles/d41586-025-04153-7",
