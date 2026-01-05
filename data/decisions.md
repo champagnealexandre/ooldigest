@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Asymmetrical flow field-flow fractionation reveals
+the true ](https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Large-scale music events can cause subclinical hearing damag](https://www.nature.com/articles/s41598-025-30382-x) |
+| keyword_rejected | - | [Stability analysis and prediction of hazardous rock mass in ](https://www.nature.com/articles/s41598-025-34840-4) |
+| keyword_rejected | - | [LEWIS ACID-CATALYZED CHEMOSELECTIVITY CONTROLLED N-ALKYLATIO](https://dx.doi.org/10.26434/chemrxiv-2026-ccbwv?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Post-Inspection Analysis & The Poly-Var Algorithm for an Aci](https://dx.doi.org/10.26434/chemrxiv-2025-chpxw-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The Differential Method of Balancing Chemical Equations—The ](https://dx.doi.org/10.26434/chemrxiv-2025-np1gz-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [LEWIS ACID-CATALYZED CHEMOSELECTIVITY CONTROLLED N-ALKYLATIO](https://dx.doi.org/10.26434/chemrxiv-2026-ccbwv?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Neige/verglas: la vigilance orange étendue à 23 départements](https://www.sciencesetavenir.fr/nature-environnement/neige-verglas-la-vigilance-orange-etendue-a-23-departements-lundi_190266?xtor=RSS-15) |
 | keyword_rejected | - | [Faire "ressentir l'espace" aux personnes malvoyantes : le dé](https://www.sciencesetavenir.fr/sante/ophtalmo/faire-ressentir-l-espace-aux-personnes-malvoyantes-le-defi-de-la-start-up-francaise-seehaptic_190003?xtor=RSS-16) |
 | keyword_rejected | - | [Computationally efficient tail distribution-aware large-scal](https://www.nature.com/articles/s41467-025-68241-y) |

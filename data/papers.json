@@ -1,5 +1,80 @@
 [
   {
+    "title": "Asymmetrical flow field-flow fractionation reveals\nthe true biophysical properties of polymer\u2013pDNA\ncomplexes by gently separating free polymers",
+    "summary": "Due to their low manufacturing cost and versatility in delivering diverse nucleic acid payloads such as plasmids (pDNA) and genome editor proteins, polymers have emerged as promising vectors in gene therapy. To encapsulate and deliver anionic nucleic acids, researchers add cationic polymers to payloads (e.g., pDNA), forming\nhighly fragile, complex, and heterogeneous polyplex assemblies. Large stoichiometric excesses of protonotable amine groups (in the polymers) over the phosphate groups\n(in the pDNA) are typical of polyplexes, which are frequently formed at nitrogen-to\u0002 phosphorous ratios between 5\u2013100 . Rather than binding irreversibly to pDNA pay\u0002loads, polymers predominantly exist as \u201cfree polymers\u201d which dynamically exchange with pDNA-bound polymers. Analogous to empty lipid nanoparticles and empty viral capsids, free polymers pose complex characterization, quality control, and regulatory challenges that may hinder clinical translation. We urgently need to quantify how free polymers modify critical polyplex properties (e.g., pDNA loading per polyplex) as well as biological outcomes (e.g., immunogenicity, pDNA delivery efficiency, and toxicity). We developed a unique analytical approach that unveils hitherto unsuspected roles\nplayed by free polymers during the complexation and intracellular delivery of pDNA. Applying asymmetrical flow field-flow fractionation (AF4), we gently separated free\npolymers from crude polyplexes while conserving polyplex integrity. Unlike batch light scattering analysis of   fractionated crude polyplexes, which severely  underestimate polyplex size and pDNA loading per polyplex, AF4 sharpened measurements of poly\u0002plex molecular weight, pDNA loading, and radius of gyration by removing free poly\u0002mers and their background scattering contributions. Comparing solution properties\nvia light scattering, we discovered that AF4-purified polyplexes appeared over twice as large, loading twice as much pDNA as crude polyplexes. AF4 uncovered contrasts\nin the biological performance of crude and purified polyplexes. Free polymers aggra\u0002vated inflammatory responses in macrophages by up to 22%. Removing free polymers depressed transfection efficiency by 50% while improving cell viability by 30%; reintro\u0002ducing free polymers abrogated these contrasts. By separating and quantifying free polymers in polyplexes, AF4 illuminated a far more complex portrait of polyplex so\u0002lution properties that has hitherto remained elusive to conventional characterization\nmethods. Our work has revealed pathways to ameliorate polymer-associated toxicity and inflammation during pDNA delivery.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-j468r"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Develops an AF4-based method to gently separate free cationic polymers from polymer\u2013plasmid DNA polyplexes, revealing corrected biophysical properties (size/loading) and showing that free polymers modulate inflammation, transfection efficiency, and toxicity\u2014useful for understanding nucleic-acid self-assembly/packaging but not directly focused on origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "LEWIS ACID-CATALYZED CHEMOSELECTIVITY CONTROLLED N-ALKYLATION AND C-ALKYLATION OF ANILINES USING VINYL ARENES",
+    "summary": "The reaction environment is a powerful lever for steering chemoselectivity. Here, we show that Lewis acid identity can switch couplings of anilines and vinyl arenes between C-alkylation (hydroarylation) and N-alkylation (hydroamination) under metal-free conditions. By tuning the Lewis acid, solvent, temperature, and stoichiometry, either product manifold can be delivered on demand. A broad survey of substrates reveals predictable trends aligned with benzylic stabilization and aniline electronics, enabling practical access to pharmaceutically-relevant scaffolds.  Collectively, these results establish a switchable chemoselectivity model for aniline-alkene functionalization and highlight reaction-environment engineering as a general strategy for method development and late-stage diversification.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-ccbwv?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The Differential Method of Balancing Chemical Equations\u2014The Alternative to Manual Inspection",
+    "summary": "While the method of manual inspection reliably produces correct results at the introductory level, it can often appear untidy and unintuitive and lacks teachable depth. This paper presents a novel alternative approach designed to achieve the same outcomes as manual inspection but with enhanced clarity. It serves as both a pedagogical and visualisation tool, offering an alternative perspective on balancing chemical equations at the introductory level. The primary beneficiaries of this study are instructors at the introductory level of chemistry, where manual inspection is inevitable. This article serves to contribute to the ongoing discussions surrounding issues with manual inspection, suitable introductory alternatives, and the overall comprehension of the somewhat unteachable and abstract process of balancing chemical equations.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-np1gz-v3?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Post-Inspection Analysis & The Poly-Var Algorithm for an Acid-Base Neutralisation Family: Secrets of Equilibrium",
+    "summary": "This paper introduces Post-Inspection Analysis (PIA), a concept for understanding and reverse engineering balanced equations of similar reactions. Here we explore the idea that balanced equations contain useable information observed by grouping and analysing similar equations, allowing us to uncover observations that support the teaching of the balancing process and aid the formalisation of algorithms or methods applicable to families of equations. Through this framework, logical relationships and proportional consistencies that define entire families of reactions are revealed. Applied to acidic redox and acid\u2013base neutralisation (ABN) systems, the concept generalises established methods (such as the oxidation-number (ON) method for certain redox systems and the ionic half-reaction/equation method for ABN reactions) and provides a foundation for deriving new methods and procedures (such as the Poly-Var Algorithm for the core ABN reaction). PIA therefore offers a conceptual lens for analysing balanced equations distinct from existing generalised approaches. This study contributes to the understanding and overall teaching of the balancing process.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-chpxw-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "LEWIS ACID-CATALYZED CHEMOSELECTIVITY CONTROLLED N-ALKYLATION AND C-ALKYLATION OF ANILINES USING VINYL ARENES",
+    "summary": "The reaction environment is a powerful lever for steering chemoselectivity. Here, we show that Lewis acid identity can switch couplings of anilines and vinyl arenes between C-alkylation (hydroarylation) and N-alkylation (hydroamination) under metal-free conditions. By tuning the Lewis acid, solvent, temperature, and stoichiometry, either product manifold can be delivered on demand. A broad survey of substrates reveals predictable trends aligned with benzylic stabilization and aniline electronics, enabling practical access to pharmaceutically-relevant scaffolds.  Collectively, these results establish a switchable chemoselectivity model for aniline-alkene functionalization and highlight reaction-environment engineering as a general strategy for method development and late-stage diversification.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-ccbwv?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stability analysis and prediction of hazardous rock mass in cold regions based on hybrid algorithm model",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34840-4\">doi:10.1038/s41598-025-34840-4</a></p>Stability analysis and prediction of hazardous rock mass in cold regions based on hybrid algorithm model",
+    "url": "https://www.nature.com/articles/s41598-025-34840-4",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Large-scale music events can cause subclinical hearing damage",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30382-x\">doi:10.1038/s41598-025-30382-x</a></p>Large-scale music events can cause subclinical hearing damage",
+    "url": "https://www.nature.com/articles/s41598-025-30382-x",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Multiscale modelling of the electrocatalysis of enzymes: Insights into the performance of microperoxidase at an aqueous/graphene interface and their exploitation to improve performance",
     "summary": "There is great interest in systems where enzymes are adsorbed on and act at electrode surfaces \u2013 enzymatic biofuel cells, bioreactors and biosensors are just three examples. Whilst such systems have been the subject of extensive study and development since the 1960s, the rate of progress in this research is hindered by a lack of molecular-level understanding of the enzyme adsorption process and adsorbed states, and the associated electron transfer processes. Herein, we present and then demonstrate a multiscale approach that combines molecular dynamics simulation to elucidate the former and density functional theory (MD/DFT) for the latter. The demonstration of the new approach focused on a system involving the microperoxidase-11 (MP-11) enzyme, a microenzyme made up of a Fe-containing heme ring attached to an 11-residue scaffold, a graphene electrode, and a neutral-pH saline solution. For this system, the adsorbed MP-11 was found to adopt six possible heme configurations, where the configurations are defined by the distance of the iron from the graphene and the angle between the normals of the heme ring and graphene electrode. The rate constant for electron transfer between the MP-11 and graphene evaluated through combining the MD and DFT results and their variation with overpotential are comparable to the limited experimental data.  The results were used to illustrate how the new multiscale approach could be used to improve electrocatalytic performance of the system.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-qj5fh?rft_dat=source%3Ddrss",
