@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Neige/verglas: la vigilance orange étendue à 23 départements](https://www.sciencesetavenir.fr/nature-environnement/neige-verglas-la-vigilance-orange-etendue-a-23-departements-lundi_190266?xtor=RSS-15) |
+| keyword_rejected | - | [Faire "ressentir l'espace" aux personnes malvoyantes : le dé](https://www.sciencesetavenir.fr/sante/ophtalmo/faire-ressentir-l-espace-aux-personnes-malvoyantes-le-defi-de-la-start-up-francaise-seehaptic_190003?xtor=RSS-16) |
+| keyword_rejected | - | [Computationally efficient tail distribution-aware large-scal](https://www.nature.com/articles/s41467-025-68241-y) |
+| keyword_rejected | - | [Mild generation of highly nucleophilic N-heterocyclic carben](https://dx.doi.org/10.26434/chemrxiv-2026-b6rqh?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Photocatalytic Conversion of Carbon Dioxide Over Silver-Modi](https://dx.doi.org/10.26434/chemrxiv-2026-hw5zl?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Mild generation of highly nucleophilic N-heterocyclic carben](https://dx.doi.org/10.26434/chemrxiv-2026-b6rqh?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Multiscale modelling of the electrocatalysis of enzymes: Ins](https://dx.doi.org/10.26434/chemrxiv-2026-qj5fh?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Aqueous Dispersion of Carbon Nanotubes by Chlorine Dioxide O](https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Kinetic insights into cholera toxin B-biomimetic glycan inte](https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss) |
 | ai_scored | 20 | [Egypt’s Karnak Temple may have risen from water like a creat](https://www.sciencedaily.com/releases/2025/12/251228074502.htm) |
