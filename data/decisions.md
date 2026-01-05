@@ -1,5 +1,28 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Mars Curiosity Rover Observes Sulfur Crystals](https://astrobiology.com/2026/01/mars-curiosity-rover-observes-sulfur-crystals.html) |
+| ai_scored | 0 | [NASA SMD ROSES-25 F.6 Science Activation: Corrections of Req](https://astrobiology.com/2026/01/nasa-smd-roses-25-f-6-science-activation-corrections-of-requirements-for-budget-submission.html) |
+| keyword_rejected | - | [2026 will shed light on whether a little-known drug helps wi](https://www.newscientist.com/article/2508922-2026-will-shed-light-on-whether-a-little-known-drug-helps-with-autism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new popular science books of January 2026](https://www.newscientist.com/article/2509326-the-best-new-popular-science-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [El Niño was linked to famines in Europe in the early modern ](https://www.newscientist.com/article/2509775-el-nino-was-linked-to-famines-in-europe-in-the-early-modern-period/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [2026 will shed light on whether a little-known drug helps wi](https://www.newscientist.com/article/2508922-2026-will-shed-light-on-whether-a-little-known-drug-helps-with-autism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new popular science books of January 2026](https://www.newscientist.com/article/2509326-the-best-new-popular-science-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [El Niño was linked to famines in Europe in the early modern ](https://www.newscientist.com/article/2509775-el-nino-was-linked-to-famines-in-europe-in-the-early-modern-period/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [2026 will shed light on whether a little-known drug helps wi](https://www.newscientist.com/article/2508922-2026-will-shed-light-on-whether-a-little-known-drug-helps-with-autism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new popular science books of January 2026](https://www.newscientist.com/article/2509326-the-best-new-popular-science-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [El Niño was linked to famines in Europe in the early modern ](https://www.newscientist.com/article/2509775-el-nino-was-linked-to-famines-in-europe-in-the-early-modern-period/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sunyaev–Zeldovich detection of hot intracluster gas at redsh](https://www.nature.com/articles/s41586-025-09901-3) |
+| keyword_rejected | - | [In Quantum Mechanics, Nothingness Is the Potential To Be Any](https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/) |
+| keyword_rejected | - | [Earliest, hottest galaxy cluster gas on record challenges co](https://phys.org/news/2026-01-earliest-hottest-galaxy-cluster-gas.html) |
+| keyword_rejected | - | [A neighboring vista of stellar birth](https://phys.org/news/2026-01-neighboring-vista-stellar-birth.html) |
+| keyword_rejected | - | [A hybrid improved binary GWO-PSO with random forest (IBGWO-P](https://www.nature.com/articles/s41598-025-33242-w) |
+| keyword_rejected | - | [Deep learning and superoscillatory speckles empowered multim](https://www.nature.com/articles/s41467-025-67942-8) |
+| keyword_rejected | - | [Molecular Selectivity of Damping-Induced Spectral Amplificat](https://dx.doi.org/10.26434/chemrxiv-2026-61xw8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Operational Accessibility Isomorphism Between Spectral Dampi](https://dx.doi.org/10.26434/chemrxiv-2026-qkt9k?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Distinct mechanisms drive post-antibiotic Tuberculosis relap](https://www.biorxiv.org/content/10.64898/2026.01.04.697520v1?rss=1) |
+| keyword_rejected | - | [Proteins as Statistical Languages: Information-Theoretic Sig](https://www.biorxiv.org/content/10.64898/2025.12.31.697235v1?rss=1) |
+| keyword_rejected | - | [Learning a PRECISE language for small-molecule binding](https://www.biorxiv.org/content/10.64898/2026.01.04.697581v1?rss=1) |
+| keyword_rejected | - | [Synaptation - a missing concept in the science of evolved co](https://www.biorxiv.org/content/10.64898/2026.01.01.697299v1?rss=1) |
 | ai_scored | 45 | [A Glimpse Into Darkness: Diversity Of Culturable Cyanobacter](https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html) |
 | ai_scored | 20 | [Theoretical Framework for Absolute Quantification in Digital](https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss) |
 | ai_scored | 65 | [A Roadmap For The Exploration Of Enceladus](https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html) |

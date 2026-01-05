@@ -1,5 +1,271 @@
 [
   {
+    "title": "NASA SMD ROSES-25 F.6 Science Activation: Corrections of Requirements for Budget Submission",
+    "summary": "<p>The Science Mission Directorate Science Activation Program encourages all people to actively participate in science through activities and resources developed by a collaborative network of project teams drawing on NASA SMD assets (science content, experts, data, etc.). The Science Activation program element (F.6 SciAct) of ROSES-25 solicits a portfolio of projects that together cover the [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/nasa-smd-roses-25-f-6-science-activation-corrections-of-requirements-for-budget-submission.html\">NASA SMD ROSES-25 F.6 Science Activation: Corrections of Requirements for Budget Submission</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/nasa-smd-roses-25-f-6-science-activation-corrections-of-requirements-for-budget-submission.html",
+    "published_date": "2026-01-05T15:58:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrochemistry",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Administrative notice correcting budget submission requirements for NASA SMD ROSES-25 F.6 Science Activation (public engagement) proposals, not a research result relevant to origins of life."
+    }
+  },
+  {
+    "title": "Mars Curiosity Rover Observes Sulfur Crystals",
+    "summary": "<p>This image was captured by Curiosity\u2019s Mars Hand Lens Imager (MAHLI), a camera on the end of its robotic arm, on June 4, 2024, the 4,205th Martian day, or sol, of the mission. This rock was nicknamed \u201cConvict Lake\u201d after a location in California\u2019s Sierra Nevada. Curiosity\u2019s Alpha Particle X-Ray Spectrometer (APXS) found that the [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/mars-curiosity-rover-observes-sulfur-crystals.html\">Mars Curiosity Rover Observes Sulfur Crystals</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/mars-curiosity-rover-observes-sulfur-crystals.html",
+    "published_date": "2026-01-05T15:59:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrochemistry",
+      "astrobio*",
+      "mars"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Curiosity imaged and chemically characterized sulfur crystals in a Martian rock, a geochemical observation broadly relevant to past habitability and potential preservation environments but not directly advancing origins-of-life mechanisms or biosignature detection."
+    }
+  },
+  {
+    "title": "Synaptation - a missing concept in the science of evolved complexity",
+    "summary": "The concept of synaptation is introduced to explain how natural selection can generate complex, higher-level traits in collectives that lack a shared inheritance mechanism. The traditional approach, based on Lewontin's \"recipe\" for natural selection, excludes such emergent traits from the adaptation-exaptation taxonomy. Yet individual organism fitness is often mediated by collective, non-linear interactions within systems that cannot themselves sustain heredity. To address this, multilevel selection (MLS) theory is extended in the form of synaptive MLS, a process through which heterogeneous task groups evolve emergent traits, called synaptations, via irreducible, non-additive cross-level selective covariance. Synaptive MLS differs from trait-group selection because collective function depends on causal entanglement among heterogenous entities with diverse fates, rather than a common trait that links entities to a shared fate. This framework applies to conspecific divisions of labor, multi-species consortia and holobiont integration, where coordination of distinct roles yields emergent fitness effects. Synaptation recognizes how natural selection can contribute to emergent functions by coordinating adaptive, exaptive, and neutral organism-level traits whose lower-level roles scaffold higher-level selected effects. Synaptation and adaptation define the endpoints of a continuum of selected-effect complexity. Recognition of this continuum extends the Darwinian paradigm to adaptive complexity in systems that fail classical heredity requirements and offers an evolutionary lens for understanding relational phenomena such as eubiosis, dysbiosis, and rebiosis in holobionts.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.01.697299v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Learning a PRECISE language for small-molecule binding",
+    "summary": "Virtual screening of billion-scale compound libraries has become feasible through machine learning approaches. In particular, CoNCISE (RECOMB 2025) introduced drug quantization via codebooks, achieving highly scalable and accurate binary predictions. However, drug discovery requires understanding not just whether molecules bind, but where they bind and how to target specific sites. Here, we present PRECISE which leverages CoNCISE's quantized small-molecule representations while operating on the target's 3D structure as its input. The key innovation of PRECISE is reimagining drug-target interaction as compatibility between quantized drug embeddings and a latent representation of the target's surface mesh, enriched with electrostatic and geometric features. PRECISE designs a novel surface representation, interpreted through a geometric deep learning architecture, enabling it to identify binding sites more accurately than state-of-the-art methods (DiffDock-L, Chai, and Boltz-2) while the codebook ensures billion-scale screening capability. Our formulation unlocks zero-shot generalization to complex targets such as metalloproteins and multi-chain complexes. To enable efficient integration with downstream docking workflows, we introduce PRECISE-MCTS, which combines fast PRECISE-based screening with selective Vina docking through an iterative Monte Carlo Tree Search approach. By providing both mechanistic understanding and massive scalability, PRECISE delivers capabilities that were previously mutually exclusive in virtual screening.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697581v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Proteins as Statistical Languages: Information-Theoretic Signatures of Proteomes Across the Tree of Life",
+    "summary": "Protein sequences are commonly interpreted through biochemical and evolutionary lenses, emphasizing structure-function relationships and selection in sequence space. Here we develop a complementary viewpoint: proteins as statistical languages, strings over a finite alphabet generated by constrained stochastic processes. We formalize intrinsic informational descriptors of protein ensembles, including composition entropy H1, adjacent mutual information I1, and separation-dependent information profiles Id. A null-model ladder (uniform, composition-matched i.i.d., and Markov-1) separates compositional effects from genuine positional dependence. We then evaluate these descriptors empirically across 20 UniProt reference proteomes spanning major clades, using protein-level bootstrap resampling and matched synthetic controls. Real proteomes consistently depart from composition-matched i.i.d. baselines and exhibit information profiles that remain elevated beyond the decay expected under first-order Markov surrogates, indicating dependencies beyond local transition statistics. Finally, a compressibility proxy (gzip) provides an orthogonal signature of redundancy relative to i.i.d. controls at matched composition. Together, these results support the view of proteomes as constrained statistical languages and provide model-agnostic fingerprints for comparing sequence ensembles. These signatures provide a lightweight diagnostic layer for comparing proteomes prior to mechanistic modeling.",
+    "url": "https://www.biorxiv.org/content/10.64898/2025.12.31.697235v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Distinct mechanisms drive post-antibiotic Tuberculosis relapse post-cure versus post-treatment-failure",
+    "summary": "Tuberculosis (TB) remains a global health concern, as Mycobacterium tuberculosis (Mtb) infects a quarter of the world's population. Though many TB patients sterilize infection with treatment regimens including the current standard, incomplete sterilization leads to post-treatment relapse and development of drug resistance. Two mechanisms have been hypothesized as driving relapse: persistence, where treatment kills all replicating Mtb, and relapse follows once non-replicating Mtb return to a replicative niche; and threshold, where replicating Mtb remain alive, yet below detectable levels. Relapse is often detected through a combination of clinical and bacteriological testing, often clinically described as recurrence of TB <2 years after a \"cure\" diagnosis, while many experimental studies examine relapse ~2-months after treatment completion. Our capacity to untangle these considerations and identify mechanisms driving relapse in vivo are limited. Here, we examine the impact of both threshold and persistence mechanisms on relapse post-treatment completion and post-cure diagnosis using our computational model capturing whole-host Mtb infection dynamics. Simulations show that erroneous TB-negative diagnosis post-treatment (false cure) rates are regimen-specific, specifically, the historic standard HRZE is more likely to result in false cure than the contemporary regimens RMZE or BPaL. We also identify how threshold-driven or persistence-driven relapse correlates with both pre-treatment bacterial burden and diagnostic tests used at treatment completion. Simulations show that post-cure relapse is almost exclusively persistence driven, while threshold-driven relapse is most common without a \"cured\" inclusion criterion. Thus, for patients with negative bacteriological diagnostic results at treatment completion, subsequent relapse may best be personalized by targeting non-replicating Mtb.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697520v1?rss=1",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "systems biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Operational Accessibility Isomorphism Between Spectral Damping and Neuromodulatory Gating",
+    "summary": "This paper formally defines an operational isomorphism between spectral damping in molecular vibronic systems and neuromodulatory control in biological sensory systems. Without asserting causal continuity or physical identity across scales, we show that both domains instantiate the same class of output-selective control structures, characterized by non-monotonic modulation and bounded state accessibility. Within a minimal operational framework, damping is shown to function not as loss or noise, but as a selector of accessible outputs, leading to effective reductions in observable state spaces under parametric control. This perspective clarifies how neuromodulatory phenomena commonly described as gain modulation cannot, in general, be reduced to monotonic gain models, but instead reflect accessibility-based control. The proposed isomorphism is explicitly limited, falsifiable, and non-metaphorical, establishing a principled bridge between molecular spectroscopy and perceptual neuroscience without invoking consciousness, representation, or subjective experience.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-qkt9k?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Molecular Selectivity of Damping-Induced Spectral Amplification",
+    "summary": "Environmental damping in molecular spectroscopy is commonly treated as a phenomenological source of decoherence and spectral broadening, leading to a monotonic reduction of spectral intensity. Here we show that this assumption is not generally valid. Using a vibronically resolved response-function framework, we demonstrate that for certain molecular vibronic structures, intermediate damping can enhance observable spectral intensity through redistribution of vibronic interference, without any increase in total oscillator strength. The peak intensity exhibits a non-monotonic dependence on damping strength, characterized by a finite optimal value. This behavior is not universal. Weakly coupled systems lack sufficient spectral overlap to support redistribution, whereas strongly coupled systems exhibit destructive interference due to excessive vibronic density, leading to monotonic suppression. These results indicate that damping can act as a structural selector of spectral accessibility rather than as a purely degradative loss mechanism and clarify the molecular conditions under which environmental coupling reshapes spectroscopic observables.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-61xw8?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Deep learning and superoscillatory speckles empowered multimode fiber probe for in situ nano-displacement detection and micro-imaging",
+    "summary": "<p>Nature Communications, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67942-8\">doi:10.1038/s41467-025-67942-8</a></p>This work introduces an in-situ nano-displacement measurement system via a multimode fiber probe with superoscillatory speckles and deep learning. It achieves 10\u2009nm resolution and 99.95% accuracy for wafers, non-contact sensing in confined spaces.",
+    "url": "https://www.nature.com/articles/s41467-025-67942-8",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A hybrid improved binary GWO-PSO with random forest (IBGWO-PSO-RF) based intrusion detection model for large-scale attacks in IoT environment",
+    "summary": "<p>Scientific Reports, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33242-w\">doi:10.1038/s41598-025-33242-w</a></p>A hybrid improved binary GWO-PSO with random forest (IBGWO-PSO-RF) based intrusion detection model for large-scale attacks in IoT environment",
+    "url": "https://www.nature.com/articles/s41598-025-33242-w",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A neighboring vista of stellar birth",
+    "summary": "This ESA/Hubble picture highlights another view of a distant stellar birthplace. Captured in a parallel field to a recently released image, this scene reveals a neighboring region of the N159 star-forming complex in the Large Magellanic Cloud, approximately 160,000 light-years away.",
+    "url": "https://phys.org/news/2026-01-neighboring-vista-stellar-birth.html",
+    "published_date": "2026-01-05T16:20:26Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Earliest, hottest galaxy cluster gas on record challenges cosmological models",
+    "summary": "An international team of astronomers led by Canadian researchers has found something the universe wasn't supposed to have: a galaxy cluster blazing with hot gas just 1.4 billion years after the Big Bang, far earlier and hotter than theory predicts.",
+    "url": "https://phys.org/news/2026-01-earliest-hottest-galaxy-cluster-gas.html",
+    "published_date": "2026-01-05T16:00:09Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "In Quantum Mechanics, Nothingness Is the Potential To Be Anything",
+    "summary": "Try as they might, scientists can\u2019t truly rid a space or an object of its energy. But what \u201czero-point energy\u201d really means is up for interpretation.            <p>The post <a href=\"https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/\" target=\"_blank\">In Quantum Mechanics, Nothingness Is the Potential To Be Anything</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+    "url": "https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/",
+    "published_date": "2026-01-05T15:31:21Z",
+    "source_feed": "Quanta Magazine",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sunyaev\u2013Zeldovich detection of hot intracluster gas at redshift 4.3",
+    "summary": "<p>Nature, Published online: 05 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09901-3\">doi:10.1038/s41586-025-09901-3</a></p>Detection of hot intracluster gas in SPT2349\u221256 with the Atacama Large Millimeter/submillimeter Array provides new insights into early cluster formation.",
+    "url": "https://www.nature.com/articles/s41586-025-09901-3",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "El Ni\u00f1o was linked to famines in Europe in the early modern period",
+    "summary": "A study of 160 European famines between 1500 and 1800 shows that El Ni\u00f1o weather events led to the onset of some famines and extended the duration of others",
+    "url": "https://www.newscientist.com/article/2509775-el-nino-was-linked-to-famines-in-europe-in-the-early-modern-period/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T15:00:19Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new popular science books of January 2026",
+    "summary": "A host of new science books are due to hit shelves in January, by authors including Claudia Hammond, Deborah Cohen and Daisy Fancourt",
+    "url": "https://www.newscientist.com/article/2509326-the-best-new-popular-science-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T15:00:17Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "2026 will shed light on whether a little-known drug helps with autism",
+    "summary": "The US government is approving the drug leucovorin to address rising rates of autism, despite limited evidence that it works. This year, results from the largest trial yet should give more insight into its potential",
+    "url": "https://www.newscientist.com/article/2508922-2026-will-shed-light-on-whether-a-little-known-drug-helps-with-autism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T14:00:49Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "El Ni\u00f1o was linked to famines in Europe in the early modern period",
+    "summary": "A study of 160 European famines between 1500 and 1800 shows that El Ni\u00f1o weather events led to the onset of some famines and extended the duration of others",
+    "url": "https://www.newscientist.com/article/2509775-el-nino-was-linked-to-famines-in-europe-in-the-early-modern-period/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T15:00:19Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new popular science books of January 2026",
+    "summary": "A host of new science books are due to hit shelves in January, by authors including Claudia Hammond, Deborah Cohen and Daisy Fancourt",
+    "url": "https://www.newscientist.com/article/2509326-the-best-new-popular-science-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T15:00:17Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "2026 will shed light on whether a little-known drug helps with autism",
+    "summary": "The US government is approving the drug leucovorin to address rising rates of autism, despite limited evidence that it works. This year, results from the largest trial yet should give more insight into its potential",
+    "url": "https://www.newscientist.com/article/2508922-2026-will-shed-light-on-whether-a-little-known-drug-helps-with-autism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T14:00:49Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "El Ni\u00f1o was linked to famines in Europe in the early modern period",
+    "summary": "A study of 160 European famines between 1500 and 1800 shows that El Ni\u00f1o weather events led to the onset of some famines and extended the duration of others",
+    "url": "https://www.newscientist.com/article/2509775-el-nino-was-linked-to-famines-in-europe-in-the-early-modern-period/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T15:00:19Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new popular science books of January 2026",
+    "summary": "A host of new science books are due to hit shelves in January, by authors including Claudia Hammond, Deborah Cohen and Daisy Fancourt",
+    "url": "https://www.newscientist.com/article/2509326-the-best-new-popular-science-books-of-january-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T15:00:17Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "2026 will shed light on whether a little-known drug helps with autism",
+    "summary": "The US government is approving the drug leucovorin to address rising rates of autism, despite limited evidence that it works. This year, results from the largest trial yet should give more insight into its potential",
+    "url": "https://www.newscientist.com/article/2508922-2026-will-shed-light-on-whether-a-little-known-drug-helps-with-autism/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-05T14:00:49Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Europa\u2019s Ice Thickness And Subsurface Structure Characterized By The Juno Microwave Radiometer",
     "summary": "<p>Jupiter\u2019s moon Europa is thought to harbour a saltwater ocean beneath a variously disrupted ice shell, and it is, thus, one of the highest priority astrobiology targets in the Solar System. Estimates of the ice-shell thickness range from 3\u2009km to over 30\u2009km, and observations by the Galileo spacecraft indicated widespread regions of ice disruption (chaotic [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html\">Europa\u2019s Ice Thickness And Subsurface Structure Characterized By The Juno Microwave Radiometer</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/europas-ice-thickness-and-subsurface-structure-characterized-by-the-juno-microwave-radiometer.html",
