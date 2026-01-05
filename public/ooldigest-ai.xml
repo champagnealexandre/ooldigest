@@ -3,8 +3,34 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-05T08:28:58.583081+00:00</updated>
+  <updated>2026-01-05T09:28:37.021363+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [15] ChemRxiv ▶ First evidence of microplastics in bottled water sold in Mexico</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Given that Mexico is one of the world&#x27;s leading consumers of bottled water per capita, this study provides the first evidence of microplastic contamination across ten widely consumed commercial brands</summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Survey of ten bottled-water brands in Mexico finds widespread microplastic contamination dominated by PET/PP fragments and fibers, highlighting a water-quality exposure issue with only indirect relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Given that Mexico is one of the world&#x27;s leading consumers of bottled water per capita, this study provides the first evidence of microplastic contamination across ten widely consumed commercial brands in the country. A total of 2,358 MP particles were detected with an average concentration of 39.3 ± 14.6 particles/L. Statistical analysis (ANOVA, p = 0.0008) confirmed significant differences in MP levels between brands, likely attributed to variations in the production process and packaging quality. Fibers were the predominant shape of the detected MPs (72.2 %), and transparent particles were the most frequent color (57.7 %). Crucially, most detected MPs were smaller than 500 µm (80.3 %), raising toxicological concerns due to the high probability of systemic translocation in human tissues. Furthermore, FTIR spectroscopy confirmed that PET (66 %) and PP (18 %) were the dominant polymers, indicating that fragmentation and abrasion of the bottle and caps are the primary sources of MPs. The estimated intake assessment revealed that children are the most vulnerable population segment (228.2 particles/kg/year), exhibiting the highest relative MP dose normalized by body weight. Given the global evidence of adverse health effects from these polymers and their leached chemical additives, these findings underscore the urgent need to implement effective strategies to minimize MP exposure in bottled water.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-89bkg">https://doi.org/10.26434/chemrxiv-2026-89bkg</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] ChemRxiv ▶ pH signalling and regulation in pyridinium redox flow batteries</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-05T00:00:00Z</updated>
+    <summary>Pyridinium compounds are promising electrolyte candidates for aqueous flow batteries yet undergo complex parasitic processes involving free radical species that remain difficult to monitor, track and </summary>
+    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> An electrochemistry/battery study using operando pH monitoring to track radical-driven parasitic reactions and regulate pyridinium redox flow battery electrolytes, with only tangential relevance to origins-of-life redox/pH gradient chemistry (keyword match: water).</p>
+<p><strong>Abstract:</strong> Pyridinium compounds are promising electrolyte candidates for aqueous flow batteries yet undergo complex parasitic processes involving free radical species that remain difficult to monitor, track and regulate. Inspired by biological redox signaling, we developed operando pH monitoring to accurately track native pyridinium electrolyte processes across nine orders of magnitude (i.e., pH 3 – 12), elucidating trace (nanomolar) state-of-charge-dependent equilibria that can be used for continuous monitoring of state of charge and health in materials that do not feature a principal proton coupled redox process. By monitoring pH, we gain simultaneous real-time insights into direct and mediated water splitting, direct and mediated dioxygen reduction, oxidation-statedependent pyridinium pKa effects, and trans-membrane OH– transport. These insights inform the development of a global regulation strategy, based on a single radical dependent dimensionless parameter, towards complete suppression of parasitic processes under practical battery cycling conditions. We also clarify the nature of the reaction between dioxygen and reduced viologen towards improved system engineering for long duration energy storage applications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.26434/chemrxiv-2026-917bk">https://doi.org/10.26434/chemrxiv-2026-917bk</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] ChemRxiv ▶ Asymmetrical flow field-flow fractionation reveals the true biophysical properties of polymer–pDNA complexes by gently separating free polymers</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss"/>

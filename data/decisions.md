@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [pH signalling and regulation in pyridinium redox flow batter](https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [First evidence of microplastics in bottled water sold in Mex](https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Un rythme sans précédent : 16.000 nouvelles espèces sont déc](https://www.sciencesetavenir.fr/animaux/biodiversite/un-rythme-sans-precedent-16-000-nouvelles-especes-sont-decouvertes-chaque-annee_190255?xtor=RSS-26) |
+| keyword_rejected | - | [Emergence of temporal higher-order interactions from pairwis](https://www.nature.com/articles/s42005-025-02463-w) |
+| keyword_rejected | - | [Identifying new targets in the fight against opioids](https://elifesciences.org/articles/109920) |
+| keyword_rejected | - | [Pressure- and Temperature-Dependent Ionic Transport in Ag₄Zr](https://dx.doi.org/10.26434/chemrxiv-2026-t7qrx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Bimetallic Coinage Metal Complexes of Tetradentate ortho Ter](https://dx.doi.org/10.26434/chemrxiv-2026-14399?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [In Silico Design of Benzimidazole Derivatives as Dual Inhibi](https://dx.doi.org/10.26434/chemrxiv-2026-8nzgg?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [Asymmetrical flow field-flow fractionation reveals
 the true ](https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Large-scale music events can cause subclinical hearing damag](https://www.nature.com/articles/s41598-025-30382-x) |

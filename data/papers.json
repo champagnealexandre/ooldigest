@@ -1,5 +1,95 @@
 [
   {
+    "title": "First evidence of microplastics in bottled water sold in Mexico",
+    "summary": "Given that Mexico is one of the world's leading consumers of bottled water per capita, this study provides the first evidence of microplastic contamination across ten widely consumed commercial brands in the country. A total of 2,358 MP particles were detected with an average concentration of 39.3 \u00b1 14.6 particles/L. Statistical analysis (ANOVA, p = 0.0008) confirmed significant differences in MP levels between brands, likely attributed to variations in the production process and packaging quality. Fibers were the predominant shape of the detected MPs (72.2 %), and transparent particles were the most frequent color (57.7 %). Crucially, most detected MPs were smaller than 500 \u00b5m (80.3 %), raising toxicological concerns due to the high probability of systemic translocation in human tissues. Furthermore, FTIR spectroscopy confirmed that PET (66 %) and PP (18 %) were the dominant polymers, indicating that fragmentation and abrasion of the bottle and caps are the primary sources of MPs. The estimated intake assessment revealed that children are the most vulnerable population segment (228.2 particles/kg/year), exhibiting the highest relative MP dose normalized by body weight. Given the global evidence of adverse health effects from these polymers and their leached chemical additives, these findings underscore the urgent need to implement effective strategies to minimize MP exposure in bottled water.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-89bkg"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Survey of ten bottled-water brands in Mexico finds widespread microplastic contamination dominated by PET/PP fragments and fibers, highlighting a water-quality exposure issue with only indirect relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "pH signalling and regulation in pyridinium redox flow batteries",
+    "summary": "Pyridinium compounds are promising electrolyte candidates for aqueous flow batteries yet undergo complex parasitic processes involving free radical species that remain difficult to monitor, track and regulate. Inspired by biological redox signaling, we developed operando pH monitoring to accurately track native pyridinium electrolyte processes across nine orders of magnitude (i.e., pH 3 \u2013 12), elucidating trace (nanomolar) state-of-charge-dependent equilibria that can be used for continuous monitoring of state of charge and health in materials that do not feature a principal proton coupled redox process. By monitoring pH, we gain simultaneous real-time insights into direct and mediated water splitting, direct and mediated dioxygen reduction, oxidation-statedependent pyridinium pKa effects, and trans-membrane OH\u2013 transport. These insights inform the development of a global regulation strategy, based on a single radical dependent dimensionless parameter, towards complete suppression of parasitic processes under practical battery cycling conditions. We also clarify the nature of the reaction between dioxygen and reduced viologen towards improved system engineering for long duration energy storage applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.26434/chemrxiv-2026-917bk"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "An electrochemistry/battery study using operando pH monitoring to track radical-driven parasitic reactions and regulate pyridinium redox flow battery electrolytes, with only tangential relevance to origins-of-life redox/pH gradient chemistry (keyword match: water)."
+    }
+  },
+  {
+    "title": "In Silico Design of Benzimidazole Derivatives as Dual Inhibitors of AcrB Efflux Pump and NDM-1 to Combat Antibiotic Resistance",
+    "summary": "Antibiotic resistance poses a critical global health threat, necessitating new strategies to address multidrug-resistant bacteria. This study presents the in silico design and evaluation of five novel benzimidazole derivatives (B1\u2013B5) as dual-action inhibitors targeting both the AcrB efflux pump and NDM-1 carbapenemase two major contributors to antibiotic resistance in Gram-negative pathogens. Computational tools, including Chemdraw, Spartan14, Chimera, Autodock Vina, and Biovia Discovery Studio, were employed for molecular modeling, docking, and visualization of key molecular interactions. All compounds satisfied Lipinski\u2019s rule of five, exhibited high predicted gastrointestinal absorption, and demonstrated favorable pharmacokinetic profiles. Toxicity assessments indicated low to moderate risk, with B4 identified as the safest candidate (LD50: 3420 mg/kg). Molecular docking revealed that B1 and B5 displayed superior binding affinities to NDM-1 (-6.9 and -7.0 kcal/mol, respectively), outperforming the native ligand, while B3 and B4 matched or exceeded the native ligand\u2019s binding to AcrB (-11.1 and -11.0 kcal/mol). Detailed interaction analysis highlighted the importance of hydrogen bonds, pi-alkyl, and pi-pi stacking in stabilizing these complexes. These findings suggest that the designed benzimidazole derivatives hold promise as dual-target inhibitors, offering a potential pathway for developing new therapeutics to combat antibiotic resistance. Further experimental validation is recommended to confirm these computational results and advance these candidates toward clinical application.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-8nzgg?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bimetallic Coinage Metal Complexes of Tetradentate ortho Ter arylene Ligands",
+    "summary": "The synthesis, structural and photophysical properties of five bimetallic coinage metal complexes of three tetradentate charge-transfer (CT) ligands are presented.  The ligand structures incorporate donor/acceptor moieties electronically decoupled by ortho connection to a bridging biphenylene group.  The M M distances observed in the crystal structures of the bimetallic complexes are shorter than the sum of the Van der Waals radii of the metal ions, suggesting stabilizing interactions between the d10 metal centers.  Additionally, short distances between the bridging biphenylene and metal atoms suggest arylene metal interactions.  Bimetallic Cu, Ag, and Au complexes of the ligand incorporating a carbazole donor and pyridyl acceptor (N2R22-) show absorption and emission energies that trend with the ionization potential of each metal, indicating metal character in the excited state. These properties contrast with our previously reported mononuclear Zn complex of N2R22-The structural and photophysical properties of five bimetallic d10 coinage metal complexes were presented.  The M M distances observed in the crystal structures of the bimetallic complexes are shorter than the sum of the metals\u2019 Van der Waals radii, suggesting attractive interactions between the d10 metal centers.  Additionally, short distances between the bridging biphenylene and metal atoms suggest arylene metal interactions.  The absorption and emission spectra of the bimetallic complexes redshift based on the oxidation potential of the metal ion.  This suggests involvement of metal based orbitals in the excited state transitions of the bimetallic complexes, which was corroborated by molecular modeling.  High photoluminescent quantum yields were observed in solution and in rigid media (up to PL = 0.75), and the excited state lifetimes in solution were found to exceed several microseconds.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-14399?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pressure- and Temperature-Dependent Ionic Transport in Ag\u2084Zr\u2083S\u2088 Nanocrystal Pellets",
+    "summary": "Nanocrystal (NC)\u2013derived solid electrolytes provide access to compositionally complex and metastable ion conductors, yet their measured transport properties are often dominated by extrinsic contact effects. We probe the coupled roles of temperature, uniaxial pressure, pellet microstructure, and electrode material on the electrochemical impedance response of Ag\u2084Zr\u2083S\u2088 NC pellets. Ag\u2084Zr\u2083S\u2088 NCs were synthesized via colloidal routes using distinct sulfur sources and consolidated into pellets with controlled surface chemistry. EIS was performed over 298\u2013393 K and 0.43\u20138.67 MPa using blocking and non-blocking electrodes. Pressure-dependent Nyquist analysis shows impedance is overwhelmingly dominated by interfacial and constriction resistances, with pressure primarily reducing contact limitations rather than altering intrinsic ion transport. Temperature\u2013pressure heat maps of the high-frequency resistance reveal thermally activated transport strongly modulated by mechanical contact and electrode compatibility. These results establish pressure-resolved impedance spectroscopy as a diagnostic framework for separating intrinsic and extrinsic transport contributions in NC-based solid electrolytes.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-t7qrx?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Identifying new targets in the fight against opioids",
+    "summary": "Experiments reveal that a time-dependent epistatic interaction influences how mice respond to opioids, and that intracellular fibroblast growth factors also influence opioid sensitivity.",
+    "url": "https://elifesciences.org/articles/109920",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Emergence of temporal higher-order interactions from pairwise collaboration",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s42005-025-02463-w",
+    "published_date": "2026-01-05T00:00:00Z",
+    "source_feed": "nature.com - Complex networks",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Un rythme sans pr\u00e9c\u00e9dent : 16.000 nouvelles esp\u00e8ces sont d\u00e9couvertes chaque ann\u00e9e",
+    "summary": "D'apr\u00e8s une \u00e9quipe de chercheurs de l'Universit\u00e9 d'Arizona, le rythme de d\u00e9couverte de nouvelles esp\u00e8ces est plus rapide que jamais, d\u00e9passant largement celui des extinctions.",
+    "url": "https://www.sciencesetavenir.fr/animaux/biodiversite/un-rythme-sans-precedent-16-000-nouvelles-especes-sont-decouvertes-chaque-annee_190255?xtor=RSS-26",
+    "published_date": "2026-01-05T09:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "analysis_result": null
+  },
+  {
     "title": "Asymmetrical flow field-flow fractionation reveals\nthe true biophysical properties of polymer\u2013pDNA\ncomplexes by gently separating free polymers",
     "summary": "Due to their low manufacturing cost and versatility in delivering diverse nucleic acid payloads such as plasmids (pDNA) and genome editor proteins, polymers have emerged as promising vectors in gene therapy. To encapsulate and deliver anionic nucleic acids, researchers add cationic polymers to payloads (e.g., pDNA), forming\nhighly fragile, complex, and heterogeneous polyplex assemblies. Large stoichiometric excesses of protonotable amine groups (in the polymers) over the phosphate groups\n(in the pDNA) are typical of polyplexes, which are frequently formed at nitrogen-to\u0002 phosphorous ratios between 5\u2013100 . Rather than binding irreversibly to pDNA pay\u0002loads, polymers predominantly exist as \u201cfree polymers\u201d which dynamically exchange with pDNA-bound polymers. Analogous to empty lipid nanoparticles and empty viral capsids, free polymers pose complex characterization, quality control, and regulatory challenges that may hinder clinical translation. We urgently need to quantify how free polymers modify critical polyplex properties (e.g., pDNA loading per polyplex) as well as biological outcomes (e.g., immunogenicity, pDNA delivery efficiency, and toxicity). We developed a unique analytical approach that unveils hitherto unsuspected roles\nplayed by free polymers during the complexation and intracellular delivery of pDNA. Applying asymmetrical flow field-flow fractionation (AF4), we gently separated free\npolymers from crude polyplexes while conserving polyplex integrity. Unlike batch light scattering analysis of   fractionated crude polyplexes, which severely  underestimate polyplex size and pDNA loading per polyplex, AF4 sharpened measurements of poly\u0002plex molecular weight, pDNA loading, and radius of gyration by removing free poly\u0002mers and their background scattering contributions. Comparing solution properties\nvia light scattering, we discovered that AF4-purified polyplexes appeared over twice as large, loading twice as much pDNA as crude polyplexes. AF4 uncovered contrasts\nin the biological performance of crude and purified polyplexes. Free polymers aggra\u0002vated inflammatory responses in macrophages by up to 22%. Removing free polymers depressed transfection efficiency by 50% while improving cell viability by 30%; reintro\u0002ducing free polymers abrogated these contrasts. By separating and quantifying free polymers in polyplexes, AF4 illuminated a far more complex portrait of polyplex so\u0002lution properties that has hitherto remained elusive to conventional characterization\nmethods. Our work has revealed pathways to ameliorate polymer-associated toxicity and inflammation during pDNA delivery.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss",
