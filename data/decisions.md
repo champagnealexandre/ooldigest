@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Expanding and Decoding the Chemistry of Phospholipid Headgro](https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1) |
+| keyword_rejected | - | [Atypical β-strand insertion mediates the noncovalent cross-l](https://www.nature.com/articles/s41467-025-68185-3) |
+| keyword_rejected | - | [Home is where the host is: Evolutionary history of geographi](https://www.biorxiv.org/content/10.64898/2026.01.06.697867v1?rss=1) |
 | ai_scored | 25 | [SLBP-independent control of maternal histone mRNA](https://www.biorxiv.org/content/10.64898/2026.01.06.697898v1?rss=1) |
 | ai_scored | 5 | [Chromosome axis protein SYCP2 recruits HORMAD2 to enable mei](https://www.biorxiv.org/content/10.64898/2026.01.06.697704v1?rss=1) |
 | ai_scored | 40 | [New census of sun's neighbors reveals best potential real es](https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html) |

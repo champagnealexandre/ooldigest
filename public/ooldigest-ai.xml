@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T21:18:00.979879+00:00</updated>
+  <updated>2026-01-06T22:18:46.118033+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] cell biology - biorXiv Preprints ▶ Expanding and Decoding the Chemistry of Phospholipid Headgroup in Eukaryotes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Cellular membranes have diverse phospholipids, chemical differences in whose headgroups impact many biological processes. Phosphatidylcholine is an essential phospholipid for human health, but not uni</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> A metabolic-rewiring platform massively diversifies phospholipid headgroups in human and yeast cells, revealing evolutionarily distinct headgroup-dependent lipid–protein interactions and cellular phenotypes that inform how membrane chemistry can constrain lineage-specific viability.</p>
+<p><strong>Abstract:</strong> Cellular membranes have diverse phospholipids, chemical differences in whose headgroups impact many biological processes. Phosphatidylcholine is an essential phospholipid for human health, but not universally required for life. The evolutionary mechanisms underlying phospholipid preferences remain poorly understood, due to the difficulty of investigating metabolite structure-activity relationships in a cellular context. Here, we developed a generalizable metabolic-rewiring method to manipulate phospholipid headgroups together and their biological effects. This approach utilizes synthetic media to hijack evolutionarily conserved phosphatidylcholine biosynthesis, leveraging xenobiotics as principal precursors for scalable headgroup transformations. By identifying over 100 artificial headgroups, we expanded the chemical diversity of xenobiotic phospholipids. Unexpectedly, we discovered that subtle headgroup alterations produced distinct mammalian cellular activities. We demonstrated that chemical headgroup modifications differentially elicited structure-dependent effects on phospholipid-protein interactions, calcium dynamics, transcriptomic profiles, and stem cell differentiation. Notably, cross-species comparison revealed that human and yeast cells have different headgroup preferences critical for cell life and death. As proof-of-concept, interactome analysis identified headgroup-sensitive human microproteins vital for mitochondrial respiration, but non-conserved in yeast. These results exemplify the evolutionary diversity of key phospholipid-protein interactions, illustrating why humans depend on phosphatidylcholine. Overall, our findings establish a programmable platform for elucidating and engineering phospholipid-driven cellular functions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] phys.org - Space News ▶ New census of sun&#x27;s neighbors reveals best potential real estate for life</title>
     <link href="https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html"/>

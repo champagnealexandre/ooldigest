@@ -1,5 +1,45 @@
 [
   {
+    "title": "Expanding and Decoding the Chemistry of Phospholipid Headgroup in Eukaryotes",
+    "summary": "Cellular membranes have diverse phospholipids, chemical differences in whose headgroups impact many biological processes. Phosphatidylcholine is an essential phospholipid for human health, but not universally required for life. The evolutionary mechanisms underlying phospholipid preferences remain poorly understood, due to the difficulty of investigating metabolite structure-activity relationships in a cellular context. Here, we developed a generalizable metabolic-rewiring method to manipulate phospholipid headgroups together and their biological effects. This approach utilizes synthetic media to hijack evolutionarily conserved phosphatidylcholine biosynthesis, leveraging xenobiotics as principal precursors for scalable headgroup transformations. By identifying over 100 artificial headgroups, we expanded the chemical diversity of xenobiotic phospholipids. Unexpectedly, we discovered that subtle headgroup alterations produced distinct mammalian cellular activities. We demonstrated that chemical headgroup modifications differentially elicited structure-dependent effects on phospholipid-protein interactions, calcium dynamics, transcriptomic profiles, and stem cell differentiation. Notably, cross-species comparison revealed that human and yeast cells have different headgroup preferences critical for cell life and death. As proof-of-concept, interactome analysis identified headgroup-sensitive human microproteins vital for mitochondrial respiration, but non-conserved in yeast. These results exemplify the evolutionary diversity of key phospholipid-protein interactions, illustrating why humans depend on phosphatidylcholine. Overall, our findings establish a programmable platform for elucidating and engineering phospholipid-driven cellular functions.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1"
+    ],
+    "matched_keywords": [
+      "eukaryo*"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "A metabolic-rewiring platform massively diversifies phospholipid headgroups in human and yeast cells, revealing evolutionarily distinct headgroup-dependent lipid\u2013protein interactions and cellular phenotypes that inform how membrane chemistry can constrain lineage-specific viability."
+    }
+  },
+  {
+    "title": "Home is where the host is: Evolutionary history of geographic spread, host switching, and adaptive genomic signatures in two generalist Group B Streptococcus clonal groups",
+    "summary": "Abstract Group B Streptococcus (GBS) is a pathogen of global relevance in neonatal and maternal disease as well as bovine mastitis. Two closely related clonal groups, denoted 103 and 314 (CG103/314) have been detected in humans and cattle on multiple continents in recent decades but are poorly characterised compared to other host-generalist clades. We examined their potential origins, host-switching events and presence of a suite of genetic markers for antimicrobial resistance, virulence and host association using a newly assembled dataset of 248 CG103/314 genomes from humans, cattle, and food originating from five continents. We detected multiple host switches between humans and cattle, and significant regional differences in AMR gene distribution, possibly reflecting local differences in antimicrobial use across countries and hosts and indicating a capacity for regional adaptation to selective pressures. Across the evolutionary history of CG103/314 from both host species, the prevalence of the Lac.2 operon, a genetic marker associated with bovine host adaptation, was high, whereas the prevalence of the scpB-lmb gene pair, a genetic marker of human host adaptation in other GBS clonal groups, was very low. All isolates with scpB-lmb were associated with human disease rather than carriage. Our dataset displayed biases typical of research into multi-host pathogens, when sampling is often focused on a specific host species or setting. Consistent, balanced, contemporaneous and sympatric sampling efforts across host species and sources are needed for a full understanding of the distribution and emergence of CG103/314 and similar multi-host pathogens impacting food safety and public health.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697867v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Atypical \u03b2-strand insertion mediates the noncovalent cross-linking in amyloid aggregates",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68185-3",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "New census of sun's neighbors reveals best potential real estate for life",
     "summary": "A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebasti\u00e1n Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, Ariz.",
     "url": "https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html",
