@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Early humans may have begun butchering elephants 1.8 million](https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Early humans may have begun butchering elephants 1.8 million](https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Early humans may have begun butchering elephants 1.8 million](https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Origins of instability in dynamical systems on undirected ne](http://link.aps.org/doi/10.1103/g2mp-bkhf) |
+| keyword_rejected | - | [Rare events of host switching for diseases using a susceptib](http://link.aps.org/doi/10.1103/8g2r-w6x6) |
+| keyword_rejected | - | [Remarkable similarities in distributions of dynamical observ](http://link.aps.org/doi/10.1103/2j32-wxjz) |
+| keyword_rejected | - | [Pulsating ratchets: From potential symmetry to symmetry of a](http://link.aps.org/doi/10.1103/3rj5-8m8l) |
+| keyword_rejected | - | [Pattern formation in a coupled driven diffusive system](http://link.aps.org/doi/10.1103/23pw-x6sd) |
+| keyword_rejected | - | [Vibrational model of entropy in dense two-dimensional fluids](http://link.aps.org/doi/10.1103/14db-xhrv) |
+| keyword_rejected | - | [Time-energy trade-off in stochastic resetting using optimal ](http://link.aps.org/doi/10.1103/nq5y-69b5) |
+| keyword_rejected | - | [Characterization of the p38α MAPK allosteric inhibition by a](https://www.biorxiv.org/content/10.64898/2026.01.06.697868v1?rss=1) |
 | ai_scored | 50 | [Expanding and Decoding the Chemistry of Phospholipid Headgro](https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1) |
 | keyword_rejected | - | [Atypical β-strand insertion mediates the noncovalent cross-l](https://www.nature.com/articles/s41467-025-68185-3) |
 | keyword_rejected | - | [Home is where the host is: Evolutionary history of geographi](https://www.biorxiv.org/content/10.64898/2026.01.06.697867v1?rss=1) |

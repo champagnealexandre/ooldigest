@@ -1,5 +1,126 @@
 [
   {
+    "title": "Characterization of the p38\u03b1 MAPK allosteric inhibition by a single chain Fv antibody",
+    "summary": "Most of the available p38 kinase inhibitors target the highly conserved ATP-binding site, thus explaining their off-target effects and toxicity. Here, we report the use of single-chain fragment variable (scFv) antibodies to identify new highly specific inhibitors. Using phage display, we selected five anti-p38 scFv antibodies among which one fully inhibited p38 kinase activity in vitro. We showed that this scFv did not affect ATP binding, while still acting as a competitive inhibitor of ATP hydrolysis. When expressed as intrabody in the nucleus of the THP-1 human monocytic cell line, the scFv inhibited the function of endogenous p38 and induced a significant decrease in lipopolysaccharide-induced tumor necrosis factor  production. To gain insight into the mechanisms by which the scFv induced p38 inhibition, the scFv epitope was mapped by deep mutational scanning of p38 displayed on yeast surface and high-throughput selection by flow cytometry of p38 mutants no longer bound by the scFv. By this approach, we showed that the inhibitory scFv interacts with two helices within the C-terminal lobe of the kinase distant from the ATP-binding pocket and the docking groove. Altogether, our data show that the scFv antibody behaves as an allosteric inhibitor, constraining and maintaining p38 in an inactive form.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697868v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Time-energy trade-off in stochastic resetting using optimal control",
+    "summary": "Author(s): R\u00e9mi Goerlich, Kristian St\u00f8levik Olsen, Hartmut L\u00f6wen, and Yael Roichman<br /><p>Stochastic resetting is a driving mechanism that is known to minimize the first passage time to reach a target at the cost of energy expenditure. The choice of the physical implementation of each resetting event determines the trade-off between the acceleration of the search process and its energeti\u2026</p><br />[Phys. Rev. E 113, 014103] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/nq5y-69b5",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Vibrational model of entropy in dense two-dimensional fluids",
+    "summary": "Author(s): S. A. Khrapak<br /><p>A vibrational paradigm of atomic dynamic in dense fluids is known to provide useful insight on the transport and thermodynamic properties of fluids in three dimensions. In this paper, a vibrational model is generalized to describe the excess entropy of two-dimensional (2D) fluids. A simple practical\u2026</p><br />[Phys. Rev. E 113, 014104] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/14db-xhrv",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pattern formation in a coupled driven diffusive system",
+    "summary": "Author(s): Guilherme E. Freire Oliveira, Ronald Dickman, Maxim O. Lavrentovich, and R. K. P. Zia<br /><p>We investigate pattern formation in a driven mixture of two mutually repulsive particle species via a field-based lattice model (FLM), a hybrid model that combines aspects of the driven Widom-Rowlison lattice gas (DWRLG) and its statistical field theory [Dickman and Zia <a href=\"http://dx.doi.org/10.1103/PhysRevE.97.062126\"><span>Phys. Rev. E</span> <b>97</b>, 062126 (2018\u2026</a></p><br />[Phys. Rev. E 113, 014105] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/23pw-x6sd",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pulsating ratchets: From potential symmetry to symmetry of average velocity",
+    "summary": "Author(s): V. M. Rozenbaum<br /><p>A method for symmetry analysis of a deterministic pulsating ratchet (the so-called phase shift indexing method) is proposed, which provides a relationship between the symmetry parameters of the potential profile of a nanoparticle and the average velocity of the corresponding ratchet. The technique a\u2026</p><br />[Phys. Rev. E 113, 014106] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/3rj5-8m8l",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Remarkable similarities in distributions of dynamical observables in chaotic systems",
+    "summary": "Author(s): Lucianno Defaveri and Naftali R. Smith<br /><p>The study of chaotic systems, where rare events play a pivotal role, is essential for understanding complex dynamics due to their sensitivity to initial conditions. Recently, tools from large deviation theory, typically applied in the context of stochastic processes, have been used in the study of c\u2026</p><br />[Phys. Rev. E 113, 014202] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/2j32-wxjz",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rare events of host switching for diseases using a susceptible-infected-recovered model with mutations",
+    "summary": "Author(s): Yannick Feld and Alexander K. Hartmann<br /><p>We numerically study disease dynamics that lead to the disease switching from one host species to another, resulting in diseases gaining the ability to infect, e.g., humans. Unlike previous studies that focused on branching processes starting with the first infected humans, we begin by considering a\u2026</p><br />[Phys. Rev. E 113, 014302] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/8g2r-w6x6",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Origins of instability in dynamical systems on undirected networks",
+    "summary": "Author(s): Shraosi Dawn, Subrata Ghosh, Chandrakala Meena, Tim Rogers, and Chittaranjan Hens<br /><p>Robustness to perturbation is a key topic in the study of complex systems occurring across a wide variety of applications from epidemiology to biochemistry. Here, we analyze the eigenspectrum of the Jacobian matrices associated to a general class of networked dynamical systems, which contains inform\u2026</p><br />[Phys. Rev. E 113, 014303] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/g2mp-bkhf",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Early humans may have begun butchering elephants 1.8 million years ago",
+    "summary": "A 1.78-million-year-old partial elephant skeleton found in Tanzania associated with stone tools may represent the oldest known evidence of butchery of the giant herbivores",
+    "url": "https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T19:00:57Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Early humans may have begun butchering elephants 1.8 million years ago",
+    "summary": "A 1.78-million-year-old partial elephant skeleton found in Tanzania associated with stone tools may represent the oldest known evidence of butchery of the giant herbivores",
+    "url": "https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T19:00:57Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Early humans may have begun butchering elephants 1.8 million years ago",
+    "summary": "A 1.78-million-year-old partial elephant skeleton found in Tanzania associated with stone tools may represent the oldest known evidence of butchery of the giant herbivores",
+    "url": "https://www.newscientist.com/article/2510274-early-humans-may-have-begun-butchering-elephants-1-8-million-years-ago/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-06T19:00:57Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Expanding and Decoding the Chemistry of Phospholipid Headgroup in Eukaryotes",
     "summary": "Cellular membranes have diverse phospholipids, chemical differences in whose headgroups impact many biological processes. Phosphatidylcholine is an essential phospholipid for human health, but not universally required for life. The evolutionary mechanisms underlying phospholipid preferences remain poorly understood, due to the difficulty of investigating metabolite structure-activity relationships in a cellular context. Here, we developed a generalizable metabolic-rewiring method to manipulate phospholipid headgroups together and their biological effects. This approach utilizes synthetic media to hijack evolutionarily conserved phosphatidylcholine biosynthesis, leveraging xenobiotics as principal precursors for scalable headgroup transformations. By identifying over 100 artificial headgroups, we expanded the chemical diversity of xenobiotic phospholipids. Unexpectedly, we discovered that subtle headgroup alterations produced distinct mammalian cellular activities. We demonstrated that chemical headgroup modifications differentially elicited structure-dependent effects on phospholipid-protein interactions, calcium dynamics, transcriptomic profiles, and stem cell differentiation. Notably, cross-species comparison revealed that human and yeast cells have different headgroup preferences critical for cell life and death. As proof-of-concept, interactome analysis identified headgroup-sensitive human microproteins vital for mitochondrial respiration, but non-conserved in yeast. These results exemplify the evolutionary diversity of key phospholipid-protein interactions, illustrating why humans depend on phosphatidylcholine. Overall, our findings establish a programmable platform for elucidating and engineering phospholipid-driven cellular functions.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697852v1?rss=1",
