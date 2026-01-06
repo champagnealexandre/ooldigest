@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [From Darwin to teleonomy: A categorical final–cause calculus](https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Soft sonocapacitor with topologically integrated piezodielec](https://www.nature.com/articles/s41467-025-67723-3) |
+| keyword_rejected | - | [Sulfur-containing class of broad-spectrum antivirals improve](https://www.nature.com/articles/s41467-025-67775-5) |
+| keyword_rejected | - | [Blazar Ton 599's complex variability investigated by long-te](https://phys.org/news/2026-01-blazar-ton-complex-variability-term.html) |
+| keyword_rejected | - | [Multimodal graph, surface, and language-based model for prot](https://www.nature.com/articles/s41598-025-34758-x) |
+| keyword_rejected | - | [Dependence of contextual modulation in macaque V1 on interla](https://elifesciences.org/articles/103255) |
+| keyword_rejected | - | [Highly efficient exciton-exciton annihilation in single conj](https://www.nature.com/articles/s41467-025-67422-z) |
+| keyword_rejected | - | [Soft sonocapacitor with topologically integrated piezodielec](https://www.nature.com/articles/s41467-025-67723-3) |
+| keyword_rejected | - | [Embedding-Based Applicability Domain for Graph Neural Networ](https://dx.doi.org/10.26434/chemrxiv-2026-gft5q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [De Novo Design of Zearalenone Binding Proteins: A Comparison](https://dx.doi.org/10.26434/chemrxiv-2026-9wsjs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Decoding Life: A Detailed Examination of Program Collection](https://www.sciencedirect.com/science/article/pii/S0303264726000031?dgcid=rss_sd_all) |
 | ai_scored | 40 | [Methylation-Activated Clusteroluminescence via Hydrogen-Bond](https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss) |
 | ai_scored | 55 | [Impact of GC content on de novo gene birth](https://www.nature.com/articles/s41467-025-68022-7) |
 | ai_scored | 50 | [Bridging the Gap: Aqueous Phase Organic Synthesis as a Found](https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss) |

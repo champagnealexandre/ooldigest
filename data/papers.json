@@ -1,5 +1,133 @@
 [
   {
+    "title": "From Darwin to teleonomy: A categorical final\u2013cause calculus for evolution",
+    "summary": "<p>Publication date: Available online 5 January 2026</p><p><b>Source:</b> BioSystems</p><p>Author(s): Andrei T. Patrascu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all",
+    "published_date": "2026-01-06T13:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "A theoretical/categorical framework linking Darwinian evolution to teleonomy (final-cause reasoning), relevant as broad evolutionary context but not directly addressing origins-of-life mechanisms or astrobiology."
+    }
+  },
+  {
+    "title": "Decoding Life: A Detailed Examination of Program Collection",
+    "summary": "<p>Publication date: Available online 5 January 2026</p><p><b>Source:</b> BioSystems</p><p>Author(s): Jun Cao</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303264726000031?dgcid=rss_sd_all",
+    "published_date": "2026-01-06T13:00:00Z",
+    "source_feed": "Biosystems",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "De Novo Design of Zearalenone Binding Proteins: A Comparison of Tamarind Bio and CARPdock-NISE-Boltz-2 Pipelines for Biosensor Applications",
+    "summary": "Zearalenone is a mycotoxin frequently found in cereals and pseudocereals, which has shown male reproductive toxicity and synergistic effects with other mycotoxins. Current detection methods for zearalenone are largely based on chromatography or antibody-based assays, and no de novo designed protein receptors are available as recognition elements for biosensors. In this work, de novo zearalenone-binding proteins have been designed using two competing computational pipelines: (i) Tamarind Bio\u2019s all-atom RFdiffusion-ProteinMPNN-RoseTTAFold workflow and (ii) a NISE-CARPdock pipeline combining scaffold generation, LaserMPNN design, and Boltz-2 folding. Three top candidates (RFdiff-ZB1, NC-ZB1, NC-ZB2) exhibited high structural confidence with global average pLDDT values between 0.97-0.98, docking analysis using GNINA produced docking scores of -5.99 to -9.70. Molecular-dynamics-based minimization yielded affinities of -10.48 to -10.92 kcal/mol with minimized pose RMSDs of 0.26-0.68 \u00c5 and CNNscores up to 0.80. These results are comparable to in silico benchmarks from natural zearalenone-binding proteins and mutants. This study presents the first comparison between Tamarind Bio and CARPdock-Boltz-2 workflows for de novo mycotoxin binder design and delivers three high-confidence candidates suitable for biosensing. Future work will include extended MD trajectories, experimental binding validation, and integration into impedance-based or other electrical transduction platforms for real-sample detection.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9wsjs?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Embedding-Based Applicability Domain for Graph Neural Networks: A Comprehensive Benchmark on Molecular Property Prediction",
+    "summary": "Graph Neural Networks (GNNs) are powerful tools for molecular property prediction, but they are not magic. When applied to molecules unlike their training data, they produce unreliable predictions that are difficult to detect. The Applicability Domain (AD) concept addresses this by defining regions of chemical space where predictions should be trusted. We benchmark embedding-based AD methods across three GNN architectures (GCN, GAT, MPNN) and nine MoleculeNet datasets. Our hybrid AD score combines density estimation (KDE), distance metrics (kNN, Mahalanobis), and prediction uncertainty (entropy, margin). An automated thresh- old optimization selects cutoffs that balance accuracy gains against sample retention. Benchmark results confirm the utility of the framework. Restricting predictions to the In-Domain subset improved AUC up to 0.96 (BACE-GCN) and reduced RMSE to 0.66 (Lipo-GAT), while Out- Domain samples showed 2-3\u00d7 higher error rates. Coverage ranged from 8% (aggressive filtering) to 99% (conservative), depending on dataset difficulty. Case studies on ESOL and BBBP demonstrate that flagged molecules have interpretable structural features (long aliphatic chains, unusual ring systems, or heteroatom combinations) that correlate with prediction failures.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-gft5q?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Soft sonocapacitor with topologically integrated piezodielectric nanospheres enables wireless epidural closed-loop neuromodulation",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67723-3\">doi:10.1038/s41467-025-67723-3</a></p>Achieving wireless and high charge density neural stimulation remains challenging. To address this issue, the authors develop a sonocapacitor from piezoelectric-dielectric composite nanospheres and two-dimensional cellulose.",
+    "url": "https://www.nature.com/articles/s41467-025-67723-3",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Highly efficient exciton-exciton annihilation in single conjugated polymer chains",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67422-z\">doi:10.1038/s41467-025-67422-z</a></p>This work finds that chromophores on conjugated polymer chains are very efficiently electronically coupled together. Fast exciton-exciton annihilation ensures that a single chain can only support one or two excitons after 100\u2009ps.",
+    "url": "https://www.nature.com/articles/s41467-025-67422-z",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dependence of contextual modulation in macaque V1 on interlaminar signal flow",
+    "summary": "In visual cortex, neural correlates of subjective perception can be generated by modulation of activity from beyond the classical receptive field (CRF). In macaque V1, activity generated by nonclassical receptive field (nCRF) stimulation involves different intracortical circuitry than activity generated by CRF stimulation, suggesting that interactions between neurons across V1 layers differ under CRF and nCRF stimulus conditions. Using Neuropixels probes, we measured border ownership modulation within large, local populations of V1 neurons. We found that neurons in single columns preferred the same side of objects located outside of the CRF. In addition, we found that cross-correlations between pairs of neurons situated across feedback/horizontal and input layers differed between CRF and nCRF stimulation. Furthermore, independent of the comparison with CRF stimulation, we observed that the magnitude of border ownership modulation increased with the proportion of information flow from feedback/horizontal layers to input layers. These results demonstrate that the flow of signals between layers covaries with the degree to which neurons integrate information from beyond the CRF.",
+    "url": "https://elifesciences.org/articles/103255",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Multimodal graph, surface, and language-based model for protein protein interaction prediction",
+    "summary": "<p>Scientific Reports, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34758-x\">doi:10.1038/s41598-025-34758-x</a></p>Multimodal graph, surface, and language-based model for protein protein interaction prediction",
+    "url": "https://www.nature.com/articles/s41598-025-34758-x",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Blazar Ton 599's complex variability investigated by long-term observations",
+    "summary": "Using the Whole Earth Blazar Telescope (WEBT), an international team of astronomers have performed long-term photometric observations of a luminous blazar known as Ton 599. Results of the observations, published in the Astronomy & Astrophysics journal, shed more light on the optical variability of this object.",
+    "url": "https://phys.org/news/2026-01-blazar-ton-complex-variability-term.html",
+    "published_date": "2026-01-06T13:20:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sulfur-containing class of broad-spectrum antivirals improves influenza virus vaccine development",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67775-5",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Soft sonocapacitor with topologically integrated piezodielectric nanospheres enables wireless epidural closed-loop neuromodulation",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67723-3",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N6-methyladenosine recognition protein YTHDC2",
     "summary": "",
     "url": "https://www.nature.com/articles/s41467-025-65542-0",
