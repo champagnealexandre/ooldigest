@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Doctor Visits for Flu Hit Highest Level in Almost 30 Years](https://www.scientificamerican.com/article/doctor-visits-for-flu-hit-highest-level-in-almost-30-years/) |
+| keyword_rejected | - | [The South Pole Just Moved. Here’s Why](https://www.scientificamerican.com/article/the-south-pole-just-moved-heres-why/) |
+| keyword_rejected | - | [Neige et verglas vont s'intensifier, routes et vols perturbé](https://www.sciencesetavenir.fr/nature-environnement/neige-et-verglas-vont-s-intensifier-routes-et-vols-perturbes_190292?xtor=RSS-15) |
+| keyword_rejected | - | [Intempéries : six morts en Europe et transports perturbés da](https://www.sciencesetavenir.fr/nature-environnement/intemperies-six-morts-en-europe-et-transports-perturbes-dans-plusieurs-pays-europeens_190293?xtor=RSS-15) |
+| keyword_rejected | - | [Une carte inédite de la voûte céleste à 102 couleurs](https://www.sciencesetavenir.fr/espace/univers/une-carte-inedite-de-la-voute-celeste-a-102-couleurs-revelee-par-le-telescope-spherex-de-la-nasa_190272?xtor=RSS-9) |
+| keyword_rejected | - | [Sweet molecular containers](https://www.nature.com/articles/s41557-025-02033-1) |
+| keyword_rejected | - | [Quantum quacks](https://www.nature.com/articles/s41557-025-02028-y) |
+| keyword_rejected | - | [Knowledge, practices, and influencing factors of tracheostom](https://www.nature.com/articles/s41598-025-33605-3) |
+| keyword_rejected | - | [Correction: Construction and application of copula-based tri](https://www.nature.com/articles/s41598-025-34687-9) |
+| keyword_rejected | - | [Neural coding of multiple motion speeds in visual cortical a](https://elifesciences.org/articles/94835) |
 | ai_scored | 60 | [Molecular Hydrogen Controls The Temperatures Of Flares On TR](https://astrobiology.com/2026/01/molecular-hydrogen-controls-the-temperatures-of-flares-on-trappist-1.html) |
 | ai_scored | 50 | [DNA damage modulates sleep drive in basal cnidarians with di](https://www.nature.com/articles/s41467-025-67400-5) |
 | ai_scored | 40 | [When Light Teaches Materials To Self-organize: Writing Natur](https://astrobiology.com/2026/01/when-light-teaches-materials-to-self-organize-writing-nature-like-3d-nanowrinkles.html) |
