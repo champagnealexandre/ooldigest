@@ -1,5 +1,147 @@
 [
   {
+    "title": "Intermittent AP-1 activation in muscles contributes to exercise-induced health benefits",
+    "summary": "Regular physical exercise extends healthspan, yet the molecular mechanisms that translate intermittent contractile stress into lasting benefit remain incompletely understood. Using global nuclear run-on (GRO-seq) in mouse skeletal muscle after treadmill running, we profiled enhancer RNA (eRNA), a sensitive marker of enhancer activity. Activation protein-1 (AP-1), a family of pioneering factors for senescence, emerged as the top transcription factor with motif enrichment in exercise-activated enhancers. Our screen in the contracting C2C12 myotubes pinpointed cFos/JunD as the primary AP-1 factor responsible for contraction-induced transcriptional changes. Muscle-specific overexpression of A-Fos, a dominant-negative mutant of cFos, disrupted transcriptomic responses to exercise and attenuated exercise-mediated improvement in muscle functions. Interestingly, intermittent but not continuous overexpression of cFos/JunD in mouse muscles mimicked exercise-induced transcriptomic changes, increased mitochondrial volume density, enhanced muscle strength and fatigue resistance, and improved glucose tolerance. These results define a transcriptional regulatory signaling pathway linking exercise intermittency to beneficial adaptations and highlight the necessary recovery cycles in training. The paradoxical anti- and pro-aging roles of AP-1 offer insights into the timing and dynamics of stressors and stress responses in shaping senescence and healthspan.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Mouse exercise physiology study showing intermittent AP-1 (cFos/JunD) activation drives beneficial muscle and metabolic adaptations, with no direct relevance to origins-of-life or astrobiology."
+    }
+  },
+  {
+    "title": "Chitosan Infiltrated TiO2 Nanocrystal Composite Optical Metasurfaces for Colorimetric Leaf Sensing",
+    "summary": "We report high figure-of-merit optical leaf sensors based on dielectric metasurfaces and stimuli-responsive polymers. The metasurfaces have narrowband resonances and are broadly transparent across the visible spectrum to allow photosynthesis for unobstructive monitoring of crop health. These sensors are fabricated at scale using direct nanoimprint lithography into UV curable-TiO2 nanocrystal (NC) inks to structure optical metasurfaces, followed by a room-temperature ligand exchange process to create a nanoporous TiO2 scaffold. The nanoporous TiO2 metasurfaces are then infiltrated by a stimuli-responsive polymer while retaining their geometry and optical quality. As a proof of concept, we demonstrate optical humidity sensors by incorporating the moisture-responsive chitosan biopolymer into the nanoporous TiO2 metasurfaces, resulting in a 430 % improvement in sensitivity compared to conventional RI sensors where the polymer surrounds the metasurface. The sensors are mounted on leaves and the highly reflective resonances, which are readily distinguishable from the leaf background, respond dynamically to leaf water stress, enabling passive, battery-free monitoring of leaf surface humidity.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Reports chitosan-infiltrated nanoporous TiO2 dielectric metasurface humidity sensors mountable on plant leaves for passive monitoring of leaf water stress, with limited direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "NORAD orchestrates KLC1-mediated SFPQ transport via liquid-liquid phase separation",
+    "summary": "Neuronal function requires precise long-distance axonal transport mediated by molecular motors and RNA-binding proteins like SFPQ, though regulatory mechanisms remain poorly defined. We identify long non-coding RNA NORAD as a master regulator of this process through liquid-liquid phase separation (LLPS). While SFPQ and kinesin-1 mediate cargo delivery, the specific RNA coordinating their interaction was unknown. We demonstrate NORAD directly binds kinesin light chain 1 (KLC1) and promotes SFPQ condensation into dynamic LLPS droplets, enabling efficient transport. CRISPR-assisted mapping and functional assays show NORAD depletion disrupts granule dynamics, impairs neuroprotective mRNA localization, and induces axonal degeneration. In vitro reconstitution confirms NORAD-KLC1 synergy enhances SFPQ phase separation, and neuron-specific knockout mice exhibit motor deficits with reduced neuronal density. These findings establish the first evidence of lncRNA NORAD-mediated LLPS in axonal transport, revealing a new paradigm for RNA-guided neuronal maintenance.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "This neuroscience preprint shows that the lncRNA NORAD promotes liquid\u2013liquid phase separation of SFPQ and coordinates kinesin-mediated axonal transport, offering a modern-cell example of RNA-driven self-assembly that is only indirectly relevant to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Fate of organic contaminants in electrochemical nitrogen recovery from urine",
+    "summary": "This study compared the fate of pharmaceuticals and disinfection byproducts across three electrochemical nitrogen recovery processes treating urine: electrochemical stripping (ECS), electrodialysis (ED), and bipolar electrodialysis (BPED). ECS achieved greater TAN recovery efficiencies than ED and BPED and was the only process that recovered a urine-derived  ammonium sulfate product rather than a mixed concentrate (containing TAN, sodium, and potassium). Enrichment and removal ratios based on target pharmaceutical quantification and suspect screening were used to evaluate the fate of organic compounds relative to nitrogen recovery. These metrics suggested that ECS prevented organic contamination of the product more effectively than the other two processes and that both ECS and BPED achieved greater organic removal than ED. No disinfection byproducts were detected in the product for any process, but formation in other chambers may require mitigation. Our findings inform pre- and post-treatment for electrochemical nitrogen recovery, as well as modifications to reactor configuration and operating conditions. With future work using suspect screening and identification of additional compounds to build greater mechanistic understanding of compound fate and characterize the toxicity of contaminants detected in treated urine and recovered products, our work will advance electrochemical technologies that recover high-purity, safely applied products and enable a circular nitrogen economy.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-mftwh?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Lipid Molecular Geometry, Phase Behaviour, and Nucleation Kinetics in Cholesterol Gallstone Formation:\nToward an Integrated Physicochemical Framework",
+    "summary": "ABSTRACT\nCholesterol gallstone formation requires supersaturation of bile with cholesterol, commonly quantified by the cholesterol saturation index (CSI). While supersaturation of bile with cholesterol is a necessary prerequisite for cholesterol precipitation, bile samples with comparable cholesterol saturation index (CSI) values can exhibit markedly different crystallization behaviours. This inconsistency indicates that the cholesterol saturation index alone cannot predict crystallization pathways or nucleation kinetics.\nHere, we synthesize experimental findings from native and model bile systems to propose an integrated physicochemical framework for interpreting cholesterol gallstone formation. Evidence from the literature indicates that lipid molecular geometry\u2014associated with phospholipid acyl-chain composition and bile acid structure\u2014is associated with differences in how cholesterol is accommodated within lipid aggregates. These molecular-scale properties are expressed at the mesoscale through distinct phase behaviours, including micellar, vesicular, and liquid-crystalline states, which are associated with different, reproducible cholesterol crystallization pathways described in bile systems.\nExperimental observations further indicate that nucleation kinetics plays a decisive role in shaping crystallization outcome. Even within similar phase regimes, differences in vesicle stability, aggregation dynamics, and interfacial organization are associated with substantial variability in nucleation behaviour, including delayed or absent crystal formation despite thermodynamically permissive conditions. Within this framework, the established cholesterol crystallization pathways can be interpreted as alternative trajectories that emerge from differences in lipid organization and kinetic accessibility under comparable degrees of supersaturation.\nBy explicitly integrating lipid molecular geometry, phase behaviour, and nucleation kinetics, this synthesis provides a coherent physicochemical context for interpreting variability in cholesterol crystallization behaviour and situates cholesterol supersaturation within a broader, experimentally grounded framework for understanding cholesterol gallstone formation.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-p9ll0?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rice stripe virus utilizes a <i>Laodelphax striatellus</i> salivary carbonic anhydrase to facilitate plant infection by direct molecular interaction",
+    "summary": "Plant viruses typically rely on insect vectors for transmission between plants, with insect salivary proteins playing critical roles in this process. In this study, we demonstrate how <i>Laodelphax striatellus</i> salivary carbonic anhydrase (LssaCA) promotes rice stripe virus (RSV) infection in plants. We discovered that LssaCA directly binds to RSV nucleocapsid protein (NP) in insect salivary glands. This LssaCA-NP complex interacts with a rice thaumatin-like protein (OsTLP) that possesses endo-\u03b2-1,3-glucanase activity potentially degrading callose. Upon binding, the LssaCA-NP complex significantly enhances OsTLP enzymatic activity. We further clarify that both <i>L. striatellus</i> feeding and RSV infection induce callose deposition. The tripartite LssaCA-NP-OsTLP interaction enhances callose degradation, thereby facilitating RSV infection via its insect vector. This study provides new insights into complex virus-insect-plant tripartite interactions mediated by insect salivary proteins, with broad implications for numerous plant viruses transmitted by insect vectors.",
+    "url": "https://elifesciences.org/articles/88132",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dynamic decrosslinking enables self-healing, reprocessability, and upcycling in polyurethane networks",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68263-6\">doi:10.1038/s41467-025-68263-6</a></p>Dynamically cross-linked thermosets often show decreased performance after numerous reprocessing cycles, limiting their long-term recyclability. Here, the authors introduce dynamic hindered urea bonds into polyurethane, enabling its thermal-decrosslinking and offering an upcycling route.",
+    "url": "https://www.nature.com/articles/s41467-025-68263-6",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Genomic and epidemiological insights into the emergence and dominance of MRSA clones in Riyadh\u2019s healthcare facilities",
+    "summary": "<p>Scientific Reports, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34001-7\">doi:10.1038/s41598-025-34001-7</a></p>Genomic and epidemiological insights into the emergence and dominance of MRSA clones in Riyadh\u2019s healthcare facilities",
+    "url": "https://www.nature.com/articles/s41598-025-34001-7",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Interplay between resting heart rate variability, daily affective dynamics and mental health difficulties in autistic youths",
+    "summary": "<p>Scientific Reports, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34614-y\">doi:10.1038/s41598-025-34614-y</a></p>Interplay between resting heart rate variability, daily affective dynamics and mental health difficulties in autistic youths",
+    "url": "https://www.nature.com/articles/s41598-025-34614-y",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Testis-specific knockout of <i>Elovl4</i> reduces sperm motility and fertility in male mice",
+    "summary": "<p>Scientific Reports, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33558-7\">doi:10.1038/s41598-025-33558-7</a></p>Testis-specific knockout of <i>Elovl4</i> reduces sperm motility and fertility in male mice",
+    "url": "https://www.nature.com/articles/s41598-025-33558-7",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ne plus penser \u00e0 rien, c'est vraiment possible et cela se voit dans le cerveau",
+    "summary": "Une \u00e9tude franco-australienne d\u00e9montre que la sensation de ne penser \u00e0 rien est bel et bien fond\u00e9e. Ce \"blanc mental\" correspond \u00e0 un \u00e9tat mental sp\u00e9cifique qui se traduit par une v\u00e9ritable interruption du flux de pens\u00e9es et poss\u00e8de m\u00eame une signature c\u00e9r\u00e9brale particuli\u00e8re. Les travaux des chercheurs doivent se poursuivre pour savoir s'ils pourraient un jour \u00eatre utilis\u00e9s comme marqueur diagnostique des maladies psychiatriques.",
+    "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/ne-penser-a-rien-le-blanc-mental-est-une-interruption-du-flux-de-pensees_190280?xtor=RSS-16",
+    "published_date": "2026-01-06T09:59:57Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Interfacial Self-Assembly of Graphene Networks at 1 vol% Enables Piezoresistive and Electrothermal Silicone Foams",
     "summary": "Segregated network composites achieve electrical percolation at minimal filler loadings by localizing conductivity to architectural boundaries. However, achieving this architecture typically requires tedious multi-step processing, often incompatible with scalable manufacturing. Here, we report the single-step synthesis of a silicone composite segregated network composed of self-assembled percolating graphene networks. These networks are templated by graphene-stabilized water-in-oil emulsions, created by spontaneous exfoliation of graphite at oil/water interfaces generated by agitation. After polymerization of the silicone and removal of the dispersed aqueous phase, the resulting foams achieve conductivities of 0.43 S/m at a 1.37 vol% loading of graphene. This is a 12-fold reduction compared to prior interfacial assembly methods, which require 16.5 vol% loading and thousands of hours of processing to achieve comparable electrical conductivity. Architectural segregation decouples mechanical and electrical properties, enabling application-specific modulus tuning. The foams exhibit reversible piezoresistance with a U-shaped strain response, are stable through 5000 cycles, and provide voltage-controlled heating to 143 \u00b0C at milliamp current densities, three orders of magnitude lower than those of continuous CVD graphene networks. The low thermal mass of the air-filled foam structure provides rapid thermal response, achieving 28-second de-icing from -17 \u00b0C.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-vsz4h?rft_dat=source%3Ddrss",

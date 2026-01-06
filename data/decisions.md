@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [NORAD orchestrates KLC1-mediated SFPQ transport via liquid-l](https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1) |
+| ai_scored | 15 | [Chitosan Infiltrated TiO2 Nanocrystal Composite Optical Meta](https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss) |
+| ai_scored | 0 | [Intermittent AP-1 activation in muscles contributes to exerc](https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1) |
+| keyword_rejected | - | [Ne plus penser à rien, c'est vraiment possible et cela se vo](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/ne-penser-a-rien-le-blanc-mental-est-une-interruption-du-flux-de-pensees_190280?xtor=RSS-16) |
+| keyword_rejected | - | [Testis-specific knockout of <i>Elovl4</i> reduces sperm moti](https://www.nature.com/articles/s41598-025-33558-7) |
+| keyword_rejected | - | [Interplay between resting heart rate variability, daily affe](https://www.nature.com/articles/s41598-025-34614-y) |
+| keyword_rejected | - | [Genomic and epidemiological insights into the emergence and ](https://www.nature.com/articles/s41598-025-34001-7) |
+| keyword_rejected | - | [Dynamic decrosslinking enables self-healing, reprocessabilit](https://www.nature.com/articles/s41467-025-68263-6) |
+| keyword_rejected | - | [Rice stripe virus utilizes a <i>Laodelphax striatellus</i> s](https://elifesciences.org/articles/88132) |
+| keyword_rejected | - | [Lipid Molecular Geometry, Phase Behaviour, and Nucleation Ki](https://dx.doi.org/10.26434/chemrxiv-2026-p9ll0?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Fate of organic contaminants in electrochemical nitrogen rec](https://dx.doi.org/10.26434/chemrxiv-2026-mftwh?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [Probing Molecular Organization in Polar Nematic Phases: A Co](https://dx.doi.org/10.26434/chemrxiv-2026-9bf98?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Effective Precipitate Cleaning with Reversible
 Flow Cell Sus](https://dx.doi.org/10.26434/chemrxiv-2026-b66r3?rft_dat=source%3Ddrss) |

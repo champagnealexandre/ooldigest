@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T09:23:10.274035+00:00</updated>
+  <updated>2026-01-06T10:20:01.193954+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [0] molecular biology - biorXiv Preprints ▶ Intermittent AP-1 activation in muscles contributes to exercise-induced health benefits</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Regular physical exercise extends healthspan, yet the molecular mechanisms that translate intermittent contractile stress into lasting benefit remain incompletely understood. Using global nuclear run-</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Mouse exercise physiology study showing intermittent AP-1 (cFos/JunD) activation drives beneficial muscle and metabolic adaptations, with no direct relevance to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> Regular physical exercise extends healthspan, yet the molecular mechanisms that translate intermittent contractile stress into lasting benefit remain incompletely understood. Using global nuclear run-on (GRO-seq) in mouse skeletal muscle after treadmill running, we profiled enhancer RNA (eRNA), a sensitive marker of enhancer activity. Activation protein-1 (AP-1), a family of pioneering factors for senescence, emerged as the top transcription factor with motif enrichment in exercise-activated enhancers. Our screen in the contracting C2C12 myotubes pinpointed cFos/JunD as the primary AP-1 factor responsible for contraction-induced transcriptional changes. Muscle-specific overexpression of A-Fos, a dominant-negative mutant of cFos, disrupted transcriptomic responses to exercise and attenuated exercise-mediated improvement in muscle functions. Interestingly, intermittent but not continuous overexpression of cFos/JunD in mouse muscles mimicked exercise-induced transcriptomic changes, increased mitochondrial volume density, enhanced muscle strength and fatigue resistance, and improved glucose tolerance. These results define a transcriptional regulatory signaling pathway linking exercise intermittency to beneficial adaptations and highlight the necessary recovery cycles in training. The paradoxical anti- and pro-aging roles of AP-1 offer insights into the timing and dynamics of stressors and stress responses in shaping senescence and healthspan.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.696542v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] ChemRxiv ▶ Chitosan Infiltrated TiO2 Nanocrystal Composite Optical Metasurfaces for Colorimetric Leaf Sensing</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>We report high figure-of-merit optical leaf sensors based on dielectric metasurfaces and stimuli-responsive polymers. The metasurfaces have narrowband resonances and are broadly transparent across the</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Reports chitosan-infiltrated nanoporous TiO2 dielectric metasurface humidity sensors mountable on plant leaves for passive monitoring of leaf water stress, with limited direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> We report high figure-of-merit optical leaf sensors based on dielectric metasurfaces and stimuli-responsive polymers. The metasurfaces have narrowband resonances and are broadly transparent across the visible spectrum to allow photosynthesis for unobstructive monitoring of crop health. These sensors are fabricated at scale using direct nanoimprint lithography into UV curable-TiO2 nanocrystal (NC) inks to structure optical metasurfaces, followed by a room-temperature ligand exchange process to create a nanoporous TiO2 scaffold. The nanoporous TiO2 metasurfaces are then infiltrated by a stimuli-responsive polymer while retaining their geometry and optical quality. As a proof of concept, we demonstrate optical humidity sensors by incorporating the moisture-responsive chitosan biopolymer into the nanoporous TiO2 metasurfaces, resulting in a 430 % improvement in sensitivity compared to conventional RI sensors where the polymer surrounds the metasurface. The sensors are mounted on leaves and the highly reflective resonances, which are readily distinguishable from the leaf background, respond dynamically to leaf water stress, enabling passive, battery-free monitoring of leaf surface humidity.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-vg5q1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ NORAD orchestrates KLC1-mediated SFPQ transport via liquid-liquid phase separation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Neuronal function requires precise long-distance axonal transport mediated by molecular motors and RNA-binding proteins like SFPQ, though regulatory mechanisms remain poorly defined. We identify long </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This neuroscience preprint shows that the lncRNA NORAD promotes liquid–liquid phase separation of SFPQ and coordinates kinesin-mediated axonal transport, offering a modern-cell example of RNA-driven self-assembly that is only indirectly relevant to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Neuronal function requires precise long-distance axonal transport mediated by molecular motors and RNA-binding proteins like SFPQ, though regulatory mechanisms remain poorly defined. We identify long non-coding RNA NORAD as a master regulator of this process through liquid-liquid phase separation (LLPS). While SFPQ and kinesin-1 mediate cargo delivery, the specific RNA coordinating their interaction was unknown. We demonstrate NORAD directly binds kinesin light chain 1 (KLC1) and promotes SFPQ condensation into dynamic LLPS droplets, enabling efficient transport. CRISPR-assisted mapping and functional assays show NORAD depletion disrupts granule dynamics, impairs neuroprotective mRNA localization, and induces axonal degeneration. In vitro reconstitution confirms NORAD-KLC1 synergy enhances SFPQ phase separation, and neuron-specific knockout mice exhibit motor deficits with reduced neuronal density. These findings establish the first evidence of lncRNA NORAD-mediated LLPS in axonal transport, revealing a new paradigm for RNA-guided neuronal maintenance.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697853v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [25] ChemRxiv ▶ Interfacial Self-Assembly of Graphene Networks at 1 vol% Enables Piezoresistive and Electrothermal Silicone Foams</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-vsz4h?rft_dat=source%3Ddrss"/>
