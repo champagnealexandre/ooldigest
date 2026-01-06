@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [La mystérieuse « bande de trous » inca de Monte Sierpe serai](https://www.pourlascience.fr/sd/archeologie/la-mysterieuse-bande-de-trous-inca-de-monte-sierpe-serait-un-centre-de-collecte-des-impots-28510.php) |
+| keyword_rejected | - | [Urban heatwaves reverse vulnerability-resilience relationshi](https://www.nature.com/articles/s42949-025-00327-4) |
+| keyword_rejected | - | [A Systematic Review of Prompt Engineering Paradigms in Organ](https://dx.doi.org/10.26434/chemrxiv-2026-625v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Systematic Review of Prompt Engineering Paradigms in Organ](https://dx.doi.org/10.26434/chemrxiv-2026-625v3?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Enantioselective Hydrogen Atom Relay via Non-covalent Cataly](https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Individual and population-level risk factors for new HIV inf](https://www.nature.com/articles/s41467-025-67966-0) |
 | keyword_rejected | - | [Machine Learning Prediction of Henry Coefficients of Polar a](https://dx.doi.org/10.26434/chemrxiv-2026-ps69l?rft_dat=source%3Ddrss) |
