@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Methylation-Activated Clusteroluminescence via Hydrogen-Bond](https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss) |
+| ai_scored | 55 | [Impact of GC content on de novo gene birth](https://www.nature.com/articles/s41467-025-68022-7) |
+| ai_scored | 50 | [Bridging the Gap: Aqueous Phase Organic Synthesis as a Found](https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss) |
+| ai_scored | 20 | [Deep learning-assisted discovery of a potent and cell-active](https://www.nature.com/articles/s41467-025-65542-0) |
+| keyword_rejected | - | [Une traduction oubliée de Linné éclaire la naissance de la b](https://www.pourlascience.fr/sr/regards/une-traduction-oubliee-de-linne-eclaire-la-naissance-de-la-botanique-moderne-28633.php) |
+| keyword_rejected | - | [Spatial variation of energy transport mechanisms within sola](https://www.nature.com/articles/s41550-025-02747-9) |
+| keyword_rejected | - | [Grève des médecins libéraux: tensions "intenables" au Samu, ](https://www.sciencesetavenir.fr/sante/greve-des-medecins-liberaux-tensions-intenables-au-samu-selon-des-representants-d-urgentistes_190288?xtor=RSS-16) |
+| keyword_rejected | - | [Sirt6 deficiency in mast cells promotes adipose fibroinflamm](https://www.nature.com/articles/s41467-025-66040-z) |
+| keyword_rejected | - | [Deep learning guided design of protease substrates](https://www.nature.com/articles/s41467-025-67226-1) |
+| keyword_rejected | - | [Impact of GC content on de novo gene birth](https://www.nature.com/articles/s41467-025-68022-7) |
+| keyword_rejected | - | [Visible-Light-Induced Upcycling of Perchloroethylene into Tr](https://dx.doi.org/10.26434/chemrxiv-2026-p9ct7?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Removing H-Bonds of Non-Aromatic Peptidomimetics for Intrins](https://dx.doi.org/10.26434/chemrxiv-2026-c2j17?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Visible-Light-Induced Upcycling of Perchloroethylene into Tr](https://dx.doi.org/10.26434/chemrxiv-2026-p9ct7?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Importance of Nonadiabatic Effects in Modeling Absorption Sp](https://dx.doi.org/10.26434/chemrxiv-2026-g7sqp?rft_dat=source%3Ddrss) |
 | ai_scored | 20 | [Porous Biopolymer–MOF Composites for Water Treatment: From M](https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Beyond the first glance: How human presence enhances visual ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013173) |

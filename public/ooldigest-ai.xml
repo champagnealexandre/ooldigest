@@ -3,8 +3,63 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T11:16:23.141621+00:00</updated>
+  <updated>2026-01-06T12:37:32.659356+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] nature.com - Biological sciences ▶ Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N6-methyladenosine recognition protein YTHDC2</title>
+    <link href="https://www.nature.com/articles/s41467-025-65542-0"/>
+    <id>https://www.nature.com/articles/s41467-025-65542-0</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Uses deep learning to discover a cell-active inhibitor targeting the eukaryotic m6A RNA-binding protein YTHDC2, a modern regulatory mechanism with only tangential relevance to origins-of-life questions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-65542-0">https://www.nature.com/articles/s41467-025-65542-0</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-65542-0">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Bridging the Gap: Aqueous Phase Organic Synthesis as a Foundation for Advanced Chemical and Biological Discovery</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>For over a century, synthetic chemistry demanded the rigorous exclusion of water, relying on toxic, volatile organic solvents. This paradigm, while successful, is environmentally and economically cost</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> A review arguing that water can actively enhance and reshape organic reactivity (e.g., hydrophobic-effect rate boosts, micellar catalysis, bioconjugation), offering broad-context relevance to origins-of-life by underscoring plausible aqueous reaction networks even though it is not directly focused on prebiotic/abiogenesis chemistry.</p>
+<p><strong>Abstract:</strong> For over a century, synthetic chemistry demanded the rigorous exclusion of water, relying on toxic, volatile organic solvents. This paradigm, while successful, is environmentally and economically costly. This review advocates for a fundamental shift: adopting water not just as a green solvent, but as a transformative medium that reshapes our understanding of reactivity and bridges chemistry with biology. Aqueous phase organic synthesis (APOS) has evolved from accidental observations to a deliberate discipline. Water’s unique properties—its high polarity, hydrogen-bonding capacity, and the hydrophobic effect—make it an active participant. This effect drives reactant aggregation and stabilizes transition states, leading to dramatic rate enhancements in pericyclic and condensation reactions. A broad range of reactions thrive in water, including classical carbon–carbon bond-forming reactions like the aldol and Diels–Alder, and modern cross-couplings (e.g., Suzuki–Miyaura) enabled by water-tolerant catalysts. Multicomponent and click chemistries are particularly powerful. Challenges like poor solubility are addressed with micellar catalysis, water-soluble ligands, and precise control of the reaction microenvironment. Beyond sustainability, APOS drives discovery, often yielding improved selectivities, new pathways, and streamlined syntheses of complex targets like pharmaceuticals. Its greatest promise lies in interfacing with biology. Bioorthogonal reactions, such as azide–alkyne cycloadditions, enable labeling and imaging in living organisms. Aqueous compatibility is essential for in situ therapeutic strategies, chemical biology, and advanced bioconjugation techniques for modifying biomolecules. The future converges with emerging technologies: machine learning to navigate complex aqueous systems, flow chemistry for scalability, and the integration of enzymatic with synthetic catalysis. This points toward a unified chemical-biological engineering paradigm. In conclusion, APOS is a mature, versatile field. It is a cornerstone of green chemistry and a critical bridge to biology, accelerating progress in medicine and materials science. Embracing water is both an environmental imperative and a strategic pathway to the next generation of scientific discovery. Introduction: The Solvent Problem in Organic Synthesis For generations, organic synthesis has been defined by precise control over molecular structure carried out in rigorously dried environments. Since the emergence of modern organic chemistry in the nineteenth century, water – the very medium that sustains life – has been regarded as an obstacle to chemical transformation. This long-standing assumption has shaped laboratory routines, industrial manufacturing, and chemical education, reinforcing the idea that successful synthesis depends on strict exclusion of moisture. This introduction revisits that historical mindset, evaluates its environmental and economic consequences, and presents the case for a fundamental transition toward aqueous phase organic synthesis (APOS) as a more suitable platform for future chemical and biological innovation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Nature Communications ▶ Impact of GC content on de novo gene birth</title>
+    <link href="https://www.nature.com/articles/s41467-025-68022-7"/>
+    <id>https://www.nature.com/articles/s41467-025-68022-7</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 06 January 2026; doi:10.1038/s41467-025-68022-7 Noncoding DNA can generate microproteins, some of which evolve into new genes. This study finds that de novo ge</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study reports that de novo genes preferentially arise from GC-rich noncoding DNA that encodes more foldable microproteins, linking base composition to the emergence of new protein-coding genes.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 06 January 2026; doi:10.1038/s41467-025-68022-7 Noncoding DNA can generate microproteins, some of which evolve into new genes. This study finds that de novo genes preferentially originate from GC-rich, foldable sequences, showing how base composition influences the birth of new proteins.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-68022-7">https://www.nature.com/articles/s41467-025-68022-7</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-68022-7">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] ChemRxiv ▶ Methylation-Activated Clusteroluminescence via Hydrogen-Bond Disruption</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Clusteroluminescence (CL) refers to a newly emerging luminescence phenomenon observed in non-conjugated structures, particularly aliphatic polymers, which inherently exhibit good biocompatibility and </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid</p>
+<p><strong>AI Decision:</strong> A chemistry/materials preprint showing that methylation can enhance polymer clusteroluminescence by disrupting hydrogen bonding and increasing through-space conjugation, with only indirect Origins-of-Life relevance via possible extension to nucleic-acid-like systems.</p>
+<p><strong>Abstract:</strong> Clusteroluminescence (CL) refers to a newly emerging luminescence phenomenon observed in non-conjugated structures, particularly aliphatic polymers, which inherently exhibit good biocompatibility and processability. However, precise manipulation of CL properties, such as emission wavelength and efficiency, remains a critical challenge in this field. In this work, we propose methylation as an effective strategy to enhance inter- and intrachain through-space conjugation (TSC), thereby significantly increasing CL intensity. We preliminarily suggest that methylation disrupts hydrogen bonding, liberating the lone-pair n electrons of heteroatoms to participate in n-electron-involved TSC. We believe that methylation may evolve into a general and powerful approach for regulating the CL behavior of polymers, especially in nucleic acid systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] ChemRxiv ▶ Porous Biopolymer–MOF Composites for Water Treatment: From Material Design to Practical Performance</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss"/>

@@ -1,5 +1,176 @@
 [
   {
+    "title": "Deep learning-assisted discovery of a potent and cell-active inhibitor of RNA N6-methyladenosine recognition protein YTHDC2",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-65542-0",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-65542-0"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "Uses deep learning to discover a cell-active inhibitor targeting the eukaryotic m6A RNA-binding protein YTHDC2, a modern regulatory mechanism with only tangential relevance to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Bridging the Gap: Aqueous Phase Organic Synthesis as a Foundation for Advanced Chemical and Biological Discovery",
+    "summary": "For over a century, synthetic chemistry demanded the rigorous exclusion of water, relying on toxic, volatile organic solvents. This paradigm, while successful, is environmentally and economically costly. This review advocates for a fundamental shift: adopting water not just as a green solvent, but as a transformative medium that reshapes our understanding of reactivity and bridges chemistry with biology. Aqueous phase organic synthesis (APOS) has evolved from accidental observations to a deliberate discipline. Water\u2019s unique properties\u2014its high polarity, hydrogen-bonding capacity, and the hydrophobic effect\u2014make it an active participant. This effect drives reactant aggregation and stabilizes transition states, leading to dramatic rate enhancements in pericyclic and condensation reactions. A broad range of reactions thrive in water, including classical carbon\u2013carbon bond-forming reactions like the aldol and Diels\u2013Alder, and modern cross-couplings (e.g., Suzuki\u2013Miyaura) enabled by water-tolerant catalysts. Multicomponent and click chemistries are particularly powerful. Challenges like poor solubility are addressed with micellar catalysis, water-soluble ligands, and precise control of the reaction microenvironment. Beyond sustainability, APOS drives discovery, often yielding improved selectivities, new pathways, and streamlined syntheses of complex targets like pharmaceuticals. Its greatest promise lies in interfacing with biology. Bioorthogonal reactions, such as azide\u2013alkyne cycloadditions, enable labeling and imaging in living organisms. Aqueous compatibility is essential for in situ therapeutic strategies, chemical biology, and advanced bioconjugation techniques for modifying biomolecules. The future converges with emerging technologies: machine learning to navigate complex aqueous systems, flow chemistry for scalability, and the integration of enzymatic with synthetic catalysis. This points toward a unified chemical-biological engineering paradigm. In conclusion, APOS is a mature, versatile field. It is a cornerstone of green chemistry and a critical bridge to biology, accelerating progress in medicine and materials science. Embracing water is both an environmental imperative and a strategic pathway to the next generation of scientific discovery.\nIntroduction: The Solvent Problem in Organic Synthesis\nFor generations, organic synthesis has been defined by precise control over molecular structure carried out in rigorously dried environments. Since the emergence of modern organic chemistry in the nineteenth century, water \u2013 the very medium that sustains life \u2013 has been regarded as an obstacle to chemical transformation. This long-standing assumption has shaped laboratory routines, industrial manufacturing, and chemical education, reinforcing the idea that successful synthesis depends on strict exclusion of moisture. This introduction revisits that historical mindset, evaluates its environmental and economic consequences, and presents the case for a fundamental transition toward aqueous phase organic synthesis (APOS) as a more suitable platform for future chemical and biological innovation.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-0hw4d?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "A review arguing that water can actively enhance and reshape organic reactivity (e.g., hydrophobic-effect rate boosts, micellar catalysis, bioconjugation), offering broad-context relevance to origins-of-life by underscoring plausible aqueous reaction networks even though it is not directly focused on prebiotic/abiogenesis chemistry."
+    }
+  },
+  {
+    "title": "Impact of GC content on de novo gene birth",
+    "summary": "<p>Nature Communications, Published online: 06 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68022-7\">doi:10.1038/s41467-025-68022-7</a></p>Noncoding DNA can generate microproteins, some of which evolve into new genes. This study finds that de novo genes preferentially originate from GC-rich, foldable sequences, showing how base composition influences the birth of new proteins.",
+    "url": "https://www.nature.com/articles/s41467-025-68022-7",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-68022-7"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "This study reports that de novo genes preferentially arise from GC-rich noncoding DNA that encodes more foldable microproteins, linking base composition to the emergence of new protein-coding genes."
+    }
+  },
+  {
+    "title": "Methylation-Activated Clusteroluminescence via Hydrogen-Bond Disruption",
+    "summary": "Clusteroluminescence (CL) refers to a newly emerging luminescence phenomenon observed in non-conjugated structures, particularly aliphatic polymers, which inherently exhibit good biocompatibility and processability. However, precise manipulation of CL properties, such as emission wavelength and efficiency, remains a critical challenge in this field. In this work, we propose methylation as an effective strategy to enhance inter- and intrachain through-space conjugation (TSC), thereby significantly increasing CL intensity. We preliminarily suggest that methylation disrupts hydrogen bonding, liberating the lone-pair n electrons of heteroatoms to participate in n-electron-involved TSC. We believe that methylation may evolve into a general and powerful approach for regulating the CL behavior of polymers, especially in nucleic acid systems.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-3bs36?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "nucleic acid"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "A chemistry/materials preprint showing that methylation can enhance polymer clusteroluminescence by disrupting hydrogen bonding and increasing through-space conjugation, with only indirect Origins-of-Life relevance via possible extension to nucleic-acid-like systems."
+    }
+  },
+  {
+    "title": "Visible-Light-Induced Upcycling of Perchloroethylene into Trichloroacetamides Using Chlorine Dioxide",
+    "summary": "Herein, we report the visible-light-induced upcycling of environmentally problematic perchloroethylene into valuable trichloroacetamides using chlorine dioxide (ClO2\u2022). The reaction\u3000proceeds with stoichiometric amounts of reagents; under mild\u3000conditions, this enables broad applicability to the synthesis of aromatic trichloroacetamides, carbamates, urea, and heterocycles, offering a sustainable strategy for transforming an environmental pollutant into useful building blocks.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-p9ct7?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Removing H-Bonds of Non-Aromatic Peptidomimetics for Intrinsic Near-Infrared Emission",
+    "summary": "Peptides and peptidomimetics are promising in diverse biological applications, but intrinsic visible emission without appended fluorophores remains a great challenge due to the lack of \u03c0-conjugation in their non-aromatic backbones. Although clusteroluminescence (CL) of nonconjugated materials provides a pathway for intrinsic emission, most non-aromatic clusterolumigens (CLgens) are limited to blue emission, and the underlying factor hindering emission redshift remains unclear. Herein, we identified that intramolecular/intermolecular hydrogen H-bonds between heteroatoms (e.g., \u2013NH2, C=O) compete with through-space conjugation (TSC) and suppress emission redshift. To address this issue, we designed and synthesized ten peptidomimetic polyurethanes (P1-L/H\u2013P5-L) with gradient H-bond densities. Comprehensive characterizations including infrared spectroscopy, femtosecond transient absorption spectroscopy, molecular dynamics simulations, and quantum-chemical calculations confirmed that selective removal of H-bonds enhanced TSC. Notably, H-bond-deficient P4-L and P5-L achieved intrinsic NIR emission at 763 nm and 784 nm, respectively, which is among the longest emission wavelengths reported for non-aromatic CLgens. This work reveals the inhibitory role of H-bonds in TSC and provides a novel strategy for developing intrinsic NIR-emitting peptidomimetics, holding great potential for biological applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-c2j17?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Visible-Light-Induced Upcycling of Perchloroethylene into Trichloroacetamides Using Chlorine Dioxide",
+    "summary": "Herein, we report the visible-light-induced upcycling of environmentally problematic perchloroethylene into valuable trichloroacetamides using chlorine dioxide (ClO2\u2022). The reaction\u3000proceeds with stoichiometric amounts of reagents; under mild\u3000conditions, this enables broad applicability to the synthesis of aromatic trichloroacetamides, carbamates, urea, and heterocycles, offering a sustainable strategy for transforming an environmental pollutant into useful building blocks.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-p9ct7?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Impact of GC content on de novo gene birth",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68022-7",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Deep learning guided design of protease substrates",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67226-1",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sirt6 deficiency in mast cells promotes adipose fibroinflammation in obesity through galectin-3 signaling",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-66040-z",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Gr\u00e8ve des m\u00e9decins lib\u00e9raux: tensions \"intenables\" au Samu, selon des repr\u00e9sentants d'urgentistes",
+    "summary": "La gr\u00e8ve des m\u00e9decins lib\u00e9raux, d\u00e9but\u00e9e lundi, \"se traduit par une hausse de 30% \u00e0 50% d'appels\" aux Samu-SAS, d\u00e9j\u00e0 fragilis\u00e9s par les \u00e9pid\u00e9mies hivernales, et la situation devient \"intenable\", d\u00e9plore mardi Samu urgences de France (SUDF), appelant \u00e0 modifier le cadre r\u00e9glementaire.\nLa situation dans les SAS (Service d'acc\u00e8s aux soins, Samu qui associe d\u00e9sormais la m\u00e9decine de ville) et aux urgences est \"aggrav\u00e9e par le report syst\u00e9matique des urgences chirurgicales de certaines cliniques priv\u00e9es vers le secteur public\", dans le cadre de cette gr\u00e8ve, souligne SUDF dans un communiqu\u00e9.\n\"Dans un syst\u00e8me d\u00e9j\u00e0 fragilis\u00e9 par l'\u00e9pid\u00e9mie de grippe, la p\u00e9nurie de lits d'hospitalisation et les contraintes des f\u00eates de fin d'ann\u00e9e, les conditions de travail au sein des SAMU-SAS et des services d\u2019urgence soumis \u00e0 une tr\u00e8s forte tension sont devenues intenables\", \u00e9crit le syndicat, principal regroupement de m\u00e9decins urgentistes.",
+    "url": "https://www.sciencesetavenir.fr/sante/greve-des-medecins-liberaux-tensions-intenables-au-samu-selon-des-representants-d-urgentistes_190288?xtor=RSS-16",
+    "published_date": "2026-01-06T11:18:12Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Spatial variation of energy transport mechanisms within solar flare ribbons",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41550-025-02747-9",
+    "published_date": "2026-01-06T00:00:00Z",
+    "source_feed": "nature.com - Astronomy and astrophysics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Une traduction oubli\u00e9e de Linn\u00e9 \u00e9claire la naissance de la botanique moderne",
+    "summary": "Un manuscrit in\u00e9dit traitant de la sexualit\u00e9 des plantes, d\u00e9couvert dans les archives d\u2019une femme savante des Lumi\u00e8res, Victorine de Chastenay, invite \u00e0 explorer la pens\u00e9e de Linn\u00e9 telle qu\u2019il l\u2019a lui-m\u00eame formul\u00e9e.",
+    "url": "https://www.pourlascience.fr/sr/regards/une-traduction-oubliee-de-linne-eclaire-la-naissance-de-la-botanique-moderne-28633.php",
+    "published_date": "2026-01-06T11:44:01Z",
+    "source_feed": "Pour la Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Porous Biopolymer\u2013MOF Composites for Water Treatment: From Material Design to Practical Performance",
     "summary": "Porous biopolymer platforms integrated with metal\u2013organic frameworks (MOFs) pair the processability of \npolymer networks with the high surface area and tunable chemistry of MOFs, but reported performance is \noften difficult to compare across studies due to inconsistent metrics, idealized batch testing, and limited \nattention to transport, regeneration, and matrix effects. This review evaluates porous biopolymer\u2013MOF \ncomposites from a platform-level perspective, emphasizing how architecture, MOF placement, and \noperating mode shape performance under realistic constraints rather than isolated adsorption capacities. \nPerformance trends are synthesized across major contaminant classes (heavy metals, dyes, pharmaceuticals, \nand PFAS), focusing on dominant interaction mechanisms and the penalties imposed by diffusion \nlimitations, fouling, and competitive solutes. Regeneration and durability are treated as central determinants \nof viability, alongside leaching risk and water-matrix realism. To improve comparability and translation, a \nminimum reporting framework is proposed, specifying essential parameters for both batch and flow \nsystems. Overall, the review provides a structured basis to judge when porous biopolymer\u2013MOF \ncomposites justify added complexity for sustainable water treatment.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-vtlzc?rft_dat=source%3Ddrss",
