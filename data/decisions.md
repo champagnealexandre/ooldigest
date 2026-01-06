@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Probing Molecular Organization in Polar Nematic Phases: A Co](https://dx.doi.org/10.26434/chemrxiv-2026-9bf98?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Effective Precipitate Cleaning with Reversible
+Flow Cell Sus](https://dx.doi.org/10.26434/chemrxiv-2026-b66r3?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [Infodynamics, Economics, Energy, and Life: An Interdisciplin](https://comdig.unam.mx/2026/01/06/infodynamics-economics-energy-and-life-an-interdisciplinary-approach-by-klaus-jaffe/) |
+| ai_scored | 25 | [Interfacial Self-Assembly of Graphene Networks at 1 vol% Ena](https://dx.doi.org/10.26434/chemrxiv-2026-vsz4h?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The course and treatment of odontogenic infections in hospit](https://www.nature.com/articles/s41598-025-33782-1) |
+| keyword_rejected | - | [Acid mine drainage control in mining areas: identification o](https://www.nature.com/articles/s41598-025-33612-4) |
+| keyword_rejected | - | [Role of environmental variables on plant community formation](https://www.nature.com/articles/s41598-025-34916-1) |
+| keyword_rejected | - | [On the Metabolic Stability of Fluorinated Small Molecules;
+A](https://dx.doi.org/10.26434/chemrxiv-2025-mtqbs-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Modulator-Enhanced Synthesis of Isoreticular Pyridine-Based,](https://dx.doi.org/10.26434/chemrxiv-2026-nr4cf?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Native multi-dimensional (SEC/CZE/SID) protein complex ident](https://dx.doi.org/10.26434/chemrxiv-2025-gh28w-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [On the Metabolic Stability of Fluorinated Small Molecules;
+A](https://dx.doi.org/10.26434/chemrxiv-2025-mtqbs-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Modulator-Enhanced Synthesis of Isoreticular Pyridine-Based,](https://dx.doi.org/10.26434/chemrxiv-2026-nr4cf?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Molecular Diradical Spin Qubits in a Crystalline Host as a P](https://dx.doi.org/10.26434/chemrxiv-2026-qn3p9?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Heterogeneity of genetic sequence within quasi-species of in](https://elifesciences.org/articles/108882) |
 | keyword_rejected | - | [Quantum and thermodynamic evaluation of C<sub>24</sub> fulle](https://www.nature.com/articles/s41598-025-34744-3) |
 | keyword_rejected | - | [A fast, accurate and oscillation-free spectral collocation s](https://www.nature.com/articles/s41598-025-16905-6) |
