@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Enantioselective Hydrogen Atom Relay via Non-covalent Cataly](https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Individual and population-level risk factors for new HIV inf](https://www.nature.com/articles/s41467-025-67966-0) |
+| keyword_rejected | - | [Machine Learning Prediction of Henry Coefficients of Polar a](https://dx.doi.org/10.26434/chemrxiv-2026-ps69l?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Pulse-Mediated Refaceting of Copper. Influence on 5-Hydroxym](https://dx.doi.org/10.26434/chemrxiv-2026-m2khp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Anion Driven Electric Double Layer Structure and Capacitive ](https://dx.doi.org/10.26434/chemrxiv-2026-lzb2f?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [London dispersion governs stereochemistry, stability, and se](https://dx.doi.org/10.26434/chemrxiv-2026-klf50?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Synthesis and Characterization of the First Enol-Germenolate](https://dx.doi.org/10.26434/chemrxiv-2026-c7ptj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Harnessing Alkyl C–X Synthons for Constructing Vicinal Compl](https://dx.doi.org/10.26434/chemrxiv-2026-180qz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Bright Insights into Luminescent Nickel(II): Exploring Ligan](https://dx.doi.org/10.26434/chemrxiv-2026-dg8w0?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Electrostatic Patterning Controls Mineral Nucleation Inside ](https://dx.doi.org/10.26434/chemrxiv-2026-8bq1h?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Ensemble Analyzer: An Open-Source Python Framework for Autom](https://dx.doi.org/10.26434/chemrxiv-2026-kq1wk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [London dispersion governs stereochemistry, stability, and se](https://dx.doi.org/10.26434/chemrxiv-2026-klf50?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Harnessing Alkyl C–X Synthons for Constructing Vicinal Compl](https://dx.doi.org/10.26434/chemrxiv-2026-180qz?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Ensemble Analyzer: An Open-Source Python Framework for Autom](https://dx.doi.org/10.26434/chemrxiv-2026-kq1wk?rft_dat=source%3Ddrss) |
 | ai_scored | 35 | [A mini-review on combinatorial solutions to the Marcus-Lushn](https://arxiv.org/abs/2512.11459) |
 | ai_scored | 90 | [Protocellular energetics: Free energy estimates for all meta](https://arxiv.org/abs/2512.24095) |
 | ai_scored | 30 | [Hidden long-range correlations in the ion distribution at th](https://arxiv.org/abs/2512.24900) |

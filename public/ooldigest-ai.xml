@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-06T05:23:07.785989+00:00</updated>
+  <updated>2026-01-06T06:29:53.986705+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Enantioselective Hydrogen Atom Relay via Non-covalent Catalyst Assembly</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-06T00:00:00Z</updated>
+    <summary>Enantioselective hydrogen atom transfer (HAT) has great synthetic potential, but the de novo design of chiral HAT catalysts is challenging. We report a conceptually distinct approach in which chiral H</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
+<p><strong>AI Decision:</strong> Demonstrates a non-covalent self-assembly strategy to impart chirality to an achiral HAT catalyst and enable photochemical deracemization, offering broad-context insight into how supramolecular assemblies can relay chiral information (tangentially relevant to OoL homochirality discussions).</p>
+<p><strong>Abstract:</strong> Enantioselective hydrogen atom transfer (HAT) has great synthetic potential, but the de novo design of chiral HAT catalysts is challenging. We report a conceptually distinct approach in which chiral HAT catalysts are generated in situ through non-covalent self-assembly of privileged chiral phosphoric acids and commercial 2-mercaptopyridines. The phosphoric acid serves as a modular chiral source that renders the achiral thiol effectively chiral, enabling a previously inaccessible combinatorial space of chiral HAT catalysts. This platform enabled the photochemical deracemization of 2-aryl pyrrolidines, a prevalent scaffold in active pharmaceutical ingredients. Optical enrichment proceeds via enantioselective hydrogen atom relay, in which a single chiral assembly orchestrates both hydrogen atom abstraction and delivery. This concept of relaying chiral information via non-covalent assembly holds broad potential for asymmetric radical catalysis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-qwhqp?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ Trajectory-Based Dust Evolution in Disks: First Results from the RAPID Simulation Code</title>
     <link href="https://arxiv.org/abs/2601.01468"/>
