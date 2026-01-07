@@ -1,5 +1,65 @@
 [
   {
+    "title": "How a parasite 'gave up sex' to find more hosts\u2014and why its victory won't last",
+    "summary": "Australian researchers have uncovered how a particular strain of a diarrhea-causing parasite managed to infect more animal species, offering new insights into how parasitic infections emerge and spread to people.",
+    "url": "https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html",
+    "published_date": "2026-01-07T14:20:16Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Study reports how an asexual shift in a diarrheal parasite strain broadened its host range, informing pathogen emergence dynamics but only indirectly relevant to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Replicability challenges in redox flow cell testing: Insights from a multi-institutional study",
+    "summary": "Flow battery research is growing at pace, given the global need for longer-duration energy storage technologies. Positioned at the intersection of several scientific and engineering disciplines, flow battery studies involve significant experimental complexity that serve as sources of variability when assessing performance. Experimental errors arise from variable flow cell assembly practices, discrepancies in electrochemical technique protocols, inhomogeneous material properties, or uncontrolled environmental conditions\u2014all influencing the metrics reported across laboratories. Nonetheless, the magnitude of this variability in performance indicators from typical electrochemical techniques is rarely assessed. This lack of replicability testing presents challenges for interlaboratory comparison, reducing research confidence in performance ascription. We therefore performed a round-robin study involving eight participant groups (seven academic institutions) on a model flow cell system, comprising a well-studied electrolyte, in a symmetric flow-cell configuration, using the same flow cell. Despite identical hardware, chemistry, and experimental prompts, appreciable differences were observed in the charge discharge profiles, polarisation curves, and Nyquist plots resulting from participant data acquisition. The study identifies that protocol differences have clear and non-negligible effects on reported performance metrics and provides an indication of the magnitude of variabilities that can be observed for a single system. Certain differences in cell build and operation may contribute to the observed variability, although the relatively small number of experiments do not provide sufficient data to support clear attribution. Nevertheless, the data highlight the need for greater methodological transparency, shared protocols, and a need for standard operating procedures to reduce significant replicability errors, even in a well-controlled single-electrolyte system.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-gz3s9?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Influence of the reinsertion algorithm on the performance of the Vertex Entanglement method",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s42005-025-02429-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Complex networks",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reply to: Influence of the reinsertion algorithm on the performance of the Vertex Entanglement method",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s42005-025-02430-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Complex networks",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Un implant qui envoie des messages au cerveau gr\u00e2ce \u00e0 la lumi\u00e8re",
+    "summary": "Ce dispositif stimule par optog\u00e9n\u00e9tique les neurones de souris, qui agissent diff\u00e9remment en fonction de cette stimulation, ce qui pourrait faciliter un vrai va-et-vient d\u2019information pour les interfaces cerveau-machine.",
+    "url": "https://www.sciencesetavenir.fr/sante/cerveau-et-psy/un-implant-qui-envoie-des-messages-au-cerveau-grace-a-la-lumiere_190305?xtor=RSS-16",
+    "published_date": "2026-01-07T14:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Ancient skeletons reveal viruses embedded in human DNA",
     "summary": "Researchers have reconstructed ancient herpesvirus genomes from Iron Age and medieval Europeans, revealing that HHV-6 has been infecting humans for at least 2,500 years. Some people inherited the virus directly in their DNA, passing it down across generations. The study shows that these viruses evolved alongside humans\u2014and that one strain eventually lost its ability to integrate into our chromosomes. It\u2019s the first time this long, intimate relationship has been proven with ancient genetic evidence.",
     "url": "https://www.sciencedaily.com/releases/2026/01/260106224628.htm",

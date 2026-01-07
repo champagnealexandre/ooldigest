@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [How a parasite 'gave up sex' to find more hosts—and why its ](https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html) |
+| keyword_rejected | - | [Un implant qui envoie des messages au cerveau grâce à la lum](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/un-implant-qui-envoie-des-messages-au-cerveau-grace-a-la-lumiere_190305?xtor=RSS-16) |
+| keyword_rejected | - | [Reply to: Influence of the reinsertion algorithm on the perf](https://www.nature.com/articles/s42005-025-02430-5) |
+| keyword_rejected | - | [Influence of the reinsertion algorithm on the performance of](https://www.nature.com/articles/s42005-025-02429-y) |
+| keyword_rejected | - | [Replicability challenges in redox flow cell testing: Insight](https://dx.doi.org/10.26434/chemrxiv-2026-gz3s9?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Ancient skeletons reveal viruses embedded in human DNA](https://www.sciencedaily.com/releases/2026/01/260106224628.htm) |
 | keyword_rejected | - | [Exposition "Machine arrière" à la Cité des sciences : l'héri](https://www.sciencesetavenir.fr/decouvrir/expositions/exposition-machine-arriere-a-la-cite-des-sciences-que-reste-t-il-de-la-machine-a-ecrire_190295?xtor=RSS-27) |
 | keyword_rejected | - | [A troubleshooting guide to your flat-pack planet](https://www.nature.com/articles/d41586-025-04028-x) |
