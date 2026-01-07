@@ -3,8 +3,37 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-07T10:20:19.053585+00:00</updated>
+  <updated>2026-01-07T11:17:17.256805+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] Scientific American ▶ ‘Microbubbles’ Help Spread Dangerous Microplastics Through Our Water, Study Finds</title>
+    <link href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/"/>
+    <id>https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/</id>
+    <updated>2026-01-07T11:00:00Z</updated>
+    <summary>Water plays a crucial role in how tiny pieces of plastic enter our environment—and us</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> A Science Advances study shows that microbubbles in water can concentrate and transport microplastics, highlighting how air–water interfaces can mobilize particulate matter—processes potentially analogous to interface-driven transport relevant to prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> Water plays a crucial role in how tiny pieces of plastic enter our environment—and us</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.science.org/doi/full/10.1126/sciadv.aea4729">https://www.science.org/doi/full/10.1126/sciadv.aea4729</a></li>
+<li><a href="https://doi.org/10.1126/sciadv.aea4729">https://doi.org/10.1126/sciadv.aea4729</a></li>
+</ul>
+<p><a href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] molecular biology - biorXiv Preprints ▶ A PIWI protein-dependent DNA N6-adenine methylation pathway in Oxytricha protects genomic sequences from deletion</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>The ciliate Oxytricha undergoes massive genome rearrangements during development to produce a functional nucleus from an encrypted zygotic genome. PIWI-interacting small RNAs protect DNA regions again</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study shows that piRNA/PIWI signaling in the ciliate Oxytricha guides N6-adenine DNA methylation (6mA) via MTA1 to mark and protect genomic regions from programmed deletion during nuclear development, illustrating an RNA-directed epigenetic mechanism for genome maintenance.</p>
+<p><strong>Abstract:</strong> The ciliate Oxytricha undergoes massive genome rearrangements during development to produce a functional nucleus from an encrypted zygotic genome. PIWI-interacting small RNAs protect DNA regions against deletion, but how that protective mark is established has been a mystery. Recently our lab discovered MTA1, a methyltransferase that catalyzes DNA N6-adenine (6mA) methylation. Both MTA1 and the Oxytricha Piwi protein, Otiwi1, are required for development, and Otiwi1 mutation eliminates 6mA signal. To examine the role of 6mA, we analyzed its genome-wide distribution across development in wild-type and MTA1 mutant backcrossed cells. We find specific and abundant enrichment on retained sequences, suggesting a protective role for this epigenetic mark. Furthermore, programmed retention of a DNA region that is normally deleted leads to accumulation of new 6mA marks on the ectopically retained DNA sequence. Together, these results suggest that piRNA-guided 6mA DNA methylation leads to protection of DNA sequences against deletion during nuclear differentiation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [15] ChemRxiv ▶ Aqueous FeCl3-Mediated Assembly of heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss"/>

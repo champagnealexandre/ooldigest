@@ -1,5 +1,251 @@
 [
   {
+    "title": "\u2018Microbubbles\u2019 Help Spread Dangerous Microplastics Through Our Water, Study Finds",
+    "summary": "<p>Water plays a crucial role in how tiny pieces of plastic enter our environment&mdash;and us</p>",
+    "url": "https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/",
+    "published_date": "2026-01-07T11:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.science.org/doi/full/10.1126/sciadv.aea4729",
+      "https://doi.org/10.1126/sciadv.aea4729"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 35,
+      "summary": "A Science Advances study shows that microbubbles in water can concentrate and transport microplastics, highlighting how air\u2013water interfaces can mobilize particulate matter\u2014processes potentially analogous to interface-driven transport relevant to prebiotic chemistry."
+    }
+  },
+  {
+    "title": "A PIWI protein-dependent DNA N6-adenine methylation pathway in Oxytricha protects genomic sequences from deletion",
+    "summary": "The ciliate Oxytricha undergoes massive genome rearrangements during development to produce a functional nucleus from an encrypted zygotic genome. PIWI-interacting small RNAs protect DNA regions against deletion, but how that protective mark is established has been a mystery. Recently our lab discovered MTA1, a methyltransferase that catalyzes DNA N6-adenine (6mA) methylation. Both MTA1 and the Oxytricha Piwi protein, Otiwi1, are required for development, and Otiwi1 mutation eliminates 6mA signal. To examine the role of 6mA, we analyzed its genome-wide distribution across development in wild-type and MTA1 mutant backcrossed cells. We find specific and abundant enrichment on retained sequences, suggesting a protective role for this epigenetic mark. Furthermore, programmed retention of a DNA region that is normally deleted leads to accumulation of new 6mA marks on the ectopically retained DNA sequence. Together, these results suggest that piRNA-guided 6mA DNA methylation leads to protection of DNA sequences against deletion during nuclear differentiation.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "This study shows that piRNA/PIWI signaling in the ciliate Oxytricha guides N6-adenine DNA methylation (6mA) via MTA1 to mark and protect genomic regions from programmed deletion during nuclear development, illustrating an RNA-directed epigenetic mechanism for genome maintenance."
+    }
+  },
+  {
+    "title": "Two-Dimensional High-k BaTiO3 for Capacitive High-Energy Storage",
+    "summary": "High-performance capacitors are essential for modern power electronics, yet the low energy density of conventional dielectrics largely restricts their further miniaturization. Incorporating nanostructured high-k materials offers a promising route to overcome this limitation. Here, we address this issue by producing high-quality 2D BaTiO3 via soft chemical growth at low temperatures. The formation of these ultrathin BaTiO3 nanosheets proceeds from TiO2 nanosheet precursors via a multi-stage pathway that couples an initial topochemical surface conversion with subsequent confinement-directed regrowth processes. The obtained nanosheets feature thickness of ~10 nm and lateral dimensions of several hundred nanometers. Subsequent annealing enhances their crystallinity, yielding a high k of ~70 at 1 kHz. To demonstrate their practical potential, stable aqueous dielectric inks composed of these nanosheets and poly(vinyl alcohol) were formulated, enabling the fabrication of waterborne polymer composites via a simple solution-casting process. These truly 2D high-k nanosheets result in a maximum recoverable energy density of 12 J cm\u207b3 and a charge-discharge efficiency of 70% at an electric field of 632 MV m\u207b1 in a composite film with record-low filling ratio (0.05 vol%). These energy storage metrics rival those of state-of-the-art waterborne dielectric materials and most of solvent-processed polymer composites based on BaTiO3 nanoparticles or nanofibers, highlighting the potential of the 2D BaTiO3 for flexible energy-storage devices.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-hdp35?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rethinking sustainable pathways for PFAS",
+    "summary": "<p>Nature Chemistry, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02044-y\">doi:10.1038/s41557-025-02044-y</a></p>Rethinking sustainable pathways for PFAS",
+    "url": "https://www.nature.com/articles/s41557-025-02044-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Monovalent pseudo-natural products supercharge degradation of IDO1 by its native E3 KLHDC3",
+    "summary": "<p>Nature Chemistry, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02021-5\">doi:10.1038/s41557-025-02021-5</a></p>In targeted protein degradation, a degrader molecule brings a neosubstrate protein proximal to a hijacked E3 ligase for its ubiquitination. Here, pseudo-natural products derived from (\u2212)-myrtanol\u2014iDegs\u2014are identified to inhibit and induce degradation of the immunomodulatory enzyme indoleamine-2,3-dioxygenase 1 (IDO1) by a distinct mechanism. iDegs prime apo-IDO1 ubiquitination and subsequent degradation using its native proteolytic pathway.",
+    "url": "https://www.nature.com/articles/s41557-025-02021-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Biocompatible ligand balancing in transition metal coordination enables benign in-cell protein arylation",
+    "summary": "<p>Nature Chemistry, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02017-1\">doi:10.1038/s41557-025-02017-1</a></p>The perceived toxicity of organometallic reagents has limited their use in living systems. Now it has been shown that balancing flexible chelation with biocompatible ligands without precluding chemical reactivity enables organonickel-mediated S-arylation inside cells. This reaction enables deep chemical surveys of reactive proteins and covalent tracking of intracellular viral and bacterial pathogens.",
+    "url": "https://www.nature.com/articles/s41557-025-02017-1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Homologative alkene difunctionalization",
+    "summary": "<p>Nature Chemistry, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41557-025-02037-x\">doi:10.1038/s41557-025-02037-x</a></p>Despite their structural similarity, homologous series often require individual synthetic routes and distinct starting materials. Now it has been shown that a designer methylene dication reagent transforms alkenes and nucleophiles, typically primed for 1,2-difunctionalization, into 1,3-difunctionalized products such as azetidines, 1,3-diazides and 1,3-dihalides through the incorporation of a single-carbon unit during molecular assembly.",
+    "url": "https://www.nature.com/articles/s41557-025-02037-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Chemistry",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Tocotrienols exhibit superior ferroptosis inhibition over tocopherols",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34673-1\">doi:10.1038/s41598-025-34673-1</a></p>Tocotrienols exhibit superior ferroptosis inhibition over tocopherols",
+    "url": "https://www.nature.com/articles/s41598-025-34673-1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hybrid CFD and machine learning analysis of CO<sub>2</sub> enhanced oil recovery in naturally fractured reservoirs",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34786-7\">doi:10.1038/s41598-025-34786-7</a></p>Hybrid CFD and machine learning analysis of CO<sub>2</sub> enhanced oil recovery in naturally fractured reservoirs",
+    "url": "https://www.nature.com/articles/s41598-025-34786-7",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A non-equilibrium model for ultrasensitive switching in bacterial flagellar motors",
+    "summary": "<p>Nature Physics, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41567-025-03125-y\">doi:10.1038/s41567-025-03125-y</a></p>Bacterial motors respond to chemical signals with high sensitivity to control cell swimming behaviour. However, the established model that describes how this sensitivity arises is an equilibrium model, which is inconsistent with experimental findings. A model is now proposed in which high sensitivity results from non-equilibrium mechanical interactions within the motor.",
+    "url": "https://www.nature.com/articles/s41567-025-03125-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Nature Physics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mechanical origin for non-equilibrium ultrasensitivity in the bacterial flagellar motor",
+    "summary": "<p>Nature Physics, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41567-025-03105-2\">doi:10.1038/s41567-025-03105-2</a></p>Bacterial flagellar motors switch rotation direction with high sensitivity to environmental inputs. A theoretical model explains how torque-dependent non-equilibrium switching contributes to ultrasensitivity.",
+    "url": "https://www.nature.com/articles/s41567-025-03105-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Nature Physics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "\u2018I rarely get outside\u2019: scientists ditch fieldwork in the age of AI",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04150-w\">doi:10.1038/d41586-025-04150-w</a></p>In the race to embrace new technologies, some ecologists fear their field is losing touch with nature.",
+    "url": "https://www.nature.com/articles/d41586-025-04150-w",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Avec Toutatis, la France s\u2019engage dans la militarisation de l\u2019espace",
+    "summary": "Le programme Toutatis pr\u00e9voit en 2027 le lancement de deux satellites de surveillance et d\u2019intervention en orbite basse. Avec lui, la France franchit une nouvelle \u00e9tape dans sa strat\u00e9gie spatiale de d\u00e9fense. Une \u00e9volution qui s\u2019inscrit dans un mouvement international marqu\u00e9 par la mont\u00e9e en puissance des capacit\u00e9s militaires am\u00e9ricaines, russes et chinoises dans l\u2019espace.",
+    "url": "https://www.sciencesetavenir.fr/espace/avec-toutatis-la-france-s-engage-dans-la-militarisation-de-l-espace_190303?xtor=RSS-9",
+    "published_date": "2026-01-07T11:04:06Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Les universit\u00e9s chinoises attirent de plus en plus de chercheurs \u00e9trangers",
+    "summary": "Si depuis des ann\u00e9es le gouvernement chinois encourage les plus grands scientifiques du monde entier \u00e0 venir exercer dans le pays, aujourd'hui, ce sont les moyens importants et le prestige des universit\u00e9s chinoises qui les attirent.\nAlors que Chine et Etats-Unis cherchent chacun \u00e0 dominer le secteur des technologies, P\u00e9kin a lanc\u00e9 des programmes pour attirer les cerveaux, comme celui des \"1.000 talents\", donnant acc\u00e8s \u00e0 des salaires \u00e9lev\u00e9s et de g\u00e9n\u00e9reuses bourses \u00e0 des chercheurs sp\u00e9cialistes de domaines jug\u00e9s strat\u00e9giques, en particulier en science, technologie, ing\u00e9nierie et math\u00e9matiques (STEM).\nMais de jeunes chercheurs qui ne sont pas sp\u00e9cifiquement vis\u00e9s par ces programmes d'Etat affluent aussi d\u00e9sormais en Chine, d'apr\u00e8s les universitaires interrog\u00e9s par l'AFP.",
+    "url": "https://www.sciencesetavenir.fr/sciences/les-universites-chinoises-attirent-de-plus-en-plus-de-chercheurs-etrangers_190302?xtor=RSS-18",
+    "published_date": "2026-01-07T04:00:15Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "AI chatbots miss urgent issues in queries about women's health",
+    "summary": "AI models such as ChatGPT and Gemini fail to give adequate advice for 60 per cent of queries relating to women\u2019s health in a test created by medical professionals",
+    "url": "https://www.newscientist.com/article/2510065-ai-chatbots-miss-urgent-issues-in-queries-about-womens-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T10:00:34Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "CAR T-cell therapy makes ageing guts heal themselves",
+    "summary": "Immune cells are most commonly engineered to kill cancers, but now, scientists have shown the technique makes the gut lining of older mice resemble that of younger mice, raising hopes that the same approach could work in people",
+    "url": "https://www.newscientist.com/article/2510062-car-t-cell-therapy-makes-ageing-guts-heal-themselves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T08:00:11Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "How New Public Health Changes Could Leave Vulnerable Children Behind",
+    "summary": "<p>A look at how evolving national health policies could reshape the future of kids&rsquo; care, from vaccines to essential treatments.</p>",
+    "url": "https://www.scientificamerican.com/podcast/episode/how-new-public-health-changes-could-leave-vulnerable-children-behind/",
+    "published_date": "2026-01-07T11:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "AI chatbots miss urgent issues in queries about women's health",
+    "summary": "AI models such as ChatGPT and Gemini fail to give adequate advice for 60 per cent of queries relating to women\u2019s health in a test created by medical professionals",
+    "url": "https://www.newscientist.com/article/2510065-ai-chatbots-miss-urgent-issues-in-queries-about-womens-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T10:00:34Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "CAR T-cell therapy makes ageing guts heal themselves",
+    "summary": "Immune cells are most commonly engineered to kill cancers, but now, scientists have shown the technique makes the gut lining of older mice resemble that of younger mice, raising hopes that the same approach could work in people",
+    "url": "https://www.newscientist.com/article/2510062-car-t-cell-therapy-makes-ageing-guts-heal-themselves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T08:00:11Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "AI chatbots miss urgent issues in queries about women's health",
+    "summary": "AI models such as ChatGPT and Gemini fail to give adequate advice for 60 per cent of queries relating to women\u2019s health in a test created by medical professionals",
+    "url": "https://www.newscientist.com/article/2510065-ai-chatbots-miss-urgent-issues-in-queries-about-womens-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T10:00:34Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "CAR T-cell therapy makes ageing guts heal themselves",
+    "summary": "Immune cells are most commonly engineered to kill cancers, but now, scientists have shown the technique makes the gut lining of older mice resemble that of younger mice, raising hopes that the same approach could work in people",
+    "url": "https://www.newscientist.com/article/2510062-car-t-cell-therapy-makes-ageing-guts-heal-themselves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T08:00:11Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Aqueous FeCl3-Mediated Assembly of heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties",
     "summary": "A green synthetic approach was reported for constructing heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties using FeCl3 catalysis in water. The method demonstrated broad substrate scope, high functional group tolerance and easy operation, achieving yields of 35-86%. The protocol\u2019s efficiency in aqueous conditions highlights its environmental advantages while maintaining synthetic versatility for bioactive heterocycles. Furthermore, the amplification experiment and synthetic transformations of the adducts including modifications of marketed drugs further highlighted their practicalities.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss",

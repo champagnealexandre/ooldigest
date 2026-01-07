@@ -1,5 +1,26 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [A PIWI protein-dependent DNA N6-adenine methylation pathway ](https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1) |
+| ai_scored | 35 | [‘Microbubbles’ Help Spread Dangerous Microplastics Through O](https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/) |
+| keyword_rejected | - | [CAR T-cell therapy makes ageing guts heal themselves](https://www.newscientist.com/article/2510062-car-t-cell-therapy-makes-ageing-guts-heal-themselves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [AI chatbots miss urgent issues in queries about women's heal](https://www.newscientist.com/article/2510065-ai-chatbots-miss-urgent-issues-in-queries-about-womens-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [CAR T-cell therapy makes ageing guts heal themselves](https://www.newscientist.com/article/2510062-car-t-cell-therapy-makes-ageing-guts-heal-themselves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [AI chatbots miss urgent issues in queries about women's heal](https://www.newscientist.com/article/2510065-ai-chatbots-miss-urgent-issues-in-queries-about-womens-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [How New Public Health Changes Could Leave Vulnerable Childre](https://www.scientificamerican.com/podcast/episode/how-new-public-health-changes-could-leave-vulnerable-children-behind/) |
+| keyword_rejected | - | [CAR T-cell therapy makes ageing guts heal themselves](https://www.newscientist.com/article/2510062-car-t-cell-therapy-makes-ageing-guts-heal-themselves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [AI chatbots miss urgent issues in queries about women's heal](https://www.newscientist.com/article/2510065-ai-chatbots-miss-urgent-issues-in-queries-about-womens-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Les universités chinoises attirent de plus en plus de cherch](https://www.sciencesetavenir.fr/sciences/les-universites-chinoises-attirent-de-plus-en-plus-de-chercheurs-etrangers_190302?xtor=RSS-18) |
+| keyword_rejected | - | [Avec Toutatis, la France s’engage dans la militarisation de ](https://www.sciencesetavenir.fr/espace/avec-toutatis-la-france-s-engage-dans-la-militarisation-de-l-espace_190303?xtor=RSS-9) |
+| keyword_rejected | - | [‘I rarely get outside’: scientists ditch fieldwork in the ag](https://www.nature.com/articles/d41586-025-04150-w) |
+| keyword_rejected | - | [Mechanical origin for non-equilibrium ultrasensitivity in th](https://www.nature.com/articles/s41567-025-03105-2) |
+| keyword_rejected | - | [A non-equilibrium model for ultrasensitive switching in bact](https://www.nature.com/articles/s41567-025-03125-y) |
+| keyword_rejected | - | [Hybrid CFD and machine learning analysis of CO<sub>2</sub> e](https://www.nature.com/articles/s41598-025-34786-7) |
+| keyword_rejected | - | [Tocotrienols exhibit superior ferroptosis inhibition over to](https://www.nature.com/articles/s41598-025-34673-1) |
+| keyword_rejected | - | [Homologative alkene difunctionalization](https://www.nature.com/articles/s41557-025-02037-x) |
+| keyword_rejected | - | [Biocompatible ligand balancing in transition metal coordinat](https://www.nature.com/articles/s41557-025-02017-1) |
+| keyword_rejected | - | [Monovalent pseudo-natural products supercharge degradation o](https://www.nature.com/articles/s41557-025-02021-5) |
+| keyword_rejected | - | [Rethinking sustainable pathways for PFAS](https://www.nature.com/articles/s41557-025-02044-y) |
+| keyword_rejected | - | [Two-Dimensional High-k BaTiO3 for Capacitive High-Energy Sto](https://dx.doi.org/10.26434/chemrxiv-2026-hdp35?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Aqueous FeCl3-Mediated Assembly of heterocyclic compounds co](https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Aqueous FeCl3-Mediated Assembly of heterocyclic compounds co](https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [L’impact des microplastiques sur notre santé dépendrait de n](https://www.sciencesetavenir.fr/sante/l-impact-des-microplastiques-sur-la-sante-dependrait-de-notre-alimentation_190291?xtor=RSS-16) |
