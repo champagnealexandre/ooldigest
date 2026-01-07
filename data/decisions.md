@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Tau condensation on DNA mediates microtubule attachment sugg](https://www.nature.com/articles/s41467-025-67888-x) |
+| ai_scored | 35 | [Sandblasting on Mars: Camera reveals how prevailing winds sh](https://phys.org/news/2026-01-sandblasting-mars-camera-reveals-prevailing.html) |
+| ai_scored | 75 | [Organic Carbon In A Submarine Pressure Cooker](https://astrobiology.com/2026/01/organic-carbon-in-a-submarine-pressure-cooker.html) |
+| ai_scored | 30 | [A co-evolutionary perspective on humans and <i>Mycobacterium](https://elifesciences.org/articles/108175) |
+| keyword_rejected | - | [Antarctica Doomsday Glacier Rattled by Hundreds of Iceberg E](https://www.scientificamerican.com/article/antarctica-doomsday-glacier-rattled-by-hundreds-of-iceberg-earthquakes/) |
+| keyword_rejected | - | [Fossil Discovery of New Human Ancestor May Connect Us to Nea](https://www.scientificamerican.com/article/fossil-discovery-of-new-human-ancestor-may-connect-us-to-neandertals-and/) |
+| keyword_rejected | - | [Grève des médecins: l'activité a baissé de 15% lundi chez le](https://www.sciencesetavenir.fr/sante/greve-des-medecins-l-activite-a-baisse-de-15-lundi-chez-les-generalistes-selon-le-ministere_190312?xtor=RSS-16) |
+| keyword_rejected | - | [Grippe: une activité élevée dans les hôpitaux, un pic encore](https://www.sciencesetavenir.fr/sante/grippe-une-activite-elevee-dans-les-hopitaux-un-pic-encore-incertain_190314?xtor=RSS-16) |
+| keyword_rejected | - | [Neandertal et Homo sapiens avaient un ancêtre au Maroc, il y](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/au-maroc-decouverte-d-un-ancetre-commun-d-homo-sapiens-et-de-neandertal-vieux-de-773-000-ans_190311?xtor=RSS-4) |
+| keyword_rejected | - | [Tumor agnostic drug delivery with dynamic nanohydrogels](https://www.nature.com/articles/s41467-025-66788-4) |
+| keyword_rejected | - | [Reduction of bacterial colonization on buckling-induced wrin](https://www.nature.com/articles/s41467-025-68078-5) |
+| keyword_rejected | - | [Chronic macrophage activation derails muscle repair by disru](https://www.nature.com/articles/s41467-025-68204-3) |
+| keyword_rejected | - | [Inside the massive radio search of our newest interstellar g](https://phys.org/news/2026-01-massive-radio-interstellar-guest.html) |
+| keyword_rejected | - | [Scientists use string theory to crack the code of natural ne](https://phys.org/news/2026-01-scientists-theory-code-natural-networks.html) |
+| keyword_rejected | - | [Correction: Comprehensive analysis of the PLXNA3 gene on pro](https://www.nature.com/articles/s41598-025-30560-x) |
+| keyword_rejected | - | [Chronic macrophage activation derails muscle repair by disru](https://www.nature.com/articles/s41467-025-68204-3) |
+| keyword_rejected | - | [An Open-Source Code To Analyze Mitochondrial Intracellular D](https://www.biorxiv.org/content/10.64898/2026.01.06.697902v1?rss=1) |
+| keyword_rejected | - | [Microtubule detyrosination enhances matrix remodeling and fo](https://www.biorxiv.org/content/10.64898/2026.01.06.698015v1?rss=1) |
+| keyword_rejected | - | [Generating Structurally Diverse Therapeutic Peptides with GF](https://www.biorxiv.org/content/10.64898/2026.01.05.697258v1?rss=1) |
 | ai_scored | 20 | [Insights into DNA repeat expansions among 900,000 biobank pa](https://www.nature.com/articles/s41586-025-09886-z) |
 | ai_scored | 50 | [RNA-triggered Cas12a3 cleaves tRNA tails to execute bacteria](https://www.nature.com/articles/s41586-025-09852-9) |
 | ai_scored | 60 | [Molecular switch reveals transition between single-celled an](https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html) |
