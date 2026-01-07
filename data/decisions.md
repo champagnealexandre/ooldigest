@@ -1,5 +1,35 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Unlocking Aromatic Amine Oxidation in APEX2 by Engineering t](https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss) |
+| ai_scored | 25 | [Luminescent Zr Complexes with Long-lived Intraligand Charge ](https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss) |
+| ai_scored | 0 | [Deterministic Quantum Trajectory via Imaginary Time Evolutio](http://link.aps.org/doi/10.1103/fgkg-n2b9) |
+| ai_scored | 13 | [Transcriptomic analysis of preimplantation mouse embryos exp](https://www.nature.com/articles/s41598-025-29446-9) |
+| keyword_rejected | - | [Nouvel épisode de neige et verglas attendu sur le nord et l'](https://www.sciencesetavenir.fr/nature-environnement/nouvel-episode-de-neige-et-verglas-attendu-sur-le-nord-et-l-ouest-de-la-france_190296?xtor=RSS-15) |
+| keyword_rejected | - | [Polymorphic Self-Poisoning in Poly(Lactic Acid): A New Pheno](http://link.aps.org/doi/10.1103/yf56-tfhd) |
+| keyword_rejected | - | [Tracking the Photoinduced Dynamics of a Dark Excitonic State](http://link.aps.org/doi/10.1103/j34b-hh1c) |
+| keyword_rejected | - | [Magnetoelectric Torque in Polar Magnetic Bilayers](http://link.aps.org/doi/10.1103/l5fd-kpn5) |
+| keyword_rejected | - | [Lindbladian versus Postselected non-Hermitian Topology](http://link.aps.org/doi/10.1103/ljvt-w6hw) |
+| keyword_rejected | - | [Spatial Correlations of Charge Density Wave Order across the](http://link.aps.org/doi/10.1103/776d-dnmf) |
+| keyword_rejected | - | [<i>Ab Initio</i> Superionic-Liquid Phase Diagram of ${\mathr](http://link.aps.org/doi/10.1103/37nh-5ws8) |
+| keyword_rejected | - | [Formation of Voids or Stacking-Fault Tetrahedra Induced by L](http://link.aps.org/doi/10.1103/p629-97jn) |
+| keyword_rejected | - | [Wave-Induced Fracture of a Sea-Ice Analog](http://link.aps.org/doi/10.1103/911x-1hyh) |
+| keyword_rejected | - | [Hybrid Quantum Surface Acoustic Wave with Skyrmion Qubit for](http://link.aps.org/doi/10.1103/3tz7-pqqq) |
+| keyword_rejected | - | [Strong Molecule-Light Entanglement with Molecular Cavity Opt](http://link.aps.org/doi/10.1103/4z8v-f6s5) |
+| keyword_rejected | - | [Matrix Phase-Space Representations for Gaussian Boson Sampli](http://link.aps.org/doi/10.1103/htk1-rn8v) |
+| keyword_rejected | - | [Optical Excitation and Stabilization of Ultracold Field-Link](http://link.aps.org/doi/10.1103/j17b-x1x7) |
+| keyword_rejected | - | [Extensive Manipulation of Transition Rates and Substantial P](http://link.aps.org/doi/10.1103/6nqb-tnp6) |
+| keyword_rejected | - | [Encrypted Qubits Can Be Cloned](http://link.aps.org/doi/10.1103/y4y1-1ll6) |
+| keyword_rejected | - | [Efficient Quantum Simulation for Translationally Invariant S](http://link.aps.org/doi/10.1103/cswp-xy7k) |
+| keyword_rejected | - | [Noncommutativity as a Universal Characterization for Enhance](http://link.aps.org/doi/10.1103/3jlc-lb5c) |
+| keyword_rejected | - | [The microscale organization of directed hypergraphs](https://www.nature.com/articles/s42005-025-02472-9) |
+| keyword_rejected | - | [Plasma growth differentiation factor-15 is associated with c](https://www.nature.com/articles/s41598-025-27988-6) |
+| keyword_rejected | - | [LDSC: enhancing lung disease diagnosis using a simple 1D-CNN](https://www.nature.com/articles/s41598-025-34485-3) |
+| keyword_rejected | - | [Explainable AI and echo state networks calibrate trust in hu](https://www.nature.com/articles/s41598-025-30899-1) |
+| keyword_rejected | - | [Aligning EU energy security and climate mitigation through t](https://www.nature.com/articles/s41467-025-67595-7) |
+| keyword_rejected | - | [Surface-energy-compensated fabrication of single-crystal all](https://www.nature.com/articles/s41467-025-68196-0) |
+| keyword_rejected | - | [Armstrongs Probabilistic Electron Phase-Space Overlap Model ](https://dx.doi.org/10.26434/chemrxiv-2026-9swcr?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Chemically and Spatially Tunable Epoxide Warhead Toolkit f](https://dx.doi.org/10.26434/chemrxiv-2026-n902w?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Oxidation products of S-Adenosyl methionine probed by IRMPD ](https://dx.doi.org/10.26434/chemrxiv-2026-s375p?rft_dat=source%3Ddrss) |
 | ai_scored | 35 | [DNA actively regulates the “safety-belt” dynamics of condens](https://www.nature.com/articles/s41467-025-68239-6) |
 | keyword_rejected | - | [Visible-light Cr(VI) reduction on a CdS@MOF@C<sub>3</sub>N<s](https://www.nature.com/articles/s41598-025-34727-4) |
 | keyword_rejected | - | [Micro-cavity–induced optical resonance for performance enhan](https://www.nature.com/articles/s41598-026-35105-4) |

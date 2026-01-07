@@ -1,5 +1,363 @@
 [
   {
+    "title": "Transcriptomic analysis of preimplantation mouse embryos exposed to nanoplastics using RNA sequencing",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-29446-9\">doi:10.1038/s41598-025-29446-9</a></p>Transcriptomic analysis of preimplantation mouse embryos exposed to nanoplastics using RNA sequencing",
+    "url": "https://www.nature.com/articles/s41598-025-29446-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41598-025-29446-9"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 13,
+      "summary": "RNA-seq profiling of nanoplastic-exposed preimplantation mouse embryos reveals transcriptomic perturbations relevant to developmental toxicology rather than origins-of-life or prebiotic chemistry."
+    }
+  },
+  {
+    "title": "Deterministic Quantum Trajectory via Imaginary Time Evolution",
+    "summary": "Author(s): Shivan Mittal and Bin Yan<br /><p>Stochastic quantum trajectories, such as pure state evolutions under unitary dynamics and random measurements, offer a crucial ensemble description of many-body open system dynamics. Recent studies have highlighted that individual quantum trajectories also encode essential physical information. Prom\u2026</p><br />[Phys. Rev. Lett. 136, 010401] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/fgkg-n2b9",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "http://link.aps.org/doi/10.1103/fgkg-n2b9"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Develops a deterministic framework for quantum trajectories using imaginary time evolution in many-body open quantum systems, with no clear connection to origins-of-life, prebiotic chemistry, or astrobiology."
+    }
+  },
+  {
+    "title": "Luminescent Zr Complexes with Long-lived Intraligand Charge Transfer Excited States",
+    "summary": "Understanding and establishing design principles to tune the excited states of earth-abundant sensitizers is crucial for identifying new photosensitizers for sustainable technological advancements. Here, we report a series of three bis Zr (IV) complexes of tridentate, dianionic ligands incorporating two phenoxide donors and aza arene acceptors of increasing electron affinity (pyridine < pyrimidine < pyrazine ) that are air and water-stable. These complexes emit via thermally assisted delayed fluorescence from an intraligand charge transfer excited state with varying metal contributions. The electronic structural changes from different acceptors vary the excited state character and the photophysical properties significantly between the complexes. The variation in photophysics that includes emission lifetime (76 \u03bcs to 265 ns), intersystem crossing (ISC) lifetime ( 390 \u2013 290 ps), and the energy difference between the singlet and triplet excited states (\u2206EST. 170 -100 meV). We observe solvent-independent ISC rates when the excited state has metal contributions (acceptor = pyridine), and the ISC rates vary significantly with solvent polarity when the excited state is an intra-ligand charge transfer state (acceptor = pyrimidine and pyrazine). Transient absorption measurements provided the basis spectra and verified the metal contribution in the excited state. This work provides a basis for developing new sensitizers based on Zr (IV) by providing design principles that can be used to modulate the character of the excited state and its photophysics.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Reports air- and water-stable Zr(IV) complexes with tunable intraligand charge-transfer excited states (TADF, ISC, \u0394EST) as design principles for earth-abundant photosensitizers, with only indirect relevance to origins-of-life via potential prebiotic photochemistry in aqueous environments."
+    }
+  },
+  {
+    "title": "Unlocking Aromatic Amine Oxidation in APEX2 by Engineering the Heme Axial Ligand with Genetically Encoded N\u03b4-Vinyl Histidine",
+    "summary": "The axial ligand of heme is a key determinant of reactivity in heme-dependent enzymes, yet its systematic engineering remains challenging due to the limited chemical diversity of natural amino acids. Here, we demonstrate that replacing the native histidine axial ligand with a non-natural analog provides an effective strategy to regulate heme enzyme activity. By site-specifically incorporating \u03b4Vin-H into APEX2, we reprogrammed the electronic structure of the heme center and unlocked catalytic activity toward aromatic amine substrates. Directed evolution of the APEX2-VinH enzyme yielded APEX3-VinH, which exhibits a pronounced enhancement in catalytic efficiency and robustness for aromatic amine oxidation. Notably, optimization of the \u03b4Vin-H synthetase enabled highly efficient incorporation. This work establishes axial ligand engineering via genetic code expansion as a general and powerful strategy to reprogram the catalytic repertoire of heme enzymes, with broad implications for biocatalysis and the development of next-generation proximality labeling tools.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "ChemRxiv preprint describing genetic code expansion to replace a heme axial histidine ligand in APEX2 with N\u03b4-vinyl histidine, enabling (and then improving via directed evolution) aromatic amine oxidation, a result mainly relevant to biocatalyst engineering rather than origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Oxidation products of S-Adenosyl methionine probed by IRMPD spectroscopy: unraveling the protective effects on oxidative stress",
+    "summary": "S-Adenosyl methionine (SAM) is a biomolecule containing an adenosyl cation bonded to the sulfur atom of methionine (Met). SAM is a primary methyl donor and the precursor of the Gluthatione (GSH).  Due to the role played by SAM in the proper functioning of cellular metabolism, it is an interesting biomolecule to be investigated as a potential therapeutic agent for the treatment of various pathologies and disorders and in scavenging hydroxyl radicals.  In this work, the oxidation process of SAM induced by gamma-radiolysis has been investigated by collision-induced dissociation tandem mass spectrometry (CID-MS2) and Infrared Multiple Photon Dissociation Spectroscopy (IRMPD) to reveal the modified sites and to characterize the 3D structure of the oxo-forms of SAM in the gas phase. Both CID-MS2 and IRMPD experiments coupled with DFT calculations revealed that only the adenine moiety of the molecule is oxidized, protecting the methionine from oxidation and preserving its function.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-s375p?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A Chemically and Spatially Tunable Epoxide Warhead Toolkit for On-Demand Covalent Crosslinking at Protein-interaction Interfaces",
+    "summary": "Abstract: Genetically encoded covalent warheads at the protein-protein interface, enable the locking of interaction from the transient complex into a stable covalent adduct, which could improve the binding affinity, selectivity, and kinetics between a protein binder and its target. Given the diverse chemical microenvironments among different interaction interfaces, achieving efficient and selective cross-linking for each case requires genetically encoded warheads capable of reacting with a broad range of nucleophilic side chains, while offering tunable crosslinking radius and reactivities. Herein, we report a series of novel epoxide bearing unnatural amino acids (EPO-UAAs) that enable precise control over both the chemical reactivity and spatial selectivity of covalent crosslinking at protein interfaces. Our results show that both the chemical reactivity and spatial compatibility of the warhead significantly influence cross-linking efficiency at the binding interface. This enables site-selective cross-linking to drug targets such as PD-L1 or HER2 by a nanobody with precision at the 1.5\u202f\u00c5 spatial scale, corresponding to a single C-C bond length difference. Furthermore, we incorporated these EPO-UAAs into the Z domain of protein A (ZPA), an antibody Fc-binding module, to develop covalent binders for the epitope-specific modification of human and murine antibodies. This platform functions as a \u2018USB\u2019 interface, enabling rapid functional derivatization of antibodies. In summary, this work provides chemically and spatially tunable epoxide warhead for \u2018on-demond\u2019 precision cross-linking at protein interfaces, opening avenues for atomic-scale manipulation of protein interactions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-n902w?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Armstrongs Probabilistic Electron Phase-Space Overlap Model (APEPM)",
+    "summary": "A new closed-form, geometry-driven framework for determining whether a chemical bond is \ngeometrically possible, and for analyzing the resulting electron cloud overlap and orbital participation, is \nintroduced. Armstrong\u2019s Probabilistic Electron Phase-Space Overlap Model (APEPM) evaluates bonding \nfeasibility by treating nonzero spatial overlap of atomic electron clouds as a necessary geometric \nprecondition for bonding, without explicit solution of the electronic wavefunction or use of variational \nquantum-mechanical methods. \nThe model combines geometric overlap formalism adapted from Armstrong\u2019s exclusion-zone \nsolvent-accessible surface area (SASA) methodology with probabilistic orbital occupancy constraints \ndefined by Armstrong\u2019s Range Exponent Electron Configuration Model (AREECM). Bonded atoms are \nrepresented as interacting probabilistic electron volumes whose effective radii and internuclear separation \ndefine, in closed form, whether electron cloud overlap exists and, if so, the size and geometry of the \nshared electron phase-space. \nWhen overlap is present, its depth is mapped onto radially partitioned orbital shells, allowing direct \nidentification of which atomic orbital regions are geometrically involved in bonding. Electron probability \nwithin these participating regions is constrained using AREECM-style minimum and maximum \noccupancy bounds, preserving normalization and exclusion principles while remaining fully \nwavefunction-free. \nBecause all electronic quantities are explicitly tethered to bond length, APEPM provides a continuous, \ngeometry-based description of bond feasibility, electron cloud overlap, and orbital-level spatial \nparticipation under changing structural conditions such as bond compression or extension. While not \nintended to replace quantum-mechanical electronic structure methods or to reproduce spectroscopic \naccuracy, APEPM offers a fast, interpretable, and physically constrained framework for screening bond \nfeasibility, analyzing electron cloud overlap, and identifying geometrically involved orbital regions in \nlarge systems, dynamic environments, and reduced-order chemical modeling.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9swcr?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Surface-energy-compensated fabrication of single-crystal alloy films with atomic-scale flatness",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68196-0\">doi:10.1038/s41467-025-68196-0</a></p>Single-crystal alloy thin films (SATFs) are appealing for applications in crystal epitaxy, surface catalysis, and energy conversion. Here, the authors report a method to synthesize wafer-scale binary and ternary SATFs with sub-nanometer roughness, which can be used as substrates for the growth of high-quality graphene single crystals.",
+    "url": "https://www.nature.com/articles/s41467-025-68196-0",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Aligning EU energy security and climate mitigation through targeted transition strategies",
+    "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67595-7\">doi:10.1038/s41467-025-67595-7</a></p>This study demonstrates that renewable energy expansion, green hydrogen deployment, and carbon offsetting strategies targeting the European Union\u2019s natural gas reliance can simultaneously advance its climate goals and long-term energy security.",
+    "url": "https://www.nature.com/articles/s41467-025-67595-7",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Explainable AI and echo state networks calibrate trust in human machine interaction",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30899-1\">doi:10.1038/s41598-025-30899-1</a></p>Explainable AI and echo state networks calibrate trust in human machine interaction",
+    "url": "https://www.nature.com/articles/s41598-025-30899-1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "LDSC: enhancing lung disease diagnosis using a simple 1D-CNN",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34485-3\">doi:10.1038/s41598-025-34485-3</a></p>LDSC: enhancing lung disease diagnosis using a simple 1D-CNN",
+    "url": "https://www.nature.com/articles/s41598-025-34485-3",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Plasma growth differentiation factor-15 is associated with cardiovascular events in patients hospitalized for acute exacerbation of COPD",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-27988-6\">doi:10.1038/s41598-025-27988-6</a></p>Plasma growth differentiation factor-15 is associated with cardiovascular events in patients hospitalized for acute exacerbation of COPD",
+    "url": "https://www.nature.com/articles/s41598-025-27988-6",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The microscale organization of directed hypergraphs",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s42005-025-02472-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Complex networks",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Noncommutativity as a Universal Characterization for Enhanced Quantum Metrology",
+    "summary": "Author(s): Ningxin Kong, Haojie Wang, Mingsheng Tian, Yilun Xu, Geng Chen, Yu Xiang, and Qiongyi He<br /><p>A central challenge in quantum metrology is to effectively harness quantum resources to surpass classical precision bounds. Although recent studies suggest that the indefinite causal order may enable sensitivities to attain the super-Heisenberg scaling, the physical origins of such enhancements rema\u2026</p><br />[Phys. Rev. Lett. 136, 010201] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/3jlc-lb5c",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Efficient Quantum Simulation for Translationally Invariant Systems",
+    "summary": "Author(s): Joris Kattem\u00f6lle and Guido Burkard<br /><p>Discrete translational symmetry plays a fundamental role in condensed matter physics and lattice gauge theories, enabling the analysis of systems that would otherwise be intractable. Despite this, many open problems remain. Quantum simulation promises to offer new insights, but progress is often lim\u2026</p><br />[Phys. Rev. Lett. 136, 010602] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/cswp-xy7k",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Encrypted Qubits Can Be Cloned",
+    "summary": "Author(s): Koji Yamaguchi and Achim Kempf<br /><p>Any number of encrypted clones of a qubit can be created, but the decryption of just one destroys the decryption key, remaining consistent with the no-cloning theorem.</p><img height=\"\" src=\"http://cdn.journals.aps.org/journals/PRL/key_images/10.1103/y4y1-1ll6.png\" width=\"200\" /><br />[Phys. Rev. Lett. 136, 010801] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/y4y1-1ll6",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Extensive Manipulation of Transition Rates and Substantial Population Inversion of Rotating Atoms Inside a Cavity",
+    "summary": "Author(s): Yan Peng, Yuebing Zhou, Jiawei Hu, and Hongwei Yu<br /><p>We investigate the transition rates of a centripetally accelerated atom inside a high-quality cavity and show that they can be extensively tuned by adjusting the cavity resonance and the rotation frequency. Crucially, while inertial atoms cannot be excited in vacuum, rotation induces spontaneous exc\u2026</p><br />[Phys. Rev. Lett. 136, 013202] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/6nqb-tnp6",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Optical Excitation and Stabilization of Ultracold Field-Linked Tetratomic Molecules",
+    "summary": "Author(s): Bijit Mukherjee and Micha\u0142 Tomza<br /><p>We propose a coherent optical population transfer of weakly bound field-linked (FL) tetratomic molecules (tetramers) to deeper FL bound states using stimulated Raman adiabatic passage. We consider static-electric-field shielded polar alkali-metal diatomic molecules and corresponding FL tetramers in \u2026</p><br />[Phys. Rev. Lett. 136, 013401] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/j17b-x1x7",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Matrix Phase-Space Representations for Gaussian Boson Sampling",
+    "summary": "Author(s): Peter D. Drummond, Alexander S. Dellios, and Margaret D. Reid<br /><p>We introduce coherent matrix phase-space distributions. These use conservation laws and symmetries to improve the accuracy and speed of quantum phase-space representations. As an example, this is applied to the validation of low-loss Gaussian boson sampling (GBS) quantum computational advantage expe\u2026</p><br />[Phys. Rev. Lett. 136, 013601] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/htk1-rn8v",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Strong Molecule-Light Entanglement with Molecular Cavity Optomechanics",
+    "summary": "Author(s): Hong-Yun Yu, Ya-Feng Jiao, Jie Wang, Feng Li, Bin Yin, Qi-Rui Liu, Tian Jiang, Hui Jing, and Ke Wei<br /><p>We propose a molecular optomechanical platform to generate robust entanglement among bosonic modes\u2014photons, phonons, and plasmons\u2014under ambient conditions. The system integrates a high-Q whispering-gallery-mode (WGM) optical resonator with a plasmonic nanocavity formed by a metallic nanoparticle and\u2026</p><br />[Phys. Rev. Lett. 136, 013602] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/4z8v-f6s5",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hybrid Quantum Surface Acoustic Wave with Skyrmion Qubit for Quantum Information Processing",
+    "summary": "Author(s): Yu-Yuan Chen, Zhihui Peng, and Yu-xi Liu<br /><p>Surface acoustic wave (SAW) devices are key components of classical communication systems and recently studied for quantum information processing. We here propose and study a hybrid quantum system composed of skyrmion qubit and a SAW cavity, which supports multiple long-lived phononic modes. The sys\u2026</p><br />[Phys. Rev. Lett. 136, 013801] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/3tz7-pqqq",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Wave-Induced Fracture of a Sea-Ice Analog",
+    "summary": "Author(s): B. Auvity, L. Duchemin, A. Eddi, and S. Perrard<br /><p>We study at the laboratory scale the rupture of thin floating sheets made of a brittle material under a wave-induced mechanical forcing. We show that the rupture occurs where the curvature is maximum and the breakup threshold strongly depends on the wave properties. We observe that the critical stre\u2026</p><br />[Phys. Rev. Lett. 136, 014101] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/911x-1hyh",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Formation of Voids or Stacking-Fault Tetrahedra Induced by Local Chemical Variations in Face-Centered-Cubic Complex Concentrated Alloys",
+    "summary": "Author(s): Yeping Lin, Chenyang Lu, Tengfei Yang, Zhengxiong Su, Yixin Deng, Wangyu Hu, Huiqiu Deng, Guanghong Lu, and Fei Gao<br /><p>Understanding how elemental variations influence defect cluster formation is a longstanding challenge in materials science. By combining defect rates-based long-time dynamics with molecular dynamics and irradiation experiments, we identify a distinct, cluster-mediated mechanism\u2014governed by element-s\u2026</p><br />[Phys. Rev. Lett. 136, 016102] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/p629-97jn",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "<i>Ab\u00a0Initio</i> Superionic-Liquid Phase Diagram of ${\\mathrm{Fe}}_{1\\text{\u2212}x}{\\mathrm{O}}_{x}$ under Earth\u2019s Inner Core Conditions",
+    "summary": "Author(s): Zepeng Wu, Chen Gao, Feng Zhang, Shunqing Wu, Kai-Ming Ho, Renata\u2009M. Wentzcovitch, and Yang Sun<br /><p>The superionic state is a phase of matter in which liquidlike ionic mobility coexists with a solid crystalline lattice. Recently identified in Earth\u2019s inner core (IC), this state has attracted considerable attention for its unique kinetic behavior and geophysical implications. However, the <i>ab\u00a0initio</i>\u2026</p><br />[Phys. Rev. Lett. 136, 016103] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/37nh-5ws8",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Spatial Correlations of Charge Density Wave Order across the Transition in $2\\mathrm{H}\\text{\u2212}{\\mathrm{NbSe}}_{2}$",
+    "summary": "Author(s): Seokjo Hong, Jaewhan Oh, Jemin Park, Woohyun Cho, Soyoung Lee, Colin Ophus, Yeongkwan Kim, Heejun Yang, SungBin Lee, and Yongsoo Yang<br /><p>Charge density waves (CDWs) involve coupled amplitude and phase degrees of freedom, but direct access to local amplitude correlations remains experimentally challenging. Here, we report cryogenic four-dimensional scanning transmission electron microscopy measurements of CDW ordering in a $2\\mathrm{H\u2026</p><br />[Phys. Rev. Lett. 136, 016504] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/776d-dnmf",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Lindbladian versus Postselected non-Hermitian Topology",
+    "summary": "Author(s): Alexandre Chaduteau, Derek K.\u2009K. Lee, and Frank Schindler<br /><p>The recent topological classification of non-Hermitian \u201cHamiltonians\u201d is usually interpreted in terms of pure quantum states that decay or grow with time. However, many-body systems with loss and gain are typically better described by mixed-state open quantum dynamics, which only correspond to pure-\u2026</p><br />[Phys. Rev. Lett. 136, 016603] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/ljvt-w6hw",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Magnetoelectric Torque in Polar Magnetic Bilayers",
+    "summary": "Author(s): Zhong Shen, Jun Chen, Xiaoyan Yao, and Shuai Dong<br /><p>Energy-efficient fast switching of spin orientations or textures is a core issue of spintronics, which is highly demanded but remains challenging. Different from the mainstream routes based on spin-transfer torque or spin-orbit torque, here we propose another mechanism coined as magnetoelectric torq\u2026</p><br />[Phys. Rev. Lett. 136, 016702] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/l5fd-kpn5",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Tracking the Photoinduced Dynamics of a Dark Excitonic State in Single-Layer ${\\mathrm{WS}}_{2}$ via Resonant Autler-Townes Splitting",
+    "summary": "Author(s): Angela Montanaro, Francesco Valiera, Francesca Giusti, Francesca Fassioli, Chiara Trovatello, Giacomo Jarc, Enrico Maria Rigoni, Fang Liu, Xiaoyang Zhu, Stefano Dal Conte, Giulio Cerullo, Martin Eckstein, and Daniele Fausti<br /><p>A new three-pulse Autler-Townes technique unveils the ultrafast dynamics of a dark 2<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>p</mi></math> exciton in monolayer WS<math display=\"inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><msub><mrow></mrow><mn>2</mn></msub></math>, revealing symmetry-dependent many-body screening previously hidden from optical probes.</p><img height=\"\" src=\"http://cdn.journals.aps.org/journals/PRL/key_images/10.1103/j34b-hh1c.png\" width=\"200\" /><br />[Phys. Rev. Lett. 136, 016902] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/j34b-hh1c",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Polymorphic Self-Poisoning in Poly(Lactic Acid): A New Phenomenon in Polymer Crystallization",
+    "summary": "Author(s): Shu-Gui Yang, Xiang-bing Zeng, Feng Liu, and Goran Ungar<br /><p>Self-poisoning is ubiquitous in polymer crystallization but has so far manifested itself visibly only as minima in growth rate vs temperature in either monodisperse systems where, e.g., unstable folded chains obstruct crystallization of stable extended chains, or in periodically segmented chains whe\u2026</p><br />[Phys. Rev. Lett. 136, 018101] Published Tue Jan 06, 2026",
+    "url": "http://link.aps.org/doi/10.1103/yf56-tfhd",
+    "published_date": "2026-01-06T10:00:00Z",
+    "source_feed": "Phys. Rev. Lett.",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nouvel \u00e9pisode de neige et verglas attendu sur le nord et l'ouest de la France",
+    "summary": "Neige et verglas vont de nouveau toucher le nord et l'ouest de la France mercredi matin, un ph\u00e9nom\u00e8ne d'une \"ampleur rare dans le climat actuel\" selon M\u00e9t\u00e9o-France, qui va entra\u00eener d'importantes perturbations sur les routes et dans le transport a\u00e9rien.\nDe nouvelles chutes de neige sont attendues mercredi \"d\u00e8s la fin de la nuit\", selon le pr\u00e9visionniste, qui pr\u00e9voit 3 \u00e0 7 cm \"des Hauts-de-France au nord de la r\u00e9gion Centre en passant par la r\u00e9gion parisienne\". \nTrente-huit d\u00e9partements ont \u00e9t\u00e9 plac\u00e9s en vigilance orange pour la neige et le verglas pour une partie de la nuit et toute la journ\u00e9e de mercredi, a annonc\u00e9 M\u00e9t\u00e9o-France.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/nouvel-episode-de-neige-et-verglas-attendu-sur-le-nord-et-l-ouest-de-la-france_190296?xtor=RSS-15",
+    "published_date": "2026-01-07T02:50:11Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "DNA actively regulates the \u201csafety-belt\u201d dynamics of condensin during loop extrusion",
     "summary": "<p>Nature Communications, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68239-6\">doi:10.1038/s41467-025-68239-6</a></p>The molecular mechanism underlying DNA entrapment during loop extrusion by condensin remains poorly understood. Here, the authors use multiscale molecular simulations to show that DNA itself steers a flexible \u201csafety belt\u201d in condensin.",
     "url": "https://www.nature.com/articles/s41467-025-68239-6",
