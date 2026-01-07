@@ -1,5 +1,67 @@
 [
   {
+    "title": "Evolution at experimental epidemic fronts speeds up parasite spread",
+    "summary": "Spreading epidemics can foster the rapid emergence of novel parasite variants. Similar to range expansions, parasites at the front of an epidemic wave may evolve traits facilitating their spatial spread. Typically, higher transmissibility and virulence are expected to evolve at the epidemic front, but predictions change if virulence reduces dispersal of infected hosts. We investigated the feedbacks between epidemiology and evolution in interconnected microcosms of the ciliate Paramecium caudatum and its bacterial parasite Holospora undulata. First, two long-term treatments mimicked the moving front of epidemic waves, with and without the natural dispersal of infected hosts. Phenotypic trait assays revealed an eco-to-evo feedback: wave-front parasites (i.e., travelling with infected hosts) were less virulent and interfered less with host dispersal, but also showed higher infectivity, compared to parasites from the control treatment. Whole-genome resequencing corroborated phenotypic divergence, but the genetic targets of selection remain unknown. Second, measurement of the spread of evolved parasites in linear landscapes demonstrated an evo-to-eco feedback: wave-front parasites produced stronger infection outbreaks and faster spreading epidemic waves than did evolution-control parasites. A simulation model assessed the relative importance of the different parasite traits in determining infectious spread over a broad parameter range. It suggests that, if dispersal is generally low, higher infectivity alone can produce the observed differences in epidemic spread speed. Our study illustrates how the need to travel with the host shapes eco-evolutionary feedbacks at parasite invasion fronts, and it highlights the importance of considering concomitant evolutionary change when predicting epidemic speed.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "Experimental evolution in a host\u2013parasite microcosm shows that selection at epidemic wave fronts can favor higher infectivity with reduced virulence to enhance spread, illustrating eco-evolutionary feedbacks relevant to general evolutionary dynamics rather than core origins-of-life processes."
+    }
+  },
+  {
+    "title": "Cell wall pectin reshapes leaf drought tolerance in dry forests",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68251-w",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The dorsal aortic compartment is a developmental source of brown adipose tissue in mice",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68147-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "OpenAI Would Like You to Share Your Health Data with Its ChatGPT",
+    "summary": "<p>Users will be able to upload their health data to ChatGPT in order to get what OpenAI has described as a more personalized experience</p>",
+    "url": "https://www.scientificamerican.com/article/openai-would-like-you-to-share-your-health-data-with-its-chatgpt/",
+    "published_date": "2026-01-07T22:13:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Schmidt Sciences Announces Plan for Lazuli, a Private Space Telescope",
+    "summary": "<p>Bigger than Hubble and launching as soon as 2029, the Lazuli Space Observatory would be the first-ever full-scale private space telescope</p>",
+    "url": "https://www.scientificamerican.com/article/schmidt-sciences-announces-plan-for-lazuli-a-private-space-telescope/",
+    "published_date": "2026-01-07T22:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Plasma rings around M dwarf stars offer new clues to planetary habitability",
     "summary": "How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie's Luke Bouma is exploring a new way to probe this critical question\u2014using naturally occurring space weather stations that orbit at least 10% of M dwarf stars during their early lives. He is presenting his work at the 247th American Astronomical Society meeting.",
     "url": "https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html",

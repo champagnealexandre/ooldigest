@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-07T22:17:27.241581+00:00</updated>
+  <updated>2026-01-07T23:17:24.800971+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolution at experimental epidemic fronts speeds up parasite spread</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Spreading epidemics can foster the rapid emergence of novel parasite variants. Similar to range expansions, parasites at the front of an epidemic wave may evolve traits facilitating their spatial spre</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Experimental evolution in a host–parasite microcosm shows that selection at epidemic wave fronts can favor higher infectivity with reduced virulence to enhance spread, illustrating eco-evolutionary feedbacks relevant to general evolutionary dynamics rather than core origins-of-life processes.</p>
+<p><strong>Abstract:</strong> Spreading epidemics can foster the rapid emergence of novel parasite variants. Similar to range expansions, parasites at the front of an epidemic wave may evolve traits facilitating their spatial spread. Typically, higher transmissibility and virulence are expected to evolve at the epidemic front, but predictions change if virulence reduces dispersal of infected hosts. We investigated the feedbacks between epidemiology and evolution in interconnected microcosms of the ciliate Paramecium caudatum and its bacterial parasite Holospora undulata. First, two long-term treatments mimicked the moving front of epidemic waves, with and without the natural dispersal of infected hosts. Phenotypic trait assays revealed an eco-to-evo feedback: wave-front parasites (i.e., travelling with infected hosts) were less virulent and interfered less with host dispersal, but also showed higher infectivity, compared to parasites from the control treatment. Whole-genome resequencing corroborated phenotypic divergence, but the genetic targets of selection remain unknown. Second, measurement of the spread of evolved parasites in linear landscapes demonstrated an evo-to-eco feedback: wave-front parasites produced stronger infection outbreaks and faster spreading epidemic waves than did evolution-control parasites. A simulation model assessed the relative importance of the different parasite traits in determining infectious spread over a broad parameter range. It suggests that, if dispersal is generally low, higher infectivity alone can produce the observed differences in epidemic spread speed. Our study illustrates how the need to travel with the host shapes eco-evolutionary feedbacks at parasite invasion fronts, and it highlights the importance of considering concomitant evolutionary change when predicting epidemic speed.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [55] phys.org - Space News ▶ Plasma rings around M dwarf stars offer new clues to planetary habitability</title>
     <link href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html"/>

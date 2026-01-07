@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [Evolution at experimental epidemic fronts speeds up parasite](https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1) |
+| keyword_rejected | - | [Schmidt Sciences Announces Plan for Lazuli, a Private Space ](https://www.scientificamerican.com/article/schmidt-sciences-announces-plan-for-lazuli-a-private-space-telescope/) |
+| keyword_rejected | - | [OpenAI Would Like You to Share Your Health Data with Its Cha](https://www.scientificamerican.com/article/openai-would-like-you-to-share-your-health-data-with-its-chatgpt/) |
+| keyword_rejected | - | [The dorsal aortic compartment is a developmental source of b](https://www.nature.com/articles/s41467-025-68147-9) |
+| keyword_rejected | - | [Cell wall pectin reshapes leaf drought tolerance in dry fore](https://www.nature.com/articles/s41467-025-68251-w) |
 | ai_scored | 50 | [Adaptive Landscapes of Plasmodium Falciparum Dihydrofolate R](https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1) |
 | ai_scored | 55 | [Plasma rings around M dwarf stars offer new clues to planeta](https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html) |
 | keyword_rejected | - | [Hunting with poison arrows may have begun 60,000 years ago i](https://www.newscientist.com/article/2510462-hunting-with-poison-arrows-may-have-begun-60000-years-ago-in-africa/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
