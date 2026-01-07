@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Aide à mourir: le débat sur la fin de vie reprend enfin, au ](https://www.sciencesetavenir.fr/sante/aide-a-mourir-le-debat-sur-la-fin-de-vie-reprend-enfin-au-senat_190297?xtor=RSS-16) |
 | ai_scored | 20 | [Unlocking Aromatic Amine Oxidation in APEX2 by Engineering t](https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Luminescent Zr Complexes with Long-lived Intraligand Charge ](https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss) |
 | ai_scored | 0 | [Deterministic Quantum Trajectory via Imaginary Time Evolutio](http://link.aps.org/doi/10.1103/fgkg-n2b9) |
