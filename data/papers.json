@@ -1,5 +1,962 @@
 [
   {
+    "title": "A New Census Of Our Sun\u2019s Neighbors Reveals The Best Potential Real Estate For Life",
+    "summary": "<p>A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebasti\u00e1n Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html\">A New Census Of Our Sun\u2019s Neighbors Reveals The Best Potential Real Estate For Life</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html",
+    "published_date": "2026-01-07T16:21:20Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 38,
+      "summary": "Reports a new nearby-star census intended to prioritize targets that might host Earth-like, potentially habitable planets, but provides no origin-of-life mechanisms, prebiotic chemistry, or biosignature/atmospheric constraints."
+    }
+  },
+  {
+    "title": "Absence Of A Subsurface Ocean On Titan Indicated By Cassini Data",
+    "summary": "<p>The Cassini spacecraft orbited Saturn from 2004 to 2017, performing over a hundred flybys of Titan, Saturn\u2019s largest moon. Ten of these flybys were dedicated to gravity field measurements, yielding unprecedented insight into the moon\u2019s interior structure. The first four flybys revealed a weakly differentiated deep interior compared to Ganymede, consisting of a large (~2000 [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html\">Absence Of A Subsurface Ocean On Titan Indicated By Cassini Data</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html",
+    "published_date": "2026-01-07T15:36:30Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "water",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Cassini gravity flyby data are interpreted to indicate Titan lacks a present-day subsurface ocean, lowering its astrobiological habitability potential by limiting long-lived liquid-water environments."
+    }
+  },
+  {
+    "title": "The (Metabolic) Cost Of Life",
+    "summary": "<p>There are \u201ccosts of life\u201d that mechanical physics cannot calculate. A clear example is the energy required to keep specific biochemical processes active \u2014 such as those that make up photosynthesis, although the examples are countless \u2014 while preventing alternative processes from occurring. In mechanics, no displacement implies zero work, and, put simply, there is [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html\">The (Metabolic) Cost Of Life</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html",
+    "published_date": "2026-01-07T15:56:37Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2506.23496"
+    ],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "A theoretical discussion of the energetic/thermodynamic costs required to sustain specific biochemical processes against alternative reactions, offering broad context for why metabolism and regulation matter for living systems but only indirect relevance to abiogenesis."
+    }
+  },
+  {
+    "title": "Erasing dielectric breakdown artifacts to machine-learn charged Pt-water interfaces",
+    "summary": "The recently introduced \"Response analysis in z-orientation\" (RAZOR) model utilizes perturbation theory to machine learn the energy and force response to applied bias charges in atomistic simulations of electrified interfaces. While we have shown that RAZOR successfully reproduces ab initio results for adsorbates on metallic surfaces in an implicit solvent environment, real electrochemical applications require the inclusion of at least a few explicit H2O layers of the electrolyte. Here, we benchmark RAZOR's performance in the description of the Pt(111)-H2O interface. We show that RAZOR can reliably reproduce ab initio molecular dynamics findings for bias-induced changes in H2O density and orientation profiles as well as changes in the potential. To do so, a specific training procedure needs to be applied which avoids the erroneous learning of artifacts from the dielectric breakdown of interfacial water and the accompanying charge transfer into the H2O layers. Ultimately, we are confident that RAZOR can provide quantitative predictions in a +/- 20 muC/cm2 window around the neutral-charged cell, which is sufficient for many pressing electrochemical questions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 27,
+      "summary": "Introduces and benchmarks a machine-learning perturbation model (RAZOR) for charged Pt(111)\u2013water interfaces, focusing on avoiding dielectric breakdown artifacts to accurately reproduce ab initio interfacial water structure and potential response under modest bias."
+    }
+  },
+  {
+    "title": "Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets",
+    "summary": "<p>The rise of oxygen in the Earth&#8217;s atmosphere during the Great Oxidation Event (GOE) occurred about 2.3 billion years ago. There is considerably greater uncertainty for the origin of oxygenic photosynthesis, but it likely occurred significantly earlier, perhaps by 700 million years. Assuming this time lag is proportional to the rate of oxygen generation, we [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html\">Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html",
+    "published_date": "2026-01-07T15:41:05Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.02548",
+      "https://doi.org/10.48550/arXiv.2601.02548"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*",
+      "evolution",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 70,
+      "summary": "Using Earth\u2019s oxygenation timescales and the low photosynthetically active radiation from late M-dwarfs, the paper argues oxygenic photosynthesis\u2014and thus oxygen-supported complex/multicellular life\u2014may be strongly limited on late M-star exoplanets."
+    }
+  },
+  {
+    "title": "Jupiter\u2019s Moon Europa Has A Seafloor That May Be Quiet And Lifeless",
+    "summary": "<p>The giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to possess a vast ocean of liquid salt water. For decades, scientists have wondered whether that ocean could harbor the right conditions for life, [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html\">Jupiter\u2019s Moon Europa Has A Seafloor That May Be Quiet And Lifeless</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html",
+    "published_date": "2026-01-07T16:00:11Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-67151-3"
+    ],
+    "matched_keywords": [
+      "water",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 70,
+      "summary": "A Nature Communications study argues Europa\u2019s seafloor may lack strong hydrothermal activity, potentially limiting energy and chemical gradients needed for a habitable ocean and making life less likely despite abundant liquid water."
+    }
+  },
+  {
+    "title": "Charting The Microbial Map Inside The International Space Station",
+    "summary": "<p>Astronauts have company on the International Space Station (ISS International Space Station). Bacteria squat on handrails. Skin flakes lodge in air vents like lint. A corn-loving fungus has become a regular. The place looks spotless, but it\u2019s crawling\u2014its surfaces inscribed with cells and spores. Scientists want the census, and that\u2019s how Nina Zhao found herself [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html\">Charting The Microbial Map Inside The International Space Station</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html",
+    "published_date": "2026-01-07T16:17:23Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.cell.com/cell/fulltext/S0092-8674(25)00108-4"
+    ],
+    "matched_keywords": [
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "A Cell-linked survey of the ISS microbiome maps how bacteria and fungi persist and spread in a closed space habitat, informing spacecraft microbial ecology and contamination control more than origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "A Catalyst-Coated Mesoporous Carbon\u2013Membrane Electrode Assembly for In-situ Soft X-ray XPS and NEXAFS Studies of Electrocatalytic Interfaces",
+    "summary": "In-situ soft X-ray spectroscopy provides direct insight into the electronic structure of electrocatalysts under realistic reaction conditions but remains technically challenging due to the need to combine aqueous electrochemistry with ultra-high-vacuum detection. Here we present a mesoporous carbon\u2013membrane working electrode assembly (WEA) that enables window-free in-situ XPS and NEXAFS measurements during electrochemical reactions. The design integrates a Nafion\u2122 proton-exchange membrane with a mesoporous carbon\u2013ionomer contact layer and a thin IrO\u2093 catalyst layer, providing continuous electronic and protonic pathways and stable hydration through the membrane. By tuning the chamber water vapor pressure to 8 mbar, the WEA maintains a nanometer-thin water layer sufficient for the oxygen evolution reaction (OER) while preserving photoelectron detection efficiency. A robust peristaltic pumping system and closed-loop alumina-bed water vapor dosing maintain steady-state hydration at 6\u201310 mbar with <\u00b10.1 mbar variation, enabling reproducible in-siut spectra over extended periods. In-situ Ir 4f and O 1s XPS reveal reversible oxidation of Ir\u00b3\u207a/Ir\u2074\u207a to Ir\u2074\u207a/Ir\u2075\u207a and dynamic changes in hydroxyl and lattice oxygen species, while O K-edge NEXAFS identify the formation of \u03bc\u2082\u2013O and \u03bc\u2081\u2013O species at OER potential, corresponding to OER-active intermediates. The WEA thus provides a quantitative, window-free platform for probing electrochemical interfaces under near-ambient conditions and establishes a general methodology for in-situ soft X-ray studies of functional electrocatalysts, closely resembling the architecture and operation of industrial membrane-based water electrolysers. This approach establishes a reliable methodology for coupling electrochemistry with the element specific soft X-ray spectroscopy under realistic reaction conditions.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water",
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 37,
+      "summary": "Describes a window-free in-situ soft X-ray XPS/NEXAFS electrode assembly that enables real-time electronic/chemical characterization of hydrated electrocatalytic interfaces during water oxidation, a broadly useful method but not directly focused on origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "LORA: a polymorphic multi-sample LOng Read Assembly pipeline.",
+    "summary": "Genome assembly from long-read sequencing data has become a standard approach for resolving complex genomic regions and producing high-contiguity assemblies. However, the diversity of available assemblers, their varying performance across species, and the need for reproducible workflows present ongoing challenges. We developed LORA, an easy-to-use and reproducible application for assembling genomes from long-read data. LORA integrates several well-established assemblers, including Canu, HiFiasm, Flye, and Unicycler, as well as more recent tools such as Necat and Pecat. It is implemented as a Snakemake pipeline to parallelize tasks and support seamless execution on both local machines and computing clusters. LORA includes multiple quality assessment steps, interactive HTML reports for interpretation, BLAST-based taxonomic identification, and completeness evaluation. Together, these features provide users with a comprehensive view of assembly quality and potential problematic. We illustrate the capabilities of LORA using datasets from bacterial genomes and unicellular eukaryotes, sequenced with both PacBio and Oxford Nanopore technologies, highlighting typical outcomes and common pitfalls encountered during long-read assemblies. LORA is distributed as part of the Sequana project, an open-source framework designed for reproducibility, maintainability, and straightforward deployment across computing environments.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1"
+    ],
+    "matched_keywords": [
+      "eukaryo*"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "LORA is a Snakemake-based, reproducible long-read genome assembly pipeline integrating multiple assemblers and QC/reporting steps for bacterial and unicellular eukaryote datasets, offering general genomics utility but minimal direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Orbital Biosignature Assay: Lake Eyre",
+    "summary": "<p>Editor&#8217;s note: As we begin to study worlds in our own solar system that might have life we use our home world as a testbed for the various ways to detect and characterize biosignatures. Some of this is done on the or beneath the surface, Other times it is done in space. Correlating ground truth [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html\">Orbital Biosignature Assay: Lake Eyre</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html",
+    "published_date": "2026-01-07T15:47:06Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "water",
+      "biosignature",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "An Earth testbed study using orbital observations of Lake Eyre to evaluate and correlate remotely sensed biosignature signals with ground truth for future life-detection efforts in the Solar System."
+    }
+  },
+  {
+    "title": "Supernova remnant video from NASA's Chandra is decades in making",
+    "summary": "A new video shows the evolution of Kepler's Supernova Remnant using data from NASA's Chandra X-ray Observatory captured over more than two and a half decades.",
+    "url": "https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html",
+    "published_date": "2026-01-07T16:20:03Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "NASA\u2019s Chandra time-lapse tracks the decades-long X-ray evolution of Kepler\u2019s Supernova Remnant, offering general astrophysical context (e.g., supernova feedback and element dispersal) but little direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Early hominins from Morocco reveal an African lineage near the root of Homo sapiens",
+    "summary": "An international research team reports the analysis of new hominin fossils from the site of Thomas Quarry I (Casablanca, Morocco). The fossils are very securely dated to 773,000 +/- 4,000 years ago, thanks to a high-resolution magnetostratigraphic record capturing in detail the Brunhes/Matuyama boundary, the last main geomagnetic polarity reversal and precise temporal markers of the Quaternary.",
+    "url": "https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html",
+    "published_date": "2026-01-07T16:00:16Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "Securely dated (~773 ka) hominin fossils from Thomas Quarry I (Casablanca, Morocco) inform early African lineages near the root of Homo sapiens but do not address origins-of-life or astrobiology topics."
+    }
+  },
+  {
+    "title": "Genetic switch between unicellularity and multicellularity in marine yeasts",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09881-4\">doi:10.1038/s41586-025-09881-4</a></p>Myb1 functions as a switch-like regulator of state transitions in Hortaea werneckii, whereby its expression and degradation are coupled to nutrient conditions, stabilizing unicellular or multicellular growth.",
+    "url": "https://www.nature.com/articles/s41586-025-09881-4",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41586-025-09881-4"
+    ],
+    "matched_keywords": [
+      "multicellularity"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "Identifies Myb1 as a nutrient-coupled, switch-like regulator controlling reversible transitions between unicellular and multicellular growth in the marine yeast Hortaea werneckii, informing mechanisms behind major evolutionary state transitions relevant to later stages of life\u2019s complexity."
+    }
+  },
+  {
+    "title": "An ancient DNA perspective on the Russian conquest of Yakutia",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09856-5\">doi:10.1038/s41586-025-09856-5</a></p>Yakut communities, with Trans-Baikal admixture during the Mongol expansion, preserved genomic diversity and oral microbiomes despite the Russian conquest, which introduced cereals, pathogens and Christianity, whereas marital practices preserved low consanguinity except in one late case of traditional shamanism.",
+    "url": "https://www.nature.com/articles/s41586-025-09856-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41586-025-09856-5"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "Ancient DNA and microbiome analysis of Yakut populations during the Russian conquest is valuable for human evolutionary history but is essentially unrelated to origins-of-life research (keyword hit: DNA)."
+    }
+  },
+  {
+    "title": "Molecular switch reveals transition between single-celled and multicellular forms",
+    "summary": "Scientists at Nagoya University in Japan have identified the genes that allow an organism to switch between living as single cells and forming multicellular structures. This ability to alternate between life forms provides new insights into how multicellular life may have evolved from single-celled ancestors and eventually led to complex organisms like animals and plants.",
+    "url": "https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html",
+    "published_date": "2026-01-07T16:00:18Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Nagoya University researchers identified genes enabling an organism to reversibly switch between single-celled and multicellular states, offering evolutionary insight into how multicellularity could emerge from unicellular ancestors."
+    }
+  },
+  {
+    "title": "RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09852-9\">doi:10.1038/s41586-025-09852-9</a></p>Cas12a3 nucleases constitute a distinct clade of type V CRISPR\u2013Cas bacterial immune systems that preferentially cleave the 3\u2032 tails of tRNAs after recognition of target RNA to induce growth arrest and block phage dissemination.",
+    "url": "https://www.nature.com/articles/s41586-025-09852-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41586-025-09852-9"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "This study identifies a distinct type V CRISPR nuclease (Cas12a3) that, upon recognizing target RNA, cleaves the 3\u2032 tails of host tRNAs to induce growth arrest and limit phage spread\u2014relevant to OoL mainly as broader context on RNA-centered molecular defense and regulation."
+    }
+  },
+  {
+    "title": "Insights into DNA repeat expansions among 900,000 biobank participants",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09886-z\">doi:10.1038/s41586-025-09886-z</a></p>Human genetic variation influences instability of DNA repeats that commonly expand as we age.",
+    "url": "https://www.nature.com/articles/s41586-025-09886-z",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41586-025-09886-z"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 20,
+      "summary": "A large-scale human genomics study in Nature examining how genetic variation affects age-related instability and expansion of DNA repeat sequences, with limited direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Targeting the senescence-associated immune checkpoint GD3 ganglioside extends healthspan and blunt age-related diseases with sex-specific benefits.",
+    "summary": "The accumulation and impact of senescent cells in age-related diseases are increasingly characterized. However, the mechanisms underlying their accumulation and their causative role in age-associated pathologies remain poorly understood. We recently demonstrated that senescent cells can evade immune surveillance by regulating the expression of cell surface molecules such as the disialylated ganglioside GD3, which acts as a senescence-associated immune checkpoint (SIC). Targeting GD3 therefore represents a novel therapeutic opportunity for age-related diseases. Here, we examined the effects of short-term anti-GD3 antibody treatment in mid-life on aging and age-related diseases in male and female mice, revealing striking sex-specific benefits. Treatment improved healthspan, survival (+20%) and reduced non-cancer mortality in males, while in females it reduced cancer-specific mortality without significantly affecting overall survival. Anti-GD3 treatment also mitigated fibrosis in lung, liver, and kidney tissues with distinct sex-dependent responses. Importantly, these benefits persisted for over a year after treatment cessation. These findings suggest that GD3-targeted therapy holds promise as a precision approach for treating age-related diseases, with therapeutic outcomes that depend critically on biological sex.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.697856v1?rss=1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Towards Equilateral Triangular Lattice Frustrated Quantum Magnets through Molecular-brick Chemical Strategy",
+    "summary": "Equilateral triangular lattices (TLs) with antiferromagnetic interactions are ideal templates for inducing magnetic frustration, offering a platform to explore exotic quantum spin states, which are crucial for advancing quantum science and technology. However, few examples meet these structural criteria, and even fewer realize these fascinating physical properties. Here, we report four novel equilateral TL magnets by deliberately choosing the structural template and building blocks, namely, the molecular-brick chemical strategy. Magnetic ions are fixed on an equilateral TL via a three-fold rotation symmetry in the a-b plane and are eclipsed stacked along the c-axis. Magnetic susceptibility and specific heat measurements reveal a long-range magnetic ordering in BaCoBe2(BO3)2F2 around 180 mK, while BaNiBe2(BO3)2F2 remains disordered at 140 mK. Furthermore, crystal orbital Hamilton population analysis shows that different molecular bricks exhibit distinct bonding characteristics, resulting in diverse magnetic properties. Our results demonstrate that the molecular-brick chemical strategy offers valuable insights for investigating geometrically frustrated magnets.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-gplf5?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Understanding Electrocatalysis at Non-Equilibrium Steady States",
+    "summary": "Electrocatalysis has traditionally relied on static reaction conditions, in which catalyst performance is determined by equilibrium surface states. However, many catalytic processes in Nature are inherently dynamic. Pulse-driven electrocatalysis (PE) offers temporal control over electrode potential, allowing real-time adjustments to adsorbate energetics, charge distribution, and selectivity. This perspective shows how voltage pulses can reprogram catalytic interfaces, alter mechanistic pathways, favor transient intermediate states, reorganize the electric double layer (EDL), and steer reaction networks beyond steady-state limits. It covers the physical chemistry principles behind PE processes using pivotal multistep electrocatalytic reactions. Finally, future directions involving artificial intelligence to develop efficient self-optimizing electrocatalytic systems are elegantly discussed.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-m913z?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Structure-based strategy reveals a novel ligand binding site in Staphylococcus aureus catabolite control protein A: implications for transcriptional regulation and drug design",
+    "summary": "Staphylococcus aureus is a major human pathogen responsible for a broad spectrum of infections and is recognized by the World Health Organization as a high-priority antimicrobial-resistant organism. The global transcription factor (TF) catabolite control protein A (CcpA), a central regulator of metabolism and virulence, represents a promising drug target. However, efforts to design inhibitors are hindered by their closed crystallographic conformation and the absence of well-defined ligand-binding cavities. \nHere, we present a structure-guided alignment strategy to identify potential ligand-binding sites in CcpA from S. aureus (Sa-CcpA), using a curated set of co-crystallized TFs as structural templates. This methodology identified a putative ligand-binding site in Sa-CcpA that was not predicted by conventional cavity-detection methods. Phylogenetic analysis showed that residues within this predicted cavity are conserved in a subset of particular pathogenic species in the order Bacillales, suggesting an evolutionarily constrained and functionally relevant region. To assess the stability of this newly identified site, multiple molecular dynamics simulations were performed, followed by docking analyses of two known Sa-CcpA inhibitors. Together, our results suggest that this structure-informed alignment strategy is a promising approach to uncover previously unrecognized ligand-binding regions in TFs. Although demonstrated here using Sa-CcpA as a case study, this approach may support future efforts to rationalize inhibitor design targeting transcriptional regulators.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-pcx2z?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rapid Discovery of Yttrium-MOFs via Combined High-Throughput Synthesis, Automated PXRD, Optical Calorimetry Screening and Three-dimensional Electron Diffraction",
+    "summary": "An optimized workflow for the discovery of new porous materials was developed, combining high-throughput (HT) synthesis with automated powder X ray diffraction (PXRD), high-throughput CO2 sorption analysis and three-dimensional electron diffraction (3D ED). This led to the discovery of CAU-73, a new yttrium-based microporous metal-organic framework.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-9mm62?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mechanism-aware multimodal learning for organ-specific drug toxicity prediction through adaptive modality gating and text-neutralization stress testing",
+    "summary": "Early prediction of drug-induced organ toxicity remains a major bottleneck in drug discovery and clinical pharmacotherapy. Most data-driven toxicity models behave as endpoint predictors: they output a label but provide limited transparency about why a compound is risky or which evidence channel dominated the decision. Here, I present a mechanism-aware multimodal framework that fuses three complementary views of each compound: (i) a molecular graph encoder learned from SMILES, (ii) a compact vector of coarse mechanistic proxies (e.g., CYP involvement and reactive-metabolite flags), and (iii) a 384-dimensional text embedding derived from short drug descriptors. A gated fusion network learns sample-specific modality weights and outputs five organ-level toxicity probabilities (hepatotoxicity, nephrotoxicity, cardiotoxicity, mitochondrial toxicity, and hERG/QT risk).\nOn a materialized dataset of 250 drug instances, the full Graph+Mech+Text model achieves strong discrimination on a held-out test split (macro-AUROC \u2248 0.99 in a representative run; hERG/QT AUROC \u2248 0.93). Modality ablations reveal that a Graph-only model performs modestly (macro-AUROC \u2248 0.62), while adding mechanistic proxies improves performance (\u2248 0.91), and incorporating drug-specific text pushes macro-AUROC to \u2248 0.98\u20130.99. To distinguish genuine multimodal synergy from shortcut learning, I perform a diagnostic stress test in which all textual inputs are neutralized. Under this condition, macro-AUROC collapses to 0.533 (95% bootstrap CI 0.490\u20130.566), approaching chance for several endpoints, and the learned gate concentrates mass almost entirely on the text modality.\nThese findings make two contributions. First, they demonstrate a practical decision-support architecture for organ-specific toxicity prediction that produces interpretable probability profiles rather than hard labels. Second, they introduce a simple but powerful audit methodology\u2014modality ablations plus text neutralization\u2014that exposes when apparent multimodal gains are driven by text-based shortcuts rather than robust structural or mechanistic signals. I discuss implications for dataset design, external validation, and how richer, non-leaky clinical text sources such as FDA label sections could be incorporated in future work.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-m0rc4?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Retraining and evaluating EquiformerV2 machine-learning potentials for global optimization of Mo2C nanoclusters",
+    "summary": "Nanoclusters enriched in coordinatively unsaturated metal sites usually exhibit distinct geometric and electronic properties and outperform bulk catalysts. However, identifying their atomic structures remains challenging due to vast configurational spaces to explore. In this work, we coupled genetic algorithm (GA) with retrained machine-learning potential (MLP) to accelerate configurational sampling and global minima optimization. Mo\u2082C nanoclusters in the gas phase and on a graphene support were used as a prototypical model system. The original and fine-tuned EquiformerV2 MLPs using Mo2C-nanoncluster DFT data were assessed for GA-MLP workflow using Kendall\u2019s \u03c4 as a ranking metric. EquiformerV2 fine-tuned using targeted DFT data can accelerate GA-driven globle configuration exploration, provided that model evaluation focuses on correct energetic ordering (Kendall\u2019s \u03c4).",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-xcsp0?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ConfDENSE: A conformer aware electron density based machine learning paradigm for navigating the odorant landscape",
+    "summary": "Olfaction arises from the interaction of odorants with olfactory receptors, a process shaped by molecular geometry, electron distribution, and conformational preference. We present ConfDENSE, a Set2Set enhanced PointNet model that learns directly from Hirshfeld promolecule electron-density point clouds, preserving full 3D electronic in- formation without downsampling.Despite using no receptor structural data, ConfDENSE accurately identifies bioac- tive conformers from ensemble inputs. For the only available human odorant receptor structures, the model\u2019s selected conformers achieve sub-angstrom RMSDs to crystallo- graphic ligand poses and frequently outperform conventional docking. Combining ConfDENSE with explainability analysis further reveals the substruc- tures most responsible for receptor engagement, aligning with experimental interaction patterns. This ligand-centric and interpretable framework naturally supports phar- macophore extraction and scaffold-based design, enabling identification of conserved binding motifs even when receptor structures are missing. ConfDENSE thus provides a compact, physics-aware approach to computational olfaction, linking electron density, conformational preference, and odorant recognition in a structurally agnostic manner.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-8tmtg?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Social mixing and time use throughout the year: Potential changes in disease transmission and age distribution of cases",
+    "summary": "<p>Publication date: Available online 6 January 2026</p><p><b>Source:</b> Journal of Theoretical Biology</p><p>Author(s): Edwin Van Leeuwen, Frank G. Sandmann, Rosalind M. Eggo, Peter J. White</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0022519325003339?dgcid=rss_sd_all",
+    "published_date": "2026-01-07T16:00:00Z",
+    "source_feed": "Journal of Theoretical Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Correction: A numerical study of site effect and dynamic response of staged excavation supported by soil nail walls",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30361-2\">doi:10.1038/s41598-025-30361-2</a></p>Correction: A numerical study of site effect and dynamic response of staged excavation supported by soil nail walls",
+    "url": "https://www.nature.com/articles/s41598-025-30361-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Correction: Impact of crown and inlay size variations on the accuracy of various digital impression techniques",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34097-x\">doi:10.1038/s41598-025-34097-x</a></p>Correction: Impact of crown and inlay size variations on the accuracy of various digital impression techniques",
+    "url": "https://www.nature.com/articles/s41598-025-34097-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Generative artificial intelligence heuristic cues, trust and continuous intention of CBeC platform and the moderating role of information overload",
+    "summary": "<p>Scientific Reports, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32935-6\">doi:10.1038/s41598-025-32935-6</a></p>Generative artificial intelligence heuristic cues, trust and continuous intention of CBeC platform and the moderating role of information overload",
+    "url": "https://www.nature.com/articles/s41598-025-32935-6",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The Second Urban Revolution: \u00a0Complexity, Cognition and the View From the Israeli-Palestinian Periphery, by Juval Portugali",
+    "summary": "<p><img class=\"alignleft\" src=\"https://cxdig.wordpress.com/wp-content/uploads/2026/01/e67f6359-1067-4ca2-9a61-8de4e794f968-1.jpg\" style=\"width: 25%;\" /></p>\n<p>In this timely book, Juval Portugali ties together ancient archaeology with the present to explore the city as a phenomenon that has been rapidly increasing in power and importance since its earliest emergence. He links the walled cities of ancient civilization with modern-day borderless cities, while providing connections between modern nationalism and postmodern urbanism.</p>\n<p>More at: <a href=\"https://www.e-elgar.com/shop/gbp/the-second-urban-revolution-9781035350117.html\" rel=\"noopener\" target=\"_blank\">www.e-elgar.com</a></p>",
+    "url": "https://comdig.unam.mx/2026/01/07/the-second-urban-revolution-complexity-cognition-and-the-view-from-the-israeli-palestinian-periphery-by-juval-portugali/",
+    "published_date": "2026-01-07T16:10:11Z",
+    "source_feed": "Complexity Digest",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "European Financial Ecosystems. Comparing France, Sweden, UK and Italy",
+    "summary": "<p>Stefano Caselli, Marta Zava</p>\n<p>The study examines the structure, functioning, and strategic implications of financial ecosystems across four European countries-France, Sweden, the United Kingdom, and Italy-to identify institutional best practices relevant to the ongoing transformation of Italy's financial system. Building on a comparative analysis of legislation and regulation, taxation, investor bases, and financial intermediation, the report highlights how distinct historical and institutional trajectories have shaped divergent models: the French dirigiste system anchored by powerful state-backed institutions and deep asset management pools; the Swedish social-democratic ecosystem driven by broad household equity participation, taxefficient savings vehicles, and equity-oriented pension funds; and the British liberal model, characterized by deep capital markets, strong institutional investor engagement, and globally competitive listing infrastructure. In contrast, Italy remains predominantly bank-centric, with fragmented institutional investment, limited retail equity participation, underdeveloped public markets, and a structural reliance on domestic banking channels for corporate finance.</p>\n<p>Read the full article at: <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5941475\" rel=\"noopener\" target=\"_blank\">papers.ssrn.com</a></p>",
+    "url": "https://comdig.unam.mx/2026/01/07/european-financial-ecosystems-comparing-france-sweden-uk-and-italy/",
+    "published_date": "2026-01-07T16:01:22Z",
+    "source_feed": "Complexity Digest",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The Milky Way's black hole is hiding an explosive past, evidence suggests",
+    "summary": "Our galaxy's supermassive black hole is famous for being one of the dimmest in the universe. Evidence from a new space telescope shows that might not always have been the case.",
+    "url": "https://phys.org/news/2026-01-milky-black-hole-explosive-evidence.html",
+    "published_date": "2026-01-07T16:10:10Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stars that die off the beaten path",
+    "summary": "Astronomers have created a detailed forecast of where they expect to observe future stellar explosions in a nearby galaxy, opening a new window into how exploding stars shape the cosmos. Focusing on M33, a spiral galaxy about 2.7 million light\u2011years away, this research combined new maps of cold atomic hydrogen gas from the U.S. National Science Foundation Very Large Array (NSF VLA) with millimeter\u2011wave observations of molecular gas from the Atacama Large Millimeter/submillimeter Array (ALMA).",
+    "url": "https://phys.org/news/2026-01-stars-die-beaten-path.html",
+    "published_date": "2026-01-07T16:05:28Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Four baby planets show how super-Earths and sub-Neptunes form",
+    "summary": "Thanks to the discovery of thousands of exoplanets to date, we know that planets bigger than Earth but smaller than Neptune orbit most stars. Oddly, our sun lacks such a planet. That's been a source of frustration for planetary scientists, who can't study them in as much detail as they'd like, leaving one big question: How did these planets form?",
+    "url": "https://phys.org/news/2026-01-baby-planets-super-earths-neptunes.html",
+    "published_date": "2026-01-07T16:00:12Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Distinct AI Models Seem To Converge On How They Encode Reality",
+    "summary": "Is the inside of a vision model at all like a language model? Researchers argue that as the models grow more powerful, they may be converging toward a singular \u201cPlatonic\u201d way to represent the world.            <p>The post <a href=\"https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/\" target=\"_blank\">Distinct AI Models Seem To Converge On How They Encode Reality</a> first appeared on <a href=\"https://www.quantamagazine.org\" target=\"_blank\">Quanta Magazine</a></p>",
+    "url": "https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/",
+    "published_date": "2026-01-07T15:23:04Z",
+    "source_feed": "Quanta Magazine",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Electrochemical defluorinative Matteson-type homologation",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-10002-4\">doi:10.1038/s41586-025-10002-4</a></p>Electrochemical defluorinative Matteson-type homologation",
+    "url": "https://www.nature.com/articles/s41586-025-10002-4",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Systematic analyses of lipid mobilization by human lipid transfer proteins",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-10040-y\">doi:10.1038/s41586-025-10040-y</a></p>Systematic analyses of lipid mobilization by human lipid transfer proteins",
+    "url": "https://www.nature.com/articles/s41586-025-10040-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A mysterious ancient fingerprint and a lemon-shaped planet \u2014 the stories you\u2019ve missed",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00053-6\">doi:10.1038/d41586-026-00053-6</a></p>We highlight some Nature Briefing stories from the end of 2025, including: a seismic detector made from a telecom cable, and how self-heating plants attract pollinators.",
+    "url": "https://www.nature.com/articles/d41586-026-00053-6",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A framework for addressing racial and related inequities in conservation",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09892-1\">doi:10.1038/s41586-025-09892-1</a></p>This Perspective proposes a new framework to support the inclusion of Black, Indigenous and people of colour in conservation initiatives.",
+    "url": "https://www.nature.com/articles/s41586-025-09892-1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A hidden diversity of ceratopsian dinosaurs in Late Cretaceous Europe",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09897-w\">doi:10.1038/s41586-025-09897-w</a></p>New results indicate that rhabdodontids and the previously described Ajkaceratops are actually distinctive European ceratopsians, a group better known from Asia and North America.",
+    "url": "https://www.nature.com/articles/s41586-025-09897-w",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A young progenitor for the most common planetary systems in the Galaxy",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09840-z\">doi:10.1038/s41586-025-09840-z</a></p>A nine-year transit-timing campaign has measured the extremely low masses and densities of four large planets orbiting the young star V1298 Tau, which are now predicted to contract and form a typical compact super-Earth and sub-Neptune system.",
+    "url": "https://www.nature.com/articles/s41586-025-09840-z",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Surface optimization governs the local design of physical networks",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09784-4\">doi:10.1038/s41586-025-09784-4</a></p>Analysis of the local branching geometries of several physical networks shows violations of predictions of length and volume minimization, leading to the hypothesis that estimating the material cost requires accounting for the full three-dimensional geometry.",
+    "url": "https://www.nature.com/articles/s41586-025-09784-4",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Plastic landmark anchoring in zebrafish compass neurons",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09888-x\">doi:10.1038/s41586-025-09888-x</a></p>Using two-photon microscopy with a panoramic virtual reality setup, how head direction cells in larval zebrafish integrate visual landmarks and optic flow to track orientation is revealed.",
+    "url": "https://www.nature.com/articles/s41586-025-09888-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "An expanded registry of candidate <i>cis</i>-regulatory elements",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09909-9\">doi:10.1038/s41586-025-09909-9</a></p>The existing ENCODE registry of candidate human and mouse cis-regulatory elements is expanded with the addition of new ENCODE data, integrating new functional data as well as new cell and tissue types.",
+    "url": "https://www.nature.com/articles/s41586-025-09909-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "High-voltage anode-free sodium\u2013sulfur batteries",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09867-2\">doi:10.1038/s41586-025-09867-2</a></p>A new architecture based on high-valence sulfur/sulfur tetrachloride cathode chemistry is described for manufacturing high-voltage anode-free sodium\u2013sulfur batteries, demonstrating promise for applications in grid energy storage and wearable electronics.",
+    "url": "https://www.nature.com/articles/s41586-025-09867-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Climate change shifts the North Pacific storm track polewards",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09895-y\">doi:10.1038/s41586-025-09895-y</a></p>An observation-based storm-track proxy shows that the winter North Pacific storm track has shifted substantially polewards, suggesting regional impacts on precipitation and warming patterns, with implications for temperature variability and extreme events.",
+    "url": "https://www.nature.com/articles/s41586-025-09895-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Prefrontal neural geometry of learned cues guides motivated behaviours",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09902-2\">doi:10.1038/s41586-025-09902-2</a></p>The dorsomedial prefrontal cortex encodes the value, salience and valence of learned stimuli along distinct neural dimensions, and the geometry of these representations shapes motivated behaviours in mice.",
+    "url": "https://www.nature.com/articles/s41586-025-09902-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bidirectional CRISPR screens decode a GLIS3-dependent fibrotic cell circuit",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09907-x\">doi:10.1038/s41586-025-09907-x</a></p>Integrated single-cell and spatial data analysis, combined with bidirectional CRISPR screens, identify the transcription factor GLIS3 as a key driver of chronic inflammation and fibrosis and a potential marker of disease severity in patients with ulcerative colitis.",
+    "url": "https://www.nature.com/articles/s41586-025-09907-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Soft biodegradable implants for long-distance and wide-angle sensing",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09874-3\">doi:10.1038/s41586-025-09874-3</a></p>A soft, biodegradable, wireless sensing device can monitor pressure, temperature and strain over long distances (up to 16\u2009cm), maintaining accuracy across varying positions and angles.",
+    "url": "https://www.nature.com/articles/s41586-025-09874-3",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Early hominins from Morocco basal to the <i>Homo sapiens</i> lineage",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09914-y\">doi:10.1038/s41586-025-09914-y</a></p>New hominin fossils from the Grotte \u00e0 Hominid\u00e9s at Thomas Quarry I (ThI-GH) in Casablanca, Morocco, dated to around 773 thousand years ago are similar in age to Homo antecessor, yet are morphologically distinct.",
+    "url": "https://www.nature.com/articles/s41586-025-09914-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Pulse heating and slip&#xa0;enhance charging of phase-change thermal batteries",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09877-0\">doi:10.1038/s41586-025-09877-0</a></p>A strategy based on the design of a composite coating that enables slip-enhanced close-contact melting inside sealed phase-change thermal batteries to improve charging rates enables high-performance thermal energy storage over a wide range of temperatures.",
+    "url": "https://www.nature.com/articles/s41586-025-09877-0",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neuro-epithelial circuits promote sensory convergence and intestinal immunity",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09921-z\">doi:10.1038/s41586-025-09921-z</a></p>Specific pain-sensing nociceptors and chemosensory tuft cells form a circuit to promote type\u20092 immune responses in the intestine.",
+    "url": "https://www.nature.com/articles/s41586-025-09921-z",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nutrient requirements of organ-specific metastasis in breast cancer",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09898-9\">doi:10.1038/s41586-025-09898-9</a></p>How the complex interplay between multiple nutrients within the microenvironment dictates potential sites of metastatic cancer growth is explored.",
+    "url": "https://www.nature.com/articles/s41586-025-09898-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Towards fibre-like loss for photonic integration from violet to near-infrared",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09889-w\">doi:10.1038/s41586-025-09889-w</a></p>Germano-silicate used as a building material for integrated photonics circuits substantially reduces optical losses, approaching levels comparable to those in optical fibres.",
+    "url": "https://www.nature.com/articles/s41586-025-09889-w",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Aharonov\u2013Bohm interference in even-denominator fractional quantum Hall states",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09891-2\">doi:10.1038/s41586-025-09891-2</a></p>This study reports coherent Aharonov\u2013Bohm interference, including statistical phase contributions, in a Fabry\u2013P\u00e9rot interferometer at two even-denominator fractional quantum Hall states in high-mobility bilayer-graphene van der Waals heterostructures is reported.",
+    "url": "https://www.nature.com/articles/s41586-025-09891-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Soft photonic skins with dynamic texture and colour control",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09948-2\">doi:10.1038/s41586-025-09948-2</a></p>Inspired by dynamic textural modulation in cephalopod skin, polymer films whose colour and surface texture can be dynamically and independently controlled are developed and demonstrated using standard electron-beam patterning tools.",
+    "url": "https://www.nature.com/articles/s41586-025-09948-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mitochondrial transfer from glia to neurons protects against&#xa0;peripheral neuropathy",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09896-x\">doi:10.1038/s41586-025-09896-x</a></p>Mitochondria that are transported from satellite glial cells in dorsal root ganglia to peripheral sensory neurons through tunneling nanotube-like structures provide protection against peripheral neuropathy.",
+    "url": "https://www.nature.com/articles/s41586-025-09896-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Intratumoural vaccination via checkpoint degradation-coupled antigen presentation",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09903-1\">doi:10.1038/s41586-025-09903-1</a></p>An intratumoural vaccination chimera reprograms tumour cells into an antigen-presenting state with restored anti-tumour immunity.",
+    "url": "https://www.nature.com/articles/s41586-025-09903-1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mimicking opioid analgesia in cortical pain circuits",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09908-w\">doi:10.1038/s41586-025-09908-w</a></p>The anterior cingulate cortex encodes affective pain behaviours modulated by opioids; targeting opioid-sensitive neurons through a new chemogenetic gene therapy replicates the analgesic effects of morphine, providing precise chronic pain relief without affecting sensory detection.",
+    "url": "https://www.nature.com/articles/s41586-025-09908-w",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Distinct neuronal populations in the human brain combine content and context",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09910-2\">doi:10.1038/s41586-025-09910-2</a></p>Single-neuron recordings in humans reveal largely separate content and context neurons whose coordinated activity flexibly places memory items in context.",
+    "url": "https://www.nature.com/articles/s41586-025-09910-2",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A mechanical ratchet drives unilateral cytokinesis",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09915-x\">doi:10.1038/s41586-025-09915-x</a></p>Division of embryonic cells with an incomplete contractile ring occurs by a ratchet mechanism with repeated cycles of cytoplasmic stiffening, which stabilizes the contractile actin band, and fluidization, which enables band ingression.",
+    "url": "https://www.nature.com/articles/s41586-025-09915-x",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Albumin orchestrates a natural host defence mechanism against mucormycosis",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09882-3\">doi:10.1038/s41586-025-09882-3</a></p>Albumin selectively inhibits Mucorales growth through the release of bound free fatty acids.",
+    "url": "https://www.nature.com/articles/s41586-025-09882-3",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Small persistent humid forest clearings drive tropical forest biomass losses",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09870-7\">doi:10.1038/s41586-025-09870-7</a></p>A bookkeeping approach shows that disturbed tropical humid forests experienced net aboveground carbon loss during 1990\u20132020, primarily driven by small but persistent deforestation clearings owing to persistent land-use conversion without forest regrowth.",
+    "url": "https://www.nature.com/articles/s41586-025-09870-7",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "ipRGC properties prevent light from shifting the SCN clock during daytime",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09894-z\">doi:10.1038/s41586-025-09894-z</a></p>The inability of intrinsically photosensitive retinal ganglion cells to shift the circadian clock in the suprachiasmatic nucleus during daytime is caused by light-dependent depolarization block of these cells.",
+    "url": "https://www.nature.com/articles/s41586-025-09894-z",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Evidence accumulation from experience and observation in the cingulate cortex",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09885-0\">doi:10.1038/s41586-025-09885-0</a></p>Humans and monkeys integrated experiential and observational evidence during a two-player task, and the anterior cingulate cortex combined the information sources into a unified neural belief representation that explains behavioural asymmetries.",
+    "url": "https://www.nature.com/articles/s41586-025-09885-0",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Stress controls heterochromatin inheritance via histone H3 ubiquitylation",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09899-8\">doi:10.1038/s41586-025-09899-8</a></p>A histone ubiquitin-dependent regulatory hub governs stimulus-dependent heterochromatin propagation, with important implications for understanding mechanisms governing rapid changes in the epigenetic landscape in physiology and disease.",
+    "url": "https://www.nature.com/articles/s41586-025-09899-8",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Oral 4\u2032-fluorouridine rescues nonhuman primates from advanced Lassa fever",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09906-y\">doi:10.1038/s41586-025-09906-y</a></p>Treatment with 4\u2032-fluorouridine (also known as EIDD-2749) in an African green monkey (Chlorocebus aethiops) model of Lassa disease resulted in complete clearance of infectious virus in a high proportion of cases and prolonged survival to the pre-determined study end-point in all cases.",
+    "url": "https://www.nature.com/articles/s41586-025-09906-y",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The complex role of nutrients in cancer spread",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03988-4\">doi:10.1038/d41586-025-03988-4</a></p>An in-depth analysis of nutrient availability across mouse tissues reveals their influence on the spread of cancer to other organs.",
+    "url": "https://www.nature.com/articles/d41586-025-03988-4",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ultra-low-density exoplanets observed around a young star",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03983-9\">doi:10.1038/d41586-025-03983-9</a></p>Measurements of the masses of exoplanets orbiting a young star have identified a system of low-density \u2018super-puff\u2019 planets.",
+    "url": "https://www.nature.com/articles/d41586-025-03983-9",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Of all the quarries: Casablanca fossils reveal African ancestors of <i>Homo sapiens</i>",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03986-6\">doi:10.1038/d41586-025-03986-6</a></p>Surprising fossil finds in a Moroccan quarry reveal 773,000-year-old hominin specimens that are close to the ancestor of modern humans.",
+    "url": "https://www.nature.com/articles/d41586-025-03986-6",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "How viral RNAs escape a host mechanism that controls translation",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04001-8\">doi:10.1038/d41586-025-04001-8</a></p>A long-standing question has been how viral RNAs that use genetic codes different from those used in human cells can still drive efficient viral protein production during infection. It emerges that the sequences of 5\u2032 untranslated regions in viral RNAs drive codon-usage-independent translation by blocking mRNA circularization, enabling viruses to evade the host\u2019s codon-usage control of translation.",
+    "url": "https://www.nature.com/articles/d41586-025-04001-8",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chronic pain could be eased by uncoupling the sensory and emotional experiences",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03987-5\">doi:10.1038/d41586-025-03987-5</a></p>Researchers identify the neurons involved in the emotional distress associated with pain, and design a genetic approach that could soothe suffering without opioid drugs.",
+    "url": "https://www.nature.com/articles/d41586-025-03987-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Exotic quasiparticles glimpsed in graphene",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04016-1\">doi:10.1038/d41586-025-04016-1</a></p>Bilayer graphene has been used to observe robust interference patterns consistent with the presence of fractionally charged quasiparticles known as non-Abelian anyons. Demonstrating and controlling this interference is a crucial step towards harnessing these elusive quasiparticles as building blocks for fault-tolerant quantum computers.",
+    "url": "https://www.nature.com/articles/d41586-025-04016-1",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A way to identify the biological basis of gene\u2013trait associations",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04004-5\">doi:10.1038/d41586-025-04004-5</a></p>Genetic-association studies have identified many genetic variants that are associated with complex traits. However, in most cases, the biology underlying the association is unknown. Integrating experimental gene-perturbation and genetic-association data sets could reveal the mechanisms underlying complex traits.",
+    "url": "https://www.nature.com/articles/d41586-025-04004-5",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Blood protein thwarts deadly fungal disease",
+    "summary": "<p>Nature, Published online: 07 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-03985-7\">doi:10.1038/d41586-025-03985-7</a></p>Low levels of albumin, a protein found in blood, are associated with poor clinical outcomes for people with the fungal disease mucormycosis.",
+    "url": "https://www.nature.com/articles/d41586-025-03985-7",
+    "published_date": "2026-01-07T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Les petites coupes foresti\u00e8res impactent le plus fortement le climat",
+    "summary": "Dans les for\u00eats tropicales, les exploitations de moins de deux hectares repr\u00e9sentent pr\u00e8s de 90% des \u00e9missions de carbone dues aux d\u00e9forestations. Un constat qui impose d\u2019agir sur les conditions de vie de millions de petits agriculteurs des pays du Sud.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/climat/les-petites-coupes-forestieres-impactent-le-plus-fortement-le-climat_190309?xtor=RSS-15",
+    "published_date": "2026-01-07T16:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Ushikuvirus: Newly discovered giant virus may offer clues to the origin of life",
     "summary": "The origin of life on Earth becomes even more fascinating and complex as we peer into the mysterious world of viruses. Said to have existed since living cells first appeared, these microscopic entities differ greatly from other forms of life. Composed of only genetic material, they lack the ability to synthesize proteins, which are essential for carrying out cellular activity and, ultimately, for life by itself.",
     "url": "https://phys.org/news/2026-01-ushikuvirus-newly-giant-virus-clues.html",

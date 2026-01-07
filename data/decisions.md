@@ -1,5 +1,81 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Insights into DNA repeat expansions among 900,000 biobank pa](https://www.nature.com/articles/s41586-025-09886-z) |
+| ai_scored | 50 | [RNA-triggered Cas12a3 cleaves tRNA tails to execute bacteria](https://www.nature.com/articles/s41586-025-09852-9) |
+| ai_scored | 60 | [Molecular switch reveals transition between single-celled an](https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html) |
+| ai_scored | 5 | [An ancient DNA perspective on the Russian conquest of Yakuti](https://www.nature.com/articles/s41586-025-09856-5) |
+| ai_scored | 55 | [Genetic switch between unicellularity and multicellularity i](https://www.nature.com/articles/s41586-025-09881-4) |
+| ai_scored | 0 | [Early hominins from Morocco reveal an African lineage near t](https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html) |
+| ai_scored | 20 | [Supernova remnant video from NASA's Chandra is decades in ma](https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html) |
+| ai_scored | 50 | [Orbital Biosignature Assay: Lake Eyre](https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html) |
+| ai_scored | 10 | [LORA: a polymorphic multi-sample LOng Read Assembly pipeline](https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1) |
+| ai_scored | 37 | [A Catalyst-Coated Mesoporous Carbon–Membrane Electrode Assem](https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [Charting The Microbial Map Inside The International Space St](https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html) |
+| ai_scored | 70 | [Jupiter’s Moon Europa Has A Seafloor That May Be Quiet And L](https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html) |
+| ai_scored | 70 | [Dearth of Photosynthetically Active Radiation Suggests No Co](https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html) |
+| ai_scored | 27 | [Erasing dielectric breakdown artifacts to machine-learn char](https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss) |
+| ai_scored | 55 | [The (Metabolic) Cost Of Life](https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html) |
+| ai_scored | 50 | [Absence Of A Subsurface Ocean On Titan Indicated By Cassini ](https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html) |
+| ai_scored | 38 | [A New Census Of Our Sun’s Neighbors Reveals The Best Potenti](https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html) |
+| keyword_rejected | - | [Les petites coupes forestières impactent le plus fortement l](https://www.sciencesetavenir.fr/nature-environnement/climat/les-petites-coupes-forestieres-impactent-le-plus-fortement-le-climat_190309?xtor=RSS-15) |
+| keyword_rejected | - | [Blood protein thwarts deadly fungal disease](https://www.nature.com/articles/d41586-025-03985-7) |
+| keyword_rejected | - | [A way to identify the biological basis of gene–trait associa](https://www.nature.com/articles/d41586-025-04004-5) |
+| keyword_rejected | - | [Exotic quasiparticles glimpsed in graphene](https://www.nature.com/articles/d41586-025-04016-1) |
+| keyword_rejected | - | [Chronic pain could be eased by uncoupling the sensory and em](https://www.nature.com/articles/d41586-025-03987-5) |
+| keyword_rejected | - | [How viral RNAs escape a host mechanism that controls transla](https://www.nature.com/articles/d41586-025-04001-8) |
+| keyword_rejected | - | [Of all the quarries: Casablanca fossils reveal African ances](https://www.nature.com/articles/d41586-025-03986-6) |
+| keyword_rejected | - | [Ultra-low-density exoplanets observed around a young star](https://www.nature.com/articles/d41586-025-03983-9) |
+| keyword_rejected | - | [The complex role of nutrients in cancer spread](https://www.nature.com/articles/d41586-025-03988-4) |
+| keyword_rejected | - | [Oral 4′-fluorouridine rescues nonhuman primates from advance](https://www.nature.com/articles/s41586-025-09906-y) |
+| keyword_rejected | - | [Stress controls heterochromatin inheritance via histone H3 u](https://www.nature.com/articles/s41586-025-09899-8) |
+| keyword_rejected | - | [Evidence accumulation from experience and observation in the](https://www.nature.com/articles/s41586-025-09885-0) |
+| keyword_rejected | - | [ipRGC properties prevent light from shifting the SCN clock d](https://www.nature.com/articles/s41586-025-09894-z) |
+| keyword_rejected | - | [Small persistent humid forest clearings drive tropical fores](https://www.nature.com/articles/s41586-025-09870-7) |
+| keyword_rejected | - | [Albumin orchestrates a natural host defence mechanism agains](https://www.nature.com/articles/s41586-025-09882-3) |
+| keyword_rejected | - | [A mechanical ratchet drives unilateral cytokinesis](https://www.nature.com/articles/s41586-025-09915-x) |
+| keyword_rejected | - | [Distinct neuronal populations in the human brain combine con](https://www.nature.com/articles/s41586-025-09910-2) |
+| keyword_rejected | - | [Mimicking opioid analgesia in cortical pain circuits](https://www.nature.com/articles/s41586-025-09908-w) |
+| keyword_rejected | - | [Intratumoural vaccination via checkpoint degradation-coupled](https://www.nature.com/articles/s41586-025-09903-1) |
+| keyword_rejected | - | [Mitochondrial transfer from glia to neurons protects against](https://www.nature.com/articles/s41586-025-09896-x) |
+| keyword_rejected | - | [Soft photonic skins with dynamic texture and colour control](https://www.nature.com/articles/s41586-025-09948-2) |
+| keyword_rejected | - | [Aharonov–Bohm interference in even-denominator fractional qu](https://www.nature.com/articles/s41586-025-09891-2) |
+| keyword_rejected | - | [Towards fibre-like loss for photonic integration from violet](https://www.nature.com/articles/s41586-025-09889-w) |
+| keyword_rejected | - | [Nutrient requirements of organ-specific metastasis in breast](https://www.nature.com/articles/s41586-025-09898-9) |
+| keyword_rejected | - | [Neuro-epithelial circuits promote sensory convergence and in](https://www.nature.com/articles/s41586-025-09921-z) |
+| keyword_rejected | - | [Pulse heating and slip&#xa0;enhance charging of phase-change](https://www.nature.com/articles/s41586-025-09877-0) |
+| keyword_rejected | - | [Early hominins from Morocco basal to the <i>Homo sapiens</i>](https://www.nature.com/articles/s41586-025-09914-y) |
+| keyword_rejected | - | [Soft biodegradable implants for long-distance and wide-angle](https://www.nature.com/articles/s41586-025-09874-3) |
+| keyword_rejected | - | [Bidirectional CRISPR screens decode a GLIS3-dependent fibrot](https://www.nature.com/articles/s41586-025-09907-x) |
+| keyword_rejected | - | [Prefrontal neural geometry of learned cues guides motivated ](https://www.nature.com/articles/s41586-025-09902-2) |
+| keyword_rejected | - | [Climate change shifts the North Pacific storm track poleward](https://www.nature.com/articles/s41586-025-09895-y) |
+| keyword_rejected | - | [High-voltage anode-free sodium–sulfur batteries](https://www.nature.com/articles/s41586-025-09867-2) |
+| keyword_rejected | - | [An expanded registry of candidate <i>cis</i>-regulatory elem](https://www.nature.com/articles/s41586-025-09909-9) |
+| keyword_rejected | - | [Plastic landmark anchoring in zebrafish compass neurons](https://www.nature.com/articles/s41586-025-09888-x) |
+| keyword_rejected | - | [Surface optimization governs the local design of physical ne](https://www.nature.com/articles/s41586-025-09784-4) |
+| keyword_rejected | - | [A young progenitor for the most common planetary systems in ](https://www.nature.com/articles/s41586-025-09840-z) |
+| keyword_rejected | - | [A hidden diversity of ceratopsian dinosaurs in Late Cretaceo](https://www.nature.com/articles/s41586-025-09897-w) |
+| keyword_rejected | - | [A framework for addressing racial and related inequities in ](https://www.nature.com/articles/s41586-025-09892-1) |
+| keyword_rejected | - | [A mysterious ancient fingerprint and a lemon-shaped planet —](https://www.nature.com/articles/d41586-026-00053-6) |
+| keyword_rejected | - | [Systematic analyses of lipid mobilization by human lipid tra](https://www.nature.com/articles/s41586-025-10040-y) |
+| keyword_rejected | - | [Electrochemical defluorinative Matteson-type homologation](https://www.nature.com/articles/s41586-025-10002-4) |
+| keyword_rejected | - | [Distinct AI Models Seem To Converge On How They Encode Reali](https://www.quantamagazine.org/distinct-ai-models-seem-to-converge-on-how-they-encode-reality-20260107/) |
+| keyword_rejected | - | [Four baby planets show how super-Earths and sub-Neptunes for](https://phys.org/news/2026-01-baby-planets-super-earths-neptunes.html) |
+| keyword_rejected | - | [Stars that die off the beaten path](https://phys.org/news/2026-01-stars-die-beaten-path.html) |
+| keyword_rejected | - | [The Milky Way's black hole is hiding an explosive past, evid](https://phys.org/news/2026-01-milky-black-hole-explosive-evidence.html) |
+| keyword_rejected | - | [European Financial Ecosystems. Comparing France, Sweden, UK ](https://comdig.unam.mx/2026/01/07/european-financial-ecosystems-comparing-france-sweden-uk-and-italy/) |
+| keyword_rejected | - | [The Second Urban Revolution:  Complexity, Cognition and the ](https://comdig.unam.mx/2026/01/07/the-second-urban-revolution-complexity-cognition-and-the-view-from-the-israeli-palestinian-periphery-by-juval-portugali/) |
+| keyword_rejected | - | [Generative artificial intelligence heuristic cues, trust and](https://www.nature.com/articles/s41598-025-32935-6) |
+| keyword_rejected | - | [Correction: Impact of crown and inlay size variations on the](https://www.nature.com/articles/s41598-025-34097-x) |
+| keyword_rejected | - | [Correction: A numerical study of site effect and dynamic res](https://www.nature.com/articles/s41598-025-30361-2) |
+| keyword_rejected | - | [Social mixing and time use throughout the year: Potential ch](https://www.sciencedirect.com/science/article/pii/S0022519325003339?dgcid=rss_sd_all) |
+| keyword_rejected | - | [ConfDENSE: A conformer aware electron density based machine ](https://dx.doi.org/10.26434/chemrxiv-2026-8tmtg?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Retraining and evaluating EquiformerV2 machine-learning pote](https://dx.doi.org/10.26434/chemrxiv-2026-xcsp0?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Mechanism-aware multimodal learning for organ-specific drug ](https://dx.doi.org/10.26434/chemrxiv-2026-m0rc4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Rapid Discovery of Yttrium-MOFs via Combined High-Throughput](https://dx.doi.org/10.26434/chemrxiv-2026-9mm62?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Structure-based strategy reveals a novel ligand binding site](https://dx.doi.org/10.26434/chemrxiv-2026-pcx2z?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Understanding Electrocatalysis at Non-Equilibrium Steady Sta](https://dx.doi.org/10.26434/chemrxiv-2026-m913z?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Towards Equilateral Triangular Lattice Frustrated Quantum Ma](https://dx.doi.org/10.26434/chemrxiv-2026-gplf5?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Targeting the senescence-associated immune checkpoint GD3 ga](https://www.biorxiv.org/content/10.64898/2026.01.06.697856v1?rss=1) |
 | ai_scored | 50 | [Ushikuvirus: Newly discovered giant virus may offer clues to](https://phys.org/news/2026-01-ushikuvirus-newly-giant-virus-clues.html) |
 | keyword_rejected | - | [Neige : transports toujours perturbés dans plusieurs pays d'](https://www.sciencesetavenir.fr/nature-environnement/meteo/neige-transports-toujours-perturbes-dans-plusieurs-pays-d-europe_190307?xtor=RSS-15) |
 | keyword_rejected | - | [Carte du ciel, blanc mental dans le cerveau et catastrophes ](https://www.sciencesetavenir.fr/ultrabreves/carte-de-la-voute-celeste-blanc-mental-dans-le-cerveau-et-catastrophes-climatiques-de-2025-l-actu-des-sciences-en-ultrabreves_190308) |

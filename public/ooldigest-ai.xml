@@ -3,8 +3,235 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-07T15:21:14.881097+00:00</updated>
+  <updated>2026-01-07T16:26:02.252408+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [38] Astrobiology (astrobiology.com) ▶ A New Census Of Our Sun’s Neighbors Reveals The Best Potential Real Estate For Life</title>
+    <link href="https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html"/>
+    <id>https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html</id>
+    <updated>2026-01-07T16:21:20Z</updated>
+    <summary>A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, habitab*</p>
+<p><strong>AI Decision:</strong> Reports a new nearby-star census intended to prioritize targets that might host Earth-like, potentially habitable planets, but provides no origin-of-life mechanisms, prebiotic chemistry, or biosignature/atmospheric constraints.</p>
+<p><strong>Abstract:</strong> A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebastián Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, […] The post A New Census Of Our Sun’s Neighbors Reveals The Best Potential Real Estate For Life appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Absence Of A Subsurface Ocean On Titan Indicated By Cassini Data</title>
+    <link href="https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html"/>
+    <id>https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html</id>
+    <updated>2026-01-07T15:36:30Z</updated>
+    <summary>The Cassini spacecraft orbited Saturn from 2004 to 2017, performing over a hundred flybys of Titan, Saturn’s largest moon. Ten of these flybys were dedicated to gravity field measurements, yielding un</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, astrobio*</p>
+<p><strong>AI Decision:</strong> Cassini gravity flyby data are interpreted to indicate Titan lacks a present-day subsurface ocean, lowering its astrobiological habitability potential by limiting long-lived liquid-water environments.</p>
+<p><strong>Abstract:</strong> The Cassini spacecraft orbited Saturn from 2004 to 2017, performing over a hundred flybys of Titan, Saturn’s largest moon. Ten of these flybys were dedicated to gravity field measurements, yielding unprecedented insight into the moon’s interior structure. The first four flybys revealed a weakly differentiated deep interior compared to Ganymede, consisting of a large (~2000 […] The post Absence Of A Subsurface Ocean On Titan Indicated By Cassini Data appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ The (Metabolic) Cost Of Life</title>
+    <link href="https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html"/>
+    <id>https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html</id>
+    <updated>2026-01-07T15:56:37Z</updated>
+    <summary>There are “costs of life” that mechanical physics cannot calculate. A clear example is the energy required to keep specific biochemical processes active — such as those that make up photosynthesis, al</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> A theoretical discussion of the energetic/thermodynamic costs required to sustain specific biochemical processes against alternative reactions, offering broad context for why metabolism and regulation matter for living systems but only indirect relevance to abiogenesis.</p>
+<p><strong>Abstract:</strong> There are “costs of life” that mechanical physics cannot calculate. A clear example is the energy required to keep specific biochemical processes active — such as those that make up photosynthesis, although the examples are countless — while preventing alternative processes from occurring. In mechanics, no displacement implies zero work, and, put simply, there is […] The post The (Metabolic) Cost Of Life appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2506.23496">https://arxiv.org/abs/2506.23496</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [27] ChemRxiv ▶ Erasing dielectric breakdown artifacts to machine-learn charged Pt-water interfaces</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>The recently introduced &quot;Response analysis in z-orientation&quot; (RAZOR) model utilizes perturbation theory to machine learn the energy and force response to applied bias charges in atomistic simulations </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Introduces and benchmarks a machine-learning perturbation model (RAZOR) for charged Pt(111)–water interfaces, focusing on avoiding dielectric breakdown artifacts to accurately reproduce ab initio interfacial water structure and potential response under modest bias.</p>
+<p><strong>Abstract:</strong> The recently introduced &quot;Response analysis in z-orientation&quot; (RAZOR) model utilizes perturbation theory to machine learn the energy and force response to applied bias charges in atomistic simulations of electrified interfaces. While we have shown that RAZOR successfully reproduces ab initio results for adsorbates on metallic surfaces in an implicit solvent environment, real electrochemical applications require the inclusion of at least a few explicit H2O layers of the electrolyte. Here, we benchmark RAZOR&#x27;s performance in the description of the Pt(111)-H2O interface. We show that RAZOR can reliably reproduce ab initio molecular dynamics findings for bias-induced changes in H2O density and orientation profiles as well as changes in the potential. To do so, a specific training procedure needs to be applied which avoids the erroneous learning of artifacts from the dielectric breakdown of interfacial water and the accompanying charge transfer into the H2O layers. Ultimately, we are confident that RAZOR can provide quantitative predictions in a +/- 20 muC/cm2 window around the neutral-charged cell, which is sufficient for many pressing electrochemical questions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets</title>
+    <link href="https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html"/>
+    <id>https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html</id>
+    <updated>2026-01-07T15:41:05Z</updated>
+    <summary>The rise of oxygen in the Earth’s atmosphere during the Great Oxidation Event (GOE) occurred about 2.3 billion years ago. There is considerably greater uncertainty for the origin of oxygenic photosynt</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, evolution, habitab*</p>
+<p><strong>AI Decision:</strong> Using Earth’s oxygenation timescales and the low photosynthetically active radiation from late M-dwarfs, the paper argues oxygenic photosynthesis—and thus oxygen-supported complex/multicellular life—may be strongly limited on late M-star exoplanets.</p>
+<p><strong>Abstract:</strong> The rise of oxygen in the Earth’s atmosphere during the Great Oxidation Event (GOE) occurred about 2.3 billion years ago. There is considerably greater uncertainty for the origin of oxygenic photosynthesis, but it likely occurred significantly earlier, perhaps by 700 million years. Assuming this time lag is proportional to the rate of oxygen generation, we […] The post Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.02548">https://arxiv.org/abs/2601.02548</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.02548">https://doi.org/10.48550/arXiv.2601.02548</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Jupiter’s Moon Europa Has A Seafloor That May Be Quiet And Lifeless</title>
+    <link href="https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html"/>
+    <id>https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html</id>
+    <updated>2026-01-07T16:00:11Z</updated>
+    <summary>The giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, astrobio*, habitab*</p>
+<p><strong>AI Decision:</strong> A Nature Communications study argues Europa’s seafloor may lack strong hydrothermal activity, potentially limiting energy and chemical gradients needed for a habitable ocean and making life less likely despite abundant liquid water.</p>
+<p><strong>Abstract:</strong> The giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to possess a vast ocean of liquid salt water. For decades, scientists have wondered whether that ocean could harbor the right conditions for life, […] The post Jupiter’s Moon Europa Has A Seafloor That May Be Quiet And Lifeless appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-67151-3">https://www.nature.com/articles/s41467-025-67151-3</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Charting The Microbial Map Inside The International Space Station</title>
+    <link href="https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html"/>
+    <id>https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html</id>
+    <updated>2026-01-07T16:17:23Z</updated>
+    <summary>Astronauts have company on the International Space Station (ISS International Space Station). Bacteria squat on handrails. Skin flakes lodge in air vents like lint. A corn-loving fungus has become a r</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, habitab*</p>
+<p><strong>AI Decision:</strong> A Cell-linked survey of the ISS microbiome maps how bacteria and fungi persist and spread in a closed space habitat, informing spacecraft microbial ecology and contamination control more than origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Astronauts have company on the International Space Station (ISS International Space Station). Bacteria squat on handrails. Skin flakes lodge in air vents like lint. A corn-loving fungus has become a regular. The place looks spotless, but it’s crawling—its surfaces inscribed with cells and spores. Scientists want the census, and that’s how Nina Zhao found herself […] The post Charting The Microbial Map Inside The International Space Station appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.cell.com/cell/fulltext/S0092-8674(25)00108-4">https://www.cell.com/cell/fulltext/S0092-8674(25)00108-4</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [37] ChemRxiv ▶ A Catalyst-Coated Mesoporous Carbon–Membrane Electrode Assembly for In-situ Soft X-ray XPS and NEXAFS Studies of Electrocatalytic Interfaces</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>In-situ soft X-ray spectroscopy provides direct insight into the electronic structure of electrocatalysts under realistic reaction conditions but remains technically challenging due to the need to com</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, evolution</p>
+<p><strong>AI Decision:</strong> Describes a window-free in-situ soft X-ray XPS/NEXAFS electrode assembly that enables real-time electronic/chemical characterization of hydrated electrocatalytic interfaces during water oxidation, a broadly useful method but not directly focused on origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> In-situ soft X-ray spectroscopy provides direct insight into the electronic structure of electrocatalysts under realistic reaction conditions but remains technically challenging due to the need to combine aqueous electrochemistry with ultra-high-vacuum detection. Here we present a mesoporous carbon–membrane working electrode assembly (WEA) that enables window-free in-situ XPS and NEXAFS measurements during electrochemical reactions. The design integrates a Nafion™ proton-exchange membrane with a mesoporous carbon–ionomer contact layer and a thin IrOₓ catalyst layer, providing continuous electronic and protonic pathways and stable hydration through the membrane. By tuning the chamber water vapor pressure to 8 mbar, the WEA maintains a nanometer-thin water layer sufficient for the oxygen evolution reaction (OER) while preserving photoelectron detection efficiency. A robust peristaltic pumping system and closed-loop alumina-bed water vapor dosing maintain steady-state hydration at 6–10 mbar with &lt;±0.1 mbar variation, enabling reproducible in-siut spectra over extended periods. In-situ Ir 4f and O 1s XPS reveal reversible oxidation of Ir³⁺/Ir⁴⁺ to Ir⁴⁺/Ir⁵⁺ and dynamic changes in hydroxyl and lattice oxygen species, while O K-edge NEXAFS identify the formation of μ₂–O and μ₁–O species at OER potential, corresponding to OER-active intermediates. The WEA thus provides a quantitative, window-free platform for probing electrochemical interfaces under near-ambient conditions and establishes a general methodology for in-situ soft X-ray studies of functional electrocatalysts, closely resembling the architecture and operation of industrial membrane-based water electrolysers. This approach establishes a reliable methodology for coupling electrochemistry with the element specific soft X-ray spectroscopy under realistic reaction conditions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [10] bioinformatics - biorXiv Preprints ▶ LORA: a polymorphic multi-sample LOng Read Assembly pipeline.</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Genome assembly from long-read sequencing data has become a standard approach for resolving complex genomic regions and producing high-contiguity assemblies. However, the diversity of available assemb</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> LORA is a Snakemake-based, reproducible long-read genome assembly pipeline integrating multiple assemblers and QC/reporting steps for bacterial and unicellular eukaryote datasets, offering general genomics utility but minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Genome assembly from long-read sequencing data has become a standard approach for resolving complex genomic regions and producing high-contiguity assemblies. However, the diversity of available assemblers, their varying performance across species, and the need for reproducible workflows present ongoing challenges. We developed LORA, an easy-to-use and reproducible application for assembling genomes from long-read data. LORA integrates several well-established assemblers, including Canu, HiFiasm, Flye, and Unicycler, as well as more recent tools such as Necat and Pecat. It is implemented as a Snakemake pipeline to parallelize tasks and support seamless execution on both local machines and computing clusters. LORA includes multiple quality assessment steps, interactive HTML reports for interpretation, BLAST-based taxonomic identification, and completeness evaluation. Together, these features provide users with a comprehensive view of assembly quality and potential problematic. We illustrate the capabilities of LORA using datasets from bacterial genomes and unicellular eukaryotes, sequenced with both PacBio and Oxford Nanopore technologies, highlighting typical outcomes and common pitfalls encountered during long-read assemblies. LORA is distributed as part of the Sequana project, an open-source framework designed for reproducibility, maintainability, and straightforward deployment across computing environments.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Orbital Biosignature Assay: Lake Eyre</title>
+    <link href="https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html"/>
+    <id>https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html</id>
+    <updated>2026-01-07T15:47:06Z</updated>
+    <summary>Editor’s note: As we begin to study worlds in our own solar system that might have life we use our home world as a testbed for the various ways to detect and characterize biosignatures. Some of this i</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, biosignature, astrobio*, habitab*</p>
+<p><strong>AI Decision:</strong> An Earth testbed study using orbital observations of Lake Eyre to evaluate and correlate remotely sensed biosignature signals with ground truth for future life-detection efforts in the Solar System.</p>
+<p><strong>Abstract:</strong> Editor’s note: As we begin to study worlds in our own solar system that might have life we use our home world as a testbed for the various ways to detect and characterize biosignatures. Some of this is done on the or beneath the surface, Other times it is done in space. Correlating ground truth […] The post Orbital Biosignature Assay: Lake Eyre appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] phys.org - Space News ▶ Supernova remnant video from NASA&#x27;s Chandra is decades in making</title>
+    <link href="https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html"/>
+    <id>https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html</id>
+    <updated>2026-01-07T16:20:03Z</updated>
+    <summary>A new video shows the evolution of Kepler&#x27;s Supernova Remnant using data from NASA&#x27;s Chandra X-ray Observatory captured over more than two and a half decades.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> NASA’s Chandra time-lapse tracks the decades-long X-ray evolution of Kepler’s Supernova Remnant, offering general astrophysical context (e.g., supernova feedback and element dispersal) but little direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> A new video shows the evolution of Kepler&#x27;s Supernova Remnant using data from NASA&#x27;s Chandra X-ray Observatory captured over more than two and a half decades.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] Phys.org: Evolution News ▶ Early hominins from Morocco reveal an African lineage near the root of Homo sapiens</title>
+    <link href="https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html"/>
+    <id>https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html</id>
+    <updated>2026-01-07T16:00:16Z</updated>
+    <summary>An international research team reports the analysis of new hominin fossils from the site of Thomas Quarry I (Casablanca, Morocco). The fossils are very securely dated to 773,000 +/- 4,000 years ago, t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Securely dated (~773 ka) hominin fossils from Thomas Quarry I (Casablanca, Morocco) inform early African lineages near the root of Homo sapiens but do not address origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> An international research team reports the analysis of new hominin fossils from the site of Thomas Quarry I (Casablanca, Morocco). The fossils are very securely dated to 773,000 +/- 4,000 years ago, thanks to a high-resolution magnetostratigraphic record capturing in detail the Brunhes/Matuyama boundary, the last main geomagnetic polarity reversal and precise temporal markers of the Quaternary.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Nature ▶ Genetic switch between unicellularity and multicellularity in marine yeasts</title>
+    <link href="https://www.nature.com/articles/s41586-025-09881-4"/>
+    <id>https://www.nature.com/articles/s41586-025-09881-4</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09881-4 Myb1 functions as a switch-like regulator of state transitions in Hortaea werneckii, whereby its expression and degradation ar</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> multicellularity</p>
+<p><strong>AI Decision:</strong> Identifies Myb1 as a nutrient-coupled, switch-like regulator controlling reversible transitions between unicellular and multicellular growth in the marine yeast Hortaea werneckii, informing mechanisms behind major evolutionary state transitions relevant to later stages of life’s complexity.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09881-4 Myb1 functions as a switch-like regulator of state transitions in Hortaea werneckii, whereby its expression and degradation are coupled to nutrient conditions, stabilizing unicellular or multicellular growth.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-09881-4">https://www.nature.com/articles/s41586-025-09881-4</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-09881-4">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] Nature ▶ An ancient DNA perspective on the Russian conquest of Yakutia</title>
+    <link href="https://www.nature.com/articles/s41586-025-09856-5"/>
+    <id>https://www.nature.com/articles/s41586-025-09856-5</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09856-5 Yakut communities, with Trans-Baikal admixture during the Mongol expansion, preserved genomic diversity and oral microbiomes d</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Ancient DNA and microbiome analysis of Yakut populations during the Russian conquest is valuable for human evolutionary history but is essentially unrelated to origins-of-life research (keyword hit: DNA).</p>
+<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09856-5 Yakut communities, with Trans-Baikal admixture during the Mongol expansion, preserved genomic diversity and oral microbiomes despite the Russian conquest, which introduced cereals, pathogens and Christianity, whereas marital practices preserved low consanguinity except in one late case of traditional shamanism.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-09856-5">https://www.nature.com/articles/s41586-025-09856-5</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-09856-5">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] Phys.org: Evolution News ▶ Molecular switch reveals transition between single-celled and multicellular forms</title>
+    <link href="https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html"/>
+    <id>https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html</id>
+    <updated>2026-01-07T16:00:18Z</updated>
+    <summary>Scientists at Nagoya University in Japan have identified the genes that allow an organism to switch between living as single cells and forming multicellular structures. This ability to alternate betwe</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Nagoya University researchers identified genes enabling an organism to reversibly switch between single-celled and multicellular states, offering evolutionary insight into how multicellularity could emerge from unicellular ancestors.</p>
+<p><strong>Abstract:</strong> Scientists at Nagoya University in Japan have identified the genes that allow an organism to switch between living as single cells and forming multicellular structures. This ability to alternate between life forms provides new insights into how multicellular life may have evolved from single-celled ancestors and eventually led to complex organisms like animals and plants.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Nature ▶ RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity</title>
+    <link href="https://www.nature.com/articles/s41586-025-09852-9"/>
+    <id>https://www.nature.com/articles/s41586-025-09852-9</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09852-9 Cas12a3 nucleases constitute a distinct clade of type V CRISPR–Cas bacterial immune systems that preferentially cleave the 3′ </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study identifies a distinct type V CRISPR nuclease (Cas12a3) that, upon recognizing target RNA, cleaves the 3′ tails of host tRNAs to induce growth arrest and limit phage spread—relevant to OoL mainly as broader context on RNA-centered molecular defense and regulation.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09852-9 Cas12a3 nucleases constitute a distinct clade of type V CRISPR–Cas bacterial immune systems that preferentially cleave the 3′ tails of tRNAs after recognition of target RNA to induce growth arrest and block phage dissemination.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-09852-9">https://www.nature.com/articles/s41586-025-09852-9</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-09852-9">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Nature ▶ Insights into DNA repeat expansions among 900,000 biobank participants</title>
+    <link href="https://www.nature.com/articles/s41586-025-09886-z"/>
+    <id>https://www.nature.com/articles/s41586-025-09886-z</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09886-z Human genetic variation influences instability of DNA repeats that commonly expand as we age.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> A large-scale human genomics study in Nature examining how genetic variation affects age-related instability and expansion of DNA repeat sequences, with limited direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09886-z Human genetic variation influences instability of DNA repeats that commonly expand as we age.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41586-025-09886-z">https://www.nature.com/articles/s41586-025-09886-z</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41586-025-09886-z">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] Phys.org: Evolution News ▶ Ushikuvirus: Newly discovered giant virus may offer clues to the origin of life</title>
     <link href="https://phys.org/news/2026-01-ushikuvirus-newly-giant-virus-clues.html"/>
