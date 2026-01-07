@@ -3,8 +3,96 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-07T11:17:17.256805+00:00</updated>
+  <updated>2026-01-07T12:38:12.179924+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [0] ChemRxiv ▶ How Surface Reconstruction Drives Heterogeneous Bulk Delithiation in Single-crystalline Ni-rich Layered Oxide Cathodes</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>The electrochemical performance of single-crystalline Ni-rich layered oxide cathodes is fundamentally limited by bulk Li⁺ diffusion within micrometre-sized particles. During high-voltage cycling—neces</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Operando X-ray diffraction reveals how oxygen-loss-driven surface reconstruction in Ni-rich layered oxide cathodes promotes heterogeneous bulk delithiation and accelerates capacity fade during high-voltage cycling.</p>
+<p><strong>Abstract:</strong> The electrochemical performance of single-crystalline Ni-rich layered oxide cathodes is fundamentally limited by bulk Li⁺ diffusion within micrometre-sized particles. During high-voltage cycling—necessary for high-energy applications—intraparticle Li⁺ diffusion is further impeded by oxygen-loss-induced surface reconstruction from the layered phase to spinel/rock-salt structures. Therefore, to fully understand how bulk Li⁺ transport kinetics influences electrochemical degradation, it is necessary to establish the correlation between surface reconstruction and bulk delithiation during the anisotropic structural evolution (i.e., expansion of the layers followed by their contraction) of the cathode particles during long-term cycling. In this work, we accomplish this using multi-rate operando X-ray diffraction studies of single-crystalline Ni-rich layered oxide cathodes aged under different voltage windows in single-layer pouch full cells. We quantify how increased surface reconstruction leads to greater heterogeneity in bulk delithiation, thereby promoting phase separation and exacerbating electrochemical capacity fade. These results provide a direct mechanistic link between surface degradation and bulk delithiation in such cathodes and offer a framework for non-destructively probing kinetics-dependent degradation under practically relevant conditions to guide strategies for improved cycling stability.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [5] eLife - recent issues ▶ Identification of a Musashi2 translocation as a novel oncogene in myeloid leukemia</title>
+    <link href="https://elifesciences.org/articles/93645"/>
+    <id>https://elifesciences.org/articles/93645</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Myeloid leukemias, diseases marked by aggressiveness and poor outcomes, are frequently triggered by oncogenic translocations. In the case of chronic myelogenous leukemia (CML), the BCR-ABL fusion init</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Reports an MSI2–HOXA9 fusion as an oncogenic second hit in blast-crisis CML that increases mitochondrial gene expression and respiration, with limited direct relevance to origins-of-life questions beyond general RNA/mitochondrial biology.</p>
+<p><strong>Abstract:</strong> Myeloid leukemias, diseases marked by aggressiveness and poor outcomes, are frequently triggered by oncogenic translocations. In the case of chronic myelogenous leukemia (CML), the BCR-ABL fusion initiates chronic phase disease with second hits allowing progression to blast crisis. Although Gleevec has been transformative for CML, blast crisis CML remains relatively drug resistant. Here, we show that MSI2-HOXA9 , a translocation with an unknown role in cancer, can serve as a second hit in driving bcCML. Compared to BCR-ABL, BCR-ABL/MSI2-HOXA9 led to a more aggressive disease in vivo with decreased latency, increased lethality, and a differentiation blockade that is a hallmark of blast crisis. Domain mapping revealed that the MSI2 RNA binding domain RRM1 had a preferential impact on growth and lethality of bcCML relative to RRM2 or the HOXA9 domain. Mechanistically, MSI2-HOXA9 triggered global downstream changes with a preferential upregulation of mitochondrial components. Consistent with this, BCR-ABL/MSI2-HOXA9 cells exhibited a significant increase in mitochondrial respiration. These data suggest that MSI2-HOXA9 acts, at least in part, by increasing expression of the mitochondrial polymerase POLRMT and augmenting mitochondrial function and basal respiration in blast crisis. Collectively, our findings demonstrate for the first time that translocations involving the stem and developmental signal MSI2 can be oncogenic and suggest that MSI, which we found to be a frequent partner for an array of translocations, could also be a driver mutation across solid cancers.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1073/pnas.232087499">https://doi.org/10.1073/pnas.232087499</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/13271404">https://www.ncbi.nlm.nih.gov/pubmed/13271404</a></li>
+<li><a href="https://doi.org/10.3109/10428194.2014.947611">https://doi.org/10.3109/10428194.2014.947611</a></li>
+<li><a href="https://doi.org/10.1038/nmeth.4324">https://doi.org/10.1038/nmeth.4324</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/31680157">https://www.ncbi.nlm.nih.gov/pubmed/31680157</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/8660864">https://www.ncbi.nlm.nih.gov/pubmed/8660864</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/12393433">https://www.ncbi.nlm.nih.gov/pubmed/12393433</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/24487275">https://www.ncbi.nlm.nih.gov/pubmed/24487275</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/11071626">https://www.ncbi.nlm.nih.gov/pubmed/11071626</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/12649177">https://www.ncbi.nlm.nih.gov/pubmed/12649177</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/93645">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [0] eLife - recent issues ▶ Replication stress-inducing ELF3 upregulation promotes BRCA1-deficient breast tumorigenesis in luminal progenitors</title>
+    <link href="https://elifesciences.org/articles/89573"/>
+    <id>https://elifesciences.org/articles/89573</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>BRCA1 is a critical tumor suppressor, mutations in which greatly increase risks for many tumors in carriers, most notably breast cancer. Luminal progenitor cells (LPs) are the currently recognized cel</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Using single-cell and bulk transcriptomics, the study links intrinsic replication stress in luminal progenitors to ELF3 upregulation that mitigates genomic instability while promoting transformation in BRCA1-deficient breast tumorigenesis.</p>
+<p><strong>Abstract:</strong> BRCA1 is a critical tumor suppressor, mutations in which greatly increase risks for many tumors in carriers, most notably breast cancer. Luminal progenitor cells (LPs) are the currently recognized cells of origin of BRCA1-deficient breast cancers. However, the reason why LPs are prone to transform with BRCA1 deficiency has not been elucidated. Here, using single-cell sequencing of human BRCA1 mutant breast cancers and RNA sequencing (RNA-seq) of BRCA1 -deficient normal mammary cells, we reveal that replication stress is a feature of LPs and a driving factor during BRCA1-associated tumorigenesis. Mechanistically, replication stress and BRCA1 deficiency lead to significant upregulation of ELF3 expression. ELF3 can help suppress excessive genomic instability and promote LP transformation with BRCA1 deficiency. Moreover, ELF3 emerged as a core transcription factor regulating LP genes, leading to LP expansion. Our findings suggest that replication stress is a driving factor during BRCA1-associated tumorigenesis in luminal progenitor cells and elucidates the key role of ELF3 during this process.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1093/nar/gkx1081">https://doi.org/10.1093/nar/gkx1081</a></li>
+<li><a href="https://doi.org/10.1089/104454903321515896">https://doi.org/10.1089/104454903321515896</a></li>
+<li><a href="https://doi.org/10.1038/nature12965">https://doi.org/10.1038/nature12965</a></li>
+<li><a href="https://doi.org/10.1038/nature10983">https://doi.org/10.1038/nature10983</a></li>
+<li><a href="https://doi.org/10.1038/ncomms6496">https://doi.org/10.1038/ncomms6496</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/16998500">https://www.ncbi.nlm.nih.gov/pubmed/16998500</a></li>
+<li><a href="https://doi.org/10.1038/nm.4118">https://doi.org/10.1038/nm.4118</a></li>
+<li><a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.89573.3">https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.89573.3</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/33686070">https://www.ncbi.nlm.nih.gov/pubmed/33686070</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/11156530">https://www.ncbi.nlm.nih.gov/pubmed/11156530</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/89573">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Chirality transfer in nematic liquid crystals via octahedral coordination compounds with Δ and Λ chirality</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>Nematic (N) liquid crystals (LCs), characterized by one-dimensional orientational order, readily transform into chiral nematic (N*) phases upon the incorporation of optically active substances, known </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Materials-chemistry preprint showing highly efficient chirality transfer from Δ/Λ metal complexes into nematic liquid crystals, offering a potential model system for studying chiral amplification and ordered-phase effects relevant (indirectly) to prebiotic homochirality.</p>
+<p><strong>Abstract:</strong> Nematic (N) liquid crystals (LCs), characterized by one-dimensional orientational order, readily transform into chiral nematic (N*) phases upon the incorporation of optically active substances, known as chiral dopants. While the ease of N* induction has driven the extensive development of organic chiral dopants, coordination compounds possessing Δ/Λ chirality have emerged as compelling alternatives, offering distinct structural and functional attributes. A defining feature of these &quot;metallodopants&quot; is their exceptionally high helical twisting power (HTP). For instance, early studies demonstrated that the simple complex Λ-[Ru(acac)3] exhibits a remarkably high HTP of 90 micrometer-1 in MBBA (N-(4-methoxybenzylidene)-4-butylaniline). This efficiency is attributed to the rigid coordination framework, which facilitates robust chirality transfer to the host LC. However, metallodopants often face challenges regarding miscibility with nematic hosts and intrinsic coloration, potentially complicating their integration into optical devices; consequently, systematic investigations have been limited compared to organic dopants. Nevertheless, metallodopants offer unique advantages. In tris(chelate) metal complexes, the sense of the induced helix (P or M) is strongly correlated with ligand orientation; for example, a 90° rotation of a ligand’s elongation axis can reverse the helical sense. This predictable inversion, supported by theoretical models, underscores the critical role of structural rigidity. Furthermore, the intrinsic absorption of these complexes, once viewed as a drawback, is now being harnessed for resonance Raman enhancement and chiroptical modulation. By combining high HTPs, predictable helix inversion, and spectroscopic utility, coordination compounds are positioning themselves as versatile competitors to organic dopants, serving as both functional inducers and optical probes for next-generation photonic and sensing technologies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] biochemistry - biorXiv Preprints ▶ Structural probing of RNA hairpins quantifies protein occupancy on RNA and links it to function in human cells</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1</id>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <summary>RNA structures that form inside living cells influence processes ranging from translation to RNA decay, many of which are controlled by RNA-binding proteins (RBPs). Because RBP specificity depends on </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces a DMS-MaPseq-based framework to quantify RNA hairpin structure and in-cell protein occupancy at single-nucleotide resolution, enabling effective affinity/occupancy estimates that predict functional outcomes (RNA decay) in human cells.</p>
+<p><strong>Abstract:</strong> RNA structures that form inside living cells influence processes ranging from translation to RNA decay, many of which are controlled by RNA-binding proteins (RBPs). Because RBP specificity depends on both local RNA structure and sequence motifs, traditional pulldown-based methods often obscure the structural context of bound RNAs. Here, a quantitative framework based on dimethyl sulfate mutational profiling and sequencing (DMS-MaPseq) is introduced that jointly measures RNA structure and protein binding at single-nucleotide resolution in human cells, enabling estimation of effective RNA-protein affinities and fractional occupancy directly in cells. Application of this approach to a 1,600-member library of MS2 hairpin mutants reveals that RNA folding is the strongest determinant of MS2 coat protein (MCP) recognition, and that stable MS2 structures must form for MCP to bind its target sequence. MCP also shows strong preference for its consensus loop sequence while displaying minimal dependence on stem length beyond ten base pairs or on stem GC content. Incorporation of an inducible degron fused to MCP allows precise tuning of intracellular protein concentrations analogous to those of many endogenous RBPs and show that DMS reactivity changes can be used to infer binding specificities across a subsaturating regime. A quantitative occupancy framework further shows that inferred fraction-bound values accurately predict how efficiently MCP fused to a downregulatory-domain drives RNA degradation. Together, these results establish a generalizable approach for measuring RBP-RNA affinities with structural resolution in living cells, dissecting how sequence and structure contribute to RBP recognition, and quantitatively linking occupancy to functional output.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [35] Scientific American ▶ ‘Microbubbles’ Help Spread Dangerous Microplastics Through Our Water, Study Finds</title>
     <link href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/"/>

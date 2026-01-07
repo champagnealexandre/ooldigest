@@ -1,5 +1,30 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [Structural probing of RNA hairpins quantifies protein occupa](https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1) |
+| ai_scored | 50 | [Chirality transfer in nematic liquid crystals via octahedral](https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss) |
+| ai_scored | 0 | [Replication stress-inducing ELF3 upregulation promotes BRCA1](https://elifesciences.org/articles/89573) |
+| ai_scored | 5 | [Identification of a <i>Musashi2</i> translocation as a novel](https://elifesciences.org/articles/93645) |
+| ai_scored | 0 | [How Surface Reconstruction Drives Heterogeneous Bulk Delithi](https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Trump Wants Venezuela’s Oil. Why Does It Have So Much?](https://www.scientificamerican.com/article/trump-wants-venezuelas-oil-why-does-it-have-so-much/) |
+| keyword_rejected | - | [2025 a été l'année la plus chaude jamais enregistrée en Norv](https://www.sciencesetavenir.fr/nature-environnement/2025-a-ete-l-annee-la-plus-chaude-jamais-enregistree-en-norvege_190306?xtor=RSS-15) |
+| keyword_rejected | - | [Neige: transports toujours perturbés dans plusieurs pays d'E](https://www.sciencesetavenir.fr/nature-environnement/neige-transports-toujours-perturbes-dans-plusieurs-pays-d-europe_190307?xtor=RSS-15) |
+| keyword_rejected | - | [Megaelectronvolt-peaked electrons in a coronal source of a s](https://www.nature.com/articles/s41550-025-02754-w) |
+| keyword_rejected | - | [Quasi-periodic pulsations driven by repeated reconnection](https://www.nature.com/articles/s41550-025-02761-x) |
+| keyword_rejected | - | [Targeted stress granule regulation by engineering a non-cata](https://www.nature.com/articles/s41467-025-66689-6) |
+| keyword_rejected | - | [Computational design of dynamic biosensors for emerging synt](https://www.nature.com/articles/s41467-025-67994-w) |
+| keyword_rejected | - | [AKAP95 condensates regulate transcription and can be targete](https://www.nature.com/articles/s41467-025-68192-4) |
+| keyword_rejected | - | [Air connectivity boosts urban attractiveness for global firm](https://www.nature.com/articles/s44284-025-00361-4) |
+| keyword_rejected | - | [Retraction Note: Minimally invasive robotic ureteral reconst](https://www.nature.com/articles/s41598-025-34580-5) |
+| keyword_rejected | - | [Retraction Note: The best location for the application of st](https://www.nature.com/articles/s41598-025-33110-7) |
+| keyword_rejected | - | [Atypical collective oscillatory activity in cardiac tissue u](https://elifesciences.org/articles/107072) |
+| keyword_rejected | - | [A unified platform for the rapid assembly of glutarimides fo](https://dx.doi.org/10.26434/chemrxiv-2026-qdrsf?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Cultivating Safety Culture through Peer-Led Safety Minute Sl](https://dx.doi.org/10.26434/chemrxiv-2026-v29xk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [In-plane Ferroelectricity and Enhanced Piezoelectricity in U](https://dx.doi.org/10.26434/chemrxiv-2026-hd926?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A unified platform for the rapid assembly of glutarimides fo](https://dx.doi.org/10.26434/chemrxiv-2026-qdrsf?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Cultivating Safety Culture through Peer-Led Safety Minute Sl](https://dx.doi.org/10.26434/chemrxiv-2026-v29xk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Mapping Interfacial Solution Forces that Drive Fluorescent N](https://dx.doi.org/10.26434/chemrxiv-2026-dnj1k?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [O-glycosylation affects proteolysis of the native tear pepti](https://dx.doi.org/10.26434/chemrxiv-2026-tfnth?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [PeptideMTR: Scaling SMILES-Based Language Models for Therape](https://www.biorxiv.org/content/10.64898/2026.01.06.697994v1?rss=1) |
 | ai_scored | 55 | [A PIWI protein-dependent DNA N6-adenine methylation pathway ](https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1) |
 | ai_scored | 35 | [‘Microbubbles’ Help Spread Dangerous Microplastics Through O](https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/) |
 | keyword_rejected | - | [CAR T-cell therapy makes ageing guts heal themselves](https://www.newscientist.com/article/2510062-car-t-cell-therapy-makes-ageing-guts-heal-themselves/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
