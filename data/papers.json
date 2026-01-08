@@ -1,5 +1,243 @@
 [
   {
+    "title": "A polyhedral structure controls programmable self-assembly",
+    "summary": "<p>Nature Physics, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41567-025-03120-3\">doi:10.1038/s41567-025-03120-3</a></p>Programmable self-assembly can help construct complex nanostructures. Now a mathematical framework can identify if and how a particular structure can be assembled.",
+    "url": "https://www.nature.com/articles/s41567-025-03120-3",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Nature Physics",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41567-025-03120-3"
+    ],
+    "matched_keywords": [
+      "self-assembly"
+    ],
+    "analysis_result": {
+      "score": 55,
+      "summary": "A Nature Physics framework that predicts whether and how polyhedral architectures can be programmably self-assembled, offering broadly relevant theory for understanding how complex structures could emerge from simple building blocks in prebiotic contexts."
+    }
+  },
+  {
+    "title": "The primary cilium controls programmed cell death via its proteasome-regulating function",
+    "summary": "Primary cilia are tiny cellular protrusions of nearly every vertebrate cell controlling multiple cellular processes, such as proliferation, differentiation, migration etc. Their dysfunction results in severe human diseases collectively referred to as ciliopathies. Remarkably, many ciliopathies are associated with increased programmed cell death (PCD). However, it is largely unknown how primary cilia regulate PCD. In in vitro (murine and human cells) and in vivo (Xenopus laevis and mouse) models, we observed elevated PCD in the absence of the ciliopathy protein RPGRIP1L. Mechanistically, our data elucidated that RPGRIP1L controls PCD by governing the activity of the ciliary proteasome. By using super-resolution microscopy, we first showed that the apoptosis inducer MOAP1 localises to primary cilia. Furthermore, our investigations revealed that RPGRIP1L controls PCD via the degradation of MOAP1 by the ciliary proteasome. Based on our finding that two more ciliopathy proteins, TCTN1 and CEP290, modulate PCD via regulating the activity of the ciliary proteasome, we suggest that the proteasomal degradation of MOAP1 represents a general mechanism by which primary cilia control PCD.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698216v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "In the Pursuit of the Total Synthesis of Pestalustaine A: Structural Revision and Formation of Original Strained Tricyclic Architectures",
+    "summary": "We report our quest toward the total synthesis of the reported structure of the sesquiterpene pestalustaine A and its unprecedented tricyclic skeleton. Our retrosynthesis involved an transannular Michael addition of a 1,3-keto-ester and enal-containing bridged-7,7-bicycle obtained from the ring expansion of a chiral disubstituted cyclohexanone and stereoselective Hosomi-Sakurai reaction. Serendipity, allowed us to uncover powerful divergent and unexpexpected cyclizations of this bicycle in ionic or oxidative conditions giving access to complex tricyclic architectures such as tricyclo[5.2.1.12,5]undecane, octahydro-1,5-methanonaphthalene, octahydro-12,6-methanonaphthalene frameworks and the octahydro-1,5-methanoazulene reported skeleton of pestalustaine A. The present synthetic study also led to note a discrepancy between the reported structure of pestalustaine A and the 2D NMR data which led to propose a revised structure of the natural product to a caryophyllene-type framework.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-673gj?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "In the Pursuit of the Total Synthesis of Pestalustaine A: Structural Revision and Formation of Original Strained Tricyclic Architectures",
+    "summary": "We report our quest toward the total synthesis of the reported structure of the sesquiterpene pestalustaine A and its unprecedented tricyclic skeleton. Our retrosynthesis involved an transannular Michael addition of a 1,3-keto-ester and enal-containing bridged-7,7-bicycle obtained from the ring expansion of a chiral disubstituted cyclohexanone and stereoselective Hosomi-Sakurai reaction. Serendipity, allowed us to uncover powerful divergent and unexpexpected cyclizations of this bicycle in ionic or oxidative conditions giving access to complex tricyclic architectures such as tricyclo[5.2.1.12,5]undecane, octahydro-1,5-methanonaphthalene, octahydro-12,6-methanonaphthalene frameworks and the octahydro-1,5-methanoazulene reported skeleton of pestalustaine A. The present synthetic study also led to note a discrepancy between the reported structure of pestalustaine A and the 2D NMR data which led to propose a revised structure of the natural product to a caryophyllene-type framework.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-673gj?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Data-driven inverse design of multifunctional bicontinuous multiscale structures",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68089-2\">doi:10.1038/s41467-025-68089-2</a></p>This study presents a 3D large-range, boundary-identical, and open-cell microstructure datasets for the fast data-driven inverse design of bicontinuous multiscale structures with tunable elasticity and permeability for multifunctional applications.",
+    "url": "https://www.nature.com/articles/s41467-025-68089-2",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Volumetric compression regulates the phase separation of AXIN and acts as an operational amplifier to bidirectionally modulate Wnt signaling in organoids",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68209-y\">doi:10.1038/s41467-025-68209-y</a></p>The scaffold protein AXIN can promote the formation of two opposing complexes: the Wnt signalosome and a degradation complex that inhibits Wnt. Here, the authors show that mechanical compression and the presence/absence of Wnt ligand are inputs in a circuit that acts as a logic gate to control which complex is formed.",
+    "url": "https://www.nature.com/articles/s41467-025-68209-y",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A compact and inducible dCas12f-based CRISPRa platform for programmable in vivo gene activation",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68183-5\">doi:10.1038/s41467-025-68183-5</a></p>Precise activation of endogenous genes is a powerful strategy for research and therapy, but existing tools are too large for efficient delivery. Here, authors create a compact and programmable CRISPRa platform that can be remotely controlled and shows therapeutic benefits in mouse disease models.",
+    "url": "https://www.nature.com/articles/s41467-025-68183-5",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bacteria may not be good at chemotaxis",
+    "summary": "<p>Nature Physics, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41567-025-03103-4\">doi:10.1038/s41567-025-03103-4</a></p>Bacteria appear to be masters of chemotaxis, but it is unclear how well they process chemical information. A study now argues that cells squander most sensory information, making chemotaxis far less efficient than established physical limits allow.",
+    "url": "https://www.nature.com/articles/s41567-025-03103-4",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Nature Physics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "<i>E. coli</i> chemosensing accuracy is not limited by stochastic molecule arrivals",
+    "summary": "<p>Nature Physics, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41567-025-03111-4\">doi:10.1038/s41567-025-03111-4</a></p>The chemosensing accuracy of E. coli cells is shown to be limited by internal noise in signal processing, rather than the stochasticity of molecule arrivals at their receptors, contrary to long-held understanding in the field.",
+    "url": "https://www.nature.com/articles/s41567-025-03111-4",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Nature Physics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Comment on <em>\"</em> Protein post-translational modifications and tumor immunity: A pan-cancer perspective<em>\"</em>",
+    "summary": "<p>Publication date: Available online 7 January 2026</p><p><b>Source:</b> Physics of Life Reviews</p><p>Author(s): Yongzheng Han, Chengming Li, Yuanhua Qin, Guangzhen Wu</p>",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1571064526000023?dgcid=rss_sd_all",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Physics of Life Reviews",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Volumetric compression regulates the phase separation of AXIN and acts as an operational amplifier to bidirectionally modulate Wnt signaling in organoids",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68209-y",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A compact and inducible dCas12f-based CRISPRa platform for programmable in vivo gene activation",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68183-5",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Spatiotemporal regulation of MKK4 dictates switch-like JNK activation and binary cell-fate decisions",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67943-7",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bacterial chromatin remodeling associated with transcription-induced domains at pathogenicity Islands",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67746-w",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Epigenetic aging and lifespan reflect reproductive history in the Finnish Twin Cohort",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67798-y",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Complete transition from chromosomal to cytoplasmic sex determination during prolonged Wolbachia symbiosis",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67993-x",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Integrative transcriptome-wide association analyses reveal PRKCG-linked GABAergic dysfunction in Fragile X-associated tremor/ataxia syndrome",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68163-9",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "USP10 promotes glioma stem cell maintenance and glioblastoma growth by antagonizing DTX3L-mediated SATB2 ubiquitination",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67418-9",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new science-fiction shows of 2026",
+    "summary": "From Fallout and Gen Z Star Trek to the classic Neuromancer, you will be glued to the TV this year, says TV columnist Bethan Ackerley",
+    "url": "https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T18:00:00Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new science-fiction shows of 2026",
+    "summary": "From Fallout and Gen Z Star Trek to the classic Neuromancer, you will be glued to the TV this year, says TV columnist Bethan Ackerley",
+    "url": "https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T18:00:00Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The best new science-fiction shows of 2026",
+    "summary": "From Fallout and Gen Z Star Trek to the classic Neuromancer, you will be glued to the TV this year, says TV columnist Bethan Ackerley",
+    "url": "https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-07T18:00:00Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Peptide-Directed Folding of the Elusive RNA i-Motif",
     "summary": "Folded RNA structures are increasingly being recognised as key regulators in biological processes, yet the RNA i-motif remains poorly characterised due to its low stability and lack of selective molecular probes. Here, we describe the first small molecule \u2013 a short peptide \u2013 that binds the elusive RNA i-motif. Our minimalist peptide RGGFGGRGG is derived from the intrinsically disordered region of the protein Nucleolin and binds to folded RNA over DNA with >5x selectivity. The binding of two peptide molecules folds the RNA i-motif at a higher pH than under native conditions. This folded, peptide-bound structure can still bind other guests, such as the intercalator thiazole orange, displaying heteroallosteric properties. Our peptide binding is driven by more than simple electrostatic attraction, exploiting the subtle differences in steric complementarity and hydration of the compact RNA structures relative to DNA congeners and unfolded strands. Our findings underline the potential of minimalistic peptide scaffolds as selective binders for non-canonical RNA structures, allowing for the probing and modulation of RNA topologies.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss",

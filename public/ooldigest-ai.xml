@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T10:20:50.997359+00:00</updated>
+  <updated>2026-01-08T11:18:03.677116+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] nature.com - Nature Physics ▶ A polyhedral structure controls programmable self-assembly</title>
+    <link href="https://www.nature.com/articles/s41567-025-03120-3"/>
+    <id>https://www.nature.com/articles/s41567-025-03120-3</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Nature Physics, Published online: 08 January 2026; doi:10.1038/s41567-025-03120-3 Programmable self-assembly can help construct complex nanostructures. Now a mathematical framework can identify if and</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
+<p><strong>AI Decision:</strong> A Nature Physics framework that predicts whether and how polyhedral architectures can be programmably self-assembled, offering broadly relevant theory for understanding how complex structures could emerge from simple building blocks in prebiotic contexts.</p>
+<p><strong>Abstract:</strong> Nature Physics, Published online: 08 January 2026; doi:10.1038/s41567-025-03120-3 Programmable self-assembly can help construct complex nanostructures. Now a mathematical framework can identify if and how a particular structure can be assembled.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41567-025-03120-3">https://www.nature.com/articles/s41567-025-03120-3</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41567-025-03120-3">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [65] ChemRxiv ▶ Peptide-Directed Folding of the Elusive RNA i-Motif</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss"/>

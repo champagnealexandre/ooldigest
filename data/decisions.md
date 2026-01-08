@@ -1,5 +1,26 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [A polyhedral structure controls programmable self-assembly](https://www.nature.com/articles/s41567-025-03120-3) |
+| keyword_rejected | - | [The best new science-fiction shows of 2026](https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new science-fiction shows of 2026](https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The best new science-fiction shows of 2026](https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [USP10 promotes glioma stem cell maintenance and glioblastoma](https://www.nature.com/articles/s41467-025-67418-9) |
+| keyword_rejected | - | [Integrative transcriptome-wide association analyses reveal P](https://www.nature.com/articles/s41467-025-68163-9) |
+| keyword_rejected | - | [Complete transition from chromosomal to cytoplasmic sex dete](https://www.nature.com/articles/s41467-025-67993-x) |
+| keyword_rejected | - | [Epigenetic aging and lifespan reflect reproductive history i](https://www.nature.com/articles/s41467-025-67798-y) |
+| keyword_rejected | - | [Bacterial chromatin remodeling associated with transcription](https://www.nature.com/articles/s41467-025-67746-w) |
+| keyword_rejected | - | [Spatiotemporal regulation of MKK4 dictates switch-like JNK a](https://www.nature.com/articles/s41467-025-67943-7) |
+| keyword_rejected | - | [A compact and inducible dCas12f-based CRISPRa platform for p](https://www.nature.com/articles/s41467-025-68183-5) |
+| keyword_rejected | - | [Volumetric compression regulates the phase separation of AXI](https://www.nature.com/articles/s41467-025-68209-y) |
+| keyword_rejected | - | [Comment on <em>"</em> Protein post-translational modificatio](https://www.sciencedirect.com/science/article/pii/S1571064526000023?dgcid=rss_sd_all) |
+| keyword_rejected | - | [<i>E. coli</i> chemosensing accuracy is not limited by stoch](https://www.nature.com/articles/s41567-025-03111-4) |
+| keyword_rejected | - | [Bacteria may not be good at chemotaxis](https://www.nature.com/articles/s41567-025-03103-4) |
+| keyword_rejected | - | [A compact and inducible dCas12f-based CRISPRa platform for p](https://www.nature.com/articles/s41467-025-68183-5) |
+| keyword_rejected | - | [Volumetric compression regulates the phase separation of AXI](https://www.nature.com/articles/s41467-025-68209-y) |
+| keyword_rejected | - | [Data-driven inverse design of multifunctional bicontinuous m](https://www.nature.com/articles/s41467-025-68089-2) |
+| keyword_rejected | - | [In the Pursuit of the Total Synthesis of Pestalustaine A: St](https://dx.doi.org/10.26434/chemrxiv-2026-673gj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [In the Pursuit of the Total Synthesis of Pestalustaine A: St](https://dx.doi.org/10.26434/chemrxiv-2026-673gj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The primary cilium controls programmed cell death via its pr](https://www.biorxiv.org/content/10.64898/2026.01.07.698216v1?rss=1) |
 | ai_scored | 40 | [Efficient nucleic acid delivery in mammalian and plant cells](https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss) |
 | ai_scored | 55 | [Efficient nucleic acid delivery in mammalian and plant cells](https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss) |
 | ai_scored | 65 | [The Physics of Causation](https://comdig.unam.mx/2026/01/08/the-physics-of-causation/) |
