@@ -1,5 +1,27 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Jellyfish and Sea Anemones Sleep Just Like Us](https://www.scientificamerican.com/article/jellyfish-and-sea-anemones-sleep-just-like-us/) |
+| keyword_rejected | - | [Why connecting with nature shouldn't mean disconnecting from](https://www.newscientist.com/article/mg26935773-600-why-connecting-with-nature-shouldnt-mean-disconnecting-from-science/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Will mpox go global again? Research shows it's evolving in c](https://www.nature.com/articles/d41586-025-04154-6) |
+| keyword_rejected | - | [Author Correction: Structural insights into BCDX2 complex fu](https://www.nature.com/articles/s41586-025-10081-3) |
+| keyword_rejected | - | [Why connecting with nature shouldn't mean disconnecting from](https://www.newscientist.com/article/mg26935773-600-why-connecting-with-nature-shouldnt-mean-disconnecting-from-science/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Moins chers et plus légers, les exosquelettes se dévoilent a](https://www.sciencesetavenir.fr/high-tech/moins-chers-et-plus-legers-les-exosquelettes-s-inserent-dans-nos-vies_190319?xtor=RSS-12) |
+| keyword_rejected | - | [Why connecting with nature shouldn't mean disconnecting from](https://www.newscientist.com/article/mg26935773-600-why-connecting-with-nature-shouldnt-mean-disconnecting-from-science/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bayesian deep learning for probabilistic aquifer vulnerabili](https://www.nature.com/articles/s41598-025-32612-8) |
+| keyword_rejected | - | [Development of an influenza D virus with an eight- or nine-s](https://www.nature.com/articles/s41598-025-34838-y) |
+| keyword_rejected | - | [Enhancing time scalability of spiking neural networks with d](https://www.nature.com/articles/s41598-025-34046-8) |
+| keyword_rejected | - | [Author Correction: An ABA-increased interaction of the PYL6 ](https://www.nature.com/articles/s41598-025-33609-z) |
+| keyword_rejected | - | [Correction: Lipodendriplexes mediated enhanced gene delivery](https://www.nature.com/articles/s41598-025-32325-y) |
+| keyword_rejected | - | [A Mechanophenotyping chip for high-throughput detection of m](https://www.nature.com/articles/s41467-025-68152-y) |
+| keyword_rejected | - | [Recent Advances in Gold catalyzed Tandem Reaction for the sy](https://dx.doi.org/10.26434/chemrxiv-2026-hxh1k?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Inverted metal-free active template synthesis of rotaxanes v](https://dx.doi.org/10.26434/chemrxiv-2026-1nz83?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [In Silico Isomerization Produces Apt Negative Data for VHTS ](https://dx.doi.org/10.26434/chemrxiv-2026-bgc3j?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Copper Nanoclusters with Atomic Precision as Organocatalysts](https://dx.doi.org/10.26434/chemrxiv-2026-m9zzm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Characterizing Nanostructured Films Using Phase Sensitive Vi](https://dx.doi.org/10.26434/chemrxiv-2025-vd9vx-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Recent Advances in Gold catalyzed Tandem Reaction for the sy](https://dx.doi.org/10.26434/chemrxiv-2026-hxh1k?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Inverted metal-free active template synthesis of rotaxanes v](https://dx.doi.org/10.26434/chemrxiv-2026-1nz83?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Differential Coats-Redfern Framework for Conversion-Resolved](https://dx.doi.org/10.26434/chemrxiv-2025-2wfh3-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The Chemical Bond in Several Di-Atomics - Orbital Exchange C](https://dx.doi.org/10.26434/chemrxiv-2026-k73wv?rft_dat=source%3Ddrss) |
 | ai_scored | 55 | [A polyhedral structure controls programmable self-assembly](https://www.nature.com/articles/s41567-025-03120-3) |
 | keyword_rejected | - | [The best new science-fiction shows of 2026](https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [The best new science-fiction shows of 2026](https://www.newscientist.com/article/mg26935770-300-the-best-new-science-fiction-shows-of-2026/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
