@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Application of various agricultural practices on sorghum for](https://www.nature.com/articles/s41598-025-32544-3) |
+| keyword_rejected | - | [Weight regain seems to occur within 2 years of stopping obes](https://www.newscientist.com/article/2510549-weight-regain-seems-to-occur-within-2-years-of-stopping-obesity-drugs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Exercise may relieve depression as effectively as antidepres](https://www.newscientist.com/article/2510492-exercise-may-relieve-depression-as-effectively-as-antidepressants/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Weight regain seems to occur within 2 years of stopping obes](https://www.newscientist.com/article/2510549-weight-regain-seems-to-occur-within-2-years-of-stopping-obesity-drugs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Exercise may relieve depression as effectively as antidepres](https://www.newscientist.com/article/2510492-exercise-may-relieve-depression-as-effectively-as-antidepressants/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Weight regain seems to occur within 2 years of stopping obes](https://www.newscientist.com/article/2510549-weight-regain-seems-to-occur-within-2-years-of-stopping-obesity-drugs/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Exercise may relieve depression as effectively as antidepres](https://www.newscientist.com/article/2510492-exercise-may-relieve-depression-as-effectively-as-antidepressants/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Trump ordonne le retrait des Etats-Unis d'un traité de référ](https://www.sciencesetavenir.fr/nature-environnement/trump-ordonne-le-retrait-des-etats-unis-d-un-traite-de-reference-sur-le-climat_190317?xtor=RSS-15) |
+| keyword_rejected | - | [The association of parental COVID-19 vaccination decisions w](https://www.nature.com/articles/s41598-026-35403-x) |
+| keyword_rejected | - | [Nonparametric statistical approach to wind farm siting in Po](https://www.nature.com/articles/s41598-026-35160-x) |
+| keyword_rejected | - | [Geographical variation in the quality of <i>Chimonobambusa r](https://www.nature.com/articles/s41598-025-34834-2) |
+| keyword_rejected | - | [Influence of plasma, surface, and angle on interlinked X-ray](https://www.nature.com/articles/s41598-025-34221-x) |
+| keyword_rejected | - | [A block matrix incremental feature selection method based on](https://www.nature.com/articles/s41598-025-33384-x) |
+| keyword_rejected | - | [Short and medium term efficacy of an online behaviour change](https://www.nature.com/articles/s41598-025-34470-w) |
 | ai_scored | 25 | [Pulsed evolution shaped extant angiosperm pollen disparity](https://www.nature.com/articles/s41467-025-68253-8) |
 | keyword_rejected | - | [Critical impact of automobile industry with advanced decisio](https://www.nature.com/articles/s41598-025-24344-6) |
 | keyword_rejected | - | [Electronegativity and entropy design of layered oxides for s](https://www.nature.com/articles/s41467-025-68016-5) |
