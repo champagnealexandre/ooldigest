@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Tree bark microbiome has important overlooked role in climat](https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Tree bark microbiome has important overlooked role in climat](https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Tree bark microbiome has important overlooked role in climat](https://www.newscientist.com/article/2510731-tree-bark-microbiome-has-important-overlooked-role-in-climate/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Chlorella-derived extracellular vesicle-based nanogels suppr](https://www.nature.com/articles/s41467-025-68140-2) |
+| keyword_rejected | - | [Early spatiotemporal dynamics of navigational affordance cod](https://www.nature.com/articles/s41467-025-68111-7) |
+| keyword_rejected | - | [Decoupling of stomatal conductance, transpiration and photos](https://www.nature.com/articles/s41467-025-68250-x) |
+| keyword_rejected | - | [Co-occurrence of diverse defense systems shapes complex micr](https://www.nature.com/articles/s41467-025-68174-6) |
+| keyword_rejected | - | [<i>Chlorella</i>-derived extracellular vesicle-based nanogel](https://www.nature.com/articles/s41467-025-68140-2) |
 | ai_scored | 45 | [Weak pervasive incompatibilities and compensatory adaptation](https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1) |
 | ai_scored | 45 | [The electrifying science behind Martian dust](https://phys.org/news/2026-01-electrifying-science-martian.html) |
 | ai_scored | 5 | [Ac-FAPI-04 Promotes Anti-tumor Immunity via IL-27 Activation](https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1) |
