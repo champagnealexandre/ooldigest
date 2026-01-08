@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Red tattoo ink causes man to lose all his hair and stop swea](https://www.newscientist.com/article/2510374-red-tattoo-ink-causes-man-to-lose-all-his-hair-and-stop-sweating/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Red tattoo ink causes man to lose all his hair and stop swea](https://www.newscientist.com/article/2510374-red-tattoo-ink-causes-man-to-lose-all-his-hair-and-stop-sweating/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Red tattoo ink causes man to lose all his hair and stop swea](https://www.newscientist.com/article/2510374-red-tattoo-ink-causes-man-to-lose-all-his-hair-and-stop-sweating/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Antecedent enhancer activity predicts future susceptibility ](https://www.nature.com/articles/s41467-025-65346-2) |
+| keyword_rejected | - | [Structural basis for the subtype-selectivity of KCa2.2 chann](https://www.nature.com/articles/s41467-025-67232-3) |
+| keyword_rejected | - | [Quantitative optical nanoscopy of mitochondrial-derived vesi](https://www.nature.com/articles/s41467-025-68160-y) |
+| keyword_rejected | - | [SOX2 confers tumour permissiveness in a specific skin progen](https://www.nature.com/articles/s41467-025-66251-4) |
+| keyword_rejected | - | [Climat : Trump retire les États-Unis des grands accords et c](https://www.sciencesetavenir.fr/politique/trump-ordonne-le-retrait-des-etats-unis-d-un-traite-de-reference-sur-le-climat_190317) |
+| keyword_rejected | - | [Tempêtes Goretti et Elli : une partie de l'Europe se prépare](https://www.sciencesetavenir.fr/nature-environnement/tempetes-goretti-et-elli-une-partie-de-l-europe-se-prepare-a-l-arrivee-de-fortes-intemperies_190329?xtor=RSS-15) |
+| keyword_rejected | - | [Hierarchical analysis of spreading dynamics in complex syste](https://comdig.unam.mx/2026/01/08/hierarchical-analysis-of-spreading-dynamics-in-complex-systems/) |
+| keyword_rejected | - | [Study offers possible solution to a gravitational wave myste](https://phys.org/news/2026-01-solution-gravitational-mystery.html) |
+| keyword_rejected | - | [NASA cancels spacewalk due to medical issue and may bring th](https://phys.org/news/2026-01-nasa-cancels-spacewalk-due-medical.html) |
+| keyword_rejected | - | [A hybrid stacked autoencoder and support vector machines-bas](https://www.nature.com/articles/s41598-025-34430-4) |
+| keyword_rejected | - | [Pupil dilation offers a time-window on prediction error](https://elifesciences.org/articles/105287) |
 | ai_scored | 50 | [Dynamic RNA Polymerase compartments organize the transcripti](https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1) |
 | ai_scored | 45 | [DeepKOALA: A Fast and Accurate Deep Learning Framework for K](https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1) |
 | keyword_rejected | - | [Ancêtre d’Homo sapiens, militarisation de l’espace et prises](https://www.sciencesetavenir.fr/ultrabreves/ancetre-d-homo-sapiens-militarisation-de-l-espace-et-prises-accidentelles-de-dauphins-l-actu-des-sciences-en-ultrabreves_190326) |
