@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [NASA Postpones Spacewalk Just Hours Before Astronauts Were t](https://www.scientificamerican.com/article/nasa-postpones-spacewalk-just-hours-before-astronauts-were-to-exit-iss/) |
+| keyword_rejected | - | [Dynamic microvascular monitoring with miniaturized omnidirec](https://www.nature.com/articles/s41467-025-68190-6) |
+| keyword_rejected | - | [Boron neutron capture therapy preserves immune cells and ind](https://www.nature.com/articles/s41467-025-67984-y) |
+| keyword_rejected | - | [From Triangular Correlated Paramagnet to Multi-$q$ Noncoplan](http://link.aps.org/doi/10.1103/jl6t-ymd1) |
+| keyword_rejected | - | [Physical Spin Torques from Exactly Constrained Exchange-Corr](http://link.aps.org/doi/10.1103/lt1f-8pz2) |
+| keyword_rejected | - | [Low-Energy Free-Electron Nonclassical Lasing](http://link.aps.org/doi/10.1103/nhqg-1v2k) |
+| keyword_rejected | - | [Gravitational-Wave Signatures of Nonviolent Nonlocality](http://link.aps.org/doi/10.1103/yj2l-3hml) |
+| keyword_rejected | - | [Pulsar Polarization Array Limits on Ultralight Axionlike Dar](http://link.aps.org/doi/10.1103/mptv-3x6g) |
+| keyword_rejected | - | [Superresolution Imaging with Entanglement-Enhanced Telescopy](http://link.aps.org/doi/10.1103/354q-ch63) |
+| keyword_rejected | - | [Transport Approach to Quantum State Tomography](http://link.aps.org/doi/10.1103/zk56-jn7t) |
+| keyword_rejected | - | [Noise-Agnostic Unbiased Quantum Error Mitigation for Logical](http://link.aps.org/doi/10.1103/2n23-4qg8) |
+| keyword_rejected | - | [Uncovering the mechanisms of Jingui Shenqi pill alleviates t](https://www.nature.com/articles/s41598-026-35129-w) |
+| keyword_rejected | - | [Longitudinal metabolome profiling from pregnancy through chi](https://www.nature.com/articles/s41467-025-68115-3) |
+| keyword_rejected | - | [Dynamic microvascular monitoring with miniaturized omnidirec](https://www.nature.com/articles/s41467-025-68190-6) |
+| keyword_rejected | - | [Boron neutron capture therapy preserves immune cells and ind](https://www.nature.com/articles/s41467-025-67984-y) |
+| keyword_rejected | - | [Ladderization: A Powerful Strategy for Controlling Supramole](https://dx.doi.org/10.26434/chemrxiv-2026-0hz7r?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Ladderization: A Powerful Strategy for Controlling Supramole](https://dx.doi.org/10.26434/chemrxiv-2026-0hz7r?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [Evolution at experimental epidemic fronts speeds up parasite](https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1) |
 | keyword_rejected | - | [Schmidt Sciences Announces Plan for Lazuli, a Private Space ](https://www.scientificamerican.com/article/schmidt-sciences-announces-plan-for-lazuli-a-private-space-telescope/) |
 | keyword_rejected | - | [OpenAI Would Like You to Share Your Health Data with Its Cha](https://www.scientificamerican.com/article/openai-would-like-you-to-share-your-health-data-with-its-chatgpt/) |
