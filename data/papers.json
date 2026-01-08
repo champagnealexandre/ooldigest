@@ -1,5 +1,572 @@
 [
   {
+    "title": "Simultaneous packing structures in superionic water may explain ice giant magnetic fields",
+    "summary": "Superionic water\u2014the hot, black and strangely conductive form of ice that exists in the center of distant planets\u2014was predicted in the 1980s and first recreated in a laboratory in 2018. With each closer look, it continues to surprise researchers.",
+    "url": "https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html",
+    "published_date": "2026-01-08T19:50:03Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Models of superionic water\u2019s crystal packing in ice-giant interiors may explain Uranus/Neptune-like magnetic fields, offering broad planetary-water context but little direct relevance to origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Conserved genome regulatory elements found in both vertebrates and echinoderms",
+    "summary": "The conservation of genome regulatory elements over long periods of evolution is not limited to vertebrates, as previously thought, but also in echinoderms (invertebrates). This is one of the most notable conclusions of a study published in the journal Nature Ecology & Evolution, which expands our knowledge of the mechanisms governing genomic regulation and biological evolution.",
+    "url": "https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html",
+    "published_date": "2026-01-08T20:16:23Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Study reports long-term conservation of genomic regulatory elements beyond vertebrates into echinoderms, informing animal evolutionary genomics but only indirectly relevant to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Hierarchical bounds on RNA chromatin statistical dependence across cellular states in paired single-cell multiome data",
+    "summary": "Understanding how transcriptional output and chromatin accessibility coordinate across cellular states remains a central challenge in multimodal single-cell biology. Here, we establish explicit hierarchical empirical bounds on RNA-chromatin statistical dependence using a strictly falsification-driven, information-theoretic analysis of paired RNA-seq and ATAC-seq data. Our contribution is not to assert universal coupling, but to quantify the maximum intra-state coupling that survives adversarial nulls, thereby converting qualitative intuition into empirical bounds. Leveraging unimodal latent representations and adversarial null models, we quantify both the existence and the limits of cross-modal dependence across organizational scales. At the population level, global RNA-ATAC mutual information is strong and reproducible across donors, but is shown to be overwhelmingly dominated by cell-type composition rather than fine-grained regulatory coordination. When cellular state is explicitly controlled, intra-state RNA-ATAC coupling collapses to null expectations in the majority of populations, directly falsifying the hypothesis of a universal within-state regulatory channel. Despite this collapse, a weak but statistically robust residual coupling persists in a restricted subset of highly dynamic states, including erythroid differentiation compartments, activated T cells, and NK cells. This residual signal survives stringent local permutation tests and conditional mutual information analysis, demonstrating that it cannot be reduced to compositional mixing alone. Quantitatively, residual within-state dependence is consistently an order of magnitude smaller than global dependence, placing an empirical upper bound on within-state RNA-ATAC coordination in this dataset. Donor-resolved ratios rho = I(R;A|S)/I(R;A) indicate that most of the global dependence is removed by conditioning on state; operationally, we refer to the removed fraction (1 - rho) as composition-dominated dependence. Throughout, \"state-contingent statistical dependence\" is used strictly as an operational descriptor rather than a causal claim: mutual information and conditional mutual information quantify statistical dependence only, not directionality or mechanism. This framing constrains downstream mechanistic interpretation and future multimodal modeling.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Using paired single-cell RNA-seq and ATAC-seq, the authors apply falsification-driven information theory to show most global RNA\u2013chromatin dependence is explained by cell-state composition, with only weak residual within-state coupling in a few dynamic immune/erythroid states."
+    }
+  },
+  {
+    "title": "A Unified and Interpretable Framework for Evaluating Fluorescence Trace Quality in Transcription Kinetics",
+    "summary": "Quantifying transcriptional dynamics from fluorescence traces is a powerful approach to understanding gene regulation, but such analysis critically depends on the quality of the fluorescence signal. Experimental researchers often lack an objective and computationally simple way to assess trace quality before kinetic modeling. In this study, we fill in this gap via systematically investigating two key factors (i.e., signal-to-noise ratio (SNR) and trace length) using synthetic data generated from a composite-state Hidden Markov Model (cpHMM) simulator. By analyzing thousands of simulated traces, we identified quantitative thresholds (SNR [&ge;] 30 dB and length [&ge;] 360) beyond which transcriptional dynamics can be reliably captured for kinetic inference. Building on these findings, we further discovered a unified and easily computable quality indicator based on the difference between the first two autocorrelation lags. A threshold value of approximately 0.07 effectively separates reliable from low quality traces, providing a simple yet robust criterion for data selection. Together, these results establish a practical framework for assessing fluorescence trace reliability, offering experimental researchers an interpretable and computationally efficient tool to ensure data quality prior to transcription kinetics modeling.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698175v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "CELLWHISPER: INFERENCE OF DIRECT CELL-CELL COMMUNICATION FROM SPATIAL TRANSCRIPTOMICS",
+    "summary": "Cell-cell communication underlies tissue function, and several computational tools aim to recover such communication from spatial transcriptomics data. However, these tools are prone to confounders such as cell-level gene expression and spatial distribution of cell types. Moreover, existing methods have largely focused on ligand-receptor signaling, leaving gap junction (GJ) communication poorly charted. We present CellWHISPER, a statistically grounded method for inferring direct communication mechanisms in the form of cell-type-signaling-gene quadruplets. CellWHISPER employs an analytical null model that conditions on spatial organization and expression profiles of cell types, yielding calibrated z-scores that provide improved false-positive control. To uncover salient communication patterns, CellWHISPER also includes a latent variable model that distils recurrent patterns into maps of mutual preferences among cell types and signaling genes. Applied to mouse brain STEREO-seq and Xenium data, CellWHISPER recapitulates established glial coupling, identifies novel candidates such as excitatory neuron-astrocyte GJ interactions, and highlights conserved and condition-specific mechanisms. Differential analysis in an Alzheimer's disease model revealed preserved astroglial Connexin43 networks and increased microglia-associated GJ communication. Together, these results establish CellWHISPER as a confounder-aware, scalable method for mapping direct intercellular communication from spatial transcriptomics data, enabling systematic discovery of cellular crosstalk.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.697982v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Absorption and fixation times for evolutionary processes on graphs",
+    "summary": "In this paper, we study the absorption and fixation times for evolutionary processes on graphs, under different updating rules. While in Moran process a single neighbour is randomly chosen to be replaced, in proliferation processes other neighbours can be replaced using Bernoulli or binomial draws depending on 0 < p <= 1. There is a critical value p_c such that the proliferation is advantageous or disadvantageous in terms of fixation probability depending on whether p>p_c or p<p_c. We clarify the role of symmetries for computing the fixation time in Moran process. We show that the Maruyama-Kimura symmetry depend on the graph structure induced in each state, implying asymmetry for all graphs except cliques and cycles. There is a fitness value, not necessarily 1, beyond which the fixation time decreases monotonically. We apply Harris graphical method to prove that the fixation time decreases monotonically depending on p. Thus there exists another value p_t for which the proliferation is advantageous or disadvantageous in terms of time. However, at the critical level p = p_c, the proliferation is highly advantageous when r tends to infinity.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698154v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Site-specific phosphorylation affects the structure and interactions of the Ycf1p R region",
+    "summary": "Many ATP binding cassette (ABC) proteins function in active transport of solutes across biological membranes. At minimum, ABC proteins are composed of two repeats, each consisting of a transmembrane domain (TMD) and a nucleotide binding domain (NBD). In many ABC proteins, the TMD-NBD halves are connected by an intrinsically disordered linker that regulates the activity of the ABC protein through phosphorylation. These regulatory (R) regions are often invisible or at low-resolution in electron cryo-microscopy maps, and thus information about how R region phosphorylation controls ABC transporter activity is missing. Here we employ nuclear magnetic resonance (NMR) spectroscopy to discern the structural features and interactions of the R region from the yeast cadmium factor 1 protein (Ycf1p), a member of the C subfamily of ABC proteins that is homologous to human multidrug resistance protein 1. Our data show that the entire R region possesses residual secondary structure that changes with phosphorylation, including for often-invisible R region segments. The data demonstrate R region interactions with NBD1 and, for the first time, NBD2. NBD/R region interactions depend on the phosphorylation state of the R region and the nucleotide-bound and oligomeric states of the NBDs, indicating how R region interactions change in the transport cycle. Complementary biochemical studies show that R region phosphorylation affects the ATPase activity of the NBDs. The molecular-level information provided by the solution NMR studies presented allow for a more complete model of how R region phosphorylation modulates the activities of Ycf1p and related ABC proteins.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698183v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Structural elucidation of the hexameric MmpS4-MmpL4 complex from Mycobacterium tuberculosis",
+    "summary": "Mycobacterium tuberculosis contains thirteen Mycobacterial membrane protein Large (MmpL) transporters, which belong to the family of secondary active RND transporters. MmpL4 and MmpL5, together with their operon partners MmpS4 and MmpS5, export the mycobacterial siderophore mycobactin and the last resort TB drug bedaquiline. Recently, we determined a structure of the MmpL4 monomer in complex with desferrated mycobactin, which lacked a functionally essential coiled-coil domain predicted to extend far into the periplasm. Here, we present a cryo-EM structure of the hexameric (MmpS4)3-(MmpL4)3 complex, which was enabled by rational disulfide cross-links based on AlphaFold predictions. We observed density for the coiled-coil domain, which protrudes into the periplasmic space at an angle of around 60{degrees} relative to the symmetry axis of the MmpL4 trimer. In the context of the hexameric complex, MmpL4s conformation differs strikingly from the one observed for monomeric MmpL4, which includes formation of a large cavity in the periplasmic domain and rearrangements of conserved proton coupling residues at the transmembrane domain. Our work provides an experimental workflow to obtain single particle cryo-EM structures of labile multiprotein complexes by AlphaFold-informed stabilization of predicted protein interfaces.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698164v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A newly identified three-domain C-type lectin associated with blood feeding in the tick Ixodes ricinus",
+    "summary": "Ixodes ricinus ticks are widely distributed throughout Europe and represent major vectors of tick-borne encephalitis virus and the Lyme borreliosis agent Borrelia burgdorferi sensu lato. In invertebrates, C-type lectins are commonly associated with innate immune functions, and several such lectins have been predicted in I. ricinus. Given the limited knowledge of lectin function in ticks, we characterized three carbohydrate-recognition domains (CRDs) of a novel C-type lectin identified in the I. ricinus transcriptome (IrCLec). The tertiary structures of CRD1, CRD2, and CRD3, predicted using the AlphaFold 3 program, corresponded to the typical structure of C-type lectins. Conserved carbohydrate-binding motifs were identified in CRD3, whereas non-canonical motifs were present in CRD1 and CRD2. Recombinant His-tagged CRDs were produced and analysed for carbohydrate-binding activity. Glycan array analysis revealed binding of all three domains to selected glycans, while hemagglutination assays demonstrated pronounced binding activity of CRD1 and CRD2 toward human erythrocyte antigens of blood groups A, B, and O. IrCLec expression was highest in the tick midgut and also detected in hemocytes, with expression levels increasing after blood feeding. RNAi-mediated silencing of IrCLec impaired blood feeding efficiency in tick nymphs. Together, these results indicate that IrCLec plays an important role in blood feeding and may additionally participate in lectin-mediated host-pathogen or host-blood component interactions.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698205v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Quantifying Adipose Tissue Thermogenesis Using Highly Sensitive Isothermal Microcalorimetry",
+    "summary": "Isothermal microcalorimetry enables direct measurement of thermogenic heat production, but optimal conditions for its application to adipose tissue have not been systematically defined. Here, we establish experimental parameters for quantifying thermogenesis using the CalScreener, a high-throughput isothermal microcalorimetry platform, across adipocyte organoids, freshly isolated adipocytes, and intact adipose tissue explants. Heat output scaled with spheroid size within a defined range and increased linearly with spheroid number per well, improving measurement consistency. Freshly isolated adipocytes and intact adipose tissue exhibited robust and depot-specific thermogenic activity that was sensitive to physiological modulation. Notably, intact adipose tissue retained functional thermogenic capacity for at least 6 hours ex vivo when maintained in nutrient-containing medium, enabling batch analysis of large cohorts. In contrast, storage conditions designed to preserve mitochondrial integrity during cold handling suppressed basal heat production and did not maintain integrated thermogenic activity, despite preserved adrenergic responsiveness. Together, these results provide practical guidance for tissue handling, assay design, and interpretation of isothermal microcalorimetry-based measurements of adipose tissue thermogenesis.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698169v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Rethinking drug use and addiction",
+    "summary": "Science, Volume 391, Issue 6781, Page 131-131, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec7911?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The paradox of conscientious medicine",
+    "summary": "Science, Volume 391, Issue 6781, Page 130-130, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec8685?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Mapping somatosensory afferent circuitry to bone identifies neurotrophic signals required for fracture healing",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adr9608?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Deep contrastive learning enables genome-wide virtual screening",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.ads9530?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "IDH-mutant gliomas arise from glial progenitor cells harboring the initial driver mutation",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adt0559?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bark microbiota modulate climate-active gas fluxes in Australian forests",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adu2182?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Leveraging triatropic rearrangements for stereoselective skeletal reshuffling",
+    "summary": "Science, Volume 391, Issue 6781, Page 171-178, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adw3340?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ontogeny of the spinal cord dorsal horn",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adx5781?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Multivalent ligands regulate dimensional engineering for inverted perovskite solar modules",
+    "summary": "Science, Volume 391, Issue 6781, Page 153-159, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea0656?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Molecular press annealing enables robust perovskite solar cells",
+    "summary": "Science, Volume 391, Issue 6781, Page 164-170, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea8228?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The molecular basis of the binding and specific activation of rhizobial NodD by flavonoids",
+    "summary": "Science, Volume 391, Issue 6781, Page 184-189, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec3061?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Access to four-membered cyclic sulfinamides by energy transfer catalysis",
+    "summary": "Science, Volume 391, Issue 6781, Page 202-207, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec3158?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chinese Immune Multi-Omics Atlas",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adt3130?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dogs with a large vocabulary of object labels learn new labels by overhearing like 1.5-year-old infants",
+    "summary": "Science, Volume 391, Issue 6781, Page 160-163, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adq5474?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Self-induced Floquet magnons in magnetic vortices",
+    "summary": "Science, Volume 391, Issue 6781, Page 190-194, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adq9891?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Facial gestures are enacted through a cortical hierarchy of dynamic and stable codes",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea0890?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Data sharing helps avoid \u201csmoking gun\u201d claims of topological milestones",
+    "summary": "Science, Volume 391, Issue 6781, Page 137-142, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.adk9181?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Learning to lead",
+    "summary": "Science, Volume 391, Issue 6781, Page 210-210, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2259?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "In Other Journals",
+    "summary": "Science, Volume 391, Issue 6781, Page 144-145, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2262?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The source of IDH-mutant gliomas",
+    "summary": "Science, Volume 391, Issue 6781, Page 125-126, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed6843?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Making faces",
+    "summary": "Science, Volume 391, Issue 6781, Page 124-125, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed7126?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Not just a pain in the bone",
+    "summary": "Science, Volume 391, Issue 6781, Page 127-128, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed9273?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Tree bark microbes for climate management",
+    "summary": "Science, Volume 391, Issue 6781, Page 128-129, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aec9651?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Improve air quality in public transportation",
+    "summary": "Science, Volume 391, Issue 6781, Page 133-133, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed9350?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Iran\u2019s ancient Hyrcanian forests on fire",
+    "summary": "Science, Volume 391, Issue 6781, Page 133-133, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aee1473?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Iran\u2019s largest river in crisis",
+    "summary": "Science, Volume 391, Issue 6781, Page 132-132, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed9259?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Erratum for the Research Article \u201cInvasion impacts in terrestrial ecosystems: Global patterns and predictors\u201d by M. P. Thakur et al.",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aee9878?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The real da Vinci code",
+    "summary": "Science, Volume 391, Issue 6781, Page 118-123, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2260?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Can ecosystems recover after the deep sea is mined?",
+    "summary": "Science, Volume 391, Issue 6781, Page 110-111, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2598?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fake data from trial sites ruin studies, drug firms say",
+    "summary": "Science, Volume 391, Issue 6781, Page 112-114, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2599?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NIH leadership turmoil adds to politicization concerns",
+    "summary": "Science, Volume 391, Issue 6781, Page 114-115, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2600?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Jellyfish sleep a lot like us\u2014and for the same reasons",
+    "summary": "Science, Volume 391, Issue 6781, Page 115-115, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2601?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Art historians turn to biology",
+    "summary": "Science, Volume 391, Issue 6781, Page 121-121, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2597?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "New conflicts erupt over key virus database",
+    "summary": "Science, Volume 391, Issue 6781, Page 116-117, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2602?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Natural grasslands used for grazing livestock can mitigate climate change",
+    "summary": "Science, Volume 391, Issue 6781, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea8344?af=R",
+    "published_date": "2026-01-08T08:00:00Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Weathering budget cuts: Lessons from NASA",
+    "summary": "Science, Volume 391, Issue 6781, Page 109-109, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aed3920?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Did the illicit fentanyl trade experience a supply shock?",
+    "summary": "Science, Volume 391, Issue 6781, Page 134-136, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aea6130?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "In Science Journals",
+    "summary": "Science, Volume 391, Issue 6781, Page 143-145, January 2026. <br />",
+    "url": "https://www.science.org/doi/abs/10.1126/science.aef2261?af=R",
+    "published_date": "2026-01-08T07:00:05Z",
+    "source_feed": "Science",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "H\u00f4pital: \"tension dans tous les services d'urgences\", selon la ministre de la Sant\u00e9",
+    "summary": "La ministre de la Sant\u00e9 St\u00e9phanie Rist a fait \u00e9tat jeudi soir d'une \"tension dans tous les services d'urgences\" li\u00e9e aux \u00e9pid\u00e9mies hivernales, \u00e0 la neige et \u00e0 la gr\u00e8ve des m\u00e9decins lib\u00e9raux, qui s'est intensifi\u00e9e selon les chiffres de l'Assurance maladie.\n\"Il y a une tension dans tous les services d'urgences\" du pays, a d\u00e9clar\u00e9 St\u00e9phanie Rist lors d'une visite aux urgences de l'h\u00f4pital Saint-Antoine \u00e0 Paris.\n\"On arrive \u00e0 r\u00e9quisitionner s'il y a besoin\", a-t-elle ajout\u00e9, \u00e9voquant un \"moment compliqu\u00e9 o\u00f9 il y a l'\u00e9pid\u00e9mie de grippe, o\u00f9 il y a eu l'\u00e9pisode neigeux et la gr\u00e8ve des m\u00e9decins qui entra\u00eene une augmentation d'activit\u00e9 dans tous les services d'urgence\".",
+    "url": "https://www.sciencesetavenir.fr/sante/hopital-tension-dans-tous-les-services-d-urgences-selon-la-ministre-de-la-sante_190334?xtor=RSS-16",
+    "published_date": "2026-01-08T18:46:16Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Do Monkeys Make Faces on Purpose?",
+    "summary": "<p>A new study suggests that primate facial expressions may not just be reflex</p>",
+    "url": "https://www.scientificamerican.com/article/do-monkeys-make-faces-on-purpose/",
+    "published_date": "2026-01-08T19:00:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Naturally Occurring Network Structures At Vastly Different Scales",
     "summary": "<p>Editor&#8217;s note: Astrobiology has links to and from everything NASA does. I wish NASA would think outside the box when highlighting this topic &#8211; and use the word for this agency program i.e. &#8220;astrobiology&#8221; in so doing. Compare the structure of these two natural networks: A Cubic Millimeter of Mouse Brain Formation of the cosmic [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html\">Naturally Occurring Network Structures At Vastly Different Scales</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html",

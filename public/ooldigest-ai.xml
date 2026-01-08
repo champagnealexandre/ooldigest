@@ -3,8 +3,46 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T19:16:59.301604+00:00</updated>
+  <updated>2026-01-08T20:20:59.272517+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] phys.org - Space News ▶ Simultaneous packing structures in superionic water may explain ice giant magnetic fields</title>
+    <link href="https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html"/>
+    <id>https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html</id>
+    <updated>2026-01-08T19:50:03Z</updated>
+    <summary>Superionic water—the hot, black and strangely conductive form of ice that exists in the center of distant planets—was predicted in the 1980s and first recreated in a laboratory in 2018. With each clos</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Models of superionic water’s crystal packing in ice-giant interiors may explain Uranus/Neptune-like magnetic fields, offering broad planetary-water context but little direct relevance to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Superionic water—the hot, black and strangely conductive form of ice that exists in the center of distant planets—was predicted in the 1980s and first recreated in a laboratory in 2018. With each closer look, it continues to surprise researchers.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Phys.org: Evolution News ▶ Conserved genome regulatory elements found in both vertebrates and echinoderms</title>
+    <link href="https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html"/>
+    <id>https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html</id>
+    <updated>2026-01-08T20:16:23Z</updated>
+    <summary>The conservation of genome regulatory elements over long periods of evolution is not limited to vertebrates, as previously thought, but also in echinoderms (invertebrates). This is one of the most not</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Study reports long-term conservation of genomic regulatory elements beyond vertebrates into echinoderms, informing animal evolutionary genomics but only indirectly relevant to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> The conservation of genome regulatory elements over long periods of evolution is not limited to vertebrates, as previously thought, but also in echinoderms (invertebrates). This is one of the most notable conclusions of a study published in the journal Nature Ecology &amp; Evolution, which expands our knowledge of the mechanisms governing genomic regulation and biological evolution.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] molecular biology - biorXiv Preprints ▶ Hierarchical bounds on RNA chromatin statistical dependence across cellular states in paired single-cell multiome data</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Understanding how transcriptional output and chromatin accessibility coordinate across cellular states remains a central challenge in multimodal single-cell biology. Here, we establish explicit hierar</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Using paired single-cell RNA-seq and ATAC-seq, the authors apply falsification-driven information theory to show most global RNA–chromatin dependence is explained by cell-state composition, with only weak residual within-state coupling in a few dynamic immune/erythroid states.</p>
+<p><strong>Abstract:</strong> Understanding how transcriptional output and chromatin accessibility coordinate across cellular states remains a central challenge in multimodal single-cell biology. Here, we establish explicit hierarchical empirical bounds on RNA-chromatin statistical dependence using a strictly falsification-driven, information-theoretic analysis of paired RNA-seq and ATAC-seq data. Our contribution is not to assert universal coupling, but to quantify the maximum intra-state coupling that survives adversarial nulls, thereby converting qualitative intuition into empirical bounds. Leveraging unimodal latent representations and adversarial null models, we quantify both the existence and the limits of cross-modal dependence across organizational scales. At the population level, global RNA-ATAC mutual information is strong and reproducible across donors, but is shown to be overwhelmingly dominated by cell-type composition rather than fine-grained regulatory coordination. When cellular state is explicitly controlled, intra-state RNA-ATAC coupling collapses to null expectations in the majority of populations, directly falsifying the hypothesis of a universal within-state regulatory channel. Despite this collapse, a weak but statistically robust residual coupling persists in a restricted subset of highly dynamic states, including erythroid differentiation compartments, activated T cells, and NK cells. This residual signal survives stringent local permutation tests and conditional mutual information analysis, demonstrating that it cannot be reduced to compositional mixing alone. Quantitatively, residual within-state dependence is consistently an order of magnitude smaller than global dependence, placing an empirical upper bound on within-state RNA-ATAC coordination in this dataset. Donor-resolved ratios rho = I(R;A|S)/I(R;A) indicate that most of the global dependence is removed by conditioning on state; operationally, we refer to the removed fraction (1 - rho) as composition-dominated dependence. Throughout, &quot;state-contingent statistical dependence&quot; is used strictly as an operational descriptor rather than a causal claim: mutual information and conditional mutual information quantify statistical dependence only, not directionality or mechanism. This framing constrains downstream mechanistic interpretation and future multimodal modeling.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Naturally Occurring Network Structures At Vastly Different Scales</title>
     <link href="https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html"/>

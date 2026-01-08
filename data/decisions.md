@@ -1,5 +1,55 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Hierarchical bounds on RNA chromatin statistical dependence ](https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1) |
+| ai_scored | 45 | [Conserved genome regulatory elements found in both vertebrat](https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html) |
+| ai_scored | 45 | [Simultaneous packing structures in superionic water may expl](https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html) |
+| keyword_rejected | - | [Do Monkeys Make Faces on Purpose?](https://www.scientificamerican.com/article/do-monkeys-make-faces-on-purpose/) |
+| keyword_rejected | - | [Hôpital: "tension dans tous les services d'urgences", selon ](https://www.sciencesetavenir.fr/sante/hopital-tension-dans-tous-les-services-d-urgences-selon-la-ministre-de-la-sante_190334?xtor=RSS-16) |
+| keyword_rejected | - | [In Science Journals](https://www.science.org/doi/abs/10.1126/science.aef2261?af=R) |
+| keyword_rejected | - | [Did the illicit fentanyl trade experience a supply shock?](https://www.science.org/doi/abs/10.1126/science.aea6130?af=R) |
+| keyword_rejected | - | [Weathering budget cuts: Lessons from NASA](https://www.science.org/doi/abs/10.1126/science.aed3920?af=R) |
+| keyword_rejected | - | [Natural grasslands used for grazing livestock can mitigate c](https://www.science.org/doi/abs/10.1126/science.aea8344?af=R) |
+| keyword_rejected | - | [New conflicts erupt over key virus database](https://www.science.org/doi/abs/10.1126/science.aef2602?af=R) |
+| keyword_rejected | - | [Art historians turn to biology](https://www.science.org/doi/abs/10.1126/science.aef2597?af=R) |
+| keyword_rejected | - | [Jellyfish sleep a lot like us—and for the same reasons](https://www.science.org/doi/abs/10.1126/science.aef2601?af=R) |
+| keyword_rejected | - | [NIH leadership turmoil adds to politicization concerns](https://www.science.org/doi/abs/10.1126/science.aef2600?af=R) |
+| keyword_rejected | - | [Fake data from trial sites ruin studies, drug firms say](https://www.science.org/doi/abs/10.1126/science.aef2599?af=R) |
+| keyword_rejected | - | [Can ecosystems recover after the deep sea is mined?](https://www.science.org/doi/abs/10.1126/science.aef2598?af=R) |
+| keyword_rejected | - | [The real da Vinci code](https://www.science.org/doi/abs/10.1126/science.aef2260?af=R) |
+| keyword_rejected | - | [Erratum for the Research Article “Invasion impacts in terres](https://www.science.org/doi/abs/10.1126/science.aee9878?af=R) |
+| keyword_rejected | - | [Iran’s largest river in crisis](https://www.science.org/doi/abs/10.1126/science.aed9259?af=R) |
+| keyword_rejected | - | [Iran’s ancient Hyrcanian forests on fire](https://www.science.org/doi/abs/10.1126/science.aee1473?af=R) |
+| keyword_rejected | - | [Improve air quality in public transportation](https://www.science.org/doi/abs/10.1126/science.aed9350?af=R) |
+| keyword_rejected | - | [Tree bark microbes for climate management](https://www.science.org/doi/abs/10.1126/science.aec9651?af=R) |
+| keyword_rejected | - | [Not just a pain in the bone](https://www.science.org/doi/abs/10.1126/science.aed9273?af=R) |
+| keyword_rejected | - | [Making faces](https://www.science.org/doi/abs/10.1126/science.aed7126?af=R) |
+| keyword_rejected | - | [The source of IDH-mutant gliomas](https://www.science.org/doi/abs/10.1126/science.aed6843?af=R) |
+| keyword_rejected | - | [In Other Journals](https://www.science.org/doi/abs/10.1126/science.aef2262?af=R) |
+| keyword_rejected | - | [Learning to lead](https://www.science.org/doi/abs/10.1126/science.aef2259?af=R) |
+| keyword_rejected | - | [Data sharing helps avoid “smoking gun” claims of topological](https://www.science.org/doi/abs/10.1126/science.adk9181?af=R) |
+| keyword_rejected | - | [Facial gestures are enacted through a cortical hierarchy of ](https://www.science.org/doi/abs/10.1126/science.aea0890?af=R) |
+| keyword_rejected | - | [Self-induced Floquet magnons in magnetic vortices](https://www.science.org/doi/abs/10.1126/science.adq9891?af=R) |
+| keyword_rejected | - | [Dogs with a large vocabulary of object labels learn new labe](https://www.science.org/doi/abs/10.1126/science.adq5474?af=R) |
+| keyword_rejected | - | [Chinese Immune Multi-Omics Atlas](https://www.science.org/doi/abs/10.1126/science.adt3130?af=R) |
+| keyword_rejected | - | [Access to four-membered cyclic sulfinamides by energy transf](https://www.science.org/doi/abs/10.1126/science.aec3158?af=R) |
+| keyword_rejected | - | [The molecular basis of the binding and specific activation o](https://www.science.org/doi/abs/10.1126/science.aec3061?af=R) |
+| keyword_rejected | - | [Molecular press annealing enables robust perovskite solar ce](https://www.science.org/doi/abs/10.1126/science.aea8228?af=R) |
+| keyword_rejected | - | [Multivalent ligands regulate dimensional engineering for inv](https://www.science.org/doi/abs/10.1126/science.aea0656?af=R) |
+| keyword_rejected | - | [Ontogeny of the spinal cord dorsal horn](https://www.science.org/doi/abs/10.1126/science.adx5781?af=R) |
+| keyword_rejected | - | [Leveraging triatropic rearrangements for stereoselective ske](https://www.science.org/doi/abs/10.1126/science.adw3340?af=R) |
+| keyword_rejected | - | [Bark microbiota modulate climate-active gas fluxes in Austra](https://www.science.org/doi/abs/10.1126/science.adu2182?af=R) |
+| keyword_rejected | - | [IDH-mutant gliomas arise from glial progenitor cells harbori](https://www.science.org/doi/abs/10.1126/science.adt0559?af=R) |
+| keyword_rejected | - | [Deep contrastive learning enables genome-wide virtual screen](https://www.science.org/doi/abs/10.1126/science.ads9530?af=R) |
+| keyword_rejected | - | [Mapping somatosensory afferent circuitry to bone identifies ](https://www.science.org/doi/abs/10.1126/science.adr9608?af=R) |
+| keyword_rejected | - | [The paradox of conscientious medicine](https://www.science.org/doi/abs/10.1126/science.aec8685?af=R) |
+| keyword_rejected | - | [Rethinking drug use and addiction](https://www.science.org/doi/abs/10.1126/science.aec7911?af=R) |
+| keyword_rejected | - | [Quantifying Adipose Tissue Thermogenesis Using Highly Sensit](https://www.biorxiv.org/content/10.64898/2026.01.07.698169v1?rss=1) |
+| keyword_rejected | - | [A newly identified three-domain C-type lectin associated wit](https://www.biorxiv.org/content/10.64898/2026.01.07.698205v1?rss=1) |
+| keyword_rejected | - | [Structural elucidation of the hexameric MmpS4-MmpL4 complex ](https://www.biorxiv.org/content/10.64898/2026.01.07.698164v1?rss=1) |
+| keyword_rejected | - | [Site-specific phosphorylation affects the structure and inte](https://www.biorxiv.org/content/10.64898/2026.01.07.698183v1?rss=1) |
+| keyword_rejected | - | [Absorption and fixation times for evolutionary processes on ](https://www.biorxiv.org/content/10.64898/2026.01.07.698154v1?rss=1) |
+| keyword_rejected | - | [CELLWHISPER: INFERENCE OF DIRECT CELL-CELL COMMUNICATION FRO](https://www.biorxiv.org/content/10.64898/2026.01.07.697982v1?rss=1) |
+| keyword_rejected | - | [A Unified and Interpretable Framework for Evaluating Fluores](https://www.biorxiv.org/content/10.64898/2026.01.07.698175v1?rss=1) |
 | ai_scored | 30 | [Naturally Occurring Network Structures At Vastly Different S](https://astrobiology.com/2026/01/naturally-occurring-network-structures-at-vastly-different-scales.html) |
 | keyword_rejected | - | [Some quantum computers might need more power than supercompu](https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Some quantum computers might need more power than supercompu](https://www.newscientist.com/article/2509492-some-quantum-computers-might-need-more-power-than-supercomputers/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
