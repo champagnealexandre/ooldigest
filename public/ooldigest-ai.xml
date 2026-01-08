@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T20:20:59.272517+00:00</updated>
+  <updated>2026-01-08T21:17:57.047475+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] biochemistry - biorXiv Preprints ▶ Liquid-liquid phase separation and amyloid aggregation in the 14-3-3 protein family</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>The 14-3-3 protein family, with over 1300 binding partners, is one of the largest regulators of protein-protein interactions (PPIs) in eukaryotic cells. They recognise and bind to phosphorylation-rela</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> In vitro study showing that several eukaryotic 14-3-3 protein isoforms undergo molecular crowding–induced liquid–liquid phase separation and that the ε and θ isoforms can form worm-like amyloid fibrils, offering broad-context insight into biomolecular condensation/aggregation but limited direct relevance to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> The 14-3-3 protein family, with over 1300 binding partners, is one of the largest regulators of protein-protein interactions (PPIs) in eukaryotic cells. They recognise and bind to phosphorylation-related motifs in their partner proteins, creating scaffolds to stabilise proteins and allowing or inhibiting kinases` access to their targets. 14-3-3 consists of seven isoforms ({beta}, {gamma}, {epsilon}, {zeta}, , {theta} and {sigma}), which are expressed across all tissues. Given their important role in PPIs, their dysregulation can contribute to a variety of diseases, such as cancer or neurodegenerative disorders like Creutzfeldt-Jakob`s, Parkinson`s or Alzheimer`s diseases. Pathological effects can arise due to loss of function, aberrant interactions or protein aggregation. Notably, 14-3-3 aggregates have been detected in Lewy bodies or cerebrospinal fluid, mirroring the presence of amyloid proteins, such as -synuclein or {beta}-amyloid. Toxic amyloid aggregation signals the onset of neurodegeneration, which can occur through misfolding of proteins or liquid-liquid phase separation (LLPS) -- a process during which proteins condense into membraneless organelles. Unlike other amyloidogenic proteins, there is little information on the conditions under which the 14-3-3 protein family members undergo LLPS or their relationship with amyloid aggregation. To address this gap, we examined all isoforms of 14-3-3 in vitro and observed the formation of amyloid aggregates and phase-separated droplets. Our results revealed that the {epsilon} and {theta} isoforms form worm-like fibrils, and molecular crowding conditions promote phase separation in most of the 14-3-3 proteins.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [15] bioRxiv Subject Collection: Evolutionary Biology ▶ Phylotranscriptomics Allows Distinguishing Major Gene Flow Events from Incomplete Lineage Sorting in Rapidly Diversifying Mimetic Orchids (Genus Ophrys)</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Ophrys orchids (or bee orchids) provide an outstanding example of a plant adaptive radiation. Over the last five million years, this genus has diversified into hundreds of taxa as a result of its unco</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Phylotranscriptomic analyses of rapidly diversifying Ophrys orchids disentangle widespread incomplete lineage sorting from a few well-supported ancient introgression events shaping their adaptive radiation and pollination evolution.</p>
+<p><strong>Abstract:</strong> Ophrys orchids (or bee orchids) provide an outstanding example of a plant adaptive radiation. Over the last five million years, this genus has diversified into hundreds of taxa as a result of its unconventional pollination strategy, known as &#x27;sexual swindling&#x27;. However, the rapid and substantial diversification of this genus, combined with its capacity for hybridisation and large genome size, poses significant challenges in addressing its systematics. We used phylotranscriptomics as a genome complexity reduction technique to infer the phylogenetic relationships among Ophrys main lineages. More than seven thousand gene trees enabled us to determine the relative contributions of gene flow and incomplete lineage sorting (ILS) in Ophrys evolution. First, we propose a new phylogenetic hypothesis for the genus with an unprecedented resolution that largely confirms the relationships between the main Ophrys lineages, but also provides new insights within each sub-genera. By combining phylogenetic network inference with introgression analyses based on gene tree topologies and branch lengths, we then show that the numerous phylogenetic incongruences among gene tree topologies result from a pervasive background of ILS, over which stand out several well-supported, ancient and potentially adaptive gene flow events between lineages. These major gene flow events provide a new perspective on the evolution of the Ophrys genus and its pollination, questioning previous hypotheses inferred without considering its reticulate evolution, and providing a better understanding of discrepancies observed among previous phylogenetic studies of the genus.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] phys.org - Space News ▶ Simultaneous packing structures in superionic water may explain ice giant magnetic fields</title>
     <link href="https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html"/>

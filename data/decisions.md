@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Phylotranscriptomics Allows Distinguishing Major Gene Flow E](https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1) |
+| ai_scored | 40 | [Liquid-liquid phase separation and amyloid aggregation in th](https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1) |
+| keyword_rejected | - | [Why a January Heat Wave Is Breaking Records Across the South](https://www.scientificamerican.com/article/why-a-january-heat-wave-is-breaking-records-across-the-south/) |
+| keyword_rejected | - | [Some Dogs Learn New Words Just Like Toddlers Do](https://www.scientificamerican.com/article/some-dogs-learn-new-words-just-like-toddlers-do/) |
+| keyword_rejected | - | [Huge Chinese cell atlas reveals surprising immune variation ](https://www.nature.com/articles/d41586-026-00007-y) |
+| keyword_rejected | - | [First galaxy-wide wobbling black hole jet discovered in a di](https://phys.org/news/2026-01-galaxy-wide-black-hole-jet.html) |
+| keyword_rejected | - | [Dark stars could help solve three pressing puzzles of the hi](https://phys.org/news/2026-01-dark-stars-puzzles-high-redshift.html) |
+| keyword_rejected | - | [Impact of behavioral heterogeneity on epidemic outcome and i](http://link.aps.org/doi/10.1103/xps9-qqvp) |
+| keyword_rejected | - | [Ontological differentiation as a measure of semantic accurac](http://link.aps.org/doi/10.1103/148p-69wg) |
+| keyword_rejected | - | [Spatially coherent oscillations in neural fields with inhibi](http://link.aps.org/doi/10.1103/kms3-vfgp) |
+| keyword_rejected | - | [Spatially coherent oscillations in neural fields with inhibi](http://link.aps.org/doi/10.1103/zd32-vxww) |
+| keyword_rejected | - | [Correction: Microbial communities and tight junction protein](https://www.nature.com/articles/s41598-025-32675-7) |
+| keyword_rejected | - | [Publisher Correction: The variational modulus density theory](https://www.nature.com/articles/s41598-025-30700-3) |
+| keyword_rejected | - | [Correction: Optimized deep learning for brain tumor detectio](https://www.nature.com/articles/s41598-025-29967-3) |
+| keyword_rejected | - | [Differentiation for drought strategy but conserved plasticit](https://www.biorxiv.org/content/10.64898/2026.01.07.698234v1?rss=1) |
+| keyword_rejected | - | [Structural mechanism of TRPC3 inhibition by a potent and sel](https://www.biorxiv.org/content/10.64898/2026.01.07.698177v1?rss=1) |
+| keyword_rejected | - | [Fishing with Two Lines: A Hybrid Approach to Spatial Transcr](https://www.biorxiv.org/content/10.64898/2026.01.07.698201v1?rss=1) |
+| keyword_rejected | - | [Metabolite mimicry identifies butyrate analogs with select p](https://www.biorxiv.org/content/10.64898/2026.01.07.697087v1?rss=1) |
+| keyword_rejected | - | [Electrostatic buffering of non-native interactions in the tr](https://www.biorxiv.org/content/10.64898/2026.01.07.698246v1?rss=1) |
 | ai_scored | 15 | [Hierarchical bounds on RNA chromatin statistical dependence ](https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1) |
 | ai_scored | 45 | [Conserved genome regulatory elements found in both vertebrat](https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html) |
 | ai_scored | 45 | [Simultaneous packing structures in superionic water may expl](https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html) |

@@ -1,5 +1,228 @@
 [
   {
+    "title": "Liquid-liquid phase separation and amyloid aggregation in the 14-3-3 protein family",
+    "summary": "The 14-3-3 protein family, with over 1300 binding partners, is one of the largest regulators of protein-protein interactions (PPIs) in eukaryotic cells. They recognise and bind to phosphorylation-related motifs in their partner proteins, creating scaffolds to stabilise proteins and allowing or inhibiting kinases` access to their targets. 14-3-3 consists of seven isoforms ({beta}, {gamma}, {epsilon}, {zeta}, , {theta} and {sigma}), which are expressed across all tissues. Given their important role in PPIs, their dysregulation can contribute to a variety of diseases, such as cancer or neurodegenerative disorders like Creutzfeldt-Jakob`s, Parkinson`s or Alzheimer`s diseases. Pathological effects can arise due to loss of function, aberrant interactions or protein aggregation. Notably, 14-3-3 aggregates have been detected in Lewy bodies or cerebrospinal fluid, mirroring the presence of amyloid proteins, such as -synuclein or {beta}-amyloid. Toxic amyloid aggregation signals the onset of neurodegeneration, which can occur through misfolding of proteins or liquid-liquid phase separation (LLPS) -- a process during which proteins condense into membraneless organelles. Unlike other amyloidogenic proteins, there is little information on the conditions under which the 14-3-3 protein family members undergo LLPS or their relationship with amyloid aggregation. To address this gap, we examined all isoforms of 14-3-3 in vitro and observed the formation of amyloid aggregates and phase-separated droplets. Our results revealed that the {epsilon} and {theta} isoforms form worm-like fibrils, and molecular crowding conditions promote phase separation in most of the 14-3-3 proteins.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1"
+    ],
+    "matched_keywords": [
+      "eukaryo*"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "In vitro study showing that several eukaryotic 14-3-3 protein isoforms undergo molecular crowding\u2013induced liquid\u2013liquid phase separation and that the \u03b5 and \u03b8 isoforms can form worm-like amyloid fibrils, offering broad-context insight into biomolecular condensation/aggregation but limited direct relevance to origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Phylotranscriptomics Allows Distinguishing Major Gene Flow Events from Incomplete Lineage Sorting in Rapidly Diversifying Mimetic Orchids (Genus Ophrys)",
+    "summary": "Ophrys orchids (or bee orchids) provide an outstanding example of a plant adaptive radiation. Over the last five million years, this genus has diversified into hundreds of taxa as a result of its unconventional pollination strategy, known as 'sexual swindling'. However, the rapid and substantial diversification of this genus, combined with its capacity for hybridisation and large genome size, poses significant challenges in addressing its systematics. We used phylotranscriptomics as a genome complexity reduction technique to infer the phylogenetic relationships among Ophrys main lineages. More than seven thousand gene trees enabled us to determine the relative contributions of gene flow and incomplete lineage sorting (ILS) in Ophrys evolution. First, we propose a new phylogenetic hypothesis for the genus with an unprecedented resolution that largely confirms the relationships between the main Ophrys lineages, but also provides new insights within each sub-genera. By combining phylogenetic network inference with introgression analyses based on gene tree topologies and branch lengths, we then show that the numerous phylogenetic incongruences among gene tree topologies result from a pervasive background of ILS, over which stand out several well-supported, ancient and potentially adaptive gene flow events between lineages. These major gene flow events provide a new perspective on the evolution of the Ophrys genus and its pollination, questioning previous hypotheses inferred without considering its reticulate evolution, and providing a better understanding of discrepancies observed among previous phylogenetic studies of the genus.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 15,
+      "summary": "Phylotranscriptomic analyses of rapidly diversifying Ophrys orchids disentangle widespread incomplete lineage sorting from a few well-supported ancient introgression events shaping their adaptive radiation and pollination evolution."
+    }
+  },
+  {
+    "title": "Electrostatic buffering of non-native interactions in the transition state ensemble for binding of intrinsically disordered proteins",
+    "summary": "Intrinsically disordered protein regions (IDRs) mediate key steps in cellular signaling but the nature of the energy barriers crossed by IDRs upon association and the energetic features of the transition state ensemble (TSE) for binding remain elusive. Short linear motifs (SLiMs) are small functional units found within IDRs that fold upon binding to globular domains. Here, we use the LxCxE SLiM from the human papillomavirus E7 protein (LxCxEWT) binding to the retinoblastoma (Rb) protein as a minimal model system for an IDR-domain interaction. We combine extensive mutagenesis with electrostatic dissection to gain information on the binding TSE energetics and rule out ground state effects using Far-UV CD and NMR. This approach uncovers strong compensatory energetics whereby stabilizing electrostatic interactions play a key role buffering multiple weakly destabilizing non-native interactions in the binding TSE for LxCxEWT. Electrostatic buffering may enable a dynamic search for native contacts and fine tuning of the TSE energetics. A global analysis of 177 mutations reveals non-native energetics in the binding TSE of many IDRs, suggesting that electrostatic buffering may be a widespread phenomenon that dictates functional selection for charge content within IDRs.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698246v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Metabolite mimicry identifies butyrate analogs with select protective functions in the intestinal mucosa",
+    "summary": "Microbial-derived short-chain fatty acids regulate a variety of pathways in the healthy colonic mucosa. In particular, butyrate serves as the primary energy source for colonocytes and regulates gene transcription by stabilizing the transcription factor hypoxia-inducible-factors (HIF) and functioning as a histone deacetylase (HDAC) inhibitor. A limitation of butyrate as a therapeutic is its rapid metabolism in differentiated colonocytes. Furthermore, intestinal stem cells (ISCs) respond differently to butyrate, preferentially using glucose for energy procurement. To address these limitations, we explored metabolite-mimicry to discover compounds with potent or selective biological responses within the butyrate pathway(s). We discovered an analog, 3-chlorobutyrate (3-Cl BA), that significantly enhances epithelial barrier formation and wound healing in vitro. Mechanistically, we revealed that 3-Cl BA is a potent HDAC inhibitor. Furthermore, unlike butyrate, 3-Cl BA does not stabilize HIF and it is not used as metabolic fuel. In vivo studies in a DSS-colitis model revealed that contrary to butyrate, 3-Cl BA is protective. Studies in stem-like colonoids demonstrated that only butyrate inhibits ISC proliferation and differentiation. Furthermore, it was recently reported that HIF stabilization inhibits ISCs activity. Given the fact that butyrate but not 3-Cl BA stabilizes HIF, we surmised that 3-Cl BA would circumvent these detrimental functional consequences. We demonstrate here that pharmacologic HIF stabilization inhibits colonoid differentiation and that genetic loss of HIF significantly promotes ISC differentiation. This study reveals a promising butyrate analog protective in colitis and demonstrates the advantages of metabolite-mimicry to dissect selective biological functions from major metabolites in the gut.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.697087v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Fishing with Two Lines: A Hybrid Approach to Spatial Transcriptomic Discovery",
+    "summary": "Spatial transcriptomics faces a trade-off between the number of genes assayed and depth of per-gene sensitivity. We developed a 'dual chemistry' method that combines the high sensitivity of a 10X Genomics Xenium V1 custom panel (up to 480 genes) with the broad coverage of the Prime 5K panel (5001 genes) on a single tissue section. This involved co-hybridizing Prime and V1 probes and sequentially running the V1 and Prime decoding chemistries. Applied to a human lung tissue microarray, we observed high concordance between the V1 and Prime chemistries when run independently (on serial sections) and the dual chemistry runs. Overlapping genes (profiled on both V1 and Prime chemistries) showed similar expression patterns in the dual run demonstrating the fidelity of the assay. By combining information from both the V1 and Prime chemistries within the same cell, we retain more cells, gain valuable additional information, and enable both high sensitivity profiling and discovery.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698201v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "molecular biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Structural mechanism of TRPC3 inhibition by a potent and selective antagonist",
+    "summary": "The transient receptor channel canonical family member 3 (TRPC3) is a non-selective, calcium-permeable cation channel within the larger TRP superfamily. TRPC3 is expressed in both excitable and non-excitable cells, where it integrates multiple signaling pathways and is directly activated by binding of diacylglycerol following activation of G-protein coupled receptors. Increased TRPC3 signaling is implicated in several diseases, highlighting TRPC3 as a potential therapeutic target. However, the development of TRPC3 inhibitors with suitable potency and selectivity has been challenging due to the channel's high structural and sequence homology with related family members, particularly TRPC6. Here, we present a novel, selective and highly potent TRPC3 antagonist (GSK2820986A) featuring an anilino-thiazole pharmacophore. Through a combination of molecular dynamic simulations and functional assays, we identify a putative binding site for GSK2820986A in the S4-S5 pocket and propose a potential inhibitory mechanism. Our findings provide a powerful tool compound and mechanistic framework to advance the investigation and therapeutic targeting of TRPC3 in disease.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698177v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biochemistry - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Differentiation for drought strategy but conserved plasticity to heat and drought in locally adapted populations of Arabidopsis thaliana",
+    "summary": "Adaptive plasticity may be crucial for plants to survive rapid environmental changes long enough for evolutionary adaptation to occur. Heat and drought are both abiotic stresses projected to increase globally and their individual impact on plant growth and function is well-characterized. However, to understand potential responses to climate change, we must manipulate multiple stressors simultaneously. We measured heat- and drought-related traits as well as fitness in two locally adapted populations of Arabidopsis thaliana from Rod[a]sen, Sweden and Castelnuovo di Porto, Italy. We used chamber common gardens that simulate the current fall and spring climate in Sweden and a hotter and drier climate to identify population differentiation for trait means, trait plasticity, and fitness. Population differentiation in both treatments suggests that the Swedish population avoids drought by investing in stress-tolerant leaves while the Italian population escapes drought by flowering early. Despite these differences, there is little evidence for genetic differentiation of plasticity; when experiencing heat and drought, both populations shift their traits in the direction expected to avoid drought. Further, both populations have greatly decreased fitness in heat and drought. These results highlight that locally adapted populations with genetic differentiation for traits within a single environment can respond to the same stressors with plasticity in the same direction. Further, the combination of heat and drought will be extremely damaging to plant populations.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698234v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Correction: Optimized deep learning for brain tumor detection: a hybrid approach with attention mechanisms and clinical explainability",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-29967-3\">doi:10.1038/s41598-025-29967-3</a></p>Correction: Optimized deep learning for brain tumor detection: a hybrid approach with attention mechanisms and clinical explainability",
+    "url": "https://www.nature.com/articles/s41598-025-29967-3",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Publisher Correction: The variational modulus density theory explains mechanical responses of cell membranes and membrane crosslinkers",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30700-3\">doi:10.1038/s41598-025-30700-3</a></p>Publisher Correction: The variational modulus density theory explains mechanical responses of cell membranes and membrane crosslinkers",
+    "url": "https://www.nature.com/articles/s41598-025-30700-3",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Correction: Microbial communities and tight junction protein expression in the gastrointestinal tract of feedlot cattle",
+    "summary": "<p>Scientific Reports, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32675-7\">doi:10.1038/s41598-025-32675-7</a></p>Correction: Microbial communities and tight junction protein expression in the gastrointestinal tract of feedlot cattle",
+    "url": "https://www.nature.com/articles/s41598-025-32675-7",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Spatially coherent oscillations in neural fields with inhibition and adaptation. I. One-dimensional domains",
+    "summary": "Author(s): Stefanos E. Folias<br /><p>We study Hopf bifurcation of stationary activity bumps to localized, spatially coherent oscillations in a family of elementary neural field models involving nonlocal synaptic excitation and inhibition with Heaviside firing rate nonlinearity and local linear adaption, both with and without a localize\u2026</p><br />[Phys. Rev. E 113, 014203] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/zd32-vxww",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Spatially coherent oscillations in neural fields with inhibition and adaptation. II. Two-dimensional domains",
+    "summary": "Author(s): Stefanos E. Folias<br /><p>We study the bifurcation of stationary activity bumps to localized, spatially coherent oscillations in a family of elementary neural field models involving nonlocal synaptic excitation and inhibition with Heaviside firing rate nonlinearity and local linear adaption, both with and without a localized\u2026</p><br />[Phys. Rev. E 113, 014204] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/kms3-vfgp",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Ontological differentiation as a measure of semantic accuracy",
+    "summary": "Author(s): P. Garc\u00eda-Cuadrillero, F. Revuelta, and J. A. Capit\u00e1n<br /><p>Understanding semantic relationships within complex networks derived from lexical resources is fundamental for network science and language modeling. While network embedding methods capture contextual similarity, quantifying semantic distance based directly on explicit definitional structure remains\u2026</p><br />[Phys. Rev. E 113, 014305] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/148p-69wg",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Impact of behavioral heterogeneity on epidemic outcome and its mapping into effective network topologies",
+    "summary": "Author(s): Fabio Mazza, Gabriele Ricci, Francesca Colaiori, Stefano Guarino, Sandro Meloni, and Fabio Saracco<br /><p>Human behavior plays a critical role in shaping epidemic trajectories. During health crises, people respond in diverse ways in terms of self-protection and adherence to recommended measures, largely reflecting differences in how individuals assess risk. This behavioral variability induces effective \u2026</p><br />[Phys. Rev. E 113, 014306] Published Thu Jan 08, 2026",
+    "url": "http://link.aps.org/doi/10.1103/xps9-qqvp",
+    "published_date": "2026-01-08T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Dark stars could help solve three pressing puzzles of the high-redshift universe",
+    "summary": "A recent study provides answers to three seemingly disparate yet pressing cosmic dawn puzzles. Specifically, the authors show how dark stars could help explain the unexpected discovery of \"blue monster\" galaxies, the numerous early overmassive black hole galaxies, and the \"little red dots\" in images from the James Webb Space Telescope (JWST).",
+    "url": "https://phys.org/news/2026-01-dark-stars-puzzles-high-redshift.html",
+    "published_date": "2026-01-08T21:00:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "First galaxy-wide wobbling black hole jet discovered in a disk galaxy",
+    "summary": "Astronomers using W. M. Keck Observatory on Maunakea, Hawai\u02bbi Island have uncovered the largest and most extended stream of super-heated gas ever observed flowing from a nearby galaxy, providing the clearest evidence yet that a supermassive black hole can dramatically reshape its host galaxy far beyond its core.",
+    "url": "https://phys.org/news/2026-01-galaxy-wide-black-hole-jet.html",
+    "published_date": "2026-01-08T20:58:01Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Huge Chinese cell atlas reveals surprising immune variation among peoples",
+    "summary": "<p>Nature, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00007-y\">doi:10.1038/d41586-026-00007-y</a></p>A giant functional atlas of immune cells in a Chinese cohort reveals crucial differences with European and Japanese data sets.",
+    "url": "https://www.nature.com/articles/d41586-026-00007-y",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Some Dogs Learn New Words Just Like Toddlers Do",
+    "summary": "<p>A new study reveals that some smart dogs can learn words just by overhearing humans&rsquo; conversations</p>",
+    "url": "https://www.scientificamerican.com/article/some-dogs-learn-new-words-just-like-toddlers-do/",
+    "published_date": "2026-01-08T19:50:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Why a January Heat Wave Is Breaking Records Across the South",
+    "summary": "<p>An area of high pressure is bringing record-high heat to some parts of the U.S., with an added boost from climate change</p>",
+    "url": "https://www.scientificamerican.com/article/why-a-january-heat-wave-is-breaking-records-across-the-south/",
+    "published_date": "2026-01-08T19:17:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Simultaneous packing structures in superionic water may explain ice giant magnetic fields",
     "summary": "Superionic water\u2014the hot, black and strangely conductive form of ice that exists in the center of distant planets\u2014was predicted in the 1980s and first recreated in a laboratory in 2018. With each closer look, it continues to surprise researchers.",
     "url": "https://phys.org/news/2026-01-simultaneous-superionic-ice-giant-magnetic.html",
