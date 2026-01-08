@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Weak pervasive incompatibilities and compensatory adaptation](https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1) |
+| ai_scored | 45 | [The electrifying science behind Martian dust](https://phys.org/news/2026-01-electrifying-science-martian.html) |
+| ai_scored | 5 | [Ac-FAPI-04 Promotes Anti-tumor Immunity via IL-27 Activation](https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1) |
+| keyword_rejected | - | [What Happens after You Quit Weight-Loss Drugs? A New Study O](https://www.scientificamerican.com/article/what-happens-after-you-quit-weight-loss-drugs-a-new-study-offers-some-clues/) |
 | ai_scored | 15 | [Phylotranscriptomics Allows Distinguishing Major Gene Flow E](https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1) |
 | ai_scored | 40 | [Liquid-liquid phase separation and amyloid aggregation in th](https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1) |
 | keyword_rejected | - | [Why a January Heat Wave Is Breaking Records Across the South](https://www.scientificamerican.com/article/why-a-january-heat-wave-is-breaking-records-across-the-south/) |

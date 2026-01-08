@@ -3,8 +3,48 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-08T21:17:57.047475+00:00</updated>
+  <updated>2026-01-08T22:17:56.395006+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [5] molecular biology - biorXiv Preprints ▶ Ac-FAPI-04 Promotes Anti-tumor Immunity via IL-27 Activation and Tnfaip3 Inhibition</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Background: Accumulating evidence substantiates the capacity of targeted radionuclide therapy (TRT) to potentiate tumor immunotherapy responses. However, combining TRT and immunotherapies exhibits sub</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> This biomedical study shows that [225Ac]Ac-FAPI-04 radionuclide therapy induces DNA damage and remodels the tumor microenvironment via IL-27/JAK-STAT activation and Tnfaip3 downregulation to enhance cytotoxic T cell immunity, but it is not relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Background: Accumulating evidence substantiates the capacity of targeted radionuclide therapy (TRT) to potentiate tumor immunotherapy responses. However, combining TRT and immunotherapies exhibits substantial varying efficacy, underscoring the importance of investigating mechanisms through which TRT remodels the tumor microenvironment (TME). Despite recent advancements, the specific signaling molecules mediated by TRT that regulate the functions of cytotoxic T lymphocytes (CTLs) remain unclear. Methods: Given the demonstrated potential of -radionuclides targeting the fibroblast activation protein (FAP) in TRT, this study employed [225Ac]Ac-FAPI-04 to investigate the mechanisms of TRT-induced TME remodeling. The cytotoxic effects were first evaluated in the B16F10 cell line, followed by an assessment of its in vivo therapeutic efficacy in tumor-bearing mice. RNA-sequencing analysis was utilized to elucidate underlying signaling pathways involving immune responses. Results: [225Ac]Ac-FAPI-04 significantly induced DNA double-strand breaks, further elevated ROS levels, and apoptosis in tumor cells. Transcriptomic profiling revealed that [225Ac]Ac-FAPI-04 activates the IL-27/JAK-STAT pathway to amplify interferon-mediated responses, indicating IL-27 serves as a critical regulatory signal for CTLs during TRT. A concomitant observation was the downregulation of Tnfaip3 following [225Ac]Ac-FAPI-04 treatment. Tnfaip3 is implicated in modulating CTLs&#x27; behavior and intratumoral infiltration, while its downregulation was associated with the upregulation of cytotoxic effector molecules, as confirmed in this study. Conclusion: This study identifies a TRT-induced pattern of synergistic signaling mediated by IL-27 and Tnfaip3, which collectively enhances CTL recruitment and potentiates their cytotoxic function. These findings provide a detailed mechanistic rationale for strategies aimed at augmenting the therapeutic efficacy of TRT and immunotherapy combinations.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] phys.org - Space News ▶ The electrifying science behind Martian dust</title>
+    <link href="https://phys.org/news/2026-01-electrifying-science-martian.html"/>
+    <id>https://phys.org/news/2026-01-electrifying-science-martian.html</id>
+    <updated>2026-01-08T21:26:33Z</updated>
+    <summary>Mars, often depicted as a barren red planet, is far from lifeless. With its thin atmosphere and dusty surface, it is an energetic and electrically charged environment where dust storms and dust devils</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars</p>
+<p><strong>AI Decision:</strong> Discusses how electrostatic charging in Martian dust storms and dust devils creates an energetic surface environment that could influence Martian habitability, though it does not directly address origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Mars, often depicted as a barren red planet, is far from lifeless. With its thin atmosphere and dusty surface, it is an energetic and electrically charged environment where dust storms and dust devils continually reshape the landscape, creating dynamic processes that have intrigued scientists.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-electrifying-science-martian.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ Weak pervasive incompatibilities and compensatory adaptation drive hybrid genome evolution in yeast</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1</id>
+    <updated>2026-01-08T00:00:00Z</updated>
+    <summary>Species barriers limit gene flow and maintain co-adapted genomes. Interspecific hybridization can break down species barriers to reveal genetic incompatibilities. Although the phenotypic and genomic c</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using engineered recombinant Saccharomyces cerevisiae × S. paradoxus hybrids and lab evolution, the study finds hybrid fitness is shaped mainly by widespread weak, background-dependent genetic incompatibilities and compensatory adaptation rather than rare strong lethal incompatibilities.</p>
+<p><strong>Abstract:</strong> Species barriers limit gene flow and maintain co-adapted genomes. Interspecific hybridization can break down species barriers to reveal genetic incompatibilities. Although the phenotypic and genomic consequences of hybridization have been extensively studied in many systems, far less is known about the longer-term evolutionary dynamics of highly divergent, mosaic genomes and the extent to which genetic incompatibilities shape their adaptation. In yeast, pre-zygotic barriers are weak but post-zygotic barriers are strong due to mispairing of chromosomes during meiosis. By suppressing anti-recombination genes in meiosis, we generated a panel of 20 haploid recombinant hybrids from a cross between Saccharomyces cerevisiae and its sister species, Saccharomyces paradoxus. Across conditions, these hybrids are, on average, less fit than either parent and show broad phenotypic variation. Inheritance patterns of protein complexes in the hybrid genomes reveal no evidence of pairwise lethality but do support a model of pervasive weak negative genetic interactions in hybrid protein complexes. We show by laboratory evolution that each recombinant genome follows a distinct evolutionary trajectory, and a small subset of hybrid protein complexes and loci show hybrid-specific mutational targeting. Finally, we show that species-of-origin alleles can bias evolutionary outcomes by reshaping selection on interacting genes. Together, our results suggest that strong pairwise incompatibilities are rare, while weak, background-dependent incompatibilities are widespread and shape fitness and adaptation in hybrid genomes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] biochemistry - biorXiv Preprints ▶ Liquid-liquid phase separation and amyloid aggregation in the 14-3-3 protein family</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1"/>
