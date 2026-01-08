@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [Taxonomic Description Of Uncultured Cyanobacteria From Extre](https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html) |
+| ai_scored | 70 | [Estimation Of The Tidal Heating In The TRAPPIST-1 Planets. I](https://astrobiology.com/2026/01/estimation-of-the-tidal-heating-in-the-trappist-1-planets-influence-of-the-internal-structure.html) |
+| ai_scored | 50 | [Extreme Environmental Tolerance And Space Survivability Of T](https://astrobiology.com/2026/01/extreme-environmental-tolerance-and-space-survivability-of-the-moss-physcomitrium-patens.html) |
+| ai_scored | 45 | [Astronomers Find Missing Link To Our Galaxy’s Most Common Pl](https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html) |
+| ai_scored | 60 | [Direct Constraints From 1.4 Ga Fluid Inclusions Reveal A Fai](https://astrobiology.com/2026/01/direct-constraints-from-1-4-ga-fluid-inclusions-reveal-a-fair-climate-and-oxygenated-atmosphere.html) |
+| ai_scored | 65 | [Naturally Occurring “Space Weather Station” Elucidates New W](https://astrobiology.com/2026/01/naturally-occurring-space-weather-station-elucidates-new-way-to-study-habitability-of-planets-orbiting-m-dwarf-stars.html) |
+| ai_scored | 45 | [Two-source Terrestrial Planet Formation With A Sweeping Secu](https://astrobiology.com/2026/01/two-source-terrestrial-planet-formation-with-a-sweeping-secular-resonance.html) |
+| ai_scored | 65 | [The Uncertainty In Water Mass Fraction Of Wet Planets](https://astrobiology.com/2026/01/the-uncertainty-in-water-mass-fraction-of-wet-planets.html) |
+| ai_scored | 60 | [Methanogens Through Geological Time And Space: Impact On Pla](https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html) |
+| keyword_rejected | - | [Neuropeptide SP protects against colitis and linked anxiety-](https://www.nature.com/articles/s41467-025-67904-0) |
+| keyword_rejected | - | [Intergeneric chromosomal transfer in yeast results in improv](https://www.nature.com/articles/s41467-025-68164-8) |
+| keyword_rejected | - | [Noncanonical calcium-independent TRPM4 activation governs in](https://www.nature.com/articles/s41467-025-68014-7) |
+| keyword_rejected | - | [Molecular mechanism of exchange coupling in CLC chloride/pro](https://www.nature.com/articles/s41467-025-68098-1) |
+| keyword_rejected | - | [Early warning signals for loss of control](https://comdig.unam.mx/2026/01/08/early-warning-signals-for-loss-of-control/) |
+| keyword_rejected | - | [TEDLH: Domain HMMs for sensitive detection of remote homolog](https://www.biorxiv.org/content/10.64898/2026.01.07.697892v1?rss=1) |
 | ai_scored | 45 | [How population bottlenecks shape bacterial cooperation and c](https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html) |
 | ai_scored | 25 | [Earliest known barred spiral galaxy spotted just 2 billion y](https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html) |
 | keyword_rejected | - | [I'm calling it – 2026 is going to be the year of the galaxy](https://www.newscientist.com/article/mg26935770-100-im-calling-it-2026-is-going-to-be-the-year-of-the-galaxy/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |

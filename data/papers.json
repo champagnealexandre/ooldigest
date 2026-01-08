@@ -1,5 +1,257 @@
 [
   {
+    "title": "Methanogens Through Geological Time And Space: Impact On Planetary Evolution and Significance For Life Beyond Earth",
+    "summary": "<p>Methanogens, also known as methanogenic archaea, are among the most ancient and widespread microorganisms, despite their particular requirements for growth. These oxygen-sensitive microorganisms have impacted climate and biogeochemical cycles throughout Earth\u2019s history, although their specific roles in the long-term carbon cycle remain little explored. Methanogens evolved early during Earth\u2019s history, likely during the Archaean Eon, [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html\">Methanogens Through Geological Time And Space: Impact On Planetary Evolution and Significance For Life Beyond Earth</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/methanogens-through-geological-time-and-space-impact-on-planetary-evolution-and-significance-for-life-beyond-earth.html",
+    "published_date": "2026-01-08T17:40:08Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution",
+      "origin(s) of life",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Review of methanogenic archaea across Earth history and planetary settings, emphasizing their early evolution and potential relevance to methane-based biosignatures beyond Earth."
+    }
+  },
+  {
+    "title": "The Uncertainty In Water Mass Fraction Of Wet Planets",
+    "summary": "<p>Planets with masses between Earth and Neptune often have radii that imply the presence of volatiles, suggesting that water may be abundant in their interiors. However, directly observing the precise water mass fraction and water distribution remains unfeasible. In our study, we employ an internal structure code MAGRATHEA to model planets with high water content [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/the-uncertainty-in-water-mass-fraction-of-wet-planets.html\">The Uncertainty In Water Mass Fraction Of Wet Planets</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/the-uncertainty-in-water-mass-fraction-of-wet-planets.html",
+    "published_date": "2026-01-08T17:46:42Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.03932",
+      "https://arxiv.org/abs/2601.03932",
+      "https://doi.org/10.3847/1538-4357/ae2c56"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*",
+      "habitab*",
+      "astrochemistry",
+      "water"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Models how uncertain water mass fractions and interior water distributions are for Earth\u2013to\u2013Neptune-mass exoplanets, informing constraints on planetary habitability but not directly addressing origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Two-source Terrestrial Planet Formation With A Sweeping Secular Resonance",
+    "summary": "<p>The models that most successfully reproduce the orbital architecture of the Solar System terrestrial planets start from a narrow annulus of material that grows into embryos and then planets. However, it is not clear how this ring model can be made consistent with the chemical structure of the inner Solar System, which shows a reduced-to-oxidized [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/two-source-terrestrial-planet-formation-with-a-sweeping-secular-resonance.html\">Two-source Terrestrial Planet Formation With A Sweeping Secular Resonance</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/two-source-terrestrial-planet-formation-with-a-sweeping-secular-resonance.html",
+    "published_date": "2026-01-08T17:50:11Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.04032",
+      "https://arxiv.org/abs/2601.04032"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*",
+      "planetesimal",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Dynamical model for forming terrestrial planets from two distinct source regions via a sweeping secular resonance, potentially informing how inner Solar System compositional gradients relevant to later habitability arose but not directly addressing origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Naturally Occurring \u201cSpace Weather Station\u201d Elucidates New Way To Study Habitability Of Planets Orbiting M Dwarf Stars",
+    "summary": "<p>How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie\u2019s Luke Bouma is exploring a new way to probe this critical question\u2014using naturally occurring space weather stations that orbit at least 10 percent of M dwarf stars during their early lives. He is [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/naturally-occurring-space-weather-station-elucidates-new-way-to-study-habitability-of-planets-orbiting-m-dwarf-stars.html\">Naturally Occurring \u201cSpace Weather Station\u201d Elucidates New Way To Study Habitability Of Planets Orbiting M Dwarf Stars</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/naturally-occurring-space-weather-station-elucidates-new-way-to-study-habitability-of-planets-orbiting-m-dwarf-stars.html",
+    "published_date": "2026-01-08T18:09:47Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://iopscience.iop.org/article/10.3847/2041-8213/ade39a",
+      "https://doi.org/10.3847/2041-8213/ade39a"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 65,
+      "summary": "Uses naturally occurring close-in companions around young M dwarfs as \u201cspace weather stations\u201d to characterize stellar activity and particle environments that shape exoplanet atmospheres and long-term habitability."
+    }
+  },
+  {
+    "title": "Direct Constraints From 1.4 Ga Fluid Inclusions Reveal A Fair Climate And Oxygenated Atmosphere",
+    "summary": "<p>The Mesoproterozoic eon, often regarded as mundane and static, lays the foundation for dramatic transformations in Earth\u2019s physical and biological evolution during the subsequent Neoproterozoic. A conspicuous absence of glaciation suggests a billion years of warm climates, yet the relationship between temperature and greenhouse gas concentrations remains enigmatic. Separately, contradictory estimates of atmospheric oxygen levels [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/direct-constraints-from-1-4-ga-fluid-inclusions-reveal-a-fair-climate-and-oxygenated-atmosphere.html\">Direct Constraints From 1.4 Ga Fluid Inclusions Reveal A Fair Climate And Oxygenated Atmosphere</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/direct-constraints-from-1-4-ga-fluid-inclusions-reveal-a-fair-climate-and-oxygenated-atmosphere.html",
+    "published_date": "2026-01-08T16:50:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.pnas.org/doi/10.1073/pnas.2513030122",
+      "https://doi.org/10.1073/pnas.2513030122"
+    ],
+    "matched_keywords": [
+      "evolution",
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Fluid-inclusion constraints on 1.4 Ga climate and atmospheric oxygen provide important context for long-term planetary habitability and biosignature interpretation, though they are not directly focused on the origin of life mechanisms."
+    }
+  },
+  {
+    "title": "Astronomers Find Missing Link To Our Galaxy\u2019s Most Common Planets",
+    "summary": "<p>One of the biggest recent surprises in astronomy is the discovery that most stars like the Sun harbor a planet between the size of Earth and Neptune within the orbit of Mercury \u2014 sizes and orbits absent from our solar system. These \u2018super-Earths and sub-Neptunes\u2019 are the galaxy&#8217;s most common planets, but their formation has [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html\">Astronomers Find Missing Link To Our Galaxy&#8217;s Most Common Planets</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html",
+    "published_date": "2026-01-08T18:06:01Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41586-025-09840-z"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*",
+      "water"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Nature study constrains how super-Earths/sub-Neptunes\u2014the Galaxy\u2019s most common close-in planets\u2014form, improving planetary context for potential habitability but not directly addressing origins-of-life chemistry or biosignatures."
+    }
+  },
+  {
+    "title": "Extreme Environmental Tolerance And Space Survivability Of The Moss, Physcomitrium patens",
+    "summary": "<p>Climate change highlights the importance of understanding life\u2019s survival limits for addressing global challenges and supporting future human habitation beyond Earth. Plants, as photosynthetic organisms, play a vital role in sustaining life. Bryophytes, such as mosses, show notable extremotolerance, but despite studies on environmental responses in the model moss Physcomitrium patens, its survival under extreme [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/extreme-environmental-tolerance-and-space-survivability-of-the-moss-physcomitrium-patens.html\">Extreme Environmental Tolerance And Space Survivability Of The Moss, Physcomitrium patens</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/extreme-environmental-tolerance-and-space-survivability-of-the-moss-physcomitrium-patens.html",
+    "published_date": "2026-01-08T16:53:00Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC12767186/"
+    ],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Reviews the extreme stress tolerance and potential space-survivability of the model moss Physcomitrium patens, informing limits of plant life and habitability in extraterrestrial environments rather than directly addressing origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Estimation Of The Tidal Heating In The TRAPPIST-1 Planets. Influence Of The Internal Structure",
+    "summary": "<p>With the arrival of JWST observations of the TRAPPIST-1 planets, it is timely to reassess the contribution of tidal heating to their heat budget. JWST thermal phase curves could reveal endogenic heating through an anomalously high nightside temperature, providing an opportunity to estimate tidal heating. In this study, we revisit the tidal heating of these [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/estimation-of-the-tidal-heating-in-the-trappist-1-planets-influence-of-the-internal-structure.html\">Estimation Of The Tidal Heating In The TRAPPIST-1 Planets. Influence Of The Internal Structure</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/estimation-of-the-tidal-heating-in-the-trappist-1-planets-influence-of-the-internal-structure.html",
+    "published_date": "2026-01-08T17:44:01Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.03408",
+      "https://doi.org/10.48550/arXiv.2601.03408"
+    ],
+    "matched_keywords": [
+      "exoplanet",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 70,
+      "summary": "Reassesses how tidal heating\u2014strongly dependent on internal structure\u2014could shape the thermal budgets and potential habitability of the TRAPPIST-1 planets, with JWST phase curves offering a way to detect endogenic heating."
+    }
+  },
+  {
+    "title": "Taxonomic Description Of Uncultured Cyanobacteria From Extreme Habitats Through Genome-Based Classification",
+    "summary": "<p>Cyanobacteria form a morphologically and phylogenetically diverse group of oxygenic phototrophic bacteria inhabiting a wide range of environments, including extreme habitats such as hot springs and volcanic steam vents. Many lineages, particularly those from these extreme environments, remain uncultured and are known only from metagenome-assembled genomes (MAGs), limiting their integration into formal taxonomy. Analysis of [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html\">Taxonomic Description Of Uncultured Cyanobacteria From Extreme Habitats Through Genome-Based Classification</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html",
+    "published_date": "2026-01-08T18:01:47Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.02.697360v1",
+      "https://doi.org/10.64898/2026.01.02.697360v1"
+    ],
+    "matched_keywords": [
+      "evolution",
+      "astrobio*",
+      "habitab*"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "This preprint uses genome-based taxonomy to formally classify uncultured cyanobacterial lineages from extreme environments, improving our understanding of phototrophic evolution and potential biosignature-producing microbes in habitability analog settings."
+    }
+  },
+  {
+    "title": "TEDLH: Domain HMMs for sensitive detection of remote homologues",
+    "summary": "Motivation The Encyclopedia of Domains (TED) provides domain annotations for proteins in the AlphaFold Protein Structure Database (AFDB) using a consensus of three state-of-the-art structure-based methods. We used these TED domain annotations to construct profile Hidden Markov models (HMMs), collectively forming the TED Library of HMMs (TEDLH). TEDLH enables sensitive sequence and profile searches, supporting systematic exploration of protein domain families and their evolutionary relationships. Results TEDLH links domain HMMs to experimentally determined CATH-PDB structures through direct (primary) and transitive (secondary and tertiary) relationships. Fewer than half of TEDLH HMMs are directly linked to a CATH-PDB domain; the remaining models are connected through transitive relationships. These transitive links extend coverage into more divergent regions of sequence space and better represent CATH superfamily diversity. HMM-HMM comparisons within CATH superfamily 3.30.70.100 illustrate how transitive relationships expand sequence coverage in TEDLH. In this superfamily, 4,813 TEDLH HMMs are connected to 212 CATH-PDB representatives. Primary, secondary, and tertiary relationships progressively capture more divergent sequences (pairwise sequence identity <20%) that retain structural similarity (TM-score >0.6) and a conserved two-layer /{beta} sandwich core fold. All-against-all HMM-HMM comparisons across TEDLH also reveal sequence similarities across the CATH hierarchy (cross-hits). At low query coverage (<50%), cross-hits are more frequent between CATH classes, whereas at higher coverage thresholds (>70%) they predominantly occur between superfamilies. These cross-hits are not driven by superfamily size or sequence diversity and can provide guidance for CATH curation. As an example, analysis of cross-hits between superfamilies 2.170.130.30 and 3.10.20.30 reveals evolutionary relationships between these groups.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.697892v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Early warning signals for loss of control",
+    "summary": "<p>Jasper J. van Beers, Marten Scheffer, Prashant Solanki, Ingrid A. van de Leemput, Egbert H. van Nes, Coen C. de Visser</p>\n<p>Maintaining stability in feedback systems, from aircraft and autonomous robots to biological and physiological systems, relies on monitoring their behavior and continuously adjusting their inputs. Incremental damage can make such control fragile. This tends to go unnoticed until a small perturbation induces instability (i.e. loss of control). Traditional methods in the field of engineering rely on accurate system models to compute a safe set of operating instructions, which become invalid when the, possibly damaged, system diverges from its model. Here we demonstrate that the approach of such a feedback system towards instability can nonetheless be monitored through dynamical indicators of resilience. This holistic system safety monitor does not rely on a system model and is based on the generic phenomenon of critical slowing down, shown to occur in the climate, biology and other complex nonlinear systems approaching criticality. Our findings for engineered devices opens up a wide range of applications involving real-time early warning systems as well as an empirical guidance of resilient system design exploration, or \"tinkering\". While we demonstrate the validity using drones, the generic nature of the underlying principles suggest that these indicators could apply across a wider class of controlled systems including reactors, aircraft, and self-driving cars.</p>\n<p>Read the full article at: <a href=\"https://arxiv.org/abs/2512.20868\" rel=\"noopener\" target=\"_blank\">arxiv.org</a></p>",
+    "url": "https://comdig.unam.mx/2026/01/08/early-warning-signals-for-loss-of-control/",
+    "published_date": "2026-01-08T18:13:50Z",
+    "source_feed": "Complexity Digest",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Molecular mechanism of exchange coupling in CLC chloride/proton antiporters",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68098-1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Noncanonical calcium-independent TRPM4 activation governs intestinal fluid homeostasis",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68014-7",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Intergeneric chromosomal transfer in yeast results in improved phenotypes and widespread transcriptional responses",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68164-8",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neuropeptide SP protects against colitis and linked anxiety-like behavior through the putative roles of gut microbiota and metabolite inositol",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67904-0",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Earliest known barred spiral galaxy spotted just 2 billion years after Big Bang",
     "summary": "Research led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at Pitt, uncovered a contender for one of the earliest observed spiral galaxies containing a stellar bar, a sometimes-striking visual feature that can play an important role in the evolution of a galaxy. Our galaxy, the Milky Way, also has a stellar bar.",
     "url": "https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html",
