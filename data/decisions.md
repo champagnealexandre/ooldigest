@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le problème du canapé dans un couloir anguleux, une énigme m](https://www.sciencesetavenir.fr/fondamental/mathematiques/le-probleme-du-canape-dans-un-couloir-anguleux-semble-resolu_190322?xtor=RSS-10) |
+| keyword_rejected | - | [Cosmic lens reveals hyperactive cradle of future galaxy clus](https://phys.org/news/2026-01-cosmic-lens-reveals-hyperactive-cradle.html) |
+| keyword_rejected | - | [Astrophysicists map how many ghost particles all the Milky W](https://phys.org/news/2026-01-astrophysicists-ghost-particles-milky-stars.html) |
+| keyword_rejected | - | [Bulk-cusp microstructure for controllable multi-directional ](https://www.nature.com/articles/s41467-025-68237-8) |
+| keyword_rejected | - | [Reconstructing voice identity from noninvasive auditory cort](https://elifesciences.org/articles/98047) |
+| keyword_rejected | - | [Barcode activity in a recurrent network model of the hippoca](https://elifesciences.org/articles/103512) |
+| keyword_rejected | - | [Selective Laser Etching technology for reconfigurable microf](https://www.biorxiv.org/content/10.64898/2026.01.08.698316v1?rss=1) |
+| keyword_rejected | - | [Mechanism of Alkaline Gating in a Pentameric Ion Channel](https://www.biorxiv.org/content/10.64898/2026.01.07.698087v1?rss=1) |
 | ai_scored | 40 | [The Gated Quantum Resonator: A Bayesian
 Circuit–Hamiltonian ](https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Tempête Goretti : des rafales jusqu’à 160 km/h attendues dan](https://www.sciencesetavenir.fr/nature-environnement/meteo/tempete-goretti-vents-violents-attendus-sur-le-nord-ouest-la-manche-en-vigilance-rouge_190320?xtor=RSS-15) |

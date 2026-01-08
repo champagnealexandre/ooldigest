@@ -1,5 +1,93 @@
 [
   {
+    "title": "Mechanism of Alkaline Gating in a Pentameric Ion Channel",
+    "summary": "Pentameric ligand-gated ion channels (pLGICs) are key mediators of electrochemical signal transduction in various organisms. Like many proteins involved in cellular signaling, they are modulated by a variety of environmental factors including pH and small molecules. However, the molecular mechanisms underlying pLGIC activation and modulation remain unclear. A promising model system in this family is the bacterial ion channel sTeLIC, which can be activated by alkaline pH, and for which we recently determined structures in multiple functional states. However, protonation changes and other pH-driven dynamics cannot be directly observed in these structures. Here, we used constant-pH molecular dynamics simulations and oocyte-electrophysiology recordings from engineered mutants to develop a comprehensive mechanistic model for pH sensing. Interestingly, critical residues include two Glu residues (E106, E160) located in the extracellular-vestibule and domain-interface regions of each subunit, where they mediate differential electrostatic interactions in closed versus open states. This work demonstrates the applicability of constant-pH methods to model dynamic processes in a multimeric membrane-embedded protein, and offers a detailed mechanism for pH sensing, likely extensible to human drug targets.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698087v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Selective Laser Etching technology for reconfigurable microfluidic and electrochemistry-on-chip",
+    "summary": "Polydimethylsiloxane (PDMS) is widely used in academic microfluidics due to its favorable biocompatible properties and compatibility with soft lithography. Moreover, the recent developments of reconfigurable microfluidics rely on the microfabrication of sliding elements, which are 3D objects insertable inside a microfluidic chip to provide a given function. However, the complexity of microfluidic device geometries or sliding elements remains largely limited by the traditional microfabrication methods such as, among others, on SU-8 photolithography or dry epoxy films. Such methods are suited for simple, planar 2.5D structures with uniform depths, yet struggle to produce more advanced architectures due to material and alignment constraints. To address these limitations, we propose to investigate advanced laser-based approaches, such as Direct Laser Writing (DLW) and Selective Laser Etching (SLE), which enable the construction of high-resolution, 3D designs. We further explore the use of SLE to fabricate sliding elements that enhance chip functionality, including chamber reconfiguration and biological sample manipulation. As a proof of concept, we show that these elements can be functionalized into pH microsensors, paving the way to reusable and reconfigurable electrochemistry-on-chip.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698316v1?rss=1",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "biophysics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Barcode activity in a recurrent network model of the hippocampus enables efficient memory binding",
+    "summary": "Forming an episodic memory requires binding together disparate elements that co-occur in a single experience. One model of this process is that neurons representing different components of a memory bind to an \u2018index\u2019 \u2014 a subset of neurons unique to that memory. Evidence for this model has recently been found in chickadees, which use hippocampal memory to store and recall locations of cached food. Chickadee hippocampus produces sparse, high-dimensional patterns (\u2018barcodes\u2019) that uniquely specify each caching event. Unexpectedly, the same neurons that participate in barcodes also exhibit conventional place tuning. It is unknown how barcode activity is generated, and what role it plays in memory formation and retrieval. It is also unclear how a memory index (e.g. barcodes) could function in the same neural population that represents memory content (e.g. place). Here, we design a biologically plausible model that generates barcodes and uses them to bind experiential content. Our model generates barcodes from place inputs through the chaotic dynamics of a recurrent neural network and uses Hebbian plasticity to store barcodes as attractor states. The model matches experimental observations that memory indices (barcodes) and content signals (place tuning) are randomly intermixed in the activity of single neurons. We demonstrate that barcodes reduce memory interference between correlated experiences. We also show that place tuning plays a complementary role to barcodes, enabling flexible, contextually appropriate memory retrieval. Finally, our model is compatible with previous models of the hippocampus as generating a predictive map. Distinct predictive and indexing functions of the network are achieved via an adjustment of global recurrent gain. Our results suggest how the hippocampus may use barcodes to resolve fundamental tensions between memory specificity (pattern separation) and flexible recall (pattern completion) in general memory systems.",
+    "url": "https://elifesciences.org/articles/103512",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Reconstructing voice identity from noninvasive auditory cortex recordings",
+    "summary": "The cerebral processing of voice information is known to engage, in human as well as non-human primates, \u2018temporal voice areas\u2019 (TVAs) that respond preferentially to conspecific vocalizations. However, how voice information is represented by neuronal populations in these areas, particularly speaker identity information, remains poorly understood. Here, we used a deep neural network (DNN) to generate a high-level, small-dimension representational space for voice identity\u2014the \u2018voice latent space\u2019 (VLS)\u2014and examined its linear relation with cerebral activity via encoding, representational similarity, and decoding analyses. We find that the VLS maps onto fMRI measures of cerebral activity in response to tens of thousands of voice stimuli from hundreds of different speaker identities and better accounts for the representational geometry for speaker identity in the TVAs than in A1. Moreover, the VLS allowed TVA-based reconstructions of voice stimuli that preserved essential aspects of speaker identity as assessed by both machine classifiers and human listeners. These results indicate that the DNN-derived VLS provides high-level representations of voice identity information in the TVAs.",
+    "url": "https://elifesciences.org/articles/98047",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "eLife - recent issues",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Bulk-cusp microstructure for controllable multi-directional liquid spreading",
+    "summary": "<p>Nature Communications, Published online: 08 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68237-8\">doi:10.1038/s41467-025-68237-8</a></p>The ability to control the wetting of liquids on solid surfaces is crucial for advanced science and engineering. Here, a bulk-cusp microstructure enables programmable 0\u20134 directional droplet spreading without external energy, driven by precursor film dynamics and capillary forces, offering potential for improved lubrication and smart cooling applications.",
+    "url": "https://www.nature.com/articles/s41467-025-68237-8",
+    "published_date": "2026-01-08T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Astrophysicists map how many ghost particles all the Milky Way's stars send towards Earth",
+    "summary": "They're called ghost particles for a reason. They're everywhere\u2014trillions of them constantly stream through everything: our bodies, our planet, even the entire cosmos. These so-called neutrinos are elementary particles that are invisible, incredibly light, and interact only rarely with other matter.",
+    "url": "https://phys.org/news/2026-01-astrophysicists-ghost-particles-milky-stars.html",
+    "published_date": "2026-01-08T13:45:28Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cosmic lens reveals hyperactive cradle of future galaxy cluster",
+    "summary": "Galaxy clusters are formed by a dense packing of many galaxies, making them the most massive structures in the universe. Their progenitors, protoclusters, show these galaxies in their infancy, offering a window to study how they all formed. This early \"settlement\" of galaxies will eventually evolve into a sprawling metropolis by the present day.",
+    "url": "https://phys.org/news/2026-01-cosmic-lens-reveals-hyperactive-cradle.html",
+    "published_date": "2026-01-08T13:41:36Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le probl\u00e8me du canap\u00e9 dans un couloir anguleux, une \u00e9nigme math\u00e9matique enfin r\u00e9solue ?",
+    "summary": "Faire passer un canap\u00e9 dans un couloir anguleux est un probl\u00e8me g\u00e9om\u00e9trique tr\u00e8s connu. Apr\u00e8s 60 de recherches, l\u2019\u00e9nigme viendrait d'\u00eatre&nbsp;r\u00e9solue par un math\u00e9maticien cor\u00e9en.",
+    "url": "https://www.sciencesetavenir.fr/fondamental/mathematiques/le-probleme-du-canape-dans-un-couloir-anguleux-semble-resolu_190322?xtor=RSS-10",
+    "published_date": "2026-01-08T13:43:33Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "The Gated Quantum Resonator: A Bayesian\nCircuit\u2013Hamiltonian Framework for Catalysis,\nEnzymology,  Materials\nScience and UPE.",
     "summary": "Molecular dynamics (MD) and hybrid quantum\u2013classical (QM/MM) methods provide powerful tools for simulating chemical and biological systems, yet their application to long-timescale, strongly coupled processes remains limited by non-integrability, chaotic sensitivity, and extreme time-scale separation. These limitations motivate complementary formalisms that emphasize structure, constraint, and evidence integration over brute-force trajectory resolution. Here we introduce the Gated Quantum Resonator (GQR) framework, a Bayesian circuit\u2013Hamiltonian formalism in which reactive coordinates are modeled as coupled vibronic\u2013electronic resonators with gateable interactions. Linearization around operating points maps the effective Hamiltonian onto electrical network analogues, enabling transparent parameterization and rapid Bayesian updating from spectroscopic and mechanistic evidence. The framework provides a unified language for describing non-Arrhenius kinetics, tunnelling assisted by constrained vibronic coherence, and mode-selective transport in open quantum systems. Without resolving full many-body trajectories, GQR identifies protected dynamical subspaces in which coherent evolution can persist under environmental coupling. This formulation is applicable across enzymatic catalysis, heterogeneous and electrocatalytic systems, and radiative phenomena, offering a tractable complement to conventional simulation approaches for hypothesis generation, model reduction, and mechanistic discrimination.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss",
