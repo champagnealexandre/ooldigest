@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Salicylic acid induces cultivar specific compromises in yiel](https://www.nature.com/articles/s41598-026-35412-w) |
+| keyword_rejected | - | [A modular, multi-sensor crawler robot for adaptive pipeline ](https://www.nature.com/articles/s41598-025-32719-y) |
+| keyword_rejected | - | [Characterization of <i>Pseudomonas mediterranea</i> and <i>P](https://www.nature.com/articles/s41598-025-33480-y) |
+| keyword_rejected | - | [High-concurrency tri-mode memristor-based ordinary different](https://www.nature.com/articles/s41467-025-68122-4) |
+| keyword_rejected | - | [Time-resolved multiomics profiling reveals chromatin O-GlcNA](https://www.nature.com/articles/s41467-025-68143-z) |
+| keyword_rejected | - | [Ionic glass formers show an inverted relation between fragil](https://www.nature.com/articles/s41467-025-68124-2) |
+| keyword_rejected | - | [Nanoscale morphometric visualization of the endoplasmic reti](https://dx.doi.org/10.26434/chemrxiv-2026-xz82l?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Structure-Reactivity Relationships Applied to Diazonium-Base](https://dx.doi.org/10.26434/chemrxiv-2026-18ml9?rft_dat=source%3Ddrss) |
 | ai_scored | 65 | [Hierarchical chiral self-assembly of nanocylinders composed ](https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Anti-obésité: la vitesse de reprise du poids après l'arrêt d](https://www.sciencesetavenir.fr/sante/anti-obesite-la-vitesse-de-reprise-du-poids-apres-l-arret-des-traitements-eclaircie-par-une-etude_190318?xtor=RSS-16) |
 | keyword_rejected | - | [Single symmetric nanopores in ultrathin crystalline ferroele](https://www.nature.com/articles/s41467-025-68262-7) |
