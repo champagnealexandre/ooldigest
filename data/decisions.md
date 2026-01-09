@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [[À l'écoute de la science] Philippe Descola : quand l’anthro](https://www.pourlascience.fr/sr/podcast-a-lecoute-de-la-science/a-l-ecoute-de-la-science-philippe-descola-quand-l-anthropologie-devient-revolutionnaire-28652.php) |
+| keyword_rejected | - | [The Weight-Loss Drug Revolution—From Shots to Pills and the ](https://www.scientificamerican.com/podcast/episode/the-weight-loss-drug-revolution-from-shots-to-pills-and-the-science-behind/) |
+| keyword_rejected | - | [These Bizarre, Centuries-Old Greenland Sharks May Have a Hid](https://www.scientificamerican.com/article/these-bizarre-centuries-old-greenland-sharks-may-have-a-hidden-longevity/) |
+| keyword_rejected | - | [The Best Skywatching and Stargazing Events of 2026](https://www.scientificamerican.com/article/the-best-skywatching-and-stargazing-events-of-2026/) |
+| keyword_rejected | - | [Chinese nuclear fusion reactor pushes plasma past crucial li](https://www.nature.com/articles/d41586-026-00063-4) |
+| keyword_rejected | - | [Rotation amplifies mixing in ageing Sun-like stars](https://www.nature.com/articles/s41550-025-02744-y) |
+| keyword_rejected | - | [Molecular and zooarchaeological identification of 5000 year ](https://www.nature.com/articles/s41467-025-67530-w) |
+| keyword_rejected | - | [Geographic distribution of nematodes in the Atacama is assoc](https://www.nature.com/articles/s41467-025-67117-5) |
+| keyword_rejected | - | [Timely bespoke phage-antibiotic combination to treat refract](https://www.nature.com/articles/s41467-025-68136-y) |
+| keyword_rejected | - | [Antisense oligonucleotides to KIF1A polymorphisms expand tar](https://www.nature.com/articles/s41467-025-67752-y) |
+| keyword_rejected | - | [High yield production of 3-hydroxypropionic acid using Issat](https://www.nature.com/articles/s41467-025-67621-8) |
+| keyword_rejected | - | [Dynamic magneto-chiral instability in photoexcited tellurium](https://www.nature.com/articles/s41567-025-03145-8) |
+| keyword_rejected | - | [Explainable AI with EDA for V2I path loss prediction](https://www.nature.com/articles/s41598-026-34987-8) |
+| keyword_rejected | - | [Precise segmentation method for slender power targets based ](https://www.nature.com/articles/s41598-026-35084-6) |
+| keyword_rejected | - | [Timely bespoke phage-antibiotic combination to treat refract](https://www.nature.com/articles/s41467-025-68136-y) |
+| keyword_rejected | - | [High yield production of 3-hydroxypropionic acid using <i>Is](https://www.nature.com/articles/s41467-025-67621-8) |
+| keyword_rejected | - | [Characterization of natural and synthetic textile-derived bi](https://dx.doi.org/10.26434/chemrxiv-2026-1vn5k?rft_dat=source%3Ddrss) |
 | ai_scored | 55 | [A New Chirality Phenomenon in Amino Acid and Peptide Derivat](https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [A New Chirality Phenomenon in Amino Acid and Peptide Derivat](https://dx.doi.org/10.26434/chemrxiv-2026-kncjf?rft_dat=source%3Ddrss) |
 | ai_scored | 55 | [Dynamics of Low-Temperature Water are Driven by Electrostati](https://dx.doi.org/10.26434/chemrxiv-2026-t368k?rft_dat=source%3Ddrss) |
