@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [The 4x rule: Why some people’s DNA is more unstable than oth](https://www.sciencedaily.com/releases/2026/01/260109080214.htm) |
+| keyword_rejected | - | [Editorial Board](https://www.sciencedirect.com/science/article/pii/S0303264726000079?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Nirmala indices bridge molecular connectivity and genetic st](https://www.sciencedirect.com/science/article/pii/S030326472600002X?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Intelligence as high-dimensional coherence: The observable d](https://www.sciencedirect.com/science/article/pii/S0303264726000146?dgcid=rss_sd_all) |
 | ai_scored | 35 | [A hidden world inside DNA is finally revealed](https://www.sciencedaily.com/releases/2026/01/260107225541.htm) |
 | keyword_rejected | - | [To infinity and beyond Earth’s pale blue dot: Books in brief](https://www.nature.com/articles/d41586-026-00077-y) |
 | keyword_rejected | - | [Tuning Connectivity in Hybrid Organic-Inorganic Antimony Hal](https://dx.doi.org/10.26434/chemrxiv-2025-ddpxh-v2?rft_dat=source%3Ddrss) |
