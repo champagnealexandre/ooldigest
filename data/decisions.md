@@ -1,5 +1,41 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [NASA won’t bring Mars samples back to Earth: this is the sci](https://www.nature.com/articles/d41586-026-00060-7) |
+| ai_scored | 75 | [NASA won’t bring Mars samples back to Earth: this is the sci](https://www.nature.com/articles/d41586-026-00060-7) |
+| ai_scored | 25 | [Tunable Cell Surface Proximity Labeling via Photocatalytic a](https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [NASA Spaceline Current Awareness List #1,181 31 December 202](https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1181-31-december-2025-space-life-science-research-results.html) |
+| ai_scored | 45 | [Uncovering the Role of Intrinsic Magnetic Order in Oxygen
+Ev](https://dx.doi.org/10.26434/chemrxiv-2026-d2frv?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [Synthesis-Driven Structural Revision of C5-hydroxy-cyclo (L-](https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [Optical Fiber Chemical Catalysis](https://dx.doi.org/10.26434/chemrxiv-2026-tqklf?rft_dat=source%3Ddrss) |
+| ai_scored | 25 | [Synthesis-Driven Structural Revision of C5-hydroxy-cyclo (L-](https://dx.doi.org/10.26434/chemrxiv-2026-gb0hz?rft_dat=source%3Ddrss) |
+| ai_scored | 55 | [RNA topology: from simple loops to complex circuits](https://dx.doi.org/10.26434/chemrxiv-2026-zgmgw?rft_dat=source%3Ddrss) |
+| ai_scored | 25 | [Tunable Cell Surface Proximity Labeling via Photocatalytic a](https://dx.doi.org/10.26434/chemrxiv-2026-j9trd?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [Metal-free hydrogen generation from seawater and silicon was](https://dx.doi.org/10.26434/chemrxiv-2026-0l76l?rft_dat=source%3Ddrss) |
+| ai_scored | 5 | [ReactionForge: Temporal Graph Networks with Cross-Attention ](https://dx.doi.org/10.26434/chemrxiv-2026-lrn7z?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Apparent stabilizing selection explains micro and macroevolu](https://www.biorxiv.org/content/10.64898/2026.01.08.698402v1?rss=1) |
+| keyword_rejected | - | [A counter-intuitive low entanglement percolation threshold i](https://www.nature.com/articles/s42005-025-02459-6) |
+| keyword_rejected | - | [A strategy for biomass revalorization through Newman-Kwart r](https://dx.doi.org/10.26434/chemrxiv-2026-cwgpt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Electrochemical Access to N-Aryliminium Ion Electrophiles fr](https://dx.doi.org/10.26434/chemrxiv-2026-lp1z4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A photochemical strategy for pyrazole to imidazole conversio](https://dx.doi.org/10.26434/chemrxiv-2026-68vcj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Multicomponent open shell donor-acceptor diradical polymers:](https://dx.doi.org/10.26434/chemrxiv-2026-fvp5z?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Organic ionic plastic crystals composed of tetrahydrothiophe](https://dx.doi.org/10.26434/chemrxiv-2026-vk62v?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Models for characterizing dehydrating treated starch and iss](https://dx.doi.org/10.26434/chemrxiv-2026-353qk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A strategy for biomass revalorization through Newman-Kwart r](https://dx.doi.org/10.26434/chemrxiv-2026-cwgpt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Hydrogen Production from Natural Gas: An In-depth Analysis a](https://dx.doi.org/10.26434/chemrxiv-2026-36xgr?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [ADMET Profiling and In-silico Screening of Himalayan Phytoco](https://dx.doi.org/10.26434/chemrxiv-2026-bx004?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Integrated Bipolar Membrane Electrodialysis and Electrolysis](https://dx.doi.org/10.26434/chemrxiv-2026-xw0tl?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Waste-Based Volatile Fatty Acids for Fuel and Chemical Produ](https://dx.doi.org/10.26434/chemrxiv-2026-55d4t?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [An integrative biophysical and computational workflow uncove](https://dx.doi.org/10.26434/chemrxiv-2026-6xtxm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Electrochemical Access to N-Aryliminium Ion Electrophiles fr](https://dx.doi.org/10.26434/chemrxiv-2026-lp1z4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [On Repeatability of Electrochemical Zinc Nucleation and Grow](https://dx.doi.org/10.26434/chemrxiv-2026-xp32g?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Effect of doping graphene quantum dots with metalloid dopant](https://dx.doi.org/10.26434/chemrxiv-2026-lfj6k?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A photochemical strategy for pyrazole to imidazole conversio](https://dx.doi.org/10.26434/chemrxiv-2026-68vcj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Multicomponent open shell donor-acceptor diradical polymers:](https://dx.doi.org/10.26434/chemrxiv-2026-fvp5z?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Investigating the Mitochondria-Related Mechanisms of Ligustr](https://www.biorxiv.org/content/10.64898/2026.01.08.698456v1?rss=1) |
+| keyword_rejected | - | [Cytosolic factors govern vimentin network architecture and m](https://www.biorxiv.org/content/10.64898/2026.01.08.697713v1?rss=1) |
+| keyword_rejected | - | [Peptidomics Mapping of Proteolysis Highlights Triple Activat](https://www.biorxiv.org/content/10.64898/2026.01.08.698447v1?rss=1) |
+| keyword_rejected | - | [Genome-wide, evolutionary, and stress-responsive landscape o](https://www.biorxiv.org/content/10.64898/2026.01.08.698443v1?rss=1) |
 | ai_scored | 45 | [Hunting for “Oddballs” With Machine Learning: Detecting Anom](https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html) |
 | ai_scored | 50 | [The MUSCLES Extension for Atmospheric Transmission Spectrosc](https://astrobiology.com/2026/01/the-muscles-extension-for-atmospheric-transmission-spectroscopy-spectral-energy-distributions-for-20-exoplanet-host-stars-that-jwst-observed-in-cycle-1.html) |
 | ai_scored | 5 | [Hybrid quantum-classical convolutional neural network for as](http://link.aps.org/doi/10.1103/rnsj-5yjh) |
