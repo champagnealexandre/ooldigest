@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Decoding the Catalytic Strategy for DNA Alkylation Repair by](https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss) |
+| ai_scored | 10 | [Efficient Simulation of Optical Spectra via Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss) |
+| ai_scored | 10 | [Theoretical prediction for monitoring Jahn-Teller vibrationa](https://www.nature.com/articles/s41467-025-67894-z) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109042450&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Grève des médecins: la ministre invite les syndicats samedi,](https://www.sciencesetavenir.fr/sante/greve-des-medecins-la-ministre-invite-les-syndicats-samedi-jour-de-manifestations_190339?xtor=RSS-16) |
+| keyword_rejected | - | [NASA, in a rare move, cuts space station mission short after](https://phys.org/news/2026-01-nasa-rare-space-station-mission.html) |
+| keyword_rejected | - | [Compute-in-memory implementation of state space models for e](https://www.nature.com/articles/s41467-025-68227-w) |
+| keyword_rejected | - | [Chemoenzymatic Triazolopyridine Synthesis Enabled by Cryptic](https://dx.doi.org/10.26434/chemrxiv-2026-c62pw?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Singlet Fission Enables Triplet Sensitization of Narrow Gap ](https://dx.doi.org/10.26434/chemrxiv-2026-bxv8r?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Chemoenzymatic Triazolopyridine Synthesis Enabled by Cryptic](https://dx.doi.org/10.26434/chemrxiv-2026-c62pw?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109032518&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Ocean Temperatures Just Hit a Dire New Record](https://www.scientificamerican.com/article/ocean-temperatures-just-hit-a-dire-new-record/) |
 | keyword_rejected | - | [L'Australie en proie aux feux dans des "conditions catastrop](https://www.sciencesetavenir.fr/nature-environnement/l-australie-en-proie-aux-feux-dans-des-conditions-catastrophiques-selon-les-pompiers_190338?xtor=RSS-15) |

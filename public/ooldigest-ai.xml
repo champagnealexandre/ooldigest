@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-09T08:25:23.051808+00:00</updated>
+  <updated>2026-01-09T09:25:02.647616+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [10] Nature Communications ▶ Theoretical prediction for monitoring Jahn-Teller vibrational evolution using real-space tip-enhanced Raman imaging</title>
+    <link href="https://www.nature.com/articles/s41467-025-67894-z"/>
+    <id>https://www.nature.com/articles/s41467-025-67894-z</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 09 January 2026; doi:10.1038/s41467-025-67894-z Jahn-Teller distortions alter molecular structures, but are usually only probed on the basis of electronic sign</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Demonstrates real-space tip-enhanced Raman imaging to map Jahn–Teller–driven vibrational changes in a single molecule, an enabling spectroscopy advance but not directly focused on origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 09 January 2026; doi:10.1038/s41467-025-67894-z Jahn-Teller distortions alter molecular structures, but are usually only probed on the basis of electronic signatures. Here, the authors demonstrate that tip-enhanced Raman imaging in real space can map the associated vibrational changes in a single molecule.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-67894-z">https://www.nature.com/articles/s41467-025-67894-z</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-67894-z">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [10] ChemRxiv ▶ Efficient Simulation of Optical Spectra via Machine Learning and Physical Decomposition of Environmental Effects</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>Simulations of optical spectra can provide key insights to aid experimental interpretation of electronic excitation phenomena. For chromophores in the condensed phase, these spectra, which incorporate</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Introduces a machine-learning/physics hybrid method to efficiently simulate environment-influenced optical spectra of solvated chromophores (demonstrated in water and methanol), with limited direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Simulations of optical spectra can provide key insights to aid experimental interpretation of electronic excitation phenomena. For chromophores in the condensed phase, these spectra, which incorporate the coupling between electronic excitation and molecular and solvent nuclear motions, can be simulated using excitation energies obtained from molecular dynamics simulations of the chromophore and solvent. Here, we present a hybrid scheme that exploits machine learning and physically informed spectral densities to show that as few as 25 ground and excited state energetic gradient calculations can be used to construct models that accurately predict environment-influenced vibronic coupling in optical spectra. We demonstrate our approach for the green fluorescent protein chromophore in water and the cresyl violet chromophore in methanol. We show that our hybrid approach, employing a machine learning model for the high-frequency spectral density and an ab initio parameterized Debye spectral density for the low-frequency, results in systematic improvement of the optical absorption lineshape, leading to a simple machine learning scheme that can be used for simulation of spectral densities and optical spectra.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Decoding the Catalytic Strategy for DNA Alkylation Repair by AlkA: Insights from MD Simulations and QM/MM Calculations</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-09T00:00:00Z</updated>
+    <summary>DNA is under constant attack by exogenous and endogenous agents that result in alkylation damage, which can lead to mutagenesis and cell death. 3-methyladenine DNA glycosylase II (AlkA) initiates the </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, DNA</p>
+<p><strong>AI Decision:</strong> MD and QM/MM simulations suggest bacterial AlkA excises 3-methyladenine via direct hydrolysis with D238 activating a water nucleophile, clarifying active-site dynamics and substrate promiscuity relevant to DNA stability in living systems rather than core origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> DNA is under constant attack by exogenous and endogenous agents that result in alkylation damage, which can lead to mutagenesis and cell death. 3-methyladenine DNA glycosylase II (AlkA) initiates the repair of many alkylated nucleotides in bacterial cells by cleaving the glycosidic bond connecting the damaged nucleobase to deoxyribose. However, due to the lack of a crystal structure for the enzyme with a substrate nucleotide bound in the active site, it is poorly understood how AlkA accommodates such a wide variety of substrates and there is controversy regarding the AlkA catalytic mechanism. The present study uses MD simulations to investigate AlkA interactions with DNA containing a major substrate, 3-methyladenine (3mA), and QM/MM calculations to map multiple potential pathways for 3mA excision. MD simulations reveal eight residues comprise the AlkA active site, binding the substrate through several non-specific, hydrophobic contacts. Substrate promiscuity is uncovered as likely to be further promoted by Y273, which can change conformation to modulate the binding pocket size. Despite a previous proposal that AlkA actvitity involves DNA−protein crosslink formation, QM/MM calculations suggest that catalysis proceeds through a direct hydrolysis mechanism in which D238 activates a water nucleophile that attacks at C1′ of the damaged nucleotide. Our combined MD and QM/MM approach highlights that proper D238 positioning with respect to the substrate is supported by a network of D238 interactions with the substrate, W218, and W272. The proposed mechanism is consistent with experimental kinetic, mutagenic, and structural data for AlkA, and aligns with the preferred pathway of many other monofunctional glycosylases. The insights into AlkA substrate binding and catalysis gained from this study can push forward the design of small molecule inhibitors as antibacterial agents and broaden our general understanding of DNA repair pathways, which can aid in the development of cancer therapeutics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [0] cs.NE updates on arXiv.org ▶ Advanced Multimodal Learning for Seizure Detection and Prediction: Concept, Challenges, and Future Directions</title>
     <link href="https://arxiv.org/abs/2601.05095"/>

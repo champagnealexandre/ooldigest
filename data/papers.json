@@ -1,5 +1,137 @@
 [
   {
+    "title": "Theoretical prediction for monitoring Jahn-Teller vibrational evolution using real-space tip-enhanced Raman imaging",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67894-z\">doi:10.1038/s41467-025-67894-z</a></p>Jahn-Teller distortions alter molecular structures, but are usually only probed on the basis of electronic signatures. Here, the authors demonstrate that tip-enhanced Raman imaging in real space can map the associated vibrational changes in a single molecule.",
+    "url": "https://www.nature.com/articles/s41467-025-67894-z",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41467-025-67894-z"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "Demonstrates real-space tip-enhanced Raman imaging to map Jahn\u2013Teller\u2013driven vibrational changes in a single molecule, an enabling spectroscopy advance but not directly focused on origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Efficient Simulation of Optical Spectra via Machine Learning and Physical Decomposition of Environmental Effects",
+    "summary": "Simulations of optical spectra can provide key insights to aid experimental interpretation of electronic excitation phenomena. For chromophores in the condensed phase, these spectra, which incorporate the coupling between electronic excitation and molecular and solvent nuclear motions, can be simulated using excitation energies obtained from molecular dynamics simulations of the chromophore and solvent. Here, we present a hybrid scheme that exploits machine learning and physically informed spectral densities to show that as few as 25 ground and excited state energetic gradient calculations can be used to construct models that accurately predict environment-influenced vibronic coupling in optical spectra. We demonstrate our approach for the green fluorescent protein chromophore in water and the cresyl violet chromophore in methanol. We show that our hybrid approach, employing a machine learning model for the high-frequency spectral density and an ab initio parameterized Debye spectral density for the low-frequency, results in systematic improvement of the optical absorption lineshape, leading to a simple machine learning scheme that can be used for simulation of spectral densities and optical spectra.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "Introduces a machine-learning/physics hybrid method to efficiently simulate environment-influenced optical spectra of solvated chromophores (demonstrated in water and methanol), with limited direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Decoding the Catalytic Strategy for DNA Alkylation Repair by AlkA: Insights from MD Simulations and QM/MM Calculations",
+    "summary": "DNA is under constant attack by exogenous and endogenous agents that result in alkylation damage, which can lead to mutagenesis and cell death. 3-methyladenine DNA glycosylase II (AlkA) initiates the repair of many alkylated nucleotides in bacterial cells by cleaving the glycosidic bond connecting the damaged nucleobase to deoxyribose. However, due to the lack of a crystal structure for the enzyme with a substrate nucleotide bound in the active site, it is poorly understood how AlkA accommodates such a wide variety of substrates and there is controversy regarding the AlkA catalytic mechanism. The present study uses MD simulations to investigate AlkA interactions with DNA containing a major substrate, 3-methyladenine (3mA), and QM/MM calculations to map multiple potential pathways for 3mA excision. MD simulations reveal eight residues comprise the AlkA active site, binding the substrate through several non-specific, hydrophobic contacts. Substrate promiscuity is uncovered as likely to be further promoted by Y273, which can change conformation to modulate the binding pocket size. Despite a previous proposal that AlkA actvitity involves DNA\u2212protein crosslink formation, QM/MM calculations suggest that catalysis proceeds through a direct hydrolysis mechanism in which D238 activates a water nucleophile that attacks at C1\u2032 of the damaged nucleotide. Our combined MD and QM/MM approach highlights that proper D238 positioning with respect to the substrate is supported by a network of D238 interactions with the substrate, W218, and W272. The proposed mechanism is consistent with experimental kinetic, mutagenic, and structural data for AlkA, and aligns with the preferred pathway of many other monofunctional glycosylases. The insights into AlkA substrate binding and catalysis gained from this study can push forward the design of small molecule inhibitors as antibacterial agents and broaden our general understanding of DNA repair pathways, which can aid in the development of cancer therapeutics.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water",
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "MD and QM/MM simulations suggest bacterial AlkA excises 3-methyladenine via direct hydrolysis with D238 activating a water nucleophile, clarifying active-site dynamics and substrate promiscuity relevant to DNA stability in living systems rather than core origins-of-life chemistry."
+    }
+  },
+  {
+    "title": "Chemoenzymatic Triazolopyridine Synthesis Enabled by Cryptic Diazo Formation by Vanadium-Dependent Haloperoxidases",
+    "summary": "Triazolopyridines are an important class of heterocycles in the pharmaceutical industry and materials sciences. In particular, [1,2,3]triazolo[1,5a]pyridines have emerged as stable and versatile diazo compound precursors for performing carbene-mediated transformations. Despite their wide range of applications in chemical synthesis, their preparation is often reliant on oxidative cyclization methods using stoichiometric oxidants in organic solvent, limiting their application in chemoenzymatic synthesis. We have recently discovered that vanadium-dependent haloperoxidase (VHPO) enzymes are effective catalysts for performing the oxidative cyclization of 2-pyridyl ketone hydrazones to give [1,2,3]triazolo[1,5a]pyridines through cryptic diazo formation. Herein, we have developed a chemoenzymatic protocol for conversion of 2-pyridyl ketones to [1,2,3]triazolo[1,5a]pyridines in a single vessel through the in situ generation of 2-pyridyl ketone hydrazones followed by VHPO-catalyzed oxidative cyclization to give [1,2,3]triazolo[1,5a]pyridines in high yield and chemoselectivity.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-c62pw?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Singlet Fission Enables Triplet Sensitization of Narrow Gap Hybrid Perovskites",
+    "summary": "Materials that exhibit singlet fission, where a high-energy photon generates two lower energy triplet excitons, open interesting opportunities to surpass the Shockley-Queisser limit in single-junction solar cells. Although existing candidates such as TIPS-Pentacene achieve high triplet exciton yields, the low energy of these triplets (1eV) limits their application to modern thin-film solar cell applications, such as hybrid perovskites, where band gaps remain >1.25 eV. In this study, we investigate and report triplet energy transfer from a high-energy singlet fission material, 9,10-dicyanoanthracene (DCA), to the low bandgap FA0.5MA0.5Pb0.5Sn0.5I3. Photoluminescence measurements reveal triplet transfer from DCA to the perovskite resulting in one order magnitude increased emission intensity. This claim is validated by correlating the energy threshold for this process with the singlet fission generation threshold in DCA (3eV). Carrier lifetime is extended by an order of magnitude in DCA/perovskite systems as revealed by transient absorption spectroscopy. This study provides an important first step towards the successful sensitization of hybrid perovskites with wide bandgap singlet fission molecules.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-bxv8r?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chemoenzymatic Triazolopyridine Synthesis Enabled by Cryptic Diazo Formation by Vanadium-Dependent Haloperoxidases",
+    "summary": "Triazolopyridines are an important class of heterocycles in the pharmaceutical industry and materials sciences. In particular, [1,2,3]triazolo[1,5a]pyridines have emerged as stable and versatile diazo compound precursors for performing carbene-mediated transformations. Despite their wide range of applications in chemical synthesis, their preparation is often reliant on oxidative cyclization methods using stoichiometric oxidants in organic solvent, limiting their application in chemoenzymatic synthesis. We have recently discovered that vanadium-dependent haloperoxidase (VHPO) enzymes are effective catalysts for performing the oxidative cyclization of 2-pyridyl ketone hydrazones to give [1,2,3]triazolo[1,5a]pyridines through cryptic diazo formation. Herein, we have developed a chemoenzymatic protocol for conversion of 2-pyridyl ketones to [1,2,3]triazolo[1,5a]pyridines in a single vessel through the in situ generation of 2-pyridyl ketone hydrazones followed by VHPO-catalyzed oxidative cyclization to give [1,2,3]triazolo[1,5a]pyridines in high yield and chemoselectivity.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-c62pw?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Compute-in-memory implementation of state space models for event sequence processing",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68227-w\">doi:10.1038/s41467-025-68227-w</a></p>Spiking neural networks are generally used for sequential information and event data processing but still lack high performance. Through algorithm and hardware co-design, Zhang et al. report a State Space Model based approach to implement on compute-in memory hardware, enabling asynchronous and real-time processing capability with high energy efficiency for event sequences.",
+    "url": "https://www.nature.com/articles/s41467-025-68227-w",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NASA, in a rare move, cuts space station mission short after an astronaut's medical issue",
+    "summary": "In a rare move, NASA is cutting a mission aboard the International Space Station short after an astronaut had a medical issue.",
+    "url": "https://phys.org/news/2026-01-nasa-rare-space-station-mission.html",
+    "published_date": "2026-01-09T09:23:27Z",
+    "source_feed": "phys.org - Space News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Gr\u00e8ve des m\u00e9decins: la ministre invite les syndicats samedi, jour de manifestations",
+    "summary": "La ministre de la Sant\u00e9, St\u00e9phanie Rist, a propos\u00e9 vendredi de recevoir le lendemain les syndicats de m\u00e9decins lib\u00e9raux, qui pr\u00e9voient de manifester apr\u00e8s pr\u00e8s d'une semaine de gr\u00e8ve encore pr\u00e9vue pour durer plusieurs jours.\n\"Je serai samedi au minist\u00e8re pour les recevoir\", a annonc\u00e9 Mme Rist sur Franceinfo, pr\u00e9cisant avoir envoy\u00e9 jeudi soir un courrier en ce sens aux syndicats (m\u00e9decins, \u00e9tudiants.).",
+    "url": "https://www.sciencesetavenir.fr/sante/greve-des-medecins-la-ministre-invite-les-syndicats-samedi-jour-de-manifestations_190339?xtor=RSS-16",
+    "published_date": "2026-01-09T08:25:01Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109042450&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "EquiNet: Modeling Vapor-Liquid Equilibrium Using Simultaneous Neural-Network Predictions for Activity Coefficient and Vapor Pressure",
     "summary": "In this work, we present EquiNet, a neural network for predicting vapor\u2013liquid equilibrium (VLE) in novel binary mixtures through direct estimation of activity coefficients and vapor pressures. The model embeds a classic excess-Gibbs free energy formulation, ensuring Gibbs\u2013Duhem consistency on all predicted activity coefficients. Given molecular SMILES, liquid-phase composition, and temperature, EquiNet predicts vapor composition and pressure, enabling end-to-end training on experimental data without requiring precomputed activity coefficients. Across the UNIFAC-scope VLE dataset (covering 55,470 binary datapoints), EquiNet achieves a log10 Pressure (Pa) RMSE of 0.0659, outperforming UNIFAC (0.087) and the HANNA machine-learning model (0.101) under the same molecular-scope assumptions. For evaluation on previously unseen chemical systems, we follow a novel-mixture cross-validation protocol that demonstrated strong transferability across diverse functional groups and molecular classes. On the public Jaubert benchmark, restricted to UNIFAC-compatible pairs (2,099 points), EquiNet attains a comparable 0.03436 log10 Pressure (Pa) RMSE, substantially below HANNA (0.26743) and UNIFAC (1.55616). This work employs a modified Raoult\u2019s law approach without vapor-phase fugacity or Poynting corrections and is limited to neutral, organic, non-reactive binary mixtures composed of supported elements. The method does not detect mixture criticality, and any supercritical examples should be interpreted qualitatively.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2025-wmxtm-v4?rft_dat=source%3Ddrss",
