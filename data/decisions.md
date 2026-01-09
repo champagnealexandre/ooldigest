@@ -1,5 +1,31 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [DNA-Encoded Nanoparticle Interfaces Accelerate Diverse Enzym](https://dx.doi.org/10.26434/chemrxiv-2026-hrvzp?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [Targeted Chromosomal Sequencing of Wild Bonobos Identifies a](https://www.biorxiv.org/content/10.64898/2026.01.08.698381v1?rss=1) |
+| ai_scored | 50 | [Short activation domains control chromatin association of tr](https://elifesciences.org/articles/105776) |
+| ai_scored | 0 | [Hybrid parasites threaten progress against one of the world'](https://phys.org/news/2026-01-hybrid-parasites-threaten-world-widespread.html) |
+| ai_scored | 10 | [Can we use bees as a model of intelligent alien life to deve](https://phys.org/news/2026-01-bees-intelligent-alien-life-interstellar.html) |
+| keyword_rejected | - | [[La semaine en bref] Rendre à Léonard ce qui lui appartient](https://www.pourlascience.fr/sr/revue-de-presse/la-semaine-en-bref-rendre-a-leonard-ce-qui-lui-appartient-28654.php) |
+| keyword_rejected | - | [‘Coming out as a transgender scientist made me the best teac](https://www.nature.com/articles/d41586-026-00057-2) |
+| keyword_rejected | - | [This shapeshifting polymer was inspired by octopus skin](https://www.nature.com/articles/d41586-026-00101-1) |
+| keyword_rejected | - | [Mémoire des chiens, minerais du Venezuela et énigme mathémat](https://www.sciencesetavenir.fr/ultrabreves/memoire-des-chiens-minerais-du-venezuela-et-enigme-mathematique-du-canape-l-actu-des-sciences-en-ultrabreves_190343) |
+| keyword_rejected | - | [Les gènes d'un génie : un nouveau pas dans la quête de l'ADN](https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/les-genes-d-un-genie-un-nouveau-pas-dans-la-quete-de-l-adn-de-leonard-de-vinci_190344?xtor=RSS-10) |
+| keyword_rejected | - | [SpaceX targets afternoon launch of 2nd Space Coast mission o](https://phys.org/news/2026-01-spacex-afternoon-2nd-space-coast.html) |
+| keyword_rejected | - | [How quiet galaxies stay quiet: Cool gas feeds black holes in](https://phys.org/news/2026-01-quiet-galaxies-stay-cool-gas.html) |
+| keyword_rejected | - | [Scientists find more active black holes in dwarf and Milky W](https://phys.org/news/2026-01-scientists-black-holes-dwarf-milky.html) |
+| keyword_rejected | - | [A large-scale multi-ancestry genome-wide association study o](https://www.nature.com/articles/s41467-025-64954-2) |
+| keyword_rejected | - | [Cryo-EM structure of photosystem II supercomplex from a gree](https://www.nature.com/articles/s41467-025-65861-2) |
+| keyword_rejected | - | [Multi-generational koala pedigree analysis reveals rapid cha](https://www.nature.com/articles/s41467-025-66312-8) |
+| keyword_rejected | - | [Sulfatide deficiency-induced astrogliosis and myelin lipid d](https://www.nature.com/articles/s41467-025-66222-9) |
+| keyword_rejected | - | [Climatic niche conservatism in non-native plants depends on ](https://www.nature.com/articles/s41467-025-68023-6) |
+| keyword_rejected | - | [Two classes of amine/glutamate multi-transmitter neurons inn](https://elifesciences.org/articles/108225) |
+| keyword_rejected | - | [The interplay between biomolecular assembly and phase separa](https://elifesciences.org/articles/93003) |
+| keyword_rejected | - | [Affinity-guided labeling reveals P2X7 nanoscale membrane red](https://elifesciences.org/articles/106096) |
+| keyword_rejected | - | [Climatic niche conservatism in non-native plants depends on ](https://www.nature.com/articles/s41467-025-68023-6) |
+| keyword_rejected | - | [Toward On-the-Fly Prediction of Reaction Energetics for High](https://dx.doi.org/10.26434/chemrxiv-2026-np10c?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Two distinct green algal symbionts cohabiting in the Japanes](https://www.biorxiv.org/content/10.64898/2026.01.07.698294v1?rss=1) |
+| keyword_rejected | - | [Integrated multi-omics analysis identifies microbial and met](https://www.biorxiv.org/content/10.64898/2026.01.08.698420v1?rss=1) |
+| keyword_rejected | - | [Stack: In-Context Learning of Single-Cell Biology](https://www.biorxiv.org/content/10.64898/2026.01.09.698608v1?rss=1) |
 | ai_scored | 15 | [The 4x rule: Why some people’s DNA is more unstable than oth](https://www.sciencedaily.com/releases/2026/01/260109080214.htm) |
 | keyword_rejected | - | [Editorial Board](https://www.sciencedirect.com/science/article/pii/S0303264726000079?dgcid=rss_sd_all) |
 | keyword_rejected | - | [Nirmala indices bridge molecular connectivity and genetic st](https://www.sciencedirect.com/science/article/pii/S030326472600002X?dgcid=rss_sd_all) |
