@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le kakapo, perroquet en danger, recommence à se reproduire](https://www.sciencesetavenir.fr/animaux/oiseaux/nouvelle-zelande-le-kakapo-perroquet-en-danger-recommence-a-se-reproduire-apres-4-ans_190337?xtor=RSS-26) |
+| keyword_rejected | - | [Les océans ont absorbé une quantité record de chaleur en 202](https://www.sciencesetavenir.fr/nature-environnement/les-oceans-ont-absorbe-une-quantite-record-de-chaleur-en-2025_190340?xtor=RSS-15) |
+| keyword_rejected | - | [Les chasseurs-cueilleurs sud-africains empoisonnaient déjà l](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-chasseurs-cueilleurs-sud-africains-empoisonnaient-deja-leurs-fleches-il-y-a-60-000-ans_190328?xtor=RSS-4) |
+| keyword_rejected | - | [Le possible ancêtre commun à Homo sapiens et Neandertal raco](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/le-possible-ancetre-commun-a-homo-sapiens-et-neandertal-raconte-par-ses-decouvreurs_190331?xtor=RSS-4) |
+| keyword_rejected | - | [Chatbots in therapy: do AI models really have 'trauma'?](https://www.nature.com/articles/d41586-025-04112-2) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109051859&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Identification of ACBP as a potential target in ciliopathic ](https://www.nature.com/articles/s41467-025-66235-4) |
+| keyword_rejected | - | [Disappearing ‘planet’ reveals a solar system’s turbulent tim](https://www.nature.com/articles/d41586-025-04148-4) |
+| keyword_rejected | - | [Association-gated multiphoton activation of inert haloarenes](https://dx.doi.org/10.26434/chemrxiv-2025-1386d-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Catalytic CO homologation at magnesium](https://dx.doi.org/10.26434/chemrxiv-2026-7vk7q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Photogeneration of Cobalt-Stabilized Aminium Radical](https://dx.doi.org/10.26434/chemrxiv-2026-7f3nd?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [DynaSpec: Metadynamics and Raman Spectroscopy for Glycan Str](https://dx.doi.org/10.26434/chemrxiv-2026-s42n5?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Association-gated multiphoton activation of inert haloarenes](https://dx.doi.org/10.26434/chemrxiv-2025-1386d-v2?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Decoding the Catalytic Strategy for DNA Alkylation Repair by](https://dx.doi.org/10.26434/chemrxiv-2026-fbw0w?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [Efficient Simulation of Optical Spectra via Machine Learning](https://dx.doi.org/10.26434/chemrxiv-2026-r7kfr?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [Theoretical prediction for monitoring Jahn-Teller vibrationa](https://www.nature.com/articles/s41467-025-67894-z) |

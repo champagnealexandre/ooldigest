@@ -1,5 +1,148 @@
 [
   {
+    "title": "Association-gated multiphoton activation of inert haloarenes via sequential electron donor\u2013acceptor assembly",
+    "summary": "The functionalization of recalcitrant chemical bonds that require extreme reduction potentials is often thwarted by the absence of a defined reaction field to control potent intermediates. Conventional multiphoton photocatalysis generates super-reductants, whose immense energy dissipates through chaotic, diffusion-controlled pathways. Herein, an \"association-gated\" strategy is introduced that constructs sequential electron donor\u2013acceptor (EDA) complexes as programmable reaction microenvironments. This system initially captures a single photon through its sulfide/naphthalene monoimide (NMI) complex. The resulting NMI radical anion serves as a scaffold to pre-organize the haloarene substrate into a second, distinct EDA complex, creating a reaction pocket for the final, energy-storing excitation. Such supramolecular confinement generates an extreme reducing potential at the carbon\u2013halogen bond, suppressing both diffusive side-reactions and parasitic hydrogen atom transfer from amine donors. This unlocks a broad scope of transformations under air-tolerant conditions, providing a versatile tool for late-stage diversification.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-1386d-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "DynaSpec: Metadynamics and Raman Spectroscopy for Glycan Structure\u2013Spectrum Mapping",
+    "summary": "Raman spectroscopy offers label-free access to molecular vibrations across biological systems of varying complexities, from small molecules to flexible biomolecular oligomers and even whole cells. While Raman spectra of small molecules often permit direct structural interpretation, intermediate-sized systems\u2014such as glycans, short nucleic acids, and peptides\u2014exhibit higher compositional and conformational heterogeneity that obscures structure\u2013spectrum relationships. We introduce DynaSpec, a framework integrating metadynamics performed in a machine-learned latent space with population-weighted DFT Raman calculations and experimental Raman spectroscopy to enable quantitative, bidirectional mapping between molecular structure and vibrational spectra. By determining equilibrium conformational populations and linking normal modes to the structural coordinates that modulate them, DynaSpec enables mechanistic interpretation of congested Raman profiles. Applied to glycans, DynaSpec\u2019s ensemble-averaged DFT predictions agree with experimentally acquired spectra that support >85% classification accuracy across 13 N-glycans. Metadynamics reveals a conserved \u03b16 open\u2013curled switching motif, and the combined analysis identifies a glycosidic torsion-enriched window that enables experimental positional isomer discrimination to >70% accuracy. DynaSpec also generalizes to O-glycans and sulfated glycosaminoglycans. Together, these capabilities establish an ensemble-resolved framework for structure-informed spectroscopy for different classes of biomolecules.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-s42n5?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Photogeneration of Cobalt-Stabilized Aminium Radical",
+    "summary": "Transition metal-stabilized radical systems have been of interest in the field of redox chemistry. However, ligand-centered radicals still remain difficult to access and control photochemically in first-row transition-metal complexes. Here we report a cobalt complex based on a dimethylamino-functionalized ImP (bis(imidazolylidene)phenyl) ligand scaffold that undergoes a clean and reversible photooxidation to generate a [Co(ImPNMe2)]2+ featuring a ligand centered aminium radical upon exposure to mild UV irradiation or chemical oxidation. The unpaired electron of the aminium nitrogen is delocalized along the phenyl-Co-phenyl axis, enabling direct characterization by NMR spectroscopy in addition to UV-Vis, SEC-UV-Vis, XAS and EPR spectroscopy. Formation of the radical is accompanied by the emergence of two intense absorption bands, allowing convenient spectroscopic monitoring of the photo-redox process. Together, these results establish a rare example of a light-induced ligand-centered radical in a cobalt complex and highlight its potential for photo-induced reactivity.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-7f3nd?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Catalytic CO homologation at magnesium",
+    "summary": "The synthesis of C2+ molecules from C1 sources is a critical technology for a sustainable chemical economy. Carbon monoxide (CO) is a key C1 feedstock for processes such as the Fischer-Tropsch synthesis, however achieving the reductive coupling of CO to C2+ products with selectivity is a major contemporary challenge. Homogeneous catalysis has been proposed to address this gap though this is largely unrealised despite nearly half a century of research. This report details the homologation of CO catalysed by a dipyrromethene magnesium alkyl complex, and a turnover strategy underpinned by the bulk industrial reagent triethylaluminium. Single turnover experiments between the magnesium alkyl catalyst and CO resulted in a CO homologated product. Reaction of this product with triethylaluminium allowed for isolation of intermediates and provided experimental evidence for structural motifs in the calculated catalytic pathway. This work demonstrates a new approach to CO activation and catalysis mechanistically distinct from transition-metal reactivity.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-7vk7q?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Association-gated multiphoton activation of inert haloarenes via sequential electron donor\u2013acceptor assembly",
+    "summary": "The functionalization of recalcitrant chemical bonds that require extreme reduction potentials is often thwarted by the absence of a defined reaction field to control potent intermediates. Conventional multiphoton photocatalysis generates super-reductants, whose immense energy dissipates through chaotic, diffusion-controlled pathways. Herein, an \"association-gated\" strategy is introduced that constructs sequential electron donor\u2013acceptor (EDA) complexes as programmable reaction microenvironments. This system initially captures a single photon through its sulfide/naphthalene monoimide (NMI) complex. The resulting NMI radical anion serves as a scaffold to pre-organize the haloarene substrate into a second, distinct EDA complex, creating a reaction pocket for the final, energy-storing excitation. Such supramolecular confinement generates an extreme reducing potential at the carbon\u2013halogen bond, suppressing both diffusive side-reactions and parasitic hydrogen atom transfer from amine donors. This unlocks a broad scope of transformations under air-tolerant conditions, providing a versatile tool for late-stage diversification.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-1386d-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Disappearing \u2018planet\u2019 reveals a solar system\u2019s turbulent times",
+    "summary": "",
+    "url": "https://www.nature.com/articles/d41586-025-04148-4",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "nature.com - Astronomy and astrophysics",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Identification of ACBP as a potential target in ciliopathic obesity through multi-omics network analysis",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-66235-4\">doi:10.1038/s41467-025-66235-4</a></p>Alstr\u00f6m syndrome (A\u00f6S) is a rare genetic disorder characterized by metabolic problems. Here, the authors show that in A\u00f6S models, defects in cilia and autophagy lead to ACBP accumulation, which drives obesity. An anti-ACBP antibody reduces weight gain and metabolic dysfunction, highlighting ACBP as a therapeutic target for this ciliopathy.",
+    "url": "https://www.nature.com/articles/s41467-025-66235-4",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109051859&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Chatbots in therapy: do AI models really have 'trauma'?",
+    "summary": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04112-2\">doi:10.1038/d41586-025-04112-2</a></p>Chatbots put through psychotherapy report trauma and abuse. Authors say models are doing more than role play, but researchers are sceptical.",
+    "url": "https://www.nature.com/articles/d41586-025-04112-2",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le possible anc\u00eatre commun \u00e0 Homo sapiens et Neandertal racont\u00e9 par ses d\u00e9couvreurs",
+    "summary": "Retour et pr\u00e9cisions sur les fossiles pr\u00e9humains vieux de 773.000 ans d\u00e9couverts pr\u00e8s de Casablanca, au Maroc, et qui seraient proches de l'anc\u00eatre commun \u00e0 Homo sapiens et Neandertal. Les scientifiques ayant particip\u00e9 aux fouilles, \u00e0 l'analyse du site et des restes reviennent en d\u00e9tail&nbsp;sur cette magnifique trouvaille, fruit de d\u00e9cennies de recherches.",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/le-possible-ancetre-commun-a-homo-sapiens-et-neandertal-raconte-par-ses-decouvreurs_190331?xtor=RSS-4",
+    "published_date": "2026-01-09T10:06:31Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Les chasseurs-cueilleurs sud-africains empoisonnaient d\u00e9j\u00e0 leurs fl\u00e8ches il y a 60.000 ans",
+    "summary": "C\u2019est un bond en arri\u00e8re de plusieurs dizaines de milliers d\u2019ann\u00e9es, car jusqu\u2019\u00e0 pr\u00e9sent les premi\u00e8res preuves directes de fl\u00e8ches empoisonn\u00e9es ne remontaient qu\u2019\u00e0 6.700&nbsp;ans.",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-chasseurs-cueilleurs-sud-africains-empoisonnaient-deja-leurs-fleches-il-y-a-60-000-ans_190328?xtor=RSS-4",
+    "published_date": "2026-01-09T09:58:46Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Les oc\u00e9ans ont absorb\u00e9 une quantit\u00e9 record de chaleur en 2025",
+    "summary": "Les oc\u00e9ans ont absorb\u00e9 une quantit\u00e9 record d'\u00e9nergie en 2025, selon une \u00e9tude scientifique publi\u00e9e vendredi, un ph\u00e9nom\u00e8ne propice \u00e0 l'\u00e9l\u00e9vation du niveau de la mer, aux temp\u00eates violentes et au d\u00e9p\u00e9rissement des coraux.\nC'est la neuvi\u00e8me ann\u00e9e d'affil\u00e9e que la chaleur stock\u00e9e par les oc\u00e9ans atteint un record, a pr\u00e9cis\u00e9 \u00e0 l'AFP Lijing Cheng, professeur \u00e0 l\u2019Institut de physique atmosph\u00e9rique (IAP) de l'Acad\u00e9mie chinoise des sciences (CAS) et auteur principal de cette analyse publi\u00e9e dans la revue Advances in Atmospheric Sciences par plus de 50 scientifiques du monde entier. \nLa quantit\u00e9 totale de chaleur stock\u00e9e dans les 2.000 premiers m\u00e8tres des oc\u00e9ans a ainsi augment\u00e9 d'environ 23 zettajoules en 2025, une quantit\u00e9 d'\u00e9nergie \u00e9quivalent \u00e0 \"12 bombes atomiques d'Hiroshima explosant chaque seconde de chaque jour de l'ann\u00e9e\", a soulign\u00e9 M.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/les-oceans-ont-absorbe-une-quantite-record-de-chaleur-en-2025_190340?xtor=RSS-15",
+    "published_date": "2026-01-09T08:17:11Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Le kakapo, perroquet en danger, recommence \u00e0 se reproduire",
+    "summary": "Il ne reste plus que 236 kakapos, s\u00e9par\u00e9s en trois populations reproductrices sur certaines des \u00eeles les plus recul\u00e9es du sud de la Nouvelle-Z\u00e9lande.",
+    "url": "https://www.sciencesetavenir.fr/animaux/oiseaux/nouvelle-zelande-le-kakapo-perroquet-en-danger-recommence-a-se-reproduire-apres-4-ans_190337?xtor=RSS-26",
+    "published_date": "2026-01-09T03:02:16Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Theoretical prediction for monitoring Jahn-Teller vibrational evolution using real-space tip-enhanced Raman imaging",
     "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67894-z\">doi:10.1038/s41467-025-67894-z</a></p>Jahn-Teller distortions alter molecular structures, but are usually only probed on the basis of electronic signatures. Here, the authors demonstrate that tip-enhanced Raman imaging in real space can map the associated vibrational changes in a single molecule.",
     "url": "https://www.nature.com/articles/s41467-025-67894-z",
