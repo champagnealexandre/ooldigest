@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109032518&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Ocean Temperatures Just Hit a Dire New Record](https://www.scientificamerican.com/article/ocean-temperatures-just-hit-a-dire-new-record/) |
+| keyword_rejected | - | [L'Australie en proie aux feux dans des "conditions catastrop](https://www.sciencesetavenir.fr/nature-environnement/l-australie-en-proie-aux-feux-dans-des-conditions-catastrophiques-selon-les-pompiers_190338?xtor=RSS-15) |
+| keyword_rejected | - | [Uncovering complementary information sharing in spider monke](https://www.nature.com/articles/s44260-025-00060-0) |
+| keyword_rejected | - | [Dynamics of Russian anti-war discourse on X (Twitter): a com](https://www.nature.com/articles/s44260-025-00059-7) |
+| keyword_rejected | - | [Landscape effects on global soil pathogenic fungal diversity](https://www.nature.com/articles/s41467-025-67929-5) |
+| keyword_rejected | - | [Energy and biomass distribution in soil food webs of tempera](https://www.nature.com/articles/s41467-025-68083-8) |
+| keyword_rejected | - | [Antibacterial efficacy of oxygen rich fluid against three ea](https://www.nature.com/articles/s41598-025-34709-6) |
+| keyword_rejected | - | [Morphological and genetic diversity of breeding clones deriv](https://www.nature.com/articles/s41598-026-35035-1) |
+| keyword_rejected | - | [Validity of hemoglobin A1C for screening prediabetes and dia](https://www.nature.com/articles/s41598-025-00792-y) |
+| keyword_rejected | - | [Landscape effects on global soil pathogenic fungal diversity](https://www.nature.com/articles/s41467-025-67929-5) |
+| keyword_rejected | - | [Energy and biomass distribution in soil food webs of tempera](https://www.nature.com/articles/s41467-025-68083-8) |
+| keyword_rejected | - | [MolPic: Name/SMILES to Publication-Ready Molecular Figures](https://dx.doi.org/10.26434/chemrxiv-2026-wjnk9?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [EquiNet: Modeling Vapor-Liquid Equilibrium Using Simultaneou](https://dx.doi.org/10.26434/chemrxiv-2025-wmxtm-v4?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Nouvelle-Zélande: le kakapo, perroquet en danger, recommence](https://www.sciencesetavenir.fr/nature-environnement/nouvelle-zelande-le-kakapo-perroquet-en-danger-recommence-a-se-reproduire-apres-4-ans_190337?xtor=RSS-15) |
 | keyword_rejected | - | [Cloud-9 : un nuage de gaz témoin d'une galaxie avortée](https://www.sciencesetavenir.fr/espace/univers/cloud-9-nuage-de-gaz-produit-d-une-galaxie-non-formee_190304?xtor=RSS-9) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260109022234&v=2.18.0.post22+67771e2) |
