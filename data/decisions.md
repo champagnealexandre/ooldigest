@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [A hidden world inside DNA is finally revealed](https://www.sciencedaily.com/releases/2026/01/260107225541.htm) |
+| keyword_rejected | - | [To infinity and beyond Earth’s pale blue dot: Books in brief](https://www.nature.com/articles/d41586-026-00077-y) |
+| keyword_rejected | - | [Tuning Connectivity in Hybrid Organic-Inorganic Antimony Hal](https://dx.doi.org/10.26434/chemrxiv-2025-ddpxh-v2?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [[À l'écoute de la science] Philippe Descola : quand l’anthro](https://www.pourlascience.fr/sr/podcast-a-lecoute-de-la-science/a-l-ecoute-de-la-science-philippe-descola-quand-l-anthropologie-devient-revolutionnaire-28652.php) |
 | keyword_rejected | - | [The Weight-Loss Drug Revolution—From Shots to Pills and the ](https://www.scientificamerican.com/podcast/episode/the-weight-loss-drug-revolution-from-shots-to-pills-and-the-science-behind/) |
 | keyword_rejected | - | [These Bizarre, Centuries-Old Greenland Sharks May Have a Hid](https://www.scientificamerican.com/article/these-bizarre-centuries-old-greenland-sharks-may-have-a-hidden-longevity/) |

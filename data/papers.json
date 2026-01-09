@@ -1,5 +1,46 @@
 [
   {
+    "title": "A hidden world inside DNA is finally revealed",
+    "summary": "DNA doesn\u2019t just sit still inside our cells \u2014 it folds, loops, and rearranges in ways that shape how genes behave. Researchers have now mapped this hidden architecture in unprecedented detail, showing how genome structure changes from cell to cell and over time. These insights reveal why many disease-linked mutations outside genes can still cause harm. The findings could speed up the discovery of genetic risks and inspire new ways to target diseases.",
+    "url": "https://www.sciencedaily.com/releases/2026/01/260107225541.htm",
+    "published_date": "2026-01-09T02:16:11Z",
+    "source_feed": "ScienceDaily - Evolutionary Biology News",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.1038/s41586-025-09890-3",
+      "http://dx.doi.org/10.1038/s41586-025-09890-3"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 35,
+      "summary": "A Nature study maps dynamic 3D genome folding and cell-to-cell structural variation in eukaryotic DNA, clarifying how noncoding mutations can alter gene regulation\u2014high-impact genetics but only tangential to origins-of-life questions."
+    }
+  },
+  {
+    "title": "Tuning Connectivity in Hybrid Organic-Inorganic Antimony Halides through Reactant Concentration Effects",
+    "summary": "In this study, we report the synthesis and characterization of two hybrid organic in- organic (HOI) antimony halides using DABCO (DABCO = 1,4-diazabicyclo[2.2.2]octane) as the organic cation. Varying the concentration of the starting materials leads to dif- ferent oxidation states, resulting in different inorganic substructures ranging from iso- lated units to layers and a new interconnected metal halide framework. The structure of (DABCOH2)SbVCl7 (1) contains isolated [SbVCl6]\u2013 units separated by the organic cation. Mixed-valent (DABCOH2)12(SbIII)14(SbV)2Cl79(H3O)3(H2O)12 (2) features an interconnected framework of [SbIIICl6]3\u2013 units as well as [SbVCl6]\u2013 and an unprecedented octahedral chloride hydrate cluster. The material as well as the chloride hydrate cluster were characterized via single crystal X-ray diffraction and spectroscopic methods. Compound 2 was compared to the literature-known mixed-metal HOI (DABCOH2)4SbIII 2CuII 2Cl18(H2O)4, 1 which was obtained under the highest reactant concentrations. (DABCOH2)4SbIII 2CuII 2Cl18(H2O)4 also contains a chloride hydrate cluster, which was identified and characterized by solid state NMR in this work. Compound 2 is the first HOI antimony chloride with an interconnected framework structure, featuring a yet unknown network topology; it also contains the first structurally characterized chloride hydrate cluster, in which the chloride is located in the center of the wa- ter shell. These compounds show that by selecting appropriate organic cations and conditions, the chemical space of antimony halides can be systematically expanded by careful reaction control.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-ddpxh-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "To infinity and beyond Earth\u2019s pale blue dot: Books in brief",
+    "summary": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00077-y\">doi:10.1038/d41586-026-00077-y</a></p>Andrew Robinson reviews five of the best science picks.",
+    "url": "https://www.nature.com/articles/d41586-026-00077-y",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Characterization of natural and synthetic textile-derived biochar from torrefaction to moderate pyrolysis",
     "summary": "Textile waste presents a growing environmental challenge due to the global volume and prevalence of synthetic and blended fibers that complicate traditional recycling approaches. Textile-derived (TD) biochar produced from torrefaction to moderate pyrolysis offers a promising strategy to convert mixed textile waste into value-added biochar, yet limited studies have explored the influence of synthetic fibers and co-pyrolysis with naturally-derived textiles on material properties. This study investigates the production and characterization of biochar derived from cotton (CBC), polyester (PBC), wool (WBC), and a 1:1 cotton/polyester blend (CPBC) prepared across a range of temperatures encompassing torrefaction to moderate pyrolysis (250\u2013650 \u00b0C). A comprehensive suite of surface and compositional analyses was used to evaluate the influence of textile feedstock and production temperature on biochar properties, including Brunauer\u2013Emmett\u2013Teller (BET) surface area, Fourier transform infrared spectroscopy (FTIR), scanning electron microscopy (SEM), elemental analysis (EA), point of zero charge (pHPZC), and evolved gas analysis-mass spectrometry (EGA-MS).\nCo-pyrolysis of cotton and polyester at moderate temperatures (450\u2013650 \u00b0C) resulted in a substantial increase in surface area compared to the pure textile biochars (CBC, PBC, WBC), with a maximum of 621 m\u00b2/g for the blend at 450 \u00b0C. EGA-MS and FTIR data suggest that this enhancement is driven by physical interactions, such as cotton-derived volatiles bubbling through molten polyester, rather than chemical co-pyrolysis. No unique chemical species were detected in the EGA-MS data, and EA revealed increased carbon content, reduced oxygen content, and elevated higher heating values in the blended biochars. These results support the feasibility for tailoring biochar functionality through co-pyrolysis as a strategy for valorizing mixed textile waste within the circular economy framework.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-1vn5k?rft_dat=source%3Ddrss",
