@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [The 'Age of Fishes' began with mass death, fossil database r](https://phys.org/news/2026-01-age-fishes-began-mass-death.html) |
+| keyword_rejected | - | [Scientists Discover Brain Circuit That Acts Like a ‘Brake’ o](https://www.scientificamerican.com/article/scientists-discover-brain-circuit-that-acts-like-a-brake-on-motivation/) |
+| keyword_rejected | - | [L'extinction qui a ouvert les mers aux poissons](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/l-extinction-qui-a-ouvert-les-mers-aux-poissons_190323?xtor=RSS-4) |
+| keyword_rejected | - | [Can’t get motivated? This brain circuit might explain why — ](https://www.nature.com/articles/d41586-026-00062-5) |
+| keyword_rejected | - | [Hepatokine fibrinogen-like protein 1 drives liver-kidney cro](https://www.nature.com/articles/s41467-025-68188-0) |
+| keyword_rejected | - | [Write cycling endurance exceeding 10<sup>10</sup> in sub-50 ](https://www.nature.com/articles/s41467-025-68221-2) |
 | keyword_rejected | - | [We need to talk about salaries in science](https://www.nature.com/articles/d41586-025-03488-5) |
 | keyword_rejected | - | [Time-resolved X-ray imaging of the current filamentation ins](https://www.nature.com/articles/s41467-025-67160-2) |
 | keyword_rejected | - | [AMP-BMS/MM: A Multiscale Neural Network Potential for the Fa](https://dx.doi.org/10.26434/chemrxiv-2026-kx9w0?rft_dat=source%3Ddrss) |

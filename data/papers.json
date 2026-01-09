@@ -1,5 +1,76 @@
 [
   {
+    "title": "The 'Age of Fishes' began with mass death, fossil database reveals",
+    "summary": "Some 445 million years ago, life on Earth was forever changed. During the geological blink of an eye, glaciers formed over the supercontinent Gondwana, drying out many of the vast, shallow seas like a sponge and giving an \"icehouse climate\" that, together with radically changed ocean chemistry, ultimately caused the extinction of about 85% of all marine species\u2014the majority of life on Earth.",
+    "url": "https://phys.org/news/2026-01-age-fishes-began-mass-death.html",
+    "published_date": "2026-01-09T19:00:05Z",
+    "source_feed": "Phys.org: Evolution News",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 40,
+      "summary": "A fossil-database analysis links late Ordovician glaciation and ocean-chemistry shifts to a rapid mass marine extinction (~85%) that reshaped subsequent vertebrate evolution but does not directly address origins-of-life mechanisms."
+    }
+  },
+  {
+    "title": "Write cycling endurance exceeding 10<sup>10</sup> in sub-50 nm ferroelectric AlScN",
+    "summary": "<p>Nature Communications, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68221-2\">doi:10.1038/s41467-025-68221-2</a></p>The authors demonstrate that stable partial polarization control achieves more than 1010 write cycles in ferroelectric AlScN. Further, reducing capacitor diameter increases breakdown voltage, boosting endurance.",
+    "url": "https://www.nature.com/articles/s41467-025-68221-2",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Hepatokine fibrinogen-like protein 1 drives liver-kidney crosstalk to promote renal fibrosis",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68188-0",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Can\u2019t get motivated? This brain circuit might explain why \u2014 and it can be turned off",
+    "summary": "<p>Nature, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00062-5\">doi:10.1038/d41586-026-00062-5</a></p>Scientists have uncovered a way to manipulate the pathway in monkey brains that puts the brakes on motivation.",
+    "url": "https://www.nature.com/articles/d41586-026-00062-5",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Nature",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "L'extinction qui a ouvert les mers aux poissons",
+    "summary": "Il y a 445 millions d\u2019ann\u00e9es, la fin de l\u2019Ordovicien a provoqu\u00e9 l\u2019une des plus grandes crises biologiques de l\u2019histoire de la vie. Une \u00e9tude montre que cette extinction a laiss\u00e9 la voie libre aux vert\u00e9br\u00e9s \u00e0 m\u00e2choires.",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/l-extinction-qui-a-ouvert-les-mers-aux-poissons_190323?xtor=RSS-4",
+    "published_date": "2026-01-09T19:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Scientists Discover Brain Circuit That Acts Like a \u2018Brake\u2019 on Motivation",
+    "summary": "<p>A new study in macaques identifies a brain circuit that acts like a &ldquo;brake&rdquo; on motivation</p>",
+    "url": "https://www.scientificamerican.com/article/scientists-discover-brain-circuit-that-acts-like-a-brake-on-motivation/",
+    "published_date": "2026-01-09T17:15:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "The Bioaccumulation and Metabolism of [14C]-6PPD-Q\nin Rainbow Trout according to the OECD 305 Guideline",
     "summary": "6PPD-quinone (6PPD-Q) has been recognized as a pollutant of surface waters in recent years and\nhas been shown to contribute to Urban Runo\udbc0\uddaf Mortality Syndrome (URMS) in sensitive species.\nWhile there is published in silico, in vitro and semi-quantitative data available, little is known\nabout the bioaccumulation and biotransformation (metabolism) of 6PPD-Q in intact salmonid\nspecies. This research focuses on the bioaccumulation and metabolism of carbon-14 ([14C])\nradiolabeled 6PPD-Q using techniques and strategies commonly employed in regulatory science\nfor the registration of agrochemicals, chemicals and as used in pharmaceutical environmental\nrisk assessments. The OECD 305 test guideline (TG) is used as the basis for generating data on\nbioaccumulation but also lends itself to the generation of biotransformation data. Rainbow trout\n(Oncorhynchus mykiss) is commonly used as the model species for such studies and has also\nbeen shown to be acutely sensitive to 6PPD-Q. The use of [14C]-6PPD-Q allows the quantification\nof total residues without the need for reference standards and provides a means of assessing the\nbioaccumulation potential of 6PPD-Q. The use of radiolabeled material also allows assessment\nof extraction e\udbc0\uddaficiency and quantitative metabolite profiling and identification without the need\nfor reference standards providing full coverage of the metabolites generated from 6PPD-Q\nexposure in rainbow trout. The bioaccumulation potential and metabolic routes in rainbow trout\nare presented herein.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-tfd1s?rft_dat=source%3Ddrss",
