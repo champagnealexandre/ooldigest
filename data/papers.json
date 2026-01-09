@@ -1,5 +1,89 @@
 [
   {
+    "title": "Molecular characterization of directly reprogrammed neurons from human fibroblasts using single cell RNA sequencing",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34688-8\">doi:10.1038/s41598-025-34688-8</a></p>Molecular characterization of directly reprogrammed neurons from human fibroblasts using single cell RNA sequencing",
+    "url": "https://www.nature.com/articles/s41598-025-34688-8",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.nature.com/articles/s41598-025-34688-8"
+    ],
+    "matched_keywords": [
+      "RNA"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "This study uses single-cell RNA sequencing to characterize directly reprogrammed human neurons from fibroblasts, which is biomedical cell reprogramming and not relevant to origins-of-life or astrobiology themes."
+    }
+  },
+  {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108233655&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Neurophysiological markers of cognitive workload under altered gravity conditions using a gamified dual-task paradigm",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34426-0\">doi:10.1038/s41598-025-34426-0</a></p>Neurophysiological markers of cognitive workload under altered gravity conditions using a gamified dual-task paradigm",
+    "url": "https://www.nature.com/articles/s41598-025-34426-0",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Suspension cultivation of mosquito cell lines for the production of the mosquito-borne flavivirus Usutu virus in a stirred-tank bioreactor",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33792-z\">doi:10.1038/s41598-025-33792-z</a></p>Suspension cultivation of mosquito cell lines for the production of the mosquito-borne flavivirus Usutu virus in a stirred-tank bioreactor",
+    "url": "https://www.nature.com/articles/s41598-025-33792-z",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Cardiac function in 6-year-old children born extremely preterm and associations to prolonged patent ductus arteriosus shunting",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34302-x\">doi:10.1038/s41598-025-34302-x</a></p>Cardiac function in 6-year-old children born extremely preterm and associations to prolonged patent ductus arteriosus shunting",
+    "url": "https://www.nature.com/articles/s41598-025-34302-x",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Comparative analysis reveals concentration-dependent and site-specific detoxification gene expression patterns in pyrethroid-resistant <i>Anopheles gambiae</i> s.l. from Accra, Ghana",
+    "summary": "<p>Scientific Reports, Published online: 09 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33720-1\">doi:10.1038/s41598-025-33720-1</a></p>Comparative analysis reveals concentration-dependent and site-specific detoxification gene expression patterns in pyrethroid-resistant <i>Anopheles gambiae</i> s.l. from Accra, Ghana",
+    "url": "https://www.nature.com/articles/s41598-025-33720-1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Amyloid-ID: photocatalytic profiling of amyloid deposits in Alzheimer\u2019s disease tissue",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68017-4",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
     "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
     "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108222727&v=2.18.0.post22+67771e2",

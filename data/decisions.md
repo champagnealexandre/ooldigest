@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Molecular characterization of directly reprogrammed neurons ](https://www.nature.com/articles/s41598-025-34688-8) |
+| keyword_rejected | - | [Amyloid-ID: photocatalytic profiling of amyloid deposits in ](https://www.nature.com/articles/s41467-025-68017-4) |
+| keyword_rejected | - | [Comparative analysis reveals concentration-dependent and sit](https://www.nature.com/articles/s41598-025-33720-1) |
+| keyword_rejected | - | [Cardiac function in 6-year-old children born extremely prete](https://www.nature.com/articles/s41598-025-34302-x) |
+| keyword_rejected | - | [Suspension cultivation of mosquito cell lines for the produc](https://www.nature.com/articles/s41598-025-33792-z) |
+| keyword_rejected | - | [Neurophysiological markers of cognitive workload under alter](https://www.nature.com/articles/s41598-025-34426-0) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108233655&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [En plein débat sur la fin de vie, l'heure du jugement pour d](https://www.sciencesetavenir.fr/sante/en-plein-debat-sur-la-fin-de-vie-l-heure-du-jugement-pour-des-militants-du-suicide-assiste_190336?xtor=RSS-16) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260108222727&v=2.18.0.post22+67771e2) |
 | ai_scored | 0 | [Real-Time Out-of-Equilibrium Quantum Dynamics in Disordered ](http://link.aps.org/doi/10.1103/28hd-pwhv) |
