@@ -1,5 +1,31 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Hunting for “Oddballs” With Machine Learning: Detecting Anom](https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html) |
+| ai_scored | 50 | [The MUSCLES Extension for Atmospheric Transmission Spectrosc](https://astrobiology.com/2026/01/the-muscles-extension-for-atmospheric-transmission-spectroscopy-spectral-energy-distributions-for-20-exoplanet-host-stars-that-jwst-observed-in-cycle-1.html) |
+| ai_scored | 5 | [Hybrid quantum-classical convolutional neural network for as](http://link.aps.org/doi/10.1103/rnsj-5yjh) |
+| ai_scored | 60 | [Exo-Geoscience Perspectives Beyond Habitability](https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html) |
+| ai_scored | 25 | [Evolutionary Stability of High Virulence in Vector-Borne For](https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1) |
+| ai_scored | 70 | [Simple models for the trapping of charged particles and macr](http://link.aps.org/doi/10.1103/2kx3-hfsn) |
+| ai_scored | 60 | [Self-assembled Versus Biological Pattern Formation In Geolog](https://astrobiology.com/2026/01/self-assembled-versus-biological-pattern-formation-in-geology.html) |
+| keyword_rejected | - | [Microbiome study hints that fibre could be linked to better ](https://www.newscientist.com/article/2510874-microbiome-study-hints-that-fibre-could-be-linked-to-better-sleep/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [NASA is performing an unprecedented medical evacuation from ](https://www.newscientist.com/article/2510937-nasa-is-performing-an-unprecedented-medical-evacuation-from-the-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sinking trees in Arctic Ocean could remove 1 billion tonnes ](https://www.newscientist.com/article/2510920-sinking-trees-in-arctic-ocean-could-remove-1-billion-tonnes-of-co2/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Microbiome study hints that fibre could be linked to better ](https://www.newscientist.com/article/2510874-microbiome-study-hints-that-fibre-could-be-linked-to-better-sleep/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [NASA is performing an unprecedented medical evacuation from ](https://www.newscientist.com/article/2510937-nasa-is-performing-an-unprecedented-medical-evacuation-from-the-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sinking trees in Arctic Ocean could remove 1 billion tonnes ](https://www.newscientist.com/article/2510920-sinking-trees-in-arctic-ocean-could-remove-1-billion-tonnes-of-co2/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Microbiome study hints that fibre could be linked to better ](https://www.newscientist.com/article/2510874-microbiome-study-hints-that-fibre-could-be-linked-to-better-sleep/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [NASA is performing an unprecedented medical evacuation from ](https://www.newscientist.com/article/2510937-nasa-is-performing-an-unprecedented-medical-evacuation-from-the-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sinking trees in Arctic Ocean could remove 1 billion tonnes ](https://www.newscientist.com/article/2510920-sinking-trees-in-arctic-ocean-could-remove-1-billion-tonnes-of-co2/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Disentangling Boltzmann Brains, the Time-Asymmetry of Memory](https://comdig.unam.mx/2026/01/09/disentangling-boltzmann-brains-the-time-asymmetry-of-memory-and-the-second-law/) |
+| keyword_rejected | - | [Statistics and morphologies of stable droplets in scalar act](http://link.aps.org/doi/10.1103/8xvw-yyf8) |
+| keyword_rejected | - | [Comb polymers in dilute solutions: Analytical approach, comp](http://link.aps.org/doi/10.1103/kynl-qqxl) |
+| keyword_rejected | - | [Magnetostatic energies in crystals of paramagnetic particles](http://link.aps.org/doi/10.1103/pb3d-yg31) |
+| keyword_rejected | - | [Nonlinear phase synchronization and the role of spacing in s](http://link.aps.org/doi/10.1103/2vxp-1k2t) |
+| keyword_rejected | - | [Minimally dissipative multibit logical operations](http://link.aps.org/doi/10.1103/bs35-xp2c) |
+| keyword_rejected | - | [Nvj3 regulates Dga1-mediated triacylglycerol synthesis and l](https://www.biorxiv.org/content/10.64898/2026.01.05.695145v1?rss=1) |
+| keyword_rejected | - | [Heterogeneous Nuclear Ribonucleoprotein A1 as a Key Regulato](https://www.biorxiv.org/content/10.64898/2026.01.05.697826v1?rss=1) |
+| keyword_rejected | - | [Curation at Scale with EPITOME: Extraction Pipeline for Immu](https://www.biorxiv.org/content/10.64898/2026.01.08.698331v1?rss=1) |
+| keyword_rejected | - | [Yin Yang Interactomes Drive the Metabolic Dysfunction-Associ](https://www.biorxiv.org/content/10.64898/2026.01.06.698028v1?rss=1) |
 | ai_scored | 55 | [The Persistent Thermal Anomalies In Rocky Worlds](https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html) |
 | ai_scored | 50 | [Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In ](https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html) |
 | ai_scored | 20 | [Physical Vetting of the Ultra-Short-Period Sub-Earth TOI 864](https://astrobiology.com/2026/01/physical-vetting-of-the-ultra-short-period-sub-earth-toi-864-01.html) |

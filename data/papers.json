@@ -1,5 +1,352 @@
 [
   {
+    "title": "Self-assembled Versus Biological Pattern Formation In Geology",
+    "summary": "<p>Both abiotic self-organization and biological mechanisms have been put forward as the origin of a number of geological patterns. It is important to comprehend the formation mechanisms of such structures both to understand geological self-organization and in order to differentiate them from biological patterns &#8212; fossils and bio-influenced structures &#8212; seen in geological systems. Being [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/self-assembled-versus-biological-pattern-formation-in-geology.html\">Self-assembled Versus Biological Pattern Formation In Geology</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/self-assembled-versus-biological-pattern-formation-in-geology.html",
+    "published_date": "2026-01-09T20:31:55Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://doi.org/10.48550/arXiv.2601.00323",
+      "https://arxiv.org/abs/2601.00323"
+    ],
+    "matched_keywords": [
+      "self-assembly",
+      "astrobio*",
+      "biosignature"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "Reviews how abiotic self-organization can generate geological patterns that may mimic biological structures, improving criteria for distinguishing true biosignatures from non-biological lookalikes in the rock record."
+    }
+  },
+  {
+    "title": "Simple models for the trapping of charged particles and macromolecules by diffusiophoresis in salt gradients",
+    "summary": "Author(s): Richard P. Sear and Patrick B. Warren<br /><p>We study the trapping of charged particles and macromolecules (such as DNA) in salt gradients in aqueous solutions. The source for the salt gradient can be as simple as a dissolving ionic crystal, as shown by McDermott <i>et\u00a0al.</i> [<a href=\"http://dx.doi.org/10.1021/la303410w\"><span>Langmuir</span> <b>28</b>, 15491 (2012)</a>]. Trapping is due to a competition between loca\u2026</p><br />[Phys. Rev. E 113, 015408] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/2kx3-hfsn",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "http://link.aps.org/doi/10.1103/2kx3-hfsn"
+    ],
+    "matched_keywords": [
+      "DNA"
+    ],
+    "analysis_result": {
+      "score": 70,
+      "summary": "Develops simple physical models showing how salt gradients (e.g., from dissolving ionic crystals) can trap and concentrate charged macromolecules like DNA via diffusiophoresis, a plausible prebiotic mechanism for locally enriching key polymers in aqueous environments."
+    }
+  },
+  {
+    "title": "Evolutionary Stability of High Virulence in Vector-Borne Forest Pathogens: Evidence from Pine Wilt Disease and Management Thresholds",
+    "summary": "Pathogen virulence is a central trait shaping disease dynamics and management outcomes. Classical evolutionary theory predicts that virulence should be constrained by trade-offs between transmission and host survival, often favoring intermediate optima. However, many vector-borne forest diseases exhibit persistently high virulence despite severe host mortality, challenging this expectation. Increasing evidence suggests that ecological context, particularly transmission mode, vector abundance, and spatial structure, can fundamentally reshape virulence-transmission trade-offs, biasing selection toward elevated virulence rather than attenuation. Pine wilt disease, caused by the pine wood nematode Bursaphelenchus xylophilus and transmitted by Monochamus beetles, exemplifies this paradox. Infection leads to rapid host death, yet highly virulent nematode lineages persist and spread across forest landscapes. In this system, host death directly facilitates vector reproduction by creating suitable breeding substrates, potentially reversing the classical trade-off in which host mortality constrains transmission. Why such systems remain evolutionarily trapped in high-virulence states, despite widespread host depletion, remains unresolved. Using pine wilt disease as a motivating and representative vector-borne forest pathosystem, we develop an individual-based evolutionary framework to investigate how transmission conditions and management interventions shape long-term virulence evolution. By integrating stochastic population dynamics with selection-gradient analysis, we identify the mechanisms sustaining high virulence and determine quantitative management thresholds capable of reversing selection pressures and driving durable virulence suppression.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "bioRxiv Subject Collection: Evolutionary Biology",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://www.biorxiv.org/content/10.64898/2026.01.04.697537v1?rss=1"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 25,
+      "summary": "Develops an individual-based evolutionary model showing how vector-mediated transmission and forest management thresholds can maintain or suppress high virulence in pine wilt disease, but it is not directly related to origins-of-life research."
+    }
+  },
+  {
+    "title": "Exo-Geoscience Perspectives Beyond Habitability",
+    "summary": "<p>This article reviews the emerging field of exo-geoscience, focusing on the geological and geophysical processes thought to influence the evolution and (eu)habitability of rocky exoplanets. We examine the possible roles of planetary interiors, tectonic regimes, continental coverage, volatile cycling, magnetic fields, and atmospheric composition and evolution in shaping long-term climate stability and biospheric potential. Comparisons [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html\">Exo-Geoscience Perspectives Beyond Habitability</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html",
+    "published_date": "2026-01-09T20:24:28Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.01177",
+      "https://doi.org/10.48550/arXiv.2601.01177"
+    ],
+    "matched_keywords": [
+      "evolution",
+      "habitab*",
+      "astrobio*",
+      "exoplanet"
+    ],
+    "analysis_result": {
+      "score": 60,
+      "summary": "A review of exo-geoscience outlining how interiors, tectonics, volatile cycling, magnetic fields, and atmospheric evolution shape rocky exoplanet climate stability and long-term biospheric potential beyond simple habitability metrics."
+    }
+  },
+  {
+    "title": "Hybrid quantum-classical convolutional neural network for astrophysical object classification",
+    "summary": "Author(s): Ahmad Rauf, Javeria Amin, and Jameel-Un Nabi<br /><p>Classifying astrophysical bodies like stars, galaxies, and black holes plays an underlying role in understanding the evolution of the universe. Effective analysis of a huge number of astronomical objects captured by telescopes is a challenge. For the classification of astronomical objects, quantum c\u2026</p><br />[Phys. Rev. E 113, 015302] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/rnsj-5yjh",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "http://link.aps.org/doi/10.1103/rnsj-5yjh"
+    ],
+    "matched_keywords": [
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 5,
+      "summary": "Develops a hybrid quantum\u2013classical CNN to classify astrophysical objects (stars/galaxies/black holes), a general astronomy data-analysis advance with minimal direct relevance to origins-of-life or astrobiology."
+    }
+  },
+  {
+    "title": "The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral energy distributions For 20 Exoplanet Host Stars That JWST Observed in Cycle 1",
+    "summary": "<p>Correctly interpreting JWST spectra of close-in exoplanets requires a measurement of the X-ray and ultraviolet light that the planets receive from their host stars. Here we provide spectral energy distributions (SEDs) covering the range \u22485\u22121\u00d7107A for 20 transiting exoplanet host stars observed in JWST Cycle 1. The SEDs are constructed out of new and archival [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/the-muscles-extension-for-atmospheric-transmission-spectroscopy-spectral-energy-distributions-for-20-exoplanet-host-stars-that-jwst-observed-in-cycle-1.html\">The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral energy distributions For 20 Exoplanet Host Stars That JWST Observed in Cycle 1</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/the-muscles-extension-for-atmospheric-transmission-spectroscopy-spectral-energy-distributions-for-20-exoplanet-host-stars-that-jwst-observed-in-cycle-1.html",
+    "published_date": "2026-01-09T20:28:28Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.01628",
+      "https://doi.org/10.48550/arXiv.2601.01628"
+    ],
+    "matched_keywords": [
+      "habitab*",
+      "astrobio*",
+      "exoplanet"
+    ],
+    "analysis_result": {
+      "score": 50,
+      "summary": "Provides X-ray\u2013UV\u2013to\u2013IR stellar spectral energy distributions for 20 JWST Cycle 1 transiting exoplanet host stars, improving interpretation of transmission spectra and (indirectly) atmospheric habitability/biosignature inferences by better constraining stellar irradiation."
+    }
+  },
+  {
+    "title": "Hunting for \u201cOddballs\u201d With Machine Learning: Detecting Anomalous Exoplanets Using a Deep-Learned Low-Dimensional Representation of Transit Spectra with Autoencoders",
+    "summary": "<p>This study explores the application of autoencoder-based machine learning techniques for anomaly detection to identify exoplanet atmospheres with unconventional chemical signatures using a low-dimensional data representation. We use the Atmospheric Big Challenge (ABC) database, a publicly available dataset with over 100,000 simulated exoplanet spectra, to construct an anomaly detection scenario by defining CO2-rich atmospheres as [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html\">Hunting for &#8220;Oddballs&#8221; With Machine Learning: Detecting Anomalous Exoplanets Using a Deep-Learned Low-Dimensional Representation of Transit Spectra with Autoencoders</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html",
+    "published_date": "2026-01-09T20:35:45Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://arxiv.org/abs/2601.02324",
+      "https://doi.org/10.48550/arXiv.2601.02324"
+    ],
+    "matched_keywords": [
+      "astrobio*",
+      "exoplanet"
+    ],
+    "analysis_result": {
+      "score": 45,
+      "summary": "Uses autoencoders to flag anomalous exoplanet transit spectra (e.g., CO2-rich cases) as a potential tool for prioritizing unusual atmospheres for follow-up, indirectly relevant to biosignature/habitability searches but not core origins-of-life research."
+    }
+  },
+  {
+    "title": "Yin Yang Interactomes Drive the Metabolic Dysfunction-Associated Liver Disease Continuum to Hepatocellular Carcinoma",
+    "summary": "The risk for hepatocellular carcinoma (HCC) arising from metabolic dysfunction-associated steatotic liver disease (MASLD)-related cirrhosis exceeds the risk for cancer developing in the kidney, heart, or lung as a consequence of end-stage disease in those organs. Both experimental and clinical studies support the existence of circulating biomarkers whose elevated expression is associated with, and supports the diagnosis of, HCC. We posit the existence of oncogenic HCC biomarkers under regulation by tumor-suppressive microRNAs (miRs), and that reduced tumor-suppressive miR expression leads to increased oncogenic biomarker expression. By interrogating the MASLD-HCC miR interactome and miRs known to regulate HCC biomarkers, we identified hsa-miR-577, hsa-miR-9500, hsa-miR-101-3p, miR-206, hsa-miR-219a-1-3p, and hsa-miR-613 as tumor-suppressive miRs whose expression is reduced across multiple cancers. Their target genes, osteopontin, Golgi protein-73, and Dickkopf-related protein 1, exhibit increased expression in HCC and display oncogenic activity. Collectively, dysregulated expression of these miRs and their downstream gene products may contribute to progression along the MASLD continuum toward HCC.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.06.698028v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Curation at Scale with EPITOME: Extraction Pipeline for Immunological Texts and Open-Source Multimodal Enquiry",
+    "summary": "The Immune Epitope Database (IEDB, iedb.org) has manually curated epitope data from over 26,000 publications across two decades. With PubMed adding ~5,000 articles daily, traditional curation methods face scalability challenges. Given the multimodality of data contained in scientific papers, we have sought to build an open-source vision language model (VLM)-based tool that human curators can use to speed up and automate biological data curation. Here we present a multimodal document ingestion and Question-Answering (QnA) pipeline that ties traditional Optical Character Recognition (OCR) and text matching with Vision-Language Model (VLM) capabilities. The system, which we call EPITOME, implements three-stage processing: regex-based epitope and MHC molecule identification, visual element extraction from PDFs, and contextual indexing that links peptide sequences, MHC molecules, and assays to their locations across text, tables, and figures. This indexing is used to supply context for further VLM QnA. Our preliminary results from EPITOME demonstrate promising zero-shot performance of open-source VLMs that suggest promise for accelerating biocuration through a curator-in-the-loop process, with our evaluation identifying strategic points where curator-in-the-loop intervention can enhance overall system accuracy.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698331v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "bioinformatics - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Heterogeneous Nuclear Ribonucleoprotein A1 as a Key Regulator in Pulmonary Arterial Hypertension Development",
+    "summary": "Background: Although plexiform lesion (PL) formation in severe pulmonary arterial hypertension (PAH) is a therapeutic target, the mechanisms underlying their formation have not been fully elucidated. This study aimed to identify candidate proteins involved in PL formation by examining differentially expressed proteins (DEPs) in PAH lesions. Methods: Proteomic remodeling was assessed before and after the formation of PLs in a SU5416 combined with hypoxia (SuHx) rat model of severe PAH using laser-capture microdissection coupled with mass spectrometry. Unobstructed pulmonary arteries with medial hypertrophy (UMHPAs) and PLs from SuHx rats were subjected to qualitative and quantitative proteomics, revealing DEPs between these structures. Results: We identified 718 proteins with 58 DEPs, of which 31 were upregulated in UMHPAs and 27 were upregulated in PLs. Immunostaining confirmed that DEPs detected in our proteomic analysis were differentially expressed between UMHPAs and PLs. Among them, we focused on heterogeneous nuclear ribonucleoprotein A1 (hnRNPA1) as a candidate protein that may be strongly associated with PL formation because of its strong association with cell proliferation. siRNA knockdown of hnRNPA1 in hypoxia-treated pulmonary artery smooth muscle cells reduced pyruvate kinase M2 expression and significantly decreased proliferative capacity. Treatment of SuHx rats with hnRNPA1 inhibitors also suppressed pulmonary artery remodeling in PAH and PL formation. Conclusions: Several DEPs associated with PL formation but with unclear relevance to pulmonary artery remodeling in PAH were discovered. Among these, hnRNPA1, which was not detected in transcriptome analysis, may be important in PL formation.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.697826v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nvj3 regulates Dga1-mediated triacylglycerol synthesis and lipid droplet formation at ER contact sites",
+    "summary": "Lipid droplet (LD) biogenesis is essential for lipid homeostasis during nutrient stress, yet how lipid intermediates are spatially organized to support efficient triacylglycerol (TAG) synthesis remains unclear. Here, we identify Nvj3 as a nutrient-responsive regulator that links diacylglycerol (DAG) availability to TAG synthesis and LD formation at the endoplasmic reticulum (ER). Nvj3 is induced by glucose depletion and recruited to LD-associated ER domains. Loss of Nvj3 causes neutral lipid accumulation under steady state conditions but delays TAG synthesis under acute inducible metabolic transitions. Using controlled TAG induction systems, we show that Nvj3 is required to couple Dga1-dependent TAG synthesis to LD formation. In the absence of Nvj3, TAG accumulates but remains inefficiently packaged into LDs. Consistent with this defect, nvj3{Delta} cells exhibit altered phospholipid remodeling and mislocalization of DAG away from ER domains during starvation. Together, these findings establish Nvj3 as an organizer of lipid availability during metabolic stress and suggest that spatial control of DAG is a key determinant of LD biogenesis.",
+    "url": "https://www.biorxiv.org/content/10.64898/2026.01.05.695145v1?rss=1",
+    "published_date": "2026-01-09T00:00:00Z",
+    "source_feed": "cell biology - biorXiv Preprints",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Minimally dissipative multibit logical operations",
+    "summary": "Author(s): J\u00e9r\u00e9mie Klinger and Grant M. Rotskoff<br /><p>Modern computing architectures are vastly more energy dissipative than fundamental thermodynamic limits suggest, motivating the search for principled approaches to low-dissipation logical operations. We formulate multibit logical gates (bit erasure, <span class=\"sc\">nand</span>) as optimal transport problems, extending bey\u2026</p><br />[Phys. Rev. E 113, 014109] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/bs35-xp2c",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Nonlinear phase synchronization and the role of spacing in shell models",
+    "summary": "Author(s): L. Manfredini and \u00d6. D. G\u00fcrcan<br /><p>A shell model can be considered as a self-similar chain of interacting triads, where each triad can be interpreted as a nonlinear oscillator that can be mapped to a spinning top. Investigating the relation between phase dynamics and intermittency in such a chain of nonlinear oscillators, it is found\u2026</p><br />[Phys. Rev. E 113, 015101] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/2vxp-1k2t",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Magnetostatic energies in crystals of paramagnetic particles",
+    "summary": "Author(s): Jason Conradt and Eric M. Furst<br /><p>We derive a multiscale framework that combines contributions from the lattice symmetry, shape, and interfacial effects to calculate the total magnetostatic energy and effective susceptibility of crystalline paramagnetic particle aggregates. Demagnetizing tensor fields are calculated through a Fourie\u2026</p><br />[Phys. Rev. E 113, 015407] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/pb3d-yg31",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Comb polymers in dilute solutions: Analytical approach, computer simulations, and experiments",
+    "summary": "Author(s): Khristine Haydukivska, Viktoria Blavatska, Daniel Gromadzki, and Jaros\u0142aw Paturej<br /><p>We analyze the universal conformational properties of comblike polymer topologies in the dilute-solution regime. To this end, we evaluate the effective radii of gyration of polymer structures across a range of parameters, including the number of branching points $n$, the functionality $f$ (the numbe\u2026</p><br />[Phys. Rev. E 113, 015409] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/kynl-qqxl",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Statistics and morphologies of stable droplets in scalar active fluids",
+    "summary": "Author(s): Kathrin Hert\u00e4g, Joshua F. Robinson, and Thomas Speck<br /><p>Conventional phase segregation is controlled by a positive interfacial tension, which implies that the system relaxes towards a state in which the interfacial area (or length) is minimized, typically manifesting as a single droplet that grows with the system size. Intriguingly, the extension of the \u2026</p><br />[Phys. Rev. E 113, 015410] Published Fri Jan 09, 2026",
+    "url": "http://link.aps.org/doi/10.1103/8xvw-yyf8",
+    "published_date": "2026-01-09T10:00:00Z",
+    "source_feed": "Phys. Rev. E",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Disentangling Boltzmann Brains, the Time-Asymmetry of Memory, and the Second Law",
+    "summary": "<p>David Wolpert, Carlo Rovelli, and Jordan Scharnhorst</p>\n<p>Entropy 2025, 27(12), 1227</p>\n<p>Are your perceptions, memories and observations merely a statistical fluctuation arising from of the thermal equilibrium of the universe, bearing no correlation to the actual past state of the universe? Arguments are given in the literature for and against this \u201cBoltzmann brain\u201d hypothesis. Complicating these arguments have been the many subtle\u2014and very often implicit\u2014joint dependencies among these arguments and others that have been given for the past hypothesis, the second law, and even for Bayesian inference of the reliability of experimental data. These dependencies can easily lead to circular reasoning. To avoid this problem, since all of these arguments involve the stochastic properties of the dynamics of the universe\u2019s entropy, we begin by formalizing that dynamics as a time-symmetric, time-translation invariant Markov process, which we call the entropy conjecture. Crucially, like all stochastic processes, the entropy conjecture does not specify any time(s) which it should be conditioned on in order to infer the stochastic dynamics of our universe\u2019s entropy. Any such choice of conditioning times and associated entropy values must be introduced as an independent assumption. This observation allows us to disentangle the standard Boltzmann brain hypothesis, its \u201c1000CE\u201d variant, the past hypothesis, the second law, and the reliability of our experimental data, all in a fully formal manner. In particular, we show that these all make an arbitrary assumption that the dynamics of the universe\u2019s entropy should be conditioned on a single event at a single moment in time, differing only in the details of their assumptions. In this aspect, the Boltzmann brain hypothesis and the second law are equally legitimate (or not).</p>\n<p>Read the full article at: <a href=\"https://www.mdpi.com/1099-4300/27/12/1227\" rel=\"noopener\" target=\"_blank\">www.mdpi.com</a></p>",
+    "url": "https://comdig.unam.mx/2026/01/09/disentangling-boltzmann-brains-the-time-asymmetry-of-memory-and-the-second-law/",
+    "published_date": "2026-01-09T20:30:24Z",
+    "source_feed": "Complexity Digest",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sinking trees in Arctic Ocean could remove 1 billion tonnes of CO2",
+    "summary": "Cutting down boreal forest and sinking the felled trees in the depths of the Arctic Ocean could remove up to 1 billion tonnes of carbon dioxide from the atmosphere each year \u2013 but it could come at a cost to the Arctic ecosystem",
+    "url": "https://www.newscientist.com/article/2510920-sinking-trees-in-arctic-ocean-could-remove-1-billion-tonnes-of-co2/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T20:00:52Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NASA is performing an unprecedented medical evacuation from the ISS",
+    "summary": "One of the astronauts aboard the International Space Station is undergoing a \u201cmedical situation\u201d, forcing NASA to bring the crew home early for the first time ever",
+    "url": "https://www.newscientist.com/article/2510937-nasa-is-performing-an-unprecedented-medical-evacuation-from-the-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T18:00:43Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Microbiome study hints that fibre could be linked to better sleep",
+    "summary": "Evidence is mounting that specific gut bacteria are linked to sleep conditions, which may open the doors to dietary recommendations aiming to boost the quality of our slumbers",
+    "url": "https://www.newscientist.com/article/2510874-microbiome-study-hints-that-fibre-could-be-linked-to-better-sleep/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T18:00:15Z",
+    "source_feed": "New Scientist - Physics & Math",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sinking trees in Arctic Ocean could remove 1 billion tonnes of CO2",
+    "summary": "Cutting down boreal forest and sinking the felled trees in the depths of the Arctic Ocean could remove up to 1 billion tonnes of carbon dioxide from the atmosphere each year \u2013 but it could come at a cost to the Arctic ecosystem",
+    "url": "https://www.newscientist.com/article/2510920-sinking-trees-in-arctic-ocean-could-remove-1-billion-tonnes-of-co2/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T20:00:52Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NASA is performing an unprecedented medical evacuation from the ISS",
+    "summary": "One of the astronauts aboard the International Space Station is undergoing a \u201cmedical situation\u201d, forcing NASA to bring the crew home early for the first time ever",
+    "url": "https://www.newscientist.com/article/2510937-nasa-is-performing-an-unprecedented-medical-evacuation-from-the-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T18:00:43Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Microbiome study hints that fibre could be linked to better sleep",
+    "summary": "Evidence is mounting that specific gut bacteria are linked to sleep conditions, which may open the doors to dietary recommendations aiming to boost the quality of our slumbers",
+    "url": "https://www.newscientist.com/article/2510874-microbiome-study-hints-that-fibre-could-be-linked-to-better-sleep/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T18:00:15Z",
+    "source_feed": "New Scientist - Current Issue Articles",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Sinking trees in Arctic Ocean could remove 1 billion tonnes of CO2",
+    "summary": "Cutting down boreal forest and sinking the felled trees in the depths of the Arctic Ocean could remove up to 1 billion tonnes of carbon dioxide from the atmosphere each year \u2013 but it could come at a cost to the Arctic ecosystem",
+    "url": "https://www.newscientist.com/article/2510920-sinking-trees-in-arctic-ocean-could-remove-1-billion-tonnes-of-co2/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T20:00:52Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NASA is performing an unprecedented medical evacuation from the ISS",
+    "summary": "One of the astronauts aboard the International Space Station is undergoing a \u201cmedical situation\u201d, forcing NASA to bring the crew home early for the first time ever",
+    "url": "https://www.newscientist.com/article/2510937-nasa-is-performing-an-unprecedented-medical-evacuation-from-the-iss/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T18:00:43Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Microbiome study hints that fibre could be linked to better sleep",
+    "summary": "Evidence is mounting that specific gut bacteria are linked to sleep conditions, which may open the doors to dietary recommendations aiming to boost the quality of our slumbers",
+    "url": "https://www.newscientist.com/article/2510874-microbiome-study-hints-that-fibre-could-be-linked-to-better-sleep/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home",
+    "published_date": "2026-01-09T18:00:15Z",
+    "source_feed": "New Scientist - Life",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Callisto\u2019s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure",
     "summary": "<p>The Galilean moons of Io, Europa, and Ganymede exhibit a 4:2:1 commensurability in their mean motions, a configuration known as the Laplace resonance. The prevailing view for the origin of this three-body resonance involves the convergent migration of the moons, resulting from gas-driven torques in the circum-Jovian disk wherein they accreted. To account for Callisto&#8217;s [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html\">Callisto&#8217;s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
     "url": "https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html",
