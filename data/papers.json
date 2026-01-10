@@ -1,5 +1,137 @@
 [
   {
+    "title": "N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Adducts as a Tunable Scaffold for Distonic Radical Cation and Dication Stabilization",
+    "summary": "Reactive organic intermediates \u2013 particularly radical cations and dications \u2013 possess unique structural and electronic properties significant for the advancement of fundamental chemistry and materials. However, stabilizing motifs for these highly reactive species have limited synthetic accessibility and tunability. N-Heterocyclic carbene-carbodiimide (NHC-CDI) adducts are a promising platform to stabilize these intermediates due to their tunability and synthetic accessibility. Herein, we report a simple NHC-CDI framework \u2013 containing substituted diphenyl CDIs with one \u201csuper radical stabilizer\u201d (4-dimethylamino) and one tunable handle \u2013 that can stabilize distonic radical cation and dication species. We synthesized six systematically-varied adducts that undergo two sequential, reversible oxidations with half-wave potentials (E1/2,1 = \u22120.528 to \u22120.205 V; E1/2,2 = \u22120.005 to 0.115 V) correlating strongly to the electronics of the CDI (i.e., Hammett \u03c3p parameters). Cyclic voltammetry was used to characterize the electrochemical behavior of the NHC-CDIs. Scan rate studies revealed a reversible, diffusion-controlled system. Additionally, cycling experiments resulted in minimal changes in current density after ten cycles. The facile synthetic tunability and accessibilty make this platform promising for the study and development of reactive intermediates for catalysis and energy materials.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-x8zvr-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Homogeneous Boroaluminate Xerogels: Synthesis, Characterization, and Catalysis",
+    "summary": "Boroaluminates are promising materials for various catalytic applications, particularly due to their tunable acidity and textural properties, having not reached their full potential yet. Developing synthetic routes that yield mesoporous structures with high surface areas is crucial for maximizing their performance. Traditional preparation methods (including hydrolytic sol-gel) often struggle to produce highly mesoporous, high-surface-area boroaluminates without the use of templating agents and can lead to heterogeneous elemental distribution. Furthermore, direct comparisons of different non-hydrolytic sol-gel (NHSG) approaches for these materials are limited. In this work, we present an NHSG preparation method for mesoporous boroaluminates, utilizing the alkyl-halide condensation reaction between Al(OiPr)3 and BCl3, with a 1:1 boron/aluminum precursor ratio. This approach resulted in amorphous xerogels featuring a homogeneous distribution of boron and aluminum atoms within the structure. Our method successfully produced mixed boria-alumina xerogels with high surface areas, reaching up to 600 m2 g\u22121 without the need for any templating agent. We characterized these materials using 11B and 27Al MAS NMR spectroscopy, SEM and STEM-EDS microscopy, N2 porosimetry, thermogravimetry, ICP-OES and XPS elemental analysis and ammonia-TPD. Additionally, we provide a comparative analysis with boroaluminates prepared by other non-hydrolytic sol-gel reactions and demonstrate their practical utility in catalysis through the ethanol dehydration (with >83 % ethanol conversion at 275 \u00b0C), producing both ethylene and diethyl ether. This work offers a promising route for synthesizing mesoporous boroaluminates for catalytic applications.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-jdbrv-v4?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Graph learning of sequence statistics for polymer representation",
+    "summary": "Polymers underpin critical technologies from medicine to energy, but their immense chemical and structural diversity makes rational design exceptionally difficult. Machine learning offers a way to navigate this space, yet prevailing approaches inherit small-molecule representations that fail to encode polymer-specific architecture; the distinction between random, block and other statistical copolymers is often collapsed into a categorical tag or ignored. Here, we introduce SCALE (Statistical Copolymer Architecture with Learning Edges), which recasts a copolymer as a Markovian sequence over a monomer alphabet and embeds the transition probabilities P(j/i) as edge features within a graph attention network. Message passing thus computes contextualized monomer states analogous to applying a transfer operator along the chain, while attention learns a data-driven kernel over paths that weights sequence heterogeneity versus block persistence. On a robotically synthesized, high-throughput fluorescence library, SCALE attained RMSE \u2248228 and R\u00b2 \u22480.84, surpassing polymer-adapted neural baselines and descriptor regressors (e.g., wDMPNN RMSE \u2248326; XGBoost RMSE \u2248254). The model is interpretable: edges dominate predictions for statistical (random) copolymers, whereas nodes prevail for block copolymers, consistent with NOESY 2D NMR. Beyond photophysics, SCALE generalized to antibacterial design across penta- and hexa-copolymer libraries with validation from <300 syntheses. By elevating sequence statistics to first-class learning variables, SCALE provides a generalizable, data-efficient route to closed-loop polymer discovery.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-tb0td?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Adducts as a Tunable Scaffold for Distonic Radical Cation and Dication Stabilization",
+    "summary": "Reactive organic intermediates \u2013 particularly radical cations and dications \u2013 possess unique structural and electronic properties significant for the advancement of fundamental chemistry and materials. However, stabilizing motifs for these highly reactive species have limited synthetic accessibility and tunability. N-Heterocyclic carbene-carbodiimide (NHC-CDI) adducts are a promising platform to stabilize these intermediates due to their tunability and synthetic accessibility. Herein, we report a simple NHC-CDI framework \u2013 containing substituted diphenyl CDIs with one \u201csuper radical stabilizer\u201d (4-dimethylamino) and one tunable handle \u2013 that can stabilize distonic radical cation and dication species. We synthesized six systematically-varied adducts that undergo two sequential, reversible oxidations with half-wave potentials (E1/2,1 = \u22120.528 to \u22120.205 V; E1/2,2 = \u22120.005 to 0.115 V) correlating strongly to the electronics of the CDI (i.e., Hammett \u03c3p parameters). Cyclic voltammetry was used to characterize the electrochemical behavior of the NHC-CDIs. Scan rate studies revealed a reversible, diffusion-controlled system. Additionally, cycling experiments resulted in minimal changes in current density after ten cycles. The facile synthetic tunability and accessibilty make this platform promising for the study and development of reactive intermediates for catalysis and energy materials.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2025-x8zvr-v2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Organic Chemistry on ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The urgent need for African research collaboration on medicine quality",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67430-z\">doi:10.1038/s41467-025-67430-z</a></p>Substandard and falsified medicines are a global health threat. The fight against them is a regulatory and research challenge; here, the authors argue the importance of global and regional oversight, monitoring of, and research into the extent of the issue.",
+    "url": "https://www.nature.com/articles/s41467-025-67430-z",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Integration of large vision language models for efficient post-disaster damage assessment and reporting",
+    "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68216-z\">doi:10.1038/s41467-025-68216-z</a></p>Disaster response often suffers from delays and inconsistent assessments. Here, the authors develop DisasTeller, a multi-agent LVLM system that interprets disaster images, generates alerts and plans, and provides rapid, standardised support for post-disaster decision-making.",
+    "url": "https://www.nature.com/articles/s41467-025-68216-z",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Nature Communications",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "On distance, similarity and entropy measures of multidimensional fuzzy sets",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-33430-8\">doi:10.1038/s41598-025-33430-8</a></p>On distance, similarity and entropy measures of multidimensional fuzzy sets",
+    "url": "https://www.nature.com/articles/s41598-025-33430-8",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Development and characterization of chicken lung organoids for <i>in vitro</i> modeling of avian influenza virus-host cell interaction",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-30641-x\">doi:10.1038/s41598-025-30641-x</a></p>Development and characterization of chicken lung organoids for <i>in vitro</i> modeling of avian influenza virus-host cell interaction",
+    "url": "https://www.nature.com/articles/s41598-025-30641-x",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Structural performance of UHPC-columns reinforced with basalt bars under cyclic loading",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-31316-3\">doi:10.1038/s41598-025-31316-3</a></p>Structural performance of UHPC-columns reinforced with basalt bars under cyclic loading",
+    "url": "https://www.nature.com/articles/s41598-025-31316-3",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Structural basis for late maturation steps of mitochondrial respiratory chain complex IV within the human respirasome",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68274-3",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Transcriptomic signature-guided depletion of intermediate alveolar epithelial cells ameliorates pulmonary fibrosis in mice",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-026-68354-y",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "La recette \u00e0 succ\u00e8s de la formation des plan\u00e8tes",
+    "summary": "Gr\u00e2ce \u00e0 de nouveaux t\u00e9lescopes et des simulations informatiques, les chercheurs ont une vision beaucoup plus pr\u00e9cise des \u00e9tapes qui ont permis \u00e0 d'infimes particules de grossir jusqu'\u00e0 former une plan\u00e8te.",
+    "url": "https://www.sciencesetavenir.fr/espace/planetes/la-recette-a-succes-de-la-formation-des-planetes_190065?xtor=RSS-9",
+    "published_date": "2026-01-10T13:00:00Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Hydrogen-Bonding Primary and Secondary Coordination Sphere Effects on Water Oxidation Catalyzed by Transition Metal Complexes",
     "summary": "Rising energy needs, the threat of climate change, and the diminishing reserves of non-renewable energy underscore the urgency for advancing alternative, sustainable, clean energy sources. Hydrogen is currently appraised as a logical, sustainable power source, with electrochemical water splitting emerging as a critical method for its production. Water oxidation, a key step in artificial photosynthesis, remains a significant challenge in the development of sustainable energy systems. Transition metal complexes have emerged as promising catalysts for \nthis reaction due to their tunable structures and remarkable catalytic properties. Among the various factors influencing their performance, hydrogen bonding has gained increasing attention as a critical element in shaping catalytic efficiency and reaction pathways. The review explores the multifaceted role of hydrogen bonding in transition metal-based water oxidation catalysts, highlighting its impact on structural stability, proton transfer dynamics, and electronic modulation of active sites. We discuss recent advancements in understanding how hydrogen-bonding \ninteractions influence catalytic activity and selectivity, drawing on both experimental findings and \ncomputational insights. By shedding light on the pivotal role of hydrogen bonding, this review aims to inspire innovative approaches for designing next-generation catalysts for sustainable water-splitting technologies.",
     "url": "https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss",

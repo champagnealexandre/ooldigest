@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [La recette à succès de la formation des planètes](https://www.sciencesetavenir.fr/espace/planetes/la-recette-a-succes-de-la-formation-des-planetes_190065?xtor=RSS-9) |
+| keyword_rejected | - | [Transcriptomic signature-guided depletion of intermediate al](https://www.nature.com/articles/s41467-026-68354-y) |
+| keyword_rejected | - | [Structural basis for late maturation steps of mitochondrial ](https://www.nature.com/articles/s41467-025-68274-3) |
+| keyword_rejected | - | [Structural performance of UHPC-columns reinforced with basal](https://www.nature.com/articles/s41598-025-31316-3) |
+| keyword_rejected | - | [Development and characterization of chicken lung organoids f](https://www.nature.com/articles/s41598-025-30641-x) |
+| keyword_rejected | - | [On distance, similarity and entropy measures of multidimensi](https://www.nature.com/articles/s41598-025-33430-8) |
+| keyword_rejected | - | [Integration of large vision language models for efficient po](https://www.nature.com/articles/s41467-025-68216-z) |
+| keyword_rejected | - | [The urgent need for African research collaboration on medici](https://www.nature.com/articles/s41467-025-67430-z) |
+| keyword_rejected | - | [N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Adducts as a T](https://dx.doi.org/10.26434/chemrxiv-2025-x8zvr-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Graph learning of sequence statistics for polymer representa](https://dx.doi.org/10.26434/chemrxiv-2026-tb0td?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Homogeneous Boroaluminate Xerogels: Synthesis, Characterizat](https://dx.doi.org/10.26434/chemrxiv-2025-jdbrv-v4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Adducts as a T](https://dx.doi.org/10.26434/chemrxiv-2025-x8zvr-v2?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Mechanistic Study of Glycerol Electro-oxidation on Ni(OH)₂/N](https://dx.doi.org/10.26434/chemrxiv-2026-01t62?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Hydrogen-Bonding Primary and Secondary Coordination Sphere E](https://dx.doi.org/10.26434/chemrxiv-2026-b4mrl?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Tempêtes en Europe : lente amélioration en Allemagne et en F](https://www.sciencesetavenir.fr/nature-environnement/tempetes-en-europe-lente-amelioration-en-allemagne-et-en-france-un-mort-au-royaume-uni_190355?xtor=RSS-15) |
