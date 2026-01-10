@@ -2,8 +2,14 @@
 
 import os
 import json
+import re
 from typing import List, Dict, Any
 from bs4 import BeautifulSoup
+
+# Regex to match invalid XML 1.0 control characters
+# Valid: #x9 (tab), #xA (newline), #xD (carriage return), #x20 and above
+# Invalid: 0x00-0x08, 0x0B, 0x0C, 0x0E-0x1F
+_INVALID_XML_CHARS = re.compile(r'[\x00-\x08\x0b\x0c\x0e-\x1f]')
 
 
 def load_history(path: str) -> List[Dict[str, Any]]:
@@ -20,11 +26,19 @@ def save_history(data: List[Dict[str, Any]], path: str) -> None:
         json.dump(data[:100000], f, indent=2)
 
 
+def strip_invalid_xml_chars(text: str) -> str:
+    """Remove characters that are invalid in XML 1.0."""
+    if not text:
+        return ""
+    return _INVALID_XML_CHARS.sub('', text)
+
+
 def clean_text(text: str) -> str:
-    """Strip HTML and normalize whitespace."""
+    """Strip HTML, normalize whitespace, and remove invalid XML characters."""
     if not text:
         return ""
     text = BeautifulSoup(text, "html.parser").get_text(separator=' ')
+    text = strip_invalid_xml_chars(text)
     return " ".join(text.split())
 
 

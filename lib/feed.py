@@ -4,7 +4,7 @@ import os
 import html
 import datetime
 from typing import List, Dict, Any
-from .utils import clean_text
+from .utils import clean_text, strip_invalid_xml_chars
 
 FEED_TEMPLATE = """<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -37,7 +37,7 @@ def _build_entry(paper: Dict[str, Any]) -> str:
     """Build XML for a single feed entry."""
     result = paper.get('analysis_result') or {}
     score = result.get('score', 0)
-    ai_summary = result.get('summary', '')
+    ai_summary = strip_invalid_xml_chars(result.get('summary', ''))
     if score < 0:
         return ""
     
