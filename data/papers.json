@@ -1,5 +1,94 @@
 [
   {
+    "title": "Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence",
+    "summary": "<p>Dr. Jill Tarter, co-founder of the SETI Institute and one of the most influential figures in the scientific search for life beyond Earth, has been named the recipient of the 2026 Green Sands Prize. The Green Sands Inspiration Prize is awarded to trailblazers who have the courage to go first, take on risks and personal [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html\">Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html",
+    "published_date": "2026-01-10T00:49:07Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "A news-style award announcement highlighting Jill Tarter\u2019s leadership in SETI, relevant to astrobiology broadly but not directly to origins-of-life mechanisms or prebiotic chemistry."
+    }
+  },
+  {
+    "title": "Dale Andersen\u2019s Astrobiology Antarctic Status Report: 9 January 2026: Building Our New Storage Facility At Novolazarevskaya Station",
+    "summary": "<p>Hi Keith, we had another busy day moving and sorting gear. We hope to wrap that up tomorrow, and if everything comes together, we will head out on the traverse to Lake Untersee Sunday morning. The weather has been pleasant\u2014maybe a little too warm during the day\u2014but sunny, with little wind for most of it, [&#8230;]</p>\n<p>The post <a href=\"https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html\">Dale Andersen\u2019s Astrobiology Antarctic Status Report: 9 January 2026: Building Our New Storage Facility At Novolazarevskaya Station</a> appeared first on <a href=\"https://astrobiology.com\">Astrobiology</a>.</p>",
+    "url": "https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html",
+    "published_date": "2026-01-10T00:42:01Z",
+    "source_feed": "Astrobiology (astrobiology.com)",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "astrobio*",
+      "water",
+      "evolution"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "Field status update from an astrobiology team in Antarctica focused on logistics (building/moving gear and preparing for a traverse), with minimal direct relevance to origins-of-life research."
+    }
+  },
+  {
+    "title": "Cooperative supporting effect of intermediate bridge and inner dump on slope in adjacent open-pit mining area",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34747-0\">doi:10.1038/s41598-025-34747-0</a></p>Cooperative supporting effect of intermediate bridge and inner dump on slope in adjacent open-pit mining area",
+    "url": "https://www.nature.com/articles/s41598-025-34747-0",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "A prediction model for bronchoalveolar lavage in children with Mycoplasma pneumoniae pneumonia and consolidation",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-32941-8\">doi:10.1038/s41598-025-32941-8</a></p>A prediction model for bronchoalveolar lavage in children with Mycoplasma pneumoniae pneumonia and consolidation",
+    "url": "https://www.nature.com/articles/s41598-025-32941-8",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Evaluating machine learned nuclear data precision in full core nuclear reactor Monte Carlo neutronics and computational efficiency analyses",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35227-9\">doi:10.1038/s41598-026-35227-9</a></p>Evaluating machine learned nuclear data precision in full core nuclear reactor Monte Carlo neutronics and computational efficiency analyses",
+    "url": "https://www.nature.com/articles/s41598-026-35227-9",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Crustal structure of La Palma Island inferred from 3D aeromagnetic modelling",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34611-1\">doi:10.1038/s41598-025-34611-1</a></p>Crustal structure of La Palma Island inferred from 3D aeromagnetic modelling",
+    "url": "https://www.nature.com/articles/s41598-025-34611-1",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "The A2357T substitution in the kinase domain of yeast Tor1 confers growth promoting TORC1 activity independent of Gtr1/2 and Pib2",
+    "summary": "<p>Scientific Reports, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34647-3\">doi:10.1038/s41598-025-34647-3</a></p>The A2357T substitution in the kinase domain of yeast Tor1 confers growth promoting TORC1 activity independent of Gtr1/2 and Pib2",
+    "url": "https://www.nature.com/articles/s41598-025-34647-3",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "LOTUS-domain proteins activate Vasa to drive germ granule assembly",
     "summary": "Germline development relies on perinuclear membraneless germ granules, yet the mechanisms underlying their assembly remain poorly understood. Here we uncover a conserved and central role for LOTUS-domain proteins in driving germ granule assembly. In C. elegans, the LOTUS-domain protein EGGD-1/MIP-1 at sub-stoichiometric levels recruits Vasa protein GLH-1 to the nuclear periphery. Acting as a catalyst, EGGD-1 modulates the ATPase cycle of GLH-1 by preferentially binding to its open conformation, enhancing its RNA binding activities, and facilitating its transition to the closed conformation. In this closed state, GLH-1 enriches mRNAs at the nuclear periphery, which enables the accumulation of RNA-binding proteins including PGL-1 and PGL-3. Using human cells, we demonstrate the LOTUS-domain protein TDRD5 similarly recruits DDX4, the human Vasa homolog, and stimulates the formation of intermitochondrial cement. Collectively, our findings reveal an evolutionarily conserved role of LOTUS-domain proteins in enhancing Vasa activity and provide a unified model for germ granule assembly across species.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1",

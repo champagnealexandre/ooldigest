@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Dale Andersen’s Astrobiology Antarctic Status Report: 9 Janu](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-9-january-2026-building-our-new-storage-facility-at-novolazarevskaya-station.html) |
+| ai_scored | 30 | [Jill Tarter Awarded the Prestigious Green Sands Prize for He](https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html) |
+| keyword_rejected | - | [The A2357T substitution in the kinase domain of yeast Tor1 c](https://www.nature.com/articles/s41598-025-34647-3) |
+| keyword_rejected | - | [Crustal structure of La Palma Island inferred from 3D aeroma](https://www.nature.com/articles/s41598-025-34611-1) |
+| keyword_rejected | - | [Evaluating machine learned nuclear data precision in full co](https://www.nature.com/articles/s41598-026-35227-9) |
+| keyword_rejected | - | [A prediction model for bronchoalveolar lavage in children wi](https://www.nature.com/articles/s41598-025-32941-8) |
+| keyword_rejected | - | [Cooperative supporting effect of intermediate bridge and inn](https://www.nature.com/articles/s41598-025-34747-0) |
 | ai_scored | 10 | [circDiscoverer: A resource for curated and predicted circRNA](https://www.biorxiv.org/content/10.64898/2026.01.08.698416v1?rss=1) |
 | ai_scored | 60 | [LOTUS-domain proteins activate Vasa to drive germ granule as](https://www.biorxiv.org/content/10.64898/2026.01.08.698407v1?rss=1) |
 | keyword_rejected | - | [How Prepared Are ISS Astronauts for Medical Emergencies?](https://www.scientificamerican.com/article/how-prepared-are-iss-astronauts-for-medical-emergencies/) |
