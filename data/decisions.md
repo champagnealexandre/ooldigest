@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Plusieurs milliers de médecins défilent à Paris et en appell](https://www.sciencesetavenir.fr/sante/plusieurs-milliers-de-medecins-defilent-a-paris-et-en-appellent-a-lecornu_190356?xtor=RSS-16) |
+| keyword_rejected | - | [NASA Announces Return Date for ISS Astronauts After Medical ](https://www.scientificamerican.com/article/nasa-announces-return-date-for-iss-astronauts-after-medical-evacuation/) |
+| keyword_rejected | - | [From cognitive coherence to political polarization: A data-d](https://comdig.unam.mx/2026/01/10/from-cognitive-coherence-to-political-polarization-a-data-driven-agent-based-model-of-belief-change/) |
+| keyword_rejected | - | [Critical scaling of novelty in the cortex](https://www.nature.com/articles/s41467-025-68277-0) |
 | keyword_rejected | - | [Improved protein binder design using β-pairing targeted RFdi](https://www.nature.com/articles/s41467-025-67866-3) |
 | keyword_rejected | - | [Ultrahigh energy storage density and efficiency in AgNbO<sub](https://www.nature.com/articles/s41467-026-68297-4) |
 | keyword_rejected | - | [Universal modulus-free transfer of scalable laser-induced gr](https://www.nature.com/articles/s41467-025-68131-3) |

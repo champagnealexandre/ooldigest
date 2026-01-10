@@ -1,5 +1,54 @@
 [
   {
+    "title": "Plusieurs milliers de m\u00e9decins d\u00e9filent \u00e0 Paris et en appellent \u00e0 Lecornu",
+    "summary": "Plusieurs milliers de m\u00e9decins lib\u00e9raux en gr\u00e8ve depuis lundi d\u00e9filent samedi \u00e0 Paris contre une \"d\u00e9rive autoritaire\" qui menace selon eux leur \"libert\u00e9 d'exercice\", appelant le Premier ministre S\u00e9bastien Lecornu \u00e0 leur \"faire des propositions\".\n\"Maltraiter les soignants, c'est maltraiter les patients\", proclame la banderole de t\u00eate port\u00e9e par les syndicats repr\u00e9sentatifs des professionnels.\nParmi les slogans des manifestants, venus nombreux en blouse blanche, \"on veut des soignants pas des sanctions\", \"la S\u00e9cu parle chiffres, nous parlons patients\" ou encore, \u00e0 l'intention du gouvernement, \"nous ne sommes pas des pions de vos \u00e9checs\".",
+    "url": "https://www.sciencesetavenir.fr/sante/plusieurs-milliers-de-medecins-defilent-a-paris-et-en-appellent-a-lecornu_190356?xtor=RSS-16",
+    "published_date": "2026-01-10T13:48:54Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "ai_scored",
+    "hunted_links": [],
+    "matched_keywords": [
+      "venus"
+    ],
+    "analysis_result": {
+      "score": 0,
+      "summary": "French news report on striking private doctors marching in Paris over healthcare policy and professional autonomy, with no connection to origins-of-life or astrobiology research."
+    }
+  },
+  {
+    "title": "Critical scaling of novelty in the cortex",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-68277-0",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "From cognitive coherence to political polarization: A data-driven agent-based model of belief change",
+    "summary": "<p>Marlene C. L. Batzke, Peter Steiglechner, Jan Lorenz, Bruce Edmonds, Franti\u0161ek Kalvas</p>\n<p>Political Psychology&#160;</p>\n<p>Political polarization represents a rising issue in many countries, making it more and more important to understand its relation to cognitive-motivational and social influence mechanisms. Yet, the link between micro-level mechanisms and macro-level phenomena remains unclear. We investigated the consequences of individuals striving for cognitive coherence in their belief systems on political polarization in society in an agent-based model. In this, we formalized how cognitive coherence affects how individuals update their beliefs following social influence and self-reflection processes. We derive agents' political beliefs as well as their subjective belief systems, defining what determines coherence for different individuals, from European Social Survey data via correlational class analysis. The simulation shows that agents polarize in their beliefs when they have a strong strive for cognitive coherence, and especially when they have structurally different belief systems. In a mathematical analysis, we not only explain the main findings but also underscore the necessity of simulations for understanding the complex dynamics of socially embedded phenomena such as political polarization.</p>\n<p>Read the full article at: <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/pops.70099\" rel=\"noopener\" target=\"_blank\">onlinelibrary.wiley.com</a></p>",
+    "url": "https://comdig.unam.mx/2026/01/10/from-cognitive-coherence-to-political-polarization-a-data-driven-agent-based-model-of-belief-change/",
+    "published_date": "2026-01-10T16:06:00Z",
+    "source_feed": "Complexity Digest",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "NASA Announces Return Date for ISS Astronauts After Medical Evacuation Announcement",
+    "summary": "<p>Four ISS crew members are set to touch down on Thursday after NASA announced the first medical evacuation in the space station&rsquo;s history</p>",
+    "url": "https://www.scientificamerican.com/article/nasa-announces-return-date-for-iss-astronauts-after-medical-evacuation/",
+    "published_date": "2026-01-10T14:30:00Z",
+    "source_feed": "Scientific American",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Universal modulus-free transfer of scalable laser-induced graphene for electronic skins",
     "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-68131-3\">doi:10.1038/s41467-025-68131-3</a></p>This study reports a universally cryogenic stripping strategy for transferring laser-induced graphene onto diverse surfaces without modulus limitations. The thickness of typical receiver elastomers can be reduced to 6.7 \u03bcm for large-scale electronic skins.",
     "url": "https://www.nature.com/articles/s41467-025-68131-3",
