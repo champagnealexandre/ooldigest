@@ -27,7 +27,7 @@ ENTRY_TEMPLATE = """  <entry>
 
 
 def _emoji(score: int) -> str:
-    if score < 20: return "⚫"
+    if score < 20: return "🟤"
     if score < 40: return "🔴"
     if score < 60: return "🟠"
     if score < 80: return "🟡"
