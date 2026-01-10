@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [X-ray spectra provide sharpest image to date of a rapidly sp](https://phys.org/news/2026-01-ray-spectra-sharpest-image-date.html) |
 | keyword_rejected | - | [À la fin du néolithique, les premières cités](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/a-la-fin-du-neolithique-les-premieres-cites_190102?xtor=RSS-4) |
 | keyword_rejected | - | [Spatial distribution characteristics and influencing factors](https://www.nature.com/articles/s41598-026-35287-x) |
 | keyword_rejected | - | [Plant growth point localization via epoch-based prior anneal](https://www.nature.com/articles/s41598-026-35009-3) |
