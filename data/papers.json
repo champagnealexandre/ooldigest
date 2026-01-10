@@ -1,5 +1,96 @@
 [
   {
+    "title": "Single-Particle Visualization of Water Uptake of Organic\u2013Inorganic Aerosols with In-Situ Transmission Electron Microscopy",
+    "summary": "Atmospheric aerosol water uptake properties influence cloud formation and precipitation, atmospheric chemistry, and global climate. Atmospheric aerosols often contain organic acids and inorganic hygroscopic salts, and their internal mixing influences water uptake properties in complex and non-intuitive ways. The heterogeneous nature of aerosol ensembles necessitates nanoscale visualization of aerosol mixing state and water uptake dynamics to uncover mechanistic details. Here we demonstrate that water uptake in phthalic acid (PTA)/sodium chloride (NaCl) aerosols proceeds by PTA swelling, NaCl deliquescence, and droplet growth, while subsequent drying creates core-shell particles containing newly formed sodium phthalate salts. Lab-made individual PTA/NaCl aerosols consisted of cuboidal crystalline NaCl domains phase separated from amorphous PTA domains. Sodium ions were observed in both NaCl and PTA domains, which were separated by a ~10 nm thick interphase with distinct composition and structure. Humidity controlled in-situ TEM imaging revealed PTA/NaCl aerosols initially uptake water by adsorption and swelling of the PTA. Further increases in humidity cause NaCl deliquescence, hygroscopic droplet growth, and partial dissolution and morphology changes in the PTA. Dehumidification initially causes precipitation of an organic-rich shell followed by a polycrystalline NaCl core, yielding a distinctly different core-shell morphology compared to the as-made particles. Diffraction and elemental mapping confirm crystalline sodium acid phthalate forms following dehumidification. This work solidifies our understanding of water uptake and chemical reactions in mixed organic-inorganic atmospheric aerosols by uncovering multistep water uptake dynamics and new phase formation.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 30,
+      "summary": "In-situ TEM reveals multistep humidity-driven swelling, deliquescence, and drying-induced salt formation in mixed phthalic acid/NaCl aerosols, improving mechanistic understanding of aerosol water uptake with only indirect relevance to origins-of-life via planetary climate/chemistry."
+    }
+  },
+  {
+    "title": "Zeolite based thermal energy storage to leverage industrial waste heat for data center cooling",
+    "summary": "Data centers (DCs) represent a rapidly growing segment of electricity demand, with a substantial share of their consumption attributed to cooling needs. We propose a zeolite-based thermal energy storage (TES) system that harnesses low-grade waste heat (<200 \u00b0C) from nearby industrial facilities to provide cooling for DCs. The system operates through spatially and temporally decoupled adsorption (discharging) and desorption (charging) steps: (a) industrial waste heat drives zeolite desorption, and (b) DC heat rejection facilitates water evaporation, enabling zeolite adsorption. Computational modeling of the thermodynamic cycle quantifies the electricity and water implications of the concept, showing (a) electricity savings exceeding 75% for the combined DC + industrial facility (~86% for the DC alone) relative to a benchmark configuration using a compression chiller and cooling tower, and (b) a modest increase in water consumption for the combined facility (14.8 \u2013 23.9%), despite a reduction of 76.5 \u2013 90.1% % in the industrial facility\u2019s standalone water use. Geospatial analysis of existing DC and industrial facility locations shows that the two are typically in close proximity (median distance of 57 km). As a result, even when transportation energy requirements are considered, via an electrified truck, system-wide electricity savings could be notable in many scenarios (as high +45%). We discuss engineering design considerations, alternative deployment configurations, as well as geographic and coordination requirements for their widespread adoption.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "ai_scored",
+    "hunted_links": [
+      "https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss"
+    ],
+    "matched_keywords": [
+      "water"
+    ],
+    "analysis_result": {
+      "score": 10,
+      "summary": "Engineering study proposing a zeolite adsorption/desorption thermal energy storage system to convert industrial low-grade waste heat into data center cooling, reducing electricity use substantially while modestly increasing net water consumption."
+    }
+  },
+  {
+    "title": "High performance interface for boosting ion transmission in native mass spectrometry and beyond.",
+    "summary": "Electrospray ionization (ESI)-based native mass spectrometry (MS) has been extensively used to study non-covalent protein complexes and their structural aspects in the gas phase. As such it has a stable place in the portfolio of modern structural biology and biopharmaceutical analysis techniques. It is also promising as an approach to deliver pro-teins and their assemblies into the gas phase for single particle experiments at advanced light sources such as free electron lasers and synchrotrons. Here we report on a novel radiofrequency ion transfer interface enabling gas flow laminarization at low pressure for efficient capture, focusing, thermalization, trapping and gating of ions into a mass analyser, boosting up to 19-fold the observable signal intensities especially for notoriously challenging multi-megadalton assemblies such as in-tact viral capsids. The new ion transfer interface offers unique opportunities for interdisciplinary approaches intersecting native MS-guided structural biology, molecular and cluster physics as well as (bio)analytical applications. Additionally, when combined with sensitive detection of individual particles, this technology could eventually also open new avenues in clinical diagnostics, enabling for example the analysis of viruses at very low concentrations directly from dilute patient-derived samples as well as viral therapeutic vectors along the biopharmaceutical production chain, thereby helping to un-lock the full potential of native MS.",
+    "url": "https://dx.doi.org/10.26434/chemrxiv-2026-011h9?rft_dat=source%3Ddrss",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "ChemRxiv",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Radio waves enable energy-efficient AI on edge devices without heavy hardware",
+    "summary": "As drones survey forests, robots navigate warehouses and sensors monitor city streets, more of the world's decision-making is occurring autonomously on the edge\u2014on the small devices that gather information at the ends of much larger networks.",
+    "url": "https://phys.org/news/2026-01-radio-enable-energy-efficient-ai.html",
+    "published_date": "2026-01-10T11:10:04Z",
+    "source_feed": "Phys.org - General Physics News",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Functional implications of polygenic risk for schizophrenia in human neurons",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67959-z",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Closed-loop wearable neurostimulation system with triboelectric sensing to alleviate hemifacial spasms",
+    "summary": "",
+    "url": "https://www.nature.com/articles/s41467-025-67121-9",
+    "published_date": "2026-01-10T00:00:00Z",
+    "source_feed": "nature.com - Biological sciences",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Turquie: \"s\u00e9cheresse record\" \u00e0 Ankara o\u00f9 des coupures d'eau perdurent",
+    "summary": "Les coupures d'eau mises en place depuis plusieurs semaines \u00e0 Ankara, la capitale turque, sont la cons\u00e9quence d'\"une s\u00e9cheresse record\", a indiqu\u00e9 samedi \u00e0 l'AFP un responsable de la municipalit\u00e9 en rejetant les accusations de mauvaise gestion.\n\"2025 a \u00e9t\u00e9 une ann\u00e9e record en termes de s\u00e9cheresse. Le volume d'eau alimentant les barrages a chut\u00e9 \u00e0 des niveaux historiquement bas, \u00e0 182 millions de m\u00b3 sur l'ann\u00e9e 2025, contre 400 \u00e0 600 millions de m\u00b3 les ann\u00e9es pr\u00e9c\u00e9dentes.",
+    "url": "https://www.sciencesetavenir.fr/nature-environnement/turquie-secheresse-record-a-ankara-ou-des-coupures-d-eau-perdurent_190354?xtor=RSS-15",
+    "published_date": "2026-01-10T09:41:52Z",
+    "source_feed": "Sciences et Avenir",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Room-temperature high-efficiency spin injection via van der Waals tunnel contact",
     "summary": "<p>Nature Communications, Published online: 10 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-67989-7\">doi:10.1038/s41467-025-67989-7</a></p>Researchers developed a simple, industry-compatible method using an indium buffer layer between cobalt and 2D materials to form vdWs tunnel contacts. This achieved high spin injection efficiency in both graphene and MoS2, enabling future large-scale spintronic devices.",
     "url": "https://www.nature.com/articles/s41467-025-67989-7",

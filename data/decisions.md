@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Zeolite based thermal energy storage to leverage industrial ](https://dx.doi.org/10.26434/chemrxiv-2026-28wv2?rft_dat=source%3Ddrss) |
+| ai_scored | 30 | [Single-Particle Visualization of Water Uptake of Organic–Ino](https://dx.doi.org/10.26434/chemrxiv-2026-sfxs9?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Turquie: "sécheresse record" à Ankara où des coupures d'eau ](https://www.sciencesetavenir.fr/nature-environnement/turquie-secheresse-record-a-ankara-ou-des-coupures-d-eau-perdurent_190354?xtor=RSS-15) |
+| keyword_rejected | - | [Closed-loop wearable neurostimulation system with triboelect](https://www.nature.com/articles/s41467-025-67121-9) |
+| keyword_rejected | - | [Functional implications of polygenic risk for schizophrenia ](https://www.nature.com/articles/s41467-025-67959-z) |
+| keyword_rejected | - | [Radio waves enable energy-efficient AI on edge devices witho](https://phys.org/news/2026-01-radio-enable-energy-efficient-ai.html) |
+| keyword_rejected | - | [High performance interface for boosting ion transmission in ](https://dx.doi.org/10.26434/chemrxiv-2026-011h9?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [En Chine, des villages peinent à se chauffer, faute d'aide](https://www.sciencesetavenir.fr/nature-environnement/en-chine-des-villages-peinent-a-se-chauffer-faute-d-aide_190353?xtor=RSS-15) |
 | keyword_rejected | - | [Decoupling slab gliding and lattice contraction in Na layere](https://www.nature.com/articles/s41467-025-68238-7) |
 | keyword_rejected | - | [Selfish chromosomes exploit a germline checkpoint to elimina](https://www.nature.com/articles/s41467-025-68254-7) |
