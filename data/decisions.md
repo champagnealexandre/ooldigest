@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [À la fin du néolithique, les premières cités](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/a-la-fin-du-neolithique-les-premieres-cites_190102?xtor=RSS-4) |
+| keyword_rejected | - | [Spatial distribution characteristics and influencing factors](https://www.nature.com/articles/s41598-026-35287-x) |
+| keyword_rejected | - | [Plant growth point localization via epoch-based prior anneal](https://www.nature.com/articles/s41598-026-35009-3) |
 | ai_scored | 0 | [Plusieurs milliers de médecins défilent à Paris et en appell](https://www.sciencesetavenir.fr/sante/plusieurs-milliers-de-medecins-defilent-a-paris-et-en-appellent-a-lecornu_190356?xtor=RSS-16) |
 | keyword_rejected | - | [NASA Announces Return Date for ISS Astronauts After Medical ](https://www.scientificamerican.com/article/nasa-announces-return-date-for-iss-astronauts-after-medical-evacuation/) |
 | keyword_rejected | - | [From cognitive coherence to political polarization: A data-d](https://comdig.unam.mx/2026/01/10/from-cognitive-coherence-to-political-polarization-a-data-driven-agent-based-model-of-belief-change/) |
