@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Sepsis-associated skeletal muscle wasting is ameliorated by ](https://www.nature.com/articles/s41598-026-35815-9) |
+| keyword_rejected | - | [Numerical simulation of flow field in single-head broken-too](https://www.nature.com/articles/s41598-026-36029-9) |
+| keyword_rejected | - | [Artificial neural network as a strategy to predict rheologic](https://www.nature.com/articles/s41598-026-35795-w) |
+| keyword_rejected | - | [Affinity of drug candidates binding to SARS-CoV-2 PLpro asse](https://www.nature.com/articles/s41598-025-34319-2) |
+| keyword_rejected | - | [Informed spatially aware patterns for multiplexed immunofluo](https://www.nature.com/articles/s41598-026-35341-8) |
 | ai_scored | 30 | [Sortie de l'eau : le grand boom de la biodiversité](https://www.sciencesetavenir.fr/archeo-paleo/evolution/sortie-de-l-eau-le-grand-boom-de-la-biodiversite_190068?xtor=RSS-4) |
 | keyword_rejected | - | [When the oceans died and life changed forever](https://www.sciencedaily.com/releases/2026/01/260110211202.htm) |
 | keyword_rejected | - | [Sur les routes de la soie](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/sur-les-routes-de-la-soie_190127?xtor=RSS-4) |
