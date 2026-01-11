@@ -1,5 +1,16 @@
 [
   {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111073919&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Synergistic effects of hard anodizing parameters on the microstructural, mechanical, and tribological properties of 6061 aluminum alloy",
     "summary": "<p>Scientific Reports, Published online: 11 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35825-7\">doi:10.1038/s41598-026-35825-7</a></p>Synergistic effects of hard anodizing parameters on the microstructural, mechanical, and tribological properties of 6061 aluminum alloy",
     "url": "https://www.nature.com/articles/s41598-026-35825-7",

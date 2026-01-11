@@ -1,5 +1,5 @@
 # Feed Status Report
-Generated: 2026-01-11 12:33
+Generated: 2026-01-11 12:39
 
 **Legend:** ✅ Healthy | ⚠️ Stalled (30+ days) | ❌ Error | ⬜ Empty (no entries)
 
@@ -24,51 +24,51 @@ Generated: 2026-01-11 12:33
 ## ⚠️ Stalled Feeds (no posts in 30+ days)
 
 - **ACS Synthetic Biology**: last post 919 days ago
-- **J Syst Sci Complex**: last post 648 days ago
-- **Annual Reviews: Astronomy and Astrophysics**: last post 146 days ago
-- **Annual Reviews: Genetics**: last post 47 days ago
-- **Annual Reviews: Biochemistry**: last post 205 days ago
-- **Annual Reviews: Microbiology**: last post 80 days ago
 - **Annual Reviews: Virology**: last post 108 days ago
 - **Annual Reviews: Ecology, Evolution, and Systematics**: last post 67 days ago
+- **J Syst Sci Complex**: last post 648 days ago
+- **Annual Reviews: Microbiology**: last post 80 days ago
+- **Annual Reviews: Biochemistry**: last post 205 days ago
+- **Annual Reviews: Genetics**: last post 47 days ago
+- **Annual Reviews: Astronomy and Astrophysics**: last post 146 days ago
 - **Scientific American: Evolution**: last post 687 days ago
 
 ## ⬜ Empty Feeds (no entries returned)
 
-- **cs.IT updates on arXiv.org**
-  - URL: https://arxiv.org/rss/cs.IT
-- **astro-ph.EP updates on arXiv.org**
-  - URL: https://arxiv.org/rss/astro-ph.EP
 - **math-ph updates on arXiv.org**
   - URL: https://arxiv.org/rss/math-ph
+- **cond-mat.stat-mech updates on arXiv.org**
+  - URL: https://arxiv.org/rss/cond-mat.stat-mech
+- **cs.IT updates on arXiv.org**
+  - URL: https://arxiv.org/rss/cs.IT
+- **math.DS updates on arXiv.org**
+  - URL: https://arxiv.org/rss/math.DS
+- **cond-mat.dis-nn updates on arXiv.org**
+  - URL: http://arxiv.org/rss/cond-mat.dis-nn
 - **cs.GT updates on arXiv.org**
   - URL: https://arxiv.org/rss/cs.GT
 - **cs.NE updates on arXiv.org**
   - URL: https://arxiv.org/rss/cs.NE
+- **astro-ph.EP updates on arXiv.org**
+  - URL: https://arxiv.org/rss/astro-ph.EP
 - **nlin.CD updates on arXiv.org**
   - URL: http://arxiv.org/rss/nlin.CD/
-- **cond-mat.dis-nn updates on arXiv.org**
-  - URL: http://arxiv.org/rss/cond-mat.dis-nn
 - **nlin.AO updates on arXiv.org**
   - URL: http://arxiv.org/rss/nlin.AO
-- **math.DS updates on arXiv.org**
-  - URL: https://arxiv.org/rss/math.DS
-- **cond-mat.stat-mech updates on arXiv.org**
-  - URL: https://arxiv.org/rss/cond-mat.stat-mech
 - **nlin.PS updates on arXiv.org**
   - URL: http://arxiv.org/rss/nlin.PS
+- **q-bio.BM updates on arXiv.org**
+  - URL: http://arxiv.org/rss/q-bio.BM
 - **physics.chem-ph updates on arXiv.org**
   - URL: https://arxiv.org/rss/physics.chem-ph
 - **physics.comp-ph updates on arXiv.org**
   - URL: https://arxiv.org/rss/physics.comp-ph
 - **physics.bio-ph updates on arXiv.org**
   - URL: http://arxiv.org/rss/physics.bio-ph
-- **q-bio.MN updates on arXiv.org**
-  - URL: http://arxiv.org/rss/q-bio.MN
-- **q-bio.BM updates on arXiv.org**
-  - URL: http://arxiv.org/rss/q-bio.BM
 - **q-bio.PE updates on arXiv.org**
   - URL: https://arxiv.org/rss/q-bio.PE
+- **q-bio.MN updates on arXiv.org**
+  - URL: http://arxiv.org/rss/q-bio.MN
 - **Chaos: An Interdisciplinary Journal of Nonlinear Science**
   - URL: https://aip.scitation.org/feed/cha/most-recent
 - **Comments on: Complex Systems**
@@ -92,101 +92,101 @@ Generated: 2026-01-11 12:33
 - ✅ Astrobiology (Liebert)
 
 ### preprints (9/26 healthy)
-- ⬜ cs.IT updates on arXiv.org
-- ⬜ astro-ph.EP updates on arXiv.org
 - ⬜ math-ph updates on arXiv.org
+- ⬜ cond-mat.stat-mech updates on arXiv.org
+- ⬜ cs.IT updates on arXiv.org
+- ⬜ math.DS updates on arXiv.org
+- ⬜ cond-mat.dis-nn updates on arXiv.org
 - ⬜ cs.GT updates on arXiv.org
 - ⬜ cs.NE updates on arXiv.org
+- ⬜ astro-ph.EP updates on arXiv.org
 - ⬜ nlin.CD updates on arXiv.org
-- ⬜ cond-mat.dis-nn updates on arXiv.org
 - ⬜ nlin.AO updates on arXiv.org
-- ⬜ math.DS updates on arXiv.org
-- ⬜ cond-mat.stat-mech updates on arXiv.org
-- ⬜ nlin.PS updates on arXiv.org
-- ✅ biophysics - biorXiv Preprints
 - ✅ biochemistry - biorXiv Preprints
+- ✅ molecular biology - biorXiv Preprints
+- ✅ biophysics - biorXiv Preprints
+- ✅ bioRxiv Subject Collection: Evolutionary Biology
+- ✅ cell biology - biorXiv Preprints
+- ⬜ nlin.PS updates on arXiv.org
+- ⬜ q-bio.BM updates on arXiv.org
 - ✅ bioinformatics - biorXiv Preprints
 - ⬜ physics.chem-ph updates on arXiv.org
-- ✅ molecular biology - biorXiv Preprints
 - ⬜ physics.comp-ph updates on arXiv.org
-- ✅ bioRxiv Subject Collection: Evolutionary Biology
 - ⬜ physics.bio-ph updates on arXiv.org
-- ⬜ q-bio.MN updates on arXiv.org
-- ⬜ q-bio.BM updates on arXiv.org
 - ⬜ q-bio.PE updates on arXiv.org
-- ✅ ChemRxiv
-- ✅ Organic Chemistry on ChemRxiv
+- ⬜ q-bio.MN updates on arXiv.org
 - ✅ systems biology - biorXiv Preprints
-- ✅ cell biology - biorXiv Preprints
+- ✅ Organic Chemistry on ChemRxiv
+- ✅ ChemRxiv
 
 ### journals_pubmed (3/4 healthy)
 - ⚠️ J Syst Sci Complex
 - ✅ Artif Life
-- ✅ Life (Basel)
 - ✅ Evol Comput
+- ✅ Life (Basel)
 
 ### journals (27/43 healthy)
-- ⚠️ ACS Synthetic Biology
 - ✅ Biosystems
-- ✅ Annual Reviews: Condensed Matter Physics
+- ⚠️ ACS Synthetic Biology
 - ✅ Annual Reviews: Analytical Chemistry
-- ✅ Annual Reviews: Biophysics
-- ⚠️ Annual Reviews: Astronomy and Astrophysics
-- ❌ Entropy
-- ✅ BioEssays
 - ⬜ Chaos: An Interdisciplinary Journal of Nonlinear Science
-- ⬜ Comments on: Complex Systems
+- ✅ BioEssays
 - ✅ Journal of Computational Science
-- ✅ Journal of Theoretical Biology
-- ⚠️ Annual Reviews: Genetics
-- ⚠️ Annual Reviews: Biochemistry
-- ⚠️ Annual Reviews: Microbiology
-- ✅ eLife - upcoming articles
 - ⚠️ Annual Reviews: Virology
+- ❌ Entropy
 - ✅ Annual Reviews: Physical Chemistry
-- ✅ Annual Reviews: Earth and Planetary Sciences
-- ❌ Journal of The Royal Society Interface
 - ⚠️ Annual Reviews: Ecology, Evolution, and Systematics
+- ✅ eLife - upcoming articles
+- ✅ Annual Reviews: Condensed Matter Physics
+- ⚠️ Annual Reviews: Microbiology
+- ⚠️ Annual Reviews: Biochemistry
+- ✅ Journal of Theoretical Biology
+- ✅ Annual Reviews: Earth and Planetary Sciences
+- ✅ Annual Reviews: Biophysics
+- ⬜ Comments on: Complex Systems
+- ⚠️ Annual Reviews: Genetics
 - ⬜ Nature Ecology & Evolution Community
-- ✅ eLife - recent issues
+- ⚠️ Annual Reviews: Astronomy and Astrophysics
+- ❌ Journal of The Royal Society Interface
 - ⬜ Journal of Evolutionary Biology
 - ❌ Philosophical Transactions B
 - ✅ Nature Communications
 - ❌ Philosophical Transactions A
-- ✅ npj Complexity
-- ✅ Physics of Life Reviews
-- ✅ nature.com - Nature Physics
-- ✅ Phys. Rev. Lett.
-- ✅ Scientific Reports
-- ✅ Phys. Rev. E
-- ✅ PNAS Evolution
 - ✅ Nature Chemistry
-- ✅ Science
-- ✅ PNAS
-- ✅ Protein Science
+- ✅ eLife - recent issues
+- ✅ Physics of Life Reviews
+- ✅ Scientific Reports
+- ✅ nature.com - Nature Physics
+- ✅ Phys. Rev. E
+- ✅ Phys. Rev. Lett.
 - ✅ nature.com - Astronomy and astrophysics
-- ✅ nature.com - Complex networks
+- ✅ PNAS Evolution
 - ⬜ PLOS Biology
+- ✅ Science
 - ✅ nature.com - Biological sciences
+- ✅ nature.com - Complex networks
+- ✅ PNAS
+- ✅ npj Complexity
 - ✅ PLOS Computational Biology
+- ✅ Protein Science
 
 ### press_releases (6/8 healthy)
 - ⬜ Phys.org - latest science and technology news stories
-- ✅ phys.org - Mathematics News
 - ✅ Phys.org - General Physics News
-- ✅ phys.org - Space News
 - ✅ Complexity Digest
+- ✅ phys.org - Space News
+- ✅ phys.org - Mathematics News
 - ✅ Phys.org: Evolution News
 - ✅ ScienceDaily - Evolutionary Biology News
 - ⬜ UdeMNouvelles
 
 ### magazines (8/9 healthy)
 - ✅ Nature
-- ✅ New Scientist - Physics & Math
 - ✅ Sciences et Avenir
-- ✅ New Scientist - Current Issue Articles
-- ⚠️ Scientific American: Evolution
-- ✅ New Scientist - Life
-- ✅ Scientific American
 - ✅ Quanta Magazine
+- ⚠️ Scientific American: Evolution
+- ✅ Scientific American
+- ✅ New Scientist - Life
+- ✅ New Scientist - Physics & Math
+- ✅ New Scientist - Current Issue Articles
 - ✅ Pour la Science
