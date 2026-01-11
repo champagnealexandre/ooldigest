@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 100 | [Origins of Life: Chemistry and Evolution](https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111151849&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Mathematical analysis of metronomic chemotherapy response in](https://www.nature.com/articles/s41598-025-30446-y) |
+| keyword_rejected | - | [Lewis-acid-mediated regioselectivity switching by aromatizat](https://dx.doi.org/10.26434/chemrxiv-2026-2f3ps-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Lewis-acid-mediated regioselectivity switching by aromatizat](https://dx.doi.org/10.26434/chemrxiv-2026-2f3ps-v2?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111141324&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Near surface generation, burial recrystallization, and struc](https://www.nature.com/articles/s41598-026-35353-4) |
 | keyword_rejected | - | [Assembly of high-performance van der Waals devices using com](https://www.nature.com/articles/s41598-025-34621-z) |

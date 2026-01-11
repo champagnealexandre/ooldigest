@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-11T19:13:28.833048+00:00</updated>
+  <updated>2026-01-11T20:18:58.442016+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟢 [100] ChemRxiv ▶ Origins of Life: Chemistry and Evolution</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-11T00:00:00Z</updated>
+    <summary>Direct chemical synthesis and chemical evolution are conceptually different models for the prebiotic origin of RNA and other biopolymers. These models generate distinct predictions and motivate differ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, RNA, life, prebiotic, earth, origin(s) of life, nucleic acid</p>
+<p><strong>AI Decision:</strong> Compares direct prebiotic chemical synthesis versus prolonged chemical evolution models for the emergence of RNA (and other biopolymers), outlining distinct predictions and experimental implications for abiogenesis on early Earth.</p>
+<p><strong>Abstract:</strong> Direct chemical synthesis and chemical evolution are conceptually different models for the prebiotic origin of RNA and other biopolymers. These models generate distinct predictions and motivate different experimental approaches. Here, we compare these two models. In the direct chemical synthesis model, the inherent chemical reactivities of prebiotic compounds on the ancient Earth led to RNA, which subsequently initiated Darwinian evolution. The direct synthesis model depends upon the prebiotic availability of sugars, nucleic acid bases, amino acids, and other chemical species. In this model stepwise chemical reactions directed by inherent reactivities of small molecule feedstocks combine in serial and parallel reactions to produce RNA. The basis of selection is generally limited to inherent chemical reactivities in systems with low chemical heterogeneity. In a fundamentally different and more recent model, it is assumed that RNA emerged along with other biopolymers during a prolonged period of chemical evolution occurring in complex ensembles of organic compounds under dynamic, continually shifting selective pressures. The evolutionary model presages a deep biological entanglement between various types of biomolecules. If chemical evolution produced molecules such as RNA and protein and glycan, then humankind will gain advantage by understanding and redirecting these processes. It is not currently known whether direct chemical synthesis or chemical evolution or some combination of these processes provides a viable prebiotic path to RNA.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] Scientific Reports ▶ Early-life supplementation of poultry-derived lactobacilli drives microbial succession and gut immune modulation in broiler chickens</title>
     <link href="https://www.nature.com/articles/s41598-026-35177-2"/>
