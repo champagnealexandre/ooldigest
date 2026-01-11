@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Chronic stress disrupts the network among stress granules, P](https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111181623&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111171620&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Decoding heavy metals (Cd<sup>2</sup>⁺ and Cr⁶⁺) / metalloid](https://www.nature.com/articles/s41598-025-33016-4) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111161512&v=2.18.0.post22+67771e2) |

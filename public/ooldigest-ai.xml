@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-11T22:16:23.629240+00:00</updated>
+  <updated>2026-01-11T23:16:36.245377+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] cell biology - biorXiv Preprints ▶ Chronic stress disrupts the network among stress granules, P-bodies, and motor proteins</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1</id>
+    <updated>2026-01-11T00:00:00Z</updated>
+    <summary>Stress granules (SGs) are dynamic RNA granules that rapidly form in response to various stresses concurrent with mRNA translation shutdown, contributing to cellular adaptation and disease pathogenesis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This preprint dissects how chronic stress alters eukaryotic RNA stress granule/P-body dynamics via myosin and nucleator proteins, a modern cell-biology finding with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Stress granules (SGs) are dynamic RNA granules that rapidly form in response to various stresses concurrent with mRNA translation shutdown, contributing to cellular adaptation and disease pathogenesis. While SG assembly and disassembly under acute stress have been extensively characterized, how SGs behave under chronic stress remains poorly understood. We previously reported that chronic stress preconditioning inhibits the earliest steps of SG assembly via translation-dependent mechanisms. In contrast, the regulation of SG maturation under chronic stress has not yet been investigated. Here, we show that chronic stress decreases SG size by disrupting the MYH9-dependent myosin crosstalk with core SG nucleator G3BP1. This defect leads to impaired SG and processing body (PB) docking as well, limiting the biogenesis of early SGs. Furthermore, chronic stress reduces expression of the SG nucleator UBAP2L, required for SG-PB docking, thus exacerbating these deficiences. In summary, chronic stress disrupts the myosin-SG-PB network and inhibits SG maturation in a translation-independent manner.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟢 [100] ChemRxiv ▶ Origins of Life: Chemistry and Evolution</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss"/>
@@ -6100,20 +6114,5 @@
 <li><a href="https://arxiv.org/search/nlin?searchtype=author&amp;query=Pimentel,+C">https://arxiv.org/search/nlin?searchtype=author&amp;query=Pimentel,+C</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2601.00323">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Astrobiology (astrobiology.com) ▶ Tricorder Tech For Everyone: NASA’s STELLA Open Science Instrument</title>
-    <link href="https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html"/>
-    <id>https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html</id>
-    <updated>2026-01-04T22:55:30Z</updated>
-    <summary>Editor’s note: NASA has just authored a paper on a new way for people with a wide variety of interests to use – and build – sensor technology that is a preview of the devices we will use to explore ot</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> NASA’s STELLA is an open-science, buildable sensor platform aimed at broadening access to field instrumentation that previews tools used in future planetary life-detection and exploration missions.</p>
-<p><strong>Abstract:</strong> Editor’s note: NASA has just authored a paper on a new way for people with a wide variety of interests to use – and build – sensor technology that is a preview of the devices we will use to explore other planets. The paper is online here: Science and Technology Education for Land / Life […] The post Tricorder Tech For Everyone: NASA’s STELLA Open Science Instrument appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025CN000284">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025CN000284</a></li>
-<li><a href="https://doi.org/10.1029/2025CN000284">https://doi.org/10.1029/2025CN000284</a></li>
-<li><a href="https://doi.org/10.17605/OSF.IO/HMNYT">https://doi.org/10.17605/OSF.IO/HMNYT</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/tricorder-tech-for-everyone-nasas-stella-open-science-instrument.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
