@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Sortie de l'eau : le grand boom de la biodiversité](https://www.sciencesetavenir.fr/archeo-paleo/evolution/sortie-de-l-eau-le-grand-boom-de-la-biodiversite_190068?xtor=RSS-4) |
 | keyword_rejected | - | [When the oceans died and life changed forever](https://www.sciencedaily.com/releases/2026/01/260110211202.htm) |
 | keyword_rejected | - | [Sur les routes de la soie](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/sur-les-routes-de-la-soie_190127?xtor=RSS-4) |
 | keyword_rejected | - | [Diffractive magic cube network with super-high capacity enab](https://www.nature.com/articles/s41467-026-68310-w) |
