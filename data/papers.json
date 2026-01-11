@@ -1,5 +1,38 @@
 [
   {
+    "title": "Synergistic effects of hard anodizing parameters on the microstructural, mechanical, and tribological properties of 6061 aluminum alloy",
+    "summary": "<p>Scientific Reports, Published online: 11 January 2026; <a href=\"https://www.nature.com/articles/s41598-026-35825-7\">doi:10.1038/s41598-026-35825-7</a></p>Synergistic effects of hard anodizing parameters on the microstructural, mechanical, and tribological properties of 6061 aluminum alloy",
+    "url": "https://www.nature.com/articles/s41598-026-35825-7",
+    "published_date": "2026-01-11T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "Association between triglyceride\u2013glucose index and long-term frailty progression and transition in Chinese adults",
+    "summary": "<p>Scientific Reports, Published online: 11 January 2026; <a href=\"https://www.nature.com/articles/s41598-025-34748-z\">doi:10.1038/s41598-025-34748-z</a></p>Association between triglyceride\u2013glucose index and long-term frailty progression and transition in Chinese adults",
+    "url": "https://www.nature.com/articles/s41598-025-34748-z",
+    "published_date": "2026-01-11T00:00:00Z",
+    "source_feed": "Scientific Reports",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
+    "title": "EvolCAF: Automatic Cost-Aware Acquisition Function Design Using Large Language Models",
+    "summary": "To address optimization problems that involve expensive evaluations with unknown and heterogeneous costs, cost-aware Bayesian optimization (BO) emerges as a prominent solution in many real-world scenarios. However, as a critical step in developing BO algorithms, the design of efficient cost-aware acquisition functions (AFs) remains a significant challenge. This paper introduces EvolCAF, a novel framework that integrates large language models (LLMs) with evolutionary computation (EC) to...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111073351&v=2.18.0.post22+67771e2",
+    "published_date": "2026-01-08T11:00:00Z",
+    "source_feed": "Evol Comput",
+    "stage": "keyword_rejected",
+    "hunted_links": [],
+    "matched_keywords": [],
+    "analysis_result": null
+  },
+  {
     "title": "Linkage-aware inference of fitness from short-read time-series genomic data",
     "summary": "Inferring the fitness effect of mutations is a basic problem in understanding the evolution of populations over time. When multiple mutations are present in a population simultaneously, genetic linkage comes into play, and the fate of an individual mutation depends on both its fitness as well as the background on which it occurs. Accurate inference of fitness effects for evolutionary systems with multiple competing mutations is therefore contingent on resolving the confounding effects of genetic linkage, captured by the covariance between allele-pairs. Increasingly, evolutionary studies are using short-read sequencing technologies to produce detailed snapshots of evolving populations. This presents a problem as the frequencies of allele-pairs are not known beyond the read-length, hampering any attempt to resolve the effects of genetic linkage between pairs of loci residing on different reads. Here we present a computationally efficient pipeline for inferring selection from short-read time-series data with partial allele-pair frequency information, while accounting for linkage. Simulation results show that the method has good performance and is scalable to systems with several thousand variants. Additionally, we demonstrate the pipelines utility on real datasets of within-host HIV and SARS-CoV-2 evolution, showcasing its applicability in resolving linkage effects from complex evolutionary histories.",
     "url": "https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1",

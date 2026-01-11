@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111073351&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Association between triglyceride–glucose index and long-term](https://www.nature.com/articles/s41598-025-34748-z) |
+| keyword_rejected | - | [Synergistic effects of hard anodizing parameters on the micr](https://www.nature.com/articles/s41598-026-35825-7) |
 | ai_scored | 50 | [Reactive oxygen species drove red lineage phytoplankton to d](https://www.pnas.org/doi/abs/10.1073/pnas.2521306123?af=R) |
 | ai_scored | 50 | [Repeated losses of self-fertility shaped heterozygosity and ](https://www.pnas.org/doi/abs/10.1073/pnas.2525679123?af=R) |
 | ai_scored | 30 | [Early life-stage thermal resilience is determined by climate](https://www.pnas.org/doi/abs/10.1073/pnas.2518358123?af=R) |
