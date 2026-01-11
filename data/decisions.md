@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [When the oceans died and life changed forever](https://www.sciencedaily.com/releases/2026/01/260110211202.htm) |
 | keyword_rejected | - | [Sur les routes de la soie](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/sur-les-routes-de-la-soie_190127?xtor=RSS-4) |
 | keyword_rejected | - | [Diffractive magic cube network with super-high capacity enab](https://www.nature.com/articles/s41467-026-68310-w) |
 | keyword_rejected | - | [Engineering of magnetic domain walls via antidot geometry fo](https://www.nature.com/articles/s41598-025-34632-w) |
