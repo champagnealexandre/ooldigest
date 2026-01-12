@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [Ancient ‘snowball’ Earth had frigidly briny seas](https://www.nature.com/articles/d41586-025-04081-6) |
+| ai_scored | 18 | [Local Chain Dynamics in Sequence-Controlled Polymers as a Tu](https://dx.doi.org/10.26434/chemrxiv-2026-hh2f0?rft_dat=source%3Ddrss) |
+| ai_scored | 43 | [Probing Molecular Organization in Polar Nematic Phases: A Co](https://dx.doi.org/10.26434/chemrxiv-2026-9bf98-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [Eyring's Rate Theory and Its Connection to Entropy Scaling: ](https://dx.doi.org/10.26434/chemrxiv-2025-nbhbq-v3?rft_dat=source%3Ddrss) |
+| ai_scored | 8 | [Crystal Growth, Structures and Optical Bandgaps of Cuprous R](https://dx.doi.org/10.26434/chemrxiv-2026-3hx92-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112052142&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Persistent shock wave around dead star puzzles astronomers](https://phys.org/news/2026-01-persistent-dead-star-puzzles-astronomers.html) |
+| keyword_rejected | - | ['Death by a thousand cuts': Pablo's galaxy ran out of fuel a](https://phys.org/news/2026-01-death-thousand-pablo-galaxy-ran.html) |
+| keyword_rejected | - | [Interpretations of reproducibility crisis in medical educati](https://www.nature.com/articles/s41598-025-34640-w) |
+| keyword_rejected | - | [Evaluating the sports performance of badminton players based](https://www.nature.com/articles/s41598-026-35596-1) |
+| keyword_rejected | - | [COVID-19 outcomes in individuals with severe alpha-1 antitry](https://www.nature.com/articles/s41598-026-35016-4) |
+| keyword_rejected | - | [Zebra bodies recognition by artificial intelligence (ZEBRA):](https://www.nature.com/articles/s41598-026-35466-w) |
+| keyword_rejected | - | [Resourceful utilization of crop residue by smallholder farme](https://www.nature.com/articles/s41598-026-35164-7) |
+| keyword_rejected | - | [Locating the atoms at the hard-soft interface of gold nanopa](https://www.nature.com/articles/s41467-025-68113-5) |
+| keyword_rejected | - | [Quantum enhanced metrology based on flipping trajectory of c](https://www.nature.com/articles/s41467-025-67921-z) |
+| keyword_rejected | - | [Non-polar nanocluster confinement engineering realizes high ](https://www.nature.com/articles/s41467-026-68301-x) |
+| keyword_rejected | - | [Harnessing acoustic topology for dynamic control of liquid c](https://www.nature.com/articles/s41467-025-68001-y) |
 | keyword_rejected | - | [Les océans ont absorbé une quantité record de chaleur en 202](https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/les-oceans-ont-absorbe-une-quantite-record-de-chaleur-en-2025_190340?xtor=RSS-15) |
 | keyword_rejected | - | [The interconnected wirings between medial prefrontal cortex ](https://www.nature.com/articles/s41467-025-68009-4) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112042858&v=2.18.0.post22+67771e2) |
