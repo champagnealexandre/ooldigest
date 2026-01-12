@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-11T23:16:36.245377+00:00</updated>
+  <updated>2026-01-12T01:25:06.908701+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] Scientific Reports ▶ Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial stress</title>
+    <link href="https://www.nature.com/articles/s41598-025-31740-5"/>
+    <id>https://www.nature.com/articles/s41598-025-31740-5</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Scientific Reports, Published online: 12 January 2026; doi:10.1038/s41598-025-31740-5 Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial st</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> This study models how water-bearing sandstone accumulates hydro-mechanical damage under triaxial stress, offering indirect geological context for subsurface fluid flow and rock fracturing but little direct relevance to origins-of-life chemistry or biology.</p>
+<p><strong>Abstract:</strong> Scientific Reports, Published online: 12 January 2026; doi:10.1038/s41598-025-31740-5 Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial stress</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41598-025-31740-5">https://www.nature.com/articles/s41598-025-31740-5</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41598-025-31740-5">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [10] cell biology - biorXiv Preprints ▶ Chronic stress disrupts the network among stress granules, P-bodies, and motor proteins</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1"/>
@@ -586,20 +600,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] bioRxiv Subject Collection: Evolutionary Biology ▶ Novel genes arise from genomic deletions across the bacterial tree of life</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697752v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697752v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Bacteria are hosts to enormous genic diversity. How new genes emerge, functionalize, and spread remain longstanding questions. Here, we explore a mechanism by which adaptive deletions fuse distant gen</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
-<p><strong>AI Decision:</strong> This preprint reports that adaptive genomic deletions can fuse distant gene fragments to generate novel, sometimes fixing and expressed, “deletion-born” genes across bacteria, highlighting deletions as a potentially important engine of evolutionary innovation.</p>
-<p><strong>Abstract:</strong> Bacteria are hosts to enormous genic diversity. How new genes emerge, functionalize, and spread remain longstanding questions. Here, we explore a mechanism by which adaptive deletions fuse distant gene fragments. Unlike other gene birth mechanisms that begin with rare, neutral mutations, these &quot;deletion-born fusions&quot; reach high frequency by hitch-hiking on the deletion. The deletion-driven proliferation of the fusion prolongs the mutational supply within these genes before loss, providing additional opportunities for neofunctionalization. We document one such gene fixing and expressing in a long-term E. coli evolution experiment, and identify additional fusion events in the Mycobacterium tuberculosis-bovis split. Finally, we develop a scalable systematic screen to detect these genes in all 2.4 million public single-isolate genomes and identify deletion-born fusions across the bacterial tree of life. These findings challenge the notion that deletions are solely destructive and highlight their role as potential catalysts for evolutionary innovation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697752v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697752v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697752v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Genomic basis of adaptation to constant and fluctuating environments in a global pest of cereals</title>
@@ -4994,34 +4994,6 @@
 <p><a href="https://astrobiology.com/2026/01/nasa-selects-proposals-to-advance-the-habitable-worlds-observatory-astrobiology-mission-concept.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [35] biochemistry - biorXiv Preprints ▶ The E3 ubiquitin ligase mechanism specifying target-directed microRNA degradation</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>MicroRNAs (miRNAs) associate with Argonaute (AGO) proteins to form complexes that down-regulate target RNAs, including mRNAs from most human genes. Within each complex, the miRNA pairs to target mRNAs</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Mechanistic cryo-EM and biochemical study showing how a CUL3–ZSWIM8 E3 ligase recognizes an AGO–miRNA–trigger RNA complex to polyubiquitylate AGO and drive target-directed microRNA degradation, informing modern RNA regulation rather than origins-of-life processes.</p>
-<p><strong>Abstract:</strong> MicroRNAs (miRNAs) associate with Argonaute (AGO) proteins to form complexes that down-regulate target RNAs, including mRNAs from most human genes. Within each complex, the miRNA pairs to target mRNAs to specify their repression, and AGO provides effector function while also protecting the miRNA from cellular nucleases. Although much has been learned about this mode of posttranscriptional gene regulation, less is known about how the miRNAs themselves are regulated. In one such regulatory pathway, unusual miRNA targets called &quot;trigger&quot; RNAs reverse the canonical regulatory logic and instead down-regulate microRNAs. This target-directed miRNA degradation (TDMD) is thought to require a cullin [mdash]RING E3 ligase (CRL) because it depends on the cullin protein CUL3 and other ubiquitylation components, including the BC-box protein ZSWIM8. ZSWIM8 is required for murine perinatal viability and for destabilization of most short-lived miRNAs, but is otherwise poorly understood. Here, we demonstrate that a human AGO [mdash]miRNA-- trigger complex selectively binds ZSWIM8 for CUL3-mediated polyubiquitylation of the AGO protein within this complex. Cryogenic electron-microscopy (cryo-EM) analyses show how ZSWIM8 recognizes the distinct AGO2 and miRNA--trigger conformations shaped by pairing of the miRNA to the trigger. For example, this pairing extracts the miRNA from a binding pocket within AGO2, allowing the pocket to be captured by ZSWIM8, and it directs the trigger RNA along a distinct trajectory to be also recognized by ZSWIM8. These results biochemically establish AGO binding and polyubiquitylation as the key regulatory step of TDMD, define a unique CRL class, and reveal generalizable RNA--RNA, RNA--protein, and protein--protein interactions that specify the ubiquitin-mediated degradation of AGO with exquisite selectivity. The substrate features recognized by the E3 ubiquitin ligase do not conform to a conventional degron, but rather establish a two-RNA-factor authentication mechanism specifying a protein ubiquitylation substrate.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697729v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ Nucleotide diversity is a poor predictor of short-term adaptive potential</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>A capacity to adapt is essential for a population to avoid extinction in a changing world and is recognised as a global conservation priority. Adaptation requires additive (heritable) genetic variatio</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> A large comparative analysis across eukaryotes shows that nucleotide diversity (and microsatellite diversity) poorly predicts short-term adaptive potential (evolvability), cautioning against using simple molecular diversity metrics as proxies for adaptation-relevant genetic variance.</p>
-<p><strong>Abstract:</strong> A capacity to adapt is essential for a population to avoid extinction in a changing world and is recognised as a global conservation priority. Adaptation requires additive (heritable) genetic variation for traits that influence survival and fecundity, but measuring this variation is difficult, particularly in species of conservation concern. Instead, molecular genetic diversity is often used to infer adaptive potential. However, previous research has cast doubt on the suitability of traditional molecular markers (allozymes and microsatellites) for this purpose given their weak relationship with heritability - a common measure of additive genetic variance. Recent advances in sequencing technology have since shifted focus towards nucleotide diversity and variation in functional regions, but their practicality for predicting adaptive potential remains debated and untested. Furthermore, heritability itself is a poor proxy for adaptive potential because it depends on environmental variance. We collated 2,113 published estimates of evolvability - a measure of additive genetic variance that avoids environmental confounding - across 193 eukaryotic species, and evaluated how well evolvability is predicted by molecular diversity. We find that microsatellite and nucleotide diversity are not significantly correlated to each other, and neither predict evolvability (nucleotide diversity explains 0.7% of interspecific differences in evolvability and doubling nucleotide diversity only corresponds to a 9.2% increase in evolvability). With new theoretical work, we show that such weak associations are expected. Together, our results suggest that simple molecular measures of genetic variation are insufficient for predicting adaptive potential and continued reliance on these metrics risks misinforming conservation management.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697705v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [60] phys.org - Space News ▶ Thin ice may have protected lake water on frozen Mars</title>
     <link href="https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html"/>
     <id>https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html</id>
@@ -5032,20 +5004,6 @@
 <p><strong>Abstract:</strong> Small lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] molecular biology - biorXiv Preprints ▶ CNOT10 is involved in TTP-mediated AU-rich element containing mRNA metabolism, independent of mRNA decay regulation</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Tristetraprolin (TTP)/ ZFP36 is an RNA binding protein that is involved in the turnover regulation of target adenylate-uridylate-rich RNA element (ARE) containing mRNAs. AREs are present in the 3&#x27;-unt</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study dissects how the eukaryotic RNA-binding protein TTP and CCR4-NOT component CNOT10 regulate AU-rich mRNA levels during early gene expression, a mechanistic advance in post-transcriptional control but not directly relevant to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Tristetraprolin (TTP)/ ZFP36 is an RNA binding protein that is involved in the turnover regulation of target adenylate-uridylate-rich RNA element (ARE) containing mRNAs. AREs are present in the 3&#x27;-untranslated region of transcripts expressed from many immediate-early genes, including cytokines and chemokines. It has been demonstrated that TTP-mediated post-transcriptional mRNA decay regulation is crucial for modulating physiological control, particularly in response to inflammatory stimulation. TTP is associated with the CCR4-NOT deadenylation complex through the TTP C-terminus to promote mRNA decay. However, it is not fully understood whether there are additional sites within TTP that contribute to its function through interacting with other factors. We analyzed the functionality of the unique tryptophan residues located in the TTP N-terminus using a cell-based assay system that consists of a tetracycline-responsive CMV promoter-driven, intron-inserted luciferase (LUC). This system enabled us to analyze TTP activity during both the early phase and the steady-state phase of gene expression, as well as in the post-transcriptional mRNA decay following the treatment of tetracycline analogs. Meanwhile, we identified putative TTP associates using a proximity labeling method. We found that tryptophan residues in the TTP N-terminus together with CNOT10, a component of the CCR4-NOT complex, were involved specifically in the reduction of the ARE-containing LUC mRNA level during the early phase of gene expression. However, they were not involved in the decay of LUC mRNA in the steady-state phase. We propose a novel post-transcriptional TTP functionality in the reduction of ARE-containing mRNA level, which differs from the well-characterized mRNA decay activity.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697706v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] Phys. Rev. E ▶ Surface tension enhancement in nanoconfined water: The role of confinement and excluded volume effects</title>
@@ -5074,62 +5032,6 @@
 <p><a href="https://phys.org/news/2026-01-microbes-key-brain-evolution.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟢 [95] biochemistry - biorXiv Preprints ▶ Prebiotic aqueous reactions catalyzed by native nickel without hydrogen</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Compared to iron, nickel is comparatively rare as a transition metal in enzymes. But it is essential in several enzymes of carbon and energy metabolism in acetogens (bacteria) and methanogens (archaea</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, prebiotic</p>
-<p><strong>AI Decision:</strong> This preprint reports that native Ni0 in water can drive multiple prebiotic, protein-free redox transformations (including 2-oxo acid reduction to 2-hydroxy acids/amino acids and fumarate reduction) at 25–100°C without added H2, expanding plausible early metabolic-like chemistry linked to the acetyl-CoA pathway.</p>
-<p><strong>Abstract:</strong> Compared to iron, nickel is comparatively rare as a transition metal in enzymes. But it is essential in several enzymes of carbon and energy metabolism in acetogens (bacteria) and methanogens (archaea), which use the acetyl-CoA pathway of H2-dependent CO2 fixation. Nickel containing enzymes of acetogens and methanogens include FeNi hydrogenase, carbon monoxide dehydrogenase, acetyl-CoA synthase and, in methanogens, methyl-CoM reductase in the last step of methane synthesis. Several lines of evidence implicate the acetyl-CoA pathway as the most ancient pathway of CO2 fixation, most notably recent findings that the overall reaction of the enzymatic pathway from H2 (E0&#x27; = -414 mV) and CO2 to pyruvate can be replaced by Ni0 alone in water as the lone catalyst. Here we studied the ability of Ni0 to serve as catalyst and reductant for nonenzymatic redox reactions that require only a mild reductant, as the midpoint potential of Ni0 oxidation to Ni2+ is E0&#x27; = -260 mV. We show that Ni0 in water can convert 2-oxo acids to 2-hydroxy acids and, in the presence of NH3, to amino acids at 25-100C without addition of H2, and that it will function as catalyst and reductant for the fumarate reductase reaction. The findings expand the repertoire of ancient metabolic reactions that Ni0 can catalyze without proteins, cofactors, or sulfur, shedding light on the broad catalytic activity and substrate specificity of Ni0 at metabolic origin.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697669v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Atlas-Based Spatio-temporal MRI Phenotyping of 3D Fungal Spread in Grapevine Wood</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>In perennial crops, inner wood degradation often escapes detection until irreversible damage has occurred. Grapevine trunk disease (GTD) is a well-known example in viticulture that alters plants from </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Presents an MRI-based 3D+time imaging and atlas pipeline to non-destructively quantify early fungal-driven wood degradation in grapevines, with minimal relevance to origins-of-life questions aside from general water-status phenotyping.</p>
-<p><strong>Abstract:</strong> In perennial crops, inner wood degradation often escapes detection until irreversible damage has occurred. Grapevine trunk disease (GTD) is a well-known example in viticulture that alters plants from within, years before foliar symptoms arise, making early assessment difficult. To overcome this limitation, we present a novel non-destructive 3D + t pipeline for Magnetic Resonance Imaging (MRI) spatial quantification and monitoring of early internal tissue degradation resulting from fungal colonization. This pipeline integrates (i) anatomical alignment and rigid time-series registration of volumetric MRI scans, (ii) a generalized cylindrical coordinate transformation for cross-sectional trunk anatomy normalization, (iii) supervised classification to segment water-depleted (diseased/non-functional) regions, and (iv) population-level statistical analyses including construction of population mean images, probabilistic atlases of lesions, and 3D lesion descriptors. Applied to multiple Vitis vinifera cultivars inoculated with a fungal trunk pathogen, our approach enables time-lapse comparisons of cultivar and treatment in vivo. The results reveal consistent early degradation signals across individuals and cultivar-dependent lesion differences. By combining high-resolution MRI with advanced image processing and statistical atlas tools, this method provides a new paradigm for 3D plant phenotyping of internal disease progression. This methodological innovation allows non-invasive quantification of disease development and comparative assessment of host responses in woody plants, demonstrating its potential to advance understanding and management of GTDs.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.695522v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ A targeted mutational strategy aiding generating antisense RNA to knockdown the Ehrlichia chaffeensis p28-outer membrane protein 19 expression</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Obligate intracellular pathogenic bacteria belonging to the order Rickettsiales include several important emerging pathogens causing major health and economic impact to people, companion animals, and </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Reports an antisense-RNA knockdown mutational strategy in the intracellular bacterium Ehrlichia chaffeensis to reduce expression of an essential outer membrane protein, offering a genetic tool but with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Obligate intracellular pathogenic bacteria belonging to the order Rickettsiales include several important emerging pathogens causing major health and economic impact to people, companion animals, and agricultural animals. Despite some recent progress, the lack of well-established genetic manipulation methods for diverse research applications remains a challenge. We recently reported the establishment of targeted mutagenesis methods to disrupt genes in Ehrlichia and Anaplasma species. Many essential genes in Ehrlichia chaffeensis are likely refractory to targeted mutagenesis, thus we developed a novel targeted mutational approach leading to the expression of antisense RNA to facilitate the knockdown of p28-Omp19 protein expression from ECH_1143. This gene was selected as its encoded protein is among the highly immunogenic proteins of E. chaffeensis and is likely essential for the pathogen. This method involved introducing a mutation at a distal genomic location within the E. chaffeensis genome to allow for generation of a 209 nucleotide-long antisense RNA segment complementary to ECH_1143 coding mRNA from the same gene promoter which was duplicated as part of the mutagenesis. The mutational strategy was designed to retain the surrounding genomic regions unaltered. The antisense knockdown version of E. chaffeensis resulted in a reduction of p28-Omp19 expression when compared to wild-type E. chaffeensis during its replication in a macrophage cell line, where the gene expression is known to occur. We anticipate that the antisense mutational strategy will be broadly applicable to facilitate investigating essential genes of obligate intracellular bacterial pathogens.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697664v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] biochemistry - biorXiv Preprints ▶ Structural basis of HSP90C, a highly active chloroplastic HSP90 chaperone from A. thaliana</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Chloroplasts are the main energy organelles in plants, primary through photosynthesis. Thereby, they are responsible for CO2 fixation and dioxygen production, which are essential for living species on</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This preprint reports crystal structures and biophysical mechanisms behind the unusually high ATPase activity and dimerization of the plant chloroplast HSP90C chaperone, informing chloroplast protein import but with only tangential relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Chloroplasts are the main energy organelles in plants, primary through photosynthesis. Thereby, they are responsible for CO2 fixation and dioxygen production, which are essential for living species on Earth. To ensure these processes, numerous proteins encoded from the nuclear DNA need to be imported inside the chloroplast, and eventually to the thylakoids. Whereas the translocation systems from both chloroplastic and thylakoids membranes have been studied in recent years, the stromal route between these two membranes is largely unknown. Notably, the chloroplastic HSP90 (HSP90C) is likely to play an important role in this process, but its structure and molecular mechanisms remain to be unveiled. In this study, we used a combination of structural and biophysical approaches to elucidate the features of Arabidopsis thaliana&#x27;s HSP90C. Principally, we found that HSP90C has a remarkably high ATPase activity among the HSP90 family proteins. Further investigation allowed us to pinpoint atypical mechanisms responsible for this high activity. First, the N-terminal cap is involved in a disulfide bond that accelerates the ATPase activity of HSP90C. Second, its C-terminal domain features an extension that is mandatory for its dimerization. Third, our crystal structures reveal a wide opening of the HSP90C&#x27;s dimer with reduced intermonomeric interfaces. Lastly, we identified a helical switch which is required for HSP90C&#x27;s high activity. Three of these four features are due to sequence signatures of HSP90C, which we found to be shared by most of green plants representatives. Our study provides first insights of HSP90C&#x27;s non-canonical mechanisms, which will help in the understanding of processes related to protein import in the chloroplast.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697646v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [25] Astrobiology (astrobiology.com) ▶ Astrobiologist Dale Andersen’s Antarctic Field Report: 5 January 2026: Preparing to Leave Cape Town For The Ice</title>
     <link href="https://astrobiology.com/2026/01/astrobiologist-dale-andersens-antarctic-field-report-5-january-2026-preparing-to-leave-cape-town-for-the-ice.html"/>
     <id>https://astrobiology.com/2026/01/astrobiologist-dale-andersens-antarctic-field-report-5-january-2026-preparing-to-leave-cape-town-for-the-ice.html</id>
@@ -5154,20 +5056,6 @@
 <p><a href="https://phys.org/news/2026-01-ultramassive-black-holes-galaxies-scale.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [15] systems biology - biorXiv Preprints ▶ Efflux pump regulation and metabolic rewiring define the ceiling of efflux-mediated drug resistance in Mycobacteria</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Multidrug-resistant efflux pumps play a critical role in antimicrobial resistance, yet the physiological limits of their overexpression remain poorly understood. While gene amplifications and regulato</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Adaptive evolution in Mycobacteria under ethidium bromide selection reveals a hard ceiling on efflux-mediated drug resistance driven by regulatory changes and conserved metabolic rewiring, but it has limited direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Multidrug-resistant efflux pumps play a critical role in antimicrobial resistance, yet the physiological limits of their overexpression remain poorly understood. While gene amplifications and regulatory mutations commonly drive this overexpression, these pumps remain transcriptionally inactive under normal cellular conditions due to their high energetic cost, making it challenging to assess their full impact on resistance evolution and the maximum attainable minimum inhibitory concentration (MIC). To delineate the extent and spectrum of efflux-based resistance, we subjected Mycobacterium smegmatis mc{superscript 2}155(Msm) wild-type and efflux pump-deleted strains ({Delta}lfrA and {Delta}efpA) to adaptive laboratory evolution in the presence of a broad-spectrum efflux substrate ethidium bromide (EtBr). Despite prolonged selection, resistance plateaued at 8-16x MIC, revealing an intrinsic ceiling to efflux-based adaptation. Evolved populations integrated multiple layers of adaptation: enhanced efflux kinetics, reduced intracellular EtBr accumulation, and mutations spanning global regulators, ribosomal genes, and membrane components. Notably, deletion of specific pumps ({Delta}lfrA) triggered compensatory upregulation of alternative efflux systems, highlighting functional redundancy. Beyond efflux activation, evolved strains exhibited metabolic reprogramming, including downregulation of the tricarboxylic acid cycle and upregulation of lipid biosynthesis and {beta}-oxidation, which altered NAD+/NADH homeostasis and membrane potential. Extending this adaptive evolution approach to Mycobacterium tuberculosis H37Ra (Mtb)demonstrated that these adaptive constraints and metabolic alterations are conserved across mycobacterial species. Together, these results uncover fundamental limits to efflux evolution and reveal how bacteria integrate regulatory and metabolic plasticity to maximize drug resistance. Targeting these interconnected networks may offer a powerful strategy to contain the rise of multidrug resistance.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697598v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [50] phys.org - Space News ▶ The ambitious plan to spot habitable moons around giant planets</title>
     <link href="https://phys.org/news/2026-01-ambitious-habitable-moons-giant-planets.html"/>
     <id>https://phys.org/news/2026-01-ambitious-habitable-moons-giant-planets.html</id>
@@ -5178,20 +5066,6 @@
 <p><strong>Abstract:</strong> So far, humanity has yet to find its first &quot;exomoon&quot;—a moon orbiting a planet outside of the solar system. But that hasn&#x27;t been for lack of trying. According to a new paper by Thomas Winterhalder of the European Southern Observatory and his co-authors, which is available on the arXiv preprint server, the reason isn&#x27;t because those moons don&#x27;t exist, but simply because we lack the technology to detect them. They propose a new &quot;kilometric baseline interferometer&quot; that can detect moons as small as Earth up to 200 parsecs (652 light years) away.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-ambitious-habitable-moons-giant-planets.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Nature Communications ▶ Author Correction: Leishmania RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediated NLRP3 inflammasome inhibition</title>
-    <link href="https://www.nature.com/articles/s41467-025-67433-w"/>
-    <id>https://www.nature.com/articles/s41467-025-67433-w</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Nature Communications, Published online: 05 January 2026; doi:10.1038/s41467-025-67433-w Author Correction: Leishmania RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediat</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Author correction to a Nature Communications study reporting that a Leishmania RNA virus worsens leishmaniasis by dampening innate immunity through TLR3-mediated inhibition of the NLRP3 inflammasome.</p>
-<p><strong>Abstract:</strong> Nature Communications, Published online: 05 January 2026; doi:10.1038/s41467-025-67433-w Author Correction: Leishmania RNA virus exacerbates Leishmaniasis by subverting innate immunity via TLR3-mediated NLRP3 inflammasome inhibition</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67433-w">https://www.nature.com/articles/s41467-025-67433-w</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-67433-w">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [0] Astrobiology (astrobiology.com) ▶ NASA SMD ROSES-25 F.6 Science Activation: Corrections of Requirements for Budget Submission</title>
@@ -5291,20 +5165,6 @@
 <p><a href="https://astrobiology.com/2026/01/a-roadmap-for-the-exploration-of-enceladus.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [20] ChemRxiv ▶ Theoretical Framework for Absolute Quantification in Digital Immunoassays and Advancements in Microfluidic-Free Droplet-Based Digital Immunoassay Methodologies</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Current single-molecule immunoassays primarily rely on Poisson distribution models, which have limitations in achieving absolute quantification of target proteins. To address this, we developed a nove</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Develops a Poisson–hypergeometric theoretical framework and a microfluidic-free droplet digital immunoassay enabling calibration-curve-free absolute protein quantification, a methodological advance with only indirect potential relevance to astrobiological biosignature detection.</p>
-<p><strong>Abstract:</strong> Current single-molecule immunoassays primarily rely on Poisson distribution models, which have limitations in achieving absolute quantification of target proteins. To address this, we developed a novel mathematical model that treats the capture of target proteins by magnetic beads as a discrete Poisson process, while the subsequent washing and secondary sampling steps are modeled using a hypergeometric distribution. Based on this combined distribution model, we constructed a new theoretical framework for digital immunoassays and proposed a calibration‑curve‑free absolute quantification method based on micro‑volume calculation. To validate the feasibility of this model, we established a digital immunoassay platform using a water‑in‑oil magnetic bead system without the need for complex microfluidic devices. This approach not only eliminates reliance on traditional calibration curves but also demonstrates enhanced feasibility and a broader dynamic range compared to existing methods such as Single Molecule Immunoassays and Electrochemiluminescence Immunoassays. Additionally, it allows for the determination of the binding efficiency and accurate blank coefficients of the detection system. Furthermore, the potential application of an internal calibration method within this system is explored. The proposed theoretical framework offers a new strategy to address the challenge of absolute quantification in protein immunoassays, provides important insights for advancing protein quantification methodologies, and supports the development of more precise detection techniques. It is expected to expand the application of digital immunoassays in biomedical research and clinical diagnostics.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2024-19rj6-v6?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] Astrobiology (astrobiology.com) ▶ A Glimpse Into Darkness: Diversity Of Culturable Cyanobacteria, Green Algae And Fungi From Subaerial Cave Biofilms</title>
     <link href="https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html"/>
     <id>https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html</id>
@@ -5319,229 +5179,6 @@
 <li><a href="https://onlinelibrary.wiley.com/doi/10.1111/jpy.70104">https://onlinelibrary.wiley.com/doi/10.1111/jpy.70104</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/a-glimpse-into-darkness-diversity-of-culturable-cyanobacteria-green-algae-and-fungi-from-subaerial-cave-biofilms.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Nature ▶ I see Mozambique’s baboons as windows into hominid evolution</title>
-    <link href="https://www.nature.com/articles/d41586-025-04153-7"/>
-    <id>https://www.nature.com/articles/d41586-025-04153-7</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Nature, Published online: 05 January 2026; doi:10.1038/d41586-025-04153-7 In Gorongosa National Park in Mozambique, Rassina Farassi studies how humans came to walk on two legs.</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> A Nature feature on using baboon locomotion in Mozambique to infer pathways to hominid bipedalism, relevant to evolutionary biology but only tangential to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 05 January 2026; doi:10.1038/d41586-025-04153-7 In Gorongosa National Park in Mozambique, Rassina Farassi studies how humans came to walk on two legs.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/d41586-025-03734-w">https://www.nature.com/articles/d41586-025-03734-w</a></li>
-<li><a href="https://press.nature.com/">https://press.nature.com/</a></li>
-<li><a href="https://www.nature.com/articles/d41586-025-03723-z">https://www.nature.com/articles/d41586-025-03723-z</a></li>
-<li><a href="https://wa.me/?text=I+see+Mozambique%E2%80%99s+baboons+as+windows+into+hominid+evolution https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-025-04153-7">https://wa.me/?text=I+see+Mozambique%E2%80%99s+baboons+as+windows+into+hominid+evolution https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-025-04153-7</a></li>
-<li><a href="https://www.nature.com/articles/d41586-025-03735-9">https://www.nature.com/articles/d41586-025-03735-9</a></li>
-<li><a href="https://www.nature.com/subjects">https://www.nature.com/subjects</a></li>
-<li><a href="https://www.springernature.com/gp/librarians/tools-services">https://www.springernature.com/gp/librarians/tools-services</a></li>
-<li><a href="https://www.nature.com/naturecareers/job/12850653/open-rank-faculty-position-tenure-teaching-research-stream-school-of-science-and-engineering/?TrackID=62&amp;utm_source=widget&amp;utm_medium=referral&amp;utm_campaign=62">https://www.nature.com/naturecareers/job/12850653/open-rank-faculty-position-tenure-teaching-research-stream-school-of-science-and-engineering/?TrackID=62&amp;utm_source=widget&amp;utm_medium=referral&amp;utm_campaign=62</a></li>
-<li><a href="https://www.nature.com/npg_/company_info/index.html">https://www.nature.com/npg_/company_info/index.html</a></li>
-<li><a href="https://www.nature.com/authors/editorial_policies">https://www.nature.com/authors/editorial_policies</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/d41586-025-04153-7">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ A Genome-Wide Genetic Screen Identifies a Novel kDNA Replication Protein in Trypanosomes</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.05.697628v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.05.697628v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Trypanosomatid parasites cause diverse diseases in humans and their livestock, but share a unique biological feature, the organization of mitochondrial DNA into a complex structure, named kinetoplast </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Genome-wide RNAi screening in Trypanosoma brucei identifies and validates Tb927.8.4240 as a novel, cell-cycle–dynamic protein required for kinetoplast (mitochondrial) DNA replication, adding to our understanding of complex eukaryotic nucleic-acid maintenance rather than directly informing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Trypanosomatid parasites cause diverse diseases in humans and their livestock, but share a unique biological feature, the organization of mitochondrial DNA into a complex structure, named kinetoplast (kDNA), which is crucial for the survival of the parasites. Replication, segregation and expression of kDNA are highly complex processes that involve an estimated ~300 proteins, only a fraction of which have been identified and characterized. Here, we report the development of an unbiased genetic screen in the experimental model Trypanosoma brucei to identify novel factors involved in kDNA maintenance. Our approach uses a combination of genome-wide RNA interference, a novel kDNA staining protocol, and fluorescence-activated cell sorting. Of the 20 highest-ranked genes identified, six are known kDNA maintenance factors. One hit, Tb927.8.4240, a gene of previously unknown function, was selected for experimental validation and follow-up. Ultrastructure expansion microscopy using a tagged version of the protein reveals a dynamic localization during the cell cycle. RNAi-mediated ablation of Tb927.8.4240 results in the progressive but incomplete loss of kDNA, with only a minor effect on the tripartite attachment complex, suggesting the protein is involved in kDNA replication but not segregation. The growth phenotype of Tb927.8.4240 ablation is fully rescued in a kDNA-independent genetic background, confirming a specific role in kDNA replication.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.05.697628v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Mechanistic insights into chromatin modulation by the orphan remodeler ATRX</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697590v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697590v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Alpha-thalassemia/mental retardation syndrome X-linked protein (ATRX) is an ATP-dependent chromatin remodeler that performs diverse functions, including spacing nucleosomes, facilitating the depositio</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Cryo-EM and biochemical work reveals how the eukaryotic chromatin remodeler ATRX deforms and unwraps nucleosomal DNA via a unique phenylalanine “pin” and additional anchoring elements to drive nucleosome sliding.</p>
-<p><strong>Abstract:</strong> Alpha-thalassemia/mental retardation syndrome X-linked protein (ATRX) is an ATP-dependent chromatin remodeler that performs diverse functions, including spacing nucleosomes, facilitating the deposition of histone variant H3.3, and preventing replication stress. The mechanism by which ATRX modulates chromatin is unknown. Here, our cryo-EM structure revealed that ATRX recognizes and modulates the nucleosome through its C-terminal regions by embracing and unwrapping ~18 base-pair nucleosomal DNA near the entry/exit sites in the presence of ADP-BeF3. Strikingly, the DNA minor groove between SHL6 and SHL7 is profoundly deformed by a pin-like structure in ATRX, which uniquely intercalates the aromatic side chain of a phenylalanine into the base stackings. Biochemical assays revealed the crucial role of this phenylalanine in sliding the nucleosome without affecting the ATPase activity. Such a pin-like structure mimics a foot-step on the DNA ladder, which differentiates ATRX from other remodelers. To translocate the DNA on the nucleosome, two more features, including a disordered insertion that contacts the histone surface and a positively charged loop bridging the cross-gyre interactions, serve as essential anchors for the nucleosome modulation by ATRX. Together, we propose a climbing model for how ATRX mobilizes the DNA upon ATP hydrolysis.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697590v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] ChemRxiv ▶ Photocatalytic Hydrogels with Covalent Catalyst Crosslinks: Introducing the Dyedrogel Concept</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Light-driven hydrogen evolution is a promising strategy for solar fuel production. While numerous systems for molecular photocatalysis exist, their implementation into reusable soft materials remains </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Error</p>
-<p><strong>Abstract:</strong> Light-driven hydrogen evolution is a promising strategy for solar fuel production. While numerous systems for molecular photocatalysis exist, their implementation into reusable soft materials remains challenging due to catalyst leaching, solubility issues, and limited structural integration. Here, we report the first hydrogel system in which a molecular photocatalyst is covalently embedded as crosslinker. Using a bipyridine- annulated perylene dye bearing terminal alkene groups, we employ thiol-ene click chemistry to incorporate the dye into a polyethylene glycol (PEG)-based hydrogel network. Post-synthetic platinum coordination yields “Dyedrogels” – mechanically robust hydrogels of varying shape that retain their photocatalytic functionality under visible-light irradiation in pure water, without any solubilizing additives. Structural and optical characterization confirms a homogeneous distribution of the catalyst, while indicating only negligible platinum leaching. Despite moderate hydrogen evolution turnover numbers (TON = 0.03), the stability, modularity, and reusability of this platform underscore its value as a device-like material for future flow-reactor designs. To the best of our knowledge, this is the first demonstration of a photocatalytically active hydrogel in which the molecular catalyst itself constitutes a covalent crosslink within the polymer network.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-5j8bm">https://doi.org/10.26434/chemrxiv-2026-5j8bm</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5j8bm?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [8] ChemRxiv ▶ Tunable Gelation and Viscoelasticity of Lung-Tissue–Mimetic Sealant: Linking Shear History to In Situ Mechanical Performance through Physics-Informed Machine Learning</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Hydrogel-based lung sealants are optimized largely based on formulation and post-cure mechanics, even though deformation history during delivery and placement plays a critical, yet under-characterized</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Biomedical materials study using rheology and physics-informed machine learning to predict how shear history tunes hydrogel gelation and viscoelasticity in a lung-mimetic sealant, with minimal direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Hydrogel-based lung sealants are optimized largely based on formulation and post-cure mechanics, even though deformation history during delivery and placement plays a critical, yet under-characterized, role in determining in situ performance. This disconnect is particularly consequential on the application of lung sealants, where excessive stiffness promotes delamination while insufficient stiffness compromises airtight sealing. Here, we establish a quantitative process–structure–property framework for a gelatin–tannic acid–transglutaminase lung-mimetic sealant by integrating time-resolved rheology with physics-informed machine learning. Using small-amplitude oscillatory shear and steady torsional flow at 37 °C, we show that gelation follows a reproducible kinetic clock (storage modulus, G′– loss modulus, G″, crossover at ~100 s; modulus plateau by ~600 s), while the attainable viscoelastic state is strongly governed by deformation history. Increasing oscillatory strain amplitude from 0.1 % to 50 % suppresses network maturation, reducing the post-gelation storage modulus, G′, from ~10⁶ to ~10⁴ Pa, whereas sustained steady shear (0.01–1 s⁻¹) decreases magnitude of complex viscosity by 2–3 orders of magnitude and permanently downshifts elastic moduli, G′–, from ≈3.5×10³ to ≈4×10² Pa. These modulus ranges span the effective compliance of lung parenchyma under physiological tidal strain, delineating mechanical regimes associated with airtight sealing, strain accommodation, or premature interfacial failure. Controlled aeration during the processing of the sealant further decreases stiffness by ~30 % without altering gelation kinetics, providing an additional, physically interpretable compliance-tuning mechanism. To unify these effects, we introduce a dimensionless Degree of Gelation (DoG), serving as a rheological state variable that collapses oscillatory and steady-shear histories into a single, time-resolved descriptor of network evolution. Machine-learning models trained on experimentally accessible inputs (time, strain amplitude, shear rate, frequency, aeration) accurately predict DoG (R² ≈ 0.9) and, in inverse mode, identify handling conditions required to achieve targeted in situ mechanical states. This rheology–machine-learning framework reframes lung sealant development from a static materials optimization problem to a controllable, process-driven design strategy. By quantitatively linking applicator-level parameters to failure-relevant mechanical outcomes—airtightness, compliance, and resistance to delamination—it provides a mechanistic and generalizable foundation for the design of injectable hydrogels, bioadhesives, and tissue-interfacing</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-zkrvp">https://doi.org/10.26434/chemrxiv-2026-zkrvp</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-zkrvp?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] Nature Chemistry ▶ Unravelling gas evolution mechanisms in battery electrode materials</title>
-    <link href="https://www.nature.com/articles/s41557-025-02016-2"/>
-    <id>https://www.nature.com/articles/s41557-025-02016-2</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Nature Chemistry, Published online: 05 January 2026; doi:10.1038/s41557-025-02016-2 Gas evolution severely limits the performance of LiFexMn1−xPO4 batteries, yet its mechanisms remain unclear. Now it </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This Nature Chemistry study pinpoints CO2 formation mainly at the LiFexMn1−xPO4 cathode and H2 generation via Mn/Fe-catalysed anode reactions, showing that uniform carbon coatings suppress metal dissolution and stabilize cycling, but it has minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Nature Chemistry, Published online: 05 January 2026; doi:10.1038/s41557-025-02016-2 Gas evolution severely limits the performance of LiFexMn1−xPO4 batteries, yet its mechanisms remain unclear. Now it has been shown that CO2 originates mainly from the cathode and H2 from Mn/Fe-catalysed reactions at the anode, while a uniform carbon coating effectively suppresses metal dissolution and stabilizes cycling.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1039%2FD1EE04053G">https://doi.org/10.1039%2FD1EE04053G</a></li>
-<li><a href="https://authorservices.springernature.com/scientific-editing/">https://authorservices.springernature.com/scientific-editing/</a></li>
-<li><a href="https://doi.org/10.1038%2Fs41565-024-01787-y">https://doi.org/10.1038%2Fs41565-024-01787-y</a></li>
-<li><a href="https://doi.org/10.1038%2Fs41467-023-41867-6">https://doi.org/10.1038%2Fs41467-023-41867-6</a></li>
-<li><a href="https://doi.org/10.1021%2Facsenergylett.2c01059">https://doi.org/10.1021%2Facsenergylett.2c01059</a></li>
-<li><a href="https://doi.org/10.1002/anie.202317109">https://doi.org/10.1002/anie.202317109</a></li>
-<li><a href="https://doi.org/10.1149/2.0041906jes">https://doi.org/10.1149/2.0041906jes</a></li>
-<li><a href="https://doi.org/10.1149%2F2.0041906jes">https://doi.org/10.1149%2F2.0041906jes</a></li>
-<li><a href="https://doi.org/10.1016%2Fj.joule.2025.101847">https://doi.org/10.1016%2Fj.joule.2025.101847</a></li>
-<li><a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41557-025-02016-2/MediaObjects/41557_2025_2016_MOESM3_ESM.xlsx">https://static-content.springer.com/esm/art%3A10.1038%2Fs41557-025-02016-2/MediaObjects/41557_2025_2016_MOESM3_ESM.xlsx</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41557-025-02016-2">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ Blue amine hydrates as a novel strategy for partitioning CO2</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>We report a novel CO2 capture and separation principle based on the unexpected formation of CO2-loaded amine hydrates. Unlike conventional amine scrubbing, which relies on energy-intensive thermal reg</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a cooling-driven phase-change CO2 capture mechanism where CO2-loaded bifunctional amines become incorporated into THF clathrate hydrate lattices, enabling CO2 partitioning into a solid hydrate phase and potentially informing broader aqueous phase-separation chemistry relevant to planetary environments.</p>
-<p><strong>Abstract:</strong> We report a novel CO2 capture and separation principle based on the unexpected formation of CO2-loaded amine hydrates. Unlike conventional amine scrubbing, which relies on energy-intensive thermal regeneration, our approach utilizes a phase change driven by cooling. We discovered that various bifunctional amines, upon capturing CO2 in aqueous solutions containing tetrahydrofuran (THF), are structurally incorporated into the hydrate crystal lattice. This phenomenon was unequivocally confirmed via solid-state NMR and FTIR spectroscopy, with some hydrates exhibiting a distinct blue coloration. This phase separation facilitates partial dehydration and the partitioning of CO2-loaded amines into the solid phase, effectively reducing the working solution’s heat capacity. Scalability was successfully demonstrated in a 150-mL system under ambient pressure. These findings establish a new regime in amine-CO2-water chemistry, offering a “cooling-based” fractionation strategy to significantly lower the energy penalty of carbon capture processes.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-ph4lm">https://doi.org/10.26434/chemrxiv-2026-ph4lm</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-ph4lm?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] ChemRxiv ▶ Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanism with Heavy Water Using pTSA Catalyst.</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmac</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Metal-free pTSA-catalyzed H/D exchange enables efficient perdeuteration of aromatic rings using heavy water (D2O), advancing practical deuteration chemistry but with only tangential relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmaceuticals is particularly significant in pharmaceutical and medicinal chemistry. In this study, we present a novel catalytic method for hydrogen/deuterium (H/D) exchange in aromatic compounds, employing D2O as the deuterium source, which is not only easily accessible but also cost-effective. This approach demonstrates impressive deuterium incorporation under mild reaction conditions, yielding good to excellent results in a single run. Utilizing para-toluenesulfonic acid (pTSA) as a catalyst, this metal-free protocol exhibits broad applicability in the late-stage deuteration of a variety of bioactive molecules, pharmaceuticals, and small molecules. Furthermore, our method is scalable; it has been successfully implemented at the gram-scale with a reduced catalyst loading of 2.0 mol% for Tyrosol, illustrating its practical utility. Moreover, our thorough mechanistic studies and detailed DFT studies enhance our understanding of how the catalyst and solvent contribute to the aromatic electrophilic substitution process. This innovative method provides a sustainable alternative to traditional transition metal-catalyzed H/D exchange techniques. It addresses key challenges such as the use of expensive metals, the risk of undesired reactions, and the need to remove metal impurities from products. Overall, this research enhances the efficiency and environmental friendliness of H/D exchange in aromatic compounds.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-9fnfq">https://doi.org/10.26434/chemrxiv-2026-9fnfq</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] Organic Chemistry on ChemRxiv ▶ Perdeuteration of Arenes in Pharmaceuticals by SEAr Mechanism with Heavy Water Using pTSA Catalyst.</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmac</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a metal-free, pTSA-catalyzed H/D exchange (perdeuteration) of aromatic rings in pharmaceuticals using D2O under mild conditions with mechanistic/DFT support, mainly relevant to synthetic/medicinal chemistry rather than origins-of-life studies.</p>
-<p><strong>Abstract:</strong> Aromatic rings are widely recognized in the realm of natural products and bioactive molecules, highlighting their importance in various applications. The development of deuterated analogues of pharmaceuticals is particularly significant in pharmaceutical and medicinal chemistry. In this study, we present a novel catalytic method for hydrogen/deuterium (H/D) exchange in aromatic compounds, employing D2O as the deuterium source, which is not only easily accessible but also cost-effective. This approach demonstrates impressive deuterium incorporation under mild reaction conditions, yielding good to excellent results in a single run. Utilizing para-toluenesulfonic acid (pTSA) as a catalyst, this metal-free protocol exhibits broad applicability in the late-stage deuteration of a variety of bioactive molecules, pharmaceuticals, and small molecules. Furthermore, our method is scalable; it has been successfully implemented at the gram-scale with a reduced catalyst loading of 2.0 mol% for Tyrosol, illustrating its practical utility. Moreover, our thorough mechanistic studies and detailed DFT studies enhance our understanding of how the catalyst and solvent contribute to the aromatic electrophilic substitution process. This innovative method provides a sustainable alternative to traditional transition metal-catalyzed H/D exchange techniques. It addresses key challenges such as the use of expensive metals, the risk of undesired reactions, and the need to remove metal impurities from products. Overall, this research enhances the efficiency and environmental friendliness of H/D exchange in aromatic compounds.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-9fnfq">https://doi.org/10.26434/chemrxiv-2026-9fnfq</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9fnfq?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] molecular biology - biorXiv Preprints ▶ Diverse bacterial pattern recognition receptors sense the conserved phage proteome</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Recognition of foreign molecules inside cells is critical for immunity in all domains of life. Proteins of the STAND NTPase superfamily, including eukaryotic nucleotide-binding oligomerization domain </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Systematic phylogenetic and structural study shows diverse bacterial STAND NTPase receptors recognize conserved tailed-phage protein folds (including major capsid protein) via structure-based pattern recognition and host-factor repurposing, informing how complex immune sensing systems evolve across life.</p>
-<p><strong>Abstract:</strong> Recognition of foreign molecules inside cells is critical for immunity in all domains of life. Proteins of the STAND NTPase superfamily, including eukaryotic nucleotide-binding oligomerization domain (NOD)-like receptors (NLRs), play a central role in this process. In bacteria and archaea, although several STAND NTPase families have been reported to sense phage proteins, their functional diversity remains largely unexplored. Here, we conducted a systematic phylogenetic analysis of prokaryotic STAND NTPases and identified at least 90 structurally distinct families associated with antiviral defense. We first show that the uncharacterized Avs7 family recognizes the major capsid protein (MCP) of tailed phages. Three cryo-EM structures of Salmonella enterica Avs7 reveal an asymmetric, butterfly-shaped tetramer that assembles stepwise via large, MCP-induced conformational changes, incorporating bacterial translation elongation factor Tu (EF-Tu) as a scaffold that is required for full defense activity. Using highly parallel genetic screens, we further show that 13 additional STAND families sense 12 conserved phage protein folds, encompassing most of the core structural and replicative components of tailed phages. These include two structurally distinct families--Avs8 (PD-{lambda}-4) and Avs10 (Erebus/Hypnos/bNACHT64)--that also recognize MCP, as well as 11 other families (Avs11-21) that recognize the portal, portal adaptor, tail nozzle, head-tail connector, tail terminator, tail tube protein, tail assembly chaperone, tape measure protein, DNA polymerase, helicase/RecA-type ATPase, and single-stranded DNA annealing protein (SSAP), respectively. Together, our findings highlight structure-based pattern recognition and host factor repurposing as fundamental strategies of bacterial immunity.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697583v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] ChemRxiv ▶ First evidence of microplastics in bottled water sold in Mexico</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Given that Mexico is one of the world&#x27;s leading consumers of bottled water per capita, this study provides the first evidence of microplastic contamination across ten widely consumed commercial brands</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Survey of ten bottled-water brands in Mexico finds widespread microplastic contamination dominated by PET/PP fragments and fibers, highlighting a water-quality exposure issue with only indirect relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Given that Mexico is one of the world&#x27;s leading consumers of bottled water per capita, this study provides the first evidence of microplastic contamination across ten widely consumed commercial brands in the country. A total of 2,358 MP particles were detected with an average concentration of 39.3 ± 14.6 particles/L. Statistical analysis (ANOVA, p = 0.0008) confirmed significant differences in MP levels between brands, likely attributed to variations in the production process and packaging quality. Fibers were the predominant shape of the detected MPs (72.2 %), and transparent particles were the most frequent color (57.7 %). Crucially, most detected MPs were smaller than 500 µm (80.3 %), raising toxicological concerns due to the high probability of systemic translocation in human tissues. Furthermore, FTIR spectroscopy confirmed that PET (66 %) and PP (18 %) were the dominant polymers, indicating that fragmentation and abrasion of the bottle and caps are the primary sources of MPs. The estimated intake assessment revealed that children are the most vulnerable population segment (228.2 particles/kg/year), exhibiting the highest relative MP dose normalized by body weight. Given the global evidence of adverse health effects from these polymers and their leached chemical additives, these findings underscore the urgent need to implement effective strategies to minimize MP exposure in bottled water.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-89bkg">https://doi.org/10.26434/chemrxiv-2026-89bkg</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-89bkg?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] ChemRxiv ▶ pH signalling and regulation in pyridinium redox flow batteries</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Pyridinium compounds are promising electrolyte candidates for aqueous flow batteries yet undergo complex parasitic processes involving free radical species that remain difficult to monitor, track and </summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> An electrochemistry/battery study using operando pH monitoring to track radical-driven parasitic reactions and regulate pyridinium redox flow battery electrolytes, with only tangential relevance to origins-of-life redox/pH gradient chemistry (keyword match: water).</p>
-<p><strong>Abstract:</strong> Pyridinium compounds are promising electrolyte candidates for aqueous flow batteries yet undergo complex parasitic processes involving free radical species that remain difficult to monitor, track and regulate. Inspired by biological redox signaling, we developed operando pH monitoring to accurately track native pyridinium electrolyte processes across nine orders of magnitude (i.e., pH 3 – 12), elucidating trace (nanomolar) state-of-charge-dependent equilibria that can be used for continuous monitoring of state of charge and health in materials that do not feature a principal proton coupled redox process. By monitoring pH, we gain simultaneous real-time insights into direct and mediated water splitting, direct and mediated dioxygen reduction, oxidation-statedependent pyridinium pKa effects, and trans-membrane OH– transport. These insights inform the development of a global regulation strategy, based on a single radical dependent dimensionless parameter, towards complete suppression of parasitic processes under practical battery cycling conditions. We also clarify the nature of the reaction between dioxygen and reduced viologen towards improved system engineering for long duration energy storage applications.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-917bk">https://doi.org/10.26434/chemrxiv-2026-917bk</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-917bk?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] ChemRxiv ▶ Asymmetrical flow field-flow fractionation reveals the true biophysical properties of polymer–pDNA complexes by gently separating free polymers</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Due to their low manufacturing cost and versatility in delivering diverse nucleic acid payloads such as plasmids (pDNA) and genome editor proteins, polymers have emerged as promising vectors in gene t</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Develops an AF4-based method to gently separate free cationic polymers from polymer–plasmid DNA polyplexes, revealing corrected biophysical properties (size/loading) and showing that free polymers modulate inflammation, transfection efficiency, and toxicity—useful for understanding nucleic-acid self-assembly/packaging but not directly focused on origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Due to their low manufacturing cost and versatility in delivering diverse nucleic acid payloads such as plasmids (pDNA) and genome editor proteins, polymers have emerged as promising vectors in gene therapy. To encapsulate and deliver anionic nucleic acids, researchers add cationic polymers to payloads (e.g., pDNA), forming highly fragile, complex, and heterogeneous polyplex assemblies. Large stoichiometric excesses of protonotable amine groups (in the polymers) over the phosphate groups (in the pDNA) are typical of polyplexes, which are frequently formed at nitrogen-to phosphorous ratios between 5–100 . Rather than binding irreversibly to pDNA payloads, polymers predominantly exist as “free polymers” which dynamically exchange with pDNA-bound polymers. Analogous to empty lipid nanoparticles and empty viral capsids, free polymers pose complex characterization, quality control, and regulatory challenges that may hinder clinical translation. We urgently need to quantify how free polymers modify critical polyplex properties (e.g., pDNA loading per polyplex) as well as biological outcomes (e.g., immunogenicity, pDNA delivery efficiency, and toxicity). We developed a unique analytical approach that unveils hitherto unsuspected roles played by free polymers during the complexation and intracellular delivery of pDNA. Applying asymmetrical flow field-flow fractionation (AF4), we gently separated free polymers from crude polyplexes while conserving polyplex integrity. Unlike batch light scattering analysis of fractionated crude polyplexes, which severely underestimate polyplex size and pDNA loading per polyplex, AF4 sharpened measurements of polyplex molecular weight, pDNA loading, and radius of gyration by removing free polymers and their background scattering contributions. Comparing solution properties via light scattering, we discovered that AF4-purified polyplexes appeared over twice as large, loading twice as much pDNA as crude polyplexes. AF4 uncovered contrasts in the biological performance of crude and purified polyplexes. Free polymers aggravated inflammatory responses in macrophages by up to 22%. Removing free polymers depressed transfection efficiency by 50% while improving cell viability by 30%; reintroducing free polymers abrogated these contrasts. By separating and quantifying free polymers in polyplexes, AF4 illuminated a far more complex portrait of polyplex solution properties that has hitherto remained elusive to conventional characterization methods. Our work has revealed pathways to ameliorate polymer-associated toxicity and inflammation during pDNA delivery.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-j468r">https://doi.org/10.26434/chemrxiv-2026-j468r</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-j468r?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] ScienceDaily: Origin of Life News ▶ Egypt’s Karnak Temple may have risen from water like a creation myth</title>
-    <link href="https://www.sciencedaily.com/releases/2025/12/251228074502.htm"/>
-    <id>https://www.sciencedaily.com/releases/2025/12/251228074502.htm</id>
-    <updated>2026-01-05T00:45:57Z</updated>
-    <summary>New research shows Karnak Temple was built on a rare island of high ground formed as Nile river channels shifted thousands of years ago. Before that, the area was too flooded for settlement, making th</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Geoscience/archaeology study arguing Karnak Temple was built on newly emergent high ground amid shifting Nile channels, echoing Egyptian creation myths of land rising from water but offering only very indirect relevance to origins-of-life science.</p>
-<p><strong>Abstract:</strong> New research shows Karnak Temple was built on a rare island of high ground formed as Nile river channels shifted thousands of years ago. Before that, the area was too flooded for settlement, making the temple’s eventual rise even more remarkable. The landscape closely mirrors ancient Egyptian creation myths, where sacred land emerges from water. This suggests Karnak’s location was chosen not just for practicality, but for its deep symbolic power.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1038/s41561-024-01451-z">https://doi.org/10.1038/s41561-024-01451-z</a></li>
-<li><a href="https://doi.org/10.15184/aqy.2025.10185">https://doi.org/10.15184/aqy.2025.10185</a></li>
-<li><a href="http://dx.doi.org/10.15184/aqy.2025.10185">http://dx.doi.org/10.15184/aqy.2025.10185</a></li>
-<li><a href="http://doi.org/10.1038/s41561-024-01451-z">http://doi.org/10.1038/s41561-024-01451-z</a></li>
-</ul>
-<p><a href="https://www.sciencedaily.com/releases/2025/12/251228074502.htm">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] ChemRxiv ▶ Kinetic insights into cholera toxin B-biomimetic glycan interactions</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>Enterotoxins cause severe diseases worldwide, exacerbated by limited access to clean water, food, and medical care. Cholera is a diarrheal disease driven by cholera enterotoxin (CTX) and is secreted b</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> This study uses SPR to quantify how multivalent galactose/fucose glycopolymers form unusually stable, slow-dissociating aggregates with cholera toxin B under flow—useful for anti-toxin design but only tangentially relevant to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Enterotoxins cause severe diseases worldwide, exacerbated by limited access to clean water, food, and medical care. Cholera is a diarrheal disease driven by cholera enterotoxin (CTX) and is secreted by Vibrio cholerae in the small intestinal (SI) epithelium. CTX consists of an enzymatic A subunit (CTA) and a pentameric B subunit (CTB), which mediates cellular uptake by binding to glycans. While CTB primarily recognizes GM1 glycosphingolipid or galactose ligands, GM1 is undetectable in the human SI, and fucose ligands are a key alternative binding target. Previously, we developed linear norbornenyl glycopolymers as biomimetic inhibitors that block CTB binding through interchain crosslinking, forming CTB-glycopolymer aggregates. To assess the polymers’ potential efficacy under flow conditions, we evaluated CTB-glycopolymer binding kinetics under dynamic conditions using surface plasmon resonance (SPR). Copolymer with a random display of galactose and fucose (pGal50Fuc50) showed nanomolar avidity with stable complex formation driven primarily by a slow dissociation rate in the multivalent phase (kd1). In contrast, an equimolar mixture of homopolymers (pGal100 + pFuc100) exhibited similar binding avidity and comparable inhibitory efficacy but did not display slow-dissociation. Moreover, random copolymer pGal25Fuc75 dissociated slowly even from low-CTB-density surfaces. These results highlight the superior stability of copolymers in forming CTB–copolymer aggregates under low CTB abundance and flow conditions. These findings underscore the importance of co-displaying galactose and fucose for complex formation and for developing clinically-useful therapies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-89c3z">https://doi.org/10.26434/chemrxiv-2026-89c3z</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-89c3z?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] ChemRxiv ▶ Aqueous Dispersion of Carbon Nanotubes by Chlorine Dioxide Oxidation</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-05T00:00:00Z</updated>
-    <summary>The poor solubility and dispersibility of single-walled carbon nanotubes (SWCNTs) in aqueous media remain critical limitations for their practical application because conventional oxidative treatments</summary>
-    <content type="html"><![CDATA[<p><strong>AI Decision:</strong> Reports a mild chlorine dioxide oxidation method that adds oxygenated groups to single-walled carbon nanotubes to yield stable, surfactant-free aqueous dispersions while largely preserving conductivity, with only indirect relevance to origins-of-life (water-processable carbon surfaces).</p>
-<p><strong>Abstract:</strong> The poor solubility and dispersibility of single-walled carbon nanotubes (SWCNTs) in aqueous media remain critical limitations for their practical application because conventional oxidative treatments typically require harsh conditions that degrade the nanotube structure. Here, we report a simple and scalable method for dispersing SWCNTs in water via chlorine dioxide (ClO₂•)-mediated oxidation under ambient conditions. The treatment selectively introduced oxygenated functionalities—including hydroxy, carbonyl, and carboxy groups—onto the CNT surface while preserving the tubular framework, as confirmed by transmission electron microscopy, Raman spectroscopy, and X-ray photoelectron spectroscopy analyses. The resulting dispersions exhibited long-term colloidal stability without the need for surfactants, supported by a strongly negative ζ potential (−41.6 mV). Importantly, electronic conductivity was largely maintained: the resistivity of oxidized CNT films was only threefold higher than that of sodium cholate–dispersed CNTs (0.045 vs 0.016 Ω·cm at 25 °C), with &lt;10% variation between 25 and 50 °C. This unique balance between enhanced aqueous dispersibility and preserved charge transport underscores ClO₂• oxidation as a green and effective strategy for producing water-processable CNTs, showing promise for applications in pharmaceutical drugs, printable electronics, functional composites, energy storage, and sensing.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.26434/chemrxiv-2026-thdp9">https://doi.org/10.26434/chemrxiv-2026-thdp9</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-thdp9?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [0] nlin.CD updates on arXiv.org ▶ A Topological Framework for Atmospheric River Interaction Using Framed Braids</title>

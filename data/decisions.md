@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Hydro-mechanical damage modeling of water-bearing sandstone ](https://www.nature.com/articles/s41598-025-31740-5) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111202456&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Analysis of sustainability differences among various shrimp ](https://www.nature.com/articles/s41598-025-34072-6) |
+| keyword_rejected | - | [Reliable and efficient solar radiation estimation with the i](https://www.nature.com/articles/s41598-025-33604-4) |
+| keyword_rejected | - | [Assessment of content quality and reliability of short video](https://www.nature.com/articles/s41598-026-35441-5) |
+| keyword_rejected | - | [Finding natural <InlineEquation ID="IEq1"><EquationSource Fo](https://www.nature.com/articles/s41598-025-33438-0) |
 | ai_scored | 10 | [Chronic stress disrupts the network among stress granules, P](https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111181623&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111171620&v=2.18.0.post22+67771e2) |
