@@ -3,8 +3,20 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T20:21:27.689638+00:00</updated>
+  <updated>2026-01-12T21:17:37.944852+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] phys.org - Space News ▶ Tiny Mars&#x27;s big impact on Earth&#x27;s climate: How the red planet&#x27;s pull shapes ice ages</title>
+    <link href="https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html"/>
+    <id>https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html</id>
+    <updated>2026-01-12T20:31:21Z</updated>
+    <summary>At half the size of Earth and one-tenth its mass, Mars is a featherweight as far as planets go. Yet new research reveals the extent to which Mars is quietly tugging on Earth&#x27;s orbit and shaping the cy</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, mars</p>
+<p><strong>AI Decision:</strong> The article discusses how Mars’ gravitational perturbations may modulate Earth’s orbital cycles and long-term climate (including ice ages), a broad habitability-context topic but not directly related to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> At half the size of Earth and one-tenth its mass, Mars is a featherweight as far as planets go. Yet new research reveals the extent to which Mars is quietly tugging on Earth&#x27;s orbit and shaping the cycles that drive long-term climate patterns here, including ice ages.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Dale Andersen’s Astrobiology Antarctic Status Report: 12 January 2026: Overland Traverse Imagery – And Hello ISS</title>
     <link href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-12-january-2026-overland-traverse-imagery-and-hello-iss.html"/>
@@ -5886,17 +5898,5 @@
 <p><strong>Abstract:</strong> Small lakes on ancient Mars may have remained liquid for decades, even with average air temperatures well below freezing.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-thin-ice-lake-frozen-mars.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] Phys.org: Evolution News ▶ Microbes may hold the key to brain evolution</title>
-    <link href="https://phys.org/news/2026-01-microbes-key-brain-evolution.html"/>
-    <id>https://phys.org/news/2026-01-microbes-key-brain-evolution.html</id>
-    <updated>2026-01-05T21:06:34Z</updated>
-    <summary>A new study reveals that changes to the gut microbiome can change the way the brain works.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Study reports that altering the gut microbiome can change brain function, offering an evolutionary biology insight but little direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> A new study reveals that changes to the gut microbiome can change the way the brain works.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-microbes-key-brain-evolution.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Tiny Mars's big impact on Earth's climate: How the red plane](https://phys.org/news/2026-01-tiny-mars-big-impact-earth.html) |
+| keyword_rejected | - | [Quantum computers could help sharpen images of exoplanets](https://www.newscientist.com/article/2510781-quantum-computers-could-help-sharpen-images-of-exoplanets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Quantum computers could help sharpen images of exoplanets](https://www.newscientist.com/article/2510781-quantum-computers-could-help-sharpen-images-of-exoplanets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Quantum computers could help sharpen images of exoplanets](https://www.newscientist.com/article/2510781-quantum-computers-could-help-sharpen-images-of-exoplanets/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sick Astronaut on ISS Forces Early Transfer of Command from ](https://www.scientificamerican.com/article/sick-astronaut-on-iss-forces-early-transfer-of-command-from-nasa-crew-member/) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112161726&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Identifying Fundamental Gaps in Functional Metagenomics: A S](https://www.biorxiv.org/content/10.64898/2026.01.10.698778v1?rss=1) |
+| keyword_rejected | - | [Disentangling mucus rheology and transport efficiency in hum](https://www.biorxiv.org/content/10.64898/2026.01.10.698668v1?rss=1) |
 | ai_scored | 15 | [Epigenetic Crosstalk Between BCG-Infected Macrophages and Na](https://www.biorxiv.org/content/10.64898/2026.01.12.698601v1?rss=1) |
 | ai_scored | 50 | [The cuticle lamellae responsible for structural coloration i](https://www.biorxiv.org/content/10.64898/2026.01.12.698930v1?rss=1) |
 | ai_scored | 50 | [Complex life on planets orbiting the galaxy's most common st](https://phys.org/news/2026-01-complex-life-planets-orbiting-galaxy.html) |
