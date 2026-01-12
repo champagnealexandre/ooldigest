@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112092157&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [We're about to simulate a human brain on a supercomputer](https://www.newscientist.com/article/2510892-were-about-to-simulate-a-human-brain-on-a-supercomputer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We're about to simulate a human brain on a supercomputer](https://www.newscientist.com/article/2510892-were-about-to-simulate-a-human-brain-on-a-supercomputer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We're about to simulate a human brain on a supercomputer](https://www.newscientist.com/article/2510892-were-about-to-simulate-a-human-brain-on-a-supercomputer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | ["Ai", la chimpanzé prodige, est morte à 49 ans](https://www.sciencesetavenir.fr/animaux/primates/ai-la-chimpanze-prodige-est-morte-a-49-ans_190365?xtor=RSS-26) |
+| keyword_rejected | - | [Ariane 6 lancera 32 satellites d’Amazon en 2026](https://www.sciencesetavenir.fr/espace/exploration/lancement-d-ariane-6-pour-amazon-en-fevrier-7-a-8-vols-prevus-en-2026_190366?xtor=RSS-9) |
+| keyword_rejected | - | [Analogues du GLP-1 dans le traitement de l'obésité : attenti](https://www.sciencesetavenir.fr/sante/analogues-du-glp-1-dans-le-traitement-de-l-obesite-attention-aux-risques_190367?xtor=RSS-16) |
+| keyword_rejected | - | [Developing super-tortillas to address malnutrition in Latin ](https://www.nature.com/articles/d41586-026-00087-w) |
+| keyword_rejected | - | [Fine-mapping a genome-wide meta-analysis of 98,374 migraine ](https://www.nature.com/articles/s41467-025-64880-3) |
+| keyword_rejected | - | [Changes in phenology mediate vertebrate population responses](https://www.nature.com/articles/s41467-025-68172-8) |
+| keyword_rejected | - | [NASA targets Artemis II rollout to pad, details launch optio](https://phys.org/news/2026-01-nasa-artemis-ii-rollout-pad.html) |
+| keyword_rejected | - | [Overexpression of Ssd1 and calorie restriction extend yeast ](https://elifesciences.org/articles/108892) |
+| keyword_rejected | - | [A geometric shape regularity effect in the human brain](https://elifesciences.org/articles/106464) |
 | ai_scored | 5 | [Quantitative Deciphering of Mammalian Histamine Receptors th](https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1) |
 | ai_scored | 13 | [Dilated cardiomyopathy-associated RNA-binding motif protein ](https://elifesciences.org/articles/104808) |
 | ai_scored | 25 | [A Bizarre Exoplanet Breaks Solar System Rules](https://www.scientificamerican.com/article/a-bizarre-exoplanet-breaks-solar-system-rules/) |
