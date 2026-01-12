@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T01:25:06.908701+00:00</updated>
+  <updated>2026-01-12T03:46:12.081257+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] cell biology - biorXiv Preprints ▶ Single-cell RNA analysis reveals unexpected hemocyte plasticity and immune cell specialization in a Drosophila overgrowth model</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1</id>
+    <updated>2026-01-11T00:00:00Z</updated>
+    <summary>Immune cells play essential roles in maintaining tissue homeostasis and responding to abnormal growth, but how innate immune cells adapt to chronic apoptotic signaling remains poorly understood. In Dr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Single-cell RNA-seq of ~50,000 Drosophila hemocytes in a chronic apoptotic overgrowth model reveals extensive plasmatocyte subtype diversity and plasticity, including novel effector states, but it has minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Immune cells play essential roles in maintaining tissue homeostasis and responding to abnormal growth, but how innate immune cells adapt to chronic apoptotic signaling remains poorly understood. In Drosophila melanogaster, hemocytes, particularly plasmatocytes, are recruited to tumor-like overgrowths, yet their transcriptional diversity and lineage dynamics under these conditions remain undefined. Here, we apply single-cell RNA sequencing to nearly 50,000 circulating and sessile hemocytes from larvae bearing undead overgrown eye discs, a model of regenerative overgrowth driven by sustained caspase activity. We resolve 17 transcriptionally distinct hemocyte clusters, including known lineages and 13 previously unrecognized plasmatocyte subtypes. Interestingly, specific plasmatocyte populations are differentially expanded or depleted under overgrowth conditions. Notably, we identify a matrix-remodeling plasmatocyte population marked by high expression of Jonah-family serine proteases. Pseudotime analysis reveals unexpected plasmatocyte plasticity and two novel terminally differentiated effector states. These findings define the immune landscape of tumor-like overgrowth and establish Drosophila as a platform for dissecting innate immune responses to tissue stress and dysregulated growth in vivo.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolutionary conservation and innovations of RNA polymerase II transcription elongation factors</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1</id>
+    <updated>2026-01-11T00:00:00Z</updated>
+    <summary>In eukaryotes, transcription elongation factors (TEFs) associate with RNA Polymerase II (RNAPII) to facilitate gene expression and couple transcription to co-transcriptional processes, including chrom</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, eukaryo*, RNA</p>
+<p><strong>AI Decision:</strong> Domain-centric phylogenomic survey of ten RNA Pol II transcription elongation factors across the Tree of Life infers their presence in the last eukaryotic common ancestor and maps conserved versus clade-specific TEF domains, illuminating early eukaryotic transcription regulation evolution.</p>
+<p><strong>Abstract:</strong> In eukaryotes, transcription elongation factors (TEFs) associate with RNA Polymerase II (RNAPII) to facilitate gene expression and couple transcription to co-transcriptional processes, including chromatin regulation and RNA processing. To further our understanding of TEF biology, we developed a domain-centric analysis pipeline to perform a broad survey of ten TEF orthologs -- Paf1, Ctr9, Cdc73, Rtf1, Leo1, Spt4, Spt5, Spt6, Spn1, and Elf1 -- across the Tree of Life and analyze their evolutionary patterns in a structural context. We report evidence for all ten TEFs being present in the last eukaryotic common ancestor, indicating that mechanisms of TEF-mediated transcription regulation are both ancient and conserved. However, some early-diverging eukaryotic clades exhibit signs of altered TEF domain composition. A comparative phylogenetic analysis highlighted conserved regions of TEFs that are detected in both metazoans and fungi and other regions that appear clade-specific, detected only in metazoans. These observations, together with additional insights generated from evolutionary rate covariation analysis, shed light on under-characterized aspects of TEFs, including domains for which functions have yet to be dissected.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Lysine acetylation facilitates competitive recruitment of translation termination factor eRF3a by PABPC1 C-terminal domain</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1</id>
+    <updated>2026-01-11T00:00:00Z</updated>
+    <summary>In eukaryotic cells, almost all mRNA transcripts are polyadenylated in the nucleus, with the poly(A)-tail being critical for their export, translation and stability. PABPC1 is a multifunctional RNA-bi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, RNA</p>
+<p><strong>AI Decision:</strong> This study dissects how K606 acetylation in the PABPC1 PABC domain selectively strengthens binding to the eukaryotic translation termination factor eRF3a, reshaping PAM2-mediated partner competition and mRNA fate—highly relevant to modern eukaryotic regulation but only tangential to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> In eukaryotic cells, almost all mRNA transcripts are polyadenylated in the nucleus, with the poly(A)-tail being critical for their export, translation and stability. PABPC1 is a multifunctional RNA-binding protein (RBP) that binds poly(A)-tails and is a key driver of mRNA post-transcriptional regulation. It achieves this in part by interacting with a broad range of PAM2-motif containing proteins that bind the same common site within PABPC1&#x27;s PABC domain but result in diverse regulatory outcomes. Regulation of this intricate network of interactions remains poorly understood but our previous studies revealed the regulatory potential of mutually-exclusive acetylation or dimethylation of a key lysine sidechain (K606). To address this, we undertook a systematic study of PAM2-motifs, identifying translation termination factor eRF3a and translation repressor PAIP2 as having a &gt;ten-fold higher affinity for PABPC1 relative to eleven other PAM2-motif partner proteins. Acetylation of PABPC1 at K606 specifically enhances its affinity for eRF3a in vitro, and we present the crystal structure of the specifically K606 acetylated C-terminal domain of PABPC1 in complex with the PAM2 motif of eRF3a, providing structural and functional insights into how acetylation facilitates competitive eRF3a recruitment to PABPC1 and mRNA. We further demonstrate that K606 acetylation promotes PABPC1-eRF3a interaction in cells, thereby antagonising other PAM2-dependent RNA effectors. Taken together, our results show that acetylation of lysine 606 in the PABC domain can specifically modulate PABPC1 partner selectivity, providing crucial insight into how PABPC1 multifunctionality can be regulated to coordinate mRNA usage and fate in the cytoplasm.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] Scientific Reports ▶ Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial stress</title>
     <link href="https://www.nature.com/articles/s41598-025-31740-5"/>

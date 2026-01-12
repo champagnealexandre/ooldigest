@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Lysine acetylation facilitates competitive recruitment of tr](https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1) |
+| ai_scored | 50 | [Evolutionary conservation and innovations of RNA polymerase ](https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1) |
+| ai_scored | 20 | [Single-cell RNA analysis reveals unexpected hemocyte plastic](https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111224557&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Atypical GPCR Activation Resolved by Nanobody Engineering](https://www.biorxiv.org/content/10.64898/2026.01.10.698836v1?rss=1) |
+| keyword_rejected | - | [A Hybrid Gag Lattice as a Structural Intermediate in HIV-1 M](https://www.biorxiv.org/content/10.64898/2026.01.10.698794v1?rss=1) |
+| keyword_rejected | - | [Direct labeling of microtubule turnover reveals in-lattice r](https://www.biorxiv.org/content/10.64898/2026.01.11.698892v1?rss=1) |
+| keyword_rejected | - | [Reshaping Organellar Translation and tRNA Metabolism: The Co](https://www.biorxiv.org/content/10.64898/2026.01.09.698701v1?rss=1) |
+| keyword_rejected | - | [Liquid liquid phase separation of the intrinsically disorder](https://www.biorxiv.org/content/10.64898/2026.01.10.698830v1?rss=1) |
+| keyword_rejected | - | [Biomolecular Condensates Act as Distinct Solvation Environme](https://www.biorxiv.org/content/10.64898/2026.01.11.698869v1?rss=1) |
 | ai_scored | 20 | [Hydro-mechanical damage modeling of water-bearing sandstone ](https://www.nature.com/articles/s41598-025-31740-5) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260111202456&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Analysis of sustainability differences among various shrimp ](https://www.nature.com/articles/s41598-025-34072-6) |
