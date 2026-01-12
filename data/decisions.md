@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 47 | [Unsupervised classification of local clathrate hydrate struc](https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [ACCEL: Automated Closed-loop Co-Optimization and Experimenta](https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Integrated multi-omic atlas reveals the hierarchy of spatiot](https://www.nature.com/articles/s41467-026-68291-w) |
+| keyword_rejected | - | [The effects of LINC00324 on cell proliferation, migration, a](https://www.nature.com/articles/s41598-025-32050-6) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112013053&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Integrated multi-omic atlas reveals the hierarchy of spatiot](https://www.nature.com/articles/s41467-026-68291-w) |
+| keyword_rejected | - | [17O-1H correlation NMR spectroscopy provides accessible and ](https://dx.doi.org/10.26434/chemrxiv-2026-kd8l2?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Alkyldiazirine warheads for G-quadruplex photoaffinity label](https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Topological origin of peak splitting in the structure factor](https://arxiv.org/abs/2601.05891) |
 | ai_scored | 5 | [Tensor-DTI: Enhancing Biomolecular Interaction Prediction wi](https://arxiv.org/abs/2601.05792) |

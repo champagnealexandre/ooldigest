@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T05:26:51.418005+00:00</updated>
+  <updated>2026-01-12T06:31:08.155173+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] ChemRxiv ▶ ACCEL: Automated Closed-loop Co-Optimization and Experimentation Learning Enables Phase-Pure Identification in Formamidinium-based Dion–Jacobson Halide Perovskites</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Self-driving laboratories (SDLs) are poised to transform materials discovery by integrating automation with machine learning (ML) to accelerate data-driven experimentation. However, most SDL framework</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Presents ACCEL, an ML-guided self-driving lab that co-optimizes photoluminescence and XRD feedback to autonomously identify and stabilize phase-pure quasi-2D formamidinium halide perovskites.</p>
+<p><strong>Abstract:</strong> Self-driving laboratories (SDLs) are poised to transform materials discovery by integrating automation with machine learning (ML) to accelerate data-driven experimentation. However, most SDL frameworks remain limited by single-feedback optimization and lack the multi-modal diagnostics needed to resolve both optical and structural evolution in complex hybrid systems. Here, we introduce ACCEL, an automated, ML-guided closed-loop platform for identifying and synthesizing target pure phases within quasi-2D halide perovskite systems. Using a ternary 3D:2D compositional space comprising 3D FAPbI3 and two Dion–Jacobson (DJ) spacer–based components, ACCEL optimizes the 3D:2D ratios to identify compositions that converge toward a structurally and optically stable α-FAPbI3-like phase within a quasi-2D design space. Automated in-situ photoluminescence (PL) is used to monitor crystallization kinetics in real time, revealing how the relative fraction of co-spacers governs nucleation rate and phase evolution during film formation. These kinetic insights are integrated with high-throughput synthesis, automated PL analysis, and X-ray diffraction (XRD) similarity metrics within a Gaussian Process–Bayesian Optimization framework to suppress phase heterogeneity and stabilize the target phase. Rather than targeting a predefined DJ layer number, ACCEL enables optimization based on user-defined optical and structural signatures, providing a generalizable route for autonomous phase discovery in complex hybrid materials.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [47] ChemRxiv ▶ Unsupervised classification of local clathrate hydrate structures</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Quantifying and differentiating the structural characteristics of clathrate hydrates at the molecular level is crucial for understanding the properties that underpin hydrate-based technologies. While </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Presents a DBSCAN-based algorithm to identify and classify coexisting water states and interfacial/quasi-liquid structures in clathrate hydrates, a potentially useful tool for interpreting icy planetary environments but not directly focused on origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Quantifying and differentiating the structural characteristics of clathrate hydrates at the molecular level is crucial for understanding the properties that underpin hydrate-based technologies. While useful, current approaches lack sufficient resolution to discern, e.g., interfacial and dynamical structures. In this study, we present an algorithm based on Density-Based Spatial Clustering of Applications with Noise (DBSCAN) that accurately identifies different water states coexisting within clathrate hydrates. A key novel component is an effective cavity-finder algorithm, which provides input to the clustering framework. The new algorithm detects hydrate cavities by analyzing the number and type of constituent molecular rings around voids. Integrating the new algorithm with widely used order parameters (e.g., F3, F4, and F4t) provides a powerful and accurate tool for analyzing hydrate structures at interfaces and phase transitions. The performance of the new algorithm is assessed for structure I (sI) CO2 hydrates and for structure II (sII) mixed CH4/Dioxane hydrates, demonstrating its robustness and adaptability across different clathrates. Crucially, the proposed algorithm enables us to identify partially ordered structures characteristic of the quasi-liquid layer, thereby capturing interfacial dynamics and molecular-scale details essential for understanding hydrates under realistic conditions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] cond-mat.stat-mech updates on arXiv.org ▶ Emergence of the 2nd Law in an Exactly Solvable Model of a Quantum Wire</title>
     <link href="https://arxiv.org/abs/2601.05514"/>
