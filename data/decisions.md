@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Des substances toxiques d'usure de pneus en grande quantité ](https://www.sciencesetavenir.fr/nature-environnement/des-substances-toxiques-d-usure-de-pneus-en-grande-quantite-dans-le-lac-d-annecy-selon-une-association_190376?xtor=RSS-15) |
+| ai_scored | 5 | [New Study Probes How Same-Sex Behaviors Evolved in Nonhuman ](https://www.scientificamerican.com/article/new-study-probes-how-same-sex-behaviors-evolved-in-nonhuman-primates/) |
+| keyword_rejected | - | [Spectral densities approximations of incidence-based locally](http://link.aps.org/doi/10.1103/g997-gp7j) |
+| keyword_rejected | - | [Bayesian tit-for-tat fosters cooperation in evolutionary sto](http://link.aps.org/doi/10.1103/j7q6-9hkf) |
+| keyword_rejected | - | [Prevention of the tragedy of the commons mediated by a noisy](http://link.aps.org/doi/10.1103/b76t-44gn) |
+| keyword_rejected | - | [Dynamics of interacting cavity solitons](http://link.aps.org/doi/10.1103/683x-v6tj) |
+| keyword_rejected | - | [Multifrequency phase locking and hyperplane structures in pa](http://link.aps.org/doi/10.1103/q6b6-wxj8) |
+| keyword_rejected | - | [Emergent thermalization thresholds in unitary dynamics of in](http://link.aps.org/doi/10.1103/ycdx-sd5m) |
+| keyword_rejected | - | [Integrability and exact large deviations of the weakly asymm](http://link.aps.org/doi/10.1103/2669-rskg) |
+| keyword_rejected | - | [Mutual information expression for the nonlinear Schrödinger ](http://link.aps.org/doi/10.1103/f58x-rkmh) |
+| keyword_rejected | - | [Average weighted ratio of consecutive level spacings for inf](http://link.aps.org/doi/10.1103/ny3r-6cmg) |
+| keyword_rejected | - | [Non-Markovian phonon-driven transport of locally excited qua](http://link.aps.org/doi/10.1103/dqyc-x1cm) |
+| keyword_rejected | - | [Same-sex sexual behaviour can help primates to survive — and](https://www.nature.com/articles/d41586-026-00119-5) |
+| keyword_rejected | - | [Près de 15.000 infirmiers en grève dans les principaux hôpit](https://www.sciencesetavenir.fr/sante/pres-de-15-000-infirmiers-en-greve-dans-les-principaux-hopitaux-de-new-york_190375?xtor=RSS-16) |
+| keyword_rejected | - | [The cosmic seesaw: Black holes eject material as winds or je](https://phys.org/news/2026-01-cosmic-seesaw-black-holes-eject.html) |
+| keyword_rejected | - | [Deep learning-based assessment of periapical radiographic im](https://www.nature.com/articles/s41598-026-35100-9) |
+| keyword_rejected | - | [IoT-Integrated robotic system for automated plant disease de](https://www.nature.com/articles/s41598-025-32624-4) |
+| keyword_rejected | - | [Correction: Elimination of certain honeybee venom activities](https://www.nature.com/articles/s41598-025-33452-2) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112141824&v=2.18.0.post22+67771e2) |
 | ai_scored | 55 | [Generative Design Of Novel Bacteriophages With Genome Langua](https://astrobiology.com/2026/01/generative-design-of-novel-bacteriophages-with-genome-language-models.html) |
 | ai_scored | 55 | [Sub-Neptune Memories I: Implications of Inefficient Mantle C](https://astrobiology.com/2026/01/sub-neptune-memories-i-implications-of-inefficient-mantle-cooling-and-silicate-rain.html) |
 | ai_scored | 45 | [GenCore: Genomic distance estimation using Locally Consisten](https://www.biorxiv.org/content/10.64898/2026.01.10.698768v1?rss=1) |
