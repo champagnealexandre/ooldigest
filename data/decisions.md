@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Indian rocket hits snag during launch](https://phys.org/news/2026-01-indian-rocket-snag.html) |
+| ai_scored | 5 | [Chez les primates, des comportements homosexuels anciens et ](https://www.sciencesetavenir.fr/sciences/chez-les-primates-des-comportements-homosexuels-anciens-et-lies-a-de-multiples-facteurs_190372?xtor=RSS-18) |
+| keyword_rejected | - | [Publisher Correction: Evidence of mutually exclusive outflow](https://www.nature.com/articles/s41550-026-02780-2) |
+| keyword_rejected | - | [Asteroseismology study probes properties of newly discovered](https://phys.org/news/2026-01-asteroseismology-probes-properties-newly-pulsating.html) |
+| keyword_rejected | - | [Hypoxia-driven remodeling of SELENOP+ macrophages shapes T c](https://www.nature.com/articles/s41467-025-67859-2) |
+| keyword_rejected | - | [Flavonoid-mediated bacterial spermidine biosynthesis enhance](https://www.nature.com/articles/s41467-025-68244-9) |
+| keyword_rejected | - | [Binary mineral nanoparticles enable intravascular delivery o](https://www.nature.com/articles/s41467-025-68279-y) |
+| keyword_rejected | - | [Reversible lipid-mediated pH-gating of connexin-46/50 by cry](https://www.nature.com/articles/s41467-026-68311-9) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112112256&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Disaster causing mechanism and monitoring of dynamic and sta](https://www.nature.com/articles/s41598-026-35315-w) |
+| keyword_rejected | - | [Reversible lipid-mediated pH-gating of connexin-46/50 by cry](https://www.nature.com/articles/s41467-026-68311-9) |
+| keyword_rejected | - | [Linking complex microbial interactions and dysbiosis through](https://elifesciences.org/articles/105948) |
 | ai_scored | 75 | [How astronomers plan to detect the signatures of alien life ](https://phys.org/news/2026-01-astronomers-signatures-alien-life-atmospheres.html) |
 | ai_scored | 90 | [Hierarchical Self-Assembly in Minimalistic Diacetylenes: Fro](https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Host cell potassium ion channels KCNJ2 (KIR2.1), KCNJ13 (KIR](https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1) |
