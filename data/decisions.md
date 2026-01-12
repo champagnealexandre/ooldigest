@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Epigenetic Crosstalk Between BCG-Infected Macrophages and Na](https://www.biorxiv.org/content/10.64898/2026.01.12.698601v1?rss=1) |
+| ai_scored | 50 | [The cuticle lamellae responsible for structural coloration i](https://www.biorxiv.org/content/10.64898/2026.01.12.698930v1?rss=1) |
+| ai_scored | 50 | [Complex life on planets orbiting the galaxy's most common st](https://phys.org/news/2026-01-complex-life-planets-orbiting-galaxy.html) |
+| ai_scored | 45 | [Dale Andersen’s Astrobiology Antarctic Status Report: 12 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-12-january-2026-overland-traverse-imagery-and-hello-iss.html) |
+| keyword_rejected | - | [Complex relationship among vessel diameter, shear stress and](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013565) |
+| keyword_rejected | - | [Characterization of the heterogeneity in SARS-CoV-2 fitness ](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013582) |
+| keyword_rejected | - | [The role of the spleen in red blood cell loss caused by mala](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013865) |
+| keyword_rejected | - | [Integrative analysis across metagenomic taxonomic classifier](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013883) |
+| keyword_rejected | - | [Overcoming the widespread flaws in the annotation of vertebr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013885) |
+| keyword_rejected | - | [Hubble spies stellar blast setting clouds ablaze](https://phys.org/news/2026-01-hubble-spies-stellar-blast-clouds.html) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112152112&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Cultural diversity of religion across 117 countries](https://www.nature.com/articles/s41467-025-67671-y) |
+| keyword_rejected | - | [quantms-rescoring enables deep proteome coverage across prot](https://www.biorxiv.org/content/10.64898/2026.01.12.698877v1?rss=1) |
 | ai_scored | 10 | [Des substances toxiques d'usure de pneus en grande quantité ](https://www.sciencesetavenir.fr/nature-environnement/des-substances-toxiques-d-usure-de-pneus-en-grande-quantite-dans-le-lac-d-annecy-selon-une-association_190376?xtor=RSS-15) |
 | ai_scored | 5 | [New Study Probes How Same-Sex Behaviors Evolved in Nonhuman ](https://www.scientificamerican.com/article/new-study-probes-how-same-sex-behaviors-evolved-in-nonhuman-primates/) |
 | keyword_rejected | - | [Spectral densities approximations of incidence-based locally](http://link.aps.org/doi/10.1103/g997-gp7j) |
