@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-12T06:31:08.155173+00:00</updated>
+  <updated>2026-01-12T07:24:24.118026+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Copper Ligation and Nuclearity Dictate the Solution Dynamics and Hydrogen Evolution Activity of Discrete Mo–Cu Sulfide Clusters</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Heterobimetallic clusters comprising Group 6 thiometallates and earth-abundant transition metals are of significant interest for applications in laser technology, telecommunications, sensing, and cata</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, evolution</p>
+<p><strong>AI Decision:</strong> This study shows how ligand choice and copper nuclearity in discrete Mo–Cu sulfide clusters tune sulfur-centered hydrogen evolution thermochemistry and stability, offering a mineral-inspired catalyst framework potentially relevant to early Earth redox/energy chemistry but not directly addressing abiogenesis.</p>
+<p><strong>Abstract:</strong> Heterobimetallic clusters comprising Group 6 thiometallates and earth-abundant transition metals are of significant interest for applications in laser technology, telecommunications, sensing, and catalysis. An advantage of clusters relative to the bulk-state materials is their tunable architecture, which enables precise modulation of physicochemical properties and reactivity through ligand and core structure manipulation. Recently, we reported the Mo–Cu cluster [Tp*MoS3(CuSPh)2]– ([1•(CuSPh)2]–; Tp* = tris(3,5-dimethylpyrazolyl)borate) as a discrete model of layered Cu2MoS4 and functional electrocatalyst for the hydrogen evolution reaction (HER) via a sulfur-centered pathway. While the Tp* ligand was found to be essential for stabilizing the clusters and precluding the formation of reactive Mo-hydrides, the impact of copper ligation and nuclearity remained uncertain. Herein, we describe the synthesis and characterization of a series of derivatives, [1•(CuX)n]– and [1•(CuL)n]1–n, systematically varying the ancillary X- and L-type copper ligands. Single crystal XRD and 1H DOSY NMR analyses reveal that while nuclearities of n = 2-4 are accessible in the solid state, the higher-order clusters (n = 3, 4) exhibit significant solution-state lability. Electrocatalytic evaluations show that the new clusters are markedly less active for the HER than the thiophenolate parent. DFT calculations attribute this difference to the attenuated sulfur basicity and (in some cases) weaker S–H bonds that result from increased copper nuclearity, ancillary ligand donicity, or overall charge. Collectively, this work reveals that while copper ligation and nuclearity offer a modular approach to tuning HER thermochemistry, these changes also impact the cluster’s ability to maintain structural integrity under catalytic conditions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [15] ChemRxiv ▶ ACCEL: Automated Closed-loop Co-Optimization and Experimentation Learning Enables Phase-Pure Identification in Formamidinium-based Dion–Jacobson Halide Perovskites</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss"/>

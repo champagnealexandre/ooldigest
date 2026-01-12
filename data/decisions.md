@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Copper Ligation and Nuclearity Dictate the Solution Dynamics](https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112022405&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Adsorptive performance of SPE via modified POM biochar for P](https://www.nature.com/articles/s41598-025-33048-w) |
+| keyword_rejected | - | [Spontaneous somatic <i>Pten</i> loss contributes to function](https://www.nature.com/articles/s41598-025-34754-1) |
+| keyword_rejected | - | [Health hazard assessment and cooking effects on toxic metals](https://www.nature.com/articles/s41598-025-33257-3) |
+| keyword_rejected | - | [Development of a global screening system for detecting prote](https://www.nature.com/articles/s41598-026-35430-8) |
+| keyword_rejected | - | [Environmental metagenomics enhances detection of circulating](https://www.nature.com/articles/s41467-025-68245-8) |
+| keyword_rejected | - | [Time-dependent deployment of medial prefrontal cortical repr](https://www.nature.com/articles/s41467-025-68215-0) |
+| keyword_rejected | - | [Enhancing carbon sinks in China using a spatially-optimized ](https://www.nature.com/articles/s41467-026-68288-5) |
+| keyword_rejected | - | [Evidence for Aggregation-Induced Fluorescence Exhibited by R](https://dx.doi.org/10.26434/chemrxiv-2026-dtlw3?rft_dat=source%3Ddrss) |
 | ai_scored | 47 | [Unsupervised classification of local clathrate hydrate struc](https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [ACCEL: Automated Closed-loop Co-Optimization and Experimenta](https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Integrated multi-omic atlas reveals the hierarchy of spatiot](https://www.nature.com/articles/s41467-026-68291-w) |
