@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Novel artificial selection method improves function of simul](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863) |
+| keyword_rejected | - | [Supermassive Black Hole Sagittarius A* May Have Once Shone 1](https://www.scientificamerican.com/article/supermassive-black-hole-sagittarius-a-may-have-once-shone-10-000-times/) |
+| keyword_rejected | - | [Do their ears hang low? The genetics of dogs’ adorable flopp](https://www.nature.com/articles/d41586-026-00071-4) |
+| keyword_rejected | - | [How a soft coral moves its tentacles in perfect synchronizat](https://phys.org/news/2026-01-soft-coral-tentacles-synchronization-brain.html) |
+| keyword_rejected | - | [Network models for bridging denoising and identifying spatia](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013867) |
+| keyword_rejected | - | [Exosome-mediated chemotaxis optimizes leader-follower cell m](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013894) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113152041&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [C-H functionalization of alkyl 1,2,3-triazole-4-carboxylates](https://dx.doi.org/10.26434/chemrxiv-2026-btqzk?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [C-H functionalization of alkyl 1,2,3-triazole-4-carboxylates](https://dx.doi.org/10.26434/chemrxiv-2026-btqzk?rft_dat=source%3Ddrss) |
 | ai_scored | 65 | [Phages and bacteria accumulate distinctive mutations aboard ](https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html) |
 | ai_scored | 0 | [A tiny mouse hints at why some mammal mothers may benefit fr](https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html) |
 | keyword_rejected | - | [U.S. Greenhouse Gas Emissions Are Rising for the First Time ](https://www.scientificamerican.com/article/u-s-greenhouse-gas-emissions-are-rising-for-the-first-time-in-two-years-they/) |

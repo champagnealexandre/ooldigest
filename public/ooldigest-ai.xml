@@ -3,8 +3,31 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T19:18:06.711248+00:00</updated>
+  <updated>2026-01-13T20:20:54.499261+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] PLOS Computational Biology ▶ Novel artificial selection method improves function of simulated microbial communities</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863</id>
+    <updated>2026-01-13T14:00:00Z</updated>
+    <summary>by Björn Vessman, Pablo Guridi-Fernández, Flor Inés Arias-Sánchez, Sara Mitri There is increasing interest in artificially selecting or breeding microbial communities, but experiments have reported mo</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Computational simulations show a new “disassembly” artificial-selection protocol can more effectively discover high-function microbial community compositions (e.g., toxin degradation) by maintaining between-community diversity, while highlighting limits from within-community ecology and individual-level evolution.</p>
+<p><strong>Abstract:</strong> by Björn Vessman, Pablo Guridi-Fernández, Flor Inés Arias-Sánchez, Sara Mitri There is increasing interest in artificially selecting or breeding microbial communities, but experiments have reported modest success. Here, we develop computational models to simulate two previously known selection methods and compare them to a new “disassembly” method. We evaluate all three methods in their ability to find a community that could efficiently degrade toxins, whereby investment into degradation results in slower growth. Our disassembly method relies on repeatedly competing different communities of known species combinations against one another, while regularly shuffling around their species combinations. This approach allows many species combinations to be explored, thereby maintaining enough between-community diversity for selection to act on, and resulting in communities with high performance. Nevertheless, selection at the community level in our simulations did not counteract selection at the individual level, nor the communities’ ecological dynamics. Species in our model evolved to invest less into community function and more into growth, but increased growth compensated for reduced investment, such that overall community performance was barely affected by within-species evolution. Within-community ecological dynamics were more of a challenge, as we could control them during the selection process, but community composition and function dropped in the longer term. Our work shows that the strength of disassembly lies mainly in its ability to explore different species combinations, and helps to propose alternative designs for community selection experiments.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e075">https://doi.org/10.1371/journal.pcbi.1013863.e075</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7763976">http://www.ncbi.nlm.nih.gov/pubmed/7763976</a></li>
+<li><a href="https://doi.org/10.1111/j.1558-5646.1977.tb00991.x">https://doi.org/10.1111/j.1558-5646.1977.tb00991.x</a></li>
+<li><a href="https://doi.org/10.3389/fmicb.2023.1257935">https://doi.org/10.3389/fmicb.2023.1257935</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e052">https://doi.org/10.1371/journal.pcbi.1013863.e052</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e040">https://doi.org/10.1371/journal.pcbi.1013863.e040</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e061">https://doi.org/10.1371/journal.pcbi.1013863.e061</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/33646814">http://www.ncbi.nlm.nih.gov/pubmed/33646814</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013863.e044">https://doi.org/10.1371/journal.pcbi.1013863.e044</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/32888315">http://www.ncbi.nlm.nih.gov/pubmed/32888315</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] Phys.org: Evolution News ▶ A tiny mouse hints at why some mammal mothers may benefit from choosing more than one father</title>
     <link href="https://phys.org/news/2026-01-tiny-mouse-hints-mammal-mothers.html"/>
@@ -6190,17 +6213,5 @@
 <p><strong>Abstract:</strong> A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebastián Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, Ariz.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Phys.org: Evolution News ▶ Cracking sleep&#x27;s evolutionary code: Neuron protection traced back to jellyfish and sea anemones</title>
-    <link href="https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html"/>
-    <id>https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html</id>
-    <updated>2026-01-06T19:31:26Z</updated>
-    <summary>A new study from Bar-Ilan University shows that one of sleep&#x27;s core functions originated hundreds of millions of years ago in jellyfish and sea anemones, among the earliest creatures with nervous syst</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
-<p><strong>AI Decision:</strong> Study traces an ancient sleep function in early nervous-system animals, showing sleep-linked neuronal protection from DNA damage and cellular stress, offering evolutionary context but limited direct relevance to origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> A new study from Bar-Ilan University shows that one of sleep&#x27;s core functions originated hundreds of millions of years ago in jellyfish and sea anemones, among the earliest creatures with nervous systems. By tracing this mechanism back to these ancient animals, the research demonstrates that protecting neurons from DNA damage and cellular stress is a basic, ancient function of sleep that began long before complex brains evolved.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-evolutionary-code-neuron-jellyfish-sea.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
