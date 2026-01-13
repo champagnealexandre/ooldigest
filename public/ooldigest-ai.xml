@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T06:28:45.894632+00:00</updated>
+  <updated>2026-01-13T07:22:22.955744+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] ChemRxiv ▶ The Role of Na2CO3 in the Selective Flotation of Ca-activated Spodumene and Quartz</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Spodumene separation from gangue minerals such as quartz is challenging, as both silicate minerals are activated by metal cations, naturally present in process water, like Ca2+. Research has shown tha</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Study dissects carbonate- and calcium-mediated adsorption competition on silicate mineral surfaces during flotation, offering only tangential relevance to origins-of-life via general mineral–water interfacial chemistry.</p>
+<p><strong>Abstract:</strong> Spodumene separation from gangue minerals such as quartz is challenging, as both silicate minerals are activated by metal cations, naturally present in process water, like Ca2+. Research has shown that when used as a pH modifier, Na2CO3 can depress both minerals, to different degrees, in the presence of Ca2+, but the mechanisms remain unclear. We use spectroscopic and computational methods to examine the interaction of Na2CO3 with Ca-activated quartz and spodumene surfaces in the presence of sodium oleate (NaOL) and the consequences for their selective flotation. Our results indicate that adsorption competition between the collector (Ca/OL complexes) and depressant (CaCO3) species occurs on spodumene and quartz surfaces. We provide detailed mechanisms of the interactions, including with respect to the adsorbed species, their relative amounts, surface charge, and the adsorption strengths. Although both the collector and depressant were adsorbed onto both minerals, the collector had more affinity for spodumene than quartz (-296.14 kJ/mol vs -192.99 kJ/mol), unlike the depressant (-288.55 kJ/mol vs -311.59 kJ/mol), hence the soda ash induced surface deprotonation and desorption of Ca/OL complexes from quartz during conditioning, but not from spodumene. Unlike quartz, which had only Ca as the surface site for reagent adsorption, spodumene also had surface Al sites. The results explain the limited depression of spodumene and the total depression of quartz in flotation using fatty acid-based collectors. Specifically, in the presence of Ca2+, Na2CO3 treatment increased the Li2O grades from 2.53 to 4.40 %, while maintaining a high lithium recovery of 71 %. Overall, the study demonstrated that, in addition to being a pH modifier, Na2CO3 acts as a selective quartz depressant in the Ca-activated flotation of spodumene-quartz, making it a more effective pH modifier than NaOH directly prior to spodumene flotation. Since quartz is a common gangue mineral in most flotation systems, these findings can be applied to benefit other flotation systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] Nature Communications ▶ Cobamide-producing microbes as a model for understanding general nutritional interdependencies in soil food webs</title>
     <link href="https://www.nature.com/articles/s41467-025-68255-6"/>

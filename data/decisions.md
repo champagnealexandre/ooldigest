@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [The Role of Na2CO3 in the Selective Flotation of Ca-activate](https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Une bactérie modifiée synthétise le pigment du camouflage de](https://www.pourlascience.fr/sd/biochimie/une-bacterie-modifiee-synthetise-le-pigment-du-camouflage-des-pieuvres-28519.php) |
+| keyword_rejected | - | [Les réseaux sociaux nuisent gravement à la santé des ados, a](https://www.sciencesetavenir.fr/sante/les-reseaux-sociaux-nuisent-gravement-a-la-sante-des-ados-alerte-l-anses_190378?xtor=RSS-16) |
+| keyword_rejected | - | [The effect of preemptive use of nonsteroidal anti-inflammato](https://www.nature.com/articles/s41598-026-35629-9) |
+| keyword_rejected | - | [The triglyceride HDL cholesterol ratio predicts sarcopenia r](https://www.nature.com/articles/s41598-026-35907-6) |
+| keyword_rejected | - | [Perivascular pathology, not macrovascular complexity, govern](https://www.nature.com/articles/s41598-026-36001-7) |
+| keyword_rejected | - | [Gaze patterns during visual mental imagery reflect part-base](https://www.nature.com/articles/s41598-026-35447-z) |
+| keyword_rejected | - | [Cuproptosis of bronchial epithelial cells triggers airway re](https://www.nature.com/articles/s41598-025-34574-3) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113022211&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [A comprehensive <i>N</i>-glycoproteome atlas reveals tissue-](https://www.nature.com/articles/s41467-025-68186-2) |
+| keyword_rejected | - | [A unified time-frequency foundation model for sleep decoding](https://www.nature.com/articles/s41467-025-67970-4) |
+| keyword_rejected | - | [Injectable hydrogels for osteomyelitis treatment induce meta](https://www.nature.com/articles/s41467-026-68318-2) |
+| keyword_rejected | - | [Carbon Nanotube Electrodes as a Versatile Platform for Opera](https://dx.doi.org/10.26434/chemrxiv-2026-t8sfs?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Visible-Light-Driven Ruthenium-Catalyzed Hydrogenation of Ma](https://dx.doi.org/10.26434/chemrxiv-2026-bdhgx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A Construction of Arbitrary Order Internal Coordinate Transf](https://dx.doi.org/10.26434/chemrxiv-2026-bzmpw?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Retrieval-Augmented Large Language Models for Chemistry: A C](https://dx.doi.org/10.26434/chemrxiv-2026-dtw9b?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [To Be or Not to Be: The Elusive Nature of Wheland-type Inter](https://dx.doi.org/10.26434/chemrxiv-2026-2krfd?rft_dat=source%3Ddrss) |
 | ai_scored | 25 | [Let’s Get Cyclic – Influence of Head-to-Tail Cyclisation of ](https://dx.doi.org/10.26434/chemrxiv-2026-lvb1t?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Cobamide-producing microbes as a model for understanding gen](https://www.nature.com/articles/s41467-025-68255-6) |
 | keyword_rejected | - | [Financement de la recherche : une liberté académique comme u](https://www.pourlascience.fr/sr/les-sciences-a-la-loupe/financement-de-la-recherche-une-liberte-academique-comme-une-autre-28665.php) |
