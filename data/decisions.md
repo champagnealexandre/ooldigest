@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [Estimate of the mutation rate in the endangered Devils Hole ](https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112201803&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Precise excision of expanded GGC repeats in NOTCH2NLC via CR](https://www.nature.com/articles/s41467-026-68385-5) |
+| keyword_rejected | - | [Mechanical rejuvenation of senescent stem cells and aged bon](https://www.nature.com/articles/s41467-026-68387-3) |
+| keyword_rejected | - | [Image: Artist's concept of a white dwarf star](https://phys.org/news/2026-01-image-artist-concept-white-dwarf.html) |
+| keyword_rejected | - | [Iterative engineering of a compact Cas9 ortholog for in vivo](https://www.biorxiv.org/content/10.64898/2026.01.12.698990v1?rss=1) |
+| keyword_rejected | - | [Absorption dipole effects on MINFLUX single molecule localiz](https://www.biorxiv.org/content/10.64898/2026.01.11.698872v1?rss=1) |
+| keyword_rejected | - | [Unrestrained fatty acid oxidation triggers heart failure in ](https://www.biorxiv.org/content/10.64898/2026.01.12.698694v1?rss=1) |
+| keyword_rejected | - | [A Golgi-bypass secretion mechanism for proTGFα involving TME](https://www.biorxiv.org/content/10.64898/2026.01.12.698993v1?rss=1) |
 | ai_scored | 55 | [Recognition in Confinement: The Dynamics of Homologous Gene ](https://www.biorxiv.org/content/10.64898/2026.01.10.698804v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112181411&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Pour protéger la santé mentale des adolescents, les réseaux ](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/reseaux-sociaux-pour-preserver-la-sante-mentale-des-adolescents-l-anses-recommande-une-refonte-des-plateformes_190371?xtor=RSS-16) |
