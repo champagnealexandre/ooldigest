@@ -1,5 +1,51 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Cross-species dissection of saline-related genes by genetica](https://www.nature.com/articles/s41467-026-68287-6) |
+| ai_scored | 5 | [Double-Bracket Quantum Algorithms for Quantum Imaginary-Time](http://link.aps.org/doi/10.1103/rw81-k8vk) |
+| ai_scored | 10 | [Designing AAV Capsid Protein with viability-guided Diffusion](https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1) |
+| ai_scored | 15 | [Sex-specific landscapes of crossover and non-crossover recom](https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1) |
+| ai_scored | 45 | [The Structured RNA-binding Domains and Condensation Capacity](https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1) |
+| ai_scored | 30 | [The bromodomain protein Bdf3 is sufficient to activate expre](https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1) |
+| ai_scored | 30 | [Gene genealogies in haploid populations evolving according t](https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1) |
+| ai_scored | 60 | [Directed evolution of multimeric proteins is enabled by dual](https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1) |
+| ai_scored | 35 | [Intramolecular loops control SARS-CoV-2 nucleocapsid protein](https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1) |
+| ai_scored | 5 | [Histone H2BK108Me2 Tunes Gluconeogenic Load in Type 2 Diabet](https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1) |
+| ai_scored | 20 | [Rhythmic Nuclear Import Mediated by Importins Regulates the ](https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1) |
+| ai_scored | 40 | [EOLA1, a novel mitochondria-localized protein critical for h](https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1) |
+| ai_scored | 10 | [Comprehensive analysis of nonsense-mediated mRNA decay targe](https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1) |
+| keyword_rejected | - | [Cross-species dissection of saline-related genes by genetica](https://www.nature.com/articles/s41467-026-68287-6) |
+| keyword_rejected | - | [Inferring Charge-Noise Source Locations from Correlations in](http://link.aps.org/doi/10.1103/glp5-bb5b) |
+| keyword_rejected | - | [Altermagnet-Driven Magnon Spin Splitting Nernst Effect](http://link.aps.org/doi/10.1103/g5xq-z15c) |
+| keyword_rejected | - | [Foundations of the Ionization Potential Condition for Locali](http://link.aps.org/doi/10.1103/ngyq-q7z3) |
+| keyword_rejected | - | [Monte Carlo Simulations of Crystal Defects in Open Ensembles](http://link.aps.org/doi/10.1103/ppc1-ntn6) |
+| keyword_rejected | - | [Experimental Phase-Matching Quantum Cryptographic Conferenci](http://link.aps.org/doi/10.1103/mlgs-g354) |
+| keyword_rejected | - | [A robust methodology for finite population mean estimation b](https://www.nature.com/articles/s41598-026-35592-5) |
+| keyword_rejected | - | [The contribution of the membrane-bound complement regulatory](https://www.nature.com/articles/s41598-025-33359-y) |
+| keyword_rejected | - | [High-accuracy brain tumor detection method based on deep lea](https://www.nature.com/articles/s41598-026-35783-0) |
+| keyword_rejected | - | [Immunoinformatics-based design and evaluation of a multi-epi](https://www.nature.com/articles/s41598-026-35434-4) |
+| keyword_rejected | - | [The impact of new quality productive forces on urban carbon ](https://www.nature.com/articles/s41598-026-35794-x) |
+| keyword_rejected | - | [Development and practical application of condition monitorin](https://www.nature.com/articles/s41598-025-33285-z) |
+| keyword_rejected | - | [GCN2 is activated by methyl jasmonate through GCN1 and react](https://www.nature.com/articles/s41598-025-32799-w) |
+| keyword_rejected | - | [Knowledge integration for physics-informed symbolic regressi](https://www.nature.com/articles/s41598-026-35327-6) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112222504&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [A nano-structured reporter for high-sensitivity contaminant ](https://www.nature.com/articles/s41467-026-68373-9) |
+| keyword_rejected | - | [Machine Learning enables efficient and effective affinity ma](https://www.biorxiv.org/content/10.64898/2026.01.11.698911v1?rss=1) |
+| keyword_rejected | - | [Male-biased triploidy in Populus tremuloides and genomic str](https://www.biorxiv.org/content/10.64898/2026.01.12.695788v1?rss=1) |
+| keyword_rejected | - | [MTFP1 preserves β-cell cristae structure and bioenergetics t](https://www.biorxiv.org/content/10.64898/2026.01.12.697845v1?rss=1) |
+| keyword_rejected | - | [ARF-1 Coordinates Cargo Sorting at FERARI Endosomal Recyclin](https://www.biorxiv.org/content/10.64898/2026.01.12.698965v1?rss=1) |
+| keyword_rejected | - | [Multicellular signaling and partial recovery define reverse ](https://www.biorxiv.org/content/10.64898/2026.01.12.699040v1?rss=1) |
+| keyword_rejected | - | [Distinct TAF15 amyloid filament folds define multiple subtyp](https://www.biorxiv.org/content/10.64898/2026.01.12.698957v1?rss=1) |
+| keyword_rejected | - | [HDAC inhibition via suberoylanilide hydroxamic acid (SAHA) a](https://www.biorxiv.org/content/10.64898/2026.01.12.698976v1?rss=1) |
+| keyword_rejected | - | [A role for heavy chain-modification in protecting hyaluronan](https://www.biorxiv.org/content/10.64898/2026.01.12.699012v1?rss=1) |
+| keyword_rejected | - | [NFATc3 enhances DREAM complex-driven tumorigenesis](https://www.biorxiv.org/content/10.64898/2026.01.12.699082v1?rss=1) |
+| keyword_rejected | - | [Prothrombinase processivity is conferred by substrate allost](https://www.biorxiv.org/content/10.64898/2026.01.12.699050v1?rss=1) |
+| keyword_rejected | - | [MicroRNA spatial profiling for assessing drug efficacy in BR](https://www.biorxiv.org/content/10.64898/2026.01.12.698824v1?rss=1) |
+| keyword_rejected | - | [A CK2-FBXW11 kinase-E3 ubiquitin ligase cascade is a metabol](https://www.biorxiv.org/content/10.64898/2026.01.12.698998v1?rss=1) |
+| keyword_rejected | - | [Establishing label-free quantitative X-ray dose-response pro](https://www.biorxiv.org/content/10.64898/2026.01.12.699031v1?rss=1) |
+| keyword_rejected | - | [Multiscale curvature modulates epithelial architecture and n](https://www.biorxiv.org/content/10.64898/2026.01.12.698973v1?rss=1) |
+| keyword_rejected | - | [Analyzing an organisms sensors using Maximum Entropy models ](https://www.biorxiv.org/content/10.64898/2026.01.12.698979v1?rss=1) |
+| keyword_rejected | - | [Molecular and Energetic Basis of Histidine Switch Dynamics i](https://www.biorxiv.org/content/10.64898/2026.01.12.698557v1?rss=1) |
+| keyword_rejected | - | [Label-Free Nucleoli Measurement by 3D Holo-Tomographic Flow ](https://www.biorxiv.org/content/10.64898/2026.01.12.699016v1?rss=1) |
 | ai_scored | 60 | [Estimate of the mutation rate in the endangered Devils Hole ](https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260112201803&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Precise excision of expanded GGC repeats in NOTCH2NLC via CR](https://www.nature.com/articles/s41467-026-68385-5) |

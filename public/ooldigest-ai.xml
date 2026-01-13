@@ -3,8 +3,190 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T01:18:15.417566+00:00</updated>
+  <updated>2026-01-13T03:25:22.054713+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Comprehensive analysis of nonsense-mediated mRNA decay targets and activity in cardiomyocytes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Nonsense-mediated mRNA decay (NMD) serves as a mechanism to suppress the expression of mutant alleles containing premature termination codons, limit the expression of aberrantly spliced transcript iso</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study maps nonsense-mediated mRNA decay targets in human iPSC-derived cardiomyocytes using SMG1 inhibition and RNA-seq, offering cell-type-specific insights into eukaryotic RNA surveillance but little direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Nonsense-mediated mRNA decay (NMD) serves as a mechanism to suppress the expression of mutant alleles containing premature termination codons, limit the expression of aberrantly spliced transcript isoforms, and control the expression of numerous regular genes. While the principles by which NMD recognizes target transcripts are well understood, much less is known about the range of mRNAs subject to NMD in tissues and specialized cell types. Here we describe the landscape of genes whose expression is controlled by NMD in cardiomyocytes derived from human induced pluripotent stem cells (iPSC-CM), using small read RNA sequencing in combination with a potent inhibitor of SMG1, a kinase essential for NMD. We find that NMD targets are highly conserved between iPSC-CM lines derived from two healthy individuals. Beyond gene level analysis, we identify individual exon and intron RNA sequences that strongly accumulate upon SMG1 inhibition. Using the cardiac NMD targets identified at gene, exon and intron level, we then demonstrate reduced NMD efficiency upon knockdown of two essential NMD factors, UPF1 and UPF2, in iPSC-CM. Our analysis demonstrates that quantifying the transcriptome-wide response to SMG1 inhibition represents a highly sensitive approach to assess global activity of the NMD pathway.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] molecular biology - biorXiv Preprints ▶ EOLA1, a novel mitochondria-localized protein critical for heart functions via regulating mitochondrial translation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Mitochondria possess their own mRNA translation system, mediated by specialized mitoribosomes. Dysregulation of mitochondrial translation disrupts metabolic homeostasis and is linked to various pathol</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Identifies EOLA1 as a mitochondrial matrix factor that binds 12S mt-rRNA and TUFM to promote mitochondrial translation elongation, with knockout impairing oxidative phosphorylation and causing severe cardiac dysfunction in mice.</p>
+<p><strong>Abstract:</strong> Mitochondria possess their own mRNA translation system, mediated by specialized mitoribosomes. Dysregulation of mitochondrial translation disrupts metabolic homeostasis and is linked to various pathologies, including metabolic syndromes, neurological disorders, and cardiac diseases. Using CRISPR/Cas9 screening, we identified EOLA1 (endothelial-overexpressed lipopolysaccharide-associated factor 1) as a novel mitochondrial matrix protein essential for metabolic homeostasis. Knockout of Eola1 severely affects mitochondrial translation and consequently the oxidative phosphorylation in mammalian cells. Mechanistically, EOLA1 physically interacts with mitochondrial 12S ribosomal RNA (12S mt-rRNA) and the mitochondrial Tu translation elongation factor (TUFM), facilitating efficient translation elongation of mitochondrial-encoded mRNAs. Furthermore, genetic ablation of Eola1 in mice induced severe cardiac dysfunction, demonstrating its indispensable role in maintaining heart function through mitochondrial translation control. Together, our findings establish EOLA1 as a key regulator of mitochondrial translation via its interactions with 12S mt-rRNA and TUFM, highlighting its importance in cellular metabolism and a potential role in cardiac disease pathogenesis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] cell biology - biorXiv Preprints ▶ Rhythmic Nuclear Import Mediated by Importins Regulates the Neurospora Circadian Clock.</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Circadian clocks in eukaryotes rely on precisely regulated negative feedback loops to generate daily rhythms. However, the delay mechanisms that extend this structurally simple feedback loop to ~24 ho</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> Live-cell imaging and FRAP in Neurospora show circadian-regulated, importin-mediated nuclear import of FREQUENCY (FRQ) is a dynamic, rate-limiting step that tunes clock timing, though the work is primarily eukaryotic cell biology rather than origins-of-life focused.</p>
+<p><strong>Abstract:</strong> Circadian clocks in eukaryotes rely on precisely regulated negative feedback loops to generate daily rhythms. However, the delay mechanisms that extend this structurally simple feedback loop to ~24 hours are not yet fully understood. In the filamentous fungal model organism Neurospora crassa, the negative arm complex, centered by FREQUENCY (FRQ), must enter the nucleus to repress the White Collar Complex (WCC) and close the feedback loop, but the mechanisms and dynamics of its nuclear transport have remained unresolved. Using long-term live-cell imaging and fluorescence recovery after photobleaching (FRAP), we demonstrate that FRQ nuclear import is an active circadian-regulated process that is fastest early in the subjective day and progressively decreases as nuclear FRQ approaches peak levels, corresponding to altered direct binding between FRQ and Importin . We further establish that Importin is required for the spatial regulation of FRQ and WC-1 and the correct timing of Neurospora circadian clock. Analysis of the three Neurospora Importin {beta} homologs reveals that each of them contributes differently to the circadian clock through pathways beyond FRQ or WCC nuclear import. More specifically, we find a genetic interaction between Imp{beta}3 and the phosphatase PP-4. Together, these findings indicate that nuclear import is a selective, dynamic, and rate-limiting regulatory step in the fungal circadian clock and reveal both conserved and fungal-specific mechanisms by which importins tune circadian timing.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] biophysics - biorXiv Preprints ▶ Histone H2BK108Me2 Tunes Gluconeogenic Load in Type 2 Diabetes: A Molecular Dynamics Study</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Type 2 Diabetes (T2D) is a serious metabolic disorder characterised by hyperglycemia, hyperinsulinemia, and insulin resistance. An increased rate of hepatic gluconeogenesis acts as one of the major co</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Coarse-grained molecular dynamics study of how the histone PTM H2BK108Me2 alters nucleosome DNA end closure to suppress Cebpa transcription and reduce hepatic gluconeogenesis in type 2 diabetes, with minimal relevance to origins-of-life research beyond general DNA/chromatin biophysics.</p>
+<p><strong>Abstract:</strong> Type 2 Diabetes (T2D) is a serious metabolic disorder characterised by hyperglycemia, hyperinsulinemia, and insulin resistance. An increased rate of hepatic gluconeogenesis acts as one of the major contributors of the high blood glucose levels in the diseased condition. Transcriptional regulation is a main factor that controls gene expression. In this study we have elucidated how the transcriptional availability of the Cebpa gene can be modulated at the nucleosomal level through the post-translational modifications (PTMs) of histones using a series of coarse-grained multi-microsecond molecular dynamics simulations. The transcriptional status of a gene is influenced by a plethora of factors, but our work reveals that indeed histone PTMs are capable of modulating transcriptional output of genes at a structural level, independent of other regulatory factors. We have identified H2BK108Me2, a downregulated histone PTM mark found in a diet-induced obese mouse liver, to be essentially contributing in tackling gluconeogenic load by suppressing transcription of the Cebpa gene. We found that H2BK108Me2 induces the closure of the nucleosomal DNA ends through sliding and posing chromatin unavailability towards essential transcription factors of the gene.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] biophysics - biorXiv Preprints ▶ Intramolecular loops control SARS-CoV-2 nucleocapsid protein self-association and nucleic acid binding dependent on phosphorylation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>The nucleocapsid protein of SARS-CoV-2 scaffolds genomic RNA into ribonucleoprotein complexes (RNP) for assembly in the virion, but also fulfills critical intracellular functions in replication and th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, RNA</p>
+<p><strong>AI Decision:</strong> Biophysical and structural analysis suggests phosphorylation-dependent intramolecular looping in the SARS-CoV-2 nucleocapsid protein toggles compaction, self-association, and RNA/nucleic-acid binding, impacting RNP formation.</p>
+<p><strong>Abstract:</strong> The nucleocapsid protein of SARS-CoV-2 scaffolds genomic RNA into ribonucleoprotein complexes (RNP) for assembly in the virion, but also fulfills critical intracellular functions in replication and the suppression of host defense. It contains a folded nucleic acid binding domain (NTD) and a dimerization domain, connected by a disordered linker containing a serine/arginine-rich (SR) region and a leucine-rich sequence (LRS). The switch between intracellular and assembly functions is controlled by phosphorylation of the SR region, but the molecular details are unclear. Here we describe a model in which two mutually exclusive intramolecular loops bind the NTD and dynamically control self-association and nucleic acid binding properties dependent on the SR linker phosphorylation state. The model is supported by biophysical measurements of hydrodynamic radii, reversible protein self-association, nucleic acid binding, and thermodynamic stability, as well as structural predictions and published NMR chemical shifts. We find SR linker phosphorylation compacts the protein and inhibits nucleic acid binding and RNP formation, while enhancing self-association through promotion of transient coiled-coils in the LRS of the linker. These changes shift the nucleocapsid protein to a configuration poised for multi-valent interactions that support intracellular functions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] bioRxiv Subject Collection: Evolutionary Biology ▶ Directed evolution of multimeric proteins is enabled by dual-compensatory gene duplication</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Gene duplication has played a critical role in the evolutionary history of proteins, enabling complex multimers to emerge from simpler precursors. Yet in protein engineering, current methods for direc</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, evolution</p>
+<p><strong>AI Decision:</strong> Introduces a gene-duplication–enabled directed evolution strategy that stabilizes self-assembling multimeric proteins (e.g., a 240-mer capsid), offering a plausible evolutionary mechanism for diversification of higher-order multimers.</p>
+<p><strong>Abstract:</strong> Gene duplication has played a critical role in the evolutionary history of proteins, enabling complex multimers to emerge from simpler precursors. Yet in protein engineering, current methods for directed evolution do not exploit gene duplication, hampering access to the vast array of diverse variants that are only enriched in the presence of a wild-type copy. We establish a directed evolution strategy for multimeric proteins that harnesses gene duplication to compensate for metabolic burden and self-assembly fitness, allowing previously inaccessible variants to be enriched. Starting from a homomeric 240-mer capsid, gene duplication enables selection of both extreme homomeric variants and obligate heteromers. This strategy significantly expands engineering access to diverse high-performing variants, while also supporting a plausible model for evolutionary diversification of higher-order multimers in nature.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Gene genealogies in haploid populations evolving according to sweepstakes reproduction</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Recruitment dynamics, or the distribution of the number of offspring among individuals, is fundamental to ecology and evolution. We take sweepstakes reproduction to mean a skewed (heavy right-tailed) </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> The paper develops coalescent-theory models for highly skewed (sweepstakes) reproduction in haploid populations, showing how such dynamics generate multiple-merger genealogies and affect mutation-based inferences, with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Recruitment dynamics, or the distribution of the number of offspring among individuals, is fundamental to ecology and evolution. We take sweepstakes reproduction to mean a skewed (heavy right-tailed) offspring number distribution without natural selection being involved. Sweepstakes may be generated by chance matching of reproduction with favorable environmental conditions. Gene genealogies generated by sweepstakes reproduction are in the domain of attraction of multiple-merger coalescents where a random number of lineages merges at such times. We consider population genetic models of sweepstakes reproduction for haploid panmictic populations of both constant (N), and varying population size, and evolving in a random environment. We construct our models so that we can recover the observed number of new mutations in a given sample without requiring strong assumptions regarding the population size or the mutation rate. Our main results are (i) continuous-time coalescents that are either the Kingman coalescent or specific families of Beta- or Poisson-Dirichlet coalescents; when combining the results the parameter of the Beta-coalescent ranges from 0 to 2, and the Beta-coalescents may be incomplete due to an upper bound on the number of potential offspring an arbitrary individual may produce; (ii) in large populations we measure time in units proportional to either N/log N or N generations; (iii) incorporating fluctuations in population size leads to time-changed multiple-merger coalescents where the time-change does not depend on ; (iv) using simulations we show that in some cases approximations of functionals of a given coalescent do not match the ones of the ancestral process in the domain of attraction of the given coalescent; (v) approximations of functionals obtained by conditioning on the population ancestry (the ancestral relations of all gene copies at all times) are broadly similar (for the models considered here) to the approximations obtained without conditioning on the population ancestry.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ The bromodomain protein Bdf3 is sufficient to activate expression of a procyclin gene in bloodstream stage African trypanosomes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>The early branching eukaryotic parasite, Trypanosoma brucei, lives extracellularly in the mammalian host, where it expresses variant surface glycoprotein (VSG). Antigenic variation of VSGs allows the </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, RNA</p>
+<p><strong>AI Decision:</strong> Using dCas9 tethering, the authors show the bromodomain protein Bdf3 can activate normally silenced procyclin (EP1) transcription in bloodstream Trypanosoma brucei, illuminating gene-regulatory mechanisms in an early-branching eukaryote.</p>
+<p><strong>Abstract:</strong> The early branching eukaryotic parasite, Trypanosoma brucei, lives extracellularly in the mammalian host, where it expresses variant surface glycoprotein (VSG). Antigenic variation of VSGs allows the parasite to evade the host immune response while in the bloodstream. Upon transition to the tsetse fly vector, the parasite remodels its surface to express procyclin protein from a limited set of EP and GPEET genes. While the environmental signals that trigger the switch from expressing VSG genes to expressing EP and GPEET genes are known, the molecular mechanism that initiates transcription of the EP and GPEET genes during parasite differentiation to the procyclic stage within the tsetse is not well understood. Previous work has shown that the chromatin interacting bromodomain protein Bdf3 is absent from the pol I promoter of the EPlocus in bloodstream parasites, but appears there shortly after initiation of differentiation from the bloodstream to the procyclic stage. Here, we show that tethering of Bdf3 to the EP promoter using a dCas9-Bdf3 fusion protein and a guide RNA is sufficient to increase transcript levels of EP1 in bloodstream parasites, where the gene is normally silenced. This result supports the model that Bdf3 appears at the EP locus during differentiation to facilitate initiation of transcription, which is consistent with the role for Bdf3 as a transcriptional activator in other systems. Understanding gene regulatory mechanisms in this early branching eukaryote may help build a more complete picture for the conserved and unique features of gene regulatory proteins across diverse biological systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] molecular biology - biorXiv Preprints ▶ The Structured RNA-binding Domains and Condensation Capacity of FUS Shape its RNA-binding Landscape and Function.</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>RNA-binding proteins (RBPs) are key regulators of gene expression and often contain intrinsically disordered regions that drive biomolecular condensation. Yet, how condensation affects RBP specificity</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> This preprint dissects how the RNA-binding protein FUS couples structured RNA-recognition with biomolecular condensation to shape nuclear RNP condensates and downstream DNA-damage response and RNA-processing programs, offering general principles of RNA–protein phase behavior but not directly addressing prebiotic origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> RNA-binding proteins (RBPs) are key regulators of gene expression and often contain intrinsically disordered regions that drive biomolecular condensation. Yet, how condensation affects RBP specificity and function remains poorly defined. Here, we use strategically designed point mutations to selectively impair canonical RNA-binding and condensation of the amyotrophic lateral sclerosis (ALS)-linked RBP Fused in Sarcoma (FUS). Using automated high-content imaging, we show that both properties shape nuclear ribonucleoprotein condensates and govern distinct aspects of FUS function in the DNA damage response. Transcriptome-wide mapping of FUS-RNA interactions reveals that the canonical RNA-binding domains recognise G-rich and C-rich motifs, whereas condensation selectively enhances binding to G-rich and structured sequences, often acting in concert with canonical RNA-binding to control transcriptional programs and splicing decisions. These findings provide a mechanistic framework for how FUS integrates condensation with sequence-specific RNA recognition to orchestrate nuclear organisation, genome stability and RNA metabolism. Furthermore, our rigorously validated mutants offer a platform for future mechanistic dissection of ALS pathogenesis and the development of targeted therapeutic strategies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] bioRxiv Subject Collection: Evolutionary Biology ▶ Sex-specific landscapes of crossover and non-crossover recombination in coppery titi monkeys (Plecturocebus cupreus)</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Along with germline mutations, meiotic recombination plays a fundamental role in shaping genetic diversity and thus directly influences a species&#x27; potential adaptive response to environmental change, </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using high-coverage family genomics, this preprint maps sex-specific crossover and non-crossover recombination hotspots in coppery titi monkeys, informing primate molecular evolution but offering minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Along with germline mutations, meiotic recombination plays a fundamental role in shaping genetic diversity and thus directly influences a species&#x27; potential adaptive response to environmental change, amongst other features. Despite the recombination landscape being of central importance for a variety of questions in molecular evolution, the genome-wide distribution and frequency of recombination remains to be elucidated in many non-human primate species. Utilizing novel high-coverage genomic data from three multi-sibling families, we here provide the first estimates of the rates and patterns of crossover and non-crossover recombination in coppery titi monkeys (Plecturocebus cupreus) - a socially monogamous, pair-bonded primate that serves as an important model in behavioral research. Consistent with haplorrhines, crossover and non-crossover recombination in this platyrrhine are frequently localized at PRDM9-mediated hotspots, characterized by a 15-mer binding motif with substantial similarities to the degenerate 13-mer motif found in humans. The sex-averaged crossover rate in coppery titi monkeys is comparable with those of other primates; however, no significant difference in recombination rates was observed between the sexes, despite a pronounced maternal age effect in the species. Similarities also exist with regards to the sex-specific genomic distribution of non-crossover events, though the minimal conversion tract lengths of extended events was observed to be considerably longer in maternally-inherited non-crossovers. Taken together, these similarities and differences in the recombination landscape relative to other primates highlight the importance of incorporating species-specific rates and patterns in evolutionary models, and the resources provided here will thus serve to aid future studies in this important primate model system.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ Designing AAV Capsid Protein with viability-guided Diffusion Model</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1</id>
+    <updated>2026-01-12T00:00:00Z</updated>
+    <summary>Adeno-associated virus (AAV) capsids have shown great promise as delivery vectors for gene therapy. However, the natural properties of AAV capsids impose significant limitations on their efficacy. Whi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, DNA</p>
+<p><strong>AI Decision:</strong> Presents a viability-guided diffusion model to generate de novo AAV capsid protein sequences for improved gene-therapy vectors, with limited relevance to origins-of-life aside from incidental mentions of DNA and directed evolution.</p>
+<p><strong>Abstract:</strong> Adeno-associated virus (AAV) capsids have shown great promise as delivery vectors for gene therapy. However, the natural properties of AAV capsids impose significant limitations on their efficacy. While capsid library screening and directed evolution have facilitated the development of improved vectors, current methods for generating AAV libraries frequently yield nonviable variants that fail to assemble or package DNA. Here, we propose a viability-guided diffusion model AAVDiffusion for de novo viable AAV capsid design. AAVDiffusion iteratively denoises Gaussian vectors into vectors of AAV capsid protein sequences, yielding intermediate latent variables. By leveraging the continuous nature of these latent variables, AAVDiffusion integrates an additional viability classifier that applies gradient updates to enhance the generation of viable AAV sequences. Through extensive computational tests, AAVDiffusion exhibits superior performance in generating viable AAV sequences. Furthermore, 196 AAV candidates were identified through a selection workflow, with the potential to cross the blood-brain barrier, thereby offering safer and more effective gene therapies for brain diseases. AAVDiffusion offers a powerful and efficient computational method for designing viable AAV capsids, advancing the development of AAV vectors for gene therapy.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] Phys. Rev. Lett. ▶ Double-Bracket Quantum Algorithms for Quantum Imaginary-Time Evolution</title>
+    <link href="http://link.aps.org/doi/10.1103/rw81-k8vk"/>
+    <id>http://link.aps.org/doi/10.1103/rw81-k8vk</id>
+    <updated>2026-01-12T10:00:00Z</updated>
+    <summary>Author(s): Marek Gluza, Jeongrak Son, Bi Hong Tiang, René Zander, Raphael Seidel, Yudai Suzuki, Zoë Holmes, and Nelly H. Y. Ng Efficiently preparing approximate ground states of large, strongly correl</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Quantum computing method for preparing ground states via imaginary-time evolution, potentially useful for future chemical simulations but not directly related to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><strong>Abstract:</strong> Author(s): Marek Gluza, Jeongrak Son, Bi Hong Tiang, René Zander, Raphael Seidel, Yudai Suzuki, Zoë Holmes, and Nelly H. Y. Ng Efficiently preparing approximate ground states of large, strongly correlated systems on quantum hardware is challenging, and yet, nature is innately adept at this. This has motivated the study of thermodynamically inspired approaches to ground-state preparation that aim to replicate cooling process… [Phys. Rev. Lett. 136, 020601] Published Mon Jan 12, 2026</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://link.aps.org/doi/10.1103/rw81-k8vk">http://link.aps.org/doi/10.1103/rw81-k8vk</a></li>
+</ul>
+<p><a href="http://link.aps.org/doi/10.1103/rw81-k8vk">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Nature Communications ▶ Cross-species dissection of saline-related genes by genetically deciphering a euryhaline microalga Chlorella sp</title>
+    <link href="https://www.nature.com/articles/s41467-026-68287-6"/>
+    <id>https://www.nature.com/articles/s41467-026-68287-6</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 13 January 2026; doi:10.1038/s41467-026-68287-6 Life’s transition between saltwater and freshwater environments requires major genetic innovations. This study </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Using a genetically tractable euryhaline Chlorella strain, this Nature Communications study identifies genes enabling transitions between saltwater and freshwater—informing environmental constraints on early life but not directly addressing abiogenesis mechanisms.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 13 January 2026; doi:10.1038/s41467-026-68287-6 Life’s transition between saltwater and freshwater environments requires major genetic innovations. This study reveals the key genes for salinity adaptation in Chlorella sp. MEM25, an early saltwater alga.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68287-6">https://www.nature.com/articles/s41467-026-68287-6</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68287-6">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [60] bioRxiv Subject Collection: Evolutionary Biology ▶ Estimate of the mutation rate in the endangered Devils Hole pupfish provides support for the drift-barrier hypothesis at an outlying extreme</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1"/>
@@ -5490,17 +5672,5 @@
 <li><a href="https://arxiv.org/abs/2512.11459">https://arxiv.org/abs/2512.11459</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2512.11459">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ So … I asked A.I. to write a song about searching for life in the universe</title>
-    <link href="https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html"/>
-    <id>https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html</id>
-    <updated>2026-01-06T03:06:39Z</updated>
-    <summary>Keith’s note: I tried an experiment tonight. I simply asked Grok to “write a song with 5 verses and a chorus about searching for life in the universe”. I got an answer back in 30 seconds. I then went </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> A non-technical astrobiology.com blog post about using generative AI tools to create a song themed around searching for life in the universe, with no research content or academic references.</p>
-<p><strong>Abstract:</strong> Keith’s note: I tried an experiment tonight. I simply asked Grok to “write a song with 5 verses and a chorus about searching for life in the universe”. I got an answer back in 30 seconds. I then went to Suno and asked it to create music – I let it pick the preferences. It […] The post So … I asked A.I. to write a song about searching for life in the universe appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/so-i-asked-a-i-to-write-a-song-about-searching-for-life-in-the-universe.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
