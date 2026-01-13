@@ -1,5 +1,23 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Native Charge Detection Mass Spectrometry of Kilobase-Scale ](https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Vertical Solar Panels—Wind-Resistant Trackers for High Latit](https://www.scientificamerican.com/article/vertical-solar-panels-wind-resistant-trackers-for-high-latitudes-vaja/) |
+| keyword_rejected | - | [70 Percent of Cancer Patients Now Survive at Least Five Year](https://www.scientificamerican.com/article/70-percent-of-cancer-patients-now-survive-at-least-five-years-study-finds/) |
+| keyword_rejected | - | [AI can spark creativity — if we ask it how, not what, to thi](https://www.nature.com/articles/d41586-026-00049-2) |
+| keyword_rejected | - | [Alzheimer, Parkinson, cancer... l'IA annonce l'ère de l'auto](https://www.sciencesetavenir.fr/sante/alzheimer-parkinson-cancer-l-ia-annonce-l-ere-de-l-auto-depistage_190388?xtor=RSS-16) |
+| keyword_rejected | - | [Between-species variation in neocortical sulcal anatomy of t](https://elifesciences.org/articles/100851) |
+| keyword_rejected | - | [Establishing synthetic ribbon-type active zones in a heterol](https://elifesciences.org/articles/98254) |
+| keyword_rejected | - | [Author Correction: Droplet surface spontaneous oxidation as ](https://www.nature.com/articles/s41467-026-68380-w) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113083835&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Establishing the Photoenzyme CvFAP as Platform for New-to-Na](https://dx.doi.org/10.26434/chemrxiv-2026-fr63z?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Scaling Azapeptide with N-Fmoc-Aza-tripeptide from Resonant ](https://dx.doi.org/10.26434/chemrxiv-2026-twvgv?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Polypharmacology Browser PPB3: A Web-based Deep Learning Too](https://dx.doi.org/10.26434/chemrxiv-2025-rlgq5-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Electrical sensitization of magnetic nanoplatelets with surf](https://dx.doi.org/10.26434/chemrxiv-2026-mf0tj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Establishing the Photoenzyme CvFAP as Platform for New-to-Na](https://dx.doi.org/10.26434/chemrxiv-2026-fr63z?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Improved Molecular Conductance Predictions using Wavefunctio](https://dx.doi.org/10.26434/chemrxiv-2025-r4vfs-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Speciation, Structural Refinement, and Distribution of Ti Si](https://dx.doi.org/10.26434/chemrxiv-2025-c765h-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Scaling Azapeptide with N-Fmoc-Aza-tripeptide from Resonant ](https://dx.doi.org/10.26434/chemrxiv-2026-twvgv?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Navigating high-dimensional fabrication-parameter space in o](https://dx.doi.org/10.26434/chemrxiv-2025-bhjz6-v2?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Genomic and phenotypic diversification of Pseudomonas aerugi](https://www.biorxiv.org/content/10.64898/2026.01.13.699197v1?rss=1) |
 | ai_scored | 20 | [Evolutionary Divergence of mTOR-mediated Transcriptional Reg](https://www.biorxiv.org/content/10.64898/2026.01.12.699128v1?rss=1) |
 | ai_scored | 10 | [Earliest perissodactyls reveal large-scale dispersals during](https://www.pnas.org/doi/abs/10.1073/pnas.2519690122?af=R) |

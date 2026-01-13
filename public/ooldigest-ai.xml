@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T12:39:15.100241+00:00</updated>
+  <updated>2026-01-13T13:39:08.058042+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Native Charge Detection Mass Spectrometry of Kilobase-Scale Messenger RNAs</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct-v2?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct-v2?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for lar</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Develops native charge-detection mass spectrometry to directly measure intact kilobase-scale mRNA masses, charge states, and impurity populations—an advanced RNA analytical tool with indirect relevance to origins-of-life nucleic acid studies.</p>
+<p><strong>Abstract:</strong> Charge detection mass spectrometry (CDMS) enables direct measurement of mass and charge for individual ions and overcomes fundamental limitations of conventional electrospray mass spectrometry for large, heterogeneous biomolecules. Messenger RNAs (mRNAs) represent a particularly challenging analytical target, as transcripts often span thousands of nucleotides, exhibit substantial heterogeneity, and form higher-order oligomers that are difficult to assess using existing workflows. Here, we optimize and evaluate native CDMS for intact analysis of long mRNAs and conduct systematic comparison of positive and negative analysis polarities. Using a panel of commercially available mRNAs ranging from approximately 1,000 to 4,500 nucleotides, we demonstrate that native CDMS enables direct, and accurate mass measurement of intact mRNAs alongside various process-related impurities (truncations, dimers etc.). Collisional activation improves mass accuracy by reducing adduct heterogeneity while preserving the ability to resolve impurity populations. Across all constructs, CDMS provides quantitative access to charge distributions that scale with transcript length and respond predictably to activation, denaturation, and polarity, offering insight into ion charging behavior and charge accommodation for large RNAs. Negative polarity measurements generally access higher charge states than positive polarity, particularly for the largest transcripts, improving sensitivity and relative size discrimination, while intact mass accuracy remains comparable between polarities when appropriate ion transmission strategies are employed. Together, these results establish native CDMS as a versatile and information-rich platform for intact mRNA characterization, providing simultaneous access to mass, charge, and impurity information that complements existing analytical methods and supports emerging needs in RNA biotherapeutic development.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct-v2?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] Nature Communications ▶ Predicting age of respiratory syncytial virus infection from birth timing</title>
     <link href="https://www.nature.com/articles/s41467-025-67947-3"/>
@@ -5930,65 +5944,6 @@
 <p><a href="https://phys.org/news/2026-01-jupiter-moon-europa-lacks-undersea.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Deep Learning For Microbial Life Detection In Deep Subseafloor Samples: Objective Cell Recognition</title>
-    <link href="https://astrobiology.com/2026/01/deep-learning-for-microbial-life-detection-in-deep-subseafloor-samples-objective-cell-recognition.html"/>
-    <id>https://astrobiology.com/2026/01/deep-learning-for-microbial-life-detection-in-deep-subseafloor-samples-objective-cell-recognition.html</id>
-    <updated>2026-01-06T12:46:00Z</updated>
-    <summary>Microscopic detection and enumeration of microbial biomass provide essential primary information about the biosphere. Unlike aquatic samples, the application of specific microbial detection methods, s</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, astrobio*</p>
-<p><strong>AI Decision:</strong> Introduces a deep-learning approach to objectively recognize and count microbial cells in particle-rich deep subseafloor sediments, improving life-detection sensitivity in challenging samples relevant to astrobiological biosignature searches.</p>
-<p><strong>Abstract:</strong> Microscopic detection and enumeration of microbial biomass provide essential primary information about the biosphere. Unlike aquatic samples, the application of specific microbial detection methods, such as fluorescence staining, to particle-rich samples such as marine sediments has been challenging because of the abundance of non-cellular particles. Even with recently developed fluorescence-based techniques for distinguishing microbial cells […] The post Deep Learning For Microbial Life Detection In Deep Subseafloor Samples: Objective Cell Recognition appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12753647/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12753647/</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/deep-learning-for-microbial-life-detection-in-deep-subseafloor-samples-objective-cell-recognition.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ One-dimensional And Time-dependent Modelling Of Complex Organic Molecules In Protostars</title>
-    <link href="https://astrobiology.com/2026/01/one-dimensional-and-time-dependent-modelling-of-complex-organic-molecules-in-protostars.html"/>
-    <id>https://astrobiology.com/2026/01/one-dimensional-and-time-dependent-modelling-of-complex-organic-molecules-in-protostars.html</id>
-    <updated>2026-01-06T12:56:00Z</updated>
-    <summary>Complex organic molecules (COMs), the building blocks of life, have been extensively detected under various physical conditions, from quiescent clouds to star-forming regions. They therefore serve as </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry, astrobio*</p>
-<p><strong>AI Decision:</strong> This study uses 1D time-dependent astrochemical modelling to track the formation and destruction of complex organic molecules in protostars, informing how prebiotic building blocks may be synthesized and processed in star-forming environments.</p>
-<p><strong>Abstract:</strong> Complex organic molecules (COMs), the building blocks of life, have been extensively detected under various physical conditions, from quiescent clouds to star-forming regions. They therefore serve as excellent tracers for the local physical and chemical properties of these environments. Proper models that are capable of grasping the formation and destruction of COMs are crucial to […] The post One-dimensional And Time-dependent Modelling Of Complex Organic Molecules In Protostars appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.00731">https://doi.org/10.48550/arXiv.2601.00731</a></li>
-<li><a href="https://arxiv.org/abs/2601.00731">https://arxiv.org/abs/2601.00731</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/one-dimensional-and-time-dependent-modelling-of-complex-organic-molecules-in-protostars.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Halotolerant Bacteria From Mangrove And Restinga Ecosystems In Camocim, Brazil: Astrobiological Relevance And Biotechnological Potential</title>
-    <link href="https://astrobiology.com/2026/01/halotolerant-bacteria-from-mangrove-and-restinga-ecosystems-in-camocim-brazil-astrobiological-relevance-and-biotechnological-potential.html"/>
-    <id>https://astrobiology.com/2026/01/halotolerant-bacteria-from-mangrove-and-restinga-ecosystems-in-camocim-brazil-astrobiological-relevance-and-biotechnological-potential.html</id>
-    <updated>2026-01-06T13:08:00Z</updated>
-    <summary>Halotolerant bacteria possess significant scientific and biotechnological potential due to their ability to thrive in high-salinity environments and withstand other harsh conditions. Their adaptive me</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars, astrobio*</p>
-<p><strong>AI Decision:</strong> This study isolates and characterizes halotolerant bacteria from Brazilian mangrove/restinga ecosystems, highlighting extremophile adaptations with astrobiological relevance as analogs for saline habitability and potential biosignature-related metabolisms, though it is not a direct origins-of-life mechanistic paper.</p>
-<p><strong>Abstract:</strong> Halotolerant bacteria possess significant scientific and biotechnological potential due to their ability to thrive in high-salinity environments and withstand other harsh conditions. Their adaptive mechanisms-such as the production of specialized enzymes, and biosurfactants-enable applications in bioremediation, saline wastewater treatment, and industries like food, medicine, and detergents. Notably, these bacteria can tolerate not only NaCl but […] The post Halotolerant Bacteria From Mangrove And Restinga Ecosystems In Camocim, Brazil: Astrobiological Relevance And Biotechnological Potential appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1007/s42770-025-01850-3">https://doi.org/10.1007/s42770-025-01850-3</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s42770-025-01850-3">https://link.springer.com/article/10.1007/s42770-025-01850-3</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/halotolerant-bacteria-from-mangrove-and-restinga-ecosystems-in-camocim-brazil-astrobiological-relevance-and-biotechnological-potential.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Astrobiology (astrobiology.com) ▶ When Light Teaches Materials To Self-organize: Writing Nature-like 3D Nanowrinkles</title>
-    <link href="https://astrobiology.com/2026/01/when-light-teaches-materials-to-self-organize-writing-nature-like-3d-nanowrinkles.html"/>
-    <id>https://astrobiology.com/2026/01/when-light-teaches-materials-to-self-organize-writing-nature-like-3d-nanowrinkles.html</id>
-    <updated>2026-01-06T12:43:00Z</updated>
-    <summary>Wrinkles are everywhere in nature. They shape the surface of leaves, insect wings, and even the tiny finger-like structures that line the human intestine. These patterns are not just decorative. They </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> Describes light-driven self-organization to write nature-like 3D nanowrinkle textures in materials, offering broad conceptual relevance to self-organizing pattern formation but not directly addressing prebiotic chemistry or origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Wrinkles are everywhere in nature. They shape the surface of leaves, insect wings, and even the tiny finger-like structures that line the human intestine. These patterns are not just decorative. They control how surfaces interact with light, liquids, and living cells. However, reproducing such intricate textures in the lab, especially in three dimensions and at […] The post When Light Teaches Materials To Self-organize: Writing Nature-like 3D Nanowrinkles appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://iopscience.iop.org/article/10.1088/2631-7990/ae1eb7">https://iopscience.iop.org/article/10.1088/2631-7990/ae1eb7</a></li>
-<li><a href="https://doi.org/10.1088/2631-7990/ae1eb7">https://doi.org/10.1088/2631-7990/ae1eb7</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/when-light-teaches-materials-to-self-organize-writing-nature-like-3d-nanowrinkles.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Molecular Hydrogen Controls The Temperatures Of Flares On TRAPPIST-1</title>
     <link href="https://astrobiology.com/2026/01/molecular-hydrogen-controls-the-temperatures-of-flares-on-trappist-1.html"/>
     <id>https://astrobiology.com/2026/01/molecular-hydrogen-controls-the-temperatures-of-flares-on-trappist-1.html</id>
@@ -6062,20 +6017,5 @@
 <p><strong>Abstract:</strong> Two new studies into lizard colors reveal how one species maintains its colorful diversity while others are losing their ancient colors. And the changes are being driven by the biological equivalent of rock-paper-scissors.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-biological-version-paper-scissors-lizard.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Biosystems ▶ From Darwin to teleonomy: A categorical final–cause calculus for evolution</title>
-    <link href="https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all"/>
-    <id>https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all</id>
-    <updated>2026-01-06T13:00:00Z</updated>
-    <summary>Publication date: Available online 5 January 2026 Source: BioSystems Author(s): Andrei T. Patrascu</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> A theoretical/categorical framework linking Darwinian evolution to teleonomy (final-cause reasoning), relevant as broad evolutionary context but not directly addressing origins-of-life mechanisms or astrobiology.</p>
-<p><em>Abstract not available in RSS feed.</em></p>
-<p><strong>Metadata:</strong> Publication date: Available online 5 January 2026 Source: BioSystems Author(s): Andrei T. Patrascu</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all">https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all</a></li>
-</ul>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264725002977?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
 </feed>
