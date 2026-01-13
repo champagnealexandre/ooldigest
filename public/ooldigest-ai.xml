@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T20:20:54.499261+00:00</updated>
+  <updated>2026-01-13T21:17:48.619597+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Longevity Bench: Are SotA LLMs ready for aging research?</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698650v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698650v1?rss=1</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>Aging is a core biological process observed in most species and tissues, which is studied with a vast array of technologies. We argue that the abilities of AI systems to emulate aging and to accuratel</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Introduces LongevityBench to evaluate whether state-of-the-art LLMs can reason over aging biology and diverse biodata (including DNA methylation and omics) to predict lifespan-related phenotypes, but it is not directly relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Aging is a core biological process observed in most species and tissues, which is studied with a vast array of technologies. We argue that the abilities of AI systems to emulate aging and to accurately interpret biodata in its context are the key criteria to judge an LLM&#x27;s utility in biomedical research. Here, we present LongevityBench -- a collection of tasks designed to assess whether LLMs grasp the fundamental principles of aging biology and can use low-level biodata to arrive at phenotype-level conclusions. The benchmark covers a variety of prediction targets including human time-to-death, mutations&#x27; effect on lifespan, and age-dependent expression patterns. It spans all common biodata types used in longevity research: transcriptomes, DNA methylation profiles, proteomes, genomes, clinical blood tests and biometrics, as well as natural language annotations. After ranking state-of-the-art LLMs using LongevityBench, we highlight their weaknesses and outline procedures to maximize their utility in aging research.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698650v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698650v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698650v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] PLOS Computational Biology ▶ Novel artificial selection method improves function of simulated microbial communities</title>
     <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863"/>
@@ -6201,17 +6215,5 @@
 <li><a href="https://www.nature.com/articles/s41467-025-68239-6">https://www.nature.com/articles/s41467-025-68239-6</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41467-025-68239-6">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] phys.org - Space News ▶ New census of sun&#x27;s neighbors reveals best potential real estate for life</title>
-    <link href="https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html"/>
-    <id>https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html</id>
-    <updated>2026-01-06T20:27:10Z</updated>
-    <summary>A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> A nearby-star census meant to identify promising targets for future searches for Earth-like planets and potential habitability, but it does not directly advance origins-of-life mechanisms or biosignature/atmospheric characterization.</p>
-<p><strong>Abstract:</strong> A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebastián Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, Ariz.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-census-sun-neighbors-reveals-potential.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

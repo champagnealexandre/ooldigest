@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Longevity Bench: Are SotA LLMs ready for aging research?](https://www.biorxiv.org/content/10.64898/2026.01.12.698650v1?rss=1) |
+| keyword_rejected | - | [The hunt for where the last Neanderthals lived](https://www.newscientist.com/article/2511153-the-hunt-for-where-the-last-neanderthals-lived/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The hunt for where the last Neanderthals lived](https://www.newscientist.com/article/2511153-the-hunt-for-where-the-last-neanderthals-lived/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The hunt for where the last Neanderthals lived](https://www.newscientist.com/article/2511153-the-hunt-for-where-the-last-neanderthals-lived/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113161736&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Cyclic parthenogenesis helps populations cross fitness valle](https://www.biorxiv.org/content/10.64898/2026.01.12.699030v1?rss=1) |
+| keyword_rejected | - | [Single-Cell Multi-Omics Insights into BMI-Mediated Immune-Re](https://www.biorxiv.org/content/10.64898/2026.01.12.698924v1?rss=1) |
+| keyword_rejected | - | [DPI-score: A deep learning-based metric for assessing protei](https://www.biorxiv.org/content/10.64898/2026.01.12.699015v1?rss=1) |
 | ai_scored | 50 | [Novel artificial selection method improves function of simul](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013863) |
 | keyword_rejected | - | [Supermassive Black Hole Sagittarius A* May Have Once Shone 1](https://www.scientificamerican.com/article/supermassive-black-hole-sagittarius-a-may-have-once-shone-10-000-times/) |
 | keyword_rejected | - | [Do their ears hang low? The genetics of dogs’ adorable flopp](https://www.nature.com/articles/d41586-026-00071-4) |
