@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113112638&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Après les inondations, l'Albanie croule sous le plastique](https://www.sciencesetavenir.fr/nature-environnement/apres-les-inondations-l-albanie-croule-sous-le-plastique_190390?xtor=RSS-15) |
+| keyword_rejected | - | [Cheveux roux : un pigment au rôle insoupçonné](https://www.sciencesetavenir.fr/sante/dermato/cheveux-roux-un-pigment-au-role-insoupconne_190387?xtor=RSS-16) |
+| keyword_rejected | - | [Massive impact could be the cause of our lopsided moon](https://phys.org/news/2026-01-massive-impact-lopsided-moon.html) |
+| keyword_rejected | - | [On-device cryogenic quenching enables robust amorphous tellu](https://www.nature.com/articles/s41467-025-68223-0) |
+| keyword_rejected | - | [A global assessment of coastal vulnerability and dominant co](https://www.nature.com/articles/s41467-025-67275-6) |
+| keyword_rejected | - | [First evidence supporting the theory of the sensorimotor par](https://www.sciencedirect.com/science/article/pii/S0303264726000018?dgcid=rss_sd_all) |
 | ai_scored | 45 | [Finding a role for non-coding DNA in trypanosomes](https://elifesciences.org/articles/110271) |
 | ai_scored | 60 | [A quarter-century in orbit: Science shaping life on Earth an](https://phys.org/news/2026-01-quarter-century-orbit-science-life.html) |
 | ai_scored | 0 | [Webb delivers unprecedented look into heart of Circinus gala](https://phys.org/news/2026-01-webb-unprecedented-heart-circinus-galaxy.html) |
