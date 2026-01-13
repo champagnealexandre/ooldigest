@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113032553&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [En France, la réduction des émissions de gaz à effet de serr](https://www.sciencesetavenir.fr/nature-environnement/en-france-la-reduction-des-emissions-de-gaz-a-effet-de-serre-patine_190379?xtor=RSS-15) |
+| keyword_rejected | - | [Hypertension and other comorbidities associated with increas](https://www.nature.com/articles/s41598-025-34518-x) |
+| keyword_rejected | - | [Bacterial growth in poly(vinyl alcohol) hydrogel with nutrie](https://www.nature.com/articles/s41598-026-35916-5) |
+| keyword_rejected | - | [Interphase electron redistribution induced by confined trans](https://www.nature.com/articles/s41467-026-68352-0) |
+| keyword_rejected | - | [Hypothalamic deiodinase type-3 establishes the period of cir](https://elifesciences.org/articles/106383) |
+| keyword_rejected | - | [Brain-derived estrogens facilitate male-typical behaviors by](https://elifesciences.org/articles/97106) |
+| keyword_rejected | - | [Separation and preconcentration of biomolecules using ion co](https://dx.doi.org/10.26434/chemrxiv-2026-35zjl?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [AIQM-PBSA: Integrating Machine Learning Interatomic
+Potentia](https://dx.doi.org/10.26434/chemrxiv-2026-h0kn1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Bias Deletion Metadynamics Revealing Volume-Rotation Couplin](https://dx.doi.org/10.26434/chemrxiv-2025-nzfrb-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Design, Synthesis, and Development of 4-[2-[3,5-Bis(trifluor](https://dx.doi.org/10.26434/chemrxiv-2026-95klp?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Design, Synthesis, and Development of 4-[2-[3,5-Bis(trifluor](https://dx.doi.org/10.26434/chemrxiv-2026-95klp?rft_dat=source%3Ddrss) |
 | ai_scored | 20 | [The Role of Na2CO3 in the Selective Flotation of Ca-activate](https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Une bactérie modifiée synthétise le pigment du camouflage de](https://www.pourlascience.fr/sd/biochimie/une-bacterie-modifiee-synthetise-le-pigment-du-camouflage-des-pieuvres-28519.php) |
 | keyword_rejected | - | [Les réseaux sociaux nuisent gravement à la santé des ados, a](https://www.sciencesetavenir.fr/sante/les-reseaux-sociaux-nuisent-gravement-a-la-sante-des-ados-alerte-l-anses_190378?xtor=RSS-16) |
