@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113061729&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Une fusion imminente de trois galaxies abritant chacune un t](https://www.sciencesetavenir.fr/espace/univers/decouverte-d-une-fusion-imminente-de-trois-galaxies-abritant-chacune-un-trou-noir-supermassif_190342?xtor=RSS-9) |
+| keyword_rejected | - | [Daily briefing: The neural circuit that can make it hard to ](https://www.nature.com/articles/d41586-026-00142-6) |
+| keyword_rejected | - | [AlphaFold can help African researchers to do cutting-edge st](https://www.nature.com/articles/d41586-026-00072-3) |
+| keyword_rejected | - | [AI writing tools could lead scholars from low-income countri](https://www.nature.com/articles/d41586-026-00121-x) |
+| keyword_rejected | - | [Don’t assume that women’s low retraction rates reflect male ](https://www.nature.com/articles/d41586-026-00120-y) |
+| keyword_rejected | - | [No world-changing discoveries without biodiversity](https://www.nature.com/articles/d41586-026-00122-w) |
+| keyword_rejected | - | [Maximal device-independent randomness in every dimension](https://www.nature.com/articles/s41567-025-03141-y) |
+| keyword_rejected | - | [Comparative evaluation of ultrasound-assisted extraction and](https://www.nature.com/articles/s41598-025-33115-2) |
+| keyword_rejected | - | [A distributionally robust bilevel optimization model for who](https://www.nature.com/articles/s41598-025-29971-7) |
+| keyword_rejected | - | [Reductive iminium-ion catalysis: electrochemical β-arylation](https://dx.doi.org/10.26434/chemrxiv-2026-4qftj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Potassium Hydrogen Sulfate - Promoted One-pot Synthesis of B](https://dx.doi.org/10.26434/chemrxiv-2025-4k8v6-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Reductive iminium-ion catalysis: electrochemical β-arylation](https://dx.doi.org/10.26434/chemrxiv-2026-4qftj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Can simple exchange heuristics guide us in predicting magnet](https://dx.doi.org/10.26434/chemrxiv-2025-xj84d-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Potassium Hydrogen Sulfate - Promoted One-pot Synthesis of B](https://dx.doi.org/10.26434/chemrxiv-2025-4k8v6-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Mechanism Governing the Formation of Atomically Precise Dith](https://dx.doi.org/10.26434/chemrxiv-2026-w3jh4?rft_dat=source%3Ddrss) |
 | ai_scored | 5 | [Nonsense-mediated decay controls a negative feedback loop in](https://www.pnas.org/doi/abs/10.1073/pnas.2517478123?af=R) |
 | ai_scored | 40 | [Origin of class B J-domain proteins involved in amyloid tran](https://www.pnas.org/doi/abs/10.1073/pnas.2522403123?af=R) |
 | ai_scored | 45 | [Domestication drives repeated evolution of sexual–asexual li](https://www.pnas.org/doi/abs/10.1073/pnas.2526682123?af=R) |
