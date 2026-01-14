@@ -1,5 +1,33 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Long-range PCR amplification and nanopore sequencing of 8-10](https://www.biorxiv.org/content/10.64898/2026.01.13.699327v1?rss=1) |
+| ai_scored | 30 | [Geographical gradients in leaky sex expression and reproduct](https://www.biorxiv.org/content/10.64898/2026.01.13.699234v1?rss=1) |
+| ai_scored | 15 | [The RNA-binding protein HuR modulates the expression of the ](https://elifesciences.org/articles/93108) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114112535&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Does String Theory Solve the Mystery of the Brain?](https://www.scientificamerican.com/article/does-string-theory-solve-the-mystery-of-the-brain/) |
+| keyword_rejected | - | [NASA Commits to Plan to Build a Nuclear Reactor on the Moon ](https://www.scientificamerican.com/article/nasa-commits-to-plan-to-build-a-nuclear-reactor-on-the-moon-by-2030/) |
+| keyword_rejected | - | [China has applied to launch 200,000 satellites, but what are](https://www.newscientist.com/article/2511484-china-has-applied-to-launch-200000-satellites-but-what-are-they-for/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [China has applied to launch 200,000 satellites, but what are](https://www.newscientist.com/article/2511484-china-has-applied-to-launch-200000-satellites-but-what-are-they-for/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [China has applied to launch 200,000 satellites, but what are](https://www.newscientist.com/article/2511484-china-has-applied-to-launch-200000-satellites-but-what-are-they-for/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Que sont ces "petits points rouges" qui parsèment les premiè](https://www.sciencesetavenir.fr/espace/que-sont-ces-petits-points-rouges-qui-parsement-les-premieres-galaxies-de-l-univers_190374?xtor=RSS-9) |
+| keyword_rejected | - | [Do even low-mass dwarf galaxies merge? New clues from the ou](https://phys.org/news/2026-01-mass-dwarf-galaxies-merge-clues.html) |
+| keyword_rejected | - | [Author Correction: Factor XII signaling via uPAR-integrin β1](https://www.nature.com/articles/s41467-026-68442-z) |
+| keyword_rejected | - | [Variations in the Natural History of High-Risk HPV Types Fol](https://www.nature.com/articles/s41467-026-68379-3) |
+| keyword_rejected | - | [Analysis Camellia sinensis var. sinensis cv. Fuding Dabaicha](https://www.nature.com/articles/s41467-026-68463-8) |
+| keyword_rejected | - | [Insights into the operational stability of wide-bandgap pero](https://www.nature.com/articles/s41467-025-68219-w) |
+| keyword_rejected | - | [Author Correction: Revisiting the soil carbon saturation con](https://www.nature.com/articles/s41467-026-68444-x) |
+| keyword_rejected | - | [Host-shift adaptation shapes genome architecture in S. eubay](https://www.biorxiv.org/content/10.64898/2026.01.12.698964v1?rss=1) |
+| keyword_rejected | - | [The highly heterozygous European amphioxus (Branchiostoma la](https://www.biorxiv.org/content/10.64898/2026.01.13.699254v1?rss=1) |
+| keyword_rejected | - | [A micropeptide component of the OGDH complex modulates ATP p](https://www.biorxiv.org/content/10.64898/2026.01.12.699137v1?rss=1) |
+| keyword_rejected | - | [Distinct signaling mechanisms and proteome phenotypes are el](https://www.biorxiv.org/content/10.64898/2026.01.13.699066v1?rss=1) |
+| keyword_rejected | - | [The microtubule GTP-tubulin cap size is modulated during cel](https://www.biorxiv.org/content/10.64898/2026.01.13.699367v1?rss=1) |
+| keyword_rejected | - | [Validation of optical coherence tomography as a tool to iden](https://www.biorxiv.org/content/10.64898/2026.01.13.698626v1?rss=1) |
+| keyword_rejected | - | [A new single chain, genetically encoded biosensor for RhoB G](https://www.biorxiv.org/content/10.64898/2026.01.13.699355v1?rss=1) |
+| keyword_rejected | - | [A PKD-caveolin axis drives secretory carrier biogenesis at t](https://www.biorxiv.org/content/10.64898/2026.01.13.699385v1?rss=1) |
+| keyword_rejected | - | [Decreased tRNA abundance contributes to decreased translatio](https://www.biorxiv.org/content/10.64898/2026.01.13.699274v1?rss=1) |
+| keyword_rejected | - | [Enhancing Predictive Accuracy in Immunotherapy Models throug](https://www.biorxiv.org/content/10.64898/2026.01.12.699041v1?rss=1) |
+| keyword_rejected | - | [A dynamic displacement mechanism drives protein import into ](https://www.biorxiv.org/content/10.64898/2026.01.14.699430v1?rss=1) |
+| keyword_rejected | - | [An Aggregation Prone Region (APR) in talin controls talin se](https://www.biorxiv.org/content/10.64898/2026.01.13.699108v1?rss=1) |
 | ai_scored | 35 | [“Water-in-Swelling-Clay” Electrolytes Stabilizing Prussian B](https://dx.doi.org/10.26434/chemrxiv-2026-lcz2m?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Antigravity confined interfacial self-assembly approach for ](https://www.nature.com/articles/s41467-026-68447-8) |
 | ai_scored | 5 | ['PePApipe': a complete bioinformatics analysis pipeline for ](https://www.biorxiv.org/content/10.64898/2026.01.12.698977v1?rss=1) |

@@ -3,8 +3,59 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T15:22:22.382408+00:00</updated>
+  <updated>2026-01-14T16:26:07.657846+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] eLife - recent issues ▶ The RNA-binding protein HuR modulates the expression of the disease-linked CCL2 rs1024611G-rs13900T haplotype</title>
+    <link href="https://elifesciences.org/articles/93108"/>
+    <id>https://elifesciences.org/articles/93108</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>CC-chemokine ligand 2 (CCL2) is involved in the pathogenesis of several diseases associated with monocyte/macrophage recruitment, such as HIV-associated neurocognitive disorder (HAND), tuberculosis, a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This molecular genetics study shows that the human RNA-binding protein HuR preferentially binds a CCL2 3′UTR variant (rs13900T), increasing mRNA stability and translation and thereby modulating disease-linked CCL2 expression, with little direct relevance to origins-of-life questions beyond general RNA regulation.</p>
+<p><strong>Abstract:</strong> CC-chemokine ligand 2 (CCL2) is involved in the pathogenesis of several diseases associated with monocyte/macrophage recruitment, such as HIV-associated neurocognitive disorder (HAND), tuberculosis, and atherosclerosis. The rs1024611 (alleles: A&gt;G; G is the risk allele) polymorphism in the CCL2 cis -regulatory region is associated with increased CCL2 expression in vitro and ex vivo, leukocyte mobilization in vivo, and deleterious disease outcomes. However, the molecular basis for the rs1024611-associated differential CCL2 expression remains poorly characterized. It is conceivable that genetic variant(s) in linkage disequilibrium (LD) with rs1024611 could mediate such effects. Previously, we used rs13900 (alleles: C&gt;T) in the CCL2 3′untranslated region (3′ UTR) that is in perfect LD with rs1024611 to demonstrate allelic expression imbalance (AEI) of CCL2 in heterozygous individuals. Here, we tested the hypothesis that the rs13900 could modulate CCL2 expression by altering mRNA turnover and/or translatability. The rs13900 T allele conferred greater stability to the CCL2 transcript when compared to the rs13900 C allele. The rs13900 T allele also had increased binding to Human Antigen R (HuR), an RNA-binding protein, in vitro and ex vivo. The rs13900 alleles imparted differential activity to reporter vectors and influenced the translatability of the reporter transcript. We further demonstrated the role of HuR in mediating allele-specific effects on CCL2 expression in overexpression and silencing studies. Our studies suggest that the differential interactions of HuR with rs13900 could modulate CCL2 expression and could in part explain the interindividual differences in CCL2-mediated disease susceptibility.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1056/NEJMra0905980">https://doi.org/10.1056/NEJMra0905980</a></li>
+<li><a href="https://doi.org/10.1038/s41576-019-0127-1">https://doi.org/10.1038/s41576-019-0127-1</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/20647212">https://www.ncbi.nlm.nih.gov/pubmed/20647212</a></li>
+<li><a href="https://doi.org/10.1186/s13058-023-01630-7">https://doi.org/10.1186/s13058-023-01630-7</a></li>
+<li><a href="https://doi.org/10.1152/japplphysiol.00361.2009">https://doi.org/10.1152/japplphysiol.00361.2009</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/19494323">https://www.ncbi.nlm.nih.gov/pubmed/19494323</a></li>
+<li><a href="https://doi.org/10.1073/pnas.1719138115">https://doi.org/10.1073/pnas.1719138115</a></li>
+<li><a href="https://doi.org/10.1016/j.molcel.2010.05.004">https://doi.org/10.1016/j.molcel.2010.05.004</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/32709985">https://www.ncbi.nlm.nih.gov/pubmed/32709985</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/16787927">https://www.ncbi.nlm.nih.gov/pubmed/16787927</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/93108">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Geographical gradients in leaky sex expression and reproductive effort in a dioecious plant are consistent with selection during range expansion</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699234v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699234v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Range expansion involves repeated dispersal events and the establishment of new populations through colonisation. Natural selection is therefore expected to favour traits that enhance dispersal and en</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
+<p><strong>AI Decision:</strong> Common-garden study shows range-edge populations of a dioecious plant evolve smaller seeds, higher reproductive effort, and increased leaky sex expression consistent with selection for dispersal and reproductive assurance during range expansion.</p>
+<p><strong>Abstract:</strong> Range expansion involves repeated dispersal events and the establishment of new populations through colonisation. Natural selection is therefore expected to favour traits that enhance dispersal and enable uniparental reproduction when mates are scarce. There is substantial evidence that range-edge populations evolve both increased dispersal ability and, in hermaphroditic species, an enhanced capacity for self-fertilisation. By contrast, the evolution of a greater capacity for uniparental production has not yet been demonstrated for dioecious plants. Here, we report results from a large common-garden experiment to assess the life history and sex expression of males and females of the dioecious annual herb Mercurialis annua sampled from across its European range. We found that plants from range-edge populations in central and western Europe not only tend to have smaller seeds and greater reproductive effort (RE) than populations from the eastern Mediterranean Basin, from where the species expanded its range, but also that males and females have an increased incidence of leaky sex expression (the production of flowers of the opposite sex). Small seeds and high RE are associated with dispersal, and the colonisation of new populations, and leaky sex expression allows otherwise unisexual individuals to produce progeny by self-fertilisation. Our results suggest that leaky sex expression in this species has been enhanced by selection for reproductive assurance, rather than representing a by-product of developmental instability during floral development or a relic of an incomplete transition to dioecy, as has been proposed for other dioecious species exhibiting leaky sex expression.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699234v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699234v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699234v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioinformatics - biorXiv Preprints ▶ Long-range PCR amplification and nanopore sequencing of 8-10 kb mitochondrial fragments from environmental DNA</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699327v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699327v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>1. Long-read sequencing data can provide increased taxonomic resolution and genomic linkage information that is otherwise impossible to obtain from short-read amplicon or shotgun sequencing. However, </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Demonstrates long-range PCR plus nanopore sequencing of ~8–10 kb mitochondrial eDNA fragments for fish species identification, offering a methodological advance in long-read metabarcoding rather than direct origins-of-life insight.</p>
+<p><strong>Abstract:</strong> 1. Long-read sequencing data can provide increased taxonomic resolution and genomic linkage information that is otherwise impossible to obtain from short-read amplicon or shotgun sequencing. However, the use of long-read sequencing for environmental DNA (eDNA) analysis has thus far been limited by both the apparent rarity of long DNA molecules in eDNA samples and the lack of established bioinformatics workflows for long-read metabarcoding, particularly from mixed template samples. 2. Here, we report nanopore sequencing of 8.0 - 9.5 kb mitochondrial fragments obtained from mesocosm and field eDNA samples, amplified with long-range PCR (LR-PCR) using primers designed to preferentially amplify teleost mitogenomes. 3. We recovered half-mitochondria from 13 fish species in field-collected samples (Puget Sound in Washington State, USA), as well as from approximately half of the fish species inhabiting the positive control mesocosm (the Seattle Aquarium). Among biological replicates, we observed consistent detection of read-abundant species, while there was greater stochasticity in the presence of rarer species. 4. We demonstrate that long fragments can be obtained from standard eDNA samples and successfully amplified and sequenced to obtain species identifications despite higher error rates characteristic of nanopore sequencing. We present both laboratory methods and an accessible bioinformatic pipeline for obtaining and analyzing LR-PCR amplified fragments from eDNA, providing a framework for future long-read metabarcoding studies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699327v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699327v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699327v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Key To Researching Large Planets: Research Team Discovers Novel Form Of Water</title>
     <link href="https://astrobiology.com/2026/01/key-to-researching-large-planets-research-team-discovers-novel-form-of-water.html"/>
@@ -6302,20 +6353,6 @@
 <p><a href="https://www.scientificamerican.com/article/the-race-to-find-leonardo-da-vincis-dna-just-took-a-major-twist/">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [75] Astrobiology (astrobiology.com) ▶ Organic Carbon In A Submarine Pressure Cooker</title>
-    <link href="https://astrobiology.com/2026/01/organic-carbon-in-a-submarine-pressure-cooker.html"/>
-    <id>https://astrobiology.com/2026/01/organic-carbon-in-a-submarine-pressure-cooker.html</id>
-    <updated>2026-01-07T16:00:00Z</updated>
-    <summary>The mid-ocean ridge runs through the oceans like a suture. Where the Earth’s plates move apart, new oceanic crust is continuously formed. This is often accompanied by magmatism and hydrothermal activi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, astrobio*, water</p>
-<p><strong>AI Decision:</strong> Study links mid-ocean ridge hydrothermal “pressure cooker” conditions to the formation and cycling of organic carbon, strengthening the case for vent environments as plausible prebiotic feedstock sources on early Earth.</p>
-<p><strong>Abstract:</strong> The mid-ocean ridge runs through the oceans like a suture. Where the Earth’s plates move apart, new oceanic crust is continuously formed. This is often accompanied by magmatism and hydrothermal activity. Sea water seeps into the subsurface, is heated to temperatures above 400 degrees Celsius, and rises again to the ocean floor. The scientific community […] The post Organic Carbon In A Submarine Pressure Cooker appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1038/s43247-025-02962-2">https://doi.org/10.1038/s43247-025-02962-2</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/organic-carbon-in-a-submarine-pressure-cooker.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [35] phys.org - Space News ▶ Sandblasting on Mars: Camera reveals how prevailing winds shape elongated landforms in volcanic zone</title>
     <link href="https://phys.org/news/2026-01-sandblasting-mars-camera-reveals-prevailing.html"/>
     <id>https://phys.org/news/2026-01-sandblasting-mars-camera-reveals-prevailing.html</id>
@@ -6326,134 +6363,5 @@
 <p><strong>Abstract:</strong> Martian winds can have quite an impact. ESA&#x27;s Mars Express has spotted them whipping up sand grains and acting as a cosmic sandblaster, carving out intriguing grooves near Mars&#x27;s equator.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-sandblasting-mars-camera-reveals-prevailing.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [38] Astrobiology (astrobiology.com) ▶ A New Census Of Our Sun’s Neighbors Reveals The Best Potential Real Estate For Life</title>
-    <link href="https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html"/>
-    <id>https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html</id>
-    <updated>2026-01-07T16:21:20Z</updated>
-    <summary>A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> Reports a new nearby-star census intended to prioritize targets that might host Earth-like, potentially habitable planets, but provides no origin-of-life mechanisms, prebiotic chemistry, or biosignature/atmospheric constraints.</p>
-<p><strong>Abstract:</strong> A new study led by a Georgia State University astronomy graduate student is a major step forward in the search for stars that could host Earth-like planets that may prove to be good havens for life to develop. Sebastián Carrazco-Gaxiola shared the results at the January 2026 meeting of the American Astronomical Society in Phoenix, […] The post A New Census Of Our Sun’s Neighbors Reveals The Best Potential Real Estate For Life appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/a-new-census-of-our-suns-neighbors-reveals-the-best-potential-real-estate-for-life.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Absence Of A Subsurface Ocean On Titan Indicated By Cassini Data</title>
-    <link href="https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html"/>
-    <id>https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html</id>
-    <updated>2026-01-07T15:36:30Z</updated>
-    <summary>The Cassini spacecraft orbited Saturn from 2004 to 2017, performing over a hundred flybys of Titan, Saturn’s largest moon. Ten of these flybys were dedicated to gravity field measurements, yielding un</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, astrobio*</p>
-<p><strong>AI Decision:</strong> Cassini gravity flyby data are interpreted to indicate Titan lacks a present-day subsurface ocean, lowering its astrobiological habitability potential by limiting long-lived liquid-water environments.</p>
-<p><strong>Abstract:</strong> The Cassini spacecraft orbited Saturn from 2004 to 2017, performing over a hundred flybys of Titan, Saturn’s largest moon. Ten of these flybys were dedicated to gravity field measurements, yielding unprecedented insight into the moon’s interior structure. The first four flybys revealed a weakly differentiated deep interior compared to Ganymede, consisting of a large (~2000 […] The post Absence Of A Subsurface Ocean On Titan Indicated By Cassini Data appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/absence-of-a-subsurface-ocean-on-titan-indicated-by-cassini-data.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ The (Metabolic) Cost Of Life</title>
-    <link href="https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html"/>
-    <id>https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html</id>
-    <updated>2026-01-07T15:56:37Z</updated>
-    <summary>There are “costs of life” that mechanical physics cannot calculate. A clear example is the energy required to keep specific biochemical processes active — such as those that make up photosynthesis, al</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> A theoretical discussion of the energetic/thermodynamic costs required to sustain specific biochemical processes against alternative reactions, offering broad context for why metabolism and regulation matter for living systems but only indirect relevance to abiogenesis.</p>
-<p><strong>Abstract:</strong> There are “costs of life” that mechanical physics cannot calculate. A clear example is the energy required to keep specific biochemical processes active — such as those that make up photosynthesis, although the examples are countless — while preventing alternative processes from occurring. In mechanics, no displacement implies zero work, and, put simply, there is […] The post The (Metabolic) Cost Of Life appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2506.23496">https://arxiv.org/abs/2506.23496</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets</title>
-    <link href="https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html"/>
-    <id>https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html</id>
-    <updated>2026-01-07T15:41:05Z</updated>
-    <summary>The rise of oxygen in the Earth’s atmosphere during the Great Oxidation Event (GOE) occurred about 2.3 billion years ago. There is considerably greater uncertainty for the origin of oxygenic photosynt</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*, evolution, habitab*</p>
-<p><strong>AI Decision:</strong> Using Earth’s oxygenation timescales and the low photosynthetically active radiation from late M-dwarfs, the paper argues oxygenic photosynthesis—and thus oxygen-supported complex/multicellular life—may be strongly limited on late M-star exoplanets.</p>
-<p><strong>Abstract:</strong> The rise of oxygen in the Earth’s atmosphere during the Great Oxidation Event (GOE) occurred about 2.3 billion years ago. There is considerably greater uncertainty for the origin of oxygenic photosynthesis, but it likely occurred significantly earlier, perhaps by 700 million years. Assuming this time lag is proportional to the rate of oxygen generation, we […] The post Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02548">https://arxiv.org/abs/2601.02548</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.02548">https://doi.org/10.48550/arXiv.2601.02548</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/dearth-of-photosynthetically-active-radiation-suggests-no-complex-life-on-late-m-star-exoplanets.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Jupiter’s Moon Europa Has A Seafloor That May Be Quiet And Lifeless</title>
-    <link href="https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html"/>
-    <id>https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html</id>
-    <updated>2026-01-07T16:00:11Z</updated>
-    <summary>The giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> A Nature Communications study argues Europa’s seafloor may lack strong hydrothermal activity, potentially limiting energy and chemical gradients needed for a habitable ocean and making life less likely despite abundant liquid water.</p>
-<p><strong>Abstract:</strong> The giant planet Jupiter has nearly 100 known moons, yet none have captured the interest and imagination of astronomers and space scientists quite like Europa, an ice-shrouded world that is thought to possess a vast ocean of liquid salt water. For decades, scientists have wondered whether that ocean could harbor the right conditions for life, […] The post Jupiter’s Moon Europa Has A Seafloor That May Be Quiet And Lifeless appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67151-3">https://www.nature.com/articles/s41467-025-67151-3</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/jupiters-moon-europa-has-a-seafloor-that-may-be-quiet-and-lifeless.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Charting The Microbial Map Inside The International Space Station</title>
-    <link href="https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html"/>
-    <id>https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html</id>
-    <updated>2026-01-07T16:17:23Z</updated>
-    <summary>Astronauts have company on the International Space Station (ISS International Space Station). Bacteria squat on handrails. Skin flakes lodge in air vents like lint. A corn-loving fungus has become a r</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> A Cell-linked survey of the ISS microbiome maps how bacteria and fungi persist and spread in a closed space habitat, informing spacecraft microbial ecology and contamination control more than origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Astronauts have company on the International Space Station (ISS International Space Station). Bacteria squat on handrails. Skin flakes lodge in air vents like lint. A corn-loving fungus has become a regular. The place looks spotless, but it’s crawling—its surfaces inscribed with cells and spores. Scientists want the census, and that’s how Nina Zhao found herself […] The post Charting The Microbial Map Inside The International Space Station appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.cell.com/cell/fulltext/S0092-8674(25)00108-4">https://www.cell.com/cell/fulltext/S0092-8674(25)00108-4</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Orbital Biosignature Assay: Lake Eyre</title>
-    <link href="https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html"/>
-    <id>https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html</id>
-    <updated>2026-01-07T15:47:06Z</updated>
-    <summary>Editor’s note: As we begin to study worlds in our own solar system that might have life we use our home world as a testbed for the various ways to detect and characterize biosignatures. Some of this i</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, biosignature, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> An Earth testbed study using orbital observations of Lake Eyre to evaluate and correlate remotely sensed biosignature signals with ground truth for future life-detection efforts in the Solar System.</p>
-<p><strong>Abstract:</strong> Editor’s note: As we begin to study worlds in our own solar system that might have life we use our home world as a testbed for the various ways to detect and characterize biosignatures. Some of this is done on the or beneath the surface, Other times it is done in space. Correlating ground truth […] The post Orbital Biosignature Assay: Lake Eyre appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] phys.org - Space News ▶ Supernova remnant video from NASA&#x27;s Chandra is decades in making</title>
-    <link href="https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html"/>
-    <id>https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html</id>
-    <updated>2026-01-07T16:20:03Z</updated>
-    <summary>A new video shows the evolution of Kepler&#x27;s Supernova Remnant using data from NASA&#x27;s Chandra X-ray Observatory captured over more than two and a half decades.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> NASA’s Chandra time-lapse tracks the decades-long X-ray evolution of Kepler’s Supernova Remnant, offering general astrophysical context (e.g., supernova feedback and element dispersal) but little direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> A new video shows the evolution of Kepler&#x27;s Supernova Remnant using data from NASA&#x27;s Chandra X-ray Observatory captured over more than two and a half decades.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-supernova-remnant-video-nasa-chandra.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] Phys.org: Evolution News ▶ Early hominins from Morocco reveal an African lineage near the root of Homo sapiens</title>
-    <link href="https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html"/>
-    <id>https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html</id>
-    <updated>2026-01-07T16:00:16Z</updated>
-    <summary>An international research team reports the analysis of new hominin fossils from the site of Thomas Quarry I (Casablanca, Morocco). The fossils are very securely dated to 773,000 +/- 4,000 years ago, t</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Securely dated (~773 ka) hominin fossils from Thomas Quarry I (Casablanca, Morocco) inform early African lineages near the root of Homo sapiens but do not address origins-of-life or astrobiology topics.</p>
-<p><strong>Abstract:</strong> An international research team reports the analysis of new hominin fossils from the site of Thomas Quarry I (Casablanca, Morocco). The fossils are very securely dated to 773,000 +/- 4,000 years ago, thanks to a high-resolution magnetostratigraphic record capturing in detail the Brunhes/Matuyama boundary, the last main geomagnetic polarity reversal and precise temporal markers of the Quaternary.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Phys.org: Evolution News ▶ Molecular switch reveals transition between single-celled and multicellular forms</title>
-    <link href="https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html"/>
-    <id>https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html</id>
-    <updated>2026-01-07T16:00:18Z</updated>
-    <summary>Scientists at Nagoya University in Japan have identified the genes that allow an organism to switch between living as single cells and forming multicellular structures. This ability to alternate betwe</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Nagoya University researchers identified genes enabling an organism to reversibly switch between single-celled and multicellular states, offering evolutionary insight into how multicellularity could emerge from unicellular ancestors.</p>
-<p><strong>Abstract:</strong> Scientists at Nagoya University in Japan have identified the genes that allow an organism to switch between living as single cells and forming multicellular structures. This ability to alternate between life forms provides new insights into how multicellular life may have evolved from single-celled ancestors and eventually led to complex organisms like animals and plants.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
