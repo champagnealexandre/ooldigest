@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-13T23:17:21.950389+00:00</updated>
+  <updated>2026-01-14T01:24:17.987569+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🔴 [30] bioinformatics - biorXiv Preprints ▶ Hierarchical Encoding of Regulatory Mechanisms and Expression Syntax by a foundational genomic sequence-to-function model</title>
@@ -2800,20 +2800,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698282v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] cell biology - biorXiv Preprints ▶ Mitochondrial dsRNA: A Hidden Source of Immunogenic RNA in ADAR1 Deficiency</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.698045v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.698045v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Double-stranded RNA (dsRNA) triggers immune responses during viral infections, but self-derived dsRNA can activate similar pathways. To prevent this, the body relies on mechanisms like ADAR1, an RNA-e</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This preprint identifies mitochondrial double-stranded RNA as a major endogenous immunogenic dsRNA source in ADAR1-deficient cells via a proposed mtROS-driven “Draw-and-Release” mechanism, offering RNA/mitochondrial biology insights but only tangential relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Double-stranded RNA (dsRNA) triggers immune responses during viral infections, but self-derived dsRNA can activate similar pathways. To prevent this, the body relies on mechanisms like ADAR1, an RNA-editing enzyme essential for immune regulation. Dysfunction of ADAR1 is linked to various diseases, yet the nature and role of dsRNAs accumulating in its absence remain unclear. Here, we identify mitochondrial dsRNA (mt-dsRNA), transcribed from the mitochondrial genome, as a major contributor to the endogenous dsRNA pool in ADAR1-deficient human and murine cells. We propose a &quot;Draw-and-Release&quot; model, where ADAR1 loss increases mitochondrial reactive oxygen species (mtROS), causing mt-dsRNA accumulation in the mitochondrial matrix (&quot;Draw&quot; phase) and its immune-activating release into the cytosol upon mitochondrial protein dysfunction (&quot;Release&quot; phase). This study highlights the importance of mitochondrial integrity in mitigating ADAR1-related pathologies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698045v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.698045v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698045v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ resolveS: An ultra-fast, memory-efficient and reference-free tool for RNA-seq Strandedness Detection</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1</id>
@@ -3038,20 +3024,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Telomere length can be estimated from fish scales</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698083v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698083v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Telomeres, repetitive DNA sequences at the ends of chromosomes, are increasingly studied as biomarkers of physiological stress as well as ageing processes. In ichthyology, fish scales provide valuable</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, DNA</p>
-<p><strong>AI Decision:</strong> Demonstrates that archived fish scales yield sufficient DNA for qPCR-based relative telomere length estimates, revealing tissue- and population-level variation but offering minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Telomeres, repetitive DNA sequences at the ends of chromosomes, are increasingly studied as biomarkers of physiological stress as well as ageing processes. In ichthyology, fish scales provide valuable information regarding life history and ageing and are thus often preserved in substantial collections. This study aims to adapt a quantitative Polymerase Chain Reaction (qPCR) method to estimate relative telomere length (RTL) from fish scales archived in such collections. Using the brown trout (Salmo trutta) as a model species, we show that archived scales contain enough DNA to perform qPCR-based RTL measurement. RTLs in scales are on average higher than in fins, however we found no significant correlation between RTL values of both tissues at the individual level. Analysing archived scales originating from the subantarctic Kerguelen Islands introduced brown trout populations, we find substantial variation in RTL between rivers, age classes and body size.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698083v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698083v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698083v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [25] molecular biology - biorXiv Preprints ▶ The cap-independent translational regulation of NbRabGAP1 in Nicotiana benthamiana during BaMV infection</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1</id>
@@ -3136,20 +3108,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [50] bioRxiv Subject Collection: Evolutionary Biology ▶ The dynamics of barrier locus accumulation during speciation with gene flow</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698084v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698084v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Understanding how reproductive isolation (RI) evolves in the context of gene flow is central to explaining how new species arise. Theory predicts that the accumulation of barrier loci is shaped by the</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Whole-genome analyses across pea aphid host-associated biotypes show that speciation with ongoing gene flow proceeds via clustered, polygenic barrier loci concentrated in low-recombination regions and rearrangements, with stepwise (“tipping point”) increases in divergence linked to host-specialisation genes.</p>
-<p><strong>Abstract:</strong> Understanding how reproductive isolation (RI) evolves in the context of gene flow is central to explaining how new species arise. Theory predicts that the accumulation of barrier loci is shaped by the interplay between divergent selection, recombination, and genomic architecture, yet empirical tests spanning multiple stages of divergence at the intraspecific level remain rare. The pea aphid complex, comprising multiple sympatric biotypes specialised on different legume hosts and spanning a continuum of RI, provides an exceptional opportunity to examine how ecological adaptation drives reproductive isolation under ongoing gene flow. Using whole-genome sequencing data from 13 sympatric European biotypes, we constructed a dense, reference-genome anchored picture of the divergence continuum that controls for genetic background and recombination landscape. Joint patterns of genetic differentiation, absolute divergence and genetic diversity, as well as recombination and introgression rates, reveal a consistent signature of divergence with gene flow and allow robust identification of barrier loci. Across the divergence gradient, RI is highly polygenic, yet barrier loci are clustered and enriched in low-recombination regions and large chromosomal rearrangements, which promote strong linkage disequilibrium and coupling among barrier effects. While genome-wide FST and the number of barrier loci gradually accumulate as divergence increases, the dynamics of differentiation within barrier loci show stepwise increases consistent with theoretical &quot;tipping points&quot; in the accumulation of RI. Barrier loci are enriched in salivary effector, detoxification and chemosensory genes, highlighting their central role in host plant specialisation and RI. These candidate genes are dynamically recruited at different stages of divergence, and some of them are shared among independent biotype comparisons, suggesting generic functional determinants of host plant specialisation and reproductive isolation acquired via parallel evolution or introgression. Our study provides a comprehensive view of the genomic architecture and evolutionary dynamics underlying speciation with gene flow, illustrating how tightly linked, polygenic architectures can facilitate adaptation and diversification in natural populations.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698084v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698084v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698084v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Sequential evolution of antidote and toxin links genetic incompatibility with immune responses</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1</id>
@@ -3190,20 +3148,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] biophysics - biorXiv Preprints ▶ Design and self-assembly of cytomotive filaments</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698144v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698144v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Cytomotive filaments, a prominent class of cytoskeletal polymers comprising the actin and tubulin families, combine directional growth with monomer turnover to perform essential cellular functions. Wh</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
-<p><strong>AI Decision:</strong> Uses physical modeling and genetic algorithms to derive design rules for polar monomers that self-assemble into treadmilling cytomotive filaments, offering general insights into how dynamic, directional polymer systems could emerge from simple self-assembling building blocks.</p>
-<p><strong>Abstract:</strong> Cytomotive filaments, a prominent class of cytoskeletal polymers comprising the actin and tubulin families, combine directional growth with monomer turnover to perform essential cellular functions. While the functional role of turnover is becoming increasingly clear, how these filaments dynamically self-assemble using a single monomer type remains an open question. Here we exploit physical modelling in combination with genetic algorithms to elucidate the design principles that drive monomer self-assembly into treadmilling filaments - polar filaments that grow on one end and shrink on the other. We first show that directional polymer growth is only possible when a structurally polar monomer changes conformation upon polymerisation, and identify three different mechanisms through which the structural polarity of a monomer can induce kinetic polarity. We then prove that to prevent filament fragmentation and promote end depolymerisation upon nucleotide hydrolysis, the conformation change of a polar monomer must involve both its interface-forming sites. Combining these results, we identify the principles required to design treadmilling monomers, and showcase the emergence of treadmilling dynamics from the bottom-up. Our work sheds light on the physical mechanisms underlying cytomotive self-assembly of biological polymers, and lays the base for the realization of essential cytoskeletal features in synthetic systems with programmable building blocks.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698144v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698144v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698144v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [15] Nature ▶ Daily briefing: Octopus-inspired synthetic ‘skin’ changes appearance on demand</title>
@@ -5234,20 +5178,6 @@
 <p><a href="https://www.nature.com/articles/s41467-025-68253-8">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolution at experimental epidemic fronts speeds up parasite spread</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Spreading epidemics can foster the rapid emergence of novel parasite variants. Similar to range expansions, parasites at the front of an epidemic wave may evolve traits facilitating their spatial spre</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Experimental evolution in a host–parasite microcosm shows that selection at epidemic wave fronts can favor higher infectivity with reduced virulence to enhance spread, illustrating eco-evolutionary feedbacks relevant to general evolutionary dynamics rather than core origins-of-life processes.</p>
-<p><strong>Abstract:</strong> Spreading epidemics can foster the rapid emergence of novel parasite variants. Similar to range expansions, parasites at the front of an epidemic wave may evolve traits facilitating their spatial spread. Typically, higher transmissibility and virulence are expected to evolve at the epidemic front, but predictions change if virulence reduces dispersal of infected hosts. We investigated the feedbacks between epidemiology and evolution in interconnected microcosms of the ciliate Paramecium caudatum and its bacterial parasite Holospora undulata. First, two long-term treatments mimicked the moving front of epidemic waves, with and without the natural dispersal of infected hosts. Phenotypic trait assays revealed an eco-to-evo feedback: wave-front parasites (i.e., travelling with infected hosts) were less virulent and interfered less with host dispersal, but also showed higher infectivity, compared to parasites from the control treatment. Whole-genome resequencing corroborated phenotypic divergence, but the genetic targets of selection remain unknown. Second, measurement of the spread of evolved parasites in linear landscapes demonstrated an evo-to-eco feedback: wave-front parasites produced stronger infection outbreaks and faster spreading epidemic waves than did evolution-control parasites. A simulation model assessed the relative importance of the different parasite traits in determining infectious spread over a broad parameter range. It suggests that, if dispersal is generally low, higher infectivity alone can produce the observed differences in epidemic spread speed. Our study illustrates how the need to travel with the host shapes eco-evolutionary feedbacks at parasite invasion fronts, and it highlights the importance of considering concomitant evolutionary change when predicting epidemic speed.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697932v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [55] phys.org - Space News ▶ Plasma rings around M dwarf stars offer new clues to planetary habitability</title>
     <link href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html"/>
     <id>https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html</id>
@@ -5258,20 +5188,6 @@
 <p><strong>Abstract:</strong> How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie&#x27;s Luke Bouma is exploring a new way to probe this critical question—using naturally occurring space weather stations that orbit at least 10% of M dwarf stars during their early lives. He is presenting his work at the 247th American Astronomical Society meeting.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] biophysics - biorXiv Preprints ▶ Adaptive Landscapes of Plasmodium Falciparum Dihydrofolate Reductase Reveal Pathways to Antifolate Resistance</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Antifolate resistance in P. falciparum dihydrofolate reductase remains a major challenge for malaria control. To understand how this enzyme preserves function under antifolate selection, we developed </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Using a computational framework (PfPATH) integrating fitness, epistasis, and structural data, the study maps constrained adaptive pathways by which P. falciparum dihydrofolate reductase evolves antifolate resistance while maintaining enzyme function via stabilizing mutations and reorganized internal communication.</p>
-<p><strong>Abstract:</strong> Antifolate resistance in P. falciparum dihydrofolate reductase remains a major challenge for malaria control. To understand how this enzyme preserves function under antifolate selection, we developed PfPATH, a computational framework that integrates mutational fitness measurements, evolutionary interactions, and structural information to map plausible adaptive trajectories. PfPATH adaptive walks reveal that only a small subset of residues forms a constrained adaptive ridge that guides evolution. Most resistance mutations are harmful on their own and only become viable when supported by stabilizing changes. Hence, adaptation is confined to a few constrained pathways yielding high resistance. Structural network analyses indicate that these resistance mutations do not disrupt the overall enzyme architecture. Instead, they reorganize internal communication in a way that preserves catalytic function. We further showed through molecular dynamics and free-energy analyses that resistant variants remain structurally stable while exploring broader low-energy conformational substates. In conclusion, our work reveals a narrow and predictable route to antifolate escape, with implications for anticipating resistance evolution and guiding future drug design.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.04.697492v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] phys.org - Space News ▶ Lunar spacecraft exhaust could obscure clues to origins of life</title>
@@ -5296,20 +5212,6 @@
 <p><strong>Abstract:</strong> Astronomers analyzing data from Vera C. Rubin Observatory have discovered the fastest-ever spinning asteroid with a diameter over half a kilometer—a feat uniquely enabled by Rubin. The study provides crucial information about asteroid composition and evolution, and demonstrates how Rubin is pushing the boundaries of what we can discover within our own solar system.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-vera-rubin-observatory-asteroid-pre.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Nature Communications ▶ Dynamic oxygen vacancy engineering on CuO via refreshable catalytic surface for high-efficient water decontamination</title>
-    <link href="https://www.nature.com/articles/s41467-025-68180-8"/>
-    <id>https://www.nature.com/articles/s41467-025-68180-8</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Nature Communications, Published online: 07 January 2026; doi:10.1038/s41467-025-68180-8 This study demonstrates that simple alkali etching enables in-situ regeneration of oxygen vacancies on CuO, enh</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Alkali etching is used to refresh oxygen vacancies on CuO, greatly boosting peroxymonosulfate activation for long-lived, high-efficiency water pollutant degradation—relevant mainly as broad catalytic/redox surface chemistry rather than direct origins-of-life work.</p>
-<p><strong>Abstract:</strong> Nature Communications, Published online: 07 January 2026; doi:10.1038/s41467-025-68180-8 This study demonstrates that simple alkali etching enables in-situ regeneration of oxygen vacancies on CuO, enhancing peroxymonosulfate activation for efficient pollutant degradation with a 42-fold increase and long-term stability.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-68180-8">https://www.nature.com/articles/s41467-025-68180-8</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-68180-8">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Lunar Spacecraft Exhaust Could Obscure Clues To Origins Of Life</title>
@@ -5381,29 +5283,6 @@
 <p><a href="https://www.scientificamerican.com/article/the-race-to-find-leonardo-da-vincis-dna-just-took-a-major-twist/">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] eLife - recent issues ▶ A co-evolutionary perspective on humans and Mycobacterium tuberculosis in the era of systems biology</title>
-    <link href="https://elifesciences.org/articles/108175"/>
-    <id>https://elifesciences.org/articles/108175</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Tuberculosis is once again the most fatal global infectious disease and has killed many more humans than any other pathogen. Despite the identification of Mycobacterium tuberculosis (Mtb) over 140 yea</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> A perspective piece arguing that long-term human–Mycobacterium tuberculosis co-evolution produces multiple immunological pathways to disease, and that systems-biology tools (e.g., single-cell/spatial transcriptomics) must model this complexity rather than seek a single mechanism.</p>
-<p><strong>Abstract:</strong> Tuberculosis is once again the most fatal global infectious disease and has killed many more humans than any other pathogen. Despite the identification of Mycobacterium tuberculosis (Mtb) over 140 years ago, we have yet to control the epidemic. A central issue is the complexity of the host–pathogen interaction, with multiple underlying pathways leading to tuberculosis disease. This intricate relationship stems from the prolonged co-evolution of the pathogen with humans, resulting in diverse immunological processes leading to tuberculosis disease. Conversely, Mtb exposure may give a survival advantage through innate immune training, thereby providing selective pressure over millennia. Emerging methodologies, such as single-cell and spatial transcriptomics, offer a golden opportunity to understand the immunology unpinning this host–pathogen interaction at unprecedented resolution. However, these analyses will be fundamentally flawed if they do not consider the intricacies of human Mtb infection. Here, we propose that attempts to find single immunological mechanisms leading to tuberculosis are hindering progress, and we must embrace the complexity of multiple paths to disease to allow the systems biology era to deliver transformative solutions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1164/rccm.201807-1250LE">https://doi.org/10.1164/rccm.201807-1250LE</a></li>
-<li><a href="https://doi.org/10.1038/s43588-021-00086-z">https://doi.org/10.1038/s43588-021-00086-z</a></li>
-<li><a href="https://doi.org/10.1038/s41590-021-01121-x">https://doi.org/10.1038/s41590-021-01121-x</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/19855401">https://www.ncbi.nlm.nih.gov/pubmed/19855401</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/25848958">https://www.ncbi.nlm.nih.gov/pubmed/25848958</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/16616560">https://www.ncbi.nlm.nih.gov/pubmed/16616560</a></li>
-<li><a href="https://doi.org/10.1146/annurev-immunol-032712-095939">https://doi.org/10.1146/annurev-immunol-032712-095939</a></li>
-<li><a href="https://doi.org/10.7554/eLife.108175.1">https://doi.org/10.7554/eLife.108175.1</a></li>
-<li><a href="https://doi.org/10.1038/s41590-024-01897-8">https://doi.org/10.1038/s41590-024-01897-8</a></li>
-<li><a href="https://doi.org/10.1038/s41577-021-00540-z">https://doi.org/10.1038/s41577-021-00540-z</a></li>
-</ul>
-<p><a href="https://elifesciences.org/articles/108175">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [75] Astrobiology (astrobiology.com) ▶ Organic Carbon In A Submarine Pressure Cooker</title>
     <link href="https://astrobiology.com/2026/01/organic-carbon-in-a-submarine-pressure-cooker.html"/>
     <id>https://astrobiology.com/2026/01/organic-carbon-in-a-submarine-pressure-cooker.html</id>
@@ -5428,19 +5307,6 @@
 <p><strong>Abstract:</strong> Martian winds can have quite an impact. ESA&#x27;s Mars Express has spotted them whipping up sand grains and acting as a cosmic sandblaster, carving out intriguing grooves near Mars&#x27;s equator.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-sandblasting-mars-camera-reveals-prevailing.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] nature.com - Biological sciences ▶ Tau condensation on DNA mediates microtubule attachment suggesting a mitotic role for centromere-localized tau</title>
-    <link href="https://www.nature.com/articles/s41467-025-67888-x"/>
-    <id>https://www.nature.com/articles/s41467-025-67888-x</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study reports that centromere-localized tau can condense on DNA to promote microtubule attachment during mitosis, a eukaryotic cell-division mechanism with only indirect relevance to origins-of-life research.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67888-x">https://www.nature.com/articles/s41467-025-67888-x</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-67888-x">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [38] Astrobiology (astrobiology.com) ▶ A New Census Of Our Sun’s Neighbors Reveals The Best Potential Real Estate For Life</title>
@@ -5479,20 +5345,6 @@
 <li><a href="https://arxiv.org/abs/2506.23496">https://arxiv.org/abs/2506.23496</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/the-metabolic-cost-of-life.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [27] ChemRxiv ▶ Erasing dielectric breakdown artifacts to machine-learn charged Pt-water interfaces</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>The recently introduced &quot;Response analysis in z-orientation&quot; (RAZOR) model utilizes perturbation theory to machine learn the energy and force response to applied bias charges in atomistic simulations </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Introduces and benchmarks a machine-learning perturbation model (RAZOR) for charged Pt(111)–water interfaces, focusing on avoiding dielectric breakdown artifacts to accurately reproduce ab initio interfacial water structure and potential response under modest bias.</p>
-<p><strong>Abstract:</strong> The recently introduced &quot;Response analysis in z-orientation&quot; (RAZOR) model utilizes perturbation theory to machine learn the energy and force response to applied bias charges in atomistic simulations of electrified interfaces. While we have shown that RAZOR successfully reproduces ab initio results for adsorbates on metallic surfaces in an implicit solvent environment, real electrochemical applications require the inclusion of at least a few explicit H2O layers of the electrolyte. Here, we benchmark RAZOR&#x27;s performance in the description of the Pt(111)-H2O interface. We show that RAZOR can reliably reproduce ab initio molecular dynamics findings for bias-induced changes in H2O density and orientation profiles as well as changes in the potential. To do so, a specific training procedure needs to be applied which avoids the erroneous learning of artifacts from the dielectric breakdown of interfacial water and the accompanying charge transfer into the H2O layers. Ultimately, we are confident that RAZOR can provide quantitative predictions in a +/- 20 muC/cm2 window around the neutral-charged cell, which is sufficient for many pressing electrochemical questions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-849wb?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets</title>
@@ -5538,34 +5390,6 @@
 <p><a href="https://astrobiology.com/2026/01/charting-the-microbial-map-inside-the-international-space-station.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [37] ChemRxiv ▶ A Catalyst-Coated Mesoporous Carbon–Membrane Electrode Assembly for In-situ Soft X-ray XPS and NEXAFS Studies of Electrocatalytic Interfaces</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>In-situ soft X-ray spectroscopy provides direct insight into the electronic structure of electrocatalysts under realistic reaction conditions but remains technically challenging due to the need to com</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, evolution</p>
-<p><strong>AI Decision:</strong> Describes a window-free in-situ soft X-ray XPS/NEXAFS electrode assembly that enables real-time electronic/chemical characterization of hydrated electrocatalytic interfaces during water oxidation, a broadly useful method but not directly focused on origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> In-situ soft X-ray spectroscopy provides direct insight into the electronic structure of electrocatalysts under realistic reaction conditions but remains technically challenging due to the need to combine aqueous electrochemistry with ultra-high-vacuum detection. Here we present a mesoporous carbon–membrane working electrode assembly (WEA) that enables window-free in-situ XPS and NEXAFS measurements during electrochemical reactions. The design integrates a Nafion™ proton-exchange membrane with a mesoporous carbon–ionomer contact layer and a thin IrOₓ catalyst layer, providing continuous electronic and protonic pathways and stable hydration through the membrane. By tuning the chamber water vapor pressure to 8 mbar, the WEA maintains a nanometer-thin water layer sufficient for the oxygen evolution reaction (OER) while preserving photoelectron detection efficiency. A robust peristaltic pumping system and closed-loop alumina-bed water vapor dosing maintain steady-state hydration at 6–10 mbar with &lt;±0.1 mbar variation, enabling reproducible in-siut spectra over extended periods. In-situ Ir 4f and O 1s XPS reveal reversible oxidation of Ir³⁺/Ir⁴⁺ to Ir⁴⁺/Ir⁵⁺ and dynamic changes in hydroxyl and lattice oxygen species, while O K-edge NEXAFS identify the formation of μ₂–O and μ₁–O species at OER potential, corresponding to OER-active intermediates. The WEA thus provides a quantitative, window-free platform for probing electrochemical interfaces under near-ambient conditions and establishes a general methodology for in-situ soft X-ray studies of functional electrocatalysts, closely resembling the architecture and operation of industrial membrane-based water electrolysers. This approach establishes a reliable methodology for coupling electrochemistry with the element specific soft X-ray spectroscopy under realistic reaction conditions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-4ddq1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ LORA: a polymorphic multi-sample LOng Read Assembly pipeline.</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Genome assembly from long-read sequencing data has become a standard approach for resolving complex genomic regions and producing high-contiguity assemblies. However, the diversity of available assemb</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> LORA is a Snakemake-based, reproducible long-read genome assembly pipeline integrating multiple assemblers and QC/reporting steps for bacterial and unicellular eukaryote datasets, offering general genomics utility but minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Genome assembly from long-read sequencing data has become a standard approach for resolving complex genomic regions and producing high-contiguity assemblies. However, the diversity of available assemblers, their varying performance across species, and the need for reproducible workflows present ongoing challenges. We developed LORA, an easy-to-use and reproducible application for assembling genomes from long-read data. LORA integrates several well-established assemblers, including Canu, HiFiasm, Flye, and Unicycler, as well as more recent tools such as Necat and Pecat. It is implemented as a Snakemake pipeline to parallelize tasks and support seamless execution on both local machines and computing clusters. LORA includes multiple quality assessment steps, interactive HTML reports for interpretation, BLAST-based taxonomic identification, and completeness evaluation. Together, these features provide users with a comprehensive view of assembly quality and potential problematic. We illustrate the capabilities of LORA using datasets from bacterial genomes and unicellular eukaryotes, sequenced with both PacBio and Oxford Nanopore technologies, highlighting typical outcomes and common pitfalls encountered during long-read assemblies. LORA is distributed as part of the Sequana project, an open-source framework designed for reproducibility, maintainability, and straightforward deployment across computing environments.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.697901v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Orbital Biosignature Assay: Lake Eyre</title>
     <link href="https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html"/>
     <id>https://astrobiology.com/2026/01/orbital-biosignature-assay-lake-eyre.html</id>
@@ -5602,34 +5426,6 @@
 <p><a href="https://phys.org/news/2026-01-early-hominins-morocco-reveal-african.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [55] Nature ▶ Genetic switch between unicellularity and multicellularity in marine yeasts</title>
-    <link href="https://www.nature.com/articles/s41586-025-09881-4"/>
-    <id>https://www.nature.com/articles/s41586-025-09881-4</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09881-4 Myb1 functions as a switch-like regulator of state transitions in Hortaea werneckii, whereby its expression and degradation ar</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> multicellularity</p>
-<p><strong>AI Decision:</strong> Identifies Myb1 as a nutrient-coupled, switch-like regulator controlling reversible transitions between unicellular and multicellular growth in the marine yeast Hortaea werneckii, informing mechanisms behind major evolutionary state transitions relevant to later stages of life’s complexity.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09881-4 Myb1 functions as a switch-like regulator of state transitions in Hortaea werneckii, whereby its expression and degradation are coupled to nutrient conditions, stabilizing unicellular or multicellular growth.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41586-025-09881-4">https://www.nature.com/articles/s41586-025-09881-4</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41586-025-09881-4">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Nature ▶ An ancient DNA perspective on the Russian conquest of Yakutia</title>
-    <link href="https://www.nature.com/articles/s41586-025-09856-5"/>
-    <id>https://www.nature.com/articles/s41586-025-09856-5</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09856-5 Yakut communities, with Trans-Baikal admixture during the Mongol expansion, preserved genomic diversity and oral microbiomes d</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Ancient DNA and microbiome analysis of Yakut populations during the Russian conquest is valuable for human evolutionary history but is essentially unrelated to origins-of-life research (keyword hit: DNA).</p>
-<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09856-5 Yakut communities, with Trans-Baikal admixture during the Mongol expansion, preserved genomic diversity and oral microbiomes despite the Russian conquest, which introduced cereals, pathogens and Christianity, whereas marital practices preserved low consanguinity except in one late case of traditional shamanism.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41586-025-09856-5">https://www.nature.com/articles/s41586-025-09856-5</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41586-025-09856-5">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [60] Phys.org: Evolution News ▶ Molecular switch reveals transition between single-celled and multicellular forms</title>
     <link href="https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html"/>
     <id>https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html</id>
@@ -5640,34 +5436,6 @@
 <p><strong>Abstract:</strong> Scientists at Nagoya University in Japan have identified the genes that allow an organism to switch between living as single cells and forming multicellular structures. This ability to alternate between life forms provides new insights into how multicellular life may have evolved from single-celled ancestors and eventually led to complex organisms like animals and plants.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-molecular-reveals-transition-celled-multicellular.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Nature ▶ RNA-triggered Cas12a3 cleaves tRNA tails to execute bacterial immunity</title>
-    <link href="https://www.nature.com/articles/s41586-025-09852-9"/>
-    <id>https://www.nature.com/articles/s41586-025-09852-9</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09852-9 Cas12a3 nucleases constitute a distinct clade of type V CRISPR–Cas bacterial immune systems that preferentially cleave the 3′ </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study identifies a distinct type V CRISPR nuclease (Cas12a3) that, upon recognizing target RNA, cleaves the 3′ tails of host tRNAs to induce growth arrest and limit phage spread—relevant to OoL mainly as broader context on RNA-centered molecular defense and regulation.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09852-9 Cas12a3 nucleases constitute a distinct clade of type V CRISPR–Cas bacterial immune systems that preferentially cleave the 3′ tails of tRNAs after recognition of target RNA to induce growth arrest and block phage dissemination.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41586-025-09852-9">https://www.nature.com/articles/s41586-025-09852-9</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41586-025-09852-9">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] Nature ▶ Insights into DNA repeat expansions among 900,000 biobank participants</title>
-    <link href="https://www.nature.com/articles/s41586-025-09886-z"/>
-    <id>https://www.nature.com/articles/s41586-025-09886-z</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09886-z Human genetic variation influences instability of DNA repeats that commonly expand as we age.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> A large-scale human genomics study in Nature examining how genetic variation affects age-related instability and expansion of DNA repeat sequences, with limited direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 07 January 2026; doi:10.1038/s41586-025-09886-z Human genetic variation influences instability of DNA repeats that commonly expand as we age.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41586-025-09886-z">https://www.nature.com/articles/s41586-025-09886-z</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41586-025-09886-z">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] Phys.org: Evolution News ▶ Ushikuvirus: Newly discovered giant virus may offer clues to the origin of life</title>
@@ -5709,94 +5477,6 @@
 <p><a href="https://www.sciencedaily.com/releases/2026/01/260106224628.htm">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [0] ChemRxiv ▶ How Surface Reconstruction Drives Heterogeneous Bulk Delithiation in Single-crystalline Ni-rich Layered Oxide Cathodes</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>The electrochemical performance of single-crystalline Ni-rich layered oxide cathodes is fundamentally limited by bulk Li⁺ diffusion within micrometre-sized particles. During high-voltage cycling—neces</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Operando X-ray diffraction reveals how oxygen-loss-driven surface reconstruction in Ni-rich layered oxide cathodes promotes heterogeneous bulk delithiation and accelerates capacity fade during high-voltage cycling.</p>
-<p><strong>Abstract:</strong> The electrochemical performance of single-crystalline Ni-rich layered oxide cathodes is fundamentally limited by bulk Li⁺ diffusion within micrometre-sized particles. During high-voltage cycling—necessary for high-energy applications—intraparticle Li⁺ diffusion is further impeded by oxygen-loss-induced surface reconstruction from the layered phase to spinel/rock-salt structures. Therefore, to fully understand how bulk Li⁺ transport kinetics influences electrochemical degradation, it is necessary to establish the correlation between surface reconstruction and bulk delithiation during the anisotropic structural evolution (i.e., expansion of the layers followed by their contraction) of the cathode particles during long-term cycling. In this work, we accomplish this using multi-rate operando X-ray diffraction studies of single-crystalline Ni-rich layered oxide cathodes aged under different voltage windows in single-layer pouch full cells. We quantify how increased surface reconstruction leads to greater heterogeneity in bulk delithiation, thereby promoting phase separation and exacerbating electrochemical capacity fade. These results provide a direct mechanistic link between surface degradation and bulk delithiation in such cathodes and offer a framework for non-destructively probing kinetics-dependent degradation under practically relevant conditions to guide strategies for improved cycling stability.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3p346?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] eLife - recent issues ▶ Identification of a Musashi2 translocation as a novel oncogene in myeloid leukemia</title>
-    <link href="https://elifesciences.org/articles/93645"/>
-    <id>https://elifesciences.org/articles/93645</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Myeloid leukemias, diseases marked by aggressiveness and poor outcomes, are frequently triggered by oncogenic translocations. In the case of chronic myelogenous leukemia (CML), the BCR-ABL fusion init</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Reports an MSI2–HOXA9 fusion as an oncogenic second hit in blast-crisis CML that increases mitochondrial gene expression and respiration, with limited direct relevance to origins-of-life questions beyond general RNA/mitochondrial biology.</p>
-<p><strong>Abstract:</strong> Myeloid leukemias, diseases marked by aggressiveness and poor outcomes, are frequently triggered by oncogenic translocations. In the case of chronic myelogenous leukemia (CML), the BCR-ABL fusion initiates chronic phase disease with second hits allowing progression to blast crisis. Although Gleevec has been transformative for CML, blast crisis CML remains relatively drug resistant. Here, we show that MSI2-HOXA9 , a translocation with an unknown role in cancer, can serve as a second hit in driving bcCML. Compared to BCR-ABL, BCR-ABL/MSI2-HOXA9 led to a more aggressive disease in vivo with decreased latency, increased lethality, and a differentiation blockade that is a hallmark of blast crisis. Domain mapping revealed that the MSI2 RNA binding domain RRM1 had a preferential impact on growth and lethality of bcCML relative to RRM2 or the HOXA9 domain. Mechanistically, MSI2-HOXA9 triggered global downstream changes with a preferential upregulation of mitochondrial components. Consistent with this, BCR-ABL/MSI2-HOXA9 cells exhibited a significant increase in mitochondrial respiration. These data suggest that MSI2-HOXA9 acts, at least in part, by increasing expression of the mitochondrial polymerase POLRMT and augmenting mitochondrial function and basal respiration in blast crisis. Collectively, our findings demonstrate for the first time that translocations involving the stem and developmental signal MSI2 can be oncogenic and suggest that MSI, which we found to be a frequent partner for an array of translocations, could also be a driver mutation across solid cancers.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1073/pnas.232087499">https://doi.org/10.1073/pnas.232087499</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/13271404">https://www.ncbi.nlm.nih.gov/pubmed/13271404</a></li>
-<li><a href="https://doi.org/10.3109/10428194.2014.947611">https://doi.org/10.3109/10428194.2014.947611</a></li>
-<li><a href="https://doi.org/10.1038/nmeth.4324">https://doi.org/10.1038/nmeth.4324</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/31680157">https://www.ncbi.nlm.nih.gov/pubmed/31680157</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/8660864">https://www.ncbi.nlm.nih.gov/pubmed/8660864</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/12393433">https://www.ncbi.nlm.nih.gov/pubmed/12393433</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/24487275">https://www.ncbi.nlm.nih.gov/pubmed/24487275</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/11071626">https://www.ncbi.nlm.nih.gov/pubmed/11071626</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/12649177">https://www.ncbi.nlm.nih.gov/pubmed/12649177</a></li>
-</ul>
-<p><a href="https://elifesciences.org/articles/93645">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] eLife - recent issues ▶ Replication stress-inducing ELF3 upregulation promotes BRCA1-deficient breast tumorigenesis in luminal progenitors</title>
-    <link href="https://elifesciences.org/articles/89573"/>
-    <id>https://elifesciences.org/articles/89573</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>BRCA1 is a critical tumor suppressor, mutations in which greatly increase risks for many tumors in carriers, most notably breast cancer. Luminal progenitor cells (LPs) are the currently recognized cel</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Using single-cell and bulk transcriptomics, the study links intrinsic replication stress in luminal progenitors to ELF3 upregulation that mitigates genomic instability while promoting transformation in BRCA1-deficient breast tumorigenesis.</p>
-<p><strong>Abstract:</strong> BRCA1 is a critical tumor suppressor, mutations in which greatly increase risks for many tumors in carriers, most notably breast cancer. Luminal progenitor cells (LPs) are the currently recognized cells of origin of BRCA1-deficient breast cancers. However, the reason why LPs are prone to transform with BRCA1 deficiency has not been elucidated. Here, using single-cell sequencing of human BRCA1 mutant breast cancers and RNA sequencing (RNA-seq) of BRCA1 -deficient normal mammary cells, we reveal that replication stress is a feature of LPs and a driving factor during BRCA1-associated tumorigenesis. Mechanistically, replication stress and BRCA1 deficiency lead to significant upregulation of ELF3 expression. ELF3 can help suppress excessive genomic instability and promote LP transformation with BRCA1 deficiency. Moreover, ELF3 emerged as a core transcription factor regulating LP genes, leading to LP expansion. Our findings suggest that replication stress is a driving factor during BRCA1-associated tumorigenesis in luminal progenitor cells and elucidates the key role of ELF3 during this process.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1093/nar/gkx1081">https://doi.org/10.1093/nar/gkx1081</a></li>
-<li><a href="https://doi.org/10.1089/104454903321515896">https://doi.org/10.1089/104454903321515896</a></li>
-<li><a href="https://doi.org/10.1038/nature12965">https://doi.org/10.1038/nature12965</a></li>
-<li><a href="https://doi.org/10.1038/nature10983">https://doi.org/10.1038/nature10983</a></li>
-<li><a href="https://doi.org/10.1038/ncomms6496">https://doi.org/10.1038/ncomms6496</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/16998500">https://www.ncbi.nlm.nih.gov/pubmed/16998500</a></li>
-<li><a href="https://doi.org/10.1038/nm.4118">https://doi.org/10.1038/nm.4118</a></li>
-<li><a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.89573.3">https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.89573.3</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/33686070">https://www.ncbi.nlm.nih.gov/pubmed/33686070</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/11156530">https://www.ncbi.nlm.nih.gov/pubmed/11156530</a></li>
-</ul>
-<p><a href="https://elifesciences.org/articles/89573">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] ChemRxiv ▶ Chirality transfer in nematic liquid crystals via octahedral coordination compounds with Δ and Λ chirality</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Nematic (N) liquid crystals (LCs), characterized by one-dimensional orientational order, readily transform into chiral nematic (N*) phases upon the incorporation of optically active substances, known </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
-<p><strong>AI Decision:</strong> Materials-chemistry preprint showing highly efficient chirality transfer from Δ/Λ metal complexes into nematic liquid crystals, offering a potential model system for studying chiral amplification and ordered-phase effects relevant (indirectly) to prebiotic homochirality.</p>
-<p><strong>Abstract:</strong> Nematic (N) liquid crystals (LCs), characterized by one-dimensional orientational order, readily transform into chiral nematic (N*) phases upon the incorporation of optically active substances, known as chiral dopants. While the ease of N* induction has driven the extensive development of organic chiral dopants, coordination compounds possessing Δ/Λ chirality have emerged as compelling alternatives, offering distinct structural and functional attributes. A defining feature of these &quot;metallodopants&quot; is their exceptionally high helical twisting power (HTP). For instance, early studies demonstrated that the simple complex Λ-[Ru(acac)3] exhibits a remarkably high HTP of 90 micrometer-1 in MBBA (N-(4-methoxybenzylidene)-4-butylaniline). This efficiency is attributed to the rigid coordination framework, which facilitates robust chirality transfer to the host LC. However, metallodopants often face challenges regarding miscibility with nematic hosts and intrinsic coloration, potentially complicating their integration into optical devices; consequently, systematic investigations have been limited compared to organic dopants. Nevertheless, metallodopants offer unique advantages. In tris(chelate) metal complexes, the sense of the induced helix (P or M) is strongly correlated with ligand orientation; for example, a 90° rotation of a ligand’s elongation axis can reverse the helical sense. This predictable inversion, supported by theoretical models, underscores the critical role of structural rigidity. Furthermore, the intrinsic absorption of these complexes, once viewed as a drawback, is now being harnessed for resonance Raman enhancement and chiroptical modulation. By combining high HTPs, predictable helix inversion, and spectroscopic utility, coordination compounds are positioning themselves as versatile competitors to organic dopants, serving as both functional inducers and optical probes for next-generation photonic and sensing technologies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-s9shs?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] biochemistry - biorXiv Preprints ▶ Structural probing of RNA hairpins quantifies protein occupancy on RNA and links it to function in human cells</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>RNA structures that form inside living cells influence processes ranging from translation to RNA decay, many of which are controlled by RNA-binding proteins (RBPs). Because RBP specificity depends on </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Introduces a DMS-MaPseq-based framework to quantify RNA hairpin structure and in-cell protein occupancy at single-nucleotide resolution, enabling effective affinity/occupancy estimates that predict functional outcomes (RNA decay) in human cells.</p>
-<p><strong>Abstract:</strong> RNA structures that form inside living cells influence processes ranging from translation to RNA decay, many of which are controlled by RNA-binding proteins (RBPs). Because RBP specificity depends on both local RNA structure and sequence motifs, traditional pulldown-based methods often obscure the structural context of bound RNAs. Here, a quantitative framework based on dimethyl sulfate mutational profiling and sequencing (DMS-MaPseq) is introduced that jointly measures RNA structure and protein binding at single-nucleotide resolution in human cells, enabling estimation of effective RNA-protein affinities and fractional occupancy directly in cells. Application of this approach to a 1,600-member library of MS2 hairpin mutants reveals that RNA folding is the strongest determinant of MS2 coat protein (MCP) recognition, and that stable MS2 structures must form for MCP to bind its target sequence. MCP also shows strong preference for its consensus loop sequence while displaying minimal dependence on stem length beyond ten base pairs or on stem GC content. Incorporation of an inducible degron fused to MCP allows precise tuning of intracellular protein concentrations analogous to those of many endogenous RBPs and show that DMS reactivity changes can be used to infer binding specificities across a subsaturating regime. A quantitative occupancy framework further shows that inferred fraction-bound values accurately predict how efficiently MCP fused to a downregulatory-domain drives RNA degradation. Together, these results establish a generalizable approach for measuring RBP-RNA affinities with structural resolution in living cells, dissecting how sequence and structure contribute to RBP recognition, and quantitatively linking occupancy to functional output.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698062v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [35] Scientific American ▶ ‘Microbubbles’ Help Spread Dangerous Microplastics Through Our Water, Study Finds</title>
     <link href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/"/>
     <id>https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/</id>
@@ -5810,103 +5490,6 @@
 <li><a href="https://doi.org/10.1126/sciadv.aea4729">https://doi.org/10.1126/sciadv.aea4729</a></li>
 </ul>
 <p><a href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] molecular biology - biorXiv Preprints ▶ A PIWI protein-dependent DNA N6-adenine methylation pathway in Oxytricha protects genomic sequences from deletion</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>The ciliate Oxytricha undergoes massive genome rearrangements during development to produce a functional nucleus from an encrypted zygotic genome. PIWI-interacting small RNAs protect DNA regions again</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study shows that piRNA/PIWI signaling in the ciliate Oxytricha guides N6-adenine DNA methylation (6mA) via MTA1 to mark and protect genomic regions from programmed deletion during nuclear development, illustrating an RNA-directed epigenetic mechanism for genome maintenance.</p>
-<p><strong>Abstract:</strong> The ciliate Oxytricha undergoes massive genome rearrangements during development to produce a functional nucleus from an encrypted zygotic genome. PIWI-interacting small RNAs protect DNA regions against deletion, but how that protective mark is established has been a mystery. Recently our lab discovered MTA1, a methyltransferase that catalyzes DNA N6-adenine (6mA) methylation. Both MTA1 and the Oxytricha Piwi protein, Otiwi1, are required for development, and Otiwi1 mutation eliminates 6mA signal. To examine the role of 6mA, we analyzed its genome-wide distribution across development in wild-type and MTA1 mutant backcrossed cells. We find specific and abundant enrichment on retained sequences, suggesting a protective role for this epigenetic mark. Furthermore, programmed retention of a DNA region that is normally deleted leads to accumulation of new 6mA marks on the ectopically retained DNA sequence. Together, these results suggest that piRNA-guided 6mA DNA methylation leads to protection of DNA sequences against deletion during nuclear differentiation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.06.698049v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] ChemRxiv ▶ Aqueous FeCl3-Mediated Assembly of heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>A green synthetic approach was reported for constructing heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties using FeCl3 catalysis in water. The method demons</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Reports an FeCl3-catalyzed aqueous synthetic method to assemble pyrazole-containing heterocycles, which is environmentally benign chemistry but only tangentially relevant to origins-of-life beyond demonstrating reactions in water.</p>
-<p><strong>Abstract:</strong> A green synthetic approach was reported for constructing heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties using FeCl3 catalysis in water. The method demonstrated broad substrate scope, high functional group tolerance and easy operation, achieving yields of 35-86%. The protocol’s efficiency in aqueous conditions highlights its environmental advantages while maintaining synthetic versatility for bioactive heterocycles. Furthermore, the amplification experiment and synthetic transformations of the adducts including modifications of marketed drugs further highlighted their practicalities.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] Organic Chemistry on ChemRxiv ▶ Aqueous FeCl3-Mediated Assembly of heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>A green synthetic approach was reported for constructing heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties using FeCl3 catalysis in water. The method demons</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Reports an FeCl3-catalyzed aqueous method to synthesize pyrazole-containing heterocycles with tertiary alcohol ester motifs, relevant mainly as tangential prebiotic-chemistry-adjacent aqueous catalysis rather than a direct origins-of-life study.</p>
-<p><strong>Abstract:</strong> A green synthetic approach was reported for constructing heterocyclic compounds containing both pyrazole scaffolds and tertiary alcohol ester moieties using FeCl3 catalysis in water. The method demonstrated broad substrate scope, high functional group tolerance and easy operation, achieving yields of 35-86%. The protocol’s efficiency in aqueous conditions highlights its environmental advantages while maintaining synthetic versatility for bioactive heterocycles. Furthermore, the amplification experiment and synthetic transformations of the adducts including modifications of marketed drugs further highlighted their practicalities.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-l85m1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] ChemRxiv ▶ Assessing potential wildfire ash organic carbon threats to drinking water: Key considerations</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>To evaluate the impact of wildfire on drinking water treatability, wildfire ash is often added to source water to reflect post-fire source water quality change. The use of varying experimental conditi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Bench-scale study quantifying how mixing time, ash concentration, and water type control wildfire-ash leaching of water-extractable organic matter, with limited direct relevance to origins-of-life beyond general aqueous organic carbon chemistry.</p>
-<p><strong>Abstract:</strong> To evaluate the impact of wildfire on drinking water treatability, wildfire ash is often added to source water to reflect post-fire source water quality change. The use of varying experimental conditions has led to conflicting inferences across studies and inconsistent results, even between nominal replicates. Here, mixing time and ash concentration effects on wildfire ash-impacted water (WAIW) quality were investigated, and their impacts on leached water extractable organic matter (WEOM) from wildfire and prescribed fire ash were characterized at bench-scale. The effects of mixing time and ash-to-water ratios were investigated using both natural river water and ultrapure water. Notably, WEOM concentration and character varied considerably within the first 24 hours of mixing, and water type and ash mass concentration limit the leaching of WEOM into water. These results highlight the critical role of careful experimental design and well-justified approaches to support meaningful interpretation and comparability across studies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] ChemRxiv ▶ Size-Controlled Hydrothermal Synthesis of Crystalline High-entropy Spinel Oxide Nanoparticles for Oxygen Evolution Electrocatalysts</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>High-entropy oxides offer a promising platform for oxygen evolution reaction catalysis owing to their entropy-stabilized structures and flexible design of cation metal elements. However, conventional </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Materials/electrocatalysis study demonstrating size-controlled hydrothermal synthesis of high-entropy spinel oxide nanoparticles that boost oxygen-evolution (water-splitting) performance, with only indirect relevance to Origins of Life via general redox/energy catalysis contexts.</p>
-<p><strong>Abstract:</strong> High-entropy oxides offer a promising platform for oxygen evolution reaction catalysis owing to their entropy-stabilized structures and flexible design of cation metal elements. However, conventional high-temperature synthesis leads to extensive particle growth and limits access to nanoscale particles with higher density of catalytic sites. Here, a subcritical hydrothermal synthesis combined with catechol-assisted growth regulation is introduced to produce high-entropy single-phase spinel oxide nanoparticles with controlled crystallite sizes down to the single-nanometer scale. The resulting reduction in particle size markedly enhances the oxygen evolution activity. A linear dependence of the oxygen evolution current density on the inverse crystallite size highlights the critical role of nanoscale structures in accelerating catalytic reactions. In-situ X-ray absorption spectroscopy reveals electronic and structural robustness of all constituent metal elements under OER conditions, with negligible shifts in oxidation state or changes in local coordination structure, which is distinct from the pronounced reconstruction typically observed in conventional oxide catalysts. When deployed in a membrane electrode assembly, our synthesized high-entropy oxide catalysts with the smallest particle size deliver 2.0 A cm-2 at 1.96 V, demonstrating practical relevance for high-current-density electrolysis. This work establishes low-temperature hydrothermal synthesis with organic molecular regulation as a powerful and scalable route to engineer highly crystalline, compositionally homogeneous high-entropy oxide nanoparticles, offering design guidelines for next-generation oxygen evolution reaction catalysts.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-wdv1z?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] Organic Chemistry on ChemRxiv ▶ Assessing potential wildfire ash organic carbon threats to drinking water: Key considerations</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>To evaluate the impact of wildfire on drinking water treatability, wildfire ash is often added to source water to reflect post-fire source water quality change. The use of varying experimental conditi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Bench-scale study shows wildfire ash leaches water-extractable organic matter rapidly and variably within 24 hours depending on mixing time, ash loading, and water type—useful for environmental aqueous organic chemistry but only tangential to origins-of-life research.</p>
-<p><strong>Abstract:</strong> To evaluate the impact of wildfire on drinking water treatability, wildfire ash is often added to source water to reflect post-fire source water quality change. The use of varying experimental conditions has led to conflicting inferences across studies and inconsistent results, even between nominal replicates. Here, mixing time and ash concentration effects on wildfire ash-impacted water (WAIW) quality were investigated, and their impacts on leached water extractable organic matter (WEOM) from wildfire and prescribed fire ash were characterized at bench-scale. The effects of mixing time and ash-to-water ratios were investigated using both natural river water and ultrapure water. Notably, WEOM concentration and character varied considerably within the first 24 hours of mixing, and water type and ash mass concentration limit the leaching of WEOM into water. These results highlight the critical role of careful experimental design and well-justified approaches to support meaningful interpretation and comparability across studies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-gbt98-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] nature.com - Biological sciences ▶ Highly efficient expression of DNA-peptide conjugates in growth-arrested cells</title>
-    <link href="https://www.nature.com/articles/s41467-025-68167-5"/>
-    <id>https://www.nature.com/articles/s41467-025-68167-5</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Reports a high-efficiency method to express DNA–peptide conjugates in growth-arrested cells, a synthetic-biology advance that broadly informs genotype–phenotype linkage technologies but is not directly focused on prebiotic/abiogenesis origins-of-life questions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-68167-5">https://www.nature.com/articles/s41467-025-68167-5</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-68167-5">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [0] math-ph updates on arXiv.org ▶ Exact State Evolution and Energy Spectrum in Solvable Bosonic Models</title>
@@ -6229,61 +5812,5 @@
 <li><a href="https://arxiv.org/abs/2601.02539">https://arxiv.org/abs/2601.02539</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2601.02539">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [13] Scientific Reports ▶ Transcriptomic analysis of preimplantation mouse embryos exposed to nanoplastics using RNA sequencing</title>
-    <link href="https://www.nature.com/articles/s41598-025-29446-9"/>
-    <id>https://www.nature.com/articles/s41598-025-29446-9</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Scientific Reports, Published online: 07 January 2026; doi:10.1038/s41598-025-29446-9 Transcriptomic analysis of preimplantation mouse embryos exposed to nanoplastics using RNA sequencing</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> RNA-seq profiling of nanoplastic-exposed preimplantation mouse embryos reveals transcriptomic perturbations relevant to developmental toxicology rather than origins-of-life or prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> Scientific Reports, Published online: 07 January 2026; doi:10.1038/s41598-025-29446-9 Transcriptomic analysis of preimplantation mouse embryos exposed to nanoplastics using RNA sequencing</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41598-025-29446-9">https://www.nature.com/articles/s41598-025-29446-9</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41598-025-29446-9">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] ChemRxiv ▶ Luminescent Zr Complexes with Long-lived Intraligand Charge Transfer Excited States</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Understanding and establishing design principles to tune the excited states of earth-abundant sensitizers is crucial for identifying new photosensitizers for sustainable technological advancements. He</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Reports air- and water-stable Zr(IV) complexes with tunable intraligand charge-transfer excited states (TADF, ISC, ΔEST) as design principles for earth-abundant photosensitizers, with only indirect relevance to origins-of-life via potential prebiotic photochemistry in aqueous environments.</p>
-<p><strong>Abstract:</strong> Understanding and establishing design principles to tune the excited states of earth-abundant sensitizers is crucial for identifying new photosensitizers for sustainable technological advancements. Here, we report a series of three bis Zr (IV) complexes of tridentate, dianionic ligands incorporating two phenoxide donors and aza arene acceptors of increasing electron affinity (pyridine &lt; pyrimidine &lt; pyrazine ) that are air and water-stable. These complexes emit via thermally assisted delayed fluorescence from an intraligand charge transfer excited state with varying metal contributions. The electronic structural changes from different acceptors vary the excited state character and the photophysical properties significantly between the complexes. The variation in photophysics that includes emission lifetime (76 μs to 265 ns), intersystem crossing (ISC) lifetime ( 390 – 290 ps), and the energy difference between the singlet and triplet excited states (∆EST. 170 -100 meV). We observe solvent-independent ISC rates when the excited state has metal contributions (acceptor = pyridine), and the ISC rates vary significantly with solvent polarity when the excited state is an intra-ligand charge transfer state (acceptor = pyrimidine and pyrazine). Transient absorption measurements provided the basis spectra and verified the metal contribution in the excited state. This work provides a basis for developing new sensitizers based on Zr (IV) by providing design principles that can be used to modulate the character of the excited state and its photophysics.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gprqp?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] ChemRxiv ▶ Unlocking Aromatic Amine Oxidation in APEX2 by Engineering the Heme Axial Ligand with Genetically Encoded Nδ-Vinyl Histidine</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>The axial ligand of heme is a key determinant of reactivity in heme-dependent enzymes, yet its systematic engineering remains challenging due to the limited chemical diversity of natural amino acids. </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> ChemRxiv preprint describing genetic code expansion to replace a heme axial histidine ligand in APEX2 with Nδ-vinyl histidine, enabling (and then improving via directed evolution) aromatic amine oxidation, a result mainly relevant to biocatalyst engineering rather than origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> The axial ligand of heme is a key determinant of reactivity in heme-dependent enzymes, yet its systematic engineering remains challenging due to the limited chemical diversity of natural amino acids. Here, we demonstrate that replacing the native histidine axial ligand with a non-natural analog provides an effective strategy to regulate heme enzyme activity. By site-specifically incorporating δVin-H into APEX2, we reprogrammed the electronic structure of the heme center and unlocked catalytic activity toward aromatic amine substrates. Directed evolution of the APEX2-VinH enzyme yielded APEX3-VinH, which exhibits a pronounced enhancement in catalytic efficiency and robustness for aromatic amine oxidation. Notably, optimization of the δVin-H synthetase enabled highly efficient incorporation. This work establishes axial ligand engineering via genetic code expansion as a general and powerful strategy to reprogram the catalytic repertoire of heme enzymes, with broad implications for biocatalysis and the development of next-generation proximality labeling tools.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-fxt3g?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] Nature Communications ▶ DNA actively regulates the “safety-belt” dynamics of condensin during loop extrusion</title>
-    <link href="https://www.nature.com/articles/s41467-025-68239-6"/>
-    <id>https://www.nature.com/articles/s41467-025-68239-6</id>
-    <updated>2026-01-07T00:00:00Z</updated>
-    <summary>Nature Communications, Published online: 07 January 2026; doi:10.1038/s41467-025-68239-6 The molecular mechanism underlying DNA entrapment during loop extrusion by condensin remains poorly understood.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Multiscale simulations suggest that DNA actively guides condensin’s flexible “safety-belt” conformation during loop extrusion, informing modern nucleoprotein mechanics with limited direct origins-of-life relevance.</p>
-<p><strong>Abstract:</strong> Nature Communications, Published online: 07 January 2026; doi:10.1038/s41467-025-68239-6 The molecular mechanism underlying DNA entrapment during loop extrusion by condensin remains poorly understood. Here, the authors use multiscale molecular simulations to show that DNA itself steers a flexible “safety belt” in condensin.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-68239-6">https://www.nature.com/articles/s41467-025-68239-6</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-68239-6">Read source article</a></p>]]></content>
   </entry>
 </feed>

@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113202413&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [An optimized approach for Lithium Extraction from ore found ](https://dx.doi.org/10.26434/chemrxiv-2026-2hg8t?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [UniWave: A Waveform-Based Encoding Framework for Nucleic Aci](https://www.biorxiv.org/content/10.64898/2026.01.12.698567v1?rss=1) |
 | ai_scored | 30 | [Hierarchical Encoding of Regulatory Mechanisms and Expressio](https://www.biorxiv.org/content/10.64898/2026.01.10.698352v1?rss=1) |
 | keyword_rejected | - | [Opinion polarization and its connected disagreement: Modelin](http://link.aps.org/doi/10.1103/rldl-6t9s) |
