@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [United States and European Union aid cuts risk exacerbating ](https://www.nature.com/articles/s44458-025-00011-9) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114012842&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Artificial intelligence with deep convolutional neural netwo](https://www.nature.com/articles/s41598-025-34690-0) |
+| keyword_rejected | - | [Balance and imbalance in dark and bright (OFF and ON) visual](https://www.nature.com/articles/s41598-025-28463-y) |
+| keyword_rejected | - | [Comprehensive assessment of ground motion amplification in s](https://www.nature.com/articles/s41598-026-35581-8) |
 | ai_scored | 45 | [Tara Polaris expeditions: Sustained decadal observations of ](https://arxiv.org/abs/2601.08370) |
 | ai_scored | 45 | [2025 Wasn’t the Hottest Year on Record. Earth Is Still Barre](https://www.scientificamerican.com/article/2025-wasnt-the-hottest-year-on-record-earth-is-still-barreling-to-the/) |
 | ai_scored | 65 | [Direct measurement of the attractive electrosolvation force ](https://arxiv.org/abs/2508.14652) |
