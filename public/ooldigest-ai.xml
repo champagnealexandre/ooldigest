@@ -3,8 +3,121 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T19:17:02.119784+00:00</updated>
+  <updated>2026-01-14T20:17:44.678775+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] nature.com - Biological sciences ▶ Comprehensive mapping of RNA modification dynamics and crosstalk via deep learning and nanopore direct RNA-sequencing</title>
+    <link href="https://www.nature.com/articles/s41467-026-68419-y"/>
+    <id>https://www.nature.com/articles/s41467-026-68419-y</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Nature Communications study using deep learning with nanopore direct RNA sequencing to map RNA modification dynamics and modification crosstalk, offering methodological advances relevant to RNA biology but only indirect context for origins-of-life questions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68419-y">https://www.nature.com/articles/s41467-026-68419-y</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68419-y">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Nature Communications ▶ Comprehensive mapping of RNA modification dynamics and crosstalk via deep learning and nanopore direct RNA-sequencing</title>
+    <link href="https://www.nature.com/articles/s41467-026-68419-y"/>
+    <id>https://www.nature.com/articles/s41467-026-68419-y</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 14 January 2026; doi:10.1038/s41467-026-68419-y RNA modifications influence gene regulation, but global mapping was limited. Here, the authors introduce ORCA, </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces ORCA, a deep-learning nanopore direct RNA-seq framework to map multiple RNA modification types and their isoform-specific dynamics, offering broadly relevant tools for RNA biology with indirect implications for RNA-centric origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 14 January 2026; doi:10.1038/s41467-026-68419-y RNA modifications influence gene regulation, but global mapping was limited. Here, the authors introduce ORCA, a deep learning framework using nanopore RNA sequencing to detect multiple modification types, revealing isoform-specific patterns and regulatory interactions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68419-y">https://www.nature.com/articles/s41467-026-68419-y</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68419-y">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] PLOS Computational Biology ▶ Cross-linking mass spectrometry for structure analysis of the intrinsically disordered Tau and phosphorylated Tau protein</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013868"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013868</id>
+    <updated>2026-01-14T14:00:00Z</updated>
+    <summary>by Cristian Arsene, Alexander Gates, Anne-Katrin Römmert, André Märtens, Valentina Faustinelli, Luise Luckau, Gavin O’Connor We present a novel method for analyzing the folding of intrinsically disord</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces an XL-MS network-analysis framework to quantify conformational differences and aggregation-linked structural evolution in intrinsically disordered Tau and phosphorylated Tau, with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> by Cristian Arsene, Alexander Gates, Anne-Katrin Römmert, André Märtens, Valentina Faustinelli, Luise Luckau, Gavin O’Connor We present a novel method for analyzing the folding of intrinsically disordered proteins (IDPs), such as Tau and phosphorylated Tau (pTau), in solution. Using cross-linking mass spectrometry (XL-MS) combined with a new downstream analysis framework, we construct weighted interaction networks from cross-link–derived residue pairs without relying on predefined secondary structure assumptions. Structural differences between protein conformations are quantified by comparing the organization of loop structures within their cross-link networks. Validation with bovine serum albumin (BSA) in native and denatured states shows that at least 500 cross-links—requiring 5–10 replicate measurements—are needed for reliable detection of structural divergence. Leave-one-out analysis confirms that structural transitions are global, highlighting the importance of comprehensive cross-link datasets. The coverage of unique cross-links was evaluated using accumulation curves from randomized permutations. Saturation levels were found to be 9.7%, 5.0%, and 6.2% of the total 528 and 10,731 possible cross-links after 30, 84, and 62 technical replicates, respectively, for myoglobin, native BSA, and denatured BSA. For Tau and pTau, coverage reached 10.8% and 5.5% of the upper limit (8,256). Finally, applying our structural analysis to Tau and pTau during arachidonic acid–induced aggregation revealed distinct patterns of structural evolution between the two proteins.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013868.g003">https://doi.org/10.1371/journal.pcbi.1013868.g003</a></li>
+<li><a href="https://doi.org/10.1021/acs.analchem.9b00658">https://doi.org/10.1021/acs.analchem.9b00658</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/39251624">http://www.ncbi.nlm.nih.gov/pubmed/39251624</a></li>
+<li><a href="https://doi.org/10.1016/0022-2836(80)90373-3">https://doi.org/10.1016/0022-2836(80)90373-3</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31045356">http://www.ncbi.nlm.nih.gov/pubmed/31045356</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7373651">http://www.ncbi.nlm.nih.gov/pubmed/7373651</a></li>
+<li><a href="https://doi.org/10.21105/joss.01264">https://doi.org/10.21105/joss.01264</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/34375526">http://www.ncbi.nlm.nih.gov/pubmed/34375526</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/35731895">http://www.ncbi.nlm.nih.gov/pubmed/35731895</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013868.s003">https://doi.org/10.1371/journal.pcbi.1013868.s003</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013868">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] PLOS Computational Biology ▶ Powerful large scale inference in high dimensional mediation analysis</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013880"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013880</id>
+    <updated>2026-01-14T14:00:00Z</updated>
+    <summary>by Asmita Roy, Xianyang Zhang In genome-wide epigenetic studies, determining how exposures (e.g., Single Nucleotide Polymorphisms) affect outcomes (e.g., gene expression) through intermediate variable</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Introduces MLFDR, a local-false-discovery-rate method that boosts power while controlling FDR for genome-wide high-dimensional mediation analysis to identify DNA methylation mediators linking genetic exposures to gene expression outcomes.</p>
+<p><strong>Abstract:</strong> by Asmita Roy, Xianyang Zhang In genome-wide epigenetic studies, determining how exposures (e.g., Single Nucleotide Polymorphisms) affect outcomes (e.g., gene expression) through intermediate variables, such as DNA methylation, is a key challenge. Mediation analysis provides a framework to identify these causal pathways; however, testing for mediation effects involves a complex composite null hypothesis. Existing methods, such as Sobel’s test or the Max-P test, are often underpowered in this context because they rely on null distributions determined under only a subset of the null space and are not optimized for the multiple testing burden inherent in high-dimensional data. To address these limitations, we introduce MLFDR (Mediation Analysis using Local False Discovery Rates), a novel method for high-dimensional mediation analysis. MLFDR leverages local false discovery rates, calculated from the coefficients of structural equation models, to construct an optimal rejection region. We demonstrate theoretically and through simulation that MLFDR asymptotically controls the false discovery rate and achieves superior statistical power compared to recent high-dimensional mediation methods. In real data applications, MLFDR identified 20%–50% more significant mediators than existing methods, demonstrating its ability to uncover biological signals missed by conventional approaches.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e005">https://doi.org/10.1371/journal.pcbi.1013880.e005</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e087">https://doi.org/10.1371/journal.pcbi.1013880.e087</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e136">https://doi.org/10.1371/journal.pcbi.1013880.e136</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e020">https://doi.org/10.1371/journal.pcbi.1013880.e020</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e030">https://doi.org/10.1371/journal.pcbi.1013880.e030</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e200">https://doi.org/10.1371/journal.pcbi.1013880.e200</a></li>
+<li><a href="https://doi.org/10.1093/hmg/dds025">https://doi.org/10.1093/hmg/dds025</a></li>
+<li><a href="https://doi.org/10.1007/s11121-011-0270-1">https://doi.org/10.1007/s11121-011-0270-1</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e068">https://doi.org/10.1371/journal.pcbi.1013880.e068</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e057">https://doi.org/10.1371/journal.pcbi.1013880.e057</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013880">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] phys.org - Space News ▶ From a new flagship space telescope to lunar exploration, global cooperation will make 2026 an exciting year for space</title>
+    <link href="https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html"/>
+    <id>https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html</id>
+    <updated>2026-01-14T20:06:55Z</updated>
+    <summary>In 2026, astronauts will travel around the moon for the first time since the Apollo era, powerful new space telescopes will prepare to survey billions of galaxies, and multiple nations will launch mis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, habitab*</p>
+<p><strong>AI Decision:</strong> A broad 2026 spaceflight/telescope outlook highlighting upcoming missions relevant to habitability (habitable worlds) and water on the Moon, but without direct origins-of-life or biosignature science content or cited academic sources.</p>
+<p><strong>Abstract:</strong> In 2026, astronauts will travel around the moon for the first time since the Apollo era, powerful new space telescopes will prepare to survey billions of galaxies, and multiple nations will launch missions aimed at finding habitable worlds, water on the moon and clues to how our solar system formed.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ Benchmarking computational decontamination of ambient RNA</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699237v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699237v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Gene expression profiling of single cells using single-cell and single-nucleus RNA sequencing (sxRNA-seq) enables researchers to characterizing cellular heterogeneity and unraveling complex biological</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Benchmarks seven computational methods (notably CellBender and DecontX) for removing ambient RNA contamination in single-cell/single-nucleus RNA-seq across simulations and mixing experiments to improve downstream gene-expression analyses.</p>
+<p><strong>Abstract:</strong> Gene expression profiling of single cells using single-cell and single-nucleus RNA sequencing (sxRNA-seq) enables researchers to characterizing cellular heterogeneity and unraveling complex biological processes at unprecedented resolution. However, sxRNA-seq faces challenges due to the presence of ambient RNA, extraneous RNA molecules not originating from the cells of interest. Sample preparation is a major source of ambient RNA, where harsh conditions can lead to cell lysis and the release of intracellular RNA. This inescapable inclusion of ambient RNA can cause erroneous results and hinder downstream analyses. To address this issue, various methodologies have been developed to identify, quantify, and remove ambient RNA. Here, we rigorously evaluate 7 state-of-the-art methodologies for ambient RNA removal using simulated datasets, species-mixing experiments of varying complexities and genotype-mixing experiments. We find that no single method performs the best across all datasets and metrics, but CellBender and DecontX generally perform well.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699237v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699237v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699237v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] molecular biology - biorXiv Preprints ▶ GapR is a nucleoid-associated protein that stiffens and overtwists DNA to promote transcription and replication</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699244v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699244v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>GapR is an -proteobacterial nucleoid-associated protein reported to either directly regulate transcription of AT-rich DNA or to regulate transcription indirectly through sensing DNA topology and modul</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> This study shows the bacterial nucleoid protein GapR binds AT-rich and overtwisted DNA extremely stably, mechanically stiffening and overtwisting duplex DNA to differentially stimulate or repress transcription and thereby promote efficient replication/transcription progression.</p>
+<p><strong>Abstract:</strong> GapR is an -proteobacterial nucleoid-associated protein reported to either directly regulate transcription of AT-rich DNA or to regulate transcription indirectly through sensing DNA topology and modulating topoisomerase activity. We use single-DNA micromechanics, biolayer interferometry (BLI), and computational analysis to study GapR transcriptional regulation. Micromechanics experiments show that GapR overtwists DNA and shortens its contour length. GapR binding also substantially increases DNA bending persistence length and twist stiffness, while promoting duplex DNA melting at higher forces. Nonequilibrium binding experiments show GapR-DNA complexes to be extremely stable, with essentially no dissociation on hour-long time scales. Strikingly, our BLI experiments show that GapR has high affinity for AT-rich DNA while our micromechanics show that GapR binding is enhanced by pre-twisting of DNA, validating GapR affinity for both forms. By analyzing published GapR binding data, we differentiate between AT-rich and overtwisted DNA binding, revealing that overtwisted DNA primarily determines GapR localization. Lastly, we show that these two binding modes exert opposite effects on transcription. AT-rich binding stimulates initiation, likely by promoting RNA polymerase progression, while overtwisted DNA binding represses transcription, possibly by stabilizing local overtwist at promoters. We propose that GapR binding promotes a conformation of DNA ideal for efficient replication and transcription progression.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699244v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699244v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699244v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [15] Scientific American ▶ Scientists Find Extinct Rhino DNA in Wolf Pup Mummy&#x27;s Stomach</title>
     <link href="https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/"/>
@@ -6446,44 +6559,5 @@
 <p><strong>Abstract:</strong> How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie&#x27;s Luke Bouma is exploring a new way to probe this critical question—using naturally occurring space weather stations that orbit at least 10% of M dwarf stars during their early lives. He is presenting his work at the 247th American Astronomical Society meeting.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] phys.org - Space News ▶ Lunar spacecraft exhaust could obscure clues to origins of life</title>
-    <link href="https://phys.org/news/2026-01-lunar-spacecraft-exhaust-obscure-clues.html"/>
-    <id>https://phys.org/news/2026-01-lunar-spacecraft-exhaust-obscure-clues.html</id>
-    <updated>2026-01-07T19:31:27Z</updated>
-    <summary>Over half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of Earthly life, according to a recent study. The</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, origin(s) of life</p>
-<p><strong>AI Decision:</strong> Study suggests methane exhaust from lunar landers could rapidly migrate and contaminate lunar cold-trap regions, potentially obscuring chemical records relevant to understanding the origins of Earth’s life.</p>
-<p><strong>Abstract:</strong> Over half of the exhaust methane from lunar spacecraft could end up contaminating areas of the moon that might otherwise yield clues about the origins of Earthly life, according to a recent study. The pollution could unfold rapidly regardless of a spacecraft&#x27;s touchdown site; even for a landing at the South Pole, methane molecules may &quot;hop&quot; across the lunar surface to the North Pole in under two lunar days.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-lunar-spacecraft-exhaust-obscure-clues.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] phys.org - Space News ▶ Vera C. Rubin Observatory spots record-breaking asteroid in pre-survey observations</title>
-    <link href="https://phys.org/news/2026-01-vera-rubin-observatory-asteroid-pre.html"/>
-    <id>https://phys.org/news/2026-01-vera-rubin-observatory-asteroid-pre.html</id>
-    <updated>2026-01-07T19:28:23Z</updated>
-    <summary>Astronomers analyzing data from Vera C. Rubin Observatory have discovered the fastest-ever spinning asteroid with a diameter over half a kilometer—a feat uniquely enabled by Rubin. The study provides </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Pre-survey Rubin Observatory data reveal a record-breaking fast-spinning large asteroid, informing small-body composition and evolution with only indirect relevance to origins-of-life questions (e.g., planetesimal evolution and delivery of building blocks).</p>
-<p><strong>Abstract:</strong> Astronomers analyzing data from Vera C. Rubin Observatory have discovered the fastest-ever spinning asteroid with a diameter over half a kilometer—a feat uniquely enabled by Rubin. The study provides crucial information about asteroid composition and evolution, and demonstrates how Rubin is pushing the boundaries of what we can discover within our own solar system.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-vera-rubin-observatory-asteroid-pre.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Lunar Spacecraft Exhaust Could Obscure Clues To Origins Of Life</title>
-    <link href="https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html"/>
-    <id>https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html</id>
-    <updated>2026-01-07T19:34:25Z</updated>
-    <summary>Over half of the exhaust methane from lunar spacecraft could end up contaminating areas ofthe moon that might otherwise yield clues about the origins of earthly life, according toa recent study. The p</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, origin(s) of life, astrochemistry</p>
-<p><strong>AI Decision:</strong> A modeling study suggests methane exhaust from lunar landers can rapidly migrate and contaminate cold-trap regions of the Moon that may preserve pristine organics relevant to reconstructing the origins of life on Earth.</p>
-<p><strong>Abstract:</strong> Over half of the exhaust methane from lunar spacecraft could end up contaminating areas ofthe moon that might otherwise yield clues about the origins of earthly life, according toa recent study. The pollution could unfold rapidly regardless of a spacecraft’s touchdownsite; even for a landing at the South Pole, methane molecules may “hop” across the […] The post Lunar Spacecraft Exhaust Could Obscure Clues To Origins Of Life appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009132">https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JE009132</a></li>
-<li><a href="https://doi.org/10.1029/2025JE009132">https://doi.org/10.1029/2025JE009132</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

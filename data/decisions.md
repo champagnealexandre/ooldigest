@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 40 | [GapR is a nucleoid-associated protein that stiffens and over](https://www.biorxiv.org/content/10.64898/2026.01.13.699244v1?rss=1) |
+| ai_scored | 15 | [Benchmarking computational decontamination of ambient RNA](https://www.biorxiv.org/content/10.64898/2026.01.13.699237v1?rss=1) |
+| ai_scored | 55 | [From a new flagship space telescope to lunar exploration, gl](https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html) |
+| ai_scored | 15 | [Powerful large scale inference in high dimensional mediation](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013880) |
+| ai_scored | 5 | [Cross-linking mass spectrometry for structure analysis of th](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013868) |
+| ai_scored | 45 | [Comprehensive mapping of RNA modification dynamics and cross](https://www.nature.com/articles/s41467-026-68419-y) |
+| ai_scored | 40 | [Comprehensive mapping of RNA modification dynamics and cross](https://www.nature.com/articles/s41467-026-68419-y) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114151730&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Peak strain dispersion as a nonlinear mediator in HFpEF: Unr](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013891) |
+| keyword_rejected | - | [How ageing harms the body’s response to raging infection](https://www.nature.com/articles/d41586-026-00159-x) |
+| keyword_rejected | - | [Trump Administration Slashes Mental Health and Addiction Gra](https://www.scientificamerican.com/article/trump-administration-slashes-mental-health-and-addiction-grants-report/) |
+| keyword_rejected | - | [Horses Can Smell Your Fear, Bizarre Sweat Study Finds](https://www.scientificamerican.com/article/horses-can-smell-your-fear-bizarre-sweat-study-finds/) |
+| keyword_rejected | - | [Dynamic allele usage of X-linked genes ameliorates neurodeve](https://www.nature.com/articles/s41467-026-68428-x) |
+| keyword_rejected | - | [Loss of Fsr quorum sensing promotes biofilm formation and wo](https://www.nature.com/articles/s41467-026-68366-8) |
+| keyword_rejected | - | [Identification of antimicrobial peptides from ancient gut mi](https://www.nature.com/articles/s41467-026-68495-0) |
+| keyword_rejected | - | [EGFR inhibitor-resistant lung cancers exhibit collateral sen](https://www.nature.com/articles/s41467-026-68424-1) |
+| keyword_rejected | - | [Simultaneous epigenomic profiling and regulatory activity me](https://www.nature.com/articles/s41467-026-68422-3) |
+| keyword_rejected | - | [A reconfigurable photosensitive split-floating-gate memory f](https://www.nature.com/articles/s41467-026-68402-7) |
+| keyword_rejected | - | [SoftHybrid: A Hybrid Imputation Algorithm Optimised for Sing](https://www.biorxiv.org/content/10.64898/2026.01.13.699212v1?rss=1) |
 | ai_scored | 15 | [Scientists Find Extinct Rhino DNA in Wolf Pup Mummy's Stomac](https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114141639&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Psychiatry has finally found an objective way to spot mental](https://www.newscientist.com/article/2509966-psychiatry-has-finally-found-an-objective-way-to-spot-mental-illness/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
