@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [Gene function predicts divergence across molecular levels](https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1) |
+| keyword_rejected | - | [Antoine Triller : « L’un des travaux récents les plus import](https://www.pourlascience.fr/sr/entretien/antoine-triller-l-un-des-travaux-recents-les-plus-importants-resulte-de-l-alliance-de-l-ia-et-de-la-biologie-moleculaire-28669.php) |
+| keyword_rejected | - | [Plus de 30000 manuscrits médiévaux retranscrits par l'IA !](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/plus-de-30000-manuscrits-medievaux-restranscrits-par-l-intelligence-artificielle_190397?xtor=RSS-12) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114061812&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [The infection enigma: why some people die from typically har](https://www.nature.com/articles/d41586-026-00082-1) |
+| keyword_rejected | - | [Multi-center multi-omics integration predicts individualized](https://www.nature.com/articles/s41467-025-67533-7) |
+| keyword_rejected | - | [Variable temperature processing by plasmodesmata regulates r](https://www.nature.com/articles/s41467-025-67260-z) |
+| keyword_rejected | - | [A scalable two-step genome editing strategy for generating f](https://www.nature.com/articles/s41467-025-67900-4) |
+| keyword_rejected | - | [6-Phosphogluconate dehydrogenase promotes mitochondrial fusi](https://www.nature.com/articles/s41467-025-68102-8) |
+| keyword_rejected | - | [Emergent topological semimetal from quantum criticality](https://www.nature.com/articles/s41567-025-03135-w) |
+| keyword_rejected | - | [2D perovskites featuring intralayer bidentate ligands](https://www.nature.com/articles/s41557-025-02051-z) |
+| keyword_rejected | - | [Longitudinal changes in neurometabolites in pediatric migrai](https://www.nature.com/articles/s41598-025-34148-3) |
+| keyword_rejected | - | [Growth of non-layered 2D transition metal nitrides enabled b](https://www.nature.com/articles/s41467-026-68321-7) |
+| keyword_rejected | - | [Sediment transport by Greenland’s icebergs](https://www.nature.com/articles/s41467-025-67938-4) |
 | ai_scored | 15 | [L'année 2025, encore l'une des plus chaudes jamais mesurées.](https://www.sciencesetavenir.fr/nature-environnement/climat/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15) |
 | keyword_rejected | - | [Hors-série Pour la Science n°130](https://www.pourlascience.fr/sd/histoire-sciences/hors-serie-pour-la-science-n130-28617.php) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114052037&v=2.18.0.post22+67771e2) |

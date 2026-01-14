@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T10:20:48.566953+00:00</updated>
+  <updated>2026-01-14T11:18:22.397282+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟡 [60] bioRxiv Subject Collection: Evolutionary Biology ▶ Gene function predicts divergence across molecular levels</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Genes can evolve through changes at their DNA, RNA, or protein levels. However, because these changes are measured using distinct and often incomparable metrics, their relative contributions to genic </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, evolution, DNA</p>
+<p><strong>AI Decision:</strong> This study proposes a standardized framework to compare evolutionary divergence across DNA sequence, gene expression, and protein structure and finds that divergence patterns depend on gene function and vary across taxa, informing how selection acts across molecular levels.</p>
+<p><strong>Abstract:</strong> Genes can evolve through changes at their DNA, RNA, or protein levels. However, because these changes are measured using distinct and often incomparable metrics, their relative contributions to genic evolution remain unclear. Here, we address this challenge by developing a standardized framework for comparing evolutionary divergence in protein-coding sequences, multi-tissue expression profiles, and protein structures. Application of this approach to data from Drosophila, rodents, primates, and Arabidopsis reveals substantial variation in divergence patterns across taxa, with only sequence divergence matching expectations based on evolutionary theory. Moreover, sequences evolve slowest and protein structures fastest in all taxa, consistent with the idea that higher levels of biological organization are closer proxies for the functions on which selection acts. Yet, weak correlations among divergence measures suggest that targets of selection vary across genes, perhaps depending on their functions. Indeed, few genes exhibit similar evolutionary patterns across all three levels, and different functions are enriched in genes with low or high divergence in protein-coding sequences, gene expression profiles, and protein structures. Together, these findings support the hypothesis that evolutionary targets of genes depend on their functions, shedding light on how selection shapes different levels of biological organization across taxa.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699300v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [15] Sciences et Avenir ▶ L&#x27;année 2025, encore l&#x27;une des plus chaudes jamais mesurées... et 2026 ?</title>
     <link href="https://www.sciencesetavenir.fr/nature-environnement/climat/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15"/>
@@ -6103,20 +6117,5 @@
 <li><a href="http://dx.doi.org/10.1126/sciadv.adx5460">http://dx.doi.org/10.1126/sciadv.adx5460</a></li>
 </ul>
 <p><a href="https://www.sciencedaily.com/releases/2026/01/260106224628.htm">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] Scientific American ▶ ‘Microbubbles’ Help Spread Dangerous Microplastics Through Our Water, Study Finds</title>
-    <link href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/"/>
-    <id>https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/</id>
-    <updated>2026-01-07T11:00:00Z</updated>
-    <summary>Water plays a crucial role in how tiny pieces of plastic enter our environment—and us</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> A Science Advances study shows that microbubbles in water can concentrate and transport microplastics, highlighting how air–water interfaces can mobilize particulate matter—processes potentially analogous to interface-driven transport relevant to prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> Water plays a crucial role in how tiny pieces of plastic enter our environment—and us</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.science.org/doi/full/10.1126/sciadv.aea4729">https://www.science.org/doi/full/10.1126/sciadv.aea4729</a></li>
-<li><a href="https://doi.org/10.1126/sciadv.aea4729">https://doi.org/10.1126/sciadv.aea4729</a></li>
-</ul>
-<p><a href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/">Read source article</a></p>]]></content>
   </entry>
 </feed>
