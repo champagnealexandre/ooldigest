@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Peering below Callisto's icy crust with ALMA](https://phys.org/news/2026-01-peering-callisto-icy-crust-alma.html) |
+| ai_scored | 5 | [Phase-controlled growth of 2D crystals of the MB<sub>2</sub>](https://www.nature.com/articles/s41467-026-68426-z) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114132808&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [L'épidémie de grippe menace de reprendre et entraîne déjà un](https://www.sciencesetavenir.fr/sante/l-epidemie-de-grippe-menace-de-reprendre-et-entraine-deja-une-mortalite-elevee_190406?xtor=RSS-16) |
+| keyword_rejected | - | [Cholesterol-lowering effects of oats induced by microbially ](https://www.nature.com/articles/s41467-026-68303-9) |
+| keyword_rejected | - | [In situ visualization of Clostridioides difficile phenotypic](https://www.nature.com/articles/s41467-026-68411-6) |
+| keyword_rejected | - | [Researchers solve mystery of universe's 'little red dots'](https://phys.org/news/2026-01-mystery-universe-red-dots.html) |
+| keyword_rejected | - | [Energy and makespan optimised task mapping in fog enabled Io](https://www.nature.com/articles/s41598-026-35065-9) |
+| keyword_rejected | - | [Correction: PM2.5 risk perception and associated with sociod](https://www.nature.com/articles/s41598-026-35108-1) |
+| keyword_rejected | - | [Prefoldin 5 is a microtubule-associated protein that suppres](https://elifesciences.org/articles/104691) |
+| keyword_rejected | - | [Regulating zinc nucleation and growth with low-surface-tensi](https://www.nature.com/articles/s41467-026-68393-5) |
 | ai_scored | 50 | [CFAP20 salvages arrested RNAPII from the path of co-directio](https://www.nature.com/articles/s41586-025-09943-7) |
 | ai_scored | 10 | [THE HIV-1 SILENCER BCL11B/CTIP2 REGULATES THE TLR3-MEDIATED ](https://www.biorxiv.org/content/10.64898/2026.01.13.699245v1?rss=1) |
 | ai_scored | 75 | [Genomic clues to the origin of eukaryotic cells](https://www.nature.com/articles/d41586-025-04094-1) |
