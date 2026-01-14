@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Wolf pup’s stomach yields DNA from one of world’s last survi](https://www.nature.com/articles/d41586-026-00161-3) |
+| ai_scored | 10 | [The landscape of structural variation in coppery titi monkey](https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114171828&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Eroding the Clean Air Act Will Make America Sicker, Dirtier ](https://www.scientificamerican.com/article/eroding-the-clean-air-act-will-make-america-sicker-dirtier-and-poorer/) |
+| keyword_rejected | - | [Metabolomic changes underpinning permethrin resistance in th](https://www.biorxiv.org/content/10.64898/2026.01.13.699336v1?rss=1) |
+| keyword_rejected | - | [Viscosity-mediated signal amplification enables robust left-](https://www.biorxiv.org/content/10.64898/2026.01.13.699291v1?rss=1) |
 | ai_scored | 25 | [Butyrate extends health and lifespan in mice with mitochondr](https://www.biorxiv.org/content/10.64898/2026.01.13.699287v1?rss=1) |
 | ai_scored | 20 | [Ideal Free Distribution in a Multiple Predator-prey System](https://www.biorxiv.org/content/10.64898/2026.01.13.699250v1?rss=1) |
 | ai_scored | 55 | [Tuning siRNA Specificity through Seed Region Incorporation o](https://www.biorxiv.org/content/10.64898/2026.01.13.699368v1?rss=1) |

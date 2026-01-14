@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T21:18:39.772245+00:00</updated>
+  <updated>2026-01-14T22:18:39.879676+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] bioRxiv Subject Collection: Evolutionary Biology ▶ The landscape of structural variation in coppery titi monkeys (Plecturocebus cupreus)</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Coppery titi monkeys (Plecturocebus cupreus) are an important non-human primate model for studying neurobiology and social behavior, in part owing to their relatively unusual combination of social mon</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
+<p><strong>AI Decision:</strong> High-coverage genome sequencing of coppery titi monkeys maps &gt;13,000 structural variants and estimates de novo SV rates, informing primate evolution and disease modeling but offering minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Coppery titi monkeys (Plecturocebus cupreus) are an important non-human primate model for studying neurobiology and social behavior, in part owing to their relatively unusual combination of social monogamy and paternal care. Despite this importance, relatively little is known regarding the underlying population genomics of this platyrrhine. This study presents high-coverage, whole-genome sequencing data from 26 individuals which, combined with a highly accurate multi-algorithm ensemble approach, was used to characterize the first map of structural variation in the species. This novel genomic resource includes over 13,000 structural variants, with the majority (&gt;90%) being copy number variants. While many of these were found to be located in intergenic regions, several affected genes associated with disease, including an inversion predicted to impact a pathway implicated in early-onset Parkinson&#x27;s disease. Furthermore, utilizing parent-offspring trios included within this study, the de novo structural variant rate was estimated to be one in every 1.5 births, similar to that reported in rhesus macaques but considerably higher than that observed in large human cohorts, as may be expected from underlying differences in life history traits amongst these species. Taken together, these insights into the structural variant landscape of P. cupreus will not only improve their utility as a behavioral model system, but will also contribute to our general understanding of the role of structural variation in both the evolution of the primate clade and disease-outcomes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699302v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Nature ▶ Wolf pup’s stomach yields DNA from one of world’s last surviving woolly rhinos</title>
+    <link href="https://www.nature.com/articles/d41586-026-00161-3"/>
+    <id>https://www.nature.com/articles/d41586-026-00161-3</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Nature, Published online: 14 January 2026; doi:10.1038/d41586-026-00161-3 A rare sample from a woolly rhinoceroses reveals how the population changed in the lead-up to the species’ extinction.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Reports ancient DNA recovered from a wolf pup’s stomach revealing late-stage population dynamics of woolly rhinoceroses before extinction, with limited direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Nature, Published online: 14 January 2026; doi:10.1038/d41586-026-00161-3 A rare sample from a woolly rhinoceroses reveals how the population changed in the lead-up to the species’ extinction.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/d41586-026-00161-3">https://www.nature.com/articles/d41586-026-00161-3</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/d41586-026-00161-3">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Reference-free microsatellite instability detection from tumor sequencing using intrasample variability modeling</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699258v1?rss=1"/>
@@ -6603,17 +6631,5 @@
 <li><a href="https://www.nature.com/articles/s41467-025-68253-8">https://www.nature.com/articles/s41467-025-68253-8</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41467-025-68253-8">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] phys.org - Space News ▶ Plasma rings around M dwarf stars offer new clues to planetary habitability</title>
-    <link href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html"/>
-    <id>https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html</id>
-    <updated>2026-01-07T21:30:05Z</updated>
-    <summary>How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie&#x27;s Luke Bouma is exploring a new way to probe this critical question—using nat</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*</p>
-<p><strong>AI Decision:</strong> Conference work proposes using naturally occurring plasma rings around young M dwarfs as “space weather stations” to better constrain star–planet interactions that shape exoplanet atmospheric retention and potential habitability.</p>
-<p><strong>Abstract:</strong> How does a star affect the makeup of its planets? And what does this mean for the habitability of distant worlds? Carnegie&#x27;s Luke Bouma is exploring a new way to probe this critical question—using naturally occurring space weather stations that orbit at least 10% of M dwarf stars during their early lives. He is presenting his work at the 247th American Astronomical Society meeting.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-plasma-dwarf-stars-clues-planetary.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
