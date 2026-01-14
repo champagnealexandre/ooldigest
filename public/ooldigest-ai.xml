@@ -3,8 +3,20 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T18:28:24.522026+00:00</updated>
+  <updated>2026-01-14T19:17:02.119784+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] Scientific American ▶ Scientists Find Extinct Rhino DNA in Wolf Pup Mummy&#x27;s Stomach</title>
+    <link href="https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/"/>
+    <id>https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/</id>
+    <updated>2026-01-14T17:40:00Z</updated>
+    <summary>Scientists have sequenced the genome of the long-extinct woolly rhinoceros from remains found in the stomach of a naturally mummified Pleistocene wolf pup</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Researchers sequenced woolly rhinoceros DNA recovered from the stomach contents of a mummified Pleistocene wolf pup, a paleogenomics finding with minimal direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Scientists have sequenced the genome of the long-extinct woolly rhinoceros from remains found in the stomach of a naturally mummified Pleistocene wolf pup</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.scientificamerican.com/article/scientists-find-extinct-rhino-dna-in-wolf-pup-mummys-stomach/">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] Nature Communications ▶ Phase-controlled growth of 2D crystals of the MB 2 T 4 family via a flux-assisted method</title>
     <link href="https://www.nature.com/articles/s41467-026-68426-z"/>
@@ -6473,29 +6485,5 @@
 <li><a href="https://doi.org/10.1029/2025JE009132">https://doi.org/10.1029/2025JE009132</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/lunar-spacecraft-exhaust-could-obscure-clues-to-origins-of-life.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Astrobiology (astrobiology.com) ▶ Dale Andersen’s Astrobiology Antarctic Status Report: 7 January 2026: Arrival At Novolazarevskaya Station, Antarctica</title>
-    <link href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html"/>
-    <id>https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html</id>
-    <updated>2026-01-07T18:36:28Z</updated>
-    <summary>Keith’s note: I got this update by text from Dale early this morning: Hi Keith, We arrived 6pm UTC Tuesday evening to a bright, sunny windless day with air temps just over freezing. Our flight down wa</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, water</p>
-<p><strong>AI Decision:</strong> A logistical field-update on an astrobiology team’s arrival at Novolazarevskaya Station in Antarctica, with no substantive origins-of-life science content reported.</p>
-<p><strong>Abstract:</strong> Keith’s note: I got this update by text from Dale early this morning: Hi Keith, We arrived 6pm UTC Tuesday evening to a bright, sunny windless day with air temps just over freezing. Our flight down was nice and the aircraft should return to CPT (Cape Town) later this morning or afternoon. Sorry I think […] The post Dale Andersen’s Astrobiology Antarctic Status Report: 7 January 2026: Arrival At Novolazarevskaya Station, Antarctica appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-7-january-2026-arrival-at-novolazarevskaya-station-antarctica.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Phys.org: Evolution News ▶ Earth&#x27;s early sponges were soft: Scientists close fossil record gap</title>
-    <link href="https://phys.org/news/2026-01-earth-early-sponges-soft-scientists.html"/>
-    <id>https://phys.org/news/2026-01-earth-early-sponges-soft-scientists.html</id>
-    <updated>2026-01-07T19:00:04Z</updated>
-    <summary>Sponges are among Earth&#x27;s most ancient animals, but exactly when they evolved has long puzzled scientists. Genetic information from living sponges, as well as chemical signals from ancient rocks, sugg</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Reports evidence suggesting sponges (early multicellular animals) originated at least ~650 million years ago, helping constrain timelines for early animal evolution rather than abiogenesis itself.</p>
-<p><strong>Abstract:</strong> Sponges are among Earth&#x27;s most ancient animals, but exactly when they evolved has long puzzled scientists. Genetic information from living sponges, as well as chemical signals from ancient rocks, suggest that sponges evolved at least 650 million years ago.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-earth-early-sponges-soft-scientists.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
