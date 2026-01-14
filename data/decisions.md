@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Hydrogels Under Superchaotropic Control: Polyoxometalate Sta](https://dx.doi.org/10.26434/chemrxiv-2026-gh9g1?rft_dat=source%3Ddrss) |
+| ai_scored | 50 | [Well-Defined Anisotropic Self-Assembly from Peptoids and The](https://dx.doi.org/10.26434/chemrxiv-2026-kdxlt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Claire Mathieu : « L’informatique est vivante, les nouveaux ](https://www.pourlascience.fr/sr/entretien/claire-mathieu-l-informatique-est-vivante-les-nouveaux-travaux-de-recherche-sont-profonds-28671.php) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114092156&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [En plein Antarctique, une cave d'archives de glaces unique a](https://www.sciencesetavenir.fr/nature-environnement/en-plein-antarctique-une-cave-d-archives-de-glaces-unique-au-monde-ouvre-ses-portes_190399?xtor=RSS-15) |
+| keyword_rejected | - | [Take <i>Nature</i>’s poll: do you have a side hustle alongsi](https://www.nature.com/articles/d41586-026-00145-3) |
+| keyword_rejected | - | [Impact of a single fecal microbiome transplantation in adult](https://www.nature.com/articles/s41467-026-68455-8) |
+| keyword_rejected | - | [Trends in heart failure prevalence in post-disaster Fukushim](https://www.nature.com/articles/s41598-026-36032-0) |
+| keyword_rejected | - | [Revealing and characterizing bacterial communities of in vit](https://www.nature.com/articles/s41598-026-35510-9) |
+| keyword_rejected | - | [Fish CDK2 recruits Dtx4 to degrade TBK1 through ubiquitinati](https://elifesciences.org/articles/98357) |
+| keyword_rejected | - | [Afadin sorts different retinal neuron types into accurate ce](https://elifesciences.org/articles/105575) |
+| keyword_rejected | - | [Impact of a single fecal microbiome transplantation in adult](https://www.nature.com/articles/s41467-026-68455-8) |
+| keyword_rejected | - | [Exploring the Spectral Signatures of Large Amplitude Motions](https://dx.doi.org/10.26434/chemrxiv-2026-pw3b1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Coupled Cluster Free Energies for Atmospheric Molecular Clus](https://dx.doi.org/10.26434/chemrxiv-2026-0jz1q?rft_dat=source%3Ddrss) |
 | ai_scored | 40 | [Hydrogen-Bonding-Directed Diastereoselective [2+2] Photocycl](https://dx.doi.org/10.26434/chemrxiv-2026-6vj4z?rft_dat=source%3Ddrss) |
 | ai_scored | 100 | [Origins of Life: Chemistry and Evolution](https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v4?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [Predicting the fate of tropical forests under intensifying h](https://www.nature.com/articles/d41586-025-04093-2) |

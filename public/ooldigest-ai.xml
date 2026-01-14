@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T13:37:59.972131+00:00</updated>
+  <updated>2026-01-14T14:22:08.462622+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Well-Defined Anisotropic Self-Assembly from Peptoids and Their Biomedical Applications</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-kdxlt?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-kdxlt?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Peptoids, or poly(N-substituted glycines), hold great promise in biomedical applications because of their biocompatibility, precise synthesis via conventional peptide-mimicking methods, and readily tu</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
+<p><strong>AI Decision:</strong> This review surveys programmable peptoid self-assembly into ordered nanosheets/nanotubes—useful as an analog for understanding how sequence-defined polymers can form robust, anisotropic supramolecular structures potentially relevant to protocell-like materials, though the focus is primarily biomedical rather than prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> Peptoids, or poly(N-substituted glycines), hold great promise in biomedical applications because of their biocompatibility, precise synthesis via conventional peptide-mimicking methods, and readily tunable side chains, which facilitate the control of hydrophobicity and crystallinity. In the past decade, peptoids have been employed to create well-defined self-assemblies such as vesicles, micelles, sheets, and tubes, which have been scrutinized at the atomic scale using cutting-edge analytical techniques. This review highlights recent advancements in peptoid synthesis strategies and the development of noteworthy one-dimensional or two-dimensional anisotropic self-assemblies, i.e., nanosheets and nanotubes, exhibiting well-ordered molecular arrangements. These anisotropic self-assemblies are formed through the crystallization of peptoid side chains, which can be effortlessly modified via simple synthesis approaches. Moreover, leveraging the protease resistance of peptoids, various biomedical applications are discussed (including phototherapy, enzymatic mimetics, bio-imaging, and biosensing) that capitalize on the unique properties of anisotropic self-assembly.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kdxlt?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-kdxlt?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-kdxlt?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Hydrogels Under Superchaotropic Control: Polyoxometalate Stabilization and pH-Responsive Crosslinking in Cellulose Ether Solutions</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-gh9g1?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-gh9g1?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Polymer-polyoxometalate (POM) systems represent an emergent class of functional hybrid materials. However, the pH-dependent stability of POMs limits their scope in water. We show here that the water-m</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Demonstrates that superchaotropic polyoxometalates can be sterically stabilized in water via binding to a biopolymer (hydroxypropylcellulose), enabling pH-switchable crosslinking and hydrogel/sol transitions—potentially relevant as a model for aqueous, stimuli-responsive compartment-forming materials in prebiotic contexts.</p>
+<p><strong>Abstract:</strong> Polymer-polyoxometalate (POM) systems represent an emergent class of functional hybrid materials. However, the pH-dependent stability of POMs limits their scope in water. We show here that the water-mediated, so-called superchaotropic, binding of α-Keggin POMs to a non-ionic biopolymer, hydroxypropylcellulose (HPC), i) selectively stabilizes superchaotropic POMs in water, and ii) enables pH-responsive HPC solutions and hydrogels. Raman and NMR spectroscopy revealed that binding to HPC sterically protects the superchaotropic PW12O403- and SiW12O404- against hydrolysis, extending their stability from acidic to near-neutral pH. In turn, POMs with higher charge, stronger hydration and thus without the ability to bind to HPC, such as H2W12O406-, PW11O397- and SiW11O398-, do not get stabilized. Cloud points, small angle neutron scattering and rotational rheology showed that pH-induced conversion from superchaotropic PW12O403- to non-superchaotropic PW11O397- switches HPC from a bound, crosslinked to an unbound, non-crosslinked state enabling pH-switchable viscosity and gel-sol transitions. Superchaotropic stabilization and pH-switching are proposed as general phenomena in superchaotropic POM/solute systems highlighting the potential of superchaotropicity in aqueous soft materials.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gh9g1?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-gh9g1?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-gh9g1?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] ChemRxiv ▶ Differential Water Networks Guide Selectivity Optimization of a Cell Active BPTF Inhibitor in Neuroblastoma</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-2nlqj?rft_dat=source%3Ddrss"/>
@@ -6160,17 +6188,5 @@
 <p><strong>Abstract:</strong> The origin of life on Earth becomes even more fascinating and complex as we peer into the mysterious world of viruses. Said to have existed since living cells first appeared, these microscopic entities differ greatly from other forms of life. Composed of only genetic material, they lack the ability to synthesize proteins, which are essential for carrying out cellular activity and, ultimately, for life by itself.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-ushikuvirus-newly-giant-virus-clues.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Phys.org: Evolution News ▶ How a parasite &#x27;gave up sex&#x27; to find more hosts—and why its victory won&#x27;t last</title>
-    <link href="https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html"/>
-    <id>https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html</id>
-    <updated>2026-01-07T14:20:16Z</updated>
-    <summary>Australian researchers have uncovered how a particular strain of a diarrhea-causing parasite managed to infect more animal species, offering new insights into how parasitic infections emerge and sprea</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Study reports how an asexual shift in a diarrheal parasite strain broadened its host range, informing pathogen emergence dynamics but only indirectly relevant to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Australian researchers have uncovered how a particular strain of a diarrhea-causing parasite managed to infect more animal species, offering new insights into how parasitic infections emerge and spread to people.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-parasite-gave-sex-hosts-victory.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
