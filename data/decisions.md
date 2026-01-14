@@ -1,5 +1,46 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [“Water-in-Swelling-Clay” Electrolytes Stabilizing Prussian B](https://dx.doi.org/10.26434/chemrxiv-2026-lcz2m?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [Antigravity confined interfacial self-assembly approach for ](https://www.nature.com/articles/s41467-026-68447-8) |
+| ai_scored | 5 | ['PePApipe': a complete bioinformatics analysis pipeline for ](https://www.biorxiv.org/content/10.64898/2026.01.12.698977v1?rss=1) |
+| ai_scored | 30 | [Rare variation in malaria parasites biases population-geneti](https://www.biorxiv.org/content/10.64898/2026.01.09.698000v1?rss=1) |
+| ai_scored | 10 | [What happens when fire ignites in space? 'A ball of flame'](https://phys.org/news/2026-01-ignites-space-ball-flame.html) |
+| ai_scored | 0 | [Homo habilis: The oldest and most complete skeleton discover](https://phys.org/news/2026-01-homo-habilis-oldest-skeleton-date.html) |
+| ai_scored | 25 | [Cocrystal Engineering of Molecular Nanocarbon](https://dx.doi.org/10.26434/chemrxiv-2026-vj38z?rft_dat=source%3Ddrss) |
+| ai_scored | 5 | [After medical issue, SpaceX Crew-11 set to depart space stat](https://phys.org/news/2026-01-medical-issue-spacex-crew-depart.html) |
+| ai_scored | 45 | [A methodological approach to relate pentapeptide sequence, a](https://dx.doi.org/10.26434/chemrxiv-2026-8jxvq?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [Cocrystal Engineering of Molecular Nanocarbon](https://dx.doi.org/10.26434/chemrxiv-2026-vj38z?rft_dat=source%3Ddrss) |
+| ai_scored | 40 | [Formation Of Multi-planetary Systems Via Pebble Accretion In](https://astrobiology.com/2026/01/formation-of-multi-planetary-systems-via-pebble-accretion-in-externally-photoevaporating-discs-in-stellar-clusters.html) |
+| ai_scored | 45 | [Dale Andersen’s Astrobiology Antarctic Status Report: 14 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-14-january-2026-setting-up-base-camp-at-lake-untersee.html) |
+| ai_scored | 60 | [Modeling The Effect Of C/O Ratio On Complex Carbon Chemistry](https://astrobiology.com/2026/01/modeling-the-effect-of-c-o-ratio-on-complex-carbon-chemistry-in-cold-molecular-clouds.html) |
+| ai_scored | 65 | [Evolutionary Stasis And Homogeneous Selection Structure Micr](https://astrobiology.com/2026/01/evolutionary-stasis-and-homogeneous-selection-structure-microbial-communities-in-the-deep-subseafloor-sedimentary-biosphere.html) |
+| ai_scored | 55 | [How Did These Strange, Ancient Earth Life Forms Turn Into Su](https://astrobiology.com/2026/01/how-did-these-strange-ancient-earth-life-forms-turn-into-such-remarkable-fossils.html) |
+| ai_scored | 60 | [Bacteria Reveal Hidden Powers Of Electricity Transfer](https://astrobiology.com/2026/01/bacteria-reveal-hidden-powers-of-electricity-transfer-2.html) |
+| ai_scored | 45 | [Fundamentals Of Interior Modelling And Challenges In The Int](https://astrobiology.com/2026/01/fundamentals-of-interior-modelling-and-challenges-in-the-interpretation-of-observed-rocky-exoplanets.html) |
+| ai_scored | 50 | [Broadband Spectroscopy Of Astrophysical Ice Analogues: IV. O](https://astrobiology.com/2026/01/broadband-spectroscopy-of-astrophysical-ice-analogues-iv-optical-constants-of-n2-ice-in-the-terahertz-and-mid-infrared-ranges.html) |
+| ai_scored | 65 | [Limit Cycles And The Climate History Of Mars](https://astrobiology.com/2026/01/limit-cycles-and-the-climate-history-of-mars.html) |
+| ai_scored | 50 | [Key To Researching Large Planets: Research Team Discovers No](https://astrobiology.com/2026/01/key-to-researching-large-planets-research-team-discovers-novel-form-of-water.html) |
+| keyword_rejected | - | [Cancer might evade immune defences by stealing mitochondria](https://www.nature.com/articles/d41586-026-00123-9) |
+| keyword_rejected | - | [Three ways to become calmer this New Year that you haven't t](https://www.newscientist.com/article/2510000-three-ways-to-become-calmer-this-new-year-that-you-havent-tried-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [T. rex took 40 years to become fully grown](https://www.newscientist.com/article/2511500-t-rex-took-40-years-to-become-fully-grown/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [String Theory Can Now Describe a Universe That Has Dark Ener](https://www.quantamagazine.org/string-theory-can-now-describe-a-universe-that-has-dark-energy-20260114/) |
+| keyword_rejected | - | [Three ways to become calmer this New Year that you haven't t](https://www.newscientist.com/article/2510000-three-ways-to-become-calmer-this-new-year-that-you-havent-tried-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [T. rex took 40 years to become fully grown](https://www.newscientist.com/article/2511500-t-rex-took-40-years-to-become-fully-grown/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Three ways to become calmer this New Year that you haven't t](https://www.newscientist.com/article/2510000-three-ways-to-become-calmer-this-new-year-that-you-havent-tried-yet/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [T. rex took 40 years to become fully grown](https://www.newscientist.com/article/2511500-t-rex-took-40-years-to-become-fully-grown/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Feu spatial : un défi scientifique en apesanteur](https://www.sciencesetavenir.fr/espace/exploration/etudier-les-incendies-dans-l-espace-pour-securiser-les-vols-habites_190396?xtor=RSS-9) |
+| keyword_rejected | - | [Dépression : le sport, aussi efficace que les médicaments et](https://www.sciencesetavenir.fr/sante/depression-le-sport-aussi-efficace-que-les-medicaments-et-la-psychotherapie_190391?xtor=RSS-16) |
+| keyword_rejected | - | [Sophie Adenot, fusion de trois galaxies et pigment roux : l’](https://www.sciencesetavenir.fr/ultrabreves/sophie-adenot-fusion-de-trois-galaxies-et-role-du-pigment-roux-l-actu-des-sciences-en-ultrabreves_190403) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114102150&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Astronomers discover 19 new pulsars by analyzing FAST archiv](https://phys.org/news/2026-01-astronomers-pulsars-fast-archival.html) |
+| keyword_rejected | - | [Type Ia supernova delayed-detonation model supported by SN 2](https://phys.org/news/2026-01-ia-supernova-delayed-detonation-sn.html) |
+| keyword_rejected | - | [Identification of modifiable plasma protein markers of cardi](https://www.nature.com/articles/s41467-026-68415-2) |
+| keyword_rejected | - | [A unifying account of replay as context-driven memory reacti](https://elifesciences.org/articles/99931) |
+| keyword_rejected | - | [Acid–Responsive Rhenium(I) NHC Complexes: Pyrazine vs Pyridi](https://dx.doi.org/10.26434/chemrxiv-2026-1dst1?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Core Cross-Linked Poly(Styrene Sulfonate) as Broad-Spectrum ](https://dx.doi.org/10.26434/chemrxiv-2026-wwsrm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Enhancing Ionic Conductivity in Lithium Tetrahaloaluminates ](https://dx.doi.org/10.26434/chemrxiv-2026-sxpz5?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Vimentin bridges scales to convert polarized cell locomotion](https://www.biorxiv.org/content/10.64898/2026.01.12.699001v1?rss=1) |
+| keyword_rejected | - | [Nuclear Pore Complexes in Various States of HL-60/S4 Cells](https://www.biorxiv.org/content/10.64898/2026.01.09.697371v1?rss=1) |
 | ai_scored | 45 | [Hydrogels Under Superchaotropic Control: Polyoxometalate Sta](https://dx.doi.org/10.26434/chemrxiv-2026-gh9g1?rft_dat=source%3Ddrss) |
 | ai_scored | 50 | [Well-Defined Anisotropic Self-Assembly from Peptoids and The](https://dx.doi.org/10.26434/chemrxiv-2026-kdxlt?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Claire Mathieu : « L’informatique est vivante, les nouveaux ](https://www.pourlascience.fr/sr/entretien/claire-mathieu-l-informatique-est-vivante-les-nouveaux-travaux-de-recherche-sont-profonds-28671.php) |
