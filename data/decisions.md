@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Butyrate extends health and lifespan in mice with mitochondr](https://www.biorxiv.org/content/10.64898/2026.01.13.699287v1?rss=1) |
+| ai_scored | 20 | [Ideal Free Distribution in a Multiple Predator-prey System](https://www.biorxiv.org/content/10.64898/2026.01.13.699250v1?rss=1) |
+| ai_scored | 55 | [Tuning siRNA Specificity through Seed Region Incorporation o](https://www.biorxiv.org/content/10.64898/2026.01.13.699368v1?rss=1) |
+| ai_scored | 5 | [Reference-free microsatellite instability detection from tum](https://www.biorxiv.org/content/10.64898/2026.01.13.699258v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114161827&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Relaxation effects in cell microtubule under the influence o](https://www.sciencedirect.com/science/article/pii/S0303264726000158?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Modeling lipid nanoparticle transport in extracellular matri](https://www.biorxiv.org/content/10.64898/2026.01.13.699279v1?rss=1) |
+| keyword_rejected | - | [The Impact of Glycosylation on the Conformational Ensembles ](https://www.biorxiv.org/content/10.64898/2026.01.13.699269v1?rss=1) |
 | ai_scored | 40 | [GapR is a nucleoid-associated protein that stiffens and over](https://www.biorxiv.org/content/10.64898/2026.01.13.699244v1?rss=1) |
 | ai_scored | 15 | [Benchmarking computational decontamination of ambient RNA](https://www.biorxiv.org/content/10.64898/2026.01.13.699237v1?rss=1) |
 | ai_scored | 55 | [From a new flagship space telescope to lunar exploration, gl](https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html) |

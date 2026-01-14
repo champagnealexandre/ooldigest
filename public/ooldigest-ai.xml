@@ -3,8 +3,64 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T20:17:44.678775+00:00</updated>
+  <updated>2026-01-14T21:18:39.772245+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Reference-free microsatellite instability detection from tumor sequencing using intrasample variability modeling</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699258v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699258v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Microsatellite instability (MSI) is a key predictive biomarker across multiple tumor types, but current next-generation sequencing (NGS)-based callers often depend on matched normals, large reference </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Describes PROMIS, a tumor-only reference-free pipeline for detecting microsatellite instability from sequencing data, with strong benchmarking across multiple cancer cohorts and cfDNA assays.</p>
+<p><strong>Abstract:</strong> Microsatellite instability (MSI) is a key predictive biomarker across multiple tumor types, but current next-generation sequencing (NGS)-based callers often depend on matched normals, large reference panels, or pretrained machine-learning models, which limits portability across assays and sequencing centers. We developed PROMIS (PROfiling of Microsatellite InStability), a tumor-only, reference-free pipeline that detects MSI by leveraging intrasample variability at predefined microsatellite loci. PROMIS models repeat-length distributions with a discrete mixture framework to distinguish stable germline configurations from unstable loci with additional allele populations. Locus-level classifications are aggregated into a continuous MSI score, defined as the fraction of unstable loci, which can then be used to classify samples as MSI-high or microsatellite-stable. We benchmarked PROMIS in colorectal (CRC), endometrial (UCEC), and gastric (STAD) cancers from The Cancer Genome Atlas (TCGA). PROMIS achieved an overall AUC of 0.995 and cohort-specific AUCs of 1.00 in CRC and STAD and 0.999 in UCEC, comparable to established tools despite not using matched normals or pretrained models. Subsampling and in silico dilutions showed robust performance with substantially fewer loci and down to 3% tumor fraction. Finally, in prostate and CRC cell-free DNA (cfDNA) cohorts, including Illumina TSO500 data and an 18-gene panel, PROMIS yielded assay-agnostic MSI scores concordant with orthogonal tissue- and panel-based classifications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699258v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699258v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699258v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] molecular biology - biorXiv Preprints ▶ Tuning siRNA Specificity through Seed Region Incorporation of Deoxyribonucleotide Stereoisomers</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699368v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699368v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Precise chemical design continues to drive advances in RNA-based therapeutics. Here, we report the synthesis and site-specific incorporation of four canonical phosphoramidites (U, C, A, and G), each b</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study shows that incorporating stereochemically altered deoxyribonucleotide analogs into siRNA seed regions can reduce off-target effects and toxicity while maintaining on-target silencing, offering chemically informed insights into nucleic-acid chirality and specificity (though primarily in a therapeutic, not origins-of-life, context).</p>
+<p><strong>Abstract:</strong> Precise chemical design continues to drive advances in RNA-based therapeutics. Here, we report the synthesis and site-specific incorporation of four canonical phosphoramidites (U, C, A, and G), each bearing non-natural nucleoside configurations: {beta}-D-2&#x27;-deoxyxylonucleosides and -L-2&#x27;-deoxyribonucleosides. These stereochemically distinct nucleoside analogs were introduced at positions 6 and 7 within siRNA seed regions. When applied to siRNAs targeting Ttr, ACTN1, and Marc1, these modifications reduced off-target gene repression in functional assays and, in several cases, in transcriptome-wide differential expression analyses, while preserving robust on-target activity. In vivo, Marc1-targeting siRNAs containing these modified nucleosides showed decreased hepatotoxicity, as evidenced by reduced serum ALT and AST levels. Collectively, these findings establish {beta}-D-2&#x27;-deoxyxylonucleoside and -L-2&#x27;-deoxyribonucleoside analogs as promising chemical tools for enhancing the specificity and safety of siRNA therapeutics. This work underscores the power of integrating rational nucleoside design with comprehensive functional and in vivo evaluation to advance drug development based on RNA interference (RNAi).</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699368v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699368v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699368v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Ideal Free Distribution in a Multiple Predator-prey System</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699250v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699250v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>We study the mechanism and effects of ideal free distributions (IFDs) on an ecological community consisting of n prey and m predator species, by considering the corresponding diffusive Lotka-Volterra </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a mathematical framework for evolutionarily stable ideal-free dispersal in time-periodic, diffusive Lotka–Volterra predator–prey communities, with limited direct relevance to origins-of-life questions beyond general evolutionary dynamics.</p>
+<p><strong>Abstract:</strong> We study the mechanism and effects of ideal free distributions (IFDs) on an ecological community consisting of n prey and m predator species, by considering the corresponding diffusive Lotka-Volterra system with time-periodic coefficients. We define a notion of joint IFD in a time-periodic environment, and give necessary and sufficient conditions for it to be achieved by a subcollection of prey and predator species with suitable dispersal strategies. Next, we show, via construction of a Lyapunov function, that such dispersal strategies are evolutionarily stable, in the sense that if a subcollection of prey and predator species adopts an ideal free dispersal strategy, then the total community must converge to an IFD for large time; if a unique combination of prey-predator species adopts an ideal free strategy, then it can drive all other species to extinction. Conversely, if a combination of prey-predator species adopts a non-ideal free dispersal strategy, then it can be invaded by some suitable mutant strategies. Our results provide insight into the evolution of spatial distribution of ecological communities with predator-prey interactions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699250v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699250v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699250v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ Butyrate extends health and lifespan in mice with mitochondrial deficiency</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699287v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699287v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Mitochondrial diseases progressively lead to multisystemic failure with treatment options remaining extremely limited. To investigate novel strategies that alleviate mitochondrial dysfunction, we have</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> In inducible TFAM-knockout mice, mitochondrial dysfunction drives gut dysbiosis and reduced microbiota-derived butyrate, and restoring butyrate (via tributyrin or healthy microbiota transfer) rescues intestinal epigenetic marks, delays multimorbidity, and extends lifespan—relevant mainly as a modern host–microbe symbiosis/metabolism study rather than core origins-of-life work.</p>
+<p><strong>Abstract:</strong> Mitochondrial diseases progressively lead to multisystemic failure with treatment options remaining extremely limited. To investigate novel strategies that alleviate mitochondrial dysfunction, we have generated an ubiquitous and tamoxifen-inducible knockout mouse model of mitochondrial transcription factor A (TFAM), a nuclear-encoded protein involved in mitochondrial DNA (mtDNA) maintenance, Tfamfl/flUbCre-ERT2 (iTfamKO) mice. Systemic TFAM deficiency triggers mitochondrial decline in a myriad of tissues in adult mice. Consequently, iTfamKO mice manifest multiorgan dysfunction including lipodystrophy, sarcopenia, metabolic alterations, kidney failure, neurodegeneration, and locomotor dysregulation, which result in the premature death of these mice. Interestingly, iTfamKO mice display intestinal barrier disruption and gut dysbiosis, with diminished levels of microbiota-derived short-fatty acids (SCFAs), such as butyrate. Mice with a deficient proof-reading version of the mtDNA polymerase gamma (mtDNA-mutator mice) phenocopy the dysfunction of the intestinal barrier and bacterial dysbiosis with reduced levels of butyrate, suggesting that different mouse models of mitochondrial dysfunction share deficient generation of butyrate. Transfer of microbiota from healthy control mice or administration of tributyrin, a butyrate precursor, delay multiple signs of multimorbidity extending lifespan in iTfamKO mice. Mechanistically, butyrate supplementation recovers epigenetic histone acylation marks that are lost in the intestine of Tfam deficient mice. Overall, our findings highlight the relevance of preserving host microbiota symbiosis in disorders related to mitochondrial dysfunction.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699287v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699287v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699287v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] nature.com - Biological sciences ▶ Comprehensive mapping of RNA modification dynamics and crosstalk via deep learning and nanopore direct RNA-sequencing</title>
     <link href="https://www.nature.com/articles/s41467-026-68419-y"/>
