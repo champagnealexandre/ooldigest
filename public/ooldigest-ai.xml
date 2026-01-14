@@ -3,8 +3,454 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T04:43:47.195189+00:00</updated>
+  <updated>2026-01-14T05:21:57.353985+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ A planet-host ratio relation to synthesize microlensing and transiting exoplanet demography from Roman</title>
+    <link href="https://arxiv.org/abs/2506.24004"/>
+    <id>https://arxiv.org/abs/2506.24004</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2506.24004v2 Announce Type: replace Abstract: The NASA Nancy Grace Roman Space Telescope (Roman) will be the first survey able to detect large numbers of both cold and hot exoplanets across Gala</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
+<p><strong>AI Decision:</strong> Proposes a planet–host ratio relation to unify Roman microlensing and transit exoplanet demographics, improving forward-modeling of planet populations but with limited direct relevance to origins-of-life or biosignature science.</p>
+<p><strong>Abstract:</strong> arXiv:2506.24004v2 Announce Type: replace Abstract: The NASA Nancy Grace Roman Space Telescope (Roman) will be the first survey able to detect large numbers of both cold and hot exoplanets across Galactic distances: $\sim$1,400 cold exoplanets via microlensing and $\sim$200,000 hot, transiting planets. Differing sensitivities to planet bulk properties between the microlensing and transit methods require relations like a planet mass--radius relation (MRR) to mediate. We propose using instead a planet--host {\em ratio} relation (PHRR) to couple directly microlensing and transit observables in demographic forward-modelling simulations. Unlike the MRR, a PHRR uses parameters that are always measured and so can potentially leverage the full Roman exoplanet sample. Using 908 confirmed exoplanets from the NASA Exoplanet Archive, we show that transit depth, $\delta$, and planet--host mass ratio, $q$, obey a PHRR that is continuous over all planet scales. The PHRR is improved by including orbital period, $P$, and host effective temperature, $T_{\star}$. We compare several candidate PHRRs of the form $\delta (q,T_\star, P)$, with the Bayesian Information Criterion favouring power-law dependence on $T_\star$ and $P$, and broken power-law dependence on $q$. The break in $q$ itself depends on $T_\star$, as do the power-law slopes in $q$ either side of the break. The favoured PHRR achieves a fairly uniform $50\%$ relative precision in $\delta$ for all $q$. Approximately $5\%$ of the sample has a transit depth that is strongly over-predicted by the PHRR; around half of these are associated with large stars ($R_\star &gt; 2.5 \, R_{\odot}$) potentially subject to Malmquist bias.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2506.24004">https://arxiv.org/abs/2506.24004</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2506.24004">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [43] astro-ph.EP updates on arXiv.org ▶ A youthful Titan implied by improved impact simulations</title>
+    <link href="https://arxiv.org/abs/2601.08306"/>
+    <id>https://arxiv.org/abs/2601.08306</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08306v1 Announce Type: new Abstract: The small number of impact craters found on Titan suggests that its surface is relatively young. Previous work estimated its surface age to be between 2</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Impact simulations incorporating methane clathrate layers revise Titan’s crater scaling laws and imply a young ~300–340 Myr crater retention age, supporting recent resurfacing that affects Titan’s potential habitability context.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08306v1 Announce Type: new Abstract: The small number of impact craters found on Titan suggests that its surface is relatively young. Previous work estimated its surface age to be between 200 and 1000 Myr. This estimate, however, is based on crater scaling laws for water and sand, which are not representative of the composition of Titan&#x27;s icy surface. Titan&#x27;s surface is likely composed of water ice, methane clathrates, or a combination of both. Here, we perform impact simulations for impactors of various sizes that strike an icy target with a 0-15 km thick methane clathrate cap layer. We derive new crater scaling laws based on our numerical results, and find that Titan&#x27;s surface age is 300-340 Myr, assuming heliocentric impactors and surface clathrates. This age, which represents the crater retention age, indicates a relatively youthful surface, suggesting that active endogenic and/or exogenic processes have recently reshaped Titan&#x27;s surface.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08306">https://arxiv.org/abs/2601.08306</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08306">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ Rare Near-Opposition Alignment of 3I/ATLAS on 22 January, 2026</title>
+    <link href="https://arxiv.org/abs/2601.08624"/>
+    <id>https://arxiv.org/abs/2601.08624</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08624v1 Announce Type: new Abstract: We point out that on 22 January 2026, the interstellar object 3I/ATLAS will align to within an exceptionally small angle, alpha= 0.69 degrees, with the </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Highlights a rare near-opposition alignment of interstellar object 3I/ATLAS enabling high-leverage photometric and polarimetric measurements of cometary dust properties that could indirectly inform the composition and structure of interstellar material relevant to prebiotic delivery scenarios.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08624v1 Announce Type: new Abstract: We point out that on 22 January 2026, the interstellar object 3I/ATLAS will align to within an exceptionally small angle, alpha= 0.69 degrees, with the Earth-Sun axis. This rare alignment provides unique circumstances for measuring the opposition surge and polarimetric properties of interstellar cometary dust. We characterize the alignment geometry, outline key scientific opportunities, and define the observational requirements for data collection. Observations before and after the alignment time offer an unprecedented opportunity which may not repeat for decades, for characterizing the albedo, structure, and composition of interstellar matter.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08624">https://arxiv.org/abs/2601.08624</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08624">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [80] astro-ph.EP updates on arXiv.org ▶ Direct detection of hydrogen reveals a new macroscopic crustal water reservoir on early Mars</title>
+    <link href="https://arxiv.org/abs/2601.08390"/>
+    <id>https://arxiv.org/abs/2601.08390</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08390v1 Announce Type: new Abstract: The next great leap in Martian exploration will be the return of samples to Earth. To ensure the maximum scientific return from studying these samples, </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, water, habitab*, evolution, mars</p>
+<p><strong>AI Decision:</strong> Neutron and X-ray computed tomography of the NWA 7034 Martian meteorite non-destructively maps hydrogen to reveal hydrogen-rich iron oxyhydroxides as a macroscopic near-surface crustal water reservoir on early Mars, with assemblages similar to those seen by Perseverance in Jezero crater.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08390v1 Announce Type: new Abstract: The next great leap in Martian exploration will be the return of samples to Earth. To ensure the maximum scientific return from studying these samples, the development and utilisation of nondestructive analytical techniques are essential to enable early three-dimensional characterisation of their interiors. Neutron computed tomography is a powerful method in this context: it is highly sensitive to hydrogen and complements the more conventional X-ray computed tomography. Because the distribution and nature of hydrous phases are central to understanding the habitability, the climatic and geological evolution, and potential biosignatures of Mars, identifying hydrogenbearing phases in Martian crustal rocks is of particular importance. Using the only Martian crustal material available on Earth, the NWA 7034 meteorite and its pairs, we show that combined neutron and X-ray computed tomography enables non-destructive sample-wide mapping of hydrogen and reveals the distribution and petrographic contexts of hydrous phases. We identify hydrogen-rich iron oxyhydroxides within ancient igneous clasts, forming a macroscopic mineralogical water reservoir within the meteorite. These alteration assemblages closely resemble those observed in samples collected by the Perseverance rover in Jezero crater, where hydrated iron oxyhydroxides are also present. This similarity suggests that such phases may represent a widespread near-surface water reservoir on early Mars.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08390">https://arxiv.org/abs/2601.08390</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08390">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] astro-ph.EP updates on arXiv.org ▶ Modeling Cosmogenic 10Be During the Heliosphere&#x27;s Encounter with an Interstellar Cold Cloud</title>
+    <link href="https://arxiv.org/abs/2601.07983"/>
+    <id>https://arxiv.org/abs/2601.07983</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.07983v1 Announce Type: new Abstract: Geologic records of cosmogenic 10Be are sensitive to changes in the radiation environment with time. Recent works suggest there are periods when the Sun</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Models how heliosphere compression during Sun–cold-cloud encounters could boost atmospheric cosmogenic 10Be production and assesses whether such century-to–Myr-scale radiation excursions are detectable in marine sediments and Fe–Mn crust records.</p>
+<p><strong>Abstract:</strong> arXiv:2601.07983v1 Announce Type: new Abstract: Geologic records of cosmogenic 10Be are sensitive to changes in the radiation environment with time. Recent works suggest there are periods when the Sun encountered massive cold clouds which compressed the heliosphere to within Earth&#x27;s orbit. This would expose Earth to increased galactic cosmic rays and MeV-energy particles of heliospheric origin. We model 10Be production in Earth&#x27;s atmosphere during possible cold cloud encounters, and estimate their detectability in marine records of variable temporal resolution. We find that an AU-scale cold cloud encounter can be detected using ocean sediment measurements of 10Be if Earth spends time inside the compressed heliosphere. For typical relative speeds between the Sun and local interstellar clouds, this translates to a crossing time of ~100 years. A cloud must have an extension on the scale of parsecs to tens-of-parsecs (crossing time 0.1-1 Myr) to be detectable through 10Be measurements in iron-manganese crusts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.07983">https://arxiv.org/abs/2601.07983</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.07983">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] astro-ph.EP updates on arXiv.org ▶ On the estimation of Sulfuric Acid Vapor concentrations below the Venus cloud deck using the Akatsuki Radio Science Experiment</title>
+    <link href="https://arxiv.org/abs/2601.08507"/>
+    <id>https://arxiv.org/abs/2601.08507</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08507v1 Announce Type: new Abstract: We report new constraints on the vertical distribution of sulfuric acid vapor in the Venusian atmosphere, derived from a refined analysis of radio occul</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> venus</p>
+<p><strong>AI Decision:</strong> Reanalysis of Akatsuki radio occultation data constrains sulfuric acid vapor below Venus’s clouds (40–50 km), finding &gt;10 ppm increasing with depth and a sharp decline above 50 km consistent with saturation, improving our understanding of Venus’s potentially habitable cloud-layer chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08507v1 Announce Type: new Abstract: We report new constraints on the vertical distribution of sulfuric acid vapor in the Venusian atmosphere, derived from a refined analysis of radio occultation (RO) data. The method estimates the power spectral density (PSD) of the received signal to recover both the signal intensity and the Doppler shift. The received signal power is estimated at 1-sec cadence which enhances the sensitivity and detection of the signal at lower altitudes of Venus, even in regions of high atmospheric opacity. After correcting total attenuation for refractive losses, absorption by known microwave absorbers is removed, leaving a residual signal attributable to sulfuric acid vapor. Two different methods of estimating the absorption due to Sulfur Dioxide have been presented, including one which incorporates in-situ data, which should better constrain the sulfuric acid vapor abundance below the clouds. Retrieved profiles for altitudes of 40 - 50 km reveal an increasing vapor abundance to more than 10 ppm below the clouds, and a sharp decline above 50 km in line with the expected saturation profile. These measurements agree with current models of the Venusian cloud structure and composition, and demonstrate that RO data, when coupled with optimized spectral analysis, can yield quantitative constraints on trace absorbers in optically thick atmospheres.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08507">https://arxiv.org/abs/2601.08507</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08507">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] astro-ph.EP updates on arXiv.org ▶ A Model of UV-Blue Absorbance in Bulk Liquid of Venusian Cloud Aerosols Is Consistent with Efficient Organic Absorbers at High Concentrations</title>
+    <link href="https://arxiv.org/abs/2505.00880"/>
+    <id>https://arxiv.org/abs/2505.00880</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2505.00880v2 Announce Type: replace Abstract: At visible wavelengths, Venus appears serene and pale-yellow, but since the 1920s, observers have noted high-contrast features in the ultraviolet. T</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> venus</p>
+<p><strong>AI Decision:</strong> Models of Venus’s cloud droplet bulk UV-blue absorbance imply an extremely efficient, high-concentration absorber consistent with conjugated organics, motivating near-term missions to test for organic chemistry in the clouds.</p>
+<p><strong>Abstract:</strong> arXiv:2505.00880v2 Announce Type: replace Abstract: At visible wavelengths, Venus appears serene and pale-yellow, but since the 1920s, observers have noted high-contrast features in the ultraviolet. These features track the about 4-day superrotation of the upper cloud deck and vary widely over time and space. The identity of the UV absorber(s), active between at least 280 and 500 nm, remains unknown, as no proposed candidate fully matches all observational data. From remote observations of Venus, and accounting for light scattering by sub-micrometer droplets, we modeled the 365-455 nm absorbance per cm of the bulk liquids forming Venus&#x27;s clouds. Assuming a uniform distribution in mode 1 and 2 particles across a 6 km layer below the cloud top at 65 km, we constrain the bulk absorbance with a peak at A375 nm is 2942 per cm. This extremely high absorbance implies the presence of a highly efficient absorber, for example, conjugated organics, at relatively high concentration, e.g., approx. 25 g/L for porphyrin-type pigments with molar absorption coefficient of approx. 100,000 per mole per cm. Inorganic absorbers, typically below 10,000 per mole per cm, would either need to constitute a large portion of the aerosols or still not be sufficiently light-absorbing, even in pure form. We emphasize that all candidate absorbers must be evaluated against Venus&#x27;s reflectance curve using (i) known molar absorption coefficients, (ii) realistic atmospheric distributions, and (iii) appropriate particle size distributions. The upcoming Rocket Lab mission will test the hypothesis of organics in Venus&#x27;s clouds.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2505.00880">https://arxiv.org/abs/2505.00880</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2505.00880">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] cond-mat.stat-mech updates on arXiv.org ▶ Bayesian umbrella quadrature accelerates free-energy calculations across diverse molecular systems and processes</title>
+    <link href="https://arxiv.org/abs/2601.08783"/>
+    <id>https://arxiv.org/abs/2601.08783</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08783v1 Announce Type: new Abstract: Biased sampling in molecular dynamics simulations overcomes timescale limitations and delivers free-energy landscapes, essential to understand complex a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Presents a Bayesian-optimized umbrella sampling method that speeds up free-energy calculations (including a water–ice transition), a broadly useful computational advance but only indirectly relevant to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08783v1 Announce Type: new Abstract: Biased sampling in molecular dynamics simulations overcomes timescale limitations and delivers free-energy landscapes, essential to understand complex atomistic phenomena. However, when applied across diverse systems and processes, biasing protocols often require time- and resource-consuming fine-tuning. In search for robustness, we boost a prominent biasing method, Umbrella Sampling. To estimate the value of an integral, i.e., the free energy, our Bayesian Umbrella Quadrature (BUQ) method iteratively selects gradient samples, i.e., bias locations, that most reduce the posterior integral variance based on a noise-tolerant Gaussian process model, which also effectively interpolates between samples. We validate the method for a conformational change in a small peptide, a water-to-ice phase transition, and a substitution chemical reaction; obtaining excellent accuracies and speedups. To ease adoption of this more automated and universal free-energy method, we interface BUQ with wide-spread simulation packages and share hyperparametrization guidelines.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08783">https://arxiv.org/abs/2601.08783</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08783">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [52] astro-ph.EP updates on arXiv.org ▶ Dust Properties of the Interstellar Object 3I/ATLAS Revealed by Optical and Near-Infrared Polarimetry</title>
+    <link href="https://arxiv.org/abs/2601.08591"/>
+    <id>https://arxiv.org/abs/2601.08591</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08591v1 Announce Type: new Abstract: We present independent polarimetric observations of the interstellar object 3I/ATLAS, including the first near-infrared polarimetric measurements. Using</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> planetesimal, water</p>
+<p><strong>AI Decision:</strong> Optical–near-IR polarimetry of interstellar object 3I/ATLAS finds an unusually high polarization phase curve consistent with intrinsic refractory dust aggregates (submicron monomers) and suggests a primitive extrasolar cometary planetesimal with dust properties distinct from typical Solar System comets.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08591v1 Announce Type: new Abstract: We present independent polarimetric observations of the interstellar object 3I/ATLAS, including the first near-infrared polarimetric measurements. Using imaging polarimeters, we measured the degree of linear polarization from the visible RC band (0.64 {\mu}m) to the near-infrared KS band (2.25 {\mu}m), and investigated its dependence on solar phase angle (polarization phase curve; PPC) and wavelength (polarization color curve; PCC). We confirm that the PPC of 3I/ATLAS differs significantly from those of typical Solar System comets, showing an unusually large polarization amplitude. This PPC shows no significant change in the RC band across perihelion passage, despite the perihelion lying within the water snow line. This indicates that the unusual polarimetric behavior of 3I/ATLAS is unlikely to be driven by transient volatile activity, but instead reflects intrinsic optical properties of refractory dust particles. The PCC increases with wavelength over 0.6-1.2 {\mu}m and peaks at 1.5-2.0 {\mu}m, suggesting that the dominant scattering units are dust aggregates composed of submicron-sized monomers, broadly consistent with interstellar dust and solar-system cometary aggregates. Taken together, our results indicate that 3I/ATLAS preserves polarimetric properties characteristic of a primitive cometary planetesimal formed in another planetary system, with a refractory dust composition that differs from that typically observed among Solar System comets, despite sharing a similar size scale of the aggregate building blocks.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08591">https://arxiv.org/abs/2601.08591</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08591">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [75] astro-ph.EP updates on arXiv.org ▶ Anatomy of Empirical Transit Spectra of Mars based on TGO/NOMAD</title>
+    <link href="https://arxiv.org/abs/2601.08397"/>
+    <id>https://arxiv.org/abs/2601.08397</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08397v1 Announce Type: new Abstract: Transit spectroscopy is a powerful tool for probing atmospheric structures of exoplanets. Accurately accounting for the effects of aerosols is key to re</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, habitab*, mars</p>
+<p><strong>AI Decision:</strong> Synthesizes empirical Mars transit spectra from TGO/NOMAD to quantify how dust and water-ice aerosols mute CO2 features and create a 3.1 µm mesospheric ice signature, with implications for detecting Mars-like/habitable-zone exoplanet atmospheres (including TRAPPIST-1f).</p>
+<p><strong>Abstract:</strong> arXiv:2601.08397v1 Announce Type: new Abstract: Transit spectroscopy is a powerful tool for probing atmospheric structures of exoplanets. Accurately accounting for the effects of aerosols is key to reconstructing atmospheric properties from transit spectra, yet this remains a significant challenge. To advance this effort, it is invaluable to examine the spectral features of well-characterized planetary atmospheres. Here, we synthesize empirical transit spectra of Mars across different seasons based on data from the NOMAD&#x27;s Solar Occultation channel onboard ExoMars/TGO, which operates at wavelengths of 0.2-0.65 and 2-4 micron. In the generated empirical transit spectra, the atmosphere below 25 km is found to be largely opaque due to the presence of micron-sized dust and water ice clouds, both of which substantially weaken spectral features. The spectra exhibit CO2 absorption features at 2.7-2.8 micron and signatures of sub-micron-sized mesospheric water ice clouds around 3.1 micron, accompanied by a continuum slope. The amplitudes of these spectral features are found to vary with the Martian seasons, where the dust storms weaken the CO2 signatures and strengthen the water ice features, which serve as potential indicators of a dusty planet like Mars. If TRAPPIST-1f possessed a Mars-like atmospheric structure, both CO2 and water ice features would be detectable at a noise level of 3 ppm, a level likely beyond current observational capabilities. Nevertheless, the 3.1 micron feature produced by sub-micron-sized mesospheric water ice clouds offers a novel avenue for characterizing the atmospheres of habitable-zone exoplanets.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08397">https://arxiv.org/abs/2601.08397</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08397">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [2] cond-mat.stat-mech updates on arXiv.org ▶ Open quantum spin chains with non-reciprocity: a theoretical approach based on the time-dependent generalized Gibbs ensemble</title>
+    <link href="https://arxiv.org/abs/2601.08606"/>
+    <id>https://arxiv.org/abs/2601.08606</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08606v1 Announce Type: cross Abstract: We study an open quantum spin chain with non-reciprocal dissipation using a theoretical approach known as time-dependent generalized Gibbs ensemble. I</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> The paper develops a theoretical framework for non-reciprocal dissipation in open quantum spin chains (time-dependent generalized Gibbs ensemble), with no direct connection to origins-of-life chemistry, habitability, or biosignatures.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08606v1 Announce Type: cross Abstract: We study an open quantum spin chain with non-reciprocal dissipation using a theoretical approach known as time-dependent generalized Gibbs ensemble. In the regime of weak dissipation the system is fully characterized by its rapidity distribution and we derive a closed set of coupled differential equations governing their time evolution. We check the accuracy of this theory by benchmarking the results against numerical simulations. Using this framework we are able to compute both the magnetization density and current dynamics, identifying some relations between the two. The problem of the anomalous power-law exponents identified in a previous work is discussed. Our work constitutes a theoretical approach that is able to describe the physics of non-reciprocal open quantum spin chains beyond analyses based on non-interacting fermions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08606">https://arxiv.org/abs/2601.08606</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08606">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] math.DS updates on arXiv.org ▶ Exact solution for a quantum SIR model</title>
+    <link href="https://arxiv.org/abs/2512.09951"/>
+    <id>https://arxiv.org/abs/2512.09951</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2512.09951v2 Announce Type: replace Abstract: Based on the classical continuous system initially proposed by Bailey in 1975, we present a novel Susceptible--Infected--Removed (SIR) model defined</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops an exact analytical solution for a quantum-time discretized SIR epidemiological model and analyzes its long-term dynamics, with no direct relevance to origins-of-life research or astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2512.09951v2 Announce Type: replace Abstract: Based on the classical continuous system initially proposed by Bailey in 1975, we present a novel Susceptible--Infected--Removed (SIR) model defined in quantum time, where the temporal evolution is governed by a non-uniform time grid. An explicit analytical solution is derived, and the long-term behavior of the susceptible, infected, and removed individuals is analyzed. Moreover, we prove the model preserves dynamic consistency with its continuous counterpart, as evidenced by the non-negativity of solutions and their corresponding qualitative agreement with the continuous dynamics. All results are further supported by illustrative examples.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2512.09951">https://arxiv.org/abs/2512.09951</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2512.09951">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] math-ph updates on arXiv.org ▶ On Globalization Problem of Multi-Hamiltonian Formalisms</title>
+    <link href="https://arxiv.org/abs/2601.08576"/>
+    <id>https://arxiv.org/abs/2601.08576</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08576v1 Announce Type: cross Abstract: The globalization problem arises when local tensor fields possess a given property (such as being symplectic or Poisson) but cannot be consistently ex</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Mathematical study of locally conformal multi-Hamiltonian (Nambu/Poisson/Jacobi) geometric structures and associated irreversible dynamics, with no direct connection to origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08576v1 Announce Type: cross Abstract: The globalization problem arises when local tensor fields possess a given property (such as being symplectic or Poisson) but cannot be consistently extended to a global object due to incompatibilities on chart overlaps. A notable instance occurs in locally conformal analysis, where local representatives coincide only up to conformal factors. The locally conformal approach not only enables the definition of novel and rich geometric structures but also provides Hamiltonian formulations for irreversible systems, yielding physically meaningful dynamical consequences. While extensively studied for symplectic, cosymplectic, and Poisson geometries, its systematic extension to multi-Hamiltonian settings remains largely unexplored. In this work, we investigate locally conformally Nambu--Poisson and locally conformally generalized Poisson manifolds, showing that these structures naturally induce Nambu--Jacobi and generalized Jacobi manifolds, respectively. From a dynamical point of view, we construct Hamiltonian-type evolution equations, and for locally conformal $3$-Nambu structures, we introduce locally conformal bi-Hamiltonian systems. The resulting dynamics are particularly suitable for modeling irreversible multi-Hamiltonian processes, as they generally do not preserve the system&#x27;s energy. Collectively, this work provides a unified framework for understanding both the geometric structures and Hamiltonian dynamics of classical, Nambu--Poisson, and generalized Poisson manifolds within a locally conformal context.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08576">https://arxiv.org/abs/2601.08576</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08576">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] cond-mat.stat-mech updates on arXiv.org ▶ Designing topological edge states in bacterial active matter</title>
+    <link href="https://arxiv.org/abs/2601.08243"/>
+    <id>https://arxiv.org/abs/2601.08243</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08243v1 Announce Type: cross Abstract: Topology provides a unifying framework for understanding robust transport through protected edge states arising from nontrivial wavenumber topology. E</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Demonstrates experimentally tunable, topology-driven edge localization and robust transport in dense bacterial active matter via chiral microfabricated kagome ratchet networks, offering broad physical context for how collective microbial flows can be shaped by geometry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08243v1 Announce Type: cross Abstract: Topology provides a unifying framework for understanding robust transport through protected edge states arising from nontrivial wavenumber topology. Extending these concepts to active matter, however, remains largely unexplored experimentally, with realizations limited to systems composed of chiral active particles. Here, we realize topological edge states in dense bacterial suspension, which represents a prototypical active matter system, using microfabricated geometrical structures with nontrivial wavenumber topology. Inspired by previous theoretical studies, we constructed a directional kagome network composed of ratchet-shaped channels that induce unidirectional bacterial flow. In this network, we found clear edge localization of bacterial density. A steady-state analysis based on the bacterial transport model and experimentally measured velocity field reveals how the characteristic collective flow generates edge localization. The model also uncovers the topological origin of the observed edge states. By tuning the geometry of the microfabricated networks, we identified directional channel design and network chirality as the key design features essential for the emergence of the edge state. Our results pave the way for establishing a control and design principle of topological transport in such active matter systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08243">https://arxiv.org/abs/2601.08243</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08243">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] nlin.CD updates on arXiv.org ▶ Wave kinetics in an integrable model -- the Kaup-Boussinesq system</title>
+    <link href="https://arxiv.org/abs/2601.08072"/>
+    <id>https://arxiv.org/abs/2601.08072</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08072v1 Announce Type: new Abstract: We study wave turbulence in one-dimensional (1-D) bidirectional shallow water waves described by the Kaup-Boussinesq (KB) equation, which is known to be</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, evolution</p>
+<p><strong>AI Decision:</strong> Develops and numerically validates a wave kinetic equation for the integrable Kaup–Boussinesq shallow-water wave system, showing thermalization and stationary power-law spectra despite integrability.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08072v1 Announce Type: new Abstract: We study wave turbulence in one-dimensional (1-D) bidirectional shallow water waves described by the Kaup-Boussinesq (KB) equation, which is known to be an integrable system. In contrast to the generally accepted empirical belief that an integrable system yields no kinetic theory, we derive and validate a non-trivial wave kinetic equation (WKE) for the KB system with a non-zero interaction coefficient on the four-wave resonant manifold. This WKE is non-homogeneous in nature due to the non-homogeneity in the dispersion relation of the KB system; however, approximate Kolomogrov-Zakharov (KZ) solutions can be derived in a novel way under certain approximations. We numerically verify the theoretical findings in two cases: (i) In free-evolution cases, although the discrete (nonlinear) spectrum remains unchanged as guaranteed by an integrable system&#x27;s isospectrality, an initial arbitrary wavenumber spectrum quickly evolves into a thermo-equilibrium state, demonstrating the kinetic aspect of the system; (ii) in forced-dissipated cases, we find stationary power-law spectra that agree with the theoretical predictions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08072">https://arxiv.org/abs/2601.08072</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08072">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] nlin.AO updates on arXiv.org ▶ From Agent-Based Markov Dynamics to Hierarchical Closures on Networks: Emergent Complexity and Epidemic Applications</title>
+    <link href="https://arxiv.org/abs/2601.07844"/>
+    <id>https://arxiv.org/abs/2601.07844</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.07844v1 Announce Type: cross Abstract: We explore a rigorous formulation of agent-based SIR epidemic dynamics as a discrete-state Markov process, capturing the stochastic propagation of inf</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Formulates agent-based SIR epidemic spreading on networks via a Markov/BBGKY-like hierarchy with closure approximations and simulations, offering general tools for emergent complexity but little direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.07844v1 Announce Type: cross Abstract: We explore a rigorous formulation of agent-based SIR epidemic dynamics as a discrete-state Markov process, capturing the stochastic propagation of infection or an invading agent on networks. Using indicator functions and corresponding marginal probabilities, we derive a hierarchy of evolution equations that resembles the classical BBGKY hierarchy in statistical mechanics. The structure of these equations clarifies the challenges of closure and highlights the principal problem of systemic complexity arising from stochastic but generally not fully chaotic interactions. Monte Carlo simulations are used to validate simplified closures and approximations, offering a unified perspective on the interplay between network topology, stochasticity, and infection dynamics. We also explore the impact of lockdown measures within a networked agent framework, illustrating how SIR dynamics and structural complexity of the network shape epidemic with propagation of the COVID-19 pandemic in Northern Italy taken as an example.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.07844">https://arxiv.org/abs/2601.07844</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.07844">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] cond-mat.stat-mech updates on arXiv.org ▶ Attention in Krylov Space</title>
+    <link href="https://arxiv.org/abs/2601.07937"/>
+    <id>https://arxiv.org/abs/2601.07937</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.07937v1 Announce Type: cross Abstract: The Universal Operator Growth Hypothesis formulates time evolution of operators through Lanczos coefficients. In practice, however, numerical instabil</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a transformer model to predict Lanczos coefficients in Krylov-space operator growth, improving observable reconstruction in classical/quantum systems, with no direct connection to origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> arXiv:2601.07937v1 Announce Type: cross Abstract: The Universal Operator Growth Hypothesis formulates time evolution of operators through Lanczos coefficients. In practice, however, numerical instability and memory cost limit the number of coefficients that can be computed exactly. In response to these challenges, the standard approach relies on fitting early coefficients to asymptotic forms, but such procedures can miss subleading, history-dependent structures in the coefficients that subsequently affect reconstructed observables. In this work, we treat the Lanczos coefficients as a causal time sequence and introduce a transformer-based model to autoregressively predict future Lanczos coefficients from short prefixes. For both classical and quantum systems, our machine-learning model outperforms asymptotic fits, in both coefficient extrapolation and physical observable reconstruction, by achieving an order-of-magnitude reduction in error. Our model also transfers across system sizes: it can be trained on smaller systems and then be used to extrapolate coefficients on a larger system without retraining. By probing the learned attention patterns and performing targeted attention ablations, we identify which portions of the coefficient history are most influential for accurate forecasts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.07937">https://arxiv.org/abs/2601.07937</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.07937">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [90] q-bio.MN updates on arXiv.org ▶ Crossing the Functional Desert: Critical Cascades and a Feasibility Transition for the Emergence of Life</title>
+    <link href="https://arxiv.org/abs/2601.06272"/>
+    <id>https://arxiv.org/abs/2601.06272</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, origin(s) of life</p>
+<p><strong>AI Decision:</strong> Proposes a substrate-agnostic network criticality mechanism (“functional percolation”) by which threshold-driven cascades near connectivity critical points can create persistent, discriminative functional organization, helping overcome combinatorial feasibility barriers in the origin of life.</p>
+<p><strong>Abstract:</strong> arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly spaces when unguided exploration behaves as a memoryless random walk? We show that nonlinear threshold-cascade dynamics in connected interaction networks provide a minimal, substrate-agnostic mechanism that can soften this obstruction. Below a critical connectivity threshold, cascades die out locally and structured input-output response mappings remain sparse and transient-a &quot;functional desert&quot; in which accumulation is dynamically unsupported. Near the critical percolation threshold, system-spanning cascades emerge, enabling persistent and discriminative functional responses. We illustrate this transition using a minimal toy model and generalize the argument to arbitrary networked systems. Also near criticality, cascades introduce structural and functional persistence, directional bias, and weak dynamical path-dependence into otherwise memoryless exploration, allowing biased accumulation over short coherence timescales. This connectivity-driven transition-functional percolation-requires only generic ingredients: interacting units, nonlinear thresholds, influence transmission, and non-zero coherence times. The mechanism does not explain specific biochemical pathways, but it identifies a necessary dynamical regime in which structured functional organization can emerge and persist, providing a physical foundation for how combinatorial feasibility barriers can be crossed through network dynamics alone.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.06272">https://arxiv.org/abs/2601.06272</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.06272">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [85] nlin.AO updates on arXiv.org ▶ Crossing the Functional Desert: Critical Cascades and a Feasibility Transition for the Emergence of Life</title>
+    <link href="https://arxiv.org/abs/2601.06272"/>
+    <id>https://arxiv.org/abs/2601.06272</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, origin(s) of life</p>
+<p><strong>AI Decision:</strong> Proposes a substrate-agnostic network criticality (functional percolation) mechanism whereby threshold cascades near a connectivity transition can generate persistent, discriminative functional organization, helping overcome combinatorial feasibility barriers in origin-of-life scenarios.</p>
+<p><strong>Abstract:</strong> arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly spaces when unguided exploration behaves as a memoryless random walk? We show that nonlinear threshold-cascade dynamics in connected interaction networks provide a minimal, substrate-agnostic mechanism that can soften this obstruction. Below a critical connectivity threshold, cascades die out locally and structured input-output response mappings remain sparse and transient-a &quot;functional desert&quot; in which accumulation is dynamically unsupported. Near the critical percolation threshold, system-spanning cascades emerge, enabling persistent and discriminative functional responses. We illustrate this transition using a minimal toy model and generalize the argument to arbitrary networked systems. Also near criticality, cascades introduce structural and functional persistence, directional bias, and weak dynamical path-dependence into otherwise memoryless exploration, allowing biased accumulation over short coherence timescales. This connectivity-driven transition-functional percolation-requires only generic ingredients: interacting units, nonlinear thresholds, influence transmission, and non-zero coherence times. The mechanism does not explain specific biochemical pathways, but it identifies a necessary dynamical regime in which structured functional organization can emerge and persist, providing a physical foundation for how combinatorial feasibility barriers can be crossed through network dynamics alone.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.06272">https://arxiv.org/abs/2601.06272</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.06272">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] physics.bio-ph updates on arXiv.org ▶ Information-Thermodynamic Analysis of the DNA--RNA Polymerase Complex via Interface Dissipation: large Based on Observer--Observed Swap Symmetry</title>
+    <link href="https://arxiv.org/abs/2601.08577"/>
+    <id>https://arxiv.org/abs/2601.08577</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08577v1 Announce Type: new Abstract: RNA polymerase (RNAP) is a molecular machine that reads information encoded in the base sequence of a DNA template while producing mechanical motion (tr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> Analyzes transcription by the DNA–RNA polymerase complex using information thermodynamics (observer/observed partitioning) to reinterpret dissipation and information-to-work accounting, offering conceptual relevance to how genetic information could couple to energetics but not directly addressing prebiotic origins.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08577v1 Announce Type: new Abstract: RNA polymerase (RNAP) is a molecular machine that reads information encoded in the base sequence of a DNA template while producing mechanical motion (transcription elongation; forward/backward stepping; backtracking) through chemical-potential differences of nucleoside triphosphates (NTPs) and fluctuations under external conditions. A prior work formulated a mismatch in free-energy accounting as the involvement of a term originating from genetic information (e.g.\ $k_BT\log P(N)$), and interpreted RNAP as a Maxwell&#x27;s demon / Szilard-engine-like device that converts information into motion. However, in information thermodynamics, the bookkeeping of information and dissipation can depend on how one partitions the composite system into a device and a target (observer/observed labeling).</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08577">https://arxiv.org/abs/2601.08577</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08577">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] cs.NE updates on arXiv.org ▶ NEVO-GSPT: Population-Based Neural Network Evolution Using Inflate and Deflate Operators</title>
+    <link href="https://arxiv.org/abs/2601.08657"/>
+    <id>https://arxiv.org/abs/2601.08657</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08657v1 Announce Type: new Abstract: Evolving neural network architectures is a computationally demanding process. Traditional methods often require an extensive search through large archit</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces a neuroevolution algorithm (NEVO-GSPT) for efficiently evolving compact neural network architectures using geometric semantic operators, with no direct relevance to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08657v1 Announce Type: new Abstract: Evolving neural network architectures is a computationally demanding process. Traditional methods often require an extensive search through large architectural spaces and offer limited understanding of how structural modifications influence model behavior. This paper introduces \gls{ngspt}, a novel Neuroevolution algorithm based on two key innovations. First, we adapt geometric semantic operators~(GSOs) from genetic programming to neural network evolution, ensuring that architectural changes produce predictable effects on network semantics within a unimodal error surface. Second, we introduce a novel operator (DGSM) that enables controlled reduction of network size, while maintaining the semantic properties of~GSOs. Unlike traditional approaches, \gls{ngspt}&#x27;s efficient evaluation mechanism, which only requires computing the semantics of newly added components, allows for efficient population-based training, resulting in a comprehensive exploration of the search space at a fraction of the computational cost. Experimental results on four regression benchmarks show that \gls{ngspt} consistently evolves compact neural networks that achieve performance comparable to or better than established methods in the literature, such as standard neural networks, SLIM-GSGP, TensorNEAT, and SLM.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08657">https://arxiv.org/abs/2601.08657</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08657">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [90] physics.bio-ph updates on arXiv.org ▶ Crossing the Functional Desert: Critical Cascades and a Feasibility Transition for the Emergence of Life</title>
+    <link href="https://arxiv.org/abs/2601.06272"/>
+    <id>https://arxiv.org/abs/2601.06272</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, origin(s) of life</p>
+<p><strong>AI Decision:</strong> Proposes a substrate-agnostic, network criticality (“functional percolation”) mechanism by which threshold cascades near a connectivity transition can overcome combinatorial search barriers and enable persistent functional organization relevant to the emergence of life.</p>
+<p><strong>Abstract:</strong> arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly spaces when unguided exploration behaves as a memoryless random walk? We show that nonlinear threshold-cascade dynamics in connected interaction networks provide a minimal, substrate-agnostic mechanism that can soften this obstruction. Below a critical connectivity threshold, cascades die out locally and structured input-output response mappings remain sparse and transient-a &quot;functional desert&quot; in which accumulation is dynamically unsupported. Near the critical percolation threshold, system-spanning cascades emerge, enabling persistent and discriminative functional responses. We illustrate this transition using a minimal toy model and generalize the argument to arbitrary networked systems. Also near criticality, cascades introduce structural and functional persistence, directional bias, and weak dynamical path-dependence into otherwise memoryless exploration, allowing biased accumulation over short coherence timescales. This connectivity-driven transition-functional percolation-requires only generic ingredients: interacting units, nonlinear thresholds, influence transmission, and non-zero coherence times. The mechanism does not explain specific biochemical pathways, but it identifies a necessary dynamical regime in which structured functional organization can emerge and persist, providing a physical foundation for how combinatorial feasibility barriers can be crossed through network dynamics alone.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.06272">https://arxiv.org/abs/2601.06272</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.06272">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] physics.chem-ph updates on arXiv.org ▶ Solvation Lies Within: Simulating Condensed-Phase Properties from Local Electronic Structures</title>
+    <link href="https://arxiv.org/abs/2601.08649"/>
+    <id>https://arxiv.org/abs/2601.08649</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08649v1 Announce Type: new Abstract: In transitions between different environmental settings, a molecular system inevitably undergoes a range of detectable changes, and the ability to accur</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Introduces an efficient DFT-based protocol to estimate bulk solvation effects from local electronic-structure perturbations, potentially useful for modeling solution-phase chemistry (e.g., aqueous environments) relevant to prebiotic reaction energetics.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08649v1 Announce Type: new Abstract: In transitions between different environmental settings, a molecular system inevitably undergoes a range of detectable changes, and the ability to accurately simulate such responses, e.g., in the form of shifts to molecular energies, remains an important challenge across physical chemistry. Based on an exact decomposition of total energies from Kohn--Sham density functional theory in a basis of spatially localized molecular orbitals, the present work outlines a robust protocol for sampling the effect of solvation within homogeneous condensed phases by focusing on perturbations to local electronic structures only. We report chemically intuitive results for binding energies of water, ethanol, and acetonitrile that all display fast convergence with respect to the bulk size. Results stay largely invariant with respect to the choice of basis set while reflecting differences in density functional approximations, and our protocol thus allows for a physically sound and efficient estimation of general effects related to bulk solvation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08649">https://arxiv.org/abs/2601.08649</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08649">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] physics.bio-ph updates on arXiv.org ▶ Designing topological edge states in bacterial active matter</title>
+    <link href="https://arxiv.org/abs/2601.08243"/>
+    <id>https://arxiv.org/abs/2601.08243</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08243v1 Announce Type: cross Abstract: Topology provides a unifying framework for understanding robust transport through protected edge states arising from nontrivial wavenumber topology. E</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> Demonstrates experimentally tunable topological edge-localized transport in dense bacterial active matter via microfabricated chiral ratchet-channel kagome networks, offering a general physical-control framework potentially relevant to self-organization mechanisms rather than directly to origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08243v1 Announce Type: cross Abstract: Topology provides a unifying framework for understanding robust transport through protected edge states arising from nontrivial wavenumber topology. Extending these concepts to active matter, however, remains largely unexplored experimentally, with realizations limited to systems composed of chiral active particles. Here, we realize topological edge states in dense bacterial suspension, which represents a prototypical active matter system, using microfabricated geometrical structures with nontrivial wavenumber topology. Inspired by previous theoretical studies, we constructed a directional kagome network composed of ratchet-shaped channels that induce unidirectional bacterial flow. In this network, we found clear edge localization of bacterial density. A steady-state analysis based on the bacterial transport model and experimentally measured velocity field reveals how the characteristic collective flow generates edge localization. The model also uncovers the topological origin of the observed edge states. By tuning the geometry of the microfabricated networks, we identified directional channel design and network chirality as the key design features essential for the emergence of the edge state. Our results pave the way for establishing a control and design principle of topological transport in such active matter systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08243">https://arxiv.org/abs/2601.08243</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08243">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] physics.bio-ph updates on arXiv.org ▶ Direct measurement of the attractive electrosolvation force between a pair of colloidal particles</title>
+    <link href="https://arxiv.org/abs/2508.14652"/>
+    <id>https://arxiv.org/abs/2508.14652</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2508.14652v3 Announce Type: replace-cross Abstract: In solution, electrically like-charged particles can experience a strong and long-ranged attraction that leads to the formation of stable, slo</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Direct optical measurements reveal unexpectedly long-ranged like-charge attraction (electrosolvation) between colloids—including DNA- and lipid-coated particles—suggesting solvent–interface physics may enable strong self-assembly relevant to prebiotic aggregation and protocell-scale organization.</p>
+<p><strong>Abstract:</strong> arXiv:2508.14652v3 Announce Type: replace-cross Abstract: In solution, electrically like-charged particles can experience a strong and long-ranged attraction that leads to the formation of stable, slowly reorganizing clusters. The attractive force underpinning this spontaneous organization process has been shown to depend on both the sign of charge of the particle and the nature of the solvent medium. The origin of the attraction has been ascribed to the preferential orientation of solvent molecules at the object-electrolyte interface. Here, we use optical imaging to directly measure the spatial profile of the potential of mean force between isolated pairs of charged microspheres. Working with particles carrying a variety of surface chemistries we find that the range of the electrosolvation attraction is substantially longer than previously held. In particular we show that particles carrying strongly anionic surface coatings composed of DNA or phospholipid bilayers display long-range attraction. We further find that the length scale governing the decay of the attractive force can depend on the properties of the interacting particles. This contrasts with the canonical expectation that the screening length governing the interaction of charged particles in solution depends exclusively on the properties of the intervening electrolyte medium. The observations point to significant departures from current thinking, and the likely need for a model of interactions that accounts for the molecular nature of the solvent, its interfacial behaviour, and spatial correlations. Finally, a strong and long-ranged attraction mediated by anionic matter constituting lipid membranes and chromatin could carry far-reaching implications for biological organization and structure formation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2508.14652">https://arxiv.org/abs/2508.14652</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2508.14652">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] physics.chem-ph updates on arXiv.org ▶ Bayesian umbrella quadrature accelerates free-energy calculations across diverse molecular systems and processes</title>
+    <link href="https://arxiv.org/abs/2601.08783"/>
+    <id>https://arxiv.org/abs/2601.08783</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08783v1 Announce Type: cross Abstract: Biased sampling in molecular dynamics simulations overcomes timescale limitations and delivers free-energy landscapes, essential to understand complex</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Introduces Bayesian Umbrella Quadrature to automate and accelerate umbrella sampling free-energy calculations (validated on a peptide conformational change, water–ice phase transition, and a substitution reaction), a generally useful MD methodology that could indirectly support prebiotic chemistry modeling but is not Origins-of-Life focused.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08783v1 Announce Type: cross Abstract: Biased sampling in molecular dynamics simulations overcomes timescale limitations and delivers free-energy landscapes, essential to understand complex atomistic phenomena. However, when applied across diverse systems and processes, biasing protocols often require time- and resource-consuming fine-tuning. In search for robustness, we boost a prominent biasing method, Umbrella Sampling. To estimate the value of an integral, i.e., the free energy, our Bayesian Umbrella Quadrature (BUQ) method iteratively selects gradient samples, i.e., bias locations, that most reduce the posterior integral variance based on a noise-tolerant Gaussian process model, which also effectively interpolates between samples. We validate the method for a conformational change in a small peptide, a water-to-ice phase transition, and a substitution chemical reaction; obtaining excellent accuracies and speedups. To ease adoption of this more automated and universal free-energy method, we interface BUQ with wide-spread simulation packages and share hyperparametrization guidelines.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08783">https://arxiv.org/abs/2601.08783</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08783">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [88] q-bio.PE updates on arXiv.org ▶ Crossing the Functional Desert: Critical Cascades and a Feasibility Transition for the Emergence of Life</title>
+    <link href="https://arxiv.org/abs/2601.06272"/>
+    <id>https://arxiv.org/abs/2601.06272</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, origin(s) of life</p>
+<p><strong>AI Decision:</strong> Proposes a substrate-agnostic, network-criticality (“functional percolation”) mechanism by which threshold-driven cascades can introduce persistence and biased accumulation, helping systems overcome combinatorial barriers on the path to emergent life-like functionality.</p>
+<p><strong>Abstract:</strong> arXiv:2601.06272v1 Announce Type: cross Abstract: The origin of life poses a problem of combinatorial feasibility: How can persistent functional organization arise in exponentially branching assembly spaces when unguided exploration behaves as a memoryless random walk? We show that nonlinear threshold-cascade dynamics in connected interaction networks provide a minimal, substrate-agnostic mechanism that can soften this obstruction. Below a critical connectivity threshold, cascades die out locally and structured input-output response mappings remain sparse and transient-a &quot;functional desert&quot; in which accumulation is dynamically unsupported. Near the critical percolation threshold, system-spanning cascades emerge, enabling persistent and discriminative functional responses. We illustrate this transition using a minimal toy model and generalize the argument to arbitrary networked systems. Also near criticality, cascades introduce structural and functional persistence, directional bias, and weak dynamical path-dependence into otherwise memoryless exploration, allowing biased accumulation over short coherence timescales. This connectivity-driven transition-functional percolation-requires only generic ingredients: interacting units, nonlinear thresholds, influence transmission, and non-zero coherence times. The mechanism does not explain specific biochemical pathways, but it identifies a necessary dynamical regime in which structured functional organization can emerge and persist, providing a physical foundation for how combinatorial feasibility barriers can be crossed through network dynamics alone.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.06272">https://arxiv.org/abs/2601.06272</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.06272">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] cs.IT updates on arXiv.org ▶ Efficient Synthesis for Two-Dimensional Strand Arrays with Row Constraints</title>
+    <link href="https://arxiv.org/abs/2601.07968"/>
+    <id>https://arxiv.org/abs/2601.07968</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.07968v1 Announce Type: new Abstract: We study the theoretical problem of synthesizing multiple DNA strands under spatial constraints, motivated by large-scale DNA synthesis technologies. In</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> The paper develops analytical bounds and optimal/near-optimal scheduling policies for spatially constrained parallel DNA strand synthesis (two strands per row), which is mainly a DNA manufacturing/theory result with only indirect relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> arXiv:2601.07968v1 Announce Type: new Abstract: We study the theoretical problem of synthesizing multiple DNA strands under spatial constraints, motivated by large-scale DNA synthesis technologies. In this setting, strands are arranged in an array and synthesized according to a fixed global synthesis sequence, with the restriction that at most one strand per row may be synthesized in any synthesis cycle. We focus on the basic case of two strands in a single row and analyze the expected completion time under this row-constrained model. By decomposing the process into a Markov chain, we derive analytical upper and lower bounds on the expected synthesis time. We show that a simple laggard-first policy achieves an asymptotic expected completion time of (q+3)L/2 for any alphabet of size q, and that no online policy without look-ahead can asymptotically outperform this bound. For the binary case, we show that allowing a single-symbol look-ahead strictly improves performance, yielding an asymptotic expected completion time of 7L/3. Finally, we present a dynamic programming algorithm that computes the optimal offline schedule for any fixed pair of sequences. Together, these results provide the first analytical bounds for synthesis under spatial constraints and lay the groundwork for future studies of optimal synthesis policies in such settings.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.07968">https://arxiv.org/abs/2601.07968</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.07968">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] physics.chem-ph updates on arXiv.org ▶ A microscopic origin for the breakdown of the Stokes Einstein relation in ion transport</title>
+    <link href="https://arxiv.org/abs/2601.08309"/>
+    <id>https://arxiv.org/abs/2601.08309</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08309v1 Announce Type: cross Abstract: Ion transport underlies the operation of biological ion channels and governs the performance of electrochemical energy-storage devices. A long-standin</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Nanopore experiments and MD simulations show Stokes–Einstein breakdown in aqueous alkali-ion transport arises from charge-tightened hydration that amplifies short-range Lennard–Jones dissipation (strongest for Li+), offering broadly relevant physical insight into water-mediated ion dynamics but not a direct origins-of-life study.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08309v1 Announce Type: cross Abstract: Ion transport underlies the operation of biological ion channels and governs the performance of electrochemical energy-storage devices. A long-standing anomaly is that smaller alkali metal ions, such as Li$^+$, migrate more slowly in water than larger ions, in apparent violation of the Stokes-Einstein relation. This breakdown is conventionally attributed to dielectric friction, a collective drag force arising from electrostatic interactions between a drifting ion and its surrounding solvent. Here, combining nanopore transport measurements over electric fields spanning several orders of magnitude with molecular dynamics simulations, we show that the time-averaged electrostatic force on a migrating ion is not a drag force but a net driving force. By contrasting charged ions with neutral particles, we reveal that ionic charge introduces additional Lorentzian peaks in the frequency-dependent friction coefficient. These peaks originate predominantly from short-range Lennard-Jones (LJ) interactions within the first hydration layer and represent additional channels for energy dissipation, strongest for Li$^+$ and progressively weaker for Na$^+$ and K$^+$. Our results demonstrate that electrostatic interactions primarily act to tighten the local hydration structure, thereby amplifying short-range LJ interactions rather than directly opposing ion motion. This microscopic mechanism provides a unified physical explanation for the breakdown of the Stokes-Einstein relation in aqueous ion transport.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08309">https://arxiv.org/abs/2601.08309</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08309">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] physics.chem-ph updates on arXiv.org ▶ Direct measurement of the attractive electrosolvation force between a pair of colloidal particles</title>
+    <link href="https://arxiv.org/abs/2508.14652"/>
+    <id>https://arxiv.org/abs/2508.14652</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2508.14652v3 Announce Type: replace-cross Abstract: In solution, electrically like-charged particles can experience a strong and long-ranged attraction that leads to the formation of stable, slo</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Direct optical measurements show unexpectedly long-ranged, particle-dependent attractive electrosolvation forces between like-charged colloids, including DNA- and lipid-bilayer–coated microspheres, suggesting solvent-mediated interactions that could influence prebiotic self-assembly and protocell-scale organization.</p>
+<p><strong>Abstract:</strong> arXiv:2508.14652v3 Announce Type: replace-cross Abstract: In solution, electrically like-charged particles can experience a strong and long-ranged attraction that leads to the formation of stable, slowly reorganizing clusters. The attractive force underpinning this spontaneous organization process has been shown to depend on both the sign of charge of the particle and the nature of the solvent medium. The origin of the attraction has been ascribed to the preferential orientation of solvent molecules at the object-electrolyte interface. Here, we use optical imaging to directly measure the spatial profile of the potential of mean force between isolated pairs of charged microspheres. Working with particles carrying a variety of surface chemistries we find that the range of the electrosolvation attraction is substantially longer than previously held. In particular we show that particles carrying strongly anionic surface coatings composed of DNA or phospholipid bilayers display long-range attraction. We further find that the length scale governing the decay of the attractive force can depend on the properties of the interacting particles. This contrasts with the canonical expectation that the screening length governing the interaction of charged particles in solution depends exclusively on the properties of the intervening electrolyte medium. The observations point to significant departures from current thinking, and the likely need for a model of interactions that accounts for the molecular nature of the solvent, its interfacial behaviour, and spatial correlations. Finally, a strong and long-ranged attraction mediated by anionic matter constituting lipid membranes and chromatin could carry far-reaching implications for biological organization and structure formation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2508.14652">https://arxiv.org/abs/2508.14652</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2508.14652">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Scientific American ▶ 2025 Wasn’t the Hottest Year on Record. Earth Is Still Barreling to the Climate Brink</title>
+    <link href="https://www.scientificamerican.com/article/2025-wasnt-the-hottest-year-on-record-earth-is-still-barreling-to-the/"/>
+    <id>https://www.scientificamerican.com/article/2025-wasnt-the-hottest-year-on-record-earth-is-still-barreling-to-the/</id>
+    <updated>2026-01-14T03:00:00Z</updated>
+    <summary>Global warming surpassed 1.5 degrees Celsius for the past three years, meaning Earth is currently on track to breach the Paris climate agreement by the end of the decade</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> A climate-focused report noting recent years have exceeded 1.5°C warming and warning of imminent Paris Agreement breach, providing only broad Earth habitability context rather than direct origins-of-life or prebiotic chemistry relevance.</p>
+<p><strong>Abstract:</strong> Global warming surpassed 1.5 degrees Celsius for the past three years, meaning Earth is currently on track to breach the Paris climate agreement by the end of the decade</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.scientificamerican.com/article/2025-wasnt-the-hottest-year-on-record-earth-is-still-barreling-to-the/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] q-bio.PE updates on arXiv.org ▶ Tara Polaris expeditions: Sustained decadal observations of the coupled Arctic system in rapid transition</title>
+    <link href="https://arxiv.org/abs/2601.08370"/>
+    <id>https://arxiv.org/abs/2601.08370</id>
+    <updated>2026-01-14T05:00:00Z</updated>
+    <summary>arXiv:2601.08370v1 Announce Type: new Abstract: The coupled Arctic system is in rapid transition and is set to undergo further dramatic changes over the coming decades. These changes will lead most li</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Outlines the Tara Polaris 2026–2046 program for consistent, multidisciplinary year-long Arctic drift observations to track rapid coupled atmosphere–sea ice–ocean transitions and associated ecological/biogeochemical feedbacks, with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> arXiv:2601.08370v1 Announce Type: new Abstract: The coupled Arctic system is in rapid transition and is set to undergo further dramatic changes over the coming decades. These changes will lead most likely to an ice-free ocean in summer, expected before mid-century. The Arctic will become more strongly influenced by atmospheric and oceanographic processes characteristic of mid-latitudes, increasing the prevalence of contaminants and new biological species. This ongoing transition of the Arctic to a new state necessitates systematic monitoring of all sentinels (variables that make an essential contribution to characterizing the Earth&#x27;s state) to improve our understanding of the system, enhance forecasting and support knowledge-based decisions. Here, we describe a sustained multi-decadal observation program to be implemented on the Tara Polar Station between 2026 and 2046. The monitoring program is designed as a series of year-long drift expeditions, called Tara Polaris, in the central Arctic Ocean, covering all seasons. The multidisciplinary data will bridge ecological, geochemical, biological, and physical parameters and processes in the atmosphere, sea ice and ocean. In addition, data collected with consistent methodologies over a 20-year period will make it possible to distinguish long-term trends from seasonal and interannual variability. In this paper, we discuss specific measurement challenges in each compartment (i.e., atmosphere, sea ice and ocean) along key sentinels and the most pressing scientific questions to be addressed. The expected outcomes of the Tara Polaris program will enable us to understand and quantify the main feedbacks of the coupled Arctic system, with their seasonal and interannual trends and spatial variability.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.08370">https://arxiv.org/abs/2601.08370</a></li>
+</ul>
+<p><a href="https://arxiv.org/abs/2601.08370">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] molecular biology - biorXiv Preprints ▶ Molecular Mechanisms Associated With Amelioration Of Radiation Induced Gastrointestinal Mucositis By Compound Kushen Extracts</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698969v1?rss=1"/>
@@ -5676,327 +6122,5 @@
 <li><a href="https://doi.org/10.1126/sciadv.aea4729">https://doi.org/10.1126/sciadv.aea4729</a></li>
 </ul>
 <p><a href="https://www.scientificamerican.com/article/microbubbles-help-spread-dangerous-microplastics-through-our-water-study/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] math-ph updates on arXiv.org ▶ Exact State Evolution and Energy Spectrum in Solvable Bosonic Models</title>
-    <link href="https://arxiv.org/abs/2510.20046"/>
-    <id>https://arxiv.org/abs/2510.20046</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2510.20046v2 Announce Type: replace-cross Abstract: Solvable bosonic models provide a fundamental framework for describing light propagation in nonlinear media, including optical down-conversion</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Presents exact analytic solutions for state evolution and energy spectra in solvable bosonic quantum-optics models (e.g., nonlinear media and squeezed-light generation), with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
-<p><strong>Abstract:</strong> arXiv:2510.20046v2 Announce Type: replace-cross Abstract: Solvable bosonic models provide a fundamental framework for describing light propagation in nonlinear media, including optical down-conversion processes that generate squeezed states of light and their higher-order generalizations. In quantum optics a central objective is to determine the time evolution of a given initial state. Exact analytic solution to the state-evolution problem is presented, applicable to a broad class of solvable bosonic models and arbitrary initial states. Moreover, the characteristic equation governing the energy spectrum is derived and the eigenstates are found in the form of continued fractions and as the principal minors of the associated Jacobi matrix. The results provide a solid analytical framework for discussion of exactly solvable bosonic models.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2510.20046">https://arxiv.org/abs/2510.20046</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2510.20046">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] math-ph updates on arXiv.org ▶ Geometric integrators for adiabatically closed simple thermodynamic systems</title>
-    <link href="https://arxiv.org/abs/2511.14154"/>
-    <id>https://arxiv.org/abs/2511.14154</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2511.14154v2 Announce Type: replace Abstract: A variational formulation for non-equilibrium thermodynamics was developed by Gay-Balmaz and Yoshimura. In a recent article, the first two authors o</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Develops a discrete variational principle and geometric numerical integrators for adiabatically closed simple thermodynamic systems, with illustrative examples, but with no direct connection to origins-of-life mechanisms or astrobiology targets.</p>
-<p><strong>Abstract:</strong> arXiv:2511.14154v2 Announce Type: replace Abstract: A variational formulation for non-equilibrium thermodynamics was developed by Gay-Balmaz and Yoshimura. In a recent article, the first two authors of the present paper introduced partially cosymplectic structures as a geometric framework for thermodynamic systems, recovering the evolution equations obtained variationally. In this paper, we develop a discrete variational principle for adiabatically closed simple thermodynamic systems, which can be utilised to construct numerical integrators for the dynamics of such systems. The effectiveness of our method is illustrated with several examples.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2511.14154">https://arxiv.org/abs/2511.14154</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2511.14154">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] astro-ph.EP updates on arXiv.org ▶ Where does the simplified Stellar Contamination Model fail in Exoplanet Transmission Spectroscopy?</title>
-    <link href="https://arxiv.org/abs/2601.02621"/>
-    <id>https://arxiv.org/abs/2601.02621</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02621v1 Announce Type: new Abstract: Stellar photospheric heterogeneities (e.g., starspots, faculae) distort the stellar spectrum in transit and imprint wavelength-dependent biases on the p</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
-<p><strong>AI Decision:</strong> Pixel-resolved modeling shows disc-averaged stellar contamination corrections can break down (especially at optical wavelengths and for non-equatorial transits), implying that robust interpretation of high-precision exoplanet transmission spectra—and thus any future biosignature-relevant inferences—requires geometry- and limb-darkening-aware stellar heterogeneity treatments.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02621v1 Announce Type: new Abstract: Stellar photospheric heterogeneities (e.g., starspots, faculae) distort the stellar spectrum in transit and imprint wavelength-dependent biases on the planet-to-star radius ratio (Transit Light Source Effect, TLSE). The Rackham-TLSE (R-TLSE) prescription applies a disc-averaged correction based solely on filling factor and spectral contrast, but transmission spectroscopy also depends on limb darkening, active-region distribution, and transit geometry. We include these in a pixel-resolved framework, ECLIPSE-Xlambda, and run idealised noise-free model-model comparisons to R-TLSE. For LHS 1140 b, K2-18 b, and WASP-69 b, disc-averaged corrections differ from the pixel model by up to about 400 ppm in the optical for active hosts and non-equatorial transits, but stay below about 10 ppm in the near-infrared where limb darkening is weak. We then apply both approaches to the JWST/NIRISS SOSS spectrum of LHS 1140 b. With limb darkening set to zero, ECLIPSE-Xlambda recovers stellar-contamination parameters matching the reference R-TLSE solution, confirming consistency in the disc-averaged limit. With wavelength-dependent limb darkening, reproducing the short-wavelength slope via stellar contamination alone requires hot faculae (delta Tfac about 600 K; ffac about 0.35), equivalent to a circular facular region of radius about 0.6 Rstar (about 60% of the stellar radius) on the disc; such an extended unocculted region is physically unlikely even for an active M dwarf. Purely stellar contamination would therefore require extreme faculae, whereas a genuine atmospheric contribution complementing a more modest facular signal is more plausible. These results delineate the validity regime of R-TLSE and underscore the need for geometry-aware stellar-heterogeneity models including limb darkening in high-precision transmission spectroscopy.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02621">https://arxiv.org/abs/2601.02621</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02621">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [90] astro-ph.EP updates on arXiv.org ▶ Dearth of Photosynthetically Active Radiation Suggests No Complex Life on Late M-Star Exoplanets</title>
-    <link href="https://arxiv.org/abs/2601.02548"/>
-    <id>https://arxiv.org/abs/2601.02548</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02548v1 Announce Type: new Abstract: The rise of oxygen in the Earth&#x27;s atmosphere during the Great Oxidation Event (GOE) occurred about 2.3 billion years ago. There is considerably greater </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*</p>
-<p><strong>AI Decision:</strong> Models how the low visible-light (PAR) output of late M-dwarfs like TRAPPIST-1 could delay or prevent oxygenation of an Earth-analog’s atmosphere—favoring anoxygenic photosynthesizers and making robust O2 biosignatures and complex animal life unlikely.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02548v1 Announce Type: new Abstract: The rise of oxygen in the Earth&#x27;s atmosphere during the Great Oxidation Event (GOE) occurred about 2.3 billion years ago. There is considerably greater uncertainty for the origin of oxygenic photosynthesis, but it likely occurred significantly earlier, perhaps by 700 million years. Assuming this time lag is proportional to the rate of oxygen generation, we can estimate how long it would take for a GOE-like event to occur on a hypothetical Earth-analog planet orbiting the star TRAPPIST-1 (a late M star with Teff 2560 K). Although in the habitable zone, an Earth-analog planet located in TRAPPIST-1e&#x27;s orbit would receive only 0.9% of the Photosynthetically Active Radiation (PAR) that the Earth gets from the Sun. This is because most of the star&#x27;s light is emitted at wavelengths longer than the 400-700 nm PAR range. Thus it would take 63 Gyrs for a GOE to occur. But the linear assumption is problematic; as light levels increase, photosynthesis saturates then declines, an effect known as photoinhibition. Photoinhibition varies from species to species and depends on a host of environmental factors. There is also sensitivity to the upper wavelength limit of the PAR: extending just 50 nm increases the number of photons by a factor of 2.5. Including these and other factors greatly reduces the timescale to roughly 1-5 Gyrs for a GOE. However, non-oxygenic photosynthetic bacteria can thrive in low-light environments and can use near-IR light out to 1100 nm, providing 22 times as many photons. With this huge light advantage, and because they evolved earlier, anoxygenic photosynthesizers would likely dominate the ecosystem. On a late M-star Earth-analog planet, oxygen may never reach significant levels in the atmosphere and a GOE may never occur, let alone a Cambrian Explosion. Thus complex animal life is unlikely.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02548">https://arxiv.org/abs/2601.02548</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02548">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] astro-ph.EP updates on arXiv.org ▶ Tracing Pebble Drift History in Two Protoplanetary Disks with CO Enhancement</title>
-    <link href="https://arxiv.org/abs/2601.02545"/>
-    <id>https://arxiv.org/abs/2601.02545</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02545v1 Announce Type: new Abstract: Pebble drift is an important mechanism for supplying the materials needed to build planets in the inner region of protoplanetary disks. Thus, constraini</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, water</p>
-<p><strong>AI Decision:</strong> ALMA observations of two protoplanetary disks find a centrally peaked ~10× CO gas enhancement inside the CO snowline, implying hundreds of Earth masses of icy pebbles drifted inward and suggesting volatile trapping in water ice as the best explanation—relevant to inner-disk volatile delivery conditions that set the stage for habitable planet building.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02545v1 Announce Type: new Abstract: Pebble drift is an important mechanism for supplying the materials needed to build planets in the inner region of protoplanetary disks. Thus, constraining pebble drift&#x27;s timescales and mass flux is essential to understanding planet formation history. Current pebble drift models suggest pebble fluxes can be constrained from the enhancement of gaseous volatile abundances when icy pebbles sublimate after drifting across key snowlines. In this work, we present ALMA observations of spatially resolved $^{13}$C$^{18}$O J=2-1 line emission inside the midplane CO snowline of the HD 163296 and MWC 480 protoplanetary disks. We use radiative transfer and thermochemical models to constrain the spatial distribution of CO gas column density. We find that both disks display centrally peaked CO abundance enhancement of up to ten times of ISM abundance levels. For HD 163296 and MWC 480, the inferred enhancements require 250-350 and 480-660 Earth Masses of pebbles to have drifted across their CO snowlines, respectively. These ranges fall within cumulative pebble mass flux ranges to grow gas giants in the interior to the CO snowline. The centrally peaked CO enhancement is unexpected in current pebble drift models, which predict CO enhancement peaks at the CO snowline or is uniform inside the snowline. We propose two hypotheses to explain the centrally-peaked CO enhancement, including a large CO desorption distance and CO trapped in water ice. By testing both hypotheses with the 1D gas and dust evolution code chemcomp, we find that volatile trapping (about 30\%) best reproduces the centrally peaked CO enhancement observed.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02545">https://arxiv.org/abs/2601.02545</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02545">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [43] astro-ph.EP updates on arXiv.org ▶ The Lazuli Space Observatory: Architecture &amp; Capabilities</title>
-    <link href="https://arxiv.org/abs/2601.02556"/>
-    <id>https://arxiv.org/abs/2601.02556</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02556v1 Announce Type: cross Abstract: The Lazuli Space Observatory is a 3-meter aperture astronomical facility designed for rapid-response observations and precision astrophysics across vi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet</p>
-<p><strong>AI Decision:</strong> Describes the Lazuli 3‑m rapid-response space observatory and its instruments, including coronagraphic imaging and visible–NIR spectroscopy that could enable future exoplanet atmosphere characterization (though not specifically framed around biosignature detection or origins-of-life processes).</p>
-<p><strong>Abstract:</strong> arXiv:2601.02556v1 Announce Type: cross Abstract: The Lazuli Space Observatory is a 3-meter aperture astronomical facility designed for rapid-response observations and precision astrophysics across visible to near-infrared wavelengths (400-1700 nm bandpass). An off-axis, freeform telescope delivers diffraction-limited image quality (Strehl $&gt;$0.8 at 633 nm) to three instruments across a wide, flat focal plane. The three instruments provide complementary capabilities: a Wide-field Context Camera (WCC) delivers multi-band imaging over a 35&#x27; $\times$ 12&#x27; footprint with high-cadence photometry; an Integral Field Spectrograph (IFS) provides continuous 400-1700 nm spectroscopy at R $\sim$ 100-500 for stable spectrophotometry; and an ExtraSolar Coronagraph (ESC) enables high-contrast imaging expected to reach raw contrasts of $10^{-8}$ and post-processed contrasts approaching $10^{-9}$. Operating from a 3:1 lunar-resonant orbit, Lazuli will respond to targets of opportunity in under four hours--a programmatic requirement designed to enable routine temporal responsiveness that is unprecedented for a space telescope of this size. Lazuli&#x27;s technical capabilities are shaped around three broad science areas: (1) time-domain and multi-messenger astronomy, (2) stars and planets, and (3) cosmology. These capabilities enable a potent mix of science spanning gravitational wave counterpart characterization, fast-evolving transients, Type Ia supernova cosmology, high-contrast exoplanet imaging, and spectroscopy of exoplanet atmospheres. While these areas guide the observatory design, Lazuli is conceived as a general-purpose facility capable of supporting a wide range of astrophysical investigations, with open time for the global community. We describe the observatory architecture and capabilities in the preliminary design phase, with science operations anticipated following a rapid development cycle from concept to launch.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02556">https://arxiv.org/abs/2601.02556</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02556">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ TOI-4495: A Pair of Aligned, Near-Resonant Sub-Neptunes that Likely Experienced Overstable Migration</title>
-    <link href="https://arxiv.org/abs/2601.02665"/>
-    <id>https://arxiv.org/abs/2601.02665</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02665v1 Announce Type: new Abstract: We report the discovery of a sub-Neptune and a Neptune-like planet ($R_b = 2.48^{+0.14}_{-0.10}\,R_\oplus$, $R_c = 4.03^{+0.23}_{-0.15}\,R_\oplus$) orbi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> planetesimal</p>
-<p><strong>AI Decision:</strong> Reports two aligned, near–2:1 resonant sub-Neptunes around TOI-4495 and argues their current eccentricities and spacing likely reflect overstable resonant migration plus possible planetesimal scattering, with limited direct relevance to origins-of-life or habitability.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02665v1 Announce Type: new Abstract: We report the discovery of a sub-Neptune and a Neptune-like planet ($R_b = 2.48^{+0.14}_{-0.10}\,R_\oplus$, $R_c = 4.03^{+0.23}_{-0.15}\,R_\oplus$) orbiting the F-type star TOI-4495. The planets have orbital periods of 2.567 days and 5.185 days, lying close to a 2:1 mean-motion resonance (MMR). Our photodynamical analysis of the TESS light curves constrains the planetary masses to $M_b = 7.7 \pm 1.4\,M_\oplus$ and $M_c = 23.2 \pm 4.7\,M_\oplus$. The measured masses and radii indicate the presence of volatile-rich gaseous envelopes on both planets. The Rossiter-McLaughlin effect and the Doppler shadow of TOI-4495 c reveal a well-aligned orbit with a projected stellar obliquity of $\lambda = -2.3^{+8.3}_{-7.8}\,\mathrm{deg}$. Combined with the low mutual inclination constrained by the photodynamical analysis ($\Delta I &lt; 8.7\,\mathrm{deg}$), the planetary orbits are likely coplanar and aligned with the host star&#x27;s spin axis. We show that the planets are near, but not in, the 2:1 MMR, with a circulating resonant angle. We also find substantial free eccentricity for the inner planet, TOI-4495 b ($e_b = 0.078^{+0.020}_{-0.013}$). Given the observed proximity to the 2:1 resonance and the more massive outer planet, TOI-4495 b and c are particularly susceptible to resonant overstability, which can convert resonantly excited eccentricity into free eccentricity. However, additional mechanisms (e.g., planetesimal scattering) may be required to further excite the eccentricity by $\sim 4\%$. To prevent tidal damping from reducing the eccentricity below the observed level over the star&#x27;s lifetime (1.9 Gyr), the reduced tidal quality factor of TOI-4495 b must be $Q&#x27; \gtrsim 10^5$, consistent with the presence of a thick envelope on the planet.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02665">https://arxiv.org/abs/2601.02665</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02665">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ Towards a global model for planet formation in layered MHD wind-driven discs: A population synthesis approach to investigate the impact of low viscosity and accretion layer thickness</title>
-    <link href="https://arxiv.org/abs/2601.02479"/>
-    <id>https://arxiv.org/abs/2601.02479</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02479v1 Announce Type: new Abstract: Planet formation is inherently linked to protoplanetary disc evolution, which recent developments suggest is driven by magnetised winds rather than turb</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Models planet formation in layered MHD wind-driven protoplanetary discs, showing how accretion-layer thickness controls Type II migration regimes and resulting planet mass–distance distributions (including hot-Jupiter production), with indirect astrobiology relevance via planetary system architectures.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02479v1 Announce Type: new Abstract: Planet formation is inherently linked to protoplanetary disc evolution, which recent developments suggest is driven by magnetised winds rather than turbulent viscosity. We study planet formation in magnetohydrodynamic (MHD) wind-driven discs, assuming accretion occurs in a laminar surface layer above a weakly turbulent midplane. Our goal is to assess the global consequences of recent hydrodynamical results, including inefficient midplane heating and the existence of two Type II migration regimes: slow viscosity-dominated and fast wind-driven migration. We perform single-embryo planetary population syntheses with varying initial disc conditions (i.e. disc mass, size and angular momentum transport), and embryo starting locations, testing different prescriptions for the accretion layer thickness $\Sigma_\text{active}$. Thin ($\lesssim0.01\mathrm{g\,cm^{-2}}$) or fast ($\gtrsim12\%$ sonic velocity) accretion layers result in slow, viscosity-dominated regime which strongly limits the extent of Type II migration. For thick ($\gtrsim1\mathrm{g\,cm^{-2}}$) or slow ($\lesssim3\%$ sonic velocity) accretion layers, fast wind-driven Type II migration occurs frequently, leading to long-range inward migration that sets in once planets reach masses sufficient to block the accreting layer. Disk-limited gas accretion is also strongly affected by deep and early gap opening, limiting maximum giant planet masses. These effects strongly influence the final mass-distance distribution. For thin layers, giant planets form nearly in situ once they have entered Type II migration, which happens already at a few Earth masses, while thick layers lead to numerous migrated Hot Jupiters. Overall, we find that while the global properties of the emerging planet population are strongly modified relative to classical viscous discs, key properties of the observed population can be reproduced within this new paradigm.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02479">https://arxiv.org/abs/2601.02479</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02479">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] astro-ph.EP updates on arXiv.org ▶ Isotopic Ratios in the Disk of HD 163296</title>
-    <link href="https://arxiv.org/abs/2601.02593"/>
-    <id>https://arxiv.org/abs/2601.02593</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02593v1 Announce Type: new Abstract: Isotopic abundance ratios in protoplanetary disks are critical for understanding volatile inheritance and chemical evolution in planet-forming environme</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> ALMA measurements of rare CO isotopologues in the HD 163296 protoplanetary disk constrain C and O isotopic ratios in an optically thin region beyond the CO snowline, informing volatile inheritance and chemical evolution in planet-forming environments.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02593v1 Announce Type: new Abstract: Isotopic abundance ratios in protoplanetary disks are critical for understanding volatile inheritance and chemical evolution in planet-forming environments. We present Atacama Large Millimeter/submillimeter Array observations of the rare isotopologue 13C18O(2-1) at approximately 0.3 arcsec resolution from the disk around the Herbig Ae star HD 163296, combined with archival observations of C17O(2-1), C18O(1-0), and C17O(1-0), to empirically constrain carbon and oxygen isotopic ratios without detailed disk modeling. Both the C17O/13C18O(2-1) and C18O/C17O(1-0) flux ratios rise sharply across the CO snowline and flatten beyond 1.5 arcsec (r &gt;= 150 au), where the emission becomes optically thin. This transition, reflecting a steep drop in CO column density set by the disk&#x27;s thermal structure, makes HD 163296 an optimal case for isotopic analysis. Using beam-averaged intensities of the four transitions measured in this optically thin region, we derive isotopic ratios of 12C/13C = 75.3 (+14.7/-11.4) and 18O/17O = 3.28 (+0.31/-0.26), both consistent with local interstellar medium values. The 16O/18O ratio remains weakly constrained due to moderate optical depth in the C18O(1-0) line and degeneracy with CO column density. These results demonstrate that rare CO isotopologues can provide robust, empirical constraints on isotopic ratios in disks when sharp structural transitions allow for the identification of optically thin regions, and establish HD 163296 as a benchmark for extending such studies to other systems with resolved snowline structures.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02593">https://arxiv.org/abs/2601.02593</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02593">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] astro-ph.EP updates on arXiv.org ▶ Water ice in the debris disk around HD 181327</title>
-    <link href="https://arxiv.org/abs/2505.08863"/>
-    <id>https://arxiv.org/abs/2505.08863</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2505.08863v2 Announce Type: replace Abstract: Debris disks are exoplanetary systems that contain planets, minor bodies (i.e., asteroids, Kuiper belt objects, comets, etc.), and micron-sized debr</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> JWST/NIRSpec detects definitive 3.0–3.1 µm water-ice absorption in the HD 181327 debris disk, implying an exo–Kuiper belt water reservoir with radial gradients consistent with ongoing ice destruction and replenishment relevant to volatile delivery in planetary system formation.</p>
-<p><strong>Abstract:</strong> arXiv:2505.08863v2 Announce Type: replace Abstract: Debris disks are exoplanetary systems that contain planets, minor bodies (i.e., asteroids, Kuiper belt objects, comets, etc.), and micron-sized debris dust. Since water ice is the most common frozen volatile, it plays an essential role in the formation of planets and minor bodies. Although water ice has been commonly found in Kuiper belt objects and comets in the Solar System, no definitive evidence for water ice in debris disks has been obtained to date. Here, we report the discovery of water ice in the HD 181327 disk using the James Webb Space Telescope Near-Infrared Spectrograph. We detect the solid-state broad absorption feature of water ice at 3 $\mu$m and a distinct Fresnel peak feature at 3.1 $\mu$m, a characteristic of large water-ice particles. This implies the presence of a water-ice reservoir in the HD 181327 exoKuiper belt. Gradients of water-ice features at different stellocentric distances reveal a dynamic process of destroying and replenishing water ice in the disk, with estimated water-ice mass fractions ranging from 0.1% at ~85 au to 14% at ~113 au. It is highly plausible that the icy bodies that release water ice in HD 181327 could be the extra-solar counterparts of some of the Kuiper belt objects in our Solar System, supported by their spectral similarity.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2505.08863">https://arxiv.org/abs/2505.08863</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2505.08863">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [47] astro-ph.EP updates on arXiv.org ▶ Models and Observational Predictions of Dust Traps in Protoplanetary Discs</title>
-    <link href="https://arxiv.org/abs/2601.02486"/>
-    <id>https://arxiv.org/abs/2601.02486</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02486v1 Announce Type: new Abstract: This manuscript investigates the impact of key dust evolution parameters on dust retention and trapping in protoplanetary discs. Using models with and w</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Modeling how dust traps and disc turbulence control pebble retention and volatile delivery in protoplanetary discs, yielding observational predictions (mm continuum morphologies) that constrain planet-forming environments relevant to prebiotic material transport.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02486v1 Announce Type: new Abstract: This manuscript investigates the impact of key dust evolution parameters on dust retention and trapping in protoplanetary discs. Using models with and without pressure bumps, combined with radiative transfer simulations, images of the dust continuum emission at (sub-)millimeter wavelengths, their fluxes and observed disc sizes are presented. For discs without pressure bumps (smooth discs), significant dust mass can only be retained over Myr timescales when dust fragmentation velocities are low (1m/s) and with viscosity values of $\alpha=10^{-3}$. For such a combination of fragmentation velocity and viscosity, the synthetic images show a bright inner emission follow by a shallow emission with potential gaps if they are present in the gas profile as well. At higher fragmentation velocities (5-10m/s), most dust is lost due to radial drift at million-year timescales unless pressure traps are present, in which case dust masses can increase by orders of magnitude and structures are observed in synthetic images. The viscosity parameter strongly shapes observable features, with low $\alpha$ producing sharper, potentially asymmetric inner wall cavities in inclined discs due to optically thick emission. High $\alpha$ favors the appearance of shoulders around the predominant rings that dust trapping produces. However, distinguishing between different fragmentation velocities observationally remains challenging. The inferred dust disc sizes from synthetic observations do not always correspond directly to dust model sizes or to the location of pressure bumps. Finally, we discuss implications for pebble fluxes and the delivery of volatiles to the inner disc. These results emphasize the strong degeneracies among dust evolution parameters and highlight the need for multi-wavelength, high-resolution observations to disentangle the processes shaping the formation of planets in protoplanetary discs.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02486">https://arxiv.org/abs/2601.02486</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02486">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] cs.NE updates on arXiv.org ▶ Evolving Personalities in Chaos: An LLM-Augmented Framework for Character Discovery in the Iterated Prisoners Dilemma under Environmental Stress</title>
-    <link href="https://arxiv.org/abs/2601.02407"/>
-    <id>https://arxiv.org/abs/2601.02407</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02407v1 Announce Type: new Abstract: Standard simulations of the Iterated Prisoners Dilemma (IPD) operate in deterministic, noise-free environments, producing strategies that may be theoret</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Introduces an LLM-augmented evolutionary game-theory framework that evolves robust Iterated Prisoner’s Dilemma strategies under stochastic environmental stress and translates opaque genotypes into interpretable behavioral archetypes.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02407v1 Announce Type: new Abstract: Standard simulations of the Iterated Prisoners Dilemma (IPD) operate in deterministic, noise-free environments, producing strategies that may be theoretically optimal but fragile when confronted with real-world uncertainty. This paper addresses two critical gaps in evolutionary game theory research: (1) the absence of realistic environmental stressors during strategy evolution, and (2) the Interpretability Gap, where evolved genetic strategies remain opaque binary sequences devoid of semantic meaning. We introduce a novel framework combining stochastic environmental perturbations (God Mode) with Large Language Model (LLM)-based behavioral profiling to transform evolved genotypes into interpretable character archetypes. Our experiments demonstrate that strategies evolved under chaotic conditions exhibit superior resilience and present distinct behavioral phenotypes, ranging from Ruthless Capitalists to Diplomatic Enforcers. These phenotypes are readily classified by LLMs but remain nearly impossible to interpret through manual genome inspection alone. This work bridges evolutionary computation with explainable AI and provides a template for automated agent characterization in multi-agent systems.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02407">https://arxiv.org/abs/2601.02407</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02407">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] cond-mat.dis-nn updates on arXiv.org ▶ Multimodal oscillator networks learn to solve a classification problem</title>
-    <link href="https://arxiv.org/abs/2502.12020"/>
-    <id>https://arxiv.org/abs/2502.12020</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2502.12020v3 Announce Type: replace-cross Abstract: We numerically demonstrate a network of coupled oscillators that can learn to solve a classification task from a set of examples -- performing</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Numerical study of coupled multistable oscillator networks that learn classification via synapse-like long/short-term memory and noise-driven update rules, with only tangential relevance to origins-of-life through an analogy to bacterial evolution strategies.</p>
-<p><strong>Abstract:</strong> arXiv:2502.12020v3 Announce Type: replace-cross Abstract: We numerically demonstrate a network of coupled oscillators that can learn to solve a classification task from a set of examples -- performing both training and inference through the nonlinear evolution of the system. We accomplish this by combining three key elements to achieve learning: A long- term memory that stores learned responses, analogous to the synapses in biological brains; a short- term memory that stores the neural activations, similar to the firing patterns of neurons; and an evolution law that updates the synapses in response to novel examples, inspired by synaptic plasticity. Achieving all three elements in wave-based information processors such as metamaterials is a significant challenge. Here, we solve it by leveraging the material multistability to implement long-term memory, and harnessing symmetries and thermal noise to realize the learning rule. Our analysis reveals that the learning mechanism, although inspired by synaptic plasticity, also shares parallelisms with bacterial evolution strategies, where mutation rates increase in the presence of noxious stimuli.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2502.12020">https://arxiv.org/abs/2502.12020</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2502.12020">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] nlin.AO updates on arXiv.org ▶ Multimodal oscillator networks learn to solve a classification problem</title>
-    <link href="https://arxiv.org/abs/2502.12020"/>
-    <id>https://arxiv.org/abs/2502.12020</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2502.12020v3 Announce Type: replace-cross Abstract: We numerically demonstrate a network of coupled oscillators that can learn to solve a classification task from a set of examples -- performing</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Numerical study of coupled oscillator networks that implement learning via multistability and noise-driven update rules, drawing a loose analogy to bacterial stress-induced mutation but with no direct origins-of-life or prebiotic chemistry focus.</p>
-<p><strong>Abstract:</strong> arXiv:2502.12020v3 Announce Type: replace-cross Abstract: We numerically demonstrate a network of coupled oscillators that can learn to solve a classification task from a set of examples -- performing both training and inference through the nonlinear evolution of the system. We accomplish this by combining three key elements to achieve learning: A long- term memory that stores learned responses, analogous to the synapses in biological brains; a short- term memory that stores the neural activations, similar to the firing patterns of neurons; and an evolution law that updates the synapses in response to novel examples, inspired by synaptic plasticity. Achieving all three elements in wave-based information processors such as metamaterials is a significant challenge. Here, we solve it by leveraging the material multistability to implement long-term memory, and harnessing symmetries and thermal noise to realize the learning rule. Our analysis reveals that the learning mechanism, although inspired by synaptic plasticity, also shares parallelisms with bacterial evolution strategies, where mutation rates increase in the presence of noxious stimuli.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2502.12020">https://arxiv.org/abs/2502.12020</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2502.12020">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] astro-ph.EP updates on arXiv.org ▶ Helium Atmospheres May Hide in Current Exoplanet Analysis Frameworks</title>
-    <link href="https://arxiv.org/abs/2506.22537"/>
-    <id>https://arxiv.org/abs/2506.22537</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2506.22537v2 Announce Type: replace Abstract: The increasing number of detailed exoplanet observations offers an opportunity to refine our analyses and interpretations. Here, we show that atmosp</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, evolution, water</p>
-<p><strong>AI Decision:</strong> Shows that helium-enriched atmospheres can masquerade as volatile-rich or cloudy in transmission spectra (demonstrated on HD 209458 b), highlighting a key degeneracy that could impact future habitability and biosignature-focused atmospheric interpretations.</p>
-<p><strong>Abstract:</strong> arXiv:2506.22537v2 Announce Type: replace Abstract: The increasing number of detailed exoplanet observations offers an opportunity to refine our analyses and interpretations. Here, we show that atmospheres that appear volatile-rich and/or cloudy may instead be helium-rich. As transmission spectra constrain the atmospheric scale height ($H$), a He-enriched atmosphere can be misinterpreted as H$_2$-dominated water-rich to bring the mean molecular weight ($\mu$) to intermediate values ($\sim$4$-$10) when He/H$_2$ is fixed. Similarly, a cloud deck can reduce the spectral features, and thus the apparent (i.e., cloud-free equivalent) $H$. We present a proof-of-concept reanalysis of HD~209458~b&#x27;s JWST transmission spectrum treating He/H$_2$ as a free parameter, resulting in sets of He-rich solutions. We argue that He enhancement must be considered to reliably constrain atmospheric composition, be sensitive to a more diverse planetary population, and ultimately yield robust trends to inform formation and evolution pathways. Looking ahead, we suggest leveraging insights from differences in pressure-broadening effects, outflow measurements, and atmospheric chemistry to disentangle reliably between He-, volatile-rich, and cloudy atmospheres -- while recognizing that associated models need targeted upgrades to reach the fidelity level required to this end.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2506.22537">https://arxiv.org/abs/2506.22537</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2506.22537">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] cs.NE updates on arXiv.org ▶ Multimodal oscillator networks learn to solve a classification problem</title>
-    <link href="https://arxiv.org/abs/2502.12020"/>
-    <id>https://arxiv.org/abs/2502.12020</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2502.12020v3 Announce Type: replace-cross Abstract: We numerically demonstrate a network of coupled oscillators that can learn to solve a classification task from a set of examples -- performing</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Numerical study of coupled multimodal oscillator networks that learn classification via multistable long-term memory and noise-driven plasticity rules, with only loose conceptual parallels to biological evolution rather than direct origins-of-life relevance.</p>
-<p><strong>Abstract:</strong> arXiv:2502.12020v3 Announce Type: replace-cross Abstract: We numerically demonstrate a network of coupled oscillators that can learn to solve a classification task from a set of examples -- performing both training and inference through the nonlinear evolution of the system. We accomplish this by combining three key elements to achieve learning: A long- term memory that stores learned responses, analogous to the synapses in biological brains; a short- term memory that stores the neural activations, similar to the firing patterns of neurons; and an evolution law that updates the synapses in response to novel examples, inspired by synaptic plasticity. Achieving all three elements in wave-based information processors such as metamaterials is a significant challenge. Here, we solve it by leveraging the material multistability to implement long-term memory, and harnessing symmetries and thermal noise to realize the learning rule. Our analysis reveals that the learning mechanism, although inspired by synaptic plasticity, also shares parallelisms with bacterial evolution strategies, where mutation rates increase in the presence of noxious stimuli.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2502.12020">https://arxiv.org/abs/2502.12020</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2502.12020">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] nlin.AO updates on arXiv.org ▶ Competing structures in a minimal double-well potential model of condensed matter</title>
-    <link href="https://arxiv.org/abs/2401.17901"/>
-    <id>https://arxiv.org/abs/2401.17901</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2401.17901v4 Announce Type: cross Abstract: The microscopic structure of several amorphous substances often reveals complex patterns such as medium- or long-range order, spatial heterogeneity, a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> An athermal 2D isotropic double-well potential model reproduces diverse amorphous structural motifs (heterogeneity, medium/long-range order, local polycrystallinity) potentially relevant to understanding condensed-phase microenvironments in materials such as water and silicon.</p>
-<p><strong>Abstract:</strong> arXiv:2401.17901v4 Announce Type: cross Abstract: The microscopic structure of several amorphous substances often reveals complex patterns such as medium- or long-range order, spatial heterogeneity, and even local polycrystallinity. To capture all these features, models usually incorporate a refined description of the particle interaction that includes an ad hoc design of the inside of the system constituents, and use temperature as a control parameter. We show that all these features can emerge from a minimal athermal two-dimensional model where particles interact isotropically by a double-well potential, which includes an excluded volume and a maximum coordination number. The rich variety of structural patterns shown by this simple geometrical model apply to a wide range of real systems including water, silicon, and different amorphous materials.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2401.17901">https://arxiv.org/abs/2401.17901</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2401.17901">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] cond-mat.stat-mech updates on arXiv.org ▶ Fluids at an electrostatically active surface: Optimum in interfacial friction and electrohydrodynamic drag</title>
-    <link href="https://arxiv.org/abs/2601.02539"/>
-    <id>https://arxiv.org/abs/2601.02539</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02539v1 Announce Type: cross Abstract: While fluids near a solid surface are at the core of applications in energy storage/conversion, electrochemistry/electrowetting and adsorption/catalys</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Molecular simulations of water–metal interfaces reveal a non-monotonic optimum in interfacial friction and direct electrohydrodynamic drag, offering potentially relevant physics for surface-mediated prebiotic chemistry but not an Origins-of-Life-focused study.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02539v1 Announce Type: cross Abstract: While fluids near a solid surface are at the core of applications in energy storage/conversion, electrochemistry/electrowetting and adsorption/catalysis, their nanoscale behavior remains only partially deciphered. Beyond conventional effects (e.g. adsorption/reaction, interfacial transport, phase transition shifts), recent experimental and theoretical studies on metallic surfaces have unraveled exotic peculiarities such as complex electrostatic screening, unexpected wetting transition, and interfacial quantum friction. These novel features require developing and embarking new tools to tackle the coupling between charge relaxation in the metal and molecular behavior in the vicinal fluid. Here, using the concept of Virtual Thomas-Fermi fluids, we employ a molecular simulation approach to investigate interfacial transport of fluid molecules and metal charge carriers at their interface--including the underlying electrostatically-driven dynamic friction and the coupling between charge current/hydrodynamic flow (the so-called electrohydrodynamic drag). While conventional numerical techniques consider either insulating materials or metallic materials described as polarizable, non-conducting media, our atom-scale strategy provides an effective yet realistic description of the solid excitation spectrum--including charge relaxation modes and conductivity. By applying this approach to water near metallic surfaces of various electrostatic screening lengths, we unveil a non-monotonous dependence of the fluid/solid friction on the metallicity with a maximum occurring as the charge dynamic structure factors of the solid and fluid strongly overlap. Moreover, we report a direct observation of the electrohydrodynamic drag which arises from the momentum transfer between the solid and liquid through dynamic electrostatic interactions and the underlying interfacial friction.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02539">https://arxiv.org/abs/2601.02539</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02539">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] cs.GT updates on arXiv.org ▶ Evolving Personalities in Chaos: An LLM-Augmented Framework for Character Discovery in the Iterated Prisoners Dilemma under Environmental Stress</title>
-    <link href="https://arxiv.org/abs/2601.02407"/>
-    <id>https://arxiv.org/abs/2601.02407</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02407v1 Announce Type: cross Abstract: Standard simulations of the Iterated Prisoners Dilemma (IPD) operate in deterministic, noise-free environments, producing strategies that may be theor</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Presents an evolutionary game-theory/LLM framework for interpreting robust IPD strategies under stochastic stress, offering only indirect conceptual relevance to origins-of-life questions via general evolutionary dynamics.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02407v1 Announce Type: cross Abstract: Standard simulations of the Iterated Prisoners Dilemma (IPD) operate in deterministic, noise-free environments, producing strategies that may be theoretically optimal but fragile when confronted with real-world uncertainty. This paper addresses two critical gaps in evolutionary game theory research: (1) the absence of realistic environmental stressors during strategy evolution, and (2) the Interpretability Gap, where evolved genetic strategies remain opaque binary sequences devoid of semantic meaning. We introduce a novel framework combining stochastic environmental perturbations (God Mode) with Large Language Model (LLM)-based behavioral profiling to transform evolved genotypes into interpretable character archetypes. Our experiments demonstrate that strategies evolved under chaotic conditions exhibit superior resilience and present distinct behavioral phenotypes, ranging from Ruthless Capitalists to Diplomatic Enforcers. These phenotypes are readily classified by LLMs but remain nearly impossible to interpret through manual genome inspection alone. This work bridges evolutionary computation with explainable AI and provides a template for automated agent characterization in multi-agent systems.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02407">https://arxiv.org/abs/2601.02407</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02407">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [43] cond-mat.stat-mech updates on arXiv.org ▶ Protein-Water Energy Transfer via Anharmonic Low-Frequency Vibrations</title>
-    <link href="https://arxiv.org/abs/2601.02699"/>
-    <id>https://arxiv.org/abs/2601.02699</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02699v1 Announce Type: cross Abstract: Heat dissipation is ubiquitous in living systems, which constantly convert distinct forms of energy into each other. The transport of thermal energy i</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Atomistic simulations show how proteins dissipate excess heat into surrounding water via solvent-mediated friction and far-infrared anharmonic vibrations, offering general non-equilibrium energy-transfer insights but only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02699v1 Announce Type: cross Abstract: Heat dissipation is ubiquitous in living systems, which constantly convert distinct forms of energy into each other. The transport of thermal energy in liquids and even within proteins is well understood but kinetic energy transfer across a heterogeneous molecular boundary provides additional challenges. Here, we use atomistic molecular dynamics simulations under steady-state conditions to analyze how a protein dissipates surplus thermal energy into the surrounding solvent. We specifically focus on collective degrees of freedom that govern the dynamics of the system from the diffusive regime to mid-infrared frequencies. Using a fully anharmonic analysis of molecular vibrations, we analyzed their vibrational spectra, temperatures, and heat transport efficiencies. We find that the most efficient energy transfer mechanisms are associated with solvent-mediated friction. However, this mechanism only applies to a small number of degrees of freedom of a protein. Instead, less efficient vibrational energy transfer in the far-infrared dominates heat transfer overall due to a large number of vibrations in this frequency range. A notable by-product of this work is a highly sensitive measure of deviations from energy equi-partition in equilibrium systems, which can be used to analyze non-ergodic properties.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02699">https://arxiv.org/abs/2601.02699</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02699">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] cond-mat.stat-mech updates on arXiv.org ▶ Deterministic quantum trajectory via imaginary time evolution</title>
-    <link href="https://arxiv.org/abs/2504.00210"/>
-    <id>https://arxiv.org/abs/2504.00210</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2504.00210v2 Announce Type: replace-cross Abstract: Stochastic quantum trajectories, such as pure state evolutions under unitary dynamics and random measurements, offer a crucial ensemble descri</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Proposes a deterministic imaginary-time method to efficiently prepare certain quantum measurement trajectories, enabling experimental study of post-selection–dependent many-body dynamics but with no direct connection to origins-of-life research.</p>
-<p><strong>Abstract:</strong> arXiv:2504.00210v2 Announce Type: replace-cross Abstract: Stochastic quantum trajectories, such as pure state evolutions under unitary dynamics and random measurements, offer a crucial ensemble description of many-body open system dynamics. Recent studies have highlighted that individual quantum trajectories also encode essential physical information. Prominent examples include measurement induced phase transitions, where a pure quantum state corresponding to fixed measurement outcomes (trajectories) exhibits distinct entanglement phases, depending on the measurement rate. However, direct observation of this effect is hindered by an exponential post-selection barrier, whereby the probability of realizing a specific trajectory is exponentially small. We propose a deterministic method to efficiently prepare quantum trajectories in polynomial time using imaginary time evolution and, thus, overcome this fundamental challenge. We demonstrate that our method applies to a certain class of quantum states, and argue that there does not exist universal approaches for any quantum trajectories. Our result paves the way for experimentally exploring the physics of individual quantum trajectories at scale and enables direct observation of certain post-selection-dependent phenomena.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2504.00210">https://arxiv.org/abs/2504.00210</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2504.00210">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] physics.comp-ph updates on arXiv.org ▶ Geometric integrators for adiabatically closed simple thermodynamic systems</title>
-    <link href="https://arxiv.org/abs/2511.14154"/>
-    <id>https://arxiv.org/abs/2511.14154</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2511.14154v2 Announce Type: replace-cross Abstract: A variational formulation for non-equilibrium thermodynamics was developed by Gay-Balmaz and Yoshimura. In a recent article, the first two aut</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Develops a discrete variational (geometric) numerical integration framework for adiabatically closed non-equilibrium thermodynamic systems, with examples demonstrating the method’s effectiveness.</p>
-<p><strong>Abstract:</strong> arXiv:2511.14154v2 Announce Type: replace-cross Abstract: A variational formulation for non-equilibrium thermodynamics was developed by Gay-Balmaz and Yoshimura. In a recent article, the first two authors of the present paper introduced partially cosymplectic structures as a geometric framework for thermodynamic systems, recovering the evolution equations obtained variationally. In this paper, we develop a discrete variational principle for adiabatically closed simple thermodynamic systems, which can be utilised to construct numerical integrators for the dynamics of such systems. The effectiveness of our method is illustrated with several examples.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2511.14154">https://arxiv.org/abs/2511.14154</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2511.14154">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] physics.chem-ph updates on arXiv.org ▶ Fluids at an electrostatically active surface: Optimum in interfacial friction and electrohydrodynamic drag</title>
-    <link href="https://arxiv.org/abs/2601.02539"/>
-    <id>https://arxiv.org/abs/2601.02539</id>
-    <updated>2026-01-07T05:00:00Z</updated>
-    <summary>arXiv:2601.02539v1 Announce Type: cross Abstract: While fluids near a solid surface are at the core of applications in energy storage/conversion, electrochemistry/electrowetting and adsorption/catalys</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Atomistic simulations using a Virtual Thomas–Fermi metal model show a non-monotonic dependence of water–metal interfacial friction on electrostatic screening and directly capture electrohydrodynamic drag via dynamic charge–fluid momentum coupling, with only indirect relevance to Origins-of-Life surface/aqueous prebiotic environments.</p>
-<p><strong>Abstract:</strong> arXiv:2601.02539v1 Announce Type: cross Abstract: While fluids near a solid surface are at the core of applications in energy storage/conversion, electrochemistry/electrowetting and adsorption/catalysis, their nanoscale behavior remains only partially deciphered. Beyond conventional effects (e.g. adsorption/reaction, interfacial transport, phase transition shifts), recent experimental and theoretical studies on metallic surfaces have unraveled exotic peculiarities such as complex electrostatic screening, unexpected wetting transition, and interfacial quantum friction. These novel features require developing and embarking new tools to tackle the coupling between charge relaxation in the metal and molecular behavior in the vicinal fluid. Here, using the concept of Virtual Thomas-Fermi fluids, we employ a molecular simulation approach to investigate interfacial transport of fluid molecules and metal charge carriers at their interface--including the underlying electrostatically-driven dynamic friction and the coupling between charge current/hydrodynamic flow (the so-called electrohydrodynamic drag). While conventional numerical techniques consider either insulating materials or metallic materials described as polarizable, non-conducting media, our atom-scale strategy provides an effective yet realistic description of the solid excitation spectrum--including charge relaxation modes and conductivity. By applying this approach to water near metallic surfaces of various electrostatic screening lengths, we unveil a non-monotonous dependence of the fluid/solid friction on the metallicity with a maximum occurring as the charge dynamic structure factors of the solid and fluid strongly overlap. Moreover, we report a direct observation of the electrohydrodynamic drag which arises from the momentum transfer between the solid and liquid through dynamic electrostatic interactions and the underlying interfacial friction.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.02539">https://arxiv.org/abs/2601.02539</a></li>
-</ul>
-<p><a href="https://arxiv.org/abs/2601.02539">Read source article</a></p>]]></content>
   </entry>
 </feed>
