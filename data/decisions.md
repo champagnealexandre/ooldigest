@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Interplay of microRNA-20a and HuR in the regulation of becli](https://www.biorxiv.org/content/10.64898/2026.01.13.699223v1?rss=1) |
+| ai_scored | 40 | [Visualization of the complete primosome reveals the structur](https://www.biorxiv.org/content/10.64898/2026.01.13.699284v1?rss=1) |
+| ai_scored | 15 | [Maternal Trypanosoma cruzi infection is associated with sign](https://www.biorxiv.org/content/10.64898/2026.01.13.699142v1?rss=1) |
+| ai_scored | 35 | [Ancient persistence and newfound diversity of CR1-group retr](https://www.biorxiv.org/content/10.64898/2026.01.13.699120v1?rss=1) |
+| ai_scored | 20 | [Short linear motifs - Unexplored players driving Toxoplasma ](https://www.biorxiv.org/content/10.64898/2026.01.12.699020v1?rss=1) |
+| ai_scored | 55 | [Lysosomal Aspartylglucosaminidase Couples Glycoprotein Catab](https://www.biorxiv.org/content/10.64898/2026.01.13.699189v1?rss=1) |
+| ai_scored | 5 | [L'année 2025, encore l'une des plus chaudes jamais mesurées.](https://www.sciencesetavenir.fr/nature-environnement/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15) |
+| ai_scored | 0 | [Molecular Mechanisms Associated With Amelioration Of Radiati](https://www.biorxiv.org/content/10.64898/2026.01.12.698969v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260113234330&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Sooner-than-expected climate impacts could cost the world tr](https://www.newscientist.com/article/2511371-sooner-than-expected-climate-impacts-could-cost-the-world-trillions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sooner-than-expected climate impacts could cost the world tr](https://www.newscientist.com/article/2511371-sooner-than-expected-climate-impacts-could-cost-the-world-trillions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sooner-than-expected climate impacts could cost the world tr](https://www.newscientist.com/article/2511371-sooner-than-expected-climate-impacts-could-cost-the-world-trillions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Villin-SNAP25 interaction regulates insulin secretion downst](https://www.biorxiv.org/content/10.64898/2026.01.13.699220v1?rss=1) |
+| keyword_rejected | - | [SENOMORPHIC EFFECT OF GENETIC AND CHEMICAL PARTIAL REPROGRAM](https://www.biorxiv.org/content/10.64898/2026.01.13.699211v1?rss=1) |
+| keyword_rejected | - | [Propagation of electrical spike trains in substrates colonis](https://www.biorxiv.org/content/10.64898/2026.01.12.699130v1?rss=1) |
+| keyword_rejected | - | [Membrane proteins retain native architecture through native ](https://www.biorxiv.org/content/10.64898/2026.01.13.699114v1?rss=1) |
 | ai_scored | 20 | [Integration between radiation shielding performance, structu](https://www.nature.com/articles/s41598-025-33307-w) |
 | ai_scored | 15 | [<i>In situ</i> growth rates of cold-water corals fouling oce](https://www.nature.com/articles/s41598-025-34582-3) |
 | ai_scored | 5 | [These small lifestyle tweaks can add a year to your life](https://www.newscientist.com/article/2511292-these-small-lifestyle-tweaks-can-add-a-year-to-your-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
