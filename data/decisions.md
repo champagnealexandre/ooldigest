@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [L'année 2025, encore l'une des plus chaudes jamais mesurées.](https://www.sciencesetavenir.fr/nature-environnement/climat/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15) |
+| keyword_rejected | - | [Hors-série Pour la Science n°130](https://www.pourlascience.fr/sd/histoire-sciences/hors-serie-pour-la-science-n130-28617.php) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114052037&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Plus de 30000 manuscrits médiévaux déchiffrés par l'IA !](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/plus-de-30000-manuscrits-medievaux-dechiffres-par-l-intelligence-artificielle_190397?xtor=RSS-12) |
+| keyword_rejected | - | [Optical interference for the guidance of cryogenic focused i](https://www.nature.com/articles/s41467-025-65548-8) |
+| keyword_rejected | - | [Research on coupling coordination of new quality productive ](https://www.nature.com/articles/s41598-026-36247-1) |
+| keyword_rejected | - | [Prevalence and associated factors of neonatal hypothermia in](https://www.nature.com/articles/s41598-025-34527-w) |
+| keyword_rejected | - | [Influence of unilateral and bilateral plyometric training in](https://www.nature.com/articles/s41598-026-36041-z) |
+| keyword_rejected | - | [Nonlinear transcriptional responses to gradual modulation of](https://elifesciences.org/articles/100555) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114042536&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [In This Issue](https://www.pnas.org/doi/abs/10.1073/iti0226123?af=R) |
 | keyword_rejected | - | [En France, moins d'oiseaux là où plus de pesticides sont ach](https://www.sciencesetavenir.fr/animaux/oiseaux/en-france-moins-d-oiseaux-la-ou-plus-de-pesticides-sont-achetes-selon-une-etude_190394?xtor=RSS-26) |
