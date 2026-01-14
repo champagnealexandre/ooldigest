@@ -3,8 +3,48 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T06:28:46.083605+00:00</updated>
+  <updated>2026-01-14T07:22:55.162795+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] Phys. Rev. Lett. ▶ Advanced Torrential Loss Function for Precipitation Forecasting</title>
+    <link href="http://link.aps.org/doi/10.1103/c36m-stxl"/>
+    <id>http://link.aps.org/doi/10.1103/c36m-stxl</id>
+    <updated>2026-01-13T10:00:00Z</updated>
+    <summary>Author(s): Jaeho Choi, Hyeri Kim, Kwang-Ho Kim, and Jaesung Lee An advanced torrential loss function for machine-learning-based precipitation forecasting outperforms conventional functions in forecast</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Introduces a machine-learning loss function that improves precipitation forecasting accuracy, with no direct connection to astrobiology or origins-of-life research.</p>
+<p><strong>Abstract:</strong> Author(s): Jaeho Choi, Hyeri Kim, Kwang-Ho Kim, and Jaesung Lee An advanced torrential loss function for machine-learning-based precipitation forecasting outperforms conventional functions in forecast accuracy. [Phys. Rev. Lett. 136, 024201] Published Tue Jan 13, 2026</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://link.aps.org/doi/10.1103/c36m-stxl">http://link.aps.org/doi/10.1103/c36m-stxl</a></li>
+</ul>
+<p><a href="http://link.aps.org/doi/10.1103/c36m-stxl">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] Annual Reviews: Earth and Planetary Sciences ▶ Are Simulated Ocean Deoxygenation Rates Consistent with the Observational Reconstructions?</title>
+    <link href="https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-123111?TRACK=RSS"/>
+    <id>https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-123111?TRACK=RSS</id>
+    <updated>2026-01-13T00:00:00Z</updated>
+    <summary>It is currently debated whether Earth system models (ESMs) can reproduce observation-based long-term changes in global and regional deoxygenation rates. Both models and observations include uncertaint</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> This review compares Earth system model simulations and observation-based reconstructions of ocean dissolved oxygen, finding good surface agreement but persistent tropical/thermocline biases and generally underestimated 1965–2014 deoxygenation trends, underscoring the need for better processes and datasets.</p>
+<p><strong>Abstract:</strong> It is currently debated whether Earth system models (ESMs) can reproduce observation-based long-term changes in global and regional deoxygenation rates. Both models and observations include uncertainties, which must be considered when evaluating their consistency. Based on 14 ESMs and 6 observational datasets, the models’ climatological annual mean oxygen matches observations well near the surface. However, significant biases remain in the tropics and in the thermocline. Based on the same set of models and three time-varying observation-based datasets, the models tend to underestimate deoxygenation trends from 1965 to 2014, except for the North Atlantic basin. However, the small number of observational datasets limits this conclusion. One dataset appears to significantly underestimate deoxygenation due to sparse data coverage. This review highlights the need for improvements in model process representations and the development of more observation-based, quality-controlled datasets to better constrain and interpret oxygen changes in the ocean. ▪ Uncertainties of dissolved oxygen field in CMIP6 ESMs and observational reconstructions are quantified. ▪ The ESMs can skillfully reproduce long-term average oxygen near the surface, but challenges remain in the thermocline and tropics. ▪ The ESMs underestimates the deoxygenation trends except for the North Atlantic basin.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-123111?TRACK=RSS">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] Phys. Rev. Lett. ▶ Hydrodynamic Spin-Coupling of Rotors</title>
+    <link href="http://link.aps.org/doi/10.1103/m6ft-ll2c"/>
+    <id>http://link.aps.org/doi/10.1103/m6ft-ll2c</id>
+    <updated>2026-01-13T10:00:00Z</updated>
+    <summary>Author(s): Jesse Etan Smith, Leif Ristroph, and Jun Zhang Flow experiments and streamline analysis systematically explore the hydrodynamic spin-coupling of rotors, identifying the conditions in which </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Flow experiments and streamline analysis map when hydrodynamically coupled rotors synchronize into corotating versus counterrotating modes.</p>
+<p><strong>Abstract:</strong> Author(s): Jesse Etan Smith, Leif Ristroph, and Jun Zhang Flow experiments and streamline analysis systematically explore the hydrodynamic spin-coupling of rotors, identifying the conditions in which either corotating or counterrotating modes emerge. [Phys. Rev. Lett. 136, 024001] Published Tue Jan 13, 2026</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://link.aps.org/doi/10.1103/m6ft-ll2c">http://link.aps.org/doi/10.1103/m6ft-ll2c</a></li>
+</ul>
+<p><a href="http://link.aps.org/doi/10.1103/m6ft-ll2c">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ A planet-host ratio relation to synthesize microlensing and transiting exoplanet demography from Roman</title>
     <link href="https://arxiv.org/abs/2506.24004"/>

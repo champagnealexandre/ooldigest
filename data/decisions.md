@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Hydrodynamic Spin-Coupling of Rotors](http://link.aps.org/doi/10.1103/m6ft-ll2c) |
+| ai_scored | 40 | [Are Simulated Ocean Deoxygenation Rates Consistent with the ](https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-123111?TRACK=RSS) |
+| ai_scored | 0 | [Advanced Torrential Loss Function for Precipitation Forecast](http://link.aps.org/doi/10.1103/c36m-stxl) |
+| keyword_rejected | - | [Comment une éruption volcanique a préparé le terrain pour la](https://www.pourlascience.fr/sd/epidemiologie/comment-une-eruption-volcanique-a-prepare-le-terrain-pour-la-peste-noire-28643.php) |
+| keyword_rejected | - | [Psychédéliques : le sentiment de dissolution du soi correspo](https://www.pourlascience.fr/sd/neurosciences/psychedeliques-le-sentiment-de-dissolution-du-soi-correspond-a-un-etat-sous-critique-du-cerveau-28667.php) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114022244&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [One-Dimensional ${\mathbb{Z}}_{2}$ Topological Skin Effect D](http://link.aps.org/doi/10.1103/l54w-77kc) |
+| keyword_rejected | - | [Spontaneous Twirls and Structural Frustration in Moiré Mater](http://link.aps.org/doi/10.1103/vt8n-w1pb) |
+| keyword_rejected | - | [Shock Reformation Induced by Ion-Scale Whistler Waves in Qua](http://link.aps.org/doi/10.1103/bf5q-blg4) |
+| keyword_rejected | - | [Interference-Induced Entanglement Engineering on a Metasurfa](http://link.aps.org/doi/10.1103/mzmv-7x98) |
+| keyword_rejected | - | [Unexpected Rise in Nuclear Collectivity from Short-Range Phy](http://link.aps.org/doi/10.1103/c3st-tp13) |
+| keyword_rejected | - | [Compton-Scattering Total Cross Section at Next-to-Next-to-Le](http://link.aps.org/doi/10.1103/k2mk-mffq) |
+| keyword_rejected | - | [Observation of the Singly Cabibbo Suppressed Decay ${D}^{0}→](http://link.aps.org/doi/10.1103/4c4g-31zx) |
+| keyword_rejected | - | [Gravitational-Wave Signatures of Nonstandard Neutrino Proper](http://link.aps.org/doi/10.1103/rv17-jm6g) |
+| keyword_rejected | - | [Suppressing Si Valley Excitation and Valley-Induced Spin Dep](http://link.aps.org/doi/10.1103/s624-dvvs) |
+| keyword_rejected | - | [Symmetry Rebreaking in an Effective Theory of Quantum Coarse](http://link.aps.org/doi/10.1103/q1lm-99z4) |
+| keyword_rejected | - | [Observation of Hierarchy of Hilbert Space Ergodicities in th](http://link.aps.org/doi/10.1103/6msb-cxbc) |
+| keyword_rejected | - | [Genetic diversity and transmission dynamics of SARS-CoV-2 in](https://www.nature.com/articles/s41598-026-36094-0) |
+| keyword_rejected | - | [Piezoelectric MEMS vibration energy harvester using BiFeO<su](https://www.nature.com/articles/s41598-025-33429-1) |
 | keyword_rejected | - | [United States and European Union aid cuts risk exacerbating ](https://www.nature.com/articles/s44458-025-00011-9) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114012842&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Artificial intelligence with deep convolutional neural netwo](https://www.nature.com/articles/s41598-025-34690-0) |
