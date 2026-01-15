@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [OCT4 enhances the firing efficiency of late DNA replication ](https://www.nature.com/articles/s41467-026-68389-1) |
+| ai_scored | 25 | [OCT4 enhances the firing efficiency of late DNA replication ](https://www.nature.com/articles/s41467-026-68389-1) |
+| ai_scored | 5 | [ISS astronauts splash down on Earth after first-ever medical](https://phys.org/news/2026-01-iss-astronauts-splash-earth-medical.html) |
+| keyword_rejected | - | [La sécherie de La Joux, un coffre-fort à graines pour la for](https://www.sciencesetavenir.fr/nature-environnement/la-secherie-de-la-joux-un-coffre-fort-a-graines-pour-la-foret-francaise_190414?xtor=RSS-15) |
+| keyword_rejected | - | [Ice Memory : un sanctuaire pour la mémoire climatique](https://www.sciencesetavenir.fr/nature-environnement/climat/ice-memory-un-sanctuaire-pour-les-glaciers-menaces-et-leur-memoire-climatique_190409?xtor=RSS-15) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115042507&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Discrete thermal analysis of the E–type shell–and–tube heat ](https://www.nature.com/articles/s41598-026-35215-z) |
+| keyword_rejected | - | [Co-transmission of radio frequency reference and data signal](https://www.nature.com/articles/s41598-026-36283-x) |
+| keyword_rejected | - | [Optimized CatBoost machine learning (OCML) for DDoS detectio](https://www.nature.com/articles/s41598-025-33851-5) |
+| keyword_rejected | - | [Association of RAS mutational status with clinical outcomes ](https://www.nature.com/articles/s41598-026-36509-y) |
+| keyword_rejected | - | [Exploring the multifaceted learning benefits of video gaming](https://www.nature.com/articles/s41598-025-32603-9) |
+| keyword_rejected | - | [Cross-well machine learning prediction of sonic logs in Newf](https://www.nature.com/articles/s41598-026-36053-9) |
+| keyword_rejected | - | [Mixed-model and transcriptome-wide association analyses iden](https://www.nature.com/articles/s41467-025-68127-z) |
+| keyword_rejected | - | [4D printing through vat photopolymerization of two-stage UV-](https://www.nature.com/articles/s41467-026-68370-y) |
+| keyword_rejected | - | [Near-infrared-driven photocatalytic CO<sub>2</sub> reduction](https://www.nature.com/articles/s41467-026-68450-z) |
+| keyword_rejected | - | [Classical criticality via quantum annealing](https://www.nature.com/articles/s41467-025-67568-w) |
+| keyword_rejected | - | [A self-breathing electrode enabled by interface regulation a](https://www.nature.com/articles/s41467-026-68436-x) |
 | keyword_rejected | - | [Au Sénégal: étudier les chimpanzés, loin du danger des mines](https://www.sciencesetavenir.fr/nature-environnement/au-senegal-etudier-les-chimpanzes-loin-du-danger-des-mines-d-or_190411?xtor=RSS-15) |
 | keyword_rejected | - | [En Suisse, une nouvelle peau fabriquée pour les grands brûlé](https://www.sciencesetavenir.fr/sante/en-suisse-une-nouvelle-peau-fabriquee-pour-les-grands-brules-de-crans-montana_190412?xtor=RSS-16) |
 | keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115032636&v=2.18.0.post22+67771e2) |
