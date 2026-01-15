@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T05:23:13.978489+00:00</updated>
+  <updated>2026-01-15T06:28:24.207048+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [52] biochemistry - biorXiv Preprints ▶ Ancestors of Arylmalonate Decarboxylase show increased Activity, Stability and Stereoselectivity</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699310v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699310v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Bacterial aryl malonate decarboxylase is a cofactor-free enzyme that generates a wide spectrum of alpha-chiral carboxylic acids in outstanding optical purity, including several non-steroidal anti-infl</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Using ancestral sequence reconstruction, the authors identify more stable and stereoselective variants of a cofactor-free decarboxylase, offering relevant insight into how enzyme evolution can shape and invert biological chirality though not directly addressing prebiotic origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Bacterial aryl malonate decarboxylase is a cofactor-free enzyme that generates a wide spectrum of alpha-chiral carboxylic acids in outstanding optical purity, including several non-steroidal anti-inflammatory drugs and chiral building blocks. The well-characterized AMDase from Bordetella bronchiseptica (BbAMDase) and related enzymes of the same family have three main limitations: (i) low stability, both operational and thermal, and (ii) limited substrate spectrum regarding the size of the smaller substituent on the alpha-C-atom and (iii) low stereoselectivity towards alpha-alkenyl-alpha-alkyl malonic acids. To address these limitations, we expanded the structural diversity of the AMDase family by ancestral sequence reconstruction (ASR). The phylogenetic analysis of the decarboxylase revealed conserved structural motifs and key amino acids in the hydrophobic active-site cavity, a catalytic motif crucial for activity and selectivity of the enzyme. The analysis highlighted the natural distribution of amino acid exchanges that had been previously identified in enzyme engineering campaigns. AMDase ancestors showed higher stability, activity, and, in one case, also stereoselectivity than BbAMDase. While the up to 10 {degrees} C higher unfolding temperature of AMDase ancestors is a frequent result in ASR, the improvement of the half-life time of 294-fold of ancestor N131 was surprising. Ancestor N31 formed 2-methyl-but-3-enoic acid from its corresponding malonic acid in an optical purity of 99.7% eeR. The extant BbAMDase produces this compound in much lower optical purity (96.8% eeR), which corresponds to a 1.4 kcal*mol-1 higher difference of the transition state free energy of the two reaction paths leading to the different enantiomers. Furthermore, the stereoselectivity of the ancestors was completely inverted by switch of the catalytic cysteine residues G74C/C188G.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699310v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699310v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699310v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ Can photoevaporation open gaps in protoplanetary discs?</title>
     <link href="https://arxiv.org/abs/2601.08938"/>

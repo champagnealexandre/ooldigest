@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 52 | [Ancestors of Arylmalonate Decarboxylase show increased Activ](https://www.biorxiv.org/content/10.64898/2026.01.14.699310v1?rss=1) |
+| keyword_rejected | - | [Spatial correlation network and driving factors of inter-pro](https://www.nature.com/articles/s41599-025-06430-2) |
+| keyword_rejected | - | [A high-throughput, flow cytometry approach to measure phase ](https://www.nature.com/articles/s41467-025-68093-6) |
+| keyword_rejected | - | [Inactive ryanodine receptors sustain lysosomal availability ](https://www.nature.com/articles/s41467-025-68054-z) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115012813&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Geometry-Controlled Diffusion in Bicontinuous Cubic Lipid Ne](https://www.biorxiv.org/content/10.64898/2026.01.14.699444v1?rss=1) |
 | ai_scored | 40 | [Consistent Sampling and Simulation: Molecular Dynamics with ](https://arxiv.org/abs/2506.17139) |
 | ai_scored | 55 | [Designing semiconductor-electrochemical junctions for bioins](https://arxiv.org/abs/2503.15863) |
 | ai_scored | 45 | [A theory of state-to-state transitions based on the framewor](https://arxiv.org/abs/2601.09187) |
