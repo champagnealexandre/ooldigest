@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [6 ways to help your children have a healthy relationship wit](https://www.newscientist.com/article/2510972-6-ways-to-help-your-children-have-a-healthy-relationship-with-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [En Suisse, une nouvelle peau fabriquée pour les grands brûlé](https://www.sciencesetavenir.fr/sante/dermato/en-suisse-une-nouvelle-peau-fabriquee-pour-les-grands-brules-de-crans-montana_190412?xtor=RSS-16) |
+| keyword_rejected | - | [6 ways to help your children have a healthy relationship wit](https://www.newscientist.com/article/2510972-6-ways-to-help-your-children-have-a-healthy-relationship-with-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [6 ways to help your children have a healthy relationship wit](https://www.newscientist.com/article/2510972-6-ways-to-help-your-children-have-a-healthy-relationship-with-food/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Daily briefing: Why ‘harmless’ germs can be deadly for some ](https://www.nature.com/articles/d41586-026-00166-y) |
+| keyword_rejected | - | [How concrete jungles could be changing dandelion seed disper](https://phys.org/news/2026-01-concrete-jungles-dandelion-seed-dispersal.html) |
+| keyword_rejected | - | [Ancient Type II supernova discovered from universe's first b](https://phys.org/news/2026-01-ancient-ii-supernova-universe-billion.html) |
+| keyword_rejected | - | ['Reborn' black hole awakens after 100 million years of silen](https://phys.org/news/2026-01-reborn-black-hole-awakens-million.html) |
+| keyword_rejected | - | [SpaceX launch sets record turnaround from Cape Canaveral pad](https://phys.org/news/2026-01-spacex-turnaround-cape-canaveral-pad.html) |
+| keyword_rejected | - | [Frequency comb lasers enable clearer observation of black ho](https://phys.org/news/2026-01-frequency-lasers-enable-clearer-black.html) |
+| keyword_rejected | - | [Brain-gonad axes harmonize male mating drive and reproductiv](https://www.nature.com/articles/s41467-025-68275-2) |
+| keyword_rejected | - | [Brain-gonad axes harmonize male mating drive and reproductiv](https://www.nature.com/articles/s41467-025-68275-2) |
+| keyword_rejected | - | [Identification and inhibition of the Cyclin D Rb-docking int](https://www.biorxiv.org/content/10.64898/2026.01.14.699544v1?rss=1) |
 | ai_scored | 50 | [Two new exoplanets and the need for new habitable zone defin](https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html) |
 | keyword_rejected | - | [Bains publics de Pompéi, vaisseau extraterrestre et manuscri](https://www.sciencesetavenir.fr/ultrabreves/bains-publics-de-pompei-vaisseau-extraterrestre-et-manuscrits-retranscrits-par-ia-l-actu-des-sciences-en-ultrabreves_190418) |
 | keyword_rejected | - | [Structural mechanisms for inhibition and activation of human](https://www.nature.com/articles/s41467-026-68475-4) |
