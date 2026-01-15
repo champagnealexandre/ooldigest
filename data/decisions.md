@@ -1,5 +1,38 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [Mutualistic microbes drive niche expansion yet constrain div](https://www.biorxiv.org/content/10.64898/2026.01.14.699472v1?rss=1) |
+| ai_scored | 25 | [Quantitative Full-length transcriptome analysis by nanopore ](https://www.biorxiv.org/content/10.64898/2026.01.14.699429v1?rss=1) |
+| ai_scored | 15 | [Engineered Allosteric Control Enhances Specificity and Poten](https://www.biorxiv.org/content/10.64898/2026.01.13.698514v1?rss=1) |
+| ai_scored | 15 | [Fusion gene discovery in single cells from high throughput l](https://www.biorxiv.org/content/10.64898/2026.01.13.699333v1?rss=1) |
+| ai_scored | 30 | [Molecular basis of UV lesion binding and repair inhibition b](https://www.biorxiv.org/content/10.64898/2026.01.13.699325v1?rss=1) |
+| ai_scored | 10 | [Microbiome-Derived Metabolites Shape CD4⁺ T-Cell Differentia](https://www.biorxiv.org/content/10.64898/2026.01.13.699280v1?rss=1) |
+| ai_scored | 10 | [Vitamin B12 Improves Skeletal Muscle Mitochondrial Biology i](https://www.biorxiv.org/content/10.64898/2026.01.13.699119v1?rss=1) |
+| ai_scored | 5 | [Hypatia: a set of quantitative methods for profiling isoform](https://www.biorxiv.org/content/10.64898/2026.01.13.699341v1?rss=1) |
+| ai_scored | 5 | [Astronauts Evacuate the ISS after Medical Incident](https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114201953&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Atomistic Structure of Transient Switching States in Ferroel](http://link.aps.org/doi/10.1103/lfdh-86x6) |
+| keyword_rejected | - | [Rigid-Body Anisotropy in Noncollinear Antiferromagnets](http://link.aps.org/doi/10.1103/64wt-51gd) |
+| keyword_rejected | - | [Ferromagnetic Interface Engineering of Spin-Charge Conversio](http://link.aps.org/doi/10.1103/rc4k-rf1p) |
+| keyword_rejected | - | [In-Plane Anomalous Features in the 3D Quantum Hall Regime](http://link.aps.org/doi/10.1103/qwsp-vrm5) |
+| keyword_rejected | - | [Microscopic Evidence of Spin-Driven Multiferroicity and Topo](http://link.aps.org/doi/10.1103/4hzc-bm2f) |
+| keyword_rejected | - | [First Demonstration of Resonant Pitch-Angle Scattering of Re](http://link.aps.org/doi/10.1103/jz8f-ck22) |
+| keyword_rejected | - | [Experimental Evidence of Vortex $γ$ Photons in All-Optical I](http://link.aps.org/doi/10.1103/92v4-bzp2) |
+| keyword_rejected | - | [Nuclear Spin Quenching of the ${^{2}S}_{1/2}→{^{2}F}_{7/2}$ ](http://link.aps.org/doi/10.1103/fx1b-5666) |
+| keyword_rejected | - | [High-Resolution Spectroscopy of ${^{173}\mathrm{Yb}}^{+}$ Io](http://link.aps.org/doi/10.1103/rcdh-s4d7) |
+| keyword_rejected | - | [Nucleon Tomography with Zero Jettiness](http://link.aps.org/doi/10.1103/rvgc-sgv7) |
+| keyword_rejected | - | [Observation of ${B}_{c}^{+}→D{h}^{+}{h}^{−}$ Decays](http://link.aps.org/doi/10.1103/fsj9-89jt) |
+| keyword_rejected | - | [First Observation of $CP$ Violation and Measurement of Polar](http://link.aps.org/doi/10.1103/9zhl-kkwg) |
+| keyword_rejected | - | [Unified and Consistent Structure Growth Measurements from Jo](http://link.aps.org/doi/10.1103/k5yr-3h6d) |
+| keyword_rejected | - | [Probing Defects with Quantum Simulator Snapshots](http://link.aps.org/doi/10.1103/stk3-lm78) |
+| keyword_rejected | - | [Matrix-Product Entanglement Characterizing the Optimality of](http://link.aps.org/doi/10.1103/6y5p-mp7q) |
+| keyword_rejected | - | [Emergence of Generic Entanglement Structure in Doped Matchga](http://link.aps.org/doi/10.1103/w97w-7zny) |
+| keyword_rejected | - | [Plasma p-tau217, quantified by the fully automated LUMIPULSE](https://www.nature.com/articles/s41598-025-34241-7) |
+| keyword_rejected | - | [Forecasting the number of sunspots for solar cycle 25 utiliz](https://www.nature.com/articles/s41598-025-33819-5) |
+| keyword_rejected | - | [Mapping brain growth and sex differences across prenatal to ](https://www.nature.com/articles/s41598-025-33981-w) |
+| keyword_rejected | - | [Inhibiting autophagy enhances anti-cancer properties of sulf](https://www.nature.com/articles/s41598-026-35891-x) |
+| keyword_rejected | - | [Salmonella sensitizes macrophages for context-dependent anti](https://www.biorxiv.org/content/10.64898/2026.01.13.699354v1?rss=1) |
+| keyword_rejected | - | [Inferring fine-scale rates of mutation and recombination in ](https://www.biorxiv.org/content/10.64898/2026.01.13.699361v1?rss=1) |
+| keyword_rejected | - | [CCAN forms the spherical shell-like structure in interphase ](https://www.biorxiv.org/content/10.64898/2026.01.14.699427v1?rss=1) |
 | ai_scored | 0 | [Outlier Detection in Single-Cell Transcriptomics Reveals Dis](https://www.biorxiv.org/content/10.64898/2026.01.12.699092v1?rss=1) |
 | ai_scored | 25 | [The Genomic Basis of Electric Signal Diversity](https://www.biorxiv.org/content/10.64898/2026.01.14.699493v1?rss=1) |
 | ai_scored | 15 | [Nonlinear dynamics of air invasion in one-dimensional compli](http://link.aps.org/doi/10.1103/mngd-9khq) |

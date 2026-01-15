@@ -3,8 +3,132 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-14T23:15:32.118201+00:00</updated>
+  <updated>2026-01-15T01:20:07.725166+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] Scientific American ▶ Astronauts Evacuate the ISS after Medical Incident</title>
+    <link href="https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/"/>
+    <id>https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/</id>
+    <updated>2026-01-14T22:15:00Z</updated>
+    <summary>The four members of Crew-11 are on their way back to Earth after one of them became unwell with an unknown condition</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> News report on an ISS medical incident and evacuation with no clear connection to origins-of-life research, aside from a generic mention of returning to Earth.</p>
+<p><strong>Abstract:</strong> The four members of Crew-11 are on their way back to Earth after one of them became unwell with an unknown condition</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Hypatia: a set of quantitative methods for profiling isoform across cell populations</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699341v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699341v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Long-read single-cell RNA-sequencing enables isoform-level study across single cells, yet methods to systematically assess cell-to-cell variations remain limited. Here, we develop Hypatia, a comprehen</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces Hypatia, a statistical platform (Tsallis entropy, Cramer’s V) for quantifying isoform-level variation across single-cell long-read RNA-seq datasets in biomedical contexts, with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Long-read single-cell RNA-sequencing enables isoform-level study across single cells, yet methods to systematically assess cell-to-cell variations remain limited. Here, we develop Hypatia, a comprehensive platform for dissecting isoform complexities across cell populations, devising Tsallis entropy and Cramer V to facilitate robust comparative profiling. Hypatia revealed prominent isoform species variations and usage shifts across cell-types in glioblastoma, renal cell carcinoma, and heart, highlighting clinically relevant applications for studying isoform-derived, cell-specific functions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699341v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699341v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699341v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Vitamin B12 Improves Skeletal Muscle Mitochondrial Biology in Aged Mice</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699119v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699119v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Age-related skeletal muscle deterioration is a commonly reported disability among older adults, attributed to several factors including mitochondrial dysfunction, a major hallmark of aging. Therapies </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> A bioRxiv preprint reporting that vitamin B12 supplementation in aged female mice increases skeletal muscle mitochondrial content, improves morphology and TCA/OXPHOS-associated proteomic signatures, and reduces ROS in human myotubes—useful for aging biology but only tangential to origins-of-life via the general relevance of mitochondrial DNA.</p>
+<p><strong>Abstract:</strong> Age-related skeletal muscle deterioration is a commonly reported disability among older adults, attributed to several factors including mitochondrial dysfunction, a major hallmark of aging. Therapies to attenuate or reverse mitochondrial decline are limited. Despite identified positive relationships between vitamin B12 (B12) and mitochondrial biology, the impact of B12 supplementation on skeletal muscle mitochondria, in advanced aged, has not been examined. Thus, the impact of B12 supplementation on skeletal muscle mitochondrial biology was examined in (i) aged female mice, given 12 weeks of B12 supplementation (SUPP) or vehicle control, and (ii) in human primary myotubes. In the mouse model, mitochondrial DNA and content were measured with PCR and citrate synthase activity, respectively; mitochondrial morphology was examined using transmission electron microscopy; mitochondrial function was examined using extracellular metabolic flux analysis; and proteins and pathway enrichment was identified with proteomics. In the cell model, ROS and glutathione was measured using luminescent assays. The results demonstrated that SUPP in aged mice increased muscle mitochondrial content and improved morphology. Further, differentially expressed proteins were enriched in TCA cycle, OXPHOS, and oxidative stress pathways. In the cell model, B12 supplementation reduced ROS levels. This is the first study, to our knowledge, examining the impact of B12 supplementation on skeletal muscle mitochondrial biology in aged female mice. Results suggest that B12 supplementation improves mitochondrial biology in aged female mice.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699119v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699119v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699119v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] systems biology - biorXiv Preprints ▶ Microbiome-Derived Metabolites Shape CD4⁺ T-Cell Differentiations and Immune Aging in Chronic HIV-1 Infection</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699280v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699280v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>The role of aromatic gut-derived bacterial metabolites (GDBMs) in shaping immune cell metabolism and function remains poorly explored. Using ex vivo metabolomic profiling of paired plasma and CD4+ T-c</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> Study links gut microbiome–derived aromatic metabolites (notably p-cresol sulfate) to altered CD4+ T-cell metabolic states, senescence, and HIV-1 reservoir persistence, with limited direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> The role of aromatic gut-derived bacterial metabolites (GDBMs) in shaping immune cell metabolism and function remains poorly explored. Using ex vivo metabolomic profiling of paired plasma and CD4+ T-cells from people living with HIV-1 (PLWH), we identified a network of aromatic GDBMs whose cell-associated abundance, rather than systemic levels, was linked to broad alterations in CD4+ T-cell metabolic and functional states. Among these metabolites, p-cresol sulfate (PCS) emerged as a mechanistic prototype investigated in depth. Ex vivo flow cytometry and single-cell RNA sequencing of CD4+ T-cells stratified by cell-associated PCS levels revealed dose-dependent enrichment of transcriptional programs associated with impaired differentiation capacity, regulatory-like identity, and cellular senescence. Consistently, in vitro transcriptomic and proteomic analyses of PCS-exposed CD4+ T cells demonstrated induction of cell-cycle arrest, mitochondrial dysfunction, and senescence-associated programs, including upregulation of p16 and p21. Integration of these immunometabolic features with measurements of HIV-1 reservoir size in PLWH revealed that CD4+ T-cell states defined by cell-associated GDBMs track with intact proviral DNA levels in vivo. Together, these findings define a microbiome-derived axis that reshapes CD4+ T-cell metabolism and fate and promotes immune aging-associated states in PLWH. Our data suggest that cell-associated GDBMs may foster immunometabolic CD4+ T-cell states previously linked to long-term HIV-1 reservoir persistence in vivo.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699280v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699280v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699280v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] biochemistry - biorXiv Preprints ▶ Molecular basis of UV lesion binding and repair inhibition by ETS-family transcription factors</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699325v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699325v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Mutation hotspots in melanoma frequently occur at DNA binding sites of ETS-family transcription factors, as ETS factors stimulate the formation of UV-induced cyclobutane pyrimidine dimers (CPDs) while</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Structural and biophysical study showing how ETS-family transcription factors preferentially bind UV-induced DNA cyclobutane pyrimidine dimers and suppress repair, offering a mechanistic explanation for melanoma mutation hotspots but only indirectly relevant to origins-of-life questions via UV damage/repair constraints on nucleic acids.</p>
+<p><strong>Abstract:</strong> Mutation hotspots in melanoma frequently occur at DNA binding sites of ETS-family transcription factors, as ETS factors stimulate the formation of UV-induced cyclobutane pyrimidine dimers (CPDs) while suppressing repair at ETS-bound DNA sites. To elucidate the molecular mechanism by which ETS factors bind to damaged DNA sites and inhibit repair, we investigated the binding of members from the three major classes of the ETS superfamily (Ets1, ELF1 and PU.1) to cognate DNA containing a cis-syn TpT CPD. These site-specific CPDs modulated ETS recognition and repair by a model repair enzyme in a position-dependent manner, with a deaminated CPD located in a damage hotspot in the ETS binding motif consistently stimulating binding and repair inhibition by all three paralogs. Co-crystal structures of PU.1 reveal that CPDs and mismatches are recognized within the framework of canonical ETS/DNA complexes, but with highly differentiated thermodynamic and dynamic properties. Specifically, the CPD-bound complex exhibits unique dynamics that reveal a novel DNA-binding mode as well as inform how ETS domains navigate the DNA conformational landscape to predispose CPD induction. The results offer a molecular rationale for how ETS factors induce mutation hotspots in skin cancers and other UV-exposed tissues by promoting CPD induction and inhibiting repair.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699325v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699325v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699325v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ Fusion gene discovery in single cells from high throughput long read single cell transcriptomes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699333v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699333v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>High throughput long-read single cell RNA sequencing allows for fusion gene discovery in thousands of cells in parallel, which is however constrained by the lack of robust computational tools. Here, w</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Presents LongFUSE, a computational method to detect cell-specific fusion genes from high-throughput long-read single-cell RNA-seq data, with improved accuracy over existing tools.</p>
+<p><strong>Abstract:</strong> High throughput long-read single cell RNA sequencing allows for fusion gene discovery in thousands of cells in parallel, which is however constrained by the lack of robust computational tools. Here, we develop LongFUSE that employs the XOR logic operation and stringent filtering criteria for the accurate detection of cell-specific fusion genes and their splicing isoforms. LongFUSE outperforms existing tools in both simulation and real data, demonstrating high accuracy and robustness.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699333v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699333v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699333v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Engineered Allosteric Control Enhances Specificity and Potency of CRISPR-CasX-based Epigenetic Repressors</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.698514v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.698514v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>CRISPR-based epigenetic editing enables durable and reversible control of gene expression, overcoming the transient nature of RNA interference and antisense oligonucleotides while avoiding the permane</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> BioRxiv preprint engineering an allosterically gated DNMT3A–CasX epigenetic repressor to improve on-target methylation and reduce off-target transcriptional effects, mainly relevant to genome engineering rather than origins-of-life research (keyword match: DNA).</p>
+<p><strong>Abstract:</strong> CRISPR-based epigenetic editing enables durable and reversible control of gene expression, overcoming the transient nature of RNA interference and antisense oligonucleotides while avoiding the permanent DNA alterations of other CRISPR-based approaches. Current epigenome editors that fuse the DNMT3A catalytic domain to a DNA-binding module such as catalytically inactive Cas9 deposit CpG methylation to silence gene transcription, but can exhibit off-target activity, cellular toxicity, and transcriptome-wide perturbations due to unconstrained methyltransferase activity. In contrast, DNMT3A regulation in its native context involves autoinhibition of its catalytic activity by its ATRX-DNMT3A-DNMT3L (ADD) domain, which is relieved only upon allosteric activation through recognition of unmodified H3K4 (H3K4me0). Here, we engineered this endogenous allosteric control into CRISPR-based epigenetic editors by designing compact Epigenetic Long Term CasX-based Repressors (ELXRs) containing an allosterically-gated DNMT3A. Allosteric ELXR substantially reduced off-target methylation, rescued dose-dependent growth defects in methylation-sensitive systems, and maintained or enhanced on-target activity across multiple loci (on average [≥]4-fold increased activity). We find that integration of DNMT3A allostery is more effective within the CasX framework than with Cas9-based systems, indicating that the increased precision targeting of CasX may be required for the allosteric gate to reduce off-target effects. Mechanistically, the engineered allostery establishes a multi-step gating process in which DNMT3A activation and subsequent CpG methylation occur only after conversion of H3K4me3 to H3K4me0, which we establish requires potentiation by a transcriptional repressor domain. Targeted mutagenesis of ADD confirms this allosteric mechanism in ELXRs matches endogenous DNMT3A regulation. Transcriptome-wide profiling further demonstrated substantially improved specificity with allosteric ELXRs, which were found to reduce the number of differentially expressed genes by 10-100-fold compared with their non-allosteric counterparts. In vivo, lipid nanoparticle delivery of ELXRs achieved potent, durable PCSK9 silencing with precise on-target promoter methylation and minimal off-target transcriptional effects. To date, CRISPR specificity has been governed primarily by gRNA-DNA interactions. By synthetically reconstructing DNMT3A&#x27;s allosteric control, we introduce a new regulatory layer that enhances the fidelity and specificity of CRISPR-based epigenetic editing and establishes a general framework for engineering more precise CRISPR-based therapeutics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.698514v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.698514v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.698514v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] bioinformatics - biorXiv Preprints ▶ Quantitative Full-length transcriptome analysis by nanopore sequencing with Error-Aware UMI mapping</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699429v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699429v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Comprehensive transcriptome profiling is essential for understanding RNA diversity and regulation, yet accurate identification and quantification of full-length transcript isoforms remain challenging </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces UMImap, an error-aware UMI pipeline that improves quantitative full-length nanopore transcriptome (cDNA) isoform discovery and expression profiling, a useful molecular tool but only indirectly relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Comprehensive transcriptome profiling is essential for understanding RNA diversity and regulation, yet accurate identification and quantification of full-length transcript isoforms remain challenging with short-read sequencing technologies. Nanopore sequencing enables direct sequencing of long cDNA molecules and thus offers a powerful solution for full-length transcriptome analysis, but its application to quantitative transcriptomics is limited by PCR amplification bias and the difficulty of unique molecular identifier (UMI) recognition under high sequencing error rates. Here, we developed UMImap, a dedicated pipeline for robust UMI identification, error correction, and deduplication in nanopore data. By integrating transcript-aware UMI correction with long-read isoform assembly, UMImap substantially improves UMI recognition accuracy compared with existing methods and effectively mitigates PCR-induced duplication bias. Using this framework, we identified tens of thousands of full-length transcript isoforms, including a large fraction of previously unannotated isoforms that are significantly longer than reference annotations. Quantitative analyses demonstrate the reliability of UMImap for transcript-level quantification. Functional and pathway enrichment analyses of highly expressed novel isoforms revealed coherent and biologically meaningful patterns, including strong enrichment in RNA processing, splicing, and translation pathways. Our results establish UMImap as an effective solution for UMI-based quantification in nanopore full-length transcriptome sequencing and highlight the potential of long-read sequencing to simultaneously achieve accurate isoform discovery and expression analysis in complex transcriptomes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699429v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699429v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699429v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] bioRxiv Subject Collection: Evolutionary Biology ▶ Mutualistic microbes drive niche expansion yet constrain diversification</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699472v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699472v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Mutualistic interactions are widely hypothesized to expand ecological niches and promote diversification, yet evidence for this relationship at macroevolutionary scales remains limited. Here, we inves</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using global phylogenetic and distribution modeling across &gt;100 Poa grasses, this study finds fungal endophyte mutualism substantially broadens climatic niche axes and range size while paradoxically reducing or neutralizing diversification rates, underscoring that symbiosis can decouple ecological expansion from macroevolutionary diversification.</p>
+<p><strong>Abstract:</strong> Mutualistic interactions are widely hypothesized to expand ecological niches and promote diversification, yet evidence for this relationship at macroevolutionary scales remains limited. Here, we investigate how fungal seed endophytes (Epichloe) influence niche breadth and diversification across over 100 species of the globally-distributed grass genus Poa. Combining global-scale climate, environmental, phylogenetic, and symbiosis data, we constructed species distribution models for suites of symbiotic and non-symbiotic plant species, then used a range of phylogenetic comparative methods to assess the influence of these symbionts on niche breadth, niche breadth evolution, and diversification. Endophyte-positive species had ~1.4 times broader primary niche axes (most often associated with temperature tolerances), ~2.5 times larger geographic ranges, and &gt;30 times faster rates of niche breadth evolution than non-symbiotic species. Endophytic plants also had significantly drier climate centroids, consistent with endophyte-mediated drought tolerance, while simultaneously showing constraints along specific niche dimensions. Despite pronounced niche expansion, hidden state speciation and extinction models revealed two modes of diversification: endophytes decrease diversification rates in young lineages, and have a neutral effect in older lineages. Together, our results demonstrate that mutualists can enhance ecological flexibility while simultaneously constraining macroevolutionary outcomes, revealing a decoupling of niche expansion and diversification, and highlighting the complex role of symbiosis in shaping host evolutionary trajectories.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699472v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699472v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699472v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] bioinformatics - biorXiv Preprints ▶ Hybrid TF-IDF and SBERT Feature Engineering with SMOTE-Tomek Resampling for Enhanced Software Requirements Classification</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699413v1?rss=1"/>
@@ -4213,20 +4337,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] bioinformatics - biorXiv Preprints ▶ Linkage-aware inference of fitness from short-read time-series genomic data</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Inferring the fitness effect of mutations is a basic problem in understanding the evolution of populations over time. When multiple mutations are present in a population simultaneously, genetic linkag</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Presents a scalable computational method to infer mutation fitness effects from short-read time-series sequencing while accounting for genetic linkage, demonstrated on within-host HIV and SARS-CoV-2 datasets.</p>
-<p><strong>Abstract:</strong> Inferring the fitness effect of mutations is a basic problem in understanding the evolution of populations over time. When multiple mutations are present in a population simultaneously, genetic linkage comes into play, and the fate of an individual mutation depends on both its fitness as well as the background on which it occurs. Accurate inference of fitness effects for evolutionary systems with multiple competing mutations is therefore contingent on resolving the confounding effects of genetic linkage, captured by the covariance between allele-pairs. Increasingly, evolutionary studies are using short-read sequencing technologies to produce detailed snapshots of evolving populations. This presents a problem as the frequencies of allele-pairs are not known beyond the read-length, hampering any attempt to resolve the effects of genetic linkage between pairs of loci residing on different reads. Here we present a computationally efficient pipeline for inferring selection from short-read time-series data with partial allele-pair frequency information, while accounting for linkage. Simulation results show that the method has good performance and is scalable to systems with several thousand variants. Additionally, we demonstrate the pipelines utility on real datasets of within-host HIV and SARS-CoV-2 evolution, showcasing its applicability in resolving linkage effects from complex evolutionary histories.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698347v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ OKR-Cell: Open World Knowledge Aided Single-Cell Foundation Model with Robust Cross-Modal Cell-Language Pre-training</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1?rss=1</id>
@@ -4253,34 +4363,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698566v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] cell biology - biorXiv Preprints ▶ Asymmetric Division in a Two-Cell-Like State Rejuvenates Embryonic Stem Cells</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.697614v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.697614v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>A fundamental question in biology is whether cellular aging is inevitable. Embryonic stem cells (ESCs) challenge this paradigm as rare normal cells capable of indefinite in vitro passage. However, the</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Long-term single-cell imaging suggests embryonic stem cells intermittently enter a two-cell–like state where asymmetric division sequesters accumulated DNA damage into a doomed daughter lineage, leaving a rejuvenated lineage that returns to pluripotency.</p>
-<p><strong>Abstract:</strong> A fundamental question in biology is whether cellular aging is inevitable. Embryonic stem cells (ESCs) challenge this paradigm as rare normal cells capable of indefinite in vitro passage. However, the mechanisms underlying ESC lineage immortality remain unresolved. Using long-term live-cell imaging to follow fates of single ESCs, we show here that ESC lineage renewal is achieved through sporadic entry into a state characterized by the expression of two-cell embryo-specific markers. During this state, cells undergo asymmetric divisions, segregating accumulated DNA damage into one daughter lineage destined for elimination, while producing a second lineage that reverts to the pluripotent state. Importantly, the latter lineage exhibits signs of rejuvenation, including reduced DNA damage and enhanced chimeric efficiency. These findings underscore the crucial role of asymmetric cell division in maintaining the long-term health of the ESC lineage against mounting damage within individual cells, a potential model for studying cellular aging and rejuvenation in mammalian cells.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.697614v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.697614v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.697614v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ Predicting single-cell responses to novel genetic perturbations with optimal transport</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698172v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698172v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>The combination of pooled genetic perturbation screening with single-cell RNA-sequencing has allowed for large-scale profiling of single-cell transcriptional responses, providing valuable insights int</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Introduces an optimal-transport-based machine learning framework to predict single-cell transcriptional responses to unseen genetic perturbations using biologically informed gene representations, but it has minimal direct relevance to origins-of-life research beyond general RNA/gene biology context.</p>
-<p><strong>Abstract:</strong> The combination of pooled genetic perturbation screening with single-cell RNA-sequencing has allowed for large-scale profiling of single-cell transcriptional responses, providing valuable insights into gene function and cellular behavior. There is a need for computational methods capable of predicting single-cell responses to novel genetic perturbations, thereby allowing for the efficient exploration of the vast combinatorial space of potential multi-gene perturbations. Optimal transport (OT) presents a compelling framework to model this type of data given the lack of true control-perturbed cell pairings. However, existing neural OT models are generally constrained to the perturbations already seen in training, while the use of OT theory in methods capable of modeling novel genetic perturbations remains limited. To bridge this gap, we present an OT-based method to predict single-cell transcriptional responses to novel genetic perturbations. Leveraging a flexible attention-based aggregation approach, our method integrates gene representations from multiple sources of prior knowledge, spanning from functional descriptions of genes to gene-gene relationships, producing a biologically informed representation of the perturbation. Moreover, we utilize an OT-based loss to align predicted and observed perturbed cell populations, avoiding the need to assign random control-perturbed cell pairings. Experiments on three benchmark datasets demonstrate the highly competitive performance of our model compared to state-of-the-art methods. Further evaluations on differential expression analysis and genetic interaction modeling demonstrate the biological relevance and potential utility of our model across diverse applications.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698172v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698172v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698172v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [30] cell biology - biorXiv Preprints ▶ The N terminus of Alpha-1 Giardin, a parasitic annexin orthologue, is essential for oligomerization and lipid-binding activity</title>
@@ -4325,34 +4407,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698589v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [37] cell biology - biorXiv Preprints ▶ Molecular insights into bulk lipid transport from structural studies of the bridge-like protein VPS13A complexed with the scramblase XKR1</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698282v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698282v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>In eukaryotes, bridge-like lipid-transfer proteins (BLTPs) are central in mediating vesicle-independent lipid transfer between organelles. BLTPs span the cytosolic space between organelles at contact </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> Cryo-EM and simulations reveal how the eukaryotic bridge-like lipid transporter VPS13A docks to the plasma-membrane scramblase XKR1 to deliver bulk lipids to one leaflet for subsequent scrambling and membrane growth, offering broad mechanistic context for lipid-handling in cells rather than direct origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> In eukaryotes, bridge-like lipid-transfer proteins (BLTPs) are central in mediating vesicle-independent lipid transfer between organelles. BLTPs span the cytosolic space between organelles at contact sites, featuring hydrophobic channels for lipids to travel between membranes. How BLTPs cooperate with partner proteins to orchestrate lipid delivery remains mysterious. Here we used cryo-electron microscopy to visualize a complex comprising the prototypical BLTP VPS13A and the plasma membrane localized scramblase XKR1 at near-atomic resolution. VPS13A interacts with XKR1 via its PH-domain, priming VPS13As bridge-like lipid-transfer domain to deliver lipids directly to the cytosolic leaflet of the acceptor membrane. In molecular dynamics simulations, such arrangement allows for robust lipid transfer, accelerated by membrane properties. Newly delivered lipids can then be equilibrated between leaflets of the membrane bilayer by the scramblase, allowing for membrane growth. Mechanistic insights regarding lipid delivery by VPS13A are directly applicable to all VPS13 proteins and all BLTP family members more broadly.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698282v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698282v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698282v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ resolveS: An ultra-fast, memory-efficient and reference-free tool for RNA-seq Strandedness Detection</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Public sequencing data repositories, such as the European Nucleotide Archive and Sequence Read Archive are vital resources for biological discovery, however their associated metadata often lacks essen</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Presents resolveS, a fast reference-free bioinformatics tool to infer RNA-seq library strandedness using conserved rRNA sequences, offering minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Public sequencing data repositories, such as the European Nucleotide Archive and Sequence Read Archive are vital resources for biological discovery, however their associated metadata often lacks essential experimental details, specifically the strand specificity (strandedness) of RNA-sequencing data. Accurate determination of strandedness is critical for downstream analysis, yet existing tools are often limited by computational inefficiency, complex workflows, or a reliance on high-quality, species-specific reference genomes and gene annotations. To address these limitations, we developed resolveS, a rapid, resource-efficient and user-friendly tool designed to detect RNA-sequencing strandedness without requiring organism-specific genomic resources. By leveraging the evolutionary conservation of ribosomal RNA combined with a robust statistical framework, resolveS eliminates the dependency on reference genomes. Benchmarking demonstrates that resolveS outperforms existing methods in both speed and efficiency, processing samples in under 10 seconds with a minimal memory footprint (&lt;0.5 GB). Furthermore, to enhance reproducibility and facilitate seamless integration into bioinformatics pipelines, we provide ready-to-use Singularity and Apptainer images alongside a portable executable version. Availability and ImplementationresolveS is available under the MIT license at (https://github.com/yudalang3/resolveS). Ready to use singularity and apptainer images as well as portable version available in the release page (https://github.com/yudalang3/resolveS/releases)</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698333v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Atlas of lysine acetylation in the mouse</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1</id>
@@ -4365,34 +4419,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698739v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] bioinformatics - biorXiv Preprints ▶ Exploring Disordered Regions of Human Spliceosome Proteins</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698225v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698225v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Introns are removed from messenger RNAs by the spliceosome, a protein-RNA machinery enriched with intrinsically disordered regions (IDRs). Lacking stable 3D structures, IDRs can adopt diverse conforma</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Bioinformatics survey of intrinsically disordered regions in human spliceosome proteins highlights conserved, charged/RS-rich RNA–protein interaction motifs and disease-linked modification/mutation hotspots, with only indirect relevance to Origins-of-Life questions about early RNA–protein assemblies.</p>
-<p><strong>Abstract:</strong> Introns are removed from messenger RNAs by the spliceosome, a protein-RNA machinery enriched with intrinsically disordered regions (IDRs). Lacking stable 3D structures, IDRs can adopt diverse conformations interlacing proteins and RNAs components of the spliceosome and regulating splicing. Here we performed a comprehensive bioinformatics analysis of the human spliceosome proteome revealing that many proteins contain over 40% of disordered residues. Spliceosome IDRs are mainly driven by compositional bias due to an excess of charged and RS-like sequences, with both the nature and extent of this disorder being broadly conserved evolutionarily. Additionally, these IDRs are frequent targets of post-translational modifications, especially phosphorylation, and are hotspots for cancer-associated mutations, implicated in different cancer types. Our results collectively underscore central role of IDRs in splicing regulation and disease. TOC Graphic O_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=167 SRC=&quot;FIGDIR/small/698225v1_ufig1.gif&quot; ALT=&quot;Figure 1&quot;&gt; View larger version (33K): org.highwire.dtl.DTLVardef@d3ff14org.highwire.dtl.DTLVardef@f8efcorg.highwire.dtl.DTLVardef@1747ef1org.highwire.dtl.DTLVardef@13a3d7c_HPS_FORMAT_FIGEXP M_FIG C_FIG</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698225v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698225v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698225v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] biochemistry - biorXiv Preprints ▶ Rational design of mechanically active RNAs: de novo engineering of functional exoribonuclease-resistant RNAs</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698366v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698366v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Mechanically active RNAs represent an emerging class of biomolecules whose function derives from resisting molecular forces. Among them, exoribonuclease-resistant RNAs (xr-RNAs) achieve this by foldin</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This preprint demonstrates a mechanics-aware, topology-constrained design framework to engineer de novo exoribonuclease-resistant RNAs that form ring-like folds and robustly stall XRN1 despite minimal sequence similarity to natural xrRNAs, informing how RNA structure alone can encode functional stability.</p>
-<p><strong>Abstract:</strong> Mechanically active RNAs represent an emerging class of biomolecules whose function derives from resisting molecular forces. Among them, exoribonuclease-resistant RNAs (xr-RNAs) achieve this by folding into a ring-like topology that physically blocks 5 [-&gt;] 3 degra-dation. However, despite years of structural insight, the rational design of such mechanically functional RNA devices has remained elusive. Here, we describe a mechanics-aware RNA design approach that enables de novo engineering of functional xrRNAs. We first identify structural determinants of force resistance by perturbing pseudoknot architecture in a model xrRNA and quantifying resulting efficiencies in the stalling of exoribonuclease XRN1. We then implement these rules in a design framework that integrates explicit topological constraints with molecular dynamics-guided optimization. The resulting synthetic xrRNAs reproduce the ring-like architecture and stall exoribonuclease XRN1 with wild-type-like efficiency. Our top-performing constructs exhibit minimal sequence similarity to known xrRNAs and evade detection by covariance models, yet remain fully functional in vitro. Together, our results show that mechanical function can be rationally designed independent of evolutionary ancestry, laying the groundwork for the design of RNA elements that modulate decay and fine-tune the mechanical stability of engineered transcripts.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698366v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698366v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698366v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [25] biochemistry - biorXiv Preprints ▶ Chemical composition and antioxidant properties of Thai propolis: Role of caffeic acid phenethyl ester (CAPE)</title>
@@ -4435,20 +4461,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698545v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] biochemistry - biorXiv Preprints ▶ PAR-Driven Condensation Maintains Stalled Replication Fork Stability</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698279v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698279v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Poly(ADP-ribose) (PAR) is a nucleic acid-like heterogeneous polymer in nature. Recently, it was found to engage in liquid-liquid phase separation (LLPS), generating condensates as an emerging class of</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA</p>
-<p><strong>AI Decision:</strong> This study shows that the nucleic acid-like polymer PAR can phase-separate with proteasome/ubiquitin to form nuclear condensates that stabilize stalled DNA replication forks under stress, offering broad-context insight into biomolecular self-organization relevant to Origins-of-Life compartmentalization themes.</p>
-<p><strong>Abstract:</strong> Poly(ADP-ribose) (PAR) is a nucleic acid-like heterogeneous polymer in nature. Recently, it was found to engage in liquid-liquid phase separation (LLPS), generating condensates as an emerging class of subcellular structures with pivotal functions in response to stimuli. As a post-translational modification catalyzed by PAR polymerases (PARPs), PAR is known to modulate many key events in cells. However, its involvement in biomolecular condensation remains elusive. Through an imaging-based screening of small molecules with diverse biological activities, we here discovered that PAR undergoes LLPS upon inhibiting proteasome in different types of cells, resulting in co-condensation of PAR with proteasome and ubiquitin chains in nucleus. This unprecedented co-condensation is dependent on PARP2 not PARP1 and requires K6-linked ubiquitylation. PAR is shown for the first time to directly interact with ubiquitin chains. Notably, stalled DNA replication forks arose from proteasome inhibition are co-localized with PAR-proteasome-ubiquitin chain condensates. By attenuating replication and stabilizing stalled replication forks, PAR-proteasome-ubiquitin chain condensates sustain genomic integrity under proteasomal stress. This work demonstrates a self-protective mechanism in stressed cells and provides fundamental understanding of PAR condensation in cell biology.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698279v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698279v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698279v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [18] molecular biology - biorXiv Preprints ▶ Single-nucleotide resolution profiling reveals dynamic and site-specific m⁶A regulation during human myogenesis</title>
@@ -4535,20 +4547,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698486v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ Kinetochore Homeostasis is Maintained by Coordinated Chromatin Stabilization and Soluble Buffering</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698278v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698278v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Faithful chromosome segregation requires the coordinated assembly and maintenance of kinetochore complexes. However, the homeostatic mechanisms that maintain these multi-subunit assemblies remain uncl</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This cell-biology preprint dissects how eukaryotic kinetochore linker CENP-T levels are maintained via coordinated stabilization of chromatin-bound pools and buffering of soluble pools, informing chromosome segregation fidelity but only tangentially relating to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Faithful chromosome segregation requires the coordinated assembly and maintenance of kinetochore complexes. However, the homeostatic mechanisms that maintain these multi-subunit assemblies remain unclear. CENP-T is a chromatin-bound linker that recruits the outer kinetochore modules via the CENP-T-W-S-X complex to form a functional kinetochore. Although CENP-T must be continuously replenished, how its steady-state levels are maintained is unknown. Here we demonstrate that CENP-T homeostasis is actively sustained by two spatially distinct pathways. Using covalent pulse-labeling, we find that CENP-T undergoes cell-cycle-coupled turnover rather than being stably inherited. In situ proximity labeling of chromatin-bound and soluble pools identifies regulators of CENP-T stability, including an unexpected role for the CENP-O complex in stabilizing soluble CENP-T. Mechanistically, CENP-S-X stabilizes chromatin-bound CENP-T through DNA-binding, whereas the CENP-O complex buffers a replenishment-competent CENP-T pool. Together, these conserved, spatially compartmentalized pathways establish an actively maintained homeostatic system that ensures robust kinetochore assembly and faithful chromosome segregation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698278v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698278v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698278v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [20] molecular biology - biorXiv Preprints ▶ DNA end-resection is stimulated by an interaction between BRCA1 exon 11 and TOPBP1</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1</id>
@@ -4561,34 +4559,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698382v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ The cap-independent translational regulation of NbRabGAP1 in Nicotiana benthamiana during BaMV infection</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>While cap-dependent translation is the eukaryotic norm, alternative pathways enable selective protein synthesis during stress. We describe a cap-independent mechanism regulating NbRabGAP1, a host fact</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, RNA</p>
-<p><strong>AI Decision:</strong> This study identifies a PAB8-dependent IRES in the 5&#x27; UTR of the host gene NbRabGAP1 that maintains its translation during bamboo mosaic virus infection, illustrating how eukaryotic RNA structure–protein interactions can reroute translation under stress (relevant to RNA-based regulation but not directly to origins-of-life).</p>
-<p><strong>Abstract:</strong> While cap-dependent translation is the eukaryotic norm, alternative pathways enable selective protein synthesis during stress. We describe a cap-independent mechanism regulating NbRabGAP1, a host factor essential for bamboo mosaic virus (BaMV) movement in Nicotiana benthamiana. The 5&#x27; untranslated region (5&#x27; UTR, 553-nt) of NbRabGAP1 contains three upstream open reading frames (uORFs) that typically hinder ribosome scanning. Using bicistronic reporter assays, we identified a functional internal ribosome entry site (IRES) within nucleotides 61-150. This IRES features a predicted stable Y-shaped RNA structure and a purine-rich R-motif. We demonstrate that NbPAB8, a poly(A)-binding protein, specifically binds this R-motif to enhance IRES-mediated translation over 2.5-fold. During BaMV infection, NbPAB8 expression is transiently upregulated, coinciding with maintained NbRabGAP1 levels despite potential repression of global cap-dependent translation. This represents a regulatory switch where viral infection triggers a PAB8-dependent IRES mechanism to sustain the vesicle trafficking machinery required for viral movement. Our findings reveal how viral stress rewires host translational control through specific RNA-protein interactions, ensuring the synthesis of critical host factors via IRES-mediated pathways. HighlightDuring bamboo mosaic virus infection, NbPAB8 binds a purine-rich IRES in the NbRabGAP1 5&#x27; UTR, bypassing global translation repression to maintain vesicle trafficking essential for viral movement.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698292v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Compensatory evolution facilitates loss of prfB autoregulation in Pseudomonas fluorescens SBW25</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698412v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698412v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Understanding why some traits are maintained whereas others are repeatedly lost is a central question in evolutionary biology. Here, we address this problem through an analysis of the evolutionary dyn</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Experimental evolution in Pseudomonas shows how compensatory mutations can enable loss of prfB (RF2) programmed frameshifting autoregulation, offering general insight into the evolvability and stability of translational regulatory mechanisms rather than direct origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Understanding why some traits are maintained whereas others are repeatedly lost is a central question in evolutionary biology. Here, we address this problem through an analysis of the evolutionary dynamics of autoregulation of the prfB gene, which encodes peptide-chain release factor 2 (RF2), a key factor in bacterial translation termination. RF2 recognizes UGA and UAA stop codons and catalyzes the release of the completed polypeptide. In many species, prfB contains an internal UGA stop codon, triggering premature translation termination by RF2 itself. Complete RF2 translation depends on a +1 programmed ribosomal frameshifting (PRF) event on the internal stop codon, which occurs more frequently when RF2 levels are low, resulting in autoregulation of prfB expression. While widespread, this autoregulatory mechanism has been lost in multiple bacterial lineages. We combined phylogenetics, experimental evolution and molecular genetics to investigate the evolutionary forces behind this loss. We found no significant correlation between PRF loss and stop codon usage using phylogenetically informed analyses, and PRF disruption in Pseudomonas fluorescens SBW25 had no detectable fitness effect. However, engineered mutations that reduced frameshifting caused fitness defects, which were compensated by two classes of mutation: (i) mutations that impair specific ribosomal proteins, and (ii) single-nucleotide deletions in prfB that adjust the reading frame and bypass the internal stop codon. These results suggest that compensatory mutations facilitate the loss of prfB autoregulation under RF2-limiting conditions. We discuss three potential scenarios that could account for this process.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698412v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698412v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698412v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [55] bioRxiv Subject Collection: Evolutionary Biology ▶ In silico prediction of metabolic trait robustness in microbial cells</title>
@@ -4619,20 +4589,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698622v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Genomic basis of adaptation to constant and fluctuating environments in a global pest of cereals</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698337v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698337v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>In agricultural systems, spatially and temporally heterogeneous environments are expected to favour the evolution of generalist pests and pathogens, yet the genomic mechanisms underlying niche-breadth</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, eukaryo*</p>
-<p><strong>AI Decision:</strong> Experimental evolution and genomic scans in a tiny-genome eukaryotic pest show generalism under fluctuating environments is likely polygenic and linked to stress/detox pathways, offering only indirect context for astrobiology via adaptation rather than origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> In agricultural systems, spatially and temporally heterogeneous environments are expected to favour the evolution of generalist pests and pathogens, yet the genomic mechanisms underlying niche-breadth expansion remain poorly understood. Here, we address this gap by assembling one of the smallest known eukaryotic genomes--from the global cereal pest Aceria tosichella--and by resequencing generalist and specialist populations which evolved in the lab on constant versus fluctuating hosts. A previous study demonstrated that generalist populations retained a wider niche, including the ability to exploit a refuge host, compared to specialist populations that showed a narrowing of the ecological niche. Genomic scans identified 640 SNPs that significantly differed in frequency between treatments, including a single highly differentiated 120-kbp region containing 13 genes. Allele-frequency shifts across many SNPs in this region paralleled phenotypic divergence in the ability to utilise refuge hosts, and gene annotations suggested their roles in starvation resistance and nutrient signalling. However, experimental validation of the top candidate gene did not support its strong direct effect on survival on the refuge host, implying a more complex, likely polygenic basis for adaptation. Consistent with this interpretation, numerous significant SNPs occurred outside the focal region, with enrichment for genes involved in xenobiotic transport, detoxification pathways, and ABC transporters. Together, these results indicate that generalism in A. tosichella relies on complex molecular mechanisms that enable survival on suboptimal or refuge hosts, relying to a considerable extent on the ability to deal with stress arising, for example, from toxic compounds present in suboptimal hosts.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698337v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698337v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698337v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ Functional Analyses of Histone Methyltransferases in Sea Lamprey Embryos Undergoing Programmed DNA Elimination</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1</id>
@@ -4647,20 +4603,6 @@
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698478v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [40] bioRxiv Subject Collection: Evolutionary Biology ▶ Sequential evolution of antidote and toxin links genetic incompatibility with immune responses</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Toxin-antidote (TA) systems are selfish genetic elements that promote their own inheritance by selectively eliminating offspring lacking the module, thereby establishing post-zygotic genetic incompati</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Reports a newly evolved toxin–antidote selfish genetic module in nematodes, suggesting sequential evolution (antidote first, then domesticated microbial-derived toxin) driven by host–pathogen conflict, informing how genetic conflict and reproductive barriers can arise.</p>
-<p><strong>Abstract:</strong> Toxin-antidote (TA) systems are selfish genetic elements that promote their own inheritance by selectively eliminating offspring lacking the module, thereby establishing post-zygotic genetic incompatibilities between individuals and populations. Although these systems are widespread across species, their evolutionary origins remain poorly understood. Here, we report the discovery of a novel TA gene pair in the nematode Caenorhabditis nigoni. The antidote gene, Cni-shls-2, is a species-specific F-box gene that arose through recent tandem duplications. Its absence results in embryonic lethality in both C. nigoni and its hybrids with the sister species C. briggsae. This lethality is caused by a maternally deposited toxin, Cni-hlix-1, a chimeric gene formed through the fusion of host and bacterial sequences. Phylogenetic and genomic analyses reveal a sequential evolution of the TA system, in which the antidote evolved prior to the toxin. The stepwise evolution of TA and the potential microbial origin of the toxin support the hypothesis that the antidote initially evolved in response to pathogen exposure, followed by the domestication of the toxin, thereby elucidating the origins of TA formation. These findings highlight the central role of host-pathogen conflict as a driving force in the emergence of genetic incompatibilities and the evolution of reproductive barriers.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698274v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [50] biophysics - biorXiv Preprints ▶ 3D confinement reshapes RNA folding and enhances circularisation in the Zika virus</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1"/>
     <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1</id>
@@ -4673,34 +4615,6 @@
 <li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1</a></li>
 </ul>
 <p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698690v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] systems biology - biorXiv Preprints ▶ The Red Rice Bran Extract (RRBE) Mitigates Photoaging by Targeting Mitochondrial Oxidative Stress and Regulating Thermal Damage Responses</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>The photoprotective efficacy of natural skin-active complexes is well recognized, yet their application is often hindered by the challenge of deciphering their complex, multi-component, and multi-targ</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This preprint uses AI-guided target prediction and cellular validation to explain how red rice bran extract mitigates UV-induced skin photoaging via mitochondrial oxidative stress and protein homeostasis pathways, with minimal relevance to origins-of-life research aside from general DNA damage context.</p>
-<p><strong>Abstract:</strong> The photoprotective efficacy of natural skin-active complexes is well recognized, yet their application is often hindered by the challenge of deciphering their complex, multi-component, and multi-target mechanisms. To bridge the gap between established phenotypes and molecular mechanisms, we developed an AI-driven integrated platform that combines phytochemical profiling, network pharmacology, and deep learning-based target prediction with rigorous biophysical validation. We applied this platform to investigate RRBE, a bioactive complex refined from red rice bran extract. In vivo clinical studies confirmed that RRBE significantly accelerates the resolution of UV-induced erythema, while cellular and 3D tissue models demonstrated robust suppression of oxidative stress and DNA damage responses. To decode its material basis, the platform deconstructed RRBE into 10 distinct chemical modules. Leveraging our SCOPE-DTI deep learning model for global target prediction, we identified flavonoids (Module 1) and phenolic acids (Module 10) as the primary bioactive drivers relevant to photoprotection. These computational predictions were structurally supported by molecular docking and definitively validated in a physiological environment via Cellular Thermal Shift Assay-Mass Spectrometry (CETSA-MS). Mechanistically, RRBE functions through a synergistic polypharmacology: (1) Module 1 components, represented by procyanidin B2, target NDUFA7 to stabilize mitochondrial function and mitigate ROS; (2) Module 10 components, exemplified by caffeic acid, ferulic acid, and p-coumaric acid, engage FKBP11 and HSP90AA1 to regulate protein homeostasis and stress responses. This work not only deciphers the polypharmacological basis of RRBEs photoprotective action but also validates a scalable &quot;AI-guided, cell-validated&quot; discovery pipeline, offering a rational paradigm for uncovering the protective benefits of complex natural extracts.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698301v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] Nature ▶ Daily briefing: Octopus-inspired synthetic ‘skin’ changes appearance on demand</title>
-    <link href="https://www.nature.com/articles/d41586-026-00080-3"/>
-    <id>https://www.nature.com/articles/d41586-026-00080-3</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Nature, Published online: 08 January 2026; doi:10.1038/d41586-026-00080-3 A new material can switch from matte to shiny and display a variety of other effects as required. Plus, humans were using pois</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> A Nature daily briefing on an octopus-inspired synthetic material (plus unrelated archaeology and da Vinci DNA authentication), with no substantive connection to origins-of-life or prebiotic chemistry beyond a tangential DNA mention.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 08 January 2026; doi:10.1038/d41586-026-00080-3 A new material can switch from matte to shiny and display a variety of other effects as required. Plus, humans were using poison arrows 60,000 years ago and the quest to authenticate a da Vinci drawing using DNA.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/d41586-026-00080-3">https://www.nature.com/articles/d41586-026-00080-3</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/d41586-026-00080-3">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [30] PNAS Evolution ▶ Early life-stage thermal resilience is determined by climate-linked regulatory variation</title>
@@ -5871,20 +5785,6 @@
 <p><a href="http://link.aps.org/doi/10.1103/28hd-pwhv">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [5] molecular biology - biorXiv Preprints ▶ Ac-FAPI-04 Promotes Anti-tumor Immunity via IL-27 Activation and Tnfaip3 Inhibition</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Background: Accumulating evidence substantiates the capacity of targeted radionuclide therapy (TRT) to potentiate tumor immunotherapy responses. However, combining TRT and immunotherapies exhibits sub</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
-<p><strong>AI Decision:</strong> This biomedical study shows that [225Ac]Ac-FAPI-04 radionuclide therapy induces DNA damage and remodels the tumor microenvironment via IL-27/JAK-STAT activation and Tnfaip3 downregulation to enhance cytotoxic T cell immunity, but it is not relevant to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Background: Accumulating evidence substantiates the capacity of targeted radionuclide therapy (TRT) to potentiate tumor immunotherapy responses. However, combining TRT and immunotherapies exhibits substantial varying efficacy, underscoring the importance of investigating mechanisms through which TRT remodels the tumor microenvironment (TME). Despite recent advancements, the specific signaling molecules mediated by TRT that regulate the functions of cytotoxic T lymphocytes (CTLs) remain unclear. Methods: Given the demonstrated potential of -radionuclides targeting the fibroblast activation protein (FAP) in TRT, this study employed [225Ac]Ac-FAPI-04 to investigate the mechanisms of TRT-induced TME remodeling. The cytotoxic effects were first evaluated in the B16F10 cell line, followed by an assessment of its in vivo therapeutic efficacy in tumor-bearing mice. RNA-sequencing analysis was utilized to elucidate underlying signaling pathways involving immune responses. Results: [225Ac]Ac-FAPI-04 significantly induced DNA double-strand breaks, further elevated ROS levels, and apoptosis in tumor cells. Transcriptomic profiling revealed that [225Ac]Ac-FAPI-04 activates the IL-27/JAK-STAT pathway to amplify interferon-mediated responses, indicating IL-27 serves as a critical regulatory signal for CTLs during TRT. A concomitant observation was the downregulation of Tnfaip3 following [225Ac]Ac-FAPI-04 treatment. Tnfaip3 is implicated in modulating CTLs&#x27; behavior and intratumoral infiltration, while its downregulation was associated with the upregulation of cytotoxic effector molecules, as confirmed in this study. Conclusion: This study identifies a TRT-induced pattern of synergistic signaling mediated by IL-27 and Tnfaip3, which collectively enhances CTL recruitment and potentiates their cytotoxic function. These findings provide a detailed mechanistic rationale for strategies aimed at augmenting the therapeutic efficacy of TRT and immunotherapy combinations.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698054v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] phys.org - Space News ▶ The electrifying science behind Martian dust</title>
     <link href="https://phys.org/news/2026-01-electrifying-science-martian.html"/>
     <id>https://phys.org/news/2026-01-electrifying-science-martian.html</id>
@@ -5895,48 +5795,6 @@
 <p><strong>Abstract:</strong> Mars, often depicted as a barren red planet, is far from lifeless. With its thin atmosphere and dusty surface, it is an energetic and electrically charged environment where dust storms and dust devils continually reshape the landscape, creating dynamic processes that have intrigued scientists.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-electrifying-science-martian.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ Weak pervasive incompatibilities and compensatory adaptation drive hybrid genome evolution in yeast</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Species barriers limit gene flow and maintain co-adapted genomes. Interspecific hybridization can break down species barriers to reveal genetic incompatibilities. Although the phenotypic and genomic c</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Using engineered recombinant Saccharomyces cerevisiae × S. paradoxus hybrids and lab evolution, the study finds hybrid fitness is shaped mainly by widespread weak, background-dependent genetic incompatibilities and compensatory adaptation rather than rare strong lethal incompatibilities.</p>
-<p><strong>Abstract:</strong> Species barriers limit gene flow and maintain co-adapted genomes. Interspecific hybridization can break down species barriers to reveal genetic incompatibilities. Although the phenotypic and genomic consequences of hybridization have been extensively studied in many systems, far less is known about the longer-term evolutionary dynamics of highly divergent, mosaic genomes and the extent to which genetic incompatibilities shape their adaptation. In yeast, pre-zygotic barriers are weak but post-zygotic barriers are strong due to mispairing of chromosomes during meiosis. By suppressing anti-recombination genes in meiosis, we generated a panel of 20 haploid recombinant hybrids from a cross between Saccharomyces cerevisiae and its sister species, Saccharomyces paradoxus. Across conditions, these hybrids are, on average, less fit than either parent and show broad phenotypic variation. Inheritance patterns of protein complexes in the hybrid genomes reveal no evidence of pairwise lethality but do support a model of pervasive weak negative genetic interactions in hybrid protein complexes. We show by laboratory evolution that each recombinant genome follows a distinct evolutionary trajectory, and a small subset of hybrid protein complexes and loci show hybrid-specific mutational targeting. Finally, we show that species-of-origin alleles can bias evolutionary outcomes by reshaping selection on interacting genes. Together, our results suggest that strong pairwise incompatibilities are rare, while weak, background-dependent incompatibilities are widespread and shape fitness and adaptation in hybrid genomes.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698244v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] biochemistry - biorXiv Preprints ▶ Liquid-liquid phase separation and amyloid aggregation in the 14-3-3 protein family</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>The 14-3-3 protein family, with over 1300 binding partners, is one of the largest regulators of protein-protein interactions (PPIs) in eukaryotic cells. They recognise and bind to phosphorylation-rela</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> In vitro study showing that several eukaryotic 14-3-3 protein isoforms undergo molecular crowding–induced liquid–liquid phase separation and that the ε and θ isoforms can form worm-like amyloid fibrils, offering broad-context insight into biomolecular condensation/aggregation but limited direct relevance to origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> The 14-3-3 protein family, with over 1300 binding partners, is one of the largest regulators of protein-protein interactions (PPIs) in eukaryotic cells. They recognise and bind to phosphorylation-related motifs in their partner proteins, creating scaffolds to stabilise proteins and allowing or inhibiting kinases` access to their targets. 14-3-3 consists of seven isoforms ({beta}, {gamma}, {epsilon}, {zeta}, , {theta} and {sigma}), which are expressed across all tissues. Given their important role in PPIs, their dysregulation can contribute to a variety of diseases, such as cancer or neurodegenerative disorders like Creutzfeldt-Jakob`s, Parkinson`s or Alzheimer`s diseases. Pathological effects can arise due to loss of function, aberrant interactions or protein aggregation. Notably, 14-3-3 aggregates have been detected in Lewy bodies or cerebrospinal fluid, mirroring the presence of amyloid proteins, such as -synuclein or {beta}-amyloid. Toxic amyloid aggregation signals the onset of neurodegeneration, which can occur through misfolding of proteins or liquid-liquid phase separation (LLPS) -- a process during which proteins condense into membraneless organelles. Unlike other amyloidogenic proteins, there is little information on the conditions under which the 14-3-3 protein family members undergo LLPS or their relationship with amyloid aggregation. To address this gap, we examined all isoforms of 14-3-3 in vitro and observed the formation of amyloid aggregates and phase-separated droplets. Our results revealed that the {epsilon} and {theta} isoforms form worm-like fibrils, and molecular crowding conditions promote phase separation in most of the 14-3-3 proteins.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698245v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] bioRxiv Subject Collection: Evolutionary Biology ▶ Phylotranscriptomics Allows Distinguishing Major Gene Flow Events from Incomplete Lineage Sorting in Rapidly Diversifying Mimetic Orchids (Genus Ophrys)</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Ophrys orchids (or bee orchids) provide an outstanding example of a plant adaptive radiation. Over the last five million years, this genus has diversified into hundreds of taxa as a result of its unco</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Phylotranscriptomic analyses of rapidly diversifying Ophrys orchids disentangle widespread incomplete lineage sorting from a few well-supported ancient introgression events shaping their adaptive radiation and pollination evolution.</p>
-<p><strong>Abstract:</strong> Ophrys orchids (or bee orchids) provide an outstanding example of a plant adaptive radiation. Over the last five million years, this genus has diversified into hundreds of taxa as a result of its unconventional pollination strategy, known as &#x27;sexual swindling&#x27;. However, the rapid and substantial diversification of this genus, combined with its capacity for hybridisation and large genome size, poses significant challenges in addressing its systematics. We used phylotranscriptomics as a genome complexity reduction technique to infer the phylogenetic relationships among Ophrys main lineages. More than seven thousand gene trees enabled us to determine the relative contributions of gene flow and incomplete lineage sorting (ILS) in Ophrys evolution. First, we propose a new phylogenetic hypothesis for the genus with an unprecedented resolution that largely confirms the relationships between the main Ophrys lineages, but also provides new insights within each sub-genera. By combining phylogenetic network inference with introgression analyses based on gene tree topologies and branch lengths, we then show that the numerous phylogenetic incongruences among gene tree topologies result from a pervasive background of ILS, over which stand out several well-supported, ancient and potentially adaptive gene flow events between lineages. These major gene flow events provide a new perspective on the evolution of the Ophrys genus and its pollination, questioning previous hypotheses inferred without considering its reticulate evolution, and providing a better understanding of discrepancies observed among previous phylogenetic studies of the genus.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698074v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [45] phys.org - Space News ▶ Simultaneous packing structures in superionic water may explain ice giant magnetic fields</title>
@@ -5961,20 +5819,6 @@
 <p><strong>Abstract:</strong> The conservation of genome regulatory elements over long periods of evolution is not limited to vertebrates, as previously thought, but also in echinoderms (invertebrates). This is one of the most notable conclusions of a study published in the journal Nature Ecology &amp; Evolution, which expands our knowledge of the mechanisms governing genomic regulation and biological evolution.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-genome-regulatory-elements-vertebrates-echinoderms.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Hierarchical bounds on RNA chromatin statistical dependence across cellular states in paired single-cell multiome data</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Understanding how transcriptional output and chromatin accessibility coordinate across cellular states remains a central challenge in multimodal single-cell biology. Here, we establish explicit hierar</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Using paired single-cell RNA-seq and ATAC-seq, the authors apply falsification-driven information theory to show most global RNA–chromatin dependence is explained by cell-state composition, with only weak residual within-state coupling in a few dynamic immune/erythroid states.</p>
-<p><strong>Abstract:</strong> Understanding how transcriptional output and chromatin accessibility coordinate across cellular states remains a central challenge in multimodal single-cell biology. Here, we establish explicit hierarchical empirical bounds on RNA-chromatin statistical dependence using a strictly falsification-driven, information-theoretic analysis of paired RNA-seq and ATAC-seq data. Our contribution is not to assert universal coupling, but to quantify the maximum intra-state coupling that survives adversarial nulls, thereby converting qualitative intuition into empirical bounds. Leveraging unimodal latent representations and adversarial null models, we quantify both the existence and the limits of cross-modal dependence across organizational scales. At the population level, global RNA-ATAC mutual information is strong and reproducible across donors, but is shown to be overwhelmingly dominated by cell-type composition rather than fine-grained regulatory coordination. When cellular state is explicitly controlled, intra-state RNA-ATAC coupling collapses to null expectations in the majority of populations, directly falsifying the hypothesis of a universal within-state regulatory channel. Despite this collapse, a weak but statistically robust residual coupling persists in a restricted subset of highly dynamic states, including erythroid differentiation compartments, activated T cells, and NK cells. This residual signal survives stringent local permutation tests and conditional mutual information analysis, demonstrating that it cannot be reduced to compositional mixing alone. Quantitatively, residual within-state dependence is consistently an order of magnitude smaller than global dependence, placing an empirical upper bound on within-state RNA-ATAC coordination in this dataset. Donor-resolved ratios rho = I(R;A|S)/I(R;A) indicate that most of the global dependence is removed by conditioning on state; operationally, we refer to the removed fraction (1 - rho) as composition-dominated dependence. Throughout, &quot;state-contingent statistical dependence&quot; is used strictly as an operational descriptor rather than a causal claim: mutual information and conditional mutual information quantify statistical dependence only, not directionality or mechanism. This framing constrains downstream mechanistic interpretation and future multimodal modeling.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698181v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Naturally Occurring Network Structures At Vastly Different Scales</title>
@@ -6144,76 +5988,6 @@
 <p><a href="https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] bioinformatics - biorXiv Preprints ▶ DeepKOALA: A Fast and Accurate Deep Learning Framework for KEGG Orthology Assignment</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>The KEGG Orthology (KO) system links DNA and protein sequences to biological functions and pathways, providing a curated, fundamental and consistent annotation framework across all domains of life. Wh</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> DeepKOALA is a fast GRU-based deep learning tool for KEGG Orthology assignment that accelerates large-scale DNA/protein functional annotation but is only indirectly relevant to origins-of-life research as a general bioinformatics enabler.</p>
-<p><strong>Abstract:</strong> The KEGG Orthology (KO) system links DNA and protein sequences to biological functions and pathways, providing a curated, fundamental and consistent annotation framework across all domains of life. While accurate, traditional sequence alignment-based annotation methods are computationally expensive, which severely limits their application in large-scale datasets. To address this challenge, we introduce DeepKOALA, a deep learning approach based on Gated Recurrent Units (GRU), which frames KO annotation as an open-set recognition task. This design reduces false positives arising from out-of-scope sequences and, together with a lightweight GRU backbone, enables high-throughput annotation. The GRU-based model was benchmarked against four other deep learning architectures and showed the best balance between speed and accuracy. We further performed a cross-species evaluation of DeepKOALA in comparison with existing KO annotation tools, where it achieved an F1-score of 0.8653 and 37.5-fold acceleration compared with BlastKOALA. We also provide a specialized fragment model for handling incomplete sequences and an optional Multi-domain mode. Together, these features make DeepKOALA a scalable, efficient, and accurate solution for high-throughput function annotation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698072v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] cell biology - biorXiv Preprints ▶ Dynamic RNA Polymerase compartments organize the transcription of gene clusters</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Spatial organization of transcription machinery is emerging as a key regulator of gene expression, yet how RNA polymerases are organized at gene clusters remains unclear. Here, we show that RNA polyme</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
-<p><strong>AI Decision:</strong> In C. elegans, RNA polymerases II and III self-organize into distinct, cell-cycle-regulated nuclear foci at the 5S rDNA–SL1 gene cluster, with Pol II foci being ATTF-6-dependent and temperature-sensitive in a way that impacts SL1 transcription.</p>
-<p><strong>Abstract:</strong> Spatial organization of transcription machinery is emerging as a key regulator of gene expression, yet how RNA polymerases are organized at gene clusters remains unclear. Here, we show that RNA polymerases II and polymerase III form distinct nuclear foci at the 5S ribosomal DNA (rDNA)-Spliced leader 1 (SL1) cluster in C. elegans. Within this cluster, polymerase II binds to the SL1 gene, while polymerase III associates with 5S rDNA. Both polymerase foci display dynamic but distinct behaviors within the nucleus. The assembly of these polymerase foci is regulated across the cell cycle. ATTF-6, an AT-hook transcription factor, is essential for polymerases II foci formation but dispensable for polymerases III foci. While Pol III foci are largely resistant to temperature changes, Pol II foci are temperature-sensitive, and their dissolution correlates with reduced SL1 expression. Together, these results reveal a spatial and temporal regulation of two RNA polymerases that organize gene cluster transcription.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698080v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] ChemRxiv ▶ The Gated Quantum Resonator: A Bayesian Circuit–Hamiltonian Framework for Catalysis, Enzymology, Materials Science and UPE.</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Molecular dynamics (MD) and hybrid quantum–classical (QM/MM) methods provide powerful tools for simulating chemical and biological systems, yet their application to long-timescale, strongly coupled pr</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Proposes a Bayesian circuit–Hamiltonian “Gated Quantum Resonator” formalism to model catalysis and tunneling/coherence effects in complex reactive systems, offering a potentially useful (but indirect) theoretical tool for origins-of-life chemistry via improved mechanistic discrimination without explicit long-timescale MD/QM-MM trajectories.</p>
-<p><strong>Abstract:</strong> Molecular dynamics (MD) and hybrid quantum–classical (QM/MM) methods provide powerful tools for simulating chemical and biological systems, yet their application to long-timescale, strongly coupled processes remains limited by non-integrability, chaotic sensitivity, and extreme time-scale separation. These limitations motivate complementary formalisms that emphasize structure, constraint, and evidence integration over brute-force trajectory resolution. Here we introduce the Gated Quantum Resonator (GQR) framework, a Bayesian circuit–Hamiltonian formalism in which reactive coordinates are modeled as coupled vibronic–electronic resonators with gateable interactions. Linearization around operating points maps the effective Hamiltonian onto electrical network analogues, enabling transparent parameterization and rapid Bayesian updating from spectroscopic and mechanistic evidence. The framework provides a unified language for describing non-Arrhenius kinetics, tunnelling assisted by constrained vibronic coherence, and mode-selective transport in open quantum systems. Without resolving full many-body trajectories, GQR identifies protected dynamical subspaces in which coherent evolution can persist under environmental coupling. This formulation is applicable across enzymatic catalysis, heterogeneous and electrocatalytic systems, and radiative phenomena, offering a tractable complement to conventional simulation approaches for hypothesis generation, model reduction, and mechanistic discrimination.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-m7wxn-v6?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] nature.com - Nature Physics ▶ A polyhedral structure controls programmable self-assembly</title>
-    <link href="https://www.nature.com/articles/s41567-025-03120-3"/>
-    <id>https://www.nature.com/articles/s41567-025-03120-3</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Nature Physics, Published online: 08 January 2026; doi:10.1038/s41567-025-03120-3 Programmable self-assembly can help construct complex nanostructures. Now a mathematical framework can identify if and</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
-<p><strong>AI Decision:</strong> A Nature Physics framework that predicts whether and how polyhedral architectures can be programmably self-assembled, offering broadly relevant theory for understanding how complex structures could emerge from simple building blocks in prebiotic contexts.</p>
-<p><strong>Abstract:</strong> Nature Physics, Published online: 08 January 2026; doi:10.1038/s41567-025-03120-3 Programmable self-assembly can help construct complex nanostructures. Now a mathematical framework can identify if and how a particular structure can be assembled.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41567-025-03120-3">https://www.nature.com/articles/s41567-025-03120-3</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41567-025-03120-3">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] ChemRxiv ▶ Peptide-Directed Folding of the Elusive RNA i-Motif</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Folded RNA structures are increasingly being recognised as key regulators in biological processes, yet the RNA i-motif remains poorly characterised due to its low stability and lack of selective molec</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
-<p><strong>AI Decision:</strong> Reports a minimalist nucleolin-derived peptide that selectively binds and stabilizes the otherwise unstable RNA i-motif at higher pH, highlighting plausible peptide–RNA recognition mechanisms relevant to early nucleic-acid structural regulation.</p>
-<p><strong>Abstract:</strong> Folded RNA structures are increasingly being recognised as key regulators in biological processes, yet the RNA i-motif remains poorly characterised due to its low stability and lack of selective molecular probes. Here, we describe the first small molecule – a short peptide – that binds the elusive RNA i-motif. Our minimalist peptide RGGFGGRGG is derived from the intrinsically disordered region of the protein Nucleolin and binds to folded RNA over DNA with &gt;5x selectivity. The binding of two peptide molecules folds the RNA i-motif at a higher pH than under native conditions. This folded, peptide-bound structure can still bind other guests, such as the intercalator thiazole orange, displaying heteroallosteric properties. Our peptide binding is driven by more than simple electrostatic attraction, exploiting the subtle differences in steric complementarity and hydration of the compact RNA structures relative to DNA congeners and unfolded strands. Our findings underline the potential of minimalistic peptide scaffolds as selective binders for non-canonical RNA structures, allowing for the probing and modulation of RNA topologies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-csscs?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [65] Complexity Digest ▶ The Physics of Causation</title>
     <link href="https://comdig.unam.mx/2026/01/08/the-physics-of-causation/"/>
     <id>https://comdig.unam.mx/2026/01/08/the-physics-of-causation/</id>
@@ -6226,48 +6000,6 @@
 <li><a href="https://arxiv.org/abs/2601.00515">https://arxiv.org/abs/2601.00515</a></li>
 </ul>
 <p><a href="https://comdig.unam.mx/2026/01/08/the-physics-of-causation/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] ChemRxiv ▶ Efficient nucleic acid delivery in mammalian and plant cells using precisely engineered cationic perylenes</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA</p>
-<p><strong>AI Decision:</strong> Rationally engineered cationic perylene nanocarbons enable efficient DNA/siRNA delivery across mammalian, plant, and difficult-to-transfect stem cells, offering a tunable nucleic-acid handling platform with indirect relevance to origins-of-life experimental toolkits.</p>
-<p><strong>Abstract:</strong> Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging and phototherapy, the use of molecularly well-defined nanocarbons with independently tunable charge and hydrophobicity for gene delivery remains largely unexplored. Herein, we report the rational design and synthesis of a new class of cationic perylene tetraesters for efficient nucleic acid delivery. The lead compound, SMZ052, exhibits delivery efficiencies comparable to those of standard commercial reagents across plasmid DNA and siRNA platforms in mammalian cells, and further enables DNA delivery into plant protoplasts as well as hematopoietic stem cells, a cell type that is typically challenging to transfect. These results establish molecular nanocarbons as a versatile and designable platform for gene delivery and highlight their broad potential across biological systems and translational applications.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Organic Chemistry on ChemRxiv ▶ Efficient nucleic acid delivery in mammalian and plant cells using precisely engineered cationic perylenes</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, DNA</p>
-<p><strong>AI Decision:</strong> ChemRxiv preprint reporting precisely engineered cationic perylene nanocarbons that deliver plasmid DNA and siRNA into mammalian cells and plant protoplasts, offering a tunable nucleic-acid–handling platform with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Nanocarbon materials have emerged as powerful platforms for biological applications, including nucleic acid delivery, bioimaging, and biosensing. While these materials have been explored for imaging and phototherapy, the use of molecularly well-defined nanocarbons with independently tunable charge and hydrophobicity for gene delivery remains largely unexplored. Herein, we report the rational design and synthesis of a new class of cationic perylene tetraesters for efficient nucleic acid delivery. The lead compound, SMZ052, exhibits delivery efficiencies comparable to those of standard commercial reagents across plasmid DNA and siRNA platforms in mammalian cells, and further enables DNA delivery into plant protoplasts as well as hematopoietic stem cells, a cell type that is typically challenging to transfect. These results establish molecular nanocarbons as a versatile and designable platform for gene delivery and highlight their broad potential across biological systems and translational applications.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-d7zzq-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] ChemRxiv ▶ Hierarchical chiral self-assembly of nanocylinders composed of sequence-defined mesogenic dimers</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Chirality can arise through supramolecular curvature that resolves geometric frustrations in the packing of bent, achiral molecular or colloidal building blocks. Here, we leverage orthogonal protectio</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality, self-assembly</p>
-<p><strong>AI Decision:</strong> ChemRxiv study showing how subtle sequence-level changes in achiral mesogenic dimers drive hierarchical self-assembly into spontaneously chiral nanocylinder/spherulite structures, offering mechanistic insight relevant to potential prebiotic origins of chirality.</p>
-<p><strong>Abstract:</strong> Chirality can arise through supramolecular curvature that resolves geometric frustrations in the packing of bent, achiral molecular or colloidal building blocks. Here, we leverage orthogonal protection-deprotection click chemistry to create sequence-defined mesogenic heterodimers exhibiting emergent chirality. We compare the hierarchical self-assembly of the synthesized asymmetric, achiral heterodimers which differ only in the position of a methyl substituent. Both dimers form chiral spherulites composed of nanocylinders. However, the detailed arrangement of nanocylinders depends on the position of the methyl substituent and the crystallization conditions. Despite the chemical similarity, in one dimer, two crystalline forms exhibit optical rotation indicating the presence of chiral domains, while the crystalline phase of the other dimer does not exhibit optical rotation yet adopts a chiral assembly of nanocylinders. We propose that differences in nanocylinder arrangements may arise from changes in nanocylinder curvature and dimensions dictated by the methyl substituent position, inducing these divergent spontaneously chiral behaviors. These results highlight the role of sequence and molecular design in directing the bottom-up hierarchical self-assembly and chirality of mesogenic systems.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-cpz8l?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [5] cond-mat.dis-nn updates on arXiv.org ▶ Multifractality, percolation threshold and critical point of a nuclear reactor</title>
@@ -6674,32 +6406,5 @@
 <li><a href="https://arxiv.org/abs/2601.03930">https://arxiv.org/abs/2601.03930</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2601.03930">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Scientific Reports ▶ Application of various agricultural practices on sorghum forage yield and its association with water use efficiency under deficit irrigation conditions</title>
-    <link href="https://www.nature.com/articles/s41598-025-32544-3"/>
-    <id>https://www.nature.com/articles/s41598-025-32544-3</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary>Scientific Reports, Published online: 08 January 2026; doi:10.1038/s41598-025-32544-3 Application of various agricultural practices on sorghum forage yield and its association with water use efficienc</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> An agronomy study on sorghum forage yield and water-use efficiency under deficit irrigation, with no substantive connection to origins-of-life or astrobiology beyond the generic relevance of water management.</p>
-<p><strong>Abstract:</strong> Scientific Reports, Published online: 08 January 2026; doi:10.1038/s41598-025-32544-3 Application of various agricultural practices on sorghum forage yield and its association with water use efficiency under deficit irrigation conditions</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41598-025-32544-3">https://www.nature.com/articles/s41598-025-32544-3</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41598-025-32544-3">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] nature.com - Biological sciences ▶ Pulsed evolution shaped extant angiosperm pollen disparity</title>
-    <link href="https://www.nature.com/articles/s41467-025-68253-8"/>
-    <id>https://www.nature.com/articles/s41467-025-68253-8</id>
-    <updated>2026-01-08T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Analyzes how episodic (&#x27;pulsed&#x27;) evolutionary dynamics shaped morphological disparity in modern flowering-plant pollen, offering general evolutionary-pattern context but little direct relevance to origins-of-life mechanisms.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-68253-8">https://www.nature.com/articles/s41467-025-68253-8</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-68253-8">Read source article</a></p>]]></content>
   </entry>
 </feed>
