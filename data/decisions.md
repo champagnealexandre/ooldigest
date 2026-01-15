@@ -1,5 +1,46 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [Discovery of a Dual-Target DNAzyme for Clostridioides diffic](https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Functionality Driven Dimensionality Modulation for Charge Tr](https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss) |
+| ai_scored | 47 | [Geometric origin of hierarchical patterns through history-de](https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss) |
+| ai_scored | 5 | [Brain Region-Specific Oligodendrocyte States Highlight Mitoc](https://www.biorxiv.org/content/10.64898/2026.01.14.699226v1?rss=1) |
+| ai_scored | 10 | [Sodium Sulfate in the Li-ion Battery Industry: 
+Challenges, ](https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 45 | [Assigning the Stereochemistry of Natural Products by Machine](https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss) |
+| ai_scored | 50 | [Assigning the Stereochemistry of Natural Products by Machine](https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss) |
+| ai_scored | 2 | [Multinary Tellurates as Energy Storage Materials](https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 20 | [The Role of Na2CO3 in the Selective Flotation of Ca-activate](https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [A supervised ontology-aware cell annotation method forsingle](https://www.biorxiv.org/content/10.64898/2026.01.13.699356v1?rss=1) |
+| keyword_rejected | - | [EvolCAF: Automatic Cost-Aware Acquisition Function Design Us](https://pubmed.ncbi.nlm.nih.gov/41505501/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260114222746&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [H3K27me3-dependent imprinting and transcriptional regulation](https://www.nature.com/articles/s41467-026-68467-4) |
+| keyword_rejected | - | [H3K27me3-dependent imprinting and transcriptional regulation](https://www.nature.com/articles/s41467-026-68467-4) |
+| keyword_rejected | - | [A concise 9-step synthesis of the Apratoxin polyketide fragm](https://dx.doi.org/10.26434/chemrxiv-2025-jtmsl-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Total Biosynthesis and Engineering of Cinatrins: Inhibitors ](https://dx.doi.org/10.26434/chemrxiv-2026-lv8gm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [DFT-guided discovery of bisureido ester of 2-(methylthio)eth](https://dx.doi.org/10.26434/chemrxiv-2026-tql3f?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Covalent Peptide-Encoded Libraries Enable Discovery of Inhib](https://dx.doi.org/10.26434/chemrxiv-2026-z6vkt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Defining the Complete Chemical Space of π-Conjugated Hydroca](https://dx.doi.org/10.26434/chemrxiv-2025-ldqfv-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [High Brightness in Bis(tri-isopropylsilyl)ethynyl-Functional](https://dx.doi.org/10.26434/chemrxiv-2025-jxf1j-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Unifying phylogenetic traversal and deep learning to guide t](https://www.biorxiv.org/content/10.64898/2026.01.14.699358v1?rss=1) |
+| keyword_rejected | - | [Sequence constraints predispose Class D GPCRs to follow an a](https://www.biorxiv.org/content/10.64898/2026.01.14.699465v1?rss=1) |
+| keyword_rejected | - | [A concise 9-step synthesis of the Apratoxin polyketide fragm](https://dx.doi.org/10.26434/chemrxiv-2025-jtmsl-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Total Biosynthesis and Engineering of Cinatrins: Inhibitors ](https://dx.doi.org/10.26434/chemrxiv-2026-lv8gm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Engineering cell permeable functional bicyclic peptides by a](https://dx.doi.org/10.26434/chemrxiv-2026-18t8q?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [ADMETrix: ADMET-Driven De Novo Molecular Generation](https://dx.doi.org/10.26434/chemrxiv-2025-3x5nq-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [DFT-guided discovery of bisureido ester of 2-(methylthio)eth](https://dx.doi.org/10.26434/chemrxiv-2026-tql3f?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Covalent Peptide-Encoded Libraries Enable Discovery of Inhib](https://dx.doi.org/10.26434/chemrxiv-2026-z6vkt?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Defining the Complete Chemical Space of π-Conjugated Hydroca](https://dx.doi.org/10.26434/chemrxiv-2025-ldqfv-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Benchmarking of Vibrational Exciton Models Against Quantum-C](https://dx.doi.org/10.26434/chemrxiv-2024-s2jgl-v3?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Tuning the Viscoelastic Properties of 
+Dioxazaborocane Vitri](https://dx.doi.org/10.26434/chemrxiv-2025-g0hmv-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A direct LC–MS/MS method for simultaneous quantitation of bi](https://dx.doi.org/10.26434/chemrxiv-2026-9h99h-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [In Silico Isomerization Produces Apt Negative Data for VHTS ](https://dx.doi.org/10.26434/chemrxiv-2026-bgc3j-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Advancing Calcium-Ion Batteries with a Novel Hydrated Eutect](https://dx.doi.org/10.26434/chemrxiv-2025-hxjcm-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [High Brightness in Bis(tri-isopropylsilyl)ethynyl-Functional](https://dx.doi.org/10.26434/chemrxiv-2025-jxf1j-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Rapid, sustainable and scalable synthesis of nanocrystalline](https://dx.doi.org/10.26434/chemrxiv-2025-l4n3s-v2?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Origin-1: a generative AI platform for de novo antibody desi](https://www.biorxiv.org/content/10.64898/2026.01.14.699389v1?rss=1) |
+| keyword_rejected | - | [Proteome-wide C-degron activity profiling connects condition](https://www.biorxiv.org/content/10.64898/2026.01.14.698769v1?rss=1) |
+| keyword_rejected | - | [Selective class IIa HDAC inhibition reverses diastolic dysfu](https://www.biorxiv.org/content/10.64898/2026.01.14.699428v1?rss=1) |
+| keyword_rejected | - | [Templating and confining calcium phosphate mineralization wi](https://www.biorxiv.org/content/10.64898/2026.01.14.699524v1?rss=1) |
 | ai_scored | 35 | [Mutualistic microbes drive niche expansion yet constrain div](https://www.biorxiv.org/content/10.64898/2026.01.14.699472v1?rss=1) |
 | ai_scored | 25 | [Quantitative Full-length transcriptome analysis by nanopore ](https://www.biorxiv.org/content/10.64898/2026.01.14.699429v1?rss=1) |
 | ai_scored | 15 | [Engineered Allosteric Control Enhances Specificity and Poten](https://www.biorxiv.org/content/10.64898/2026.01.13.698514v1?rss=1) |

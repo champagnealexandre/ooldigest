@@ -3,8 +3,148 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T01:20:07.725166+00:00</updated>
+  <updated>2026-01-15T03:28:02.260400+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ A supervised ontology-aware cell annotation method forsingle-cell transcriptomic data</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.13.699356v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.13.699356v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Many single-cell RNA-seq annotation methods ignore the hierarchical nature of cell type classification. We present a probability propagation strategy that enforces ontological consistency and improves</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces SOCAM, an ontology-consistent supervised method for annotating single-cell RNA-seq data via probability propagation and a large-scale logistic regression classifier, improving hierarchical cell type classification and evaluation.</p>
+<p><strong>Abstract:</strong> Many single-cell RNA-seq annotation methods ignore the hierarchical nature of cell type classification. We present a probability propagation strategy that enforces ontological consistency and improves performance when applied to existing models without retraining. Combined with a lightweight logistic regression model trained on 42 million human cells, this yields SOCAM, a fast and interpretable classifier. We also introduce a hop-based F1 score for ontology-aware evaluation. Code and models are available open source.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699356v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.13.699356v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.13.699356v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] ChemRxiv ▶ The Role of Na2CO3 in the Selective Flotation of Ca-activated Spodumene and Quartz</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Spodumene separation from gangue minerals such as quartz is challenging, as both silicate minerals are activated by metal cations, naturally present in process water, like Ca2+. Research has shown tha</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Computational/spectroscopic study of how Na2CO3 selectively depresses Ca-activated quartz (vs spodumene) during fatty-acid flotation in process water, with limited direct relevance to origins-of-life beyond general mineral–surface chemistry context.</p>
+<p><strong>Abstract:</strong> Spodumene separation from gangue minerals such as quartz is challenging, as both silicate minerals are activated by metal cations, naturally present in process water, like Ca2+. Research has shown that when used as a pH modifier, Na2CO3 can depress both minerals, to different degrees, in the presence of Ca2+, but the mechanisms remain unclear. We use spectroscopic and computational methods to examine the interaction of Na2CO3 with Ca-activated quartz and spodumene surfaces in the presence of sodium oleate (NaOL) and the consequences for their selective flotation. Our results indicate that adsorption competition between the collector (Ca/OL complexes) and depressant (CaCO3) species occurs on spodumene and quartz surfaces. We provide detailed mechanisms of the interactions, including with respect to the adsorbed species, their relative amounts, surface charge, and the adsorption strengths. Although both the collector and depressant were adsorbed onto both minerals, the collector had more affinity for spodumene than quartz (-296.14 kJ/mol vs -192.99 kJ/mol), unlike the depressant (-288.55 kJ/mol vs -311.59 kJ/mol), hence the soda ash induced surface deprotonation and desorption of Ca/OL complexes from quartz during conditioning, but not from spodumene. Unlike quartz, which had only Ca as the surface site for reagent adsorption, spodumene also had surface Al sites. The results explain the limited depression of spodumene and the total depression of quartz in flotation using fatty acid-based collectors. Specifically, in the presence of Ca2+, Na2CO3 treatment increased the Li2O grades from 2.53 to 4.40 %, while maintaining a high lithium recovery of 71 %. Overall, the study demonstrated that, in addition to being a pH modifier, Na2CO3 acts as a selective quartz depressant in the Ca-activated flotation of spodumene-quartz, making it a more effective pH modifier than NaOH directly prior to spodumene flotation. Since quartz is a common gangue mineral in most flotation systems, these findings can be applied to benefit other flotation systems.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-w6v3s-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [2] ChemRxiv ▶ Multinary Tellurates as Energy Storage Materials</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Multinary tellurates, particularly those with quaternary and ternary compositions, form a unique group of compounds known for their diverse structural frameworks and notable electrochemical properties</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
+<p><strong>AI Decision:</strong> Review of multinary tellurate compounds focused on their structural/electrochemical properties for next-generation energy storage, with no substantive connection to origins-of-life or astrobiology themes.</p>
+<p><strong>Abstract:</strong> Multinary tellurates, particularly those with quaternary and ternary compositions, form a unique group of compounds known for their diverse structural frameworks and notable electrochemical properties. This review brings together current knowledge about these materials, organising them based on their main mobile cation families (i.e., alkali, alkaline-earth, and coinage metals) and highlighting their promise in energy storage applications and beyond. Beyond simply reviewing these material classes, it also suggests future research directions aimed at establishing multinary tellurates as versatile functional materials in the swiftly evolving field of next-generation energy storage and related technologies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-vl2v0-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Organic Chemistry on ChemRxiv ▶ Assigning the Stereochemistry of Natural Products by Machine Learning</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> A machine-learning language model (NPstereo) predicts natural-product stereochemistry from 2D structures, highlighting learnable biosynthetic chirality patterns that may inform how stereochemical biases arise and are recognized in biological chemistry.</p>
+<p><strong>Abstract:</strong> Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by common biosynthetic pathways. Here we asked the question whether these regularities might be sufficiently prevalent among natural products (NPs) such that their stereochemistry could be machine learned and assigned automatically. Indeed, we report that a language model can be trained to assign the stereochemistry of NPs using the open access NP database COCONUT. In detail, our language model, called NPstereo, translates an NP structure written as absolute SMILES into the corresponding isomeric SMILES notation containing stereochemical information, with 80.2% per-stereocenter accuracy for full assignments and 85.9% per-stereocenter accuracy for partial assignments, across various NP classes including secondary metabolites such as alkaloids, polyketides, lipids and terpenes. NPstereo might be useful to assign or correct the stereochemistry of newly discovered NPs. Scientific contribution: Our study reports that a language model, NPstereo, can learn and predict the stereochemistry of natural products (NPs) from their 2D structures with high accuracy. This work demonstrates that NP stereochemical patterns are machine learnable from data and represents a first step for scalable computational methodologies for stereochemical assignment of newly discovered NPs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Assigning the Stereochemistry of Natural Products by Machine Learning</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> chirality</p>
+<p><strong>AI Decision:</strong> A machine-learning language model (NPstereo) predicts stereochemistry of natural products from 2D structures, offering a data-driven handle on biological stereochemical regularities relevant to chirality discussions in origins-of-life contexts.</p>
+<p><strong>Abstract:</strong> Nature has settled for L-chirality for proteinogenic amino acids and D-chirality for the carbohydrate backbone of nucleotides. Further stereochemical patterns exist among natural products produced by common biosynthetic pathways. Here we asked the question whether these regularities might be sufficiently prevalent among natural products (NPs) such that their stereochemistry could be machine learned and assigned automatically. Indeed, we report that a language model can be trained to assign the stereochemistry of NPs using the open access NP database COCONUT. In detail, our language model, called NPstereo, translates an NP structure written as absolute SMILES into the corresponding isomeric SMILES notation containing stereochemical information, with 80.2% per-stereocenter accuracy for full assignments and 85.9% per-stereocenter accuracy for partial assignments, across various NP classes including secondary metabolites such as alkaloids, polyketides, lipids and terpenes. NPstereo might be useful to assign or correct the stereochemistry of newly discovered NPs. Scientific contribution: Our study reports that a language model, NPstereo, can learn and predict the stereochemistry of natural products (NPs) from their 2D structures with high accuracy. This work demonstrates that NP stereochemical patterns are machine learnable from data and represents a first step for scalable computational methodologies for stereochemical assignment of newly discovered NPs.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2024-zz9pw-v4?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] ChemRxiv ▶ Sodium Sulfate in the Li-ion Battery Industry: Challenges, Opportunities, and Emerging Valorization Strategies</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>The rapid expansion of the lithium-ion battery (LIB) industry has resulted in a significant increase in sodium sulfate (Na2SO4) generation, making it one of the most abundant inorganic by-products acr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> A perspective on where sodium sulfate by-products arise across the lithium-ion battery lifecycle and how industry might reduce, reuse, or valorize this waste stream, with no direct connection to origins-of-life research.</p>
+<p><strong>Abstract:</strong> The rapid expansion of the lithium-ion battery (LIB) industry has resulted in a significant increase in sodium sulfate (Na2SO4) generation, making it one of the most abundant inorganic by-products across the entire battery value chain. Na2SO4 is formed at multiple stages, during the lithium ore processing, the synthesis of nickel-manganese-cobalt (NMC) precursors or upon the hydrometallurgical recycling of production scraps and end-of-life LIBs. This growing volume of Na2SO4 presents serious environmental and economic challenges, particularly at the industrial scale, where wastewater management is becoming increasingly problematic. In this perspective article, we first assess the origins and quantities of Na2SO4 generated throughout the LIB lifecycle, then, we review current large-scale utilization practices and evaluate recent literature on emerging valorization strategies. While conventional reuse options remain limited, several approaches including new developments and processes to reduce Na2SO4 generation, upcycling of Na2SO4 into higher-value products, or reintegrating it into the battery supply chain appear to be promising and sustainable paths forward. Overall, this work underscores the urgency of addressing Na2SO4 accumulation and outlines diverse valorization opportunities within and beyond the battery industry.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-lzph8-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Brain Region-Specific Oligodendrocyte States Highlight Mitochondrial Gene Upregulation and Loss of Canonical Identity Signatures in Alzheimers Disease</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699226v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699226v1?rss=1</id>
+    <updated>2026-01-14T00:00:00Z</updated>
+    <summary>Oligodendrocyte dysfunction and heterogeneity are emerging as key contributors to Alzheimers disease (AD) pathology, though cellular mechanisms remain unclear. Using single-nucleus RNA sequencing acro</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Single-nucleus RNA-seq reveals region- and AD-specific oligodendrocyte transcriptomic shifts (notably mitochondrial gene upregulation and loss of canonical markers), but it is largely unrelated to origins-of-life research aside from incidental RNA keyword overlap.</p>
+<p><strong>Abstract:</strong> Oligodendrocyte dysfunction and heterogeneity are emerging as key contributors to Alzheimers disease (AD) pathology, though cellular mechanisms remain unclear. Using single-nucleus RNA sequencing across three cortical regions from the same individuals, we identified region- and disease-specific transcriptomic changes, including increased mitochondrial genes and loss of cell type signatures. These results highlight the importance of biologically-informed quality control and underscore the value of multi-regional analysis for understanding AD pathogenesis and progression.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699226v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699226v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699226v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [47] ChemRxiv ▶ Geometric origin of hierarchical patterns through history-dependent growth and arrest</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Hierarchical patterns are widespread in natural and synthetic systems, yet their formation is most often interpreted through diffusion-driven instabilities or static geometric constructions. While suc</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces a diffusion-free geometric growth-and-arrest model (TRACE) that generates hierarchical patterns by recording growth history through exclusion, offering a potentially relevant physical mechanism for prebiotic-style compartmentalization and structure formation in out-of-equilibrium systems.</p>
+<p><strong>Abstract:</strong> Hierarchical patterns are widespread in natural and synthetic systems, yet their formation is most often interpreted through diffusion-driven instabilities or static geometric constructions. While successful in many contexts, these frameworks struggle to encode growth history, temporal asymmetry, and pattern formation in non-diffusive, out-of-equilibrium systems. Here, I introduce the TRACE model (Temporal Recording through Arrested Coupled Evolution), a minimal framework in which pattern formation emerges from the competition between front propagation and kinetic arrest, without invoking diffusive transport. Growing domains leave geometric footprints that record their individual growth histories through exclusion. Numerical simulations reveal a broad spectrum of emergent patterns—including cell-like domains, stripes, banded structures, and hierarchical boundaries—arising from variations in spatial confinement, nucleation timing, and domain density. Crucially, the number and scale of patterns depend on accumulated domain interactions rather than nucleation alone. Finally, the model qualitatively reproduces key features observed in a minimal two-component chemical system exhibiting hierarchical macroscopic pattern formation, establishing a diffusion-free route to hierarchy encoded as a geometric record of growth history.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5sdw8?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] ChemRxiv ▶ Functionality Driven Dimensionality Modulation for Charge Transportation in Silver Cluster Assemblies</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Cluster-assembled materials (CAMS) are an emerging category of modular solids that interconnect atomic precision with functional tunability. This work highlights ligand-induced dimensionality control </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Materials-chemistry preprint showing ligand-controlled 2D vs 3D Ag12 cluster assemblies with tunable charge transport and electrocatalytic urea oxidation/water electrolysis in alkaline seawater, but with minimal direct relevance to origins-of-life processes.</p>
+<p><strong>Abstract:</strong> Cluster-assembled materials (CAMS) are an emerging category of modular solids that interconnect atomic precision with functional tunability. This work highlights ligand-induced dimensionality control in Ag12 cluster-based assemblies, achieved through functionalization of the organic linker. Two distinct cluster assemblies were fabricated from the geometrically distinct Ag12 core utilizing pyrazine and 2 amino-pyrazine linkers. A three-dimensional (SSICG20) framework was achieved through the accumulation of Ag12 cluster core pyrazine as a bridging ligand, while the latter one constructs a two-dimensional (SSICG21) sheet-like structure. Both frameworks exhibit distinct architectures with modulating charge transfer capability, particularly evidenced through their applicability in the charge transport measurements via linear device preparation and electro catalytic urea oxidation reaction. In investigations of the I-V measurements, both SSICG20 and SSICG21 demonstrated stable ON/OFF ratios throughout 1000 cycles, followed by SSICG20 showing superior memory response. Aligned with its superior switching response, SSICG20 showed promising catalytic efficiency in the electro catalytic urea oxidation reaction in harsh alkaline seawater conditions, with a significantly reduced onset potential of 110 mV at a current density of 10 mA, surpassing its 2D counterpart. A sustainable solar-driven overall water electrolysis experiment was also employed, which showed quite an optimistic efficiency. Collectively, this work provides a fundamental insight into the interplay of charge transportation on silver cluster assembly via dimensionality Modulation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-b77k6?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] ChemRxiv ▶ Discovery of a Dual-Target DNAzyme for Clostridioides difficile and Listeria monocytogenes Diagnostics</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Rapid and reliable detection of Clostridioides difficile is essential for clinical diagnosis and infection control. Building on our group’s prior development of RNA-cleaving fluorogenic DNAzymes (RFDs</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Reports a highly efficient fluorogenic RNA-cleaving DNAzyme biosensor that unexpectedly responds to both C. difficile and L. monocytogenes, offering a notable example of nucleic-acid catalysis and selective activation (though aimed at diagnostics rather than origins-of-life mechanisms).</p>
+<p><strong>Abstract:</strong> Rapid and reliable detection of Clostridioides difficile is essential for clinical diagnosis and infection control. Building on our group’s prior development of RNA-cleaving fluorogenic DNAzymes (RFDs) for bacterial recognition, we report RFD-CD3, a fluorogenic DNAzyme with the highest catalytic efficiency reported to date for C. difficile-responsive DNAzymes, achieving a detection limit of 10³ CFU/mL and a catalytic rate constant (kobs) of 0.16 min⁻¹ for its engineered trans-acting variant (RFD-CD3-TM2). This trans-acting form also retains high activity and provides modularity for biosensor design, further extending the versatility of this platform. Unexpectedly, RFD-CD3 also responds to Listeria monocytogenes, making it the first DNAzyme known to be selectively activated by two phylogenetically distinct bacterial species. As no RFD has previously been reported for L. monocytogenes, this discovery opens new opportunities for DNAzyme-based biosensing of a clinically and food-relevant pathogen. The distinct clinical contexts of the two targets—C. difficile in stool and L. monocytogenes in blood or food—highlight the potential of RFD-CD3 as a versatile molecular tool suited to multiple diagnostic applications. RFD-CD3 also remains catalytically active at alkaline pH, enhancing its stability in nuclease-rich biological samples. Together, these features position RFD-CD3 as a promising dual-target platform for high-performance diagnostics in both clinical and food safety applications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] Scientific American ▶ Astronauts Evacuate the ISS after Medical Incident</title>
     <link href="https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/"/>
