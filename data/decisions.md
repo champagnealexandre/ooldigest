@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Genomic footprints of historical introgression between ancie](https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1) |
+| ai_scored | 15 | [Assembling unregulated DNA segments bypasses synthesis scree](https://www.nature.com/articles/s41467-025-67955-3) |
+| ai_scored | 25 | [Evolutionary rescue from antagonistic invaders: Birth-limiti](https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1) |
+| ai_scored | 30 | [Inferring chromatin architecture at a single locus through p](https://www.nature.com/articles/s41467-026-68460-x) |
+| ai_scored | 0 | [Mechanistically guided residual learning for battery state m](https://www.nature.com/articles/s41467-025-67565-z) |
+| keyword_rejected | - | [Mosquitoes Show a Clear Preference for Human Blood after Def](https://www.scientificamerican.com/article/mosquitoes-show-a-clear-preference-for-human-blood-after-deforestation/) |
+| keyword_rejected | - | [Making progress on global health will need high-quality evid](https://www.nature.com/articles/d41586-026-00073-2) |
+| keyword_rejected | - | [Nationwide genetic screening proves effective at catching di](https://www.nature.com/articles/d41586-026-00035-8) |
+| keyword_rejected | - | [Traceability for protein sequence to function](https://www.nature.com/articles/s41567-025-03130-1) |
+| keyword_rejected | - | [A star of contradictions](https://www.nature.com/articles/s41567-025-03151-w) |
+| keyword_rejected | - | [An alternate chapter in magnetism](https://www.nature.com/articles/s41567-025-03149-4) |
+| keyword_rejected | - | [An anniversary annum](https://www.nature.com/articles/s41567-025-03152-9) |
+| keyword_rejected | - | [Preferential play](https://www.nature.com/articles/s41567-025-03162-7) |
+| keyword_rejected | - | [Enabling automatic generation of protein-ligand complex data](https://www.biorxiv.org/content/10.64898/2026.01.15.699426v1?rss=1) |
+| keyword_rejected | - | [Viscoelastic flow-integrated Raman spectroscopy platform](https://www.biorxiv.org/content/10.64898/2026.01.13.699233v1?rss=1) |
 | ai_scored | 10 | [The origin and evolution of amphibious hearing in pinnipeds](https://www.biorxiv.org/content/10.64898/2026.01.14.699601v1?rss=1) |
 | ai_scored | 45 | [Practical integration of machine learning into ab initio cal](https://dx.doi.org/10.26434/chemrxiv-2025-xn2mp-v3?rft_dat=source%3Ddrss) |
 | ai_scored | 30 | [Gene genealogies in diploid populations evolving according t](https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1) |

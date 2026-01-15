@@ -3,8 +3,76 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-15T16:30:38.800807+00:00</updated>
+  <updated>2026-01-15T17:28:41.352352+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] Nature Communications ▶ Mechanistically guided residual learning for battery state monitoring throughout life</title>
+    <link href="https://www.nature.com/articles/s41467-025-67565-z"/>
+    <id>https://www.nature.com/articles/s41467-025-67565-z</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-025-67565-z Ensuring accurate state monitoring is vital for battery safety and efficiency in electric vehicles. Here, autho</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Presents a mechanistically guided machine-learning approach for monitoring lithium-ion battery state-of-health over its lifespan, with no direct relevance to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 15 January 2026; doi:10.1038/s41467-025-67565-z Ensuring accurate state monitoring is vital for battery safety and efficiency in electric vehicles. Here, authors present mechanistically guided residual learners that integrate mechanistic knowledge and machine learning to enable continuous, reliable battery state tracking over the entire lifespan.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-67565-z">https://www.nature.com/articles/s41467-025-67565-z</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-67565-z">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] nature.com - Biological sciences ▶ Inferring chromatin architecture at a single locus through probabilistic in situ DNA localization</title>
+    <link href="https://www.nature.com/articles/s41467-026-68460-x"/>
+    <id>https://www.nature.com/articles/s41467-026-68460-x</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Presents a probabilistic imaging-based method to infer 3D chromatin architecture at a specific genomic locus in situ, advancing eukaryotic genome organization studies but with limited direct relevance to origins-of-life research.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68460-x">https://www.nature.com/articles/s41467-026-68460-x</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68460-x">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolutionary rescue from antagonistic invaders: Birth-limiting competition among residents can aid rescue</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>From invasive predators displacing wildlife to medically deployed bacteriophages eliminating pathogens, biological invasions by antagonists are a fundamental driver of extinction, with implications fo</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Analytical theory predicts when resident populations can avoid extinction via evolutionary rescue during antagonistic invasions, showing that invader victim specificity and lower resident birth rates (especially via birth-limiting competition) can increase mutant establishment and rescue probability.</p>
+<p><strong>Abstract:</strong> From invasive predators displacing wildlife to medically deployed bacteriophages eliminating pathogens, biological invasions by antagonists are a fundamental driver of extinction, with implications for both conservation and medicine. Resident populations facing such invasions can sometimes avoid extinction through adaptation, a process known as evolutionary rescue. Here, an analytical approximation is derived for the probability of evolutionary rescue from antagonistic invaders, focusing on how rescue depends on a key antagonist trait--victim specificity. Rescue is shown to be most likely either when invaders are slow-spreading, resident-dependent specialists whose failure to encounter suitable victims buys time for mutation, or when invaders are fast-spreading generalists that rapidly relieve standing genetic variation of intraspecific competition. The central result is that, whether invaders are generalists or specialists, a lower resident birth rate can facilitate rescue relative to a higher one by reducing the effect of demographic stochasticity on mutant establishment. If the lower birth rate is density-independent, it primarily promotes rescue from generalists, whereas if it arises from birth-limiting competition it can also appreciably aid rescue from specialists. Overall, the results suggest that invader victim specificity can reshape evolutionary rescue by dynamically coupling the rate of resident decline to the growth rate of the stressor driving the decline, with resident life history mediating the outcome.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699172v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] nature.com - Biological sciences ▶ Assembling unregulated DNA segments bypasses synthesis screening: regulate fragments as select agents</title>
+    <link href="https://www.nature.com/articles/s41467-025-67955-3"/>
+    <id>https://www.nature.com/articles/s41467-025-67955-3</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Reports that assembling short, unregulated DNA fragments can bypass current gene-synthesis screening, arguing for regulation of certain fragments as select agents (biosecurity-focused, not origins-of-life research).</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-025-67955-3">https://www.nature.com/articles/s41467-025-67955-3</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-025-67955-3">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Genomic footprints of historical introgression between ancient lineages of wild Oryza AA-genome species with widely separated contemporary distributions</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1</id>
+    <updated>2026-01-15T00:00:00Z</updated>
+    <summary>Phylogenetic incongruence is increasingly recognized as pervasive, yet the extent to which reticulate evolution occurs between groups separated by substantial geographical distances and deep phylogene</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Genome-wide phylogenetic discordance analyses in AA-genome wild rice support ancient introgression between deeply divergent, geographically separated lineages, illustrating how reticulate evolution can shape modern genomes.</p>
+<p><strong>Abstract:</strong> Phylogenetic incongruence is increasingly recognized as pervasive, yet the extent to which reticulate evolution occurs between groups separated by substantial geographical distances and deep phylogenetic divergence remains poorly characterized. In the Oryza AA-genome group--a model for plant speciation and domestication--the traditional bifurcation model posits that Australian Oryza meridionalis and African Oryza longistaminata occupy basal branches, distinct from the more recently diversified monophyletic clade comprising Asian and other African lineages, including major cultivars. However, recent evidence from endogenous viral sequences has hinted at unexpected genetic relatedness between African O. longistaminata and Asian Oryza sativa, which are geographically and phylogenetically distant. Here, we conducted a genome-wide survey across 11 Oryza species to systematically identify genomic regions exhibiting phylogenetic incongruence. Widespread phylogenetic discordance was observed, notably involving genomic segments in which O. longistaminata showed phylogenetic proximity to Asian species, contradicting their established deep divergence. To distinguish between introgression and incomplete lineage sorting, we performed four-taxon ABBA-BABA tests, which provided statistical support for introgression. Furthermore, divergence time estimates for these incongruent regions were younger than the species divergence times, suggesting historical introgression between the ancestors of lineages that are currently separated by vast geographical distances. Systematic assessments indicated that potential analytical artifacts, such as compositional bias and substitution saturation, were unlikely to explain the observations. These convergent lines of evidence suggest that ancient introgression had occurred between currently geographically separated and evolutionarily divergent Oryza lineages, leaving detectable footprints across their modern genomes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.14.699414v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Gene genealogies in diploid populations evolving according to sweepstakes reproduction</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699673v1?rss=1"/>
@@ -6689,21 +6757,6 @@
 <p><a href="https://astrobiology.com/2026/01/naturally-occurring-space-weather-station-elucidates-new-way-to-study-habitability-of-planets-orbiting-m-dwarf-stars.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Direct Constraints From 1.4 Ga Fluid Inclusions Reveal A Fair Climate And Oxygenated Atmosphere</title>
-    <link href="https://astrobiology.com/2026/01/direct-constraints-from-1-4-ga-fluid-inclusions-reveal-a-fair-climate-and-oxygenated-atmosphere.html"/>
-    <id>https://astrobiology.com/2026/01/direct-constraints-from-1-4-ga-fluid-inclusions-reveal-a-fair-climate-and-oxygenated-atmosphere.html</id>
-    <updated>2026-01-08T16:50:00Z</updated>
-    <summary>The Mesoproterozoic eon, often regarded as mundane and static, lays the foundation for dramatic transformations in Earth’s physical and biological evolution during the subsequent Neoproterozoic. A con</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, astrobio*</p>
-<p><strong>AI Decision:</strong> Fluid-inclusion constraints on 1.4 Ga climate and atmospheric oxygen provide important context for long-term planetary habitability and biosignature interpretation, though they are not directly focused on the origin of life mechanisms.</p>
-<p><strong>Abstract:</strong> The Mesoproterozoic eon, often regarded as mundane and static, lays the foundation for dramatic transformations in Earth’s physical and biological evolution during the subsequent Neoproterozoic. A conspicuous absence of glaciation suggests a billion years of warm climates, yet the relationship between temperature and greenhouse gas concentrations remains enigmatic. Separately, contradictory estimates of atmospheric oxygen levels […] The post Direct Constraints From 1.4 Ga Fluid Inclusions Reveal A Fair Climate And Oxygenated Atmosphere appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.pnas.org/doi/10.1073/pnas.2513030122">https://www.pnas.org/doi/10.1073/pnas.2513030122</a></li>
-<li><a href="https://doi.org/10.1073/pnas.2513030122">https://doi.org/10.1073/pnas.2513030122</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/direct-constraints-from-1-4-ga-fluid-inclusions-reveal-a-fair-climate-and-oxygenated-atmosphere.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Astronomers Find Missing Link To Our Galaxy’s Most Common Planets</title>
     <link href="https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html"/>
     <id>https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html</id>
@@ -6716,20 +6769,6 @@
 <li><a href="https://www.nature.com/articles/s41586-025-09840-z">https://www.nature.com/articles/s41586-025-09840-z</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/astronomers-find-missing-link-to-our-galaxys-most-common-planets.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Extreme Environmental Tolerance And Space Survivability Of The Moss, Physcomitrium patens</title>
-    <link href="https://astrobiology.com/2026/01/extreme-environmental-tolerance-and-space-survivability-of-the-moss-physcomitrium-patens.html"/>
-    <id>https://astrobiology.com/2026/01/extreme-environmental-tolerance-and-space-survivability-of-the-moss-physcomitrium-patens.html</id>
-    <updated>2026-01-08T16:53:00Z</updated>
-    <summary>Climate change highlights the importance of understanding life’s survival limits for addressing global challenges and supporting future human habitation beyond Earth. Plants, as photosynthetic organis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> Reviews the extreme stress tolerance and potential space-survivability of the model moss Physcomitrium patens, informing limits of plant life and habitability in extraterrestrial environments rather than directly addressing origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Climate change highlights the importance of understanding life’s survival limits for addressing global challenges and supporting future human habitation beyond Earth. Plants, as photosynthetic organisms, play a vital role in sustaining life. Bryophytes, such as mosses, show notable extremotolerance, but despite studies on environmental responses in the model moss Physcomitrium patens, its survival under extreme […] The post Extreme Environmental Tolerance And Space Survivability Of The Moss, Physcomitrium patens appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12767186/">https://pmc.ncbi.nlm.nih.gov/articles/PMC12767186/</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/extreme-environmental-tolerance-and-space-survivability-of-the-moss-physcomitrium-patens.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Estimation Of The Tidal Heating In The TRAPPIST-1 Planets. Influence Of The Internal Structure</title>
@@ -6760,29 +6799,5 @@
 <li><a href="https://doi.org/10.64898/2026.01.02.697360v1">https://doi.org/10.64898/2026.01.02.697360v1</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/taxonomic-description-of-uncultured-cyanobacteria-from-extreme-habitats-through-genome-based-classification.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] phys.org - Space News ▶ Earliest known barred spiral galaxy spotted just 2 billion years after Big Bang</title>
-    <link href="https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html"/>
-    <id>https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html</id>
-    <updated>2026-01-08T17:06:59Z</updated>
-    <summary>Research led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at Pitt, uncovered a contender for one of the earliest observed spiral ga</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Reports an early barred spiral galaxy discovery relevant to galactic evolution context but with no direct connection to origins-of-life mechanisms or astrobiological targets.</p>
-<p><strong>Abstract:</strong> Research led by Daniel Ivanov, a physics and astronomy graduate student in the Kenneth P. Dietrich School of Arts and Sciences at Pitt, uncovered a contender for one of the earliest observed spiral galaxies containing a stellar bar, a sometimes-striking visual feature that can play an important role in the evolution of a galaxy. Our galaxy, the Milky Way, also has a stellar bar.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-earliest-barred-spiral-galaxy-billion.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Phys.org: Evolution News ▶ How population bottlenecks shape bacterial cooperation and competition</title>
-    <link href="https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html"/>
-    <id>https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html</id>
-    <updated>2026-01-08T16:36:18Z</updated>
-    <summary>Microbes often display cooperative behavior in which individual cells put in work and sacrifice resources to collectively benefit the group. But sometimes, &quot;cheater&quot; cells in the group may reap the be</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> This study examines how population bottlenecks influence the stability of microbial cooperation versus cheating, offering broad evolutionary context potentially relevant to early-life transitions but not directly addressing abiogenesis or prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> Microbes often display cooperative behavior in which individual cells put in work and sacrifice resources to collectively benefit the group. But sometimes, &quot;cheater&quot; cells in the group may reap the benefits of this cooperation without incurring any cost themselves. Scientists have suggested that in such cases, population bottlenecks—reduction in the total number of individuals—can help stabilize cooperative behavior in the group.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-population-bottlenecks-bacterial-cooperation-competition.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
