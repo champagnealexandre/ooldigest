@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115171822&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Kratsios Calls Patchwork State AI Laws ‘Anti-Innovation’ at ](https://www.scientificamerican.com/article/kratsios-calls-patchwork-state-ai-laws-anti-innovation-at-house-science-ai/) |
+| keyword_rejected | - | [La justice américaine relance l'éolien offshore, malgré l'op](https://www.sciencesetavenir.fr/nature-environnement/la-justice-americaine-relance-l-eolien-offshore-malgre-l-opposition-de-trump_190430?xtor=RSS-15) |
+| keyword_rejected | - | [New spectroscopic method reveals ion's complex nuclear struc](https://phys.org/news/2026-01-spectroscopic-method-reveals-ion-complex.html) |
+| keyword_rejected | - | [Comprehensive molecular profiling of single-cell proteome vi](https://www.biorxiv.org/content/10.64898/2026.01.14.699423v1?rss=1) |
+| keyword_rejected | - | [The ER membrane protein complex acts as a chaperone to promo](https://www.biorxiv.org/content/10.64898/2026.01.14.699575v1?rss=1) |
+| keyword_rejected | - | [RadarOmics: Intuitive visualisation of multidimensional omic](https://www.biorxiv.org/content/10.64898/2026.01.14.699593v1?rss=1) |
 | ai_scored | 30 | [Mechanically Interlocked Indigo Photoswitches: Topologically](https://dx.doi.org/10.26434/chemrxiv-2026-c3w8g?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Ift43 Controls the Ciliary Levels of Gli2 and Gli3](https://www.biorxiv.org/content/10.64898/2026.01.14.699321v1?rss=1) |
 | ai_scored | 20 | [The CO Puzzle is Resolvable Using Self-Consistent DFT+U Calc](https://dx.doi.org/10.26434/chemrxiv-2026-56chp?rft_dat=source%3Ddrss) |
