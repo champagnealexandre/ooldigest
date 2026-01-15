@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Lithium-ion batteries could last longer with chemical tweak](https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 30 | [The role of the nuclear pore complex in the stability of dis](https://www.biorxiv.org/content/10.64898/2026.01.15.699629v1?rss=1) |
+| ai_scored | 0 | [Lithium-ion batteries could last longer with chemical tweak](https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [Lithium-ion batteries could last longer with chemical tweak](https://www.newscientist.com/article/2511778-lithium-ion-batteries-could-last-longer-with-chemical-tweak/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Body fat supports your health in surprisingly complex ways](https://www.newscientist.com/article/2511715-body-fat-supports-your-health-in-surprisingly-complex-ways/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Body fat supports your health in surprisingly complex ways](https://www.newscientist.com/article/2511715-body-fat-supports-your-health-in-surprisingly-complex-ways/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Body fat supports your health in surprisingly complex ways](https://www.newscientist.com/article/2511715-body-fat-supports-your-health-in-surprisingly-complex-ways/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115181726&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [PhD students’ taste for risk mirrors their supervisors’](https://www.nature.com/articles/d41586-026-00160-4) |
+| keyword_rejected | - | [Isolation and Characterisation of Hair Follicle-Derived Mela](https://www.biorxiv.org/content/10.64898/2026.01.14.699599v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260115171822&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Kratsios Calls Patchwork State AI Laws ‘Anti-Innovation’ at ](https://www.scientificamerican.com/article/kratsios-calls-patchwork-state-ai-laws-anti-innovation-at-house-science-ai/) |
 | keyword_rejected | - | [La justice américaine relance l'éolien offshore, malgré l'op](https://www.sciencesetavenir.fr/nature-environnement/la-justice-americaine-relance-l-eolien-offshore-malgre-l-opposition-de-trump_190430?xtor=RSS-15) |
