@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Climate drives plasticity and genetic adaptation in apple tr](https://www.biorxiv.org/content/10.64898/2026.01.15.698562v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116171747&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Quality control of blood plasma for mass-spectrometry proteo](https://www.biorxiv.org/content/10.64898/2026.01.15.699696v1?rss=1) |
+| keyword_rejected | - | [Signal Strength Aware Latent Spaces Reveal Molecularly Disti](https://www.biorxiv.org/content/10.64898/2026.01.15.699686v1?rss=1) |
+| keyword_rejected | - | [Nicotinamide phosphoribosyltransferase activates the mitocho](https://www.biorxiv.org/content/10.64898/2026.01.15.699710v1?rss=1) |
 | keyword_rejected | - | [RFK, Jr., shifts focus to questioning whether cell phones ar](https://www.scientificamerican.com/article/rfk-jr-shifts-focus-to-questioning-whether-cell-phones-are-safe-heres-what/) |
 | keyword_rejected | - | [Endothelial FUNDC1 regulates metabolic reprogramming and the](https://www.nature.com/articles/s41467-026-68548-4) |
 | keyword_rejected | - | [Estimating COVID-19 incidence and prevalence using lateral f](https://www.nature.com/articles/s41467-025-67272-9) |
