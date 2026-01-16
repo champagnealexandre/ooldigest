@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [NASA Spaceline Current Awareness List #1,182 9 January 2026 ](https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1182-9-january-2026-space-life-science-research-results.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116141809&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Au Sénégal, de fascinants chimpanzés des savanes et chasseur](https://www.sciencesetavenir.fr/nature-environnement/au-senegal-de-fascinants-chimpanzes-des-savanes-et-chasseurs-a-la-lance_190449?xtor=RSS-15) |
+| keyword_rejected | - | [Les médecins libéraux obtiennent des engagements du gouverne](https://www.sciencesetavenir.fr/sante/les-medecins-liberaux-obtiennent-des-engagements-du-gouvernement_190448?xtor=RSS-16) |
+| keyword_rejected | - | [Global risk pooling mitigates financial risk from drought in](https://www.nature.com/articles/s41467-025-67082-z) |
 | ai_scored | 65 | [Photoactive Elemental Sulfur Allotropes Promote Extensive Am](https://astrobiology.com/2026/01/photoactive-elemental-sulfur-allotropes-promote-extensive-ammonia-synthesis-in-venus-like-atmosphere.html) |
 | ai_scored | 55 | [HST Observations of HD 166620 and Tau Ceti: First UV Spectra](https://astrobiology.com/2026/01/hst-observations-of-hd-166620-and-tau-ceti-first-uv-spectra-of-a-magnetic-grand-minimum-star-and-the-extent-of-tau-cetis-astrosphere.html) |
 | ai_scored | 55 | [Aboard The International Space Station, Viruses And Bacteria](https://astrobiology.com/2026/01/aboard-the-international-space-station-viruses-and-bacteria-show-atypical-interplay.html) |
