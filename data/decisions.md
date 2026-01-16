@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 23 | [Sol-Gel Synthesis of NiO nanoparticle using Excess CO2 Acidi](https://dx.doi.org/10.26434/chemrxiv-2026-6z9t2?rft_dat=source%3Ddrss) |
+| ai_scored | 10 | [Supercritical CO2 Regeneration of Spent Ion Exchange Resins ](https://dx.doi.org/10.26434/chemrxiv-2026-kzxwg?rft_dat=source%3Ddrss) |
+| ai_scored | 5 | [A hybrid learning framework integrating chaotic Niche alpha ](https://www.nature.com/articles/s41598-026-36263-1) |
+| keyword_rejected | - | [Daily briefing: Cancer cells stay hidden using stolen mitoch](https://www.nature.com/articles/d41586-026-00181-z) |
+| keyword_rejected | - | [Visible-light photocatalytic mineralization of 4-Chloropheno](https://www.nature.com/articles/s41598-026-35956-x) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116092012&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Single/multi step optimal and modified homotopy perturbation](https://www.sciencedirect.com/science/article/pii/S1877750326000049?dgcid=rss_sd_all) |
+| keyword_rejected | - | [A Minimal Computational Workflow for CDR-H3-Inspired Cyclic ](https://dx.doi.org/10.26434/chemrxiv-2026-c1pnj?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Systematic Ligand Modification Tunes the Stability and React](https://dx.doi.org/10.26434/chemrxiv-2026-wp1rv?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Molecular Basis of Selectivity in Human Elastin-Binding Prot](https://dx.doi.org/10.26434/chemrxiv-2026-6jcts?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Oxidative Neutralization of Nitric Oxide as a Trigger of Cor](https://dx.doi.org/10.26434/chemrxiv-2026-422l8?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Understanding Quantum Dot Photon Absorption: A Mechanism-Bas](https://dx.doi.org/10.26434/chemrxiv-2026-xcxfx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Automated QSAR — how good is it in practice?](https://dx.doi.org/10.26434/chemrxiv-2026-l1d11?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [A foundational representation for an orchestrated lab](https://dx.doi.org/10.26434/chemrxiv-2026-v425m?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [AI-Geared Universal Quantum Fluid Unit Processor](https://dx.doi.org/10.26434/chemrxiv-2026-0pq3t?rft_dat=source%3Ddrss) |
 | ai_scored | 60 | [How flexible is a DNA duplex ? An investigation by NMR relax](https://dx.doi.org/10.26434/chemrxiv-2026-wzcx6?rft_dat=source%3Ddrss) |
 | ai_scored | 80 | [The emergence of chirality in time and space: transient asym](https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [PFAS Degradation by UV/Sulfite: Mechanisms, Pathways, and Pr](https://dx.doi.org/10.26434/chemrxiv-2026-92q7k?rft_dat=source%3Ddrss) |
