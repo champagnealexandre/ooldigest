@@ -3,8 +3,58 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T19:18:23.099809+00:00</updated>
+  <updated>2026-01-16T20:18:44.083650+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] nature.com - Biological sciences ▶ DNA end configurations dictate synaptic complex formation during NHEJ-mediated end bridging</title>
+    <link href="https://www.nature.com/articles/s41467-026-68417-0"/>
+    <id>https://www.nature.com/articles/s41467-026-68417-0</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study examines how different DNA end configurations influence synaptic complex formation during non-homologous end joining (NHEJ) repair, offering limited indirect relevance to origins-of-life questions via general insights into nucleic-acid chemistry and stability.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68417-0">https://www.nature.com/articles/s41467-026-68417-0</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68417-0">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] PLOS Computational Biology ▶ Structural analysis of antigenic variation and adaptive evolution of the H5N1 neuraminidase gene</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903</id>
+    <updated>2026-01-16T14:00:00Z</updated>
+    <summary>by Muyiwa S. Adegbaju, Oluwabuyikunmi Owo-Odusi, Eden T. Wirtz, Olanrewaju B. Morenikeji, Olusola Ojurongbe, Bolaji N. Thomas The concern regarding H5N1 outbreak, particularly the accelerated mutagene</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Computational structural and phylogenetic analysis of H5N1 neuraminidase (NA1) identifies a key residue (K207) controlling dynamic switching and suggests how single-point mutations can rewire allostery and selection across hosts, but it has only tangential relevance to Origins-of-Life questions beyond general evolutionary dynamics.</p>
+<p><strong>Abstract:</strong> by Muyiwa S. Adegbaju, Oluwabuyikunmi Owo-Odusi, Eden T. Wirtz, Olanrewaju B. Morenikeji, Olusola Ojurongbe, Bolaji N. Thomas The concern regarding H5N1 outbreak, particularly the accelerated mutagenesis of its core genomic elements, underscores the persistent threat of influenza to global health. Neuraminidase (NA), a pivotal sialidase integral to virion egress and propagation, comprises nine distinct isoforms, exhibiting unique evolutionary trajectories and structural adaptations. Despite extensive characterization of hemagglutinin subtypes, the functional divergence of the nine NA subtypes remains inadequately understood. To address this gap, we conducted a structural analysis of NA subtypes, employing structural superimposition and motif-guided sequence alignment to delineate subtype-specific residues. Hierarchical clustering stratified the nine NA subtypes into four distinct subgroups: NA2 (subgroup I), NA1 and NA4 (subgroup II), NA9/NA7/NA6/NA3 (subgroup III), and NA8/NA5 (subgroup 4). We identified 40 highly conserved and functionally significant amino acid loci, likely modulating enzymatic activity and substrate specificity across subtypes. To investigate the structural basis of adaptation in H5N1, we generated NA1 mutants by swapping family specific position (FSP) residues and analyzed their dynamics using Molecular Dynamics (MD) simulations, complemented by a deep phylogenetic analysis across six host reservoirs. MD simulation parameters reveal a dynamic paradox: the Wild-Type (WT) NA1 maintains a conserved global compactness Rg, which masks a complex, bi-modal switching mechanism essential for its catalytic function, validated by multi-basin free energy landscape (FEL) topography. We identify Lysine-207 (K207) as the master determinant of this switching mechanism and the enzyme’s dynamic fate. Substitutions at this conserved nexus produced diametrically opposite outcomes: K207W imposed structural rigidification (abolishing the switch), K207H achieved dynamic preservation, and K207I drove expanded disorder and collapse. Furthermore, dynamic correlation analysis shows that these single-point substitutions function as molecular switches that significantly re-wire the enzyme’s allosteric communication networks, extending far beyond the active site. To assess the role of NA1 in host tropism and adaptive evolution, we conducted a phylogenetic analysis of NA1 genes from H5N1 isolates across multiple host reservoirs; H. sapiens , G. gallus , Anser anser domesticus , M. gallopavo , B. taurus , and C. olor . Notably, we observed opposing selection pressures and diversification patterns: G. gallus isolates showed signatures of positive selection consistent with hyper-reassortment, while human isolates displayed highly diverse, sporadic spillover events. We conclude that the evolutionary contribution of NA1 to H5N1 host adaptation is not encoded in static structure, but certain residues such as K207 defines a pivotal mechanism for regulating the enzyme’s function through dynamic states. Our MD data thus proposes a novel strategy for next-generation antivirals by targeting this dynamic vulnerability—the Nexus for Dynamic Ablation—to permanently entrain the enzyme in a non-functional conformation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31801857">http://www.ncbi.nlm.nih.gov/pubmed/31801857</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31147689">http://www.ncbi.nlm.nih.gov/pubmed/31147689</a></li>
+<li><a href="https://doi.org/10.1093/bioinformatics/btm625">https://doi.org/10.1093/bioinformatics/btm625</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/28231515">http://www.ncbi.nlm.nih.gov/pubmed/28231515</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013903.g005">https://doi.org/10.1371/journal.pcbi.1013903.g005</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23012237">http://www.ncbi.nlm.nih.gov/pubmed/23012237</a></li>
+<li><a href="https://doi.org/10.1093/ve/vew014">https://doi.org/10.1093/ve/vew014</a></li>
+<li><a href="https://doi.org/10.1093/molbev/msx248">https://doi.org/10.1093/molbev/msx248</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/32881101">http://www.ncbi.nlm.nih.gov/pubmed/32881101</a></li>
+<li><a href="https://doi.org/10.1080/21505594.2023.2235459">https://doi.org/10.1080/21505594.2023.2235459</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Nature Communications ▶ DNA end configurations dictate synaptic complex formation during NHEJ-mediated end bridging</title>
+    <link href="https://www.nature.com/articles/s41467-026-68417-0"/>
+    <id>https://www.nature.com/articles/s41467-026-68417-0</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 16 January 2026; doi:10.1038/s41467-026-68417-0 DNA double-strand breaks are primarily repaired by non-homologous end joining, which requires synapsis of broke</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study shows that specific DNA end configurations, especially short microhomologies, determine synaptic complex formation during non-homologous end joining and can promote close end joining even without XLF.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 16 January 2026; doi:10.1038/s41467-026-68417-0 DNA double-strand breaks are primarily repaired by non-homologous end joining, which requires synapsis of broken DNA ends. Here, the authors show that DNA end configurations, particularly short microhomologies, dictate synaptic complex formation and can bypass XLF to promote close end joining.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68417-0">https://www.nature.com/articles/s41467-026-68417-0</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68417-0">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] Astrobiology (astrobiology.com) ▶ NASA Spaceline Current Awareness List #1,182 9 January 2026 (Space Life Science Research Results)</title>
     <link href="https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1182-9-january-2026-space-life-science-research-results.html"/>
@@ -7223,51 +7273,5 @@
 <li><a href="https://doi.org/10.48550/arXiv.2601.02324">https://doi.org/10.48550/arXiv.2601.02324</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/hunting-for-oddballs-with-machine-learning-detecting-anomalous-exoplanets-using-a-deep-learned-low-dimensional-representation-of-transit-spectra-with-autoencoders.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Callisto’s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure</title>
-    <link href="https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html"/>
-    <id>https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html</id>
-    <updated>2026-01-09T19:47:38Z</updated>
-    <summary>The Galilean moons of Io, Europa, and Ganymede exhibit a 4:2:1 commensurability in their mean motions, a configuration known as the Laplace resonance. The prevailing view for the origin of this three-</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> This paper models how substructure in the circum-Jovian gas disk could have altered migration pathways so that Callisto avoided capture into the Laplace resonance with Io–Europa–Ganymede.</p>
-<p><strong>Abstract:</strong> The Galilean moons of Io, Europa, and Ganymede exhibit a 4:2:1 commensurability in their mean motions, a configuration known as the Laplace resonance. The prevailing view for the origin of this three-body resonance involves the convergent migration of the moons, resulting from gas-driven torques in the circum-Jovian disk wherein they accreted. To account for Callisto’s […] The post Callisto’s Nonresonant Orbit As An Outcome Of Circum-Jovian Disk Substructure appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.00786">https://doi.org/10.48550/arXiv.2601.00786</a></li>
-<li><a href="https://doi.org/10.3847/1538-4357/ae171c">https://doi.org/10.3847/1538-4357/ae171c</a></li>
-<li><a href="https://arxiv.org/abs/2601.00786">https://arxiv.org/abs/2601.00786</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/callistos-nonresonant-orbit-as-an-outcome-of-circum-jovian-disk-substructure.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In Molecular Emission</title>
-    <link href="https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html"/>
-    <id>https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html</id>
-    <updated>2026-01-09T19:38:17Z</updated>
-    <summary>The evolution of planet-forming regions in protoplanetary disks is of fundamental importance to understanding planet formation. Disks with a central deficit in dust emission, a “cavity”, have long att</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrochemistry, evolution, astrobio*</p>
-<p><strong>AI Decision:</strong> JWST-MIRI spectroscopy of protoplanetary disks with dust cavities reveals a dichotomy in infrared molecular emission, informing how planet-forming environments and their volatile inventories evolve prior to planet assembly.</p>
-<p><strong>Abstract:</strong> The evolution of planet-forming regions in protoplanetary disks is of fundamental importance to understanding planet formation. Disks with a central deficit in dust emission, a “cavity”, have long attracted interest as potential evidence for advanced disk clearing by protoplanets and/or winds. Before JWST, infrared spectra showed that these disks typically lack the strong molecular emission […] The post Protoplanetary Disk Cavities With JWST-MIRI: A Dichotomy In Molecular Emission appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.02344">https://doi.org/10.48550/arXiv.2601.02344</a></li>
-<li><a href="https://arxiv.org/abs/2601.02344">https://arxiv.org/abs/2601.02344</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/protoplanetary-disk-cavities-with-jwst-miri-a-dichotomy-in-molecular-emission.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ The Persistent Thermal Anomalies In Rocky Worlds</title>
-    <link href="https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html"/>
-    <id>https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html</id>
-    <updated>2026-01-09T19:44:50Z</updated>
-    <summary>Observing the dayside thermal emissions of rocky exoplanets provides essential insights into their compositions and the presence of atmospheres. Even though no conclusive evidence has been found for a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*</p>
-<p><strong>AI Decision:</strong> Analyzes JWST dayside thermal emission excesses in rocky M-dwarf exoplanets, exploring physical explanations that impact how we infer atmospheres and thus assess potential habitability.</p>
-<p><strong>Abstract:</strong> Observing the dayside thermal emissions of rocky exoplanets provides essential insights into their compositions and the presence of atmospheres. Even though no conclusive evidence has been found for atmospheres on small rocky exoplanets orbiting M dwarfs, recent JWST observations identified puzzling thermal emission excesses: some rocky exoplanets orbiting M dwarfs have dayside emission temperatures higher […] The post The Persistent Thermal Anomalies In Rocky Worlds appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.00412">https://arxiv.org/abs/2601.00412</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.00412">https://doi.org/10.48550/arXiv.2601.00412</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/the-persistent-thermal-anomalies-in-rocky-worlds.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

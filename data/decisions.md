@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [DNA end configurations dictate synaptic complex formation du](https://www.nature.com/articles/s41467-026-68417-0) |
+| ai_scored | 20 | [Structural analysis of antigenic variation and adaptive evol](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903) |
+| ai_scored | 20 | [DNA end configurations dictate synaptic complex formation du](https://www.nature.com/articles/s41467-026-68417-0) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116151830&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [NASA’s historic Artemis II moon mission is almost ready to l](https://www.scientificamerican.com/article/nasas-historic-artemis-ii-moon-mission-is-almost-ready-to-launch/) |
+| keyword_rejected | - | [It’s so cold in Florida that iguanas might rain from the ski](https://www.scientificamerican.com/article/its-so-cold-in-florida-that-iguanas-might-rain-from-the-skies/) |
+| keyword_rejected | - | [Evaluating the limitations of Bayesian metabolic control ana](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012987) |
+| keyword_rejected | - | [TCR2HLA: Calibrated inference of HLA genotypes from TCR repe](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013767) |
+| keyword_rejected | - | [Conditions for replay of neuronal assemblies](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013844) |
+| keyword_rejected | - | [HPV vaccine could help to protect the unvaccinated against c](https://www.nature.com/articles/d41586-026-00128-4) |
+| keyword_rejected | - | [Multiscale contact mechanics for elastoplastic contacts](http://link.aps.org/doi/10.1103/swvy-jzht) |
+| keyword_rejected | - | [Lagrangian formulation to optimize interactions in virtual e](http://link.aps.org/doi/10.1103/b2t1-hrmx) |
+| keyword_rejected | - | [Role of the density of states in Bose-Einstein condensation](http://link.aps.org/doi/10.1103/bgm5-xlpr) |
 | ai_scored | 20 | [NASA Spaceline Current Awareness List #1,182 9 January 2026 ](https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1182-9-january-2026-space-life-science-research-results.html) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116141809&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Au Sénégal, de fascinants chimpanzés des savanes et chasseur](https://www.sciencesetavenir.fr/nature-environnement/au-senegal-de-fascinants-chimpanzes-des-savanes-et-chasseurs-a-la-lance_190449?xtor=RSS-15) |
