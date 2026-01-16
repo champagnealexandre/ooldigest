@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116051934&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [La justice américaine relance l'éolien offshore, malgré l'op](https://www.sciencesetavenir.fr/nature-environnement/developpement-durable/la-justice-americaine-relance-l-eolien-offshore-malgre-l-opposition-de-trump_190430?xtor=RSS-15) |
+| keyword_rejected | - | [La lucrative ceinture minière de RDC menace les forêts proté](https://www.sciencesetavenir.fr/nature-environnement/la-lucrative-ceinture-miniere-de-rdc-menace-les-forets-protegees_190434?xtor=RSS-15) |
+| keyword_rejected | - | [Que va devenir Wikipédia avec la montée en puissance de l'IA](https://www.sciencesetavenir.fr/high-tech/web/25-ans-de-wikipedia-l-encyclopedie-libre-face-aux-nouveaux-defis-du-numerique_190427?xtor=RSS-12) |
+| keyword_rejected | - | [Variability as a new discovery channel for intermediate-mass](https://www.nature.com/articles/s41550-025-02759-5) |
+| keyword_rejected | - | [In vitro effects of <i>Bacillus velezensis</i> strain <i>Man](https://www.nature.com/articles/s41598-026-36508-z) |
+| keyword_rejected | - | [Targeted computational design of an interleukin-7 superkine ](https://elifesciences.org/articles/107671) |
+| keyword_rejected | - | [Digitized dataset of aqueous dissociation constants](https://dx.doi.org/10.26434/chemrxiv-2026-6khcw?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Anion and cation (co-)intercalation behavior from an inorgan](https://dx.doi.org/10.26434/chemrxiv-2026-p1sk9?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Digitized dataset of aqueous dissociation constants](https://dx.doi.org/10.26434/chemrxiv-2026-6khcw?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The Role of Oxygen Excess on Fluoride Intercalation in Ruddl](https://dx.doi.org/10.26434/chemrxiv-2026-0hcf3?rft_dat=source%3Ddrss) |
 | ai_scored | 15 | [Prolonged exposure to polyvinylpyrrolidone heightens DNA bre](https://www.nature.com/articles/s41598-026-36018-y) |
 | ai_scored | 35 | [Prediction and Determination of Monolayer Structure in Binar](https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [[La semaine en bref] Qui a quel cancer en France ?](https://www.pourlascience.fr/sr/revue-de-presse/la-semaine-en-bref-qui-a-quel-cancer-en-france-28673.php) |

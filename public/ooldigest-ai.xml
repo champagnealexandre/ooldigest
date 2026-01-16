@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T09:23:10.529183+00:00</updated>
+  <updated>2026-01-16T10:19:41.962884+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🔴 [35] ChemRxiv ▶ Prediction and Determination of Monolayer Structure in Binary Alkanethiol/Carboxylic Acid Ligand Mixtures on Gold Nanoparticles</title>
@@ -6686,20 +6686,6 @@
 <p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1w4ct?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [25] Phys. Rev. Lett. ▶ Predicting Open Quantum Dynamics with Data-Informed Quantum-Classical Dynamics</title>
-    <link href="http://link.aps.org/doi/10.1103/7lsx-ssjl"/>
-    <id>http://link.aps.org/doi/10.1103/7lsx-ssjl</id>
-    <updated>2026-01-09T10:00:00Z</updated>
-    <summary>Author(s): Pinchen Xie, Ke Wang, Anupam Mitra, Yuanran Zhu, Xiantao Li, Wibe Albert de Jong, and Chao Yang We introduce a data-informed quantum-classical dynamics (DIQCD) approach for predicting the e</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Introduces a data-informed quantum-classical dynamics method that fits sparse/noisy measurements to a time-dependent Lindblad model to predict open quantum system evolution, with only indirect potential relevance to modeling prebiotic or biomolecular quantum processes.</p>
-<p><strong>Abstract:</strong> Author(s): Pinchen Xie, Ke Wang, Anupam Mitra, Yuanran Zhu, Xiantao Li, Wibe Albert de Jong, and Chao Yang We introduce a data-informed quantum-classical dynamics (DIQCD) approach for predicting the evolution of an open quantum system. The equation of motion in DIQCD is a Lindblad equation with a flexible, time-dependent Hamiltonian that can be optimized to fit sparse and noisy data from local observatio… [Phys. Rev. Lett. 136, 010402] Published Fri Jan 09, 2026</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="http://link.aps.org/doi/10.1103/7lsx-ssjl">http://link.aps.org/doi/10.1103/7lsx-ssjl</a></li>
-</ul>
-<p><a href="http://link.aps.org/doi/10.1103/7lsx-ssjl">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Jill Tarter Awarded the Prestigious Green Sands Prize for Her Pioneering Work in the Search for Extraterrestrial Intelligence</title>
     <link href="https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html"/>
     <id>https://astrobiology.com/2026/01/jill-tarter-awarded-the-prestigious-green-sands-prize-for-her-pioneering-work-in-the-search-for-extraterrestrial-intelligence.html</id>
@@ -6762,20 +6748,6 @@
 <p><a href="https://astrobiology.com/2026/01/self-assembled-versus-biological-pattern-formation-in-geology.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [70] Phys. Rev. E ▶ Simple models for the trapping of charged particles and macromolecules by diffusiophoresis in salt gradients</title>
-    <link href="http://link.aps.org/doi/10.1103/2kx3-hfsn"/>
-    <id>http://link.aps.org/doi/10.1103/2kx3-hfsn</id>
-    <updated>2026-01-09T10:00:00Z</updated>
-    <summary>Author(s): Richard P. Sear and Patrick B. Warren We study the trapping of charged particles and macromolecules (such as DNA) in salt gradients in aqueous solutions. The source for the salt gradient ca</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Develops simple physical models showing how salt gradients (e.g., from dissolving ionic crystals) can trap and concentrate charged macromolecules like DNA via diffusiophoresis, a plausible prebiotic mechanism for locally enriching key polymers in aqueous environments.</p>
-<p><strong>Abstract:</strong> Author(s): Richard P. Sear and Patrick B. Warren We study the trapping of charged particles and macromolecules (such as DNA) in salt gradients in aqueous solutions. The source for the salt gradient can be as simple as a dissolving ionic crystal, as shown by McDermott et al. [ Langmuir 28 , 15491 (2012) ]. Trapping is due to a competition between loca… [Phys. Rev. E 113, 015408] Published Fri Jan 09, 2026</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="http://link.aps.org/doi/10.1103/2kx3-hfsn">http://link.aps.org/doi/10.1103/2kx3-hfsn</a></li>
-</ul>
-<p><a href="http://link.aps.org/doi/10.1103/2kx3-hfsn">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Exo-Geoscience Perspectives Beyond Habitability</title>
     <link href="https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html"/>
     <id>https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html</id>
@@ -6789,20 +6761,6 @@
 <li><a href="https://doi.org/10.48550/arXiv.2601.01177">https://doi.org/10.48550/arXiv.2601.01177</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/exo-geoscience-perspectives-beyond-habitability.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Phys. Rev. E ▶ Hybrid quantum-classical convolutional neural network for astrophysical object classification</title>
-    <link href="http://link.aps.org/doi/10.1103/rnsj-5yjh"/>
-    <id>http://link.aps.org/doi/10.1103/rnsj-5yjh</id>
-    <updated>2026-01-09T10:00:00Z</updated>
-    <summary>Author(s): Ahmad Rauf, Javeria Amin, and Jameel-Un Nabi Classifying astrophysical bodies like stars, galaxies, and black holes plays an underlying role in understanding the evolution of the universe. </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Develops a hybrid quantum–classical CNN to classify astrophysical objects (stars/galaxies/black holes), a general astronomy data-analysis advance with minimal direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Author(s): Ahmad Rauf, Javeria Amin, and Jameel-Un Nabi Classifying astrophysical bodies like stars, galaxies, and black holes plays an underlying role in understanding the evolution of the universe. Effective analysis of a huge number of astronomical objects captured by telescopes is a challenge. For the classification of astronomical objects, quantum c… [Phys. Rev. E 113, 015302] Published Fri Jan 09, 2026</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="http://link.aps.org/doi/10.1103/rnsj-5yjh">http://link.aps.org/doi/10.1103/rnsj-5yjh</a></li>
-</ul>
-<p><a href="http://link.aps.org/doi/10.1103/rnsj-5yjh">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] Astrobiology (astrobiology.com) ▶ The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral energy distributions For 20 Exoplanet Host Stars That JWST Observed in Cycle 1</title>
