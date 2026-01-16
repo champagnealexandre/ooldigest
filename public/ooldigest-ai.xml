@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T08:25:12.093685+00:00</updated>
+  <updated>2026-01-16T09:23:10.529183+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] ChemRxiv ▶ Prediction and Determination of Monolayer Structure in Binary Alkanethiol/Carboxylic Acid Ligand Mixtures on Gold Nanoparticles</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Controlling multi-ligand assembly on nanoparticles (NPs) is critical for developing advanced nanomaterials for sensing, diagnostics, and therapy. Despite the importance of designing nanomaterials with</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
+<p><strong>AI Decision:</strong> Uses experiments and Monte Carlo simulations to show how chain-length differences drive self-assembly and phase separation in mixed alkanethiol/carboxylic-acid monolayers on gold nanoparticles, offering broadly relevant insights into interfacial organization but only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Controlling multi-ligand assembly on nanoparticles (NPs) is critical for developing advanced nanomaterials for sensing, diagnostics, and therapy. Despite the importance of designing nanomaterials with tailored interfaces, it remains poorly understood how the physical and chemical driving forces will influence monolayer morphology for a variety of chemically functional ligand mixtures. To address this issue, we examine a series of binary monolayers composed of linear alkanethiols and mercaptocarboxylic acids, with two different end-group chemistries (--CH3, --COOH), across a range of physical hydrocarbon chain length differences. We extend a unified framework we have previously developed to quantify the monolayer structure by comparing matrix-assisted laser desorption ionization mass spectrometry (MALDI-MS) experiments with configurationally biased Monte Carlo (CBMC) simulations to probe and predict the self-assembly of these two-ligand mixtures on the surface of ultrasmall gold NPs. Our results reveal that monolayer morphology is significantly impacted by the chain length difference between the chemically distinct alkanethiol and mercaptocarboxylic acid ligands, transitioning from randomly mixed to phase-separated Janus-like domains as the hydrocarbon chain length difference increases. Our findings highlight the importance of length differences in determining monolayer structure, even for ligand mixtures containing alkyl and carboxylic acid end groups, offering strategies for tuning nanoscale surface properties for applications that would utilize the chemical functionality of the carboxylic acid moiety.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] Scientific Reports ▶ Prolonged exposure to polyvinylpyrrolidone heightens DNA breaks in human sperm</title>
+    <link href="https://www.nature.com/articles/s41598-026-36018-y"/>
+    <id>https://www.nature.com/articles/s41598-026-36018-y</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Scientific Reports, Published online: 16 January 2026; doi:10.1038/s41598-026-36018-y Prolonged exposure to polyvinylpyrrolidone heightens DNA breaks in human sperm</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This Scientific Reports study finds that prolonged exposure to polyvinylpyrrolidone increases DNA strand breaks in human sperm, a biomedical genotoxicity result with only limited indirect relevance to nucleic-acid stability questions in origins-of-life contexts.</p>
+<p><strong>Abstract:</strong> Scientific Reports, Published online: 16 January 2026; doi:10.1038/s41598-026-36018-y Prolonged exposure to polyvinylpyrrolidone heightens DNA breaks in human sperm</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41598-026-36018-y">https://www.nature.com/articles/s41598-026-36018-y</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41598-026-36018-y">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [3] ChemRxiv ▶ From Cation Order to Disorder: Unlocking Ion Transport Pathways in Li-Zn-Zr-Cl Halospinels</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss"/>

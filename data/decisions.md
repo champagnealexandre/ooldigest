@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Prolonged exposure to polyvinylpyrrolidone heightens DNA bre](https://www.nature.com/articles/s41598-026-36018-y) |
+| ai_scored | 35 | [Prediction and Determination of Monolayer Structure in Binar](https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [[La semaine en bref] Qui a quel cancer en France ?](https://www.pourlascience.fr/sr/revue-de-presse/la-semaine-en-bref-qui-a-quel-cancer-en-france-28673.php) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116042257&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [A Hérat, l'hôpital du dernier espoir pour les mères d'enfant](https://www.sciencesetavenir.fr/sante/a-herat-l-hopital-du-dernier-espoir-pour-les-meres-d-enfants-malnutris_190432?xtor=RSS-16) |
+| keyword_rejected | - | [Comment les produits chimiques courants perturbent notre mic](https://www.sciencesetavenir.fr/sante/comment-les-produits-chimiques-que-nous-utilisons-au-quotidien-perturbent-notre-microbiote-intestinal_190428?xtor=RSS-16) |
+| keyword_rejected | - | [Resilience enhancement strategies for distribution networks ](https://www.nature.com/articles/s41598-026-35188-z) |
+| keyword_rejected | - | [Genetic structure and haplotype diversity in Indian populati](https://www.nature.com/articles/s41598-025-32756-7) |
+| keyword_rejected | - | [Performance evaluation of a series-connected step-up/down pa](https://www.nature.com/articles/s41598-026-35857-z) |
+| keyword_rejected | - | [Photodissociation and electron-collision induced dissociatio](https://www.nature.com/articles/s41598-026-36140-x) |
+| keyword_rejected | - | [Quantum boomerang effect of light](https://www.nature.com/articles/s41467-026-68293-8) |
+| keyword_rejected | - | [NALIRIFOX versus gemcitabine plus nab-paclitaxel in Chinese ](https://www.nature.com/articles/s41467-026-68409-0) |
+| keyword_rejected | - | [Giant unusual anisotropic magnetoresistance enabled by hole-](https://www.nature.com/articles/s41467-026-68438-9) |
+| keyword_rejected | - | [RAREsim2: Flexible simulation of rare variant genetic data u](https://www.biorxiv.org/content/10.64898/2026.01.14.694480v1?rss=1) |
+| keyword_rejected | - | [AtlasMap: enabling low-cost, map-style exploration of millio](https://www.biorxiv.org/content/10.64898/2026.01.14.699595v1?rss=1) |
 | ai_scored | 60 | [NucleoPhi: A Transferable Force Field for Modified Nucleic A](https://dx.doi.org/10.26434/chemrxiv-2026-l6crj?rft_dat=source%3Ddrss) |
 | ai_scored | 3 | [From Cation Order to Disorder: Unlocking Ion Transport Pathw](https://dx.doi.org/10.26434/chemrxiv-2026-zw0j8?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116032458&v=2.18.0.post22+67771e2) |
