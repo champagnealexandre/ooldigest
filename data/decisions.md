@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [A leading use for quantum computers might not need them afte](https://www.newscientist.com/article/2511643-a-leading-use-for-quantum-computers-might-not-need-them-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 55 | [A leading use for quantum computers might not need them afte](https://www.newscientist.com/article/2511643-a-leading-use-for-quantum-computers-might-not-need-them-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 45 | [Briefing Chat: Can NASA return rocks from Mars? And why dogs](https://www.nature.com/articles/d41586-026-00194-8) |
+| ai_scored | 15 | [Stratification of viral shedding patterns in saliva of COVID](https://elifesciences.org/articles/96032) |
+| ai_scored | 55 | [A leading use for quantum computers might not need them afte](https://www.newscientist.com/article/2511643-a-leading-use-for-quantum-computers-might-not-need-them-after-all/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Burn-out : une prise en charge complexe et souvent "artisana](https://www.sciencesetavenir.fr/sante/cerveau-et-psy/burn-out-une-prise-en-charge-complexe-et-souvent-artisanale_190424?xtor=RSS-16) |
+| keyword_rejected | - | [Grève des médecins : le gouvernement propose une série de me](https://www.sciencesetavenir.fr/politique/greve-des-medecins-le-gouvernement-propose-une-serie-de-mesures_190431) |
+| keyword_rejected | - | [Echantillons martiens, épave médiévale et sanctuaire antarct](https://www.sciencesetavenir.fr/ultrabreves/echantillons-martiens-epave-medievale-et-sanctuaire-des-glaciers-menaces-l-actu-des-sciences-en-ultrabreves_190441) |
+| keyword_rejected | - | [L’Allemagne restitue deux fragments de la tapisserie de Baye](https://www.sciencesetavenir.fr/archeo-paleo/patrimoine/l-allemagne-restitue-deux-fragments-de-la-tapisserie-de-bayeux-preleves-en-1941_190442?xtor=RSS-4) |
+| keyword_rejected | - | [Why There’s No Single Best Way To Store Information](https://www.quantamagazine.org/why-theres-no-single-best-way-to-store-information-20260116/) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116102013&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Earliest ever supernova sheds light on the first stars](https://www.newscientist.com/article/2511777-earliest-ever-supernova-sheds-light-on-the-first-stars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Cancelling plans may be more socially acceptable than you th](https://www.newscientist.com/article/2511875-cancelling-plans-may-be-more-socially-acceptable-than-you-think/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Earliest ever supernova sheds light on the first stars](https://www.newscientist.com/article/2511777-earliest-ever-supernova-sheds-light-on-the-first-stars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Cancelling plans may be more socially acceptable than you th](https://www.newscientist.com/article/2511875-cancelling-plans-may-be-more-socially-acceptable-than-you-think/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Earliest ever supernova sheds light on the first stars](https://www.newscientist.com/article/2511777-earliest-ever-supernova-sheds-light-on-the-first-stars/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Cancelling plans may be more socially acceptable than you th](https://www.newscientist.com/article/2511875-cancelling-plans-may-be-more-socially-acceptable-than-you-think/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Glutamatergic projection neurons in the basal forebrain unde](https://www.nature.com/articles/s41467-026-68313-7) |
+| keyword_rejected | - | [Gβγ engages PLCβ3 at multiple sites to reorient and facilita](https://www.biorxiv.org/content/10.64898/2026.01.14.699417v1?rss=1) |
 | ai_scored | 23 | [Sol-Gel Synthesis of NiO nanoparticle using Excess CO2 Acidi](https://dx.doi.org/10.26434/chemrxiv-2026-6z9t2?rft_dat=source%3Ddrss) |
 | ai_scored | 10 | [Supercritical CO2 Regeneration of Spent Ion Exchange Resins ](https://dx.doi.org/10.26434/chemrxiv-2026-kzxwg?rft_dat=source%3Ddrss) |
 | ai_scored | 5 | [A hybrid learning framework integrating chaotic Niche alpha ](https://www.nature.com/articles/s41598-026-36263-1) |
