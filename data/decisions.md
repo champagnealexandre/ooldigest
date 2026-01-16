@@ -1,5 +1,25 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Monolithic Photoanodes of PTQ10:L8-BO with Improved Stabilit](https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [New Scientist recommends Why We Drink Too Much for Dry Janua](https://www.newscientist.com/article/mg26935780-500-new-scientist-recommends-why-we-drink-too-much-for-dry-january/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [New Scientist recommends Why We Drink Too Much for Dry Janua](https://www.newscientist.com/article/mg26935780-500-new-scientist-recommends-why-we-drink-too-much-for-dry-january/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [New Scientist recommends Why We Drink Too Much for Dry Janua](https://www.newscientist.com/article/mg26935780-500-new-scientist-recommends-why-we-drink-too-much-for-dry-january/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Dans les Landes, le ballet des abatteuses pour éradiquer le ](https://www.sciencesetavenir.fr/nature-environnement/dans-les-landes-le-ballet-des-abatteuses-pour-eradiquer-le-ver-tueur-de-pins_190438?xtor=RSS-15) |
+| keyword_rejected | - | [Humanoid robots step up their game: how useful are the lates](https://www.nature.com/articles/d41586-026-00164-0) |
+| keyword_rejected | - | [An artificial cell capable of signal transduction mediated b](https://www.nature.com/articles/s41467-026-68503-3) |
+| keyword_rejected | - | [Identification of thermotolerant non-canonical PAMs for robu](https://www.nature.com/articles/s41467-026-68476-3) |
+| keyword_rejected | - | [Astronomer uses 'China Sky Eye' to reveal binary origin of f](https://phys.org/news/2026-01-astronomer-china-sky-eye-reveal.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116073642&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Mini-mint ice cubes for early postoperative thirst relief in](https://www.nature.com/articles/s41598-026-36593-0) |
+| keyword_rejected | - | [Bioremediation of alkaline corn wastewater with <i>Haematoco](https://www.nature.com/articles/s41598-026-35251-9) |
+| keyword_rejected | - | [Identification of thermotolerant non-canonical PAMs for robu](https://www.nature.com/articles/s41467-026-68476-3) |
+| keyword_rejected | - | [On the dynamics of antigen receptors on the B-cell membrane ](https://www.sciencedirect.com/science/article/pii/S0022519326000020?dgcid=rss_sd_all) |
+| keyword_rejected | - | [ScopeMap: An AI-Assisted, Human-in-the-Loop Workflow for Map](https://dx.doi.org/10.26434/chemrxiv-2026-kqz7d?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [ScopeMap: An AI-Assisted, Human-in-the-Loop Workflow for Map](https://dx.doi.org/10.26434/chemrxiv-2026-kqz7d?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Breaking the ASF Constraint: Catalytic Surface Resonance as ](https://dx.doi.org/10.26434/chemrxiv-2026-96wh4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Fitting of Unary Isotherms in MOFs and Zeolites: Are Saturat](https://dx.doi.org/10.26434/chemrxiv-2026-jvn9l?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Theoretical Approach for Modeling Non-Steady-State Nucleatio](https://dx.doi.org/10.26434/chemrxiv-2026-ldkdx?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Strategic functionalization of benzylic C(sp3)–H bonds: Unlo](https://dx.doi.org/10.26434/chemrxiv-2026-dfq69?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Ultrafast Water Permeation through Densely Fluorinated Singl](https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss) |
 | ai_scored | 55 | [Construction of synthetic protein-binding non-genetic DNA sy](https://www.nature.com/articles/s41557-025-02049-7) |
 | ai_scored | 50 | [Ultrafast Water Permeation through Densely Fluorinated Singl](https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss) |

@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T11:17:01.868479+00:00</updated>
+  <updated>2026-01-16T12:36:54.832068+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] ChemRxiv ▶ Monolithic Photoanodes of PTQ10:L8-BO with Improved Stability for Solar Water Oxidation and Enhanced Unassisted Water Splitting</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Monolithic photoelectrodes are a promising way to exploit the excellent optoelectronic properties of organic polymer:non-fullerene bulk-heterojunctions (BHJ) for photoelectrochemical applications. How</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Develops more stable, high-current organic bulk-heterojunction photoanodes and tandem devices for solar-driven water oxidation/unassisted water splitting, improving operational stability and solar-to-hydrogen efficiency but only indirectly informing Origins-of-Life questions via energy/water context.</p>
+<p><strong>Abstract:</strong> Monolithic photoelectrodes are a promising way to exploit the excellent optoelectronic properties of organic polymer:non-fullerene bulk-heterojunctions (BHJ) for photoelectrochemical applications. However, the high voltage losses, poor photochemical stability and high synthetic complexity of the most commonly used polymer:non-fullerene combinations have limited their full potential. Here, we address these limitations by introducing a BHJ comprising the low-synthetic-complexity polymer PTQ10 and the near-infrared absorbing acceptor L8-BO. By integrating this new BHJ with a graphite sheet functionalised with a NiFeOOH catalyst, we achieve a low onset potential of +0.64 VRHE, a photocurrent density of 21 mA cm−2 at +1.23 VRHE and a t80 operational stability of 22 h under full AM1.5G illumination in monolithic photoanodes for water oxidation. These values represent a 40 mV increase in photovoltage and a sevenfold improvement in operational stability (t80 extended from 3 h to 22 h) compared to the reference system based on the ternary D18:PM6:L8-BO photoactive blend. Spectroscopic analyses reveal that these improvements stem from the reduced non-radiative voltage losses (from 0.24 V to 0.19 V) and superior photochemical and morphological stability of the PTQ10:L8-BO blend compared to the reference blend. Building on these advances, we demonstrate monolithic tandem photoanodes based on PTQ10:IDIC and PTQ10:L8-BO organic blends, achieving a solar-to-hydrogen efficiency of 6.2%. This work offers critical insights for developing stable, high-efficiency organic photoelectrodes for unassisted solar hydrogen generation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [50] ChemRxiv ▶ Ultrafast Water Permeation through Densely Fluorinated Single Chain Nanoparticle Foldamer Channels</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss"/>
