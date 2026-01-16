@@ -1,5 +1,36 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Ultrafast Water Permeation through Densely Fluorinated Singl](https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss) |
+| ai_scored | 55 | [Construction of synthetic protein-binding non-genetic DNA sy](https://www.nature.com/articles/s41557-025-02049-7) |
+| ai_scored | 50 | [Ultrafast Water Permeation through Densely Fluorinated Singl](https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116061639&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Cheating just three times massively ups the chance of winnin](https://www.newscientist.com/article/2511724-cheating-just-three-times-massively-ups-the-chance-of-winning-at-chess/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We're getting intimate with chatbots. A new book asks what t](https://www.newscientist.com/article/mg26935780-400-were-getting-intimate-with-chatbots-a-new-book-asks-what-this-means/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [These striking photos are a window into the world of quantum](https://www.newscientist.com/article/2510484-these-striking-photos-are-a-window-into-the-world-of-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Cheating just three times massively ups the chance of winnin](https://www.newscientist.com/article/2511724-cheating-just-three-times-massively-ups-the-chance-of-winning-at-chess/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We're getting intimate with chatbots. A new book asks what t](https://www.newscientist.com/article/mg26935780-400-were-getting-intimate-with-chatbots-a-new-book-asks-what-this-means/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [These striking photos are a window into the world of quantum](https://www.newscientist.com/article/2510484-these-striking-photos-are-a-window-into-the-world-of-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Cheating just three times massively ups the chance of winnin](https://www.newscientist.com/article/2511724-cheating-just-three-times-massively-ups-the-chance-of-winning-at-chess/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [We're getting intimate with chatbots. A new book asks what t](https://www.newscientist.com/article/mg26935780-400-were-getting-intimate-with-chatbots-a-new-book-asks-what-this-means/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [These striking photos are a window into the world of quantum](https://www.newscientist.com/article/2510484-these-striking-photos-are-a-window-into-the-world-of-quantum-physics/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [In Venezuela, Big Oil Collides with a Hotter Planet](https://www.scientificamerican.com/podcast/episode/in-venezuela-big-oil-collides-with-a-hotter-planet/) |
+| keyword_rejected | - | [What Is Beige Fat, and Is It Healthy?](https://www.scientificamerican.com/article/what-is-beige-fat-and-is-it-healthy/) |
+| keyword_rejected | - | [Que va devenir Wikipédia avec la montée en puissance de l'IA](https://www.sciencesetavenir.fr/high-tech/web/wikipedia-a-25-ans-que-va-devenir-la-plus-grande-encyclopedie-en-ligne-du-monde-avec-la-montee-en-puissance-de-l-ia_190427?xtor=RSS-12) |
+| keyword_rejected | - | [Epoxy-oxylipins direct monocyte fate in inflammatory resolut](https://www.nature.com/articles/s41467-025-67961-5) |
+| keyword_rejected | - | [The cotranslational cycle of the ribosome-bound Hsp70 homolo](https://www.nature.com/articles/s41467-025-67685-6) |
+| keyword_rejected | - | [Emergent signatures of the glass transition in colloidal sus](https://www.nature.com/articles/s41567-025-03140-z) |
+| keyword_rejected | - | [Transport evidence for chiral surface states from three-dime](https://www.nature.com/articles/s41567-025-03146-7) |
+| keyword_rejected | - | [Tracing dynamic arrest](https://www.nature.com/articles/s41567-025-03159-2) |
+| keyword_rejected | - | [Chiral catalysis-driven rotary molecular motors](https://www.nature.com/articles/s41557-025-02050-0) |
+| keyword_rejected | - | [Biologically informed cortical models predict optogenetic pe](https://elifesciences.org/articles/106827) |
+| keyword_rejected | - | [Stereospecific nucleophilic substitution at all-carbon quate](https://dx.doi.org/10.26434/chemrxiv-2026-8dx37?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Antimicrobial peptides produced by probiotic and biotechnolo](https://dx.doi.org/10.26434/chemrxiv-2026-1z81x?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Theoretical Insights into Energetics and Structural Modulati](https://dx.doi.org/10.26434/chemrxiv-2026-wdnjm?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Coarse-Grained Simulations Predict Thermosensitivity and Hyd](https://dx.doi.org/10.26434/chemrxiv-2026-z70qn?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The Designed Synthesis of Unsymmetrical (Deuterated) 1,1-Dia](https://dx.doi.org/10.26434/chemrxiv-2026-1prjd?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Dual Determination of Nitrogen Content and Nitration Site Di](https://dx.doi.org/10.26434/chemrxiv-2026-w5t86?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Stereospecific nucleophilic substitution at all-carbon quate](https://dx.doi.org/10.26434/chemrxiv-2026-8dx37?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [The Designed Synthesis of Unsymmetrical (Deuterated) 1,1-Dia](https://dx.doi.org/10.26434/chemrxiv-2026-1prjd?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116051934&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [La justice américaine relance l'éolien offshore, malgré l'op](https://www.sciencesetavenir.fr/nature-environnement/developpement-durable/la-justice-americaine-relance-l-eolien-offshore-malgre-l-opposition-de-trump_190430?xtor=RSS-15) |
 | keyword_rejected | - | [La lucrative ceinture minière de RDC menace les forêts proté](https://www.sciencesetavenir.fr/nature-environnement/la-lucrative-ceinture-miniere-de-rdc-menace-les-forets-protegees_190434?xtor=RSS-15) |

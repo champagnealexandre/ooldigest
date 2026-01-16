@@ -3,8 +3,50 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T10:19:41.962884+00:00</updated>
+  <updated>2026-01-16T11:17:01.868479+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] ChemRxiv ▶ Ultrafast Water Permeation through Densely Fluorinated Single Chain Nanoparticle Foldamer Channels</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Biology uses folded polymeric chains to perform complex tasks, from scaffolding catalytic enzymes to creating highly selective transmembrane channels. Aquaporins are a class of transmembrane channels </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Extensively fluorinated aramid single-chain nanoparticles fold into lumen-containing channels that transport water faster than aquaporins while rejecting salt, offering broadly relevant insights into selective permeability and compartment function relevant to protocell-style origins-of-life scenarios.</p>
+<p><strong>Abstract:</strong> Biology uses folded polymeric chains to perform complex tasks, from scaffolding catalytic enzymes to creating highly selective transmembrane channels. Aquaporins are a class of transmembrane channels that can strictly exclude the transport of salts, whilst allowing exceptional rates of water transport (up to 3 x 10^9 water molecules per channel per second). These biological water channels, and the recently described artificial water channels they have inspired, provide a potential route to less energy intensive desalination technologies – a critical emerging need. Herein, we report the design of extensively fluorinated aramid polymers synthesised by living polymerisation, which fold into discrete single chain nanoparticles with a well-defined, continuous, internal lumen. These are stabilised by continuous F-H-F three-centre hydrogen bonds, which enable robust folding, and provide a polyfluorinated surface. These nanoparticles have a defined function – selective transmembrane transport of water, with exceptionally high rates (up to 4.5 x 10^10 water molecules per channel per second), exceeding those of the natural Aquaporins, whilst retaining excellent salt rejection.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Nature Chemistry ▶ Construction of synthetic protein-binding non-genetic DNA systems in living cells</title>
+    <link href="https://www.nature.com/articles/s41557-025-02049-7"/>
+    <id>https://www.nature.com/articles/s41557-025-02049-7</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Nature Chemistry, Published online: 16 January 2026; doi:10.1038/s41557-025-02049-7 The design space of synthetic DNA–protein systems in cells has been constrained by DNA’s role as genetic material. N</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This Nature Chemistry study engineers retron-derived small ‘non-genetic’ DNAs in living cells to bind proteins sequence-specifically, enabling programmable DNA–protein regulatory and scaffolding networks that broaden how nucleic acids can function beyond heredity (indirectly relevant to alternative roles for DNA in early life).</p>
+<p><strong>Abstract:</strong> Nature Chemistry, Published online: 16 January 2026; doi:10.1038/s41557-025-02049-7 The design space of synthetic DNA–protein systems in cells has been constrained by DNA’s role as genetic material. Now it has been shown that engineering retron-derived ‘non-genetic’ small DNAs for sequence-specific protein binding enables alternative DNA–protein networks for gene regulation, feedback loops, molecular scaffolds and post-translational switches.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41557-025-02049-7">https://www.nature.com/articles/s41557-025-02049-7</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41557-025-02049-7">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Organic Chemistry on ChemRxiv ▶ Ultrafast Water Permeation through Densely Fluorinated Single Chain Nanoparticle Foldamer Channels</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Biology uses folded polymeric chains to perform complex tasks, from scaffolding catalytic enzymes to creating highly selective transmembrane channels. Aquaporins are a class of transmembrane channels </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Reports artificial fluorinated single-chain foldamer nanoparticle channels that mimic/beat aquaporins with ultrafast, salt-rejecting water transport, offering membrane/compartment-relevant chemistry but only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Biology uses folded polymeric chains to perform complex tasks, from scaffolding catalytic enzymes to creating highly selective transmembrane channels. Aquaporins are a class of transmembrane channels that can strictly exclude the transport of salts, whilst allowing exceptional rates of water transport (up to 3 x 10^9 water molecules per channel per second). These biological water channels, and the recently described artificial water channels they have inspired, provide a potential route to less energy intensive desalination technologies – a critical emerging need. Herein, we report the design of extensively fluorinated aramid polymers synthesised by living polymerisation, which fold into discrete single chain nanoparticles with a well-defined, continuous, internal lumen. These are stabilised by continuous F-H-F three-centre hydrogen bonds, which enable robust folding, and provide a polyfluorinated surface. These nanoparticles have a defined function – selective transmembrane transport of water, with exceptionally high rates (up to 4.5 x 10^10 water molecules per channel per second), exceeding those of the natural Aquaporins, whilst retaining excellent salt rejection.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-2bwxr?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [35] ChemRxiv ▶ Prediction and Determination of Monolayer Structure in Binary Alkanethiol/Carboxylic Acid Ligand Mixtures on Gold Nanoparticles</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-wg99j?rft_dat=source%3Ddrss"/>
