@@ -3,8 +3,92 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-16T12:36:54.832068+00:00</updated>
+  <updated>2026-01-16T13:35:29.590639+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟢 [80] ChemRxiv ▶ The emergence of chirality in time and space: transient asymmetry in supramolecular polymers triggered by visible light</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Asymmetry is a fundamental property in the molecular organization of life, but how it emerges and propagates remains elusive. One-dimensional assemblies formed through reversible, non-covalent interac</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, water, chirality</p>
+<p><strong>AI Decision:</strong> A light-driven, reversible amplification of supramolecular chirality in aqueous co-assemblies shows how transient external energy inputs can generate and sustain asymmetric (life-relevant) states in self-assembling polymers, offering a model for chirality emergence under non-equilibrium conditions.</p>
+<p><strong>Abstract:</strong> Asymmetry is a fundamental property in the molecular organization of life, but how it emerges and propagates remains elusive. One-dimensional assemblies formed through reversible, non-covalent interactions can adopt helical confor-mations and reorganize slowly, making them powerful model systems for studying the emergence and persistence of asym-metry in aqueous environments. Recent studies have shown that chiral surfactants can transfer their stereogenic information inducing a helical bias in supramolecular polymers. Here, using light as a non-invasive trigger, we demonstrate how two phe-nomena with different kinetics coalesce to establish a profound amplification of asymmetry in co-assemblies of racemic su-pramolecular polymers and chiral surfactants. Upon irradiation, the photoresponsive merocyanine surfactant undergoes quick isomerization into its more hydrophobic spiropyran form, enhancing its interaction with the racemic polymer and in-ducing an effective helical bias that develops and persists on timescales that far exceed the lifetime of the molecular trigger. This light-driven asymmetry is fully reversible and involves metastable structures which can be further promoted by brief, well-timed light pulses. Our findings demonstrate that limited administrations of light can induce and sustain asymmetric states in water-compatible supramolecular polymers, opening avenues for dynamic supramolecular materials with non-equi-librium features toward life-like adaptive systems. It shows a unique emergence of supramolecular chirality in time and space.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Lets Tweap again: Economic and SNP retrieval optimisation for target enrichment of ancient DNA</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699081v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699081v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Advancements in ancient DNA (aDNA) research have enabled the recovery of individual human genomes through target enrichment approaches. Despite the decreasing cost of next-generation sequencing, enric</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, life, RNA</p>
+<p><strong>AI Decision:</strong> Introduces a cost-reduced, optimized target-enrichment protocol (Tweap) for recovering more SNPs from ancient human DNA libraries, improving accessibility and sustainability of aDNA capture workflows.</p>
+<p><strong>Abstract:</strong> Advancements in ancient DNA (aDNA) research have enabled the recovery of individual human genomes through target enrichment approaches. Despite the decreasing cost of next-generation sequencing, enrichment methods targeting single-nucleotide polymorphisms (SNPs) compiled in RNA/DNA hybrid panels remain costly and require further authentic optimisations. Here, we present the Tweap (Twist cheap) protocol as a cost-effective alternative to the commercialised Twist protocol for target enrichment via in-solution hybridisation of ancient human DNA by replacing the streptavidin-coated superparamagnetic beads for binding the hybridised targeted DNA. We evaluated the protocol on 14 double-stranded DNA libraries from ancient human individuals originating from a hot and humid climate zone known to accelerate DNA degradation. The selected individuals reflected similar preservation levels and a broad range of endogenous human DNA content (0.79-41.69%). We optimised and simplified both the Twist and Tweap protocols for target enrichment, particularly for libraries with ultra-low library complexity, making it reproducible in any life sciences laboratory. The modified Tweap protocol not only reduced overall reagent costs and consumption, contributing to more climate-conscious research, but also recovered up to 7% more unique SNPs when applying multi-pooling of libraries from the same individual. Our findings demonstrate that the Tweap protocol is a viable, efficient, and scalable alternative for SNP capture in ancient DNA (aDNA) studies, supporting broader accessibility and sustainability in ancient DNA research.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699081v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699081v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699081v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] Scientific Reports ▶ Spatiotemporal prediction of water quality and ecological risk assessment in a river basin using T-GCN based on river network topology constraints</title>
+    <link href="https://www.nature.com/articles/s41598-025-34722-9"/>
+    <id>https://www.nature.com/articles/s41598-025-34722-9</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Scientific Reports, Published online: 16 January 2026; doi:10.1038/s41598-025-34722-9 Spatiotemporal prediction of water quality and ecological risk assessment in a river basin using T-GCN based on ri</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Uses topology-constrained temporal graph neural networks to predict river-basin water quality and assess ecological risk, offering only indirect astrobiology relevance via general water/habitability context.</p>
+<p><strong>Abstract:</strong> Scientific Reports, Published online: 16 January 2026; doi:10.1038/s41598-025-34722-9 Spatiotemporal prediction of water quality and ecological risk assessment in a river basin using T-GCN based on river network topology constraints</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41598-025-34722-9">https://www.nature.com/articles/s41598-025-34722-9</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41598-025-34722-9">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] ChemRxiv ▶ PFAS Degradation by UV/Sulfite: Mechanisms, Pathways, and Products after the Initial Reductive Defluorination</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-92q7k?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-92q7k?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>The global pollution by per- and polyfluoroalkyl substances (PFAS) requires solid advances in technology development and mechanistic understanding for PFAS degradation. The UV/sulfite method that prod</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> This chemrxiv preprint dissects radical/electron-driven mechanisms in UV/sulfite PFAS degradation (hydrated electron initiation, competing HO•/SO3−• pathways, pH effects), which is largely environmental remediation chemistry with only tangential relevance to origins-of-life photochemistry in water.</p>
+<p><strong>Abstract:</strong> The global pollution by per- and polyfluoroalkyl substances (PFAS) requires solid advances in technology development and mechanistic understanding for PFAS degradation. The UV/sulfite method that produces hydrated electron (eaq−) has demonstrated excellent performance, but the mechanisms remained largely elusive. Although an eaq− is required to initiate the degradation, the reductive hydrodefluorination (C–F→C–H) is merely a minor pathway. Some extensively observed phenomena, such as chain-shortening of RF–CF2–COO– into RF–COO– (RF=CnF2n+1), “incidental” detections of very-short-chain RF–COO– products, and the substantially enhanced performance at high pH, had not received convincing explanations. This study provides a comprehensive understanding via systematic analyses of transformation products (TPs) across three legacy PFAS families: RF–CH2CH2–COO– (FTCA), RF–SO3– (PFSA), and RF–COO– (PFCA) of various RF chain lengths. TPs from FTCAs evidence hydroxyl radical (HO•) from water photolysis. After the first C–F bond cleavage by eaq−, the fluorocarbon undergoes hydrogenation, sulfonation, hydroxylation (followed by C–C bond cleavage), or unsaturated bond formation by reacting with H+ (and another eaq−), SO3−•, HO•, or HO–, respectively. The TPs provide strong experimental evidence for the electron-transfer-limiting theory. More importantly, results demonstrate the critical role of C–C bond cleavage to generate new –COO– groups in TPs and elucidate the preference for alkaline pH toward deep defluorination. The “decarboxylation” for PFCA chain-shortening produces HCOO– rather than CO2 or CO postulated in recent literature. This work significantly updates fundamental chemical insights for (i) tackling PFAS pollution and (ii) designing readily degradable fluorochemicals.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-92q7k?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-92q7k?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-92q7k?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [80] Organic Chemistry on ChemRxiv ▶ The emergence of chirality in time and space: transient asymmetry in supramolecular polymers triggered by visible light</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Asymmetry is a fundamental property in the molecular organization of life, but how it emerges and propagates remains elusive. One-dimensional assemblies formed through reversible, non-covalent interac</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, water, chirality</p>
+<p><strong>AI Decision:</strong> Using visible light to transiently switch a chiral surfactant, the authors show reversible yet long-lived amplification of helical bias (supramolecular chirality) in water-compatible racemic supramolecular polymers, offering a plausible model for how biological asymmetry could emerge and persist under non-equilibrium conditions.</p>
+<p><strong>Abstract:</strong> Asymmetry is a fundamental property in the molecular organization of life, but how it emerges and propagates remains elusive. One-dimensional assemblies formed through reversible, non-covalent interactions can adopt helical confor-mations and reorganize slowly, making them powerful model systems for studying the emergence and persistence of asym-metry in aqueous environments. Recent studies have shown that chiral surfactants can transfer their stereogenic information inducing a helical bias in supramolecular polymers. Here, using light as a non-invasive trigger, we demonstrate how two phe-nomena with different kinetics coalesce to establish a profound amplification of asymmetry in co-assemblies of racemic su-pramolecular polymers and chiral surfactants. Upon irradiation, the photoresponsive merocyanine surfactant undergoes quick isomerization into its more hydrophobic spiropyran form, enhancing its interaction with the racemic polymer and in-ducing an effective helical bias that develops and persists on timescales that far exceed the lifetime of the molecular trigger. This light-driven asymmetry is fully reversible and involves metastable structures which can be further promoted by brief, well-timed light pulses. Our findings demonstrate that limited administrations of light can induce and sustain asymmetric states in water-compatible supramolecular polymers, opening avenues for dynamic supramolecular materials with non-equi-librium features toward life-like adaptive systems. It shows a unique emergence of supramolecular chirality in time and space.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [60] ChemRxiv ▶ How flexible is a DNA duplex ? An investigation by NMR relaxometry and molecular dynamics simulations</title>
+    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-wzcx6?rft_dat=source%3Ddrss"/>
+    <id>https://dx.doi.org/10.26434/chemrxiv-2026-wzcx6?rft_dat=source%3Ddrss</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>Nucleic acids are central to many bio-molecular processes central to cellular life, yet characterising their molecular motions and fluctuations with atomic resolution can be challenging. To tackle thi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, life</p>
+<p><strong>AI Decision:</strong> Uses high-resolution NMR relaxometry plus molecular dynamics to resolve picosecond–nanosecond DNA duplex motions (helical and sugar-puckering dynamics), providing a biophysical framework that can inform how nucleic-acid polymers fluctuate and function in life-relevant contexts.</p>
+<p><strong>Abstract:</strong> Nucleic acids are central to many bio-molecular processes central to cellular life, yet characterising their molecular motions and fluctuations with atomic resolution can be challenging. To tackle this, we introduce high resolution relaxometry, combined with high field nuclear spin relaxation as a powerful tool to probe the motions. With this approach we identify motions occurring both on the picosecond and low nanosecond time-scales. By integrating these results with molecular dynamics simulations and ensembles, obtained from residual dipolar coupling (RDC) measurements, we can identify which timescales helical motions and sugar puckering dynamics occur on. The approach outlined in this study provides a framework for interrogating molecular dynamics in nucleic acids and benchmarking approaches, such as molecular dynamics simulations, that aim to characterise dynamic processes.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-wzcx6?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-wzcx6?rft_dat=source%3Ddrss</a></li>
+</ul>
+<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-wzcx6?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] ChemRxiv ▶ Monolithic Photoanodes of PTQ10:L8-BO with Improved Stability for Solar Water Oxidation and Enhanced Unassisted Water Splitting</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss"/>
@@ -6956,17 +7040,5 @@
 <p><strong>Abstract:</strong> New research led by Liverpool School of Tropical Medicine (LSTM) warns that hybrid forms of the parasites that cause schistosomiasis are undermining existing disease control strategies and could accelerate the spread of infection in Africa and beyond.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-hybrid-parasites-threaten-world-widespread.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] ScienceDaily - Evolutionary Biology News ▶ The 4x rule: Why some people’s DNA is more unstable than others</title>
-    <link href="https://www.sciencedaily.com/releases/2026/01/260109080214.htm"/>
-    <id>https://www.sciencedaily.com/releases/2026/01/260109080214.htm</id>
-    <updated>2026-01-09T13:35:07Z</updated>
-    <summary>A large genetic study shows that many people carry DNA sequences that slowly expand as they get older. Common genetic variants can dramatically alter how fast this expansion happens, sometimes multipl</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Large human genetics study finds age-related somatic DNA repeat expansions are common, modulated by common variants (up to ~4× faster), and some expansions associate with severe kidney and liver disease.</p>
-<p><strong>Abstract:</strong> A large genetic study shows that many people carry DNA sequences that slowly expand as they get older. Common genetic variants can dramatically alter how fast this expansion happens, sometimes multiplying the pace by four. Researchers also identified specific DNA expansions linked to severe kidney and liver disease. The findings suggest that age-related DNA instability is far more common than previously realized.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencedaily.com/releases/2026/01/260109080214.htm">Read source article</a></p>]]></content>
   </entry>
 </feed>

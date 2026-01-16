@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [How flexible is a DNA duplex ? An investigation by NMR relax](https://dx.doi.org/10.26434/chemrxiv-2026-wzcx6?rft_dat=source%3Ddrss) |
+| ai_scored | 80 | [The emergence of chirality in time and space: transient asym](https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss) |
+| ai_scored | 10 | [PFAS Degradation by UV/Sulfite: Mechanisms, Pathways, and Pr](https://dx.doi.org/10.26434/chemrxiv-2026-92q7k?rft_dat=source%3Ddrss) |
+| ai_scored | 15 | [Spatiotemporal prediction of water quality and ecological ri](https://www.nature.com/articles/s41598-025-34722-9) |
+| ai_scored | 15 | [Lets Tweap again: Economic and SNP retrieval optimisation fo](https://www.biorxiv.org/content/10.64898/2026.01.15.699081v1?rss=1) |
+| ai_scored | 80 | [The emergence of chirality in time and space: transient asym](https://dx.doi.org/10.26434/chemrxiv-2026-x0r9k?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116083516&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Why Are There No Green Stars?](https://www.scientificamerican.com/article/why-are-there-no-green-stars/) |
+| keyword_rejected | - | [Astronomers Spot Mysterious Bar-Shaped Cloud of Iron Inside ](https://www.scientificamerican.com/article/astronomers-spot-mysterious-bar-shaped-cloud-of-iron-inside-an-iconic-nebula/) |
+| keyword_rejected | - | [BD, témoignages: quand des alcooliques vident leur verre](https://www.sciencesetavenir.fr/sante/bd-temoignages-quand-des-alcooliques-vident-leur-verre_190439?xtor=RSS-16) |
+| keyword_rejected | - | [Médicaments innovants: le professeur Alain Fischer dénonce u](https://www.sciencesetavenir.fr/sante/medicaments-innovants-le-professeur-alain-fischer-denonce-une-derive-des-prix_190440?xtor=RSS-16) |
+| keyword_rejected | - | [Spatiotemporally ordered topological transformation in layer](https://www.nature.com/articles/s41467-026-68326-2) |
+| keyword_rejected | - | [Engineering Avidin-Functionalized Gold Nanoparticles for LIG](https://dx.doi.org/10.26434/chemrxiv-2026-284r4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [Data-Driven Transfer Learning Across MOF-Derived Zirconia Po](https://dx.doi.org/10.26434/chemrxiv-2026-7lnbc?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [pyEF: A Python Framework for QM and QM/MM Atom-Wise Electric](https://dx.doi.org/10.26434/chemrxiv-2026-3cbg4?rft_dat=source%3Ddrss) |
+| keyword_rejected | - | [BN-Engineered Quasi-2D Fullerene Monolayers as High-Performa](https://dx.doi.org/10.26434/chemrxiv-2026-st3v1?rft_dat=source%3Ddrss) |
 | ai_scored | 45 | [Monolithic Photoanodes of PTQ10:L8-BO with Improved Stabilit](https://dx.doi.org/10.26434/chemrxiv-2026-bkz0s?rft_dat=source%3Ddrss) |
 | keyword_rejected | - | [New Scientist recommends Why We Drink Too Much for Dry Janua](https://www.newscientist.com/article/mg26935780-500-new-scientist-recommends-why-we-drink-too-much-for-dry-january/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [New Scientist recommends Why We Drink Too Much for Dry Janua](https://www.newscientist.com/article/mg26935780-500-new-scientist-recommends-why-we-drink-too-much-for-dry-january/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
