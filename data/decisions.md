@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117041650&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Comprendre les effets de l'alimentation sur la santé](https://www.sciencesetavenir.fr/nutrition/comprendre-les-effets-de-l-alimentation-sur-la-sante_190076?xtor=RSS-28) |
+| keyword_rejected | - | [A small molecule VDAC ligand inhibits ERAD and induces selec](https://www.nature.com/articles/s41467-025-67816-z) |
+| keyword_rejected | - | [Intranasal blood-brain barrier bypass enables sequential mit](https://www.nature.com/articles/s41467-025-68024-5) |
+| keyword_rejected | - | [Shoulder joint mobilization does not acutely affect strength](https://www.nature.com/articles/s41598-025-34680-2) |
+| keyword_rejected | - | [Upright and supine assessment of pelvic floor muscle defects](https://www.nature.com/articles/s41598-026-35598-z) |
+| keyword_rejected | - | [Meta-learning for few-shot open task recognition](https://www.nature.com/articles/s41598-026-36291-x) |
+| keyword_rejected | - | [The emerging role of SPHK1 at the immune-metabolic interface](https://www.nature.com/articles/s41598-026-35350-7) |
+| keyword_rejected | - | [Exciton-polariton photodiodes](https://www.nature.com/articles/s41467-026-68312-8) |
+| keyword_rejected | - | [Intranasal blood-brain barrier bypass enables sequential mit](https://www.nature.com/articles/s41467-025-68024-5) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117032136&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Non-cohesive jet formation of Zr-based amorphous alloy shape](https://www.nature.com/articles/s41598-026-35608-0) |
 | keyword_rejected | - | [Unveiling InTe for flexible thermoelectric applications with](https://www.nature.com/articles/s41598-026-35782-1) |
