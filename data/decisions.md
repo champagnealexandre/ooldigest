@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [First-Principles Nanocapacitor Simulations of the Optical Di](http://link.aps.org/doi/10.1103/8sjg-ybfw) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116221954&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Quarter-Metal Superconductivity in Rhombohedral Graphene](http://link.aps.org/doi/10.1103/fcdc-9lm3) |
+| keyword_rejected | - | [Rigorous Theory of Coupled Resonators](http://link.aps.org/doi/10.1103/fqzx-xtl9) |
+| keyword_rejected | - | [Molecular Alignment Echo for Controlling the Readout Time of](http://link.aps.org/doi/10.1103/vpd3-gtxr) |
+| keyword_rejected | - | [First Results on the Search for Lepton Number Violating Neut](http://link.aps.org/doi/10.1103/25tk-nctn) |
+| keyword_rejected | - | [Investigation and research on germplasm resources of <i>Loni](https://www.nature.com/articles/s41598-025-34953-w) |
+| keyword_rejected | - | [Identifying the potential anti-lung cancer targets of Baical](https://www.nature.com/articles/s41598-026-35351-6) |
+| keyword_rejected | - | [Gradient nanofiber aerogels for extreme cryogenic and therma](https://www.nature.com/articles/s41467-025-66627-6) |
 | ai_scored | 20 | [Neural microexons contain lengthened sequence and extended R](https://www.biorxiv.org/content/10.64898/2026.01.16.699960v1?rss=1) |
 | ai_scored | 35 | [Adaptive evolution to thermal stress underpins climate resil](https://www.biorxiv.org/content/10.64898/2026.01.16.699875v1?rss=1) |
 | ai_scored | 45 | [The modular evolution of chitinases is governed by coevoluti](https://www.biorxiv.org/content/10.64898/2026.01.15.699799v1?rss=1) |
