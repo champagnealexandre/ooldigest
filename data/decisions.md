@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Molecular determinants of Smc5/6 association with DNA juncti](https://www.nature.com/articles/s41467-025-67999-5) |
+| ai_scored | 30 | [A single valine to leucine switch disrupts Plasmodium falcip](https://www.nature.com/articles/s41467-026-68416-1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117012526&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Af-CUT&Tag: a sensitive and antibody-free chromatin profilin](https://www.nature.com/articles/s41467-026-68454-9) |
+| keyword_rejected | - | [GPR156 is required in sensory hair cells for proper auditory](https://www.nature.com/articles/s41598-025-34476-4) |
+| keyword_rejected | - | [Reconstruction of temperature, precipitation, and identifica](https://www.nature.com/articles/s41598-026-36469-3) |
+| keyword_rejected | - | [A multi-method analysis of employee-driven green service inn](https://www.nature.com/articles/s41598-025-34970-9) |
+| keyword_rejected | - | [Wideband tilted beam end-fire antenna using double semi-circ](https://www.nature.com/articles/s41598-026-35414-8) |
+| keyword_rejected | - | [Optimal fuel cell control modeling with feedback linearizati](https://www.nature.com/articles/s41598-026-35888-6) |
+| keyword_rejected | - | [Innovative application of a traffic-prediction spatio-tempor](https://www.nature.com/articles/s41598-026-36225-7) |
 | ai_scored | 45 | [Understanding the evolution and clade diversity of Mayorella](https://www.biorxiv.org/content/10.64898/2026.01.15.699748v1?rss=1) |
 | keyword_rejected | - | [Caral, la plus ancienne civilisation des Amériques](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/caral-la-plus-ancienne-civilisation-des-ameriques_190109?xtor=RSS-4) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117001746&v=2.18.0.post22+67771e2) |
