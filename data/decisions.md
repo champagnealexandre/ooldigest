@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Blood-brain barrier disrupting stimuli induce production of ](https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1) |
+| keyword_rejected | - | [First treaty to protect the high seas comes into force](https://www.newscientist.com/article/2512101-first-treaty-to-protect-the-high-seas-comes-into-force/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [First treaty to protect the high seas comes into force](https://www.newscientist.com/article/2512101-first-treaty-to-protect-the-high-seas-comes-into-force/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [First treaty to protect the high seas comes into force](https://www.newscientist.com/article/2512101-first-treaty-to-protect-the-high-seas-comes-into-force/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [TidyMass2: advancing LC-MS untargeted metabolomics through m](https://www.nature.com/articles/s41467-026-68464-7) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116232927&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Efficient solution-processed light-emitting diodes based on ](https://www.nature.com/articles/s41467-026-68597-9) |
 | ai_scored | 45 | [First-Principles Nanocapacitor Simulations of the Optical Di](http://link.aps.org/doi/10.1103/8sjg-ybfw) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260116221954&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Quarter-Metal Superconductivity in Rhombohedral Graphene](http://link.aps.org/doi/10.1103/fcdc-9lm3) |

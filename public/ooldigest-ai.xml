@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T03:20:05.555821+00:00</updated>
+  <updated>2026-01-17T04:29:38.285256+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Blood-brain barrier disrupting stimuli induce production of extracellular vesicles with distinct protein cargoes and functionality</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1</id>
+    <updated>2026-01-16T00:00:00Z</updated>
+    <summary>The blood-brain barrier (BBB) protects the brain from substances in the circulation; yet, this barrier can be breached. Systemic lupus erythematosus is a disease in which over 50% of patients experien</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Study shows blood–brain barrier–disrupting stimuli drive brain endothelial cells to release extracellular vesicles with stimulus-specific protein cargo that can feed-forward to alter endothelial gene expression, with potential biomarker implications but minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> The blood-brain barrier (BBB) protects the brain from substances in the circulation; yet, this barrier can be breached. Systemic lupus erythematosus is a disease in which over 50% of patients experience manifestations of neuropsychiatric lupus (NPSLE), with many displaying BBB dysfunction. High levels of TNF, IL-1{beta}, C5a, and epinephrine, which have all been shown to cause BBB permeability, may be present in the serum of SLE patients. Brain microvascular endothelial cells (BMVECs) are a major structural element of the BBB. We asked whether BMVECs stimulated with barrier-disrupting factors release extracellular vesicles (EVs) which might participate in autocrine signaling or might have utility as diagnostic biomarkers of BBB permeability. We analyzed proteins in EVs secreted by unstimulated and stimulated BMVECs by mass spectrometry and used secreted EVs for further BMVEC stimulation. We subjected BMVECs to bulk RNA-seq to identify response signatures to the initial stimulus and to secondary stimulation with EVs. We show that there are agent-specific EV-associated protein profiles. EVs from BMVECs subjected to BBB-breaching stimuli alter the BMVEC transcriptional program, representing a potential feed-forward mechanism. Finally, we suggest that the proteins associated with EVs might be markers of BBB disruption.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.15.699203v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] Phys. Rev. Lett. ▶ First-Principles Nanocapacitor Simulations of the Optical Dielectric Constant in Water Ice</title>
     <link href="http://link.aps.org/doi/10.1103/8sjg-ybfw"/>
