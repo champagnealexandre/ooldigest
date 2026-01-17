@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Ohmic–polarization transition in hydrated DNA](https://www.sciencedirect.com/science/article/pii/S0303264726000183?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117132323&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Social-ecological network analysis of national park attracti](https://www.nature.com/articles/s41599-026-06505-8) |
+| keyword_rejected | - | [Internal quantum constraints of natural computation in autop](https://www.sciencedirect.com/science/article/pii/S0303264726000171?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Information transmission and processing in G-protein-coupled](https://www.sciencedirect.com/science/article/pii/S030326472600016X?dgcid=rss_sd_all) |
 | keyword_rejected | - | [Le Fardier, précurseur de l'automobile](https://www.sciencesetavenir.fr/high-tech/transports/le-fardier-precurseur-de-l-automobile_190066?xtor=RSS-12) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117121425&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Multilayer oxide protection layer with multiple tunnelling p](https://www.nature.com/articles/s41467-026-68665-0) |
