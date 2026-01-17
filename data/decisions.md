@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117021611&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Tethered Signaling Proteins](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-125547?TRACK=RSS) |
 | ai_scored | 20 | [Molecular determinants of Smc5/6 association with DNA juncti](https://www.nature.com/articles/s41467-025-67999-5) |
 | ai_scored | 30 | [A single valine to leucine switch disrupts Plasmodium falcip](https://www.nature.com/articles/s41467-026-68416-1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117012526&v=2.18.0.post22+67771e2) |
