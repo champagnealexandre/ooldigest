@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T12:32:20.864335+00:00</updated>
+  <updated>2026-01-17T13:26:22.878254+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] PNAS Evolution ▶ “Excluded phenotypes” restrict genetic paths toward adaptation in declining populations</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R</id>
+    <updated>2026-01-16T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe works of Fisher, Kimura, Orr, and others have established the micromutational view of evolution, in </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This PNAS study models how population decline can constrain evolutionary adaptation by creating “excluded phenotypes” that block otherwise accessible genetic paths, offering broad evolutionary context but not a direct origins-of-life contribution.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceThe works of Fisher, Kimura, Orr, and others have established the micromutational view of evolution, in which small changes in successive generations of organisms are the drivers of adaptation in growing or constant size populations. However, ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] PNAS Evolution ▶ Evolution of environmental sex determination via juvenile hormone–induced gene co-option in Daphnia</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R</id>
+    <updated>2026-01-16T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceSex determination is a central biological process, yet its evolutionary diversification remains incomple</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This PNAS study shows how juvenile hormone signaling can drive gene co-option underlying environmental sex determination in the eukaryotic crustacean Daphnia, offering broad evolutionary context but limited direct relevance to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 3, January 2026. SignificanceSex determination is a central biological process, yet its evolutionary diversification remains incompletely understood. Juvenile hormone (JH) is well known in insects for regulating metamorphosis, reproduction, and other processes. In the ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [25] cell biology - biorXiv Preprints ▶ Primed-to-naive conversion of pluripotent stem cells can be tracked by specific DNA methylation changes for optimized culture conditions</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1"/>

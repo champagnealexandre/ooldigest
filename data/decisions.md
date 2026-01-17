@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Evolution of environmental sex determination via juvenile ho](https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R) |
+| ai_scored | 50 | [“Excluded phenotypes” restrict genetic paths toward adaptati](https://www.pnas.org/doi/abs/10.1073/pnas.2507223123?af=R) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117082611&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Les Olmèques ou les dangers de l'écriture](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-olmeques-ou-les-dangers-de-l-ecriture_190110?xtor=RSS-4) |
+| keyword_rejected | - | [AI-guided CAR designs and targeted pathway modulation to enh](https://www.nature.com/articles/s41467-025-68272-5) |
+| keyword_rejected | - | [NASA's new moon rocket heads to the pad ahead of astronaut l](https://phys.org/news/2026-01-nasa-moon-rocket-pad-astronaut.html) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117073216&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [This gene may determine if dogs have long, floppy ears or sh](https://www.scientificamerican.com/article/this-gene-may-determine-if-dogs-have-long-floppy-ears-or-short-study-ones/) |
 | keyword_rejected | - | [QAL333’s antitumor activity and predictive modeling: integra](https://www.nature.com/articles/s41598-026-36430-4) |
