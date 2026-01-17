@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le Fardier, précurseur de l'automobile](https://www.sciencesetavenir.fr/high-tech/transports/le-fardier-precurseur-de-l-automobile_190066?xtor=RSS-12) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117121425&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Multilayer oxide protection layer with multiple tunnelling p](https://www.nature.com/articles/s41467-026-68665-0) |
 | ai_scored | 55 | [Decoded rules of microRNA strand selection reveal conserved,](https://phys.org/news/2026-01-decoded-microrna-strand-reveal-programmable.html) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117111858&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [World models could unlock the next revolution in artificial ](https://www.scientificamerican.com/article/world-models-could-unlock-the-next-revolution-in-artificial-intelligence/) |
