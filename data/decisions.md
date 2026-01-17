@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117101631&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Valence-free open nanoparticle superlattices](https://www.nature.com/articles/s41467-026-68316-4) |
+| keyword_rejected | - | [Weight-independent effects of dietary carbohydrate-to-fat ra](https://www.nature.com/articles/s41467-026-68353-z) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117091547&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Robust characterization and interpretation of rare pathogeni](https://www.nature.com/articles/s41467-026-68500-6) |
 | ai_scored | 45 | [Evolution of environmental sex determination via juvenile ho](https://www.pnas.org/doi/abs/10.1073/pnas.2525480123?af=R) |
