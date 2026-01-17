@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117032136&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Non-cohesive jet formation of Zr-based amorphous alloy shape](https://www.nature.com/articles/s41598-026-35608-0) |
+| keyword_rejected | - | [Unveiling InTe for flexible thermoelectric applications with](https://www.nature.com/articles/s41598-026-35782-1) |
+| keyword_rejected | - | [Aesculetin (6,7-dihydroxycoumarin) enhances the differentiat](https://www.nature.com/articles/s41598-026-36084-2) |
+| keyword_rejected | - | [Study on the driving mechanism of cultivated land change in ](https://www.nature.com/articles/s41598-026-35760-7) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117021611&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Tethered Signaling Proteins](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-125547?TRACK=RSS) |
 | ai_scored | 20 | [Molecular determinants of Smc5/6 association with DNA juncti](https://www.nature.com/articles/s41467-025-67999-5) |
