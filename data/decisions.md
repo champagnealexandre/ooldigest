@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 90 | [Stellar Control On Atmospheric Carbon Chemistry, CO Runaway,](https://astrobiology.com/2026/01/stellar-control-on-atmospheric-carbon-chemistry-co-runaway-and-organic-synthesis-on-lifeless-earth-like-planets.html) |
+| ai_scored | 50 | [Lichen Paved The Way For Plants And Animals To Thrive On Ear](https://astrobiology.com/2026/01/lichen-paved-the-way-for-plants-and-animals-to-thrive-on-earth.html) |
+| ai_scored | 40 | [NASA Goddard Instrument Field Team at Long Valley Caldera](https://astrobiology.com/2026/01/nasa-goddard-instrument-field-team-at-long-valley-caldera.html) |
+| ai_scored | 55 | [Setting Up The Physical Principles Of Resilience In A Model ](https://astrobiology.com/2026/01/setting-up-the-physical-principles-of-resilience-in-a-model-of-the-earth-system-system.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118151829&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Infrared and visible image fusion via visual enhancement and](https://www.nature.com/articles/s41598-026-35763-4) |
+| keyword_rejected | - | [Microbial Antioxidants Reduce ROS In Human Skin Cells Under ](https://www.biorxiv.org/content/10.64898/2026.01.15.699165v1?rss=1) |
 | ai_scored | 45 | [Dale Andersen’s Astrobiology Antarctic Status Report: 18 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-18-january-2026-lake-untersee-base-camp-is-operational.html) |
 | ai_scored | 45 | [Marine Geoscientists Link Earth Warming With Ancient Ocean ‘](https://astrobiology.com/2026/01/marine-geoscientists-link-earth-warming-with-ancient-ocean-salty-blob.html) |
 | ai_scored | 80 | [Experiments bring Enceladus' subsurface ocean into the lab](https://phys.org/news/2026-01-enceladus-subsurface-ocean-lab.html) |
