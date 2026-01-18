@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Dale Andersen’s Astrobiology Antarctic Status Report: 18 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-18-january-2026-lake-untersee-base-camp-is-operational.html) |
+| ai_scored | 45 | [Marine Geoscientists Link Earth Warming With Ancient Ocean ‘](https://astrobiology.com/2026/01/marine-geoscientists-link-earth-warming-with-ancient-ocean-salty-blob.html) |
+| ai_scored | 80 | [Experiments bring Enceladus' subsurface ocean into the lab](https://phys.org/news/2026-01-enceladus-subsurface-ocean-lab.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118141310&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118132244&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [La Réunion: le volcan du Piton de la Fournaise entre en érup](https://www.sciencesetavenir.fr/nature-environnement/la-reunion-le-volcan-du-piton-de-la-fournaise-entre-en-eruption_190453?xtor=RSS-15) |
 | keyword_rejected | - | [How to prevent charge buildup in a lunar rover](https://phys.org/news/2026-01-buildup-lunar-rover.html) |
