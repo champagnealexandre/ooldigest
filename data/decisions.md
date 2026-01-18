@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118101555&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Les opposants à la future loi fin de vie manifestent à Paris](https://www.sciencesetavenir.fr/sante/les-opposants-a-la-future-loi-fin-de-vie-manifestent-a-paris_190451?xtor=RSS-16) |
+| keyword_rejected | - | [Social image presentation of virtual sports in social media ](https://www.nature.com/articles/s41598-026-36725-6) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118091523&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [NASA moves moon rocket to launch pad ahead of Artemis 2 miss](https://phys.org/news/2026-01-nasa-moon-rocket-pad-artemis.html) |
 | keyword_rejected | - | ["Nos ancêtres du paléolithique exerçaient un art de l'attent](https://www.sciencesetavenir.fr/decouvrir/livres/nos-ancetres-du-paleolithique-exercaient-un-art-de-l-attention_190079?xtor=RSS-27) |
