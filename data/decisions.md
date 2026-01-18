@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | ["La plupart des espèces domestiquées dans l'histoire humaine](https://www.sciencesetavenir.fr/animaux/la-plupart-des-especes-domestiquees-dans-l-histoire-humaine-l-ont-ete-depuis-un-siecle_190070?xtor=RSS-26) |
+| keyword_rejected | - | [Optimizing nitrogen and sulfur supplementation for enhanced ](https://www.nature.com/articles/s41598-025-26760-0) |
+| keyword_rejected | - | [Laplacian reconstructive network for guided thermal super-re](https://www.nature.com/articles/s41598-026-36027-x) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118002028&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117233838&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Localisation of corticosteroids in male mouse kidney by mass](https://www.biorxiv.org/content/10.64898/2026.01.16.699839v1?rss=1) |
 | ai_scored | 55 | [Drying parameters and aging modulate protective properties o](https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1) |
