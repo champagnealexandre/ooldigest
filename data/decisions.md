@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118061354&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Research on deep learning architecture optimization method f](https://www.nature.com/articles/s41598-025-32015-9) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118051741&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Escher, l’arpenteur des mondes impossibles](https://www.pourlascience.fr/sr/art-science/escher-l-arpenteur-des-mondes-impossibles-28675.php) |
