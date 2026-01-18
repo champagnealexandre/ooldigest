@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Drying parameters and aging modulate protective properties o](https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117224239&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Chemical genomics screening reveals novel functions for unan](https://www.biorxiv.org/content/10.64898/2026.01.16.699870v1?rss=1) |
+| keyword_rejected | - | [Iterative Bump-and-hole engineering creates a bioorthogonal ](https://www.biorxiv.org/content/10.64898/2026.01.16.699845v1?rss=1) |
+| keyword_rejected | - | [An Integrated Method for Profiling Lipid-Protein Interaction](https://www.biorxiv.org/content/10.64898/2026.01.17.700062v1?rss=1) |
+| keyword_rejected | - | [Gene tree discordance, rapid diversification and convergence](https://www.biorxiv.org/content/10.64898/2026.01.16.699981v1?rss=1) |
+| keyword_rejected | - | [Structural alphabets approach performance of structural alig](https://www.biorxiv.org/content/10.64898/2026.01.16.699908v1?rss=1) |
 | ai_scored | 35 | [Dimerization of the S. cerevisiae Spo11 core complex](https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1) |
 | ai_scored | 48 | [Inosine misincorporation into mRNA triggers the integrated s](https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1) |
 | ai_scored | 20 | [Human CCR4-NOT suppresses pervasive transcription and retrot](https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1) |

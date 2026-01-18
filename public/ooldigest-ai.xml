@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-18T01:27:32.389986+00:00</updated>
+  <updated>2026-01-18T03:42:53.527075+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] biochemistry - biorXiv Preprints ▶ Drying parameters and aging modulate protective properties of vitrified trehalose</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>Storage of biological materials is essential for medical, research, and biotechnological applications. While cold-chain preservation is effective, it is costly, infrastructure-dependent, and vulnerabl</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> This study quantifies how drying conditions and physical aging in vitrified trehalose affect the room‑temperature stability of DNA, RNA, and enzymes—insights relevant to astrobiology via biomolecule persistence under desiccating conditions, though it is primarily a biopreservation/biotechnology paper rather than core origins-of-life.</p>
+<p><strong>Abstract:</strong> Storage of biological materials is essential for medical, research, and biotechnological applications. While cold-chain preservation is effective, it is costly, infrastructure-dependent, and vulnerable to disruption. Room-temperature dry storage, inspired by desiccation-tolerant organisms, provides an alternative by stabilizing biomolecules in vitrified (glass-like) matrices that limit molecular motion which if not reduced can lead to breakdown and loss of integrity. Trehalose is widely used as a vitrifying agent, but its protective capacity depends on glassy properties shaped by drying methods, environmental conditions, storage duration, and the type of preserved molecule. Systematic studies linking these factors to short and long-term stability remain limited. Here, we examine how drying conditions and storage duration influence the stability of DNA, RNA, and enzymes in vitrified trehalose systems. DNA remained stable under all conditions, independent of trehalose or drying parameters, reflecting its intrinsic resistance to desiccation-induced damage. RNA showed moderate sensitivity to drying without trehalose but was stabilized in its presence, although RNA integrity did not consistently correlate with measured vitrified properties. In contrast, enzymes were highly sensitive to drying without trehalose and were strongly protected under conditions that promoted favorable vitrified properties. Enzyme protection after 30 minutes correlated with high glass transition temperature. However, during prolonged drying, increased glass transition temperature was inversely correlated with enzyme protection and was a better indicator of detrimental physical aging of the vitrified system. These findings present the first insight into how drying methods, environmental conditions, and storage duration shape vitrified properties and stability. They guide optimization of room-temperature preservation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [10] molecular biology - biorXiv Preprints ▶ INTS12 Bridges Integrator and NELF to Prevent the Release of Non-processive RNA Polymerase II Complexes</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1"/>
