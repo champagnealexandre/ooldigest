@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118111955&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Enhanced YOLOv11n for small object detection in UAV imagery:](https://www.nature.com/articles/s41598-026-35301-2) |
+| keyword_rejected | - | [Elevated cerebral oxygen extraction fraction in Parkinson’s ](https://www.nature.com/articles/s41598-026-36435-z) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118101555&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Les opposants à la future loi fin de vie manifestent à Paris](https://www.sciencesetavenir.fr/sante/les-opposants-a-la-future-loi-fin-de-vie-manifestent-a-paris_190451?xtor=RSS-16) |
 | keyword_rejected | - | [Social image presentation of virtual sports in social media ](https://www.nature.com/articles/s41598-026-36725-6) |
