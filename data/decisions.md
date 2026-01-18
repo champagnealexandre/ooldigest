@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [The science that will help you feel more fulfilled with your](https://www.newscientist.com/article/mg26935781-100-the-science-that-will-help-you-feel-more-fulfilled-with-your-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [The science that will help you feel more fulfilled with your](https://www.newscientist.com/article/mg26935781-100-the-science-that-will-help-you-feel-more-fulfilled-with-your-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [The science that will help you feel more fulfilled with your](https://www.newscientist.com/article/mg26935781-100-the-science-that-will-help-you-feel-more-fulfilled-with-your-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118073244&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Genetic diversity in the <i>Plasmodium falciparum</i> next-g](https://www.nature.com/articles/s41598-026-36257-z) |
+| keyword_rejected | - | [Few-shot cross-episode adaptive memory for metal surface def](https://www.nature.com/articles/s41598-026-36445-x) |
+| keyword_rejected | - | [An individual-based simulation framework exploring the ecolo](https://www.sciencedirect.com/science/article/pii/S0022519326000044?dgcid=rss_sd_all) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118061354&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Research on deep learning architecture optimization method f](https://www.nature.com/articles/s41598-025-32015-9) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118051741&v=2.18.0.post22+67771e2) |
