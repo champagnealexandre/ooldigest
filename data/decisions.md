@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [Dimerization of the S. cerevisiae Spo11 core complex](https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1) |
+| ai_scored | 48 | [Inosine misincorporation into mRNA triggers the integrated s](https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1) |
+| ai_scored | 20 | [Human CCR4-NOT suppresses pervasive transcription and retrot](https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1) |
+| ai_scored | 25 | [Recognizing dUTPase as a mitotic factor essential for early ](https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1) |
+| ai_scored | 10 | [INTS12 Bridges Integrator and NELF to Prevent the Release of](https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260117202716&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Structure and mechanism of human sphingosine-1-phosphate tra](https://www.biorxiv.org/content/10.64898/2026.01.16.700024v1?rss=1) |
+| keyword_rejected | - | [Organic Components Modulate the Morphology of Respirable Aer](https://www.biorxiv.org/content/10.64898/2026.01.16.699978v1?rss=1) |
+| keyword_rejected | - | [AFsample3: Generating and selecting multipleconformational s](https://www.biorxiv.org/content/10.64898/2026.01.16.699904v1?rss=1) |
+| keyword_rejected | - | [Structure and signaling mechanism of Helicobacter pylori tra](https://www.biorxiv.org/content/10.64898/2026.01.16.699579v1?rss=1) |
 | keyword_rejected | - | [Living together with differences: Mathematical model shows h](https://phys.org/news/2026-01-differences-mathematical-social-friction-consensus.html) |
 | keyword_rejected | - | [Mysterious iron 'bar' discovered in famous nebula](https://phys.org/news/2026-01-mysterious-iron-bar-famous-nebula.html) |
 | keyword_rejected | - | [Correction: EgoVision: a YOLO-ViT hybrid for robust egocentr](https://www.nature.com/articles/s41598-026-36489-z) |

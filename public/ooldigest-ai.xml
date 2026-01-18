@@ -3,8 +3,78 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-17T23:16:08.680238+00:00</updated>
+  <updated>2026-01-18T01:27:32.389986+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ INTS12 Bridges Integrator and NELF to Prevent the Release of Non-processive RNA Polymerase II Complexes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>Promoter-proximal RNA Polymerase II (RNAPII) pausing and the processivity are controlled by distinct modules of the Integrator complex, which together fine-tune transcription and protect against the a</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study dissects how the eukaryotic Integrator subunit INTS12 modulates NELF–RNAPII pausing to prevent release of defective transcription complexes, a mechanistic advance in transcription regulation but with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Promoter-proximal RNA Polymerase II (RNAPII) pausing and the processivity are controlled by distinct modules of the Integrator complex, which together fine-tune transcription and protect against the accumulation of defective RNAPII complexes. Compromised activity of individual Integrator modules has been linked to human disease including cancer and developmental disorders, caused by defective transcription of protein-coding or small-nuclear RNAs. Despite extensive characterisation of the Integrator complex both genetically and structurally, the role of smallest member of the complex, INTS12, has remained enigmatic. Here, we uncover that INTS12 loss acts to stabilise the association between NELF and Integrator via its PHD domain and N-terminus, respectively, thus safeguarding against the release of defective RNAPII complexes. Acute degradation of INTS12 results in the selective dissociation of Integrator from the NELF-RNAPII complex which subsequently convert to their canonical paused form from which they can be released by CDK9. In the absence of INTS12 excess release of defective RNAPII via P-TEFb/SEC, loss of the ARMC5 salvage pathway and deletion of the catalytic and core Integrator subunits is toxic to cells. These findings demonstrate that there is interconversion between canonical paused RNAPII and paused-Integrator, and highlight the critical interplay between these processes and P-TEFb mediated pause-release to ensure that only transcription competent complexes are released into elongation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ Recognizing dUTPase as a mitotic factor essential for early embryonic development</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>dUTPase is universally regarded as a metabolic sanitizing enzyme that protects genomes by preventing the incorporation of uracil into DNA. Despite its essentiality across eukaryotes, no function beyon</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, DNA</p>
+<p><strong>AI Decision:</strong> Preprint reports a conserved, non-canonical role for dUTPase in regulating mitosis and centrosome/spindle integrity in Drosophila and mouse embryos, decoupling its essentiality from uracil-in-DNA repair (relevant mainly as general eukaryotic DNA biology rather than direct origins-of-life work).</p>
+<p><strong>Abstract:</strong> dUTPase is universally regarded as a metabolic sanitizing enzyme that protects genomes by preventing the incorporation of uracil into DNA. Despite its essentiality across eukaryotes, no function beyond nucleotide sanitization has been demonstrated. Here, we uncover a conserved, non-canonical role for dUTPase as a regulator of mitosis. Using Drosophila and mouse models, we demonstrate that dUTPase loss causes early embryonic lethality characterized by severe mitotic failure that, cannot be rescued by disabling uracil-DNA repair, uncoupling dUTPase essentiality from DNA repair pathways. Mechanistically, dUTPase dynamically associates with the mitotic spindle and centrosomes, and its depletion induces centrosome amplification and chromosome segregation defects. Beyond cell division, dUTPase dosage bidirectionally controls cell migration, linking its mitotic function to cellular behaviors relevant for metastasis. Together, our findings redefine dUTPase as a moonlighting mitotic factor that coordinates centrosome integrity and spindle dynamics, expanding its known repertoire beyond nucleotide metabolism.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ Human CCR4-NOT suppresses pervasive transcription and retrotransposable elements</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>CCR4-NOT regulates multiple steps in gene regulation and has been well studied in budding yeast. Although primarily cytoplasmic, where it plays an essential role in mRNA degradation, the human complex</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Using rapid degradation of CCR4-NOT subunits in human cells, the authors show this complex suppresses pervasive transcription and LINE retrotransposon activity by modulating KRAB-ZNF repression and promoting retrotransposon RNA decay.</p>
+<p><strong>Abstract:</strong> CCR4-NOT regulates multiple steps in gene regulation and has been well studied in budding yeast. Although primarily cytoplasmic, where it plays an essential role in mRNA degradation, the human complex has poorly characterized nuclear functions. Here, we used auxin-induced degradation to rapidly deplete the scaffold subunit CNOT1 and the E3 ligase CNOT4, and characterized the transcriptional functions of the human CCR4-NOT complex. Using transient transcriptome profiling (TT-Seq) to measure ongoing transcription, we found widespread activation of RNA synthesis in depleted cells across genic and intergenic regions. Interestingly, fewer genes were repressed, including KRAB-Zinc-Finger-protein (KZNF) genes, especially those on chromosome 19. KZNFs repress genes and retrotransposable elements (rTEs), and consistent with decreased KZNF expression, rTEs, mainly Long Interspersed Nuclear Elements (LINEs), were activated. Full-length active LINEs and rTEs lying outside of genes were activated, suggesting that the increased transcription is not the direct result of transcription of the genes the rTEs are embedded in. We found that most activated transcription events were in proximity to KZNF binding sites, suggesting that KZNF regulation contributes to the suppression of genic and rTE transcription. Finally, we demonstrate that CCR4-NOT regulates the stability of rTE RNAs, indicating that the complex tightly controls transposon expression by repressing transcription and targeting their RNAs for decay.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [48] molecular biology - biorXiv Preprints ▶ Inosine misincorporation into mRNA triggers the integrated stress response and activates an innate immune gene expression signature</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>The inosine triphosphate pyrophosphatase (ITPase) enzyme restricts levels of the non-canonical nucleotides (deoxy)inosine triphosphate (dITP/ITP) and prevents their aberrant misincorporation into nucl</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This preprint shows that inosine misincorporation into mRNA (normally prevented by ITPase) activates the integrated stress response via PKR and induces an innate immune-like transcriptional program, highlighting how non-canonical nucleotides in RNA can act as a potent cellular stress signal.</p>
+<p><strong>Abstract:</strong> The inosine triphosphate pyrophosphatase (ITPase) enzyme restricts levels of the non-canonical nucleotides (deoxy)inosine triphosphate (dITP/ITP) and prevents their aberrant misincorporation into nucleic acids. ITPase deficiency is associated with dilated cardiomyopathy and epileptic encephalopathy in humans and is usually fatal in infancy. It leads to pronounced inosine misincorporation into RNA but the cellular consequences of this misincorporation are not well understood and the pathogenic basis of ITPase deficiency remains unknown. Here we show that cellular transfection of mRNA with inosine misincorporation activates the integrated stress response (ISR) with an innate immune gene expression signature. This stress response triggers stress granule formation and is modulated by the double stranded RNA sensor protein Kinase R (PKR). Inosine nucleoside treatment of ITPase-deficient cells leads to endogenous inosine misincorporation into mRNA and activation of the ISR. Further, differentiation of human ITPase-deficient induced pluripotent stem cells into neurons results in a low-level stress response. Thus, our study establishes inosine misincorporation into mRNA as an unappreciated form of cellular stress. This is normally prevented by the ITPase enzyme, with implications for the pathogenesis of ITPase deficiency.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] molecular biology - biorXiv Preprints ▶ Dimerization of the S. cerevisiae Spo11 core complex</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1</id>
+    <updated>2026-01-17T00:00:00Z</updated>
+    <summary>Spo11 initiates meiotic recombination by introducing programmed DNA double-strand breaks. DNA cleavage occurs via a topoisomerase-like mechanism involving hybrid active sites formed at the dimer inter</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study dissects transient DNA-dependent dimerization and partner-assisted catalysis of the eukaryotic meiotic nuclease Spo11, offering mechanistic insight into modern DNA-processing complexes but with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Spo11 initiates meiotic recombination by introducing programmed DNA double-strand breaks. DNA cleavage occurs via a topoisomerase-like mechanism involving hybrid active sites formed at the dimer interface. However, in contrast to its topoisomerase relative (Topo VI), Spo11 does not form a stable dimer, likely to prevent uncontrolled DNA cleavage. Here, we investigated the dimerization of S. cerevisiae Spo11 in complex with its partners Ski8, Rec102, and Rec104. We show that the Spo11 complex dimerizes transiently on DNA, forming unstable dimeric complexes with duplex and branched DNA substrates. Guided by AlphaFold modeling of a pre-cleavage complex, we identified mutations that reduce dimerization. Surprisingly, DSB formation is resilient to mutagenesis of the Spo11 dimer interface, implying that additional factors promote dimerization in vivo. Finally, we found that Rec102 exerts a key DNA-binding function, essential for catalysis, and show that it also participates in dimerization through trans contacts with Ski8. Our work provides new insights into the mechanism of Spo11 dimerization and the role of its partners in initiating meiotic recombination.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [35] Astrobiology (astrobiology.com) ▶ WISE/CatWISE Constraints On Dysonian Waste-Heat Technosignatures In Nearby Galaxies</title>
     <link href="https://astrobiology.com/2026/01/wise-catwise-constraints-on-dysonian-waste-heat-technosignatures-in-nearby-galaxies.html"/>
@@ -7209,48 +7279,6 @@
 <p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [20] cell biology - biorXiv Preprints ▶ Single-cell RNA analysis reveals unexpected hemocyte plasticity and immune cell specialization in a Drosophila overgrowth model</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1</id>
-    <updated>2026-01-11T00:00:00Z</updated>
-    <summary>Immune cells play essential roles in maintaining tissue homeostasis and responding to abnormal growth, but how innate immune cells adapt to chronic apoptotic signaling remains poorly understood. In Dr</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Single-cell RNA-seq of ~50,000 Drosophila hemocytes in a chronic apoptotic overgrowth model reveals extensive plasmatocyte subtype diversity and plasticity, including novel effector states, but it has minimal direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Immune cells play essential roles in maintaining tissue homeostasis and responding to abnormal growth, but how innate immune cells adapt to chronic apoptotic signaling remains poorly understood. In Drosophila melanogaster, hemocytes, particularly plasmatocytes, are recruited to tumor-like overgrowths, yet their transcriptional diversity and lineage dynamics under these conditions remain undefined. Here, we apply single-cell RNA sequencing to nearly 50,000 circulating and sessile hemocytes from larvae bearing undead overgrown eye discs, a model of regenerative overgrowth driven by sustained caspase activity. We resolve 17 transcriptionally distinct hemocyte clusters, including known lineages and 13 previously unrecognized plasmatocyte subtypes. Interestingly, specific plasmatocyte populations are differentially expanded or depleted under overgrowth conditions. Notably, we identify a matrix-remodeling plasmatocyte population marked by high expression of Jonah-family serine proteases. Pseudotime analysis reveals unexpected plasmatocyte plasticity and two novel terminally differentiated effector states. These findings define the immune landscape of tumor-like overgrowth and establish Drosophila as a platform for dissecting innate immune responses to tissue stress and dysregulated growth in vivo.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698745v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolutionary conservation and innovations of RNA polymerase II transcription elongation factors</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1</id>
-    <updated>2026-01-11T00:00:00Z</updated>
-    <summary>In eukaryotes, transcription elongation factors (TEFs) associate with RNA Polymerase II (RNAPII) to facilitate gene expression and couple transcription to co-transcriptional processes, including chrom</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, eukaryo*, RNA</p>
-<p><strong>AI Decision:</strong> Domain-centric phylogenomic survey of ten RNA Pol II transcription elongation factors across the Tree of Life infers their presence in the last eukaryotic common ancestor and maps conserved versus clade-specific TEF domains, illuminating early eukaryotic transcription regulation evolution.</p>
-<p><strong>Abstract:</strong> In eukaryotes, transcription elongation factors (TEFs) associate with RNA Polymerase II (RNAPII) to facilitate gene expression and couple transcription to co-transcriptional processes, including chromatin regulation and RNA processing. To further our understanding of TEF biology, we developed a domain-centric analysis pipeline to perform a broad survey of ten TEF orthologs -- Paf1, Ctr9, Cdc73, Rtf1, Leo1, Spt4, Spt5, Spt6, Spn1, and Elf1 -- across the Tree of Life and analyze their evolutionary patterns in a structural context. We report evidence for all ten TEFs being present in the last eukaryotic common ancestor, indicating that mechanisms of TEF-mediated transcription regulation are both ancient and conserved. However, some early-diverging eukaryotic clades exhibit signs of altered TEF domain composition. A comparative phylogenetic analysis highlighted conserved regions of TEFs that are detected in both metazoans and fungi and other regions that appear clade-specific, detected only in metazoans. These observations, together with additional insights generated from evolutionary rate covariation analysis, shed light on under-characterized aspects of TEFs, including domains for which functions have yet to be dissected.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698887v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Lysine acetylation facilitates competitive recruitment of translation termination factor eRF3a by PABPC1 C-terminal domain</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1</id>
-    <updated>2026-01-11T00:00:00Z</updated>
-    <summary>In eukaryotic cells, almost all mRNA transcripts are polyadenylated in the nucleus, with the poly(A)-tail being critical for their export, translation and stability. PABPC1 is a multifunctional RNA-bi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, RNA</p>
-<p><strong>AI Decision:</strong> This study dissects how K606 acetylation in the PABPC1 PABC domain selectively strengthens binding to the eukaryotic translation termination factor eRF3a, reshaping PAM2-mediated partner competition and mRNA fate—highly relevant to modern eukaryotic regulation but only tangential to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> In eukaryotic cells, almost all mRNA transcripts are polyadenylated in the nucleus, with the poly(A)-tail being critical for their export, translation and stability. PABPC1 is a multifunctional RNA-binding protein (RBP) that binds poly(A)-tails and is a key driver of mRNA post-transcriptional regulation. It achieves this in part by interacting with a broad range of PAM2-motif containing proteins that bind the same common site within PABPC1&#x27;s PABC domain but result in diverse regulatory outcomes. Regulation of this intricate network of interactions remains poorly understood but our previous studies revealed the regulatory potential of mutually-exclusive acetylation or dimethylation of a key lysine sidechain (K606). To address this, we undertook a systematic study of PAM2-motifs, identifying translation termination factor eRF3a and translation repressor PAIP2 as having a &gt;ten-fold higher affinity for PABPC1 relative to eleven other PAM2-motif partner proteins. Acetylation of PABPC1 at K606 specifically enhances its affinity for eRF3a in vitro, and we present the crystal structure of the specifically K606 acetylated C-terminal domain of PABPC1 in complex with the PAM2 motif of eRF3a, providing structural and functional insights into how acetylation facilitates competitive eRF3a recruitment to PABPC1 and mRNA. We further demonstrate that K606 acetylation promotes PABPC1-eRF3a interaction in cells, thereby antagonising other PAM2-dependent RNA effectors. Taken together, our results show that acetylation of lysine 606 in the PABC domain can specifically modulate PABPC1 partner selectivity, providing crucial insight into how PABPC1 multifunctionality can be regulated to coordinate mRNA usage and fate in the cytoplasm.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698208v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [20] Scientific Reports ▶ Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial stress</title>
     <link href="https://www.nature.com/articles/s41598-025-31740-5"/>
     <id>https://www.nature.com/articles/s41598-025-31740-5</id>
@@ -7263,48 +7291,6 @@
 <li><a href="https://www.nature.com/articles/s41598-025-31740-5">https://www.nature.com/articles/s41598-025-31740-5</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41598-025-31740-5">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] cell biology - biorXiv Preprints ▶ Chronic stress disrupts the network among stress granules, P-bodies, and motor proteins</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1</id>
-    <updated>2026-01-11T00:00:00Z</updated>
-    <summary>Stress granules (SGs) are dynamic RNA granules that rapidly form in response to various stresses concurrent with mRNA translation shutdown, contributing to cellular adaptation and disease pathogenesis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This preprint dissects how chronic stress alters eukaryotic RNA stress granule/P-body dynamics via myosin and nucleator proteins, a modern cell-biology finding with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Stress granules (SGs) are dynamic RNA granules that rapidly form in response to various stresses concurrent with mRNA translation shutdown, contributing to cellular adaptation and disease pathogenesis. While SG assembly and disassembly under acute stress have been extensively characterized, how SGs behave under chronic stress remains poorly understood. We previously reported that chronic stress preconditioning inhibits the earliest steps of SG assembly via translation-dependent mechanisms. In contrast, the regulation of SG maturation under chronic stress has not yet been investigated. Here, we show that chronic stress decreases SG size by disrupting the MYH9-dependent myosin crosstalk with core SG nucleator G3BP1. This defect leads to impaired SG and processing body (PB) docking as well, limiting the biogenesis of early SGs. Furthermore, chronic stress reduces expression of the SG nucleator UBAP2L, required for SG-PB docking, thus exacerbating these deficiences. In summary, chronic stress disrupts the myosin-SG-PB network and inhibits SG maturation in a translation-independent manner.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698697v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [100] ChemRxiv ▶ Origins of Life: Chemistry and Evolution</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-11T00:00:00Z</updated>
-    <summary>Direct chemical synthesis and chemical evolution are conceptually different models for the prebiotic origin of RNA and other biopolymers. These models generate distinct predictions and motivate differ</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, RNA, life, prebiotic, earth, origin(s) of life, nucleic acid</p>
-<p><strong>AI Decision:</strong> Compares direct prebiotic chemical synthesis versus prolonged chemical evolution models for the emergence of RNA (and other biopolymers), outlining distinct predictions and experimental implications for abiogenesis on early Earth.</p>
-<p><strong>Abstract:</strong> Direct chemical synthesis and chemical evolution are conceptually different models for the prebiotic origin of RNA and other biopolymers. These models generate distinct predictions and motivate different experimental approaches. Here, we compare these two models. In the direct chemical synthesis model, the inherent chemical reactivities of prebiotic compounds on the ancient Earth led to RNA, which subsequently initiated Darwinian evolution. The direct synthesis model depends upon the prebiotic availability of sugars, nucleic acid bases, amino acids, and other chemical species. In this model stepwise chemical reactions directed by inherent reactivities of small molecule feedstocks combine in serial and parallel reactions to produce RNA. The basis of selection is generally limited to inherent chemical reactivities in systems with low chemical heterogeneity. In a fundamentally different and more recent model, it is assumed that RNA emerged along with other biopolymers during a prolonged period of chemical evolution occurring in complex ensembles of organic compounds under dynamic, continually shifting selective pressures. The evolutionary model presages a deep biological entanglement between various types of biomolecules. If chemical evolution produced molecules such as RNA and protein and glycan, then humankind will gain advantage by understanding and redirecting these processes. It is not currently known whether direct chemical synthesis or chemical evolution or some combination of these processes provides a viable prebiotic path to RNA.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2023-1jrcq-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] Scientific Reports ▶ Early-life supplementation of poultry-derived lactobacilli drives microbial succession and gut immune modulation in broiler chickens</title>
-    <link href="https://www.nature.com/articles/s41598-026-35177-2"/>
-    <id>https://www.nature.com/articles/s41598-026-35177-2</id>
-    <updated>2026-01-11T00:00:00Z</updated>
-    <summary>Scientific Reports, Published online: 11 January 2026; doi:10.1038/s41598-026-35177-2 Early-life supplementation of poultry-derived lactobacilli drives microbial succession and gut immune modulation i</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Study shows early-life supplementation with poultry-derived Lactobacillus strains alters gut microbial succession and modulates intestinal immune responses in broiler chickens, with no direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Scientific Reports, Published online: 11 January 2026; doi:10.1038/s41598-026-35177-2 Early-life supplementation of poultry-derived lactobacilli drives microbial succession and gut immune modulation in broiler chickens</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41598-026-35177-2">https://www.nature.com/articles/s41598-026-35177-2</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41598-026-35177-2">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [5] phys.org - Space News ▶ As puzzling as a platypus: The JWST finds some hard to categorize objects</title>
@@ -7343,20 +7329,6 @@
 <p><a href="https://comdig.unam.mx/2026/01/11/the-creation-of-information-how-evolution-generates-novel-improvisations-in-the-biosphere/">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [40] molecular biology - biorXiv Preprints ▶ Structural insights into the recognition and catalysis of tRNA by human NSUN2</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1</id>
-    <updated>2026-01-11T00:00:00Z</updated>
-    <summary>The human RNA m5C methyltransferase NSUN2 catalyzes site-specific cytosine methylation across diverse RNA substrates and thereby regulates a wide range of biological and physiological processes. Howev</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Structural and mechanistic study of the human tRNA m5C methyltransferase NSUN2 showing structure-driven, sequence-tolerant tRNA remodeling for cytosine methylation, with a reported small-molecule inhibitor, but only tangential relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> The human RNA m5C methyltransferase NSUN2 catalyzes site-specific cytosine methylation across diverse RNA substrates and thereby regulates a wide range of biological and physiological processes. However, the molecular basis by which NSUN2 achieves broad substrate recognition while maintaining catalytic specificity has remained unclear. Here we determine structures of human NSUN2 in both substrate-free and substrate-bound states using X-ray crystallography and cryo-electron microscopy. Structures of NSUN2 in complex with multiple tRNA substrates reveal a structure-first, sequence-tolerant strategy in which NSUN2 actively remodels tRNA architecture, exposing the buried target cytosine and positioning it within the catalytic pocket for methyl transfer. This recognition strategy enables NSUN2 to accommodate diverse tRNA substrates through a largely conserved interaction interface. Guided by these structural insights, we identify a small-molecule inhibitor that suppresses NSUN2 activity and cancer cell proliferation. Together, our findings define the molecular principles underlying NSUN2-mediated RNA m5C modification and provide a structural foundation for targeting NSUN2 in cancers.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698742v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [30] Sciences et Avenir ▶ Sortie de l&#x27;eau : le grand boom de la biodiversité</title>
     <link href="https://www.sciencesetavenir.fr/archeo-paleo/evolution/sortie-de-l-eau-le-grand-boom-de-la-biodiversite_190068?xtor=RSS-4"/>
     <id>https://www.sciencesetavenir.fr/archeo-paleo/evolution/sortie-de-l-eau-le-grand-boom-de-la-biodiversite_190068?xtor=RSS-4</id>
@@ -7367,17 +7339,5 @@
 <p><strong>Abstract:</strong> L&#x27;apparition des premières plantes terrestres a débuté il y a plus de 400 millions d&#x27;années par une symbiose fructueuse entre algues et champignons. Le site de Rhynie en Écosse a permis de retracer cette histoire complexe grâce à des fossiles de végétaux conservés au sein des couches géologiques.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.sciencesetavenir.fr/archeo-paleo/evolution/sortie-de-l-eau-le-grand-boom-de-la-biodiversite_190068?xtor=RSS-4">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Launch Of Pandora Satellite And CubeSats To Explore Exoplanets</title>
-    <link href="https://astrobiology.com/2026/01/launch-of-pandora-satellite-and-cubesats-to-explore-exoplanets.html"/>
-    <id>https://astrobiology.com/2026/01/launch-of-pandora-satellite-and-cubesats-to-explore-exoplanets.html</id>
-    <updated>2026-01-11T01:13:12Z</updated>
-    <summary>A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. All three missions are set to l</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, astrobio*</p>
-<p><strong>AI Decision:</strong> NASA’s upcoming Pandora small satellite mission will characterize exoplanet atmospheres and their host stars, providing improved atmospheric context that can support future habitability and biosignature assessments but is not directly focused on origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> A new NASA spacecraft called Pandora is awaiting launch ahead of its journey to study the atmospheres of exoplanets, or worlds beyond our solar system, and their stars. All three missions are set to launch Jan. 11 on a SpaceX Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space Force Base in […] The post Launch Of Pandora Satellite And CubeSats To Explore Exoplanets appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://astrobiology.com/2026/01/launch-of-pandora-satellite-and-cubesats-to-explore-exoplanets.html">Read source article</a></p>]]></content>
   </entry>
 </feed>
