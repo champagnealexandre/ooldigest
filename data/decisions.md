@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Escher, l’arpenteur des mondes impossibles](https://www.pourlascience.fr/sr/art-science/escher-l-arpenteur-des-mondes-impossibles-28675.php) |
+| keyword_rejected | - | [Les Jōmon, irréductibles chasseurs-cueilleurs](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/les-jomon-irreductibles-chasseurs-cueilleurs_190112?xtor=RSS-4) |
+| keyword_rejected | - | [Machine learning integrating MRI and clinical features predi](https://www.nature.com/articles/s41598-026-36261-3) |
+| keyword_rejected | - | [Apatite-coated implant surfaces exhibit superior biological,](https://www.nature.com/articles/s41598-025-34417-1) |
+| keyword_rejected | - | [Superheated steam extraction and RSM-based optimization of a](https://www.nature.com/articles/s41598-026-35099-z) |
+| keyword_rejected | - | [Associations of phase angle and its change with all-cause mo](https://www.nature.com/articles/s41598-026-35266-2) |
+| keyword_rejected | - | [Generalizing β-VDR-based derivative computation for robust s](https://www.nature.com/articles/s41598-026-36635-7) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118041800&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118032207&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118021710&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118012610&v=2.18.0.post22+67771e2) |
