@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119084216&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Santé mentale : "Un chatbot ne doit pas faire semblant d’êtr](https://www.sciencesetavenir.fr/high-tech/intelligence-artificielle/chatgpt-et-sante-mentale-un-chatbot-ne-doit-pas-faire-semblant-d-etre-un-humain-qui-tient-a-vous_190458?xtor=RSS-12) |
+| keyword_rejected | - | [Floating science stations: my month on a research vessel loo](https://www.nature.com/articles/d41586-026-00189-5) |
+| keyword_rejected | - | [Predictive design of stretchable electrodes with strain-inse](https://www.nature.com/articles/s41467-026-68484-3) |
+| keyword_rejected | - | [Predicting human decision-making across task conditions via ](https://elifesciences.org/articles/107163) |
+| keyword_rejected | - | [A high-resolution analysis of arrestin2 interactions respons](https://elifesciences.org/articles/106839) |
 | ai_scored | 55 | [Volcanoes had lower greenhouse gas emissions in Earth's past](https://www.newscientist.com/article/2511960-volcanoes-had-lower-greenhouse-gas-emissions-in-earths-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 50 | [Volcanoes had lower greenhouse gas emissions in Earth's past](https://www.newscientist.com/article/2511960-volcanoes-had-lower-greenhouse-gas-emissions-in-earths-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 50 | [Volcanoes had lower greenhouse gas emissions in Earth's past](https://www.newscientist.com/article/2511960-volcanoes-had-lower-greenhouse-gas-emissions-in-earths-past/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
