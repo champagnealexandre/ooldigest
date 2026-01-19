@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118202550&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Multi-objective optimization identifies cultivation strategi](https://www.nature.com/articles/s41598-026-36171-4) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118181634&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118171615&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260118161457&v=2.18.0.post22+67771e2) |

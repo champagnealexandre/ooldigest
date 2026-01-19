@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-18T23:16:39.083992+00:00</updated>
+  <updated>2026-01-19T01:25:59.016311+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Setting Up The Physical Principles Of Resilience In A Model Of The Earth System</title>
@@ -5715,20 +5715,6 @@
 <p><a href="https://arxiv.org/abs/2601.06324">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [55] bioinformatics - biorXiv Preprints ▶ microntology: a lightweight, data-driven controlled vocabulary to describe Earth&#x27;s microbial habitats</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698811v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698811v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Summary. We introduce microntology v1.0, a pragmatic controlled vocabulary of 148 terms to describe microbial habitats and lifestyles, and provide manually curated microntology annotations for &gt;300k m</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> microntology v1.0 provides a lightweight controlled vocabulary (148 terms) and curated annotations for &gt;300k public metagenomic samples to standardize descriptions of Earth&#x27;s microbial habitats, supporting comparative ecology and potential habitability/biosignature context.</p>
-<p><strong>Abstract:</strong> Summary. We introduce microntology v1.0, a pragmatic controlled vocabulary of 148 terms to describe microbial habitats and lifestyles, and provide manually curated microntology annotations for &gt;300k metagenomic samples from public repositories. Data Availability. microntology controlled vocabulary terms and term hierarchies (https://zenodo.org/records/18162129), and curated annotations for 305,626 metagenomic samples (https://zenodo.org/records/18164252) are available via Zenodo. User feedback, suggestions and bug reports are welcome under https://github.com/grp-schmidt/microntology/issues .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698811v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698811v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698811v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] ChemRxiv ▶ Quantifying photochemical propulsion in light-powered Janus micromotors</title>
     <link href="https://dx.doi.org/10.26434/chemrxiv-2026-806tz?rft_dat=source%3Ddrss"/>
     <id>https://dx.doi.org/10.26434/chemrxiv-2026-806tz?rft_dat=source%3Ddrss</id>
@@ -6289,160 +6275,6 @@
 <p><a href="https://arxiv.org/abs/2505.23460">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ Comprehensive analysis of nonsense-mediated mRNA decay targets and activity in cardiomyocytes</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Nonsense-mediated mRNA decay (NMD) serves as a mechanism to suppress the expression of mutant alleles containing premature termination codons, limit the expression of aberrantly spliced transcript iso</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study maps nonsense-mediated mRNA decay targets in human iPSC-derived cardiomyocytes using SMG1 inhibition and RNA-seq, offering cell-type-specific insights into eukaryotic RNA surveillance but little direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Nonsense-mediated mRNA decay (NMD) serves as a mechanism to suppress the expression of mutant alleles containing premature termination codons, limit the expression of aberrantly spliced transcript isoforms, and control the expression of numerous regular genes. While the principles by which NMD recognizes target transcripts are well understood, much less is known about the range of mRNAs subject to NMD in tissues and specialized cell types. Here we describe the landscape of genes whose expression is controlled by NMD in cardiomyocytes derived from human induced pluripotent stem cells (iPSC-CM), using small read RNA sequencing in combination with a potent inhibitor of SMG1, a kinase essential for NMD. We find that NMD targets are highly conserved between iPSC-CM lines derived from two healthy individuals. Beyond gene level analysis, we identify individual exon and intron RNA sequences that strongly accumulate upon SMG1 inhibition. Using the cardiac NMD targets identified at gene, exon and intron level, we then demonstrate reduced NMD efficiency upon knockdown of two essential NMD factors, UPF1 and UPF2, in iPSC-CM. Our analysis demonstrates that quantifying the transcriptome-wide response to SMG1 inhibition represents a highly sensitive approach to assess global activity of the NMD pathway.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699048v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] molecular biology - biorXiv Preprints ▶ EOLA1, a novel mitochondria-localized protein critical for heart functions via regulating mitochondrial translation</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Mitochondria possess their own mRNA translation system, mediated by specialized mitoribosomes. Dysregulation of mitochondrial translation disrupts metabolic homeostasis and is linked to various pathol</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Identifies EOLA1 as a mitochondrial matrix factor that binds 12S mt-rRNA and TUFM to promote mitochondrial translation elongation, with knockout impairing oxidative phosphorylation and causing severe cardiac dysfunction in mice.</p>
-<p><strong>Abstract:</strong> Mitochondria possess their own mRNA translation system, mediated by specialized mitoribosomes. Dysregulation of mitochondrial translation disrupts metabolic homeostasis and is linked to various pathologies, including metabolic syndromes, neurological disorders, and cardiac diseases. Using CRISPR/Cas9 screening, we identified EOLA1 (endothelial-overexpressed lipopolysaccharide-associated factor 1) as a novel mitochondrial matrix protein essential for metabolic homeostasis. Knockout of Eola1 severely affects mitochondrial translation and consequently the oxidative phosphorylation in mammalian cells. Mechanistically, EOLA1 physically interacts with mitochondrial 12S ribosomal RNA (12S mt-rRNA) and the mitochondrial Tu translation elongation factor (TUFM), facilitating efficient translation elongation of mitochondrial-encoded mRNAs. Furthermore, genetic ablation of Eola1 in mice induced severe cardiac dysfunction, demonstrating its indispensable role in maintaining heart function through mitochondrial translation control. Together, our findings establish EOLA1 as a key regulator of mitochondrial translation via its interactions with 12S mt-rRNA and TUFM, highlighting its importance in cellular metabolism and a potential role in cardiac disease pathogenesis.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699056v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] cell biology - biorXiv Preprints ▶ Rhythmic Nuclear Import Mediated by Importins Regulates the Neurospora Circadian Clock.</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Circadian clocks in eukaryotes rely on precisely regulated negative feedback loops to generate daily rhythms. However, the delay mechanisms that extend this structurally simple feedback loop to ~24 ho</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> Live-cell imaging and FRAP in Neurospora show circadian-regulated, importin-mediated nuclear import of FREQUENCY (FRQ) is a dynamic, rate-limiting step that tunes clock timing, though the work is primarily eukaryotic cell biology rather than origins-of-life focused.</p>
-<p><strong>Abstract:</strong> Circadian clocks in eukaryotes rely on precisely regulated negative feedback loops to generate daily rhythms. However, the delay mechanisms that extend this structurally simple feedback loop to ~24 hours are not yet fully understood. In the filamentous fungal model organism Neurospora crassa, the negative arm complex, centered by FREQUENCY (FRQ), must enter the nucleus to repress the White Collar Complex (WCC) and close the feedback loop, but the mechanisms and dynamics of its nuclear transport have remained unresolved. Using long-term live-cell imaging and fluorescence recovery after photobleaching (FRAP), we demonstrate that FRQ nuclear import is an active circadian-regulated process that is fastest early in the subjective day and progressively decreases as nuclear FRQ approaches peak levels, corresponding to altered direct binding between FRQ and Importin . We further establish that Importin is required for the spatial regulation of FRQ and WC-1 and the correct timing of Neurospora circadian clock. Analysis of the three Neurospora Importin {beta} homologs reveals that each of them contributes differently to the circadian clock through pathways beyond FRQ or WCC nuclear import. More specifically, we find a genetic interaction between Imp{beta}3 and the phosphatase PP-4. Together, these findings indicate that nuclear import is a selective, dynamic, and rate-limiting regulatory step in the fungal circadian clock and reveal both conserved and fungal-specific mechanisms by which importins tune circadian timing.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699091v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] biophysics - biorXiv Preprints ▶ Histone H2BK108Me2 Tunes Gluconeogenic Load in Type 2 Diabetes: A Molecular Dynamics Study</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Type 2 Diabetes (T2D) is a serious metabolic disorder characterised by hyperglycemia, hyperinsulinemia, and insulin resistance. An increased rate of hepatic gluconeogenesis acts as one of the major co</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Coarse-grained molecular dynamics study of how the histone PTM H2BK108Me2 alters nucleosome DNA end closure to suppress Cebpa transcription and reduce hepatic gluconeogenesis in type 2 diabetes, with minimal relevance to origins-of-life research beyond general DNA/chromatin biophysics.</p>
-<p><strong>Abstract:</strong> Type 2 Diabetes (T2D) is a serious metabolic disorder characterised by hyperglycemia, hyperinsulinemia, and insulin resistance. An increased rate of hepatic gluconeogenesis acts as one of the major contributors of the high blood glucose levels in the diseased condition. Transcriptional regulation is a main factor that controls gene expression. In this study we have elucidated how the transcriptional availability of the Cebpa gene can be modulated at the nucleosomal level through the post-translational modifications (PTMs) of histones using a series of coarse-grained multi-microsecond molecular dynamics simulations. The transcriptional status of a gene is influenced by a plethora of factors, but our work reveals that indeed histone PTMs are capable of modulating transcriptional output of genes at a structural level, independent of other regulatory factors. We have identified H2BK108Me2, a downregulated histone PTM mark found in a diet-induced obese mouse liver, to be essentially contributing in tackling gluconeogenic load by suppressing transcription of the Cebpa gene. We found that H2BK108Me2 induces the closure of the nucleosomal DNA ends through sliding and posing chromatin unavailability towards essential transcription factors of the gene.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699059v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] biophysics - biorXiv Preprints ▶ Intramolecular loops control SARS-CoV-2 nucleocapsid protein self-association and nucleic acid binding dependent on phosphorylation</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>The nucleocapsid protein of SARS-CoV-2 scaffolds genomic RNA into ribonucleoprotein complexes (RNP) for assembly in the virion, but also fulfills critical intracellular functions in replication and th</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, RNA</p>
-<p><strong>AI Decision:</strong> Biophysical and structural analysis suggests phosphorylation-dependent intramolecular looping in the SARS-CoV-2 nucleocapsid protein toggles compaction, self-association, and RNA/nucleic-acid binding, impacting RNP formation.</p>
-<p><strong>Abstract:</strong> The nucleocapsid protein of SARS-CoV-2 scaffolds genomic RNA into ribonucleoprotein complexes (RNP) for assembly in the virion, but also fulfills critical intracellular functions in replication and the suppression of host defense. It contains a folded nucleic acid binding domain (NTD) and a dimerization domain, connected by a disordered linker containing a serine/arginine-rich (SR) region and a leucine-rich sequence (LRS). The switch between intracellular and assembly functions is controlled by phosphorylation of the SR region, but the molecular details are unclear. Here we describe a model in which two mutually exclusive intramolecular loops bind the NTD and dynamically control self-association and nucleic acid binding properties dependent on the SR linker phosphorylation state. The model is supported by biophysical measurements of hydrodynamic radii, reversible protein self-association, nucleic acid binding, and thermodynamic stability, as well as structural predictions and published NMR chemical shifts. We find SR linker phosphorylation compacts the protein and inhibits nucleic acid binding and RNP formation, while enhancing self-association through promotion of transient coiled-coils in the LRS of the linker. These changes shift the nucleocapsid protein to a configuration poised for multi-valent interactions that support intracellular functions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698783v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] bioRxiv Subject Collection: Evolutionary Biology ▶ Directed evolution of multimeric proteins is enabled by dual-compensatory gene duplication</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Gene duplication has played a critical role in the evolutionary history of proteins, enabling complex multimers to emerge from simpler precursors. Yet in protein engineering, current methods for direc</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, evolution</p>
-<p><strong>AI Decision:</strong> Introduces a gene-duplication–enabled directed evolution strategy that stabilizes self-assembling multimeric proteins (e.g., a 240-mer capsid), offering a plausible evolutionary mechanism for diversification of higher-order multimers.</p>
-<p><strong>Abstract:</strong> Gene duplication has played a critical role in the evolutionary history of proteins, enabling complex multimers to emerge from simpler precursors. Yet in protein engineering, current methods for directed evolution do not exploit gene duplication, hampering access to the vast array of diverse variants that are only enriched in the presence of a wild-type copy. We establish a directed evolution strategy for multimeric proteins that harnesses gene duplication to compensate for metabolic burden and self-assembly fitness, allowing previously inaccessible variants to be enriched. Starting from a homomeric 240-mer capsid, gene duplication enables selection of both extreme homomeric variants and obligate heteromers. This strategy significantly expands engineering access to diverse high-performing variants, while also supporting a plausible model for evolutionary diversification of higher-order multimers in nature.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698938v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ Gene genealogies in haploid populations evolving according to sweepstakes reproduction</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Recruitment dynamics, or the distribution of the number of offspring among individuals, is fundamental to ecology and evolution. We take sweepstakes reproduction to mean a skewed (heavy right-tailed) </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> The paper develops coalescent-theory models for highly skewed (sweepstakes) reproduction in haploid populations, showing how such dynamics generate multiple-merger genealogies and affect mutation-based inferences, with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Recruitment dynamics, or the distribution of the number of offspring among individuals, is fundamental to ecology and evolution. We take sweepstakes reproduction to mean a skewed (heavy right-tailed) offspring number distribution without natural selection being involved. Sweepstakes may be generated by chance matching of reproduction with favorable environmental conditions. Gene genealogies generated by sweepstakes reproduction are in the domain of attraction of multiple-merger coalescents where a random number of lineages merges at such times. We consider population genetic models of sweepstakes reproduction for haploid panmictic populations of both constant (N), and varying population size, and evolving in a random environment. We construct our models so that we can recover the observed number of new mutations in a given sample without requiring strong assumptions regarding the population size or the mutation rate. Our main results are (i) continuous-time coalescents that are either the Kingman coalescent or specific families of Beta- or Poisson-Dirichlet coalescents; when combining the results the parameter of the Beta-coalescent ranges from 0 to 2, and the Beta-coalescents may be incomplete due to an upper bound on the number of potential offspring an arbitrary individual may produce; (ii) in large populations we measure time in units proportional to either N/log N or N generations; (iii) incorporating fluctuations in population size leads to time-changed multiple-merger coalescents where the time-change does not depend on ; (iv) using simulations we show that in some cases approximations of functionals of a given coalescent do not match the ones of the ancestral process in the domain of attraction of the given coalescent; (v) approximations of functionals obtained by conditioning on the population ancestry (the ancestral relations of all gene copies at all times) are broadly similar (for the models considered here) to the approximations obtained without conditioning on the population ancestry.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.08.698389v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ The bromodomain protein Bdf3 is sufficient to activate expression of a procyclin gene in bloodstream stage African trypanosomes</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>The early branching eukaryotic parasite, Trypanosoma brucei, lives extracellularly in the mammalian host, where it expresses variant surface glycoprotein (VSG). Antigenic variation of VSGs allows the </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, RNA</p>
-<p><strong>AI Decision:</strong> Using dCas9 tethering, the authors show the bromodomain protein Bdf3 can activate normally silenced procyclin (EP1) transcription in bloodstream Trypanosoma brucei, illuminating gene-regulatory mechanisms in an early-branching eukaryote.</p>
-<p><strong>Abstract:</strong> The early branching eukaryotic parasite, Trypanosoma brucei, lives extracellularly in the mammalian host, where it expresses variant surface glycoprotein (VSG). Antigenic variation of VSGs allows the parasite to evade the host immune response while in the bloodstream. Upon transition to the tsetse fly vector, the parasite remodels its surface to express procyclin protein from a limited set of EP and GPEET genes. While the environmental signals that trigger the switch from expressing VSG genes to expressing EP and GPEET genes are known, the molecular mechanism that initiates transcription of the EP and GPEET genes during parasite differentiation to the procyclic stage within the tsetse is not well understood. Previous work has shown that the chromatin interacting bromodomain protein Bdf3 is absent from the pol I promoter of the EPlocus in bloodstream parasites, but appears there shortly after initiation of differentiation from the bloodstream to the procyclic stage. Here, we show that tethering of Bdf3 to the EP promoter using a dCas9-Bdf3 fusion protein and a guide RNA is sufficient to increase transcript levels of EP1 in bloodstream parasites, where the gene is normally silenced. This result supports the model that Bdf3 appears at the EP locus during differentiation to facilitate initiation of transcription, which is consistent with the role for Bdf3 as a transcriptional activator in other systems. Understanding gene regulatory mechanisms in this early branching eukaryote may help build a more complete picture for the conserved and unique features of gene regulatory proteins across diverse biological systems.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698981v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] molecular biology - biorXiv Preprints ▶ The Structured RNA-binding Domains and Condensation Capacity of FUS Shape its RNA-binding Landscape and Function.</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>RNA-binding proteins (RBPs) are key regulators of gene expression and often contain intrinsically disordered regions that drive biomolecular condensation. Yet, how condensation affects RBP specificity</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
-<p><strong>AI Decision:</strong> This preprint dissects how the RNA-binding protein FUS couples structured RNA-recognition with biomolecular condensation to shape nuclear RNP condensates and downstream DNA-damage response and RNA-processing programs, offering general principles of RNA–protein phase behavior but not directly addressing prebiotic origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> RNA-binding proteins (RBPs) are key regulators of gene expression and often contain intrinsically disordered regions that drive biomolecular condensation. Yet, how condensation affects RBP specificity and function remains poorly defined. Here, we use strategically designed point mutations to selectively impair canonical RNA-binding and condensation of the amyotrophic lateral sclerosis (ALS)-linked RBP Fused in Sarcoma (FUS). Using automated high-content imaging, we show that both properties shape nuclear ribonucleoprotein condensates and govern distinct aspects of FUS function in the DNA damage response. Transcriptome-wide mapping of FUS-RNA interactions reveals that the canonical RNA-binding domains recognise G-rich and C-rich motifs, whereas condensation selectively enhances binding to G-rich and structured sequences, often acting in concert with canonical RNA-binding to control transcriptional programs and splicing decisions. These findings provide a mechanistic framework for how FUS integrates condensation with sequence-specific RNA recognition to orchestrate nuclear organisation, genome stability and RNA metabolism. Furthermore, our rigorously validated mutants offer a platform for future mechanistic dissection of ALS pathogenesis and the development of targeted therapeutic strategies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.699057v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] bioRxiv Subject Collection: Evolutionary Biology ▶ Sex-specific landscapes of crossover and non-crossover recombination in coppery titi monkeys (Plecturocebus cupreus)</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Along with germline mutations, meiotic recombination plays a fundamental role in shaping genetic diversity and thus directly influences a species&#x27; potential adaptive response to environmental change, </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Using high-coverage family genomics, this preprint maps sex-specific crossover and non-crossover recombination hotspots in coppery titi monkeys, informing primate molecular evolution but offering minimal direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Along with germline mutations, meiotic recombination plays a fundamental role in shaping genetic diversity and thus directly influences a species&#x27; potential adaptive response to environmental change, amongst other features. Despite the recombination landscape being of central importance for a variety of questions in molecular evolution, the genome-wide distribution and frequency of recombination remains to be elucidated in many non-human primate species. Utilizing novel high-coverage genomic data from three multi-sibling families, we here provide the first estimates of the rates and patterns of crossover and non-crossover recombination in coppery titi monkeys (Plecturocebus cupreus) - a socially monogamous, pair-bonded primate that serves as an important model in behavioral research. Consistent with haplorrhines, crossover and non-crossover recombination in this platyrrhine are frequently localized at PRDM9-mediated hotspots, characterized by a 15-mer binding motif with substantial similarities to the degenerate 13-mer motif found in humans. The sex-averaged crossover rate in coppery titi monkeys is comparable with those of other primates; however, no significant difference in recombination rates was observed between the sexes, despite a pronounced maternal age effect in the species. Similarities also exist with regards to the sex-specific genomic distribution of non-crossover events, though the minimal conversion tract lengths of extended events was observed to be considerably longer in maternally-inherited non-crossovers. Taken together, these similarities and differences in the recombination landscape relative to other primates highlight the importance of incorporating species-specific rates and patterns in evolutionary models, and the resources provided here will thus serve to aid future studies in this important primate model system.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698870v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] bioinformatics - biorXiv Preprints ▶ Designing AAV Capsid Protein with viability-guided Diffusion Model</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Adeno-associated virus (AAV) capsids have shown great promise as delivery vectors for gene therapy. However, the natural properties of AAV capsids impose significant limitations on their efficacy. Whi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution, DNA</p>
-<p><strong>AI Decision:</strong> Presents a viability-guided diffusion model to generate de novo AAV capsid protein sequences for improved gene-therapy vectors, with limited relevance to origins-of-life aside from incidental mentions of DNA and directed evolution.</p>
-<p><strong>Abstract:</strong> Adeno-associated virus (AAV) capsids have shown great promise as delivery vectors for gene therapy. However, the natural properties of AAV capsids impose significant limitations on their efficacy. While capsid library screening and directed evolution have facilitated the development of improved vectors, current methods for generating AAV libraries frequently yield nonviable variants that fail to assemble or package DNA. Here, we propose a viability-guided diffusion model AAVDiffusion for de novo viable AAV capsid design. AAVDiffusion iteratively denoises Gaussian vectors into vectors of AAV capsid protein sequences, yielding intermediate latent variables. By leveraging the continuous nature of these latent variables, AAVDiffusion integrates an additional viability classifier that applies gradient updates to enhance the generation of viable AAV sequences. Through extensive computational tests, AAVDiffusion exhibits superior performance in generating viable AAV sequences. Furthermore, 196 AAV candidates were identified through a selection workflow, with the potential to cross the blood-brain barrier, thereby offering safer and more effective gene therapies for brain diseases. AAVDiffusion offers a powerful and efficient computational method for designing viable AAV capsids, advancing the development of AAV vectors for gene therapy.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698995v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [5] Phys. Rev. Lett. ▶ Double-Bracket Quantum Algorithms for Quantum Imaginary-Time Evolution</title>
     <link href="http://link.aps.org/doi/10.1103/rw81-k8vk"/>
     <id>http://link.aps.org/doi/10.1103/rw81-k8vk</id>
@@ -6471,62 +6303,6 @@
 <p><a href="https://www.nature.com/articles/s41467-026-68287-6">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟡 [60] bioRxiv Subject Collection: Evolutionary Biology ▶ Estimate of the mutation rate in the endangered Devils Hole pupfish provides support for the drift-barrier hypothesis at an outlying extreme</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Mutation rates vary by three orders of magnitude across eukaryotes. The drift-barrier hypothesis proposes that drift overwhelms selection for lower mutation rates in small populations, leading to high</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
-<p><strong>AI Decision:</strong> Using inbreeding-derived autozygous segments, this study estimates an elevated germline DNA mutation rate in the tiny, isolated Devils Hole pupfish, lending support (at an extreme) to the drift-barrier hypothesis for mutation-rate evolution.</p>
-<p><strong>Abstract:</strong> Mutation rates vary by three orders of magnitude across eukaryotes. The drift-barrier hypothesis proposes that drift overwhelms selection for lower mutation rates in small populations, leading to higher mutation rates over time due to gradual accumulation of mutator alleles. Here, we test this hypothesis in the smallest long-term isolated population in the world, the critically endangered Devils Hole pupfish (Cyprinodon diabolis). We estimated germline mutation rates in embryonic lethal and adult populations using autozygous segments caused by recent inbreeding events. Our estimate, 8.09 x 10^(-9) per base pair per generation, is significantly higher than the average rate for actinopterygian fishes of 5.97 x 10^(-9) (95% CI = 4.39 x 10^(-9)- 7.55 x 10^(-9)) and is lower than expected but still consistent with predictions from the drift-barrier hypothesis of 1.23 x 10^(-8) (95% CI = 7.81 x 10^(-9)- 1.93 x 10^(-8)), based on a recent meta-analysis of vertebrate mutation rates by Bergeron et al. (2023). We find that embryonic lethal individuals have a higher mutation rate than mature adults, potentially reflecting a segregating lethal mutator allele or damage to the cellular environment during embryo death. We also analyzed the mutational spectra of germline mutations and find that spectra between embryonic lethal and mature adults were similar, as is the spectra in Devils Hole pupfish and other fishes, despite differences in environmental temperature and oxygen stresses. Mutation rates in this critically endangered species provide new insights at one extreme into the mechanisms driving mutation rate variation across vertebrates.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698928v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] biophysics - biorXiv Preprints ▶ Recognition in Confinement: The Dynamics of Homologous Gene Pairing</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698804v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698804v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>How can protein-independent, side-by-side alignment of homologous double-stranded DNA (dsDNA) arise as an early step in genome repair and genetic exchange, and what determines their kinetics under con</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Coarse-grained simulations extend Helical Coherence Theory to flexible, confined dsDNA and show that confinement and ionic conditions can promote protein-independent homologous DNA pairing with microsecond kinetics and distinct fraying/bubble formation modes.</p>
-<p><strong>Abstract:</strong> How can protein-independent, side-by-side alignment of homologous double-stranded DNA (dsDNA) arise as an early step in genome repair and genetic exchange, and what determines their kinetics under confinement? Although recombination proteins are known to facilitate this process, experiments indicate that an initial side-by-side arrangement of homologs can occur even in their absence. Helical Coherence Theory (HCT) proposes that sequence-dependent distortions of the double helix lead to commensurate charge patterns between interacting dsDNAs, favouring homologous over non-homologous alignment. However, HCT has largely been developed for straight, rigid dsDNA rods, an approximation limited to roughly one persistence length (lB {approx} 50 nm), leaving the question open as to how recognition manifests in longer, fluctuating chains. Moreover, the dynamics and timescales of homolog searching under confinement, and the internal dynamics of the paired state, such as transient formation of local unpaired regions (&quot;bubbles&#x27;&#x27;) and end fraying, remain unexplored. Here we extend HCT to dsDNA chains of multiple persistence lengths under confinement using coarse-grained simulations with a custom HCT-based force field, in order to come closer to understanding how homologous genes pair in vivo. We simulate two homologous chains within spherical cavities of radii 0.3-1 times their free-space gyration radius under two limiting ionic conditions. We found that confinement warrants homologous pairing; it occurs on microsecond timescales and depends non-monotonically on confinement size, with an optimal confinement that accelerates pairing while avoiding tangled states and metastable trapping in an ion-dependent manner. To resolve pairing dynamics, we develop a kinetic theory and fit it to simulation trajectories, distinguishing rates of independent pairing modes underlying bubble formation and fraying. Together, these results support a physical mechanism for homologous pairing beyond the rigid-rod limit and suggest how confinement can promote both encounter and stabilisation within the HCT framework.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698804v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698804v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698804v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] ChemRxiv ▶ Airflow-Driven Programmable Chirality Control: From Sub-1 nm GdOOH Nanowires to Reversible Macroscopic Helical Assemblies</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>We report the controlled synthesis of fully programmable macroscopic chirality in hierarchical inorganic assemblies through the introduction of directional spiral airflow during evaporation-induced se</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, chirality</p>
-<p><strong>AI Decision:</strong> Demonstrates fully programmable, reversible control of macroscopic helicity in dopant-free inorganic self-assembly via airflow shear, offering a useful physical model for studying how chiral organization could emerge without biological templating.</p>
-<p><strong>Abstract:</strong> We report the controlled synthesis of fully programmable macroscopic chirality in hierarchical inorganic assemblies through the introduction of directional spiral airflow during evaporation-induced self-assembly of sub-1 nm gadolinium oxyhydroxide (GdOOH) nanowires. Extending previous observation of spontaneous centimeter-scale macroscopic helical assemblies (MHAs) without chiral dopants and with random handedness, we demonstrated 100% deterministic control over helicity, with left- or right-handed structures formation depending on the direction of airflow. This effect is independent of gas composition, confirming a purely mechanical shear-driven mechanism. Moreover, the resulting MHAs can be readily dissolved to regenerate the homogenous nanowire dispersion, allowing repeated cycles of assembly with inverted handedness and creating true dynamic programmability in a dopant-free inorganic system. This simple yet strong approach overcomes the random nature of macroscopic inorganic chirality, revealing supramolecular-like reversibility. These findings open new pathways for engineerable chiroptical materials with potential applications in photonics, catalysis, and beyond.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-23f8l?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [0] systems biology - biorXiv Preprints ▶ Proteo-transcriptomics and morphometrics of teleost cardiac cells define regulatory networks and exercise-induced cardiomyocyte hypertrophy and hyperplasia</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Zebrafish and medaka are powerful cardiovascular models, yet cellular and molecular investigations of adult heart cells have been constrained by suboptimal dissociation and characterization methods. T</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Develops a physiological-temperature single-cell isolation and proteo-transcriptomic profiling workflow for adult teleost cardiac cells, revealing exercise- and injury-induced cardiomyocyte remodeling and regulatory networks, but with no direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Zebrafish and medaka are powerful cardiovascular models, yet cellular and molecular investigations of adult heart cells have been constrained by suboptimal dissociation and characterization methods. To overcome these barriers, we developed a physiological-temperature workflow that generates high-yield, viable single-cell suspensions for FACS, imaging, and low-input molecular profiling. Using transgenic fluorescent reporters, we consistently isolate ~6,000 cardiomyocytes per adult zebrafish ventricle and ~12,000 from medaka, preserving cellular, structural, and molecular integrity. Single-cell morphometrics revealed cardiomyocyte heterogeneity and demonstrated that swimming exercise induces both hypertrophy and hyperplasia, while ventricular injury triggers expansion of regenerative gata4 cardiomyocytes. We integrated proteomics and RNA-seq from FACS-purified cells to construct cell-type-specific proteo-transcriptomic atlases. Functional enrichment, transcription factor, and network analyses identified protein hubs and regulatory circuits defining cardiomyocyte and endothelial cell identity. Our platform delivers cell-type-resolved molecular datasets of adult teleost cardiac cells, establishing a systems-level resource for heart regeneration research, cardiovascular disease modeling, and drug discovery.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.11.698907v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [25] Phys.org: Evolution News ▶ Fruit flies&#x27; embryonic stage reveals that climate adaptation begins early</title>
     <link href="https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html"/>
     <id>https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html</id>
@@ -6537,20 +6313,6 @@
 <p><strong>Abstract:</strong> As the climate changes, scientists are concerned about how well plants and animals will adapt to rapid warming. A new University of Vermont study has explored the early embryonic life stage of a globally common fruit fly, Drosophila melanogaster, looking at how the eggs responded to temperature variability at the genomic level.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-fruit-flies-embryonic-stage-reveals.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] ChemRxiv ▶ Nitrous oxide cycling and isotopic overprinting in lake basins with contrasting mixing regimes</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Nitrous oxide (N2O) is a potent greenhouse gas and ozone-destroying substance, and lakes contribute variably to its atmospheric budget. We investigated the seasonal variability of N2O cycling in two c</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Seasonal N2O concentration and isotopomer measurements in contrasting lake mixing regimes show that simultaneous N2O production and consumption can isotopically overprint signals, complicating isotope-based interpretation of N2O sources/sinks relevant to assessing N2O as a potential biosignature gas.</p>
-<p><strong>Abstract:</strong> Nitrous oxide (N2O) is a potent greenhouse gas and ozone-destroying substance, and lakes contribute variably to its atmospheric budget. We investigated the seasonal variability of N2O cycling in two contrasting basins of Lake Lugano, Switzerland: the meromictic North Basin (NB) and the holomictic South Basin (SB). Over one full seasonal cycle, we measured N2O concentration and site-specific isotopomer compositions to assess spatio-temporal dynamics. Both basins showed near-neutral N2O exchange with the atmosphere, without clear seasonal patterns of N2O emission versus uptake (average air-water exchange flux of 0.04 ± 0.3 µmol m-2 d-1). Keeling-plot analysis indicated a nitrification-driven N2O source in the oxic water column in both basins, as inferred from its position-specific isotopic nitrogen composition. In the anoxic water column in the North Basin, N2O was persistently depleted, whereas in the deep South Basin N2O consumption was observed only during late-stage stratification. Net N2O consumption in the hypolimnia of both basins was accompanied by isotopic shifts toward lighter δ15Nbulk and δ15Nβ values, contrary to trends observed in pure cultures. These inverse apparent isotope effects suggest concurrent N2O production during net consumption. Using a simplified box-model (i.e., isotope mass balance) approach, we estimated that 5-17% of the consumed N2O needed to be replaced by simultaneous N2O production in order to match the observed in situ δ15Nbulk-N2O data. Our findings highlight the complexity of N2O cycling in lake systems and reveal that isotopic overprinting from simultaneous N2O production and consumption can obscure traditional isotope-based interpretations. At the same time, they underscore the value of stable isotopes in disentangling N2O production and consumption mechanisms.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-5pnpg?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] phys.org - Space News ▶ Tiny Mars&#x27;s big impact on Earth&#x27;s climate: How the red planet&#x27;s pull shapes ice ages</title>
@@ -6587,34 +6349,6 @@
 <p><strong>Abstract:</strong> In a blow to anyone dreaming that complex life may exist elsewhere in the universe, a new study suggests we&#x27;re unlikely to find it around many of the most common stars in the galaxy.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-complex-life-planets-orbiting-galaxy.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] biochemistry - biorXiv Preprints ▶ The cuticle lamellae responsible for structural coloration in red algae display common features with the metazoan extracellular matrix</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698930v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698930v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Structural coloration is a physical phenomenon observed in many living organisms, including seaweeds, via the formation of highly organized nanostructures. Although a widespread system is characterize</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
-<p><strong>AI Decision:</strong> Multi-omics analysis of Chondrus crispus reveals multilayer cuticle lamellae built from carrageenans/GAG-like polysaccharides and a key VWA-domain protein (LCP), suggesting convergent or deep evolutionary parallels with metazoan extracellular matrix organization.</p>
-<p><strong>Abstract:</strong> Structural coloration is a physical phenomenon observed in many living organisms, including seaweeds, via the formation of highly organized nanostructures. Although a widespread system is characterized by the deposition of multilayer thin-film in the extracellular matrix (ECM), enabling light interference, to date such lamellae have only been described in the cuticle of red algae belonging to the Gigartinaceae family within macroalgae. Here, we determine the composition of the multilayered cuticle components in the model species Chondrus crispus (Rhodophyta), using genomic, transcriptomic, proteomic, metabolomic and analytical profiling of carbohydrates. The complex structural assembly revealed common features with the ECM of animals. The carbohydrate fraction consists of a complex mixture of ECM carrageenans and glycosaminoglycan-like structures. A major von Willerbrand factor A domain (VWA) protein plays a critical role for the adhesion of macromolecules, including protein-protein interactions and to sulfated polysaccharides. We propose the name of Lamellae Cohesive Protein (LCP) regarding the alternate distribution of chemically distinct constituents within the cuticle. For the first time, we identified major proteins of the algal cuticle, providing a framework for addressing the evolutionary origins of the algal cuticle biosynthesis and raise important questions regarding its role, particularly across the life cycle marked by major structural ECM modifications.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698930v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698930v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698930v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Epigenetic Crosstalk Between BCG-Infected Macrophages and Naive Monocytes Potentiates Antimycobacterial Activity</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698601v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698601v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb), remains a leading cause of death from infectious disease. Infected cells secrete extracellular vesicles (EVs), nanosized membrane-bound p</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This preprint reports that extracellular vesicles from BCG-infected macrophages can epigenetically reprogram naive monocytes (via altered DNA methylation) and may modestly enhance in vitro control of Mycobacterium tuberculosis, but it has minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb), remains a leading cause of death from infectious disease. Infected cells secrete extracellular vesicles (EVs), nanosized membrane-bound particles containing bioactive molecules known to mediate intercellular communication and influence immune regulation during infection. We hypothesized that EVs secreted from Mycobacterium bovis Bacillus Calmette Guerin (BCG)-infected macrophages could epigenetically reprogram naive monocytes and enhance their mycobactericidal activity against Mtb. A transwell co-culture system was used to enable communication via EVs and soluble factors, between BCG-infected macrophages and naive monocytes (recipient macrophages). To assess the impact of these factors, we examined epigenetic reprogramming and the ability to control Mtb growth. BCG-infected macrophages released EVs with a distinct proteomic profile mapping to multiple tuberculosis-related pathways. Recipient macrophages exhibited altered DNA methylation patterns compared to those co-cultured with untreated, Staphylococcus aureus-infected or hydrogen peroxide-exposed macrophages. The proteomic cargo of EVs and differentially methylated genes in recipient cells showed significant interactions with TNF as a central hub enriched in both the phagosome and tuberculosis pathway. The epigenetic reprogramming was accompanied by a trend towards improved control of Mtb in vitro. BCG infection induces release of EVs that, together with soluble factors, induce targeted epigenetic remodeling in recipient macrophages.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698601v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698601v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698601v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [5] Scientific American ▶ New Study Probes How Same-Sex Behaviors Evolved in Nonhuman Primates</title>
@@ -6688,20 +6422,6 @@
 <p><a href="https://phys.org/news/2026-01-mars-blue-planet-ancient-river.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] cell biology - biorXiv Preprints ▶ Organelle biogenesis on a synthetic bead</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698636v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698636v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Centrosomes are complex organelles that comprise multiple copies of hundreds of different proteins, yet they can precisely duplicate every cell cycle. Here we reconstitute centrosome duplication on sy</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
-<p><strong>AI Decision:</strong> This study reconstitutes centrosome duplication on programmable synthetic beads in Drosophila embryos, demonstrating a seed–scaffold–self-assembly mechanism that offers conceptual (but not direct prebiotic) insight into how complex biological structures can emerge from simple molecular inputs.</p>
-<p><strong>Abstract:</strong> Centrosomes are complex organelles that comprise multiple copies of hundreds of different proteins, yet they can precisely duplicate every cell cycle. Here we reconstitute centrosome duplication on synthetic beads programmed to recruit core centrosome assembly proteins when injected into Drosophila embryos. These beads generate structures that are functionally indistinguishable from centrosomes: they recruit centriole/centrosome proteins, organise microtubules (MTs) and proceed through multiple rounds of high-fidelity duplication, all in synchrony with the endogenous centrosomes. The beads function as seeds that recruit biogenesis-promoting proteins to stimulate the assembly of relatively simple scaffolds that direct centrosome self-assembly. This &#x27;&#x27;Seed-Scaffold-Self-Assemble&#x27;&#x27; mechanism may represent a general principle of organelle biogenesis, explaining how simple molecular inputs can generate complex structures without the need to copy a pre-existing template.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698636v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698636v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698636v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Two Temperate Earth- and Neptune-sized Planets Orbiting Fully Convective M dwarfs</title>
     <link href="https://astrobiology.com/2026/01/two-temperate-earth-and-neptune-sized-planets-orbiting-fully-convective-m-dwarfs.html"/>
     <id>https://astrobiology.com/2026/01/two-temperate-earth-and-neptune-sized-planets-orbiting-fully-convective-m-dwarfs.html</id>
@@ -6730,20 +6450,6 @@
 <li><a href="https://arxiv.org/abs/2601.05387">https://arxiv.org/abs/2601.05387</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/paving-the-road-to-the-habitable-worlds-observatory-with-high-resolution-imaging-i-new-and-archival-speckle-observations-of-potential-hwo-target-stars.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] bioinformatics - biorXiv Preprints ▶ GenCore: Genomic distance estimation using Locally Consistent Parsing</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.10.698768v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.10.698768v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>In the era of exponential data generation, a fast, consistent, and efficient string processing technique is necessary to represent extensive genomic data. One of the earliest string processing techniq</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> GenCore introduces an efficient Locally Consistent Parsing–based sketching method to estimate genomic distances and reconstruct phylogenies from assemblies or reads, which is broadly relevant to evolutionary genomics but not directly to origins-of-life research.</p>
-<p><strong>Abstract:</strong> In the era of exponential data generation, a fast, consistent, and efficient string processing technique is necessary to represent extensive genomic data. One of the earliest string processing techniques, predating MinHash and minimizer-based sketching, is Locally Consistent Parsing (LCP). This technique partitions an input string and identifies short, exactly occurring substrings called cores, which collectively cover the input string while maintaining Partition and Labeling Consistency. The iterative application of LCP yields progressively longer cores in a compressed format, thereby substantially enhancing the efficiency of genomic sequence representation and subsequent downstream analysis. We have previously developed LCPtools as the first iterative implementation of LCP for the DNA alphabet and demonstrated its effectiveness in identifying cores with minimal collisions. Here, we introduce GenCore, a computational method that leverages LCP cores for the first time to sketch and estimate genomic distances for closely related large genomes, and successfully reconstruct simulated progression trees. GenCore also successfully recapitulates primate phylogeny using both telomere-to-telomere (T2T) assemblies and the PacBio HiFi reads for assembly-free comparisons. Availability: GenCore is available at https://github.com/BilkentCompGen/gencore</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698768v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.10.698768v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.10.698768v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Sub-Neptune Memories I: Implications of Inefficient Mantle Cooling and Silicate Rain</title>
@@ -6812,20 +6518,6 @@
 <p><a href="https://phys.org/news/2026-01-indian-rocket-snag.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ SCALPEL: A pipeline for processing large-scale spatial transcriptomics data</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Spatial transcriptomics enables the precise mapping of gene expression patterns within tissue architecture, offering unprecedented insights into cellular interactions, tissue heterogeneity, and diseas</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Introduces SCALPEL, a computational pipeline to improve processing and atlas-scale analysis of spatial transcriptomics datasets (e.g., whole mouse brain) via better segmentation, filtering, registration, and imputation, with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Spatial transcriptomics enables the precise mapping of gene expression patterns within tissue architecture, offering unprecedented insights into cellular interactions, tissue heterogeneity, and disease pathology that are unattainable with traditional transcriptomic approaches. We present a tool for processing spatial transcriptomics data, SCALPEL (Spatial Cell Analysis, Labeling, Processing, and Expression Linking). SCALPEL is specifically designed to support the analysis of large, atlas-level datasets. Our new workflow features advanced 3D segmentation optimized for dense and heterogeneous tissues, refined filtering criteria, and transcriptome-based doublet detection to remove low-quality or artifactual cells. Cell type label transfer from existing taxonomies is further improved through updated filtering thresholds. Spatial domain detection is incorporated to capture local transcriptomic organization, and tissue sections are registered to the Allen Mouse Brain Common Coordinate Framework version 3 (CCFv3) for precise anatomical alignment. Genome-wide expression imputation from single-cell RNA-sequencing (scRNAseq) further enriches the dataset. Crucially, we benchmark the performance of this updated pipeline against a previously published version of our whole-mouse-brain (WMB) dataset (Yao et al., 2023b), demonstrating substantial improvements in cell number, expression profile clarity, and spatial registration. These advances provide a robust foundation for downstream spatial analyses and set a new standard for large-scale spatial transcriptomics studies.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.09.698732v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] phys.org - Space News ▶ NASA&#x27;s Pandora telescope will study stars in detail to learn about the exoplanets orbiting them</title>
     <link href="https://phys.org/news/2026-01-nasa-pandora-telescope-stars-exoplanets.html"/>
     <id>https://phys.org/news/2026-01-nasa-pandora-telescope-stars-exoplanets.html</id>
@@ -6836,48 +6528,6 @@
 <p><strong>Abstract:</strong> On Jan. 11, 2026, I watched anxiously at the tightly controlled Vandenberg Space Force Base in California as an awe-inspiring SpaceX Falcon 9 rocket carried NASA&#x27;s new exoplanet telescope, Pandora, into orbit.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-nasa-pandora-telescope-stars-exoplanets.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [90] ChemRxiv ▶ Hierarchical Self-Assembly in Minimalistic Diacetylenes: From Coacervates to Fibers</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremend</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, life, origin(s) of life</p>
-<p><strong>AI Decision:</strong> Minimal diacetylene amphiphiles are shown to undergo environment-dependent liquid–liquid phase separation into coacervates and reversibly transition to fibrillar (polymerized) assemblies, linking small-molecule self-assembly, compartmentalization, and morphology switching in a plausible origins-of-life-relevant model system.</p>
-<p><strong>Abstract:</strong> Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremendous efforts have been invested in designing small molecules capable of undergoing LLPS under physiological conditions. LLPS is gaining increasing importance due to its role in the origin of life and as arbiters of chemical reactions. The fundamental chemical logic from molecular structure to LLPS formation is not fully known. Therefore, rational design of short molecules for LLPS formation is at its infancy. This work presents the synthesis of four designer diacetylenes and their unique topochemical reactivity and ability towards environment dependent coacervation. Here, we propose diacetylene scaffold as an excellent spacer for creating diverse morphology as illustrated with molecules that assemble to coacervates and fibers. Diacetylene with an ortho-pyridyl substituent functions as a pH-responsive molecular switch, reversibly transitioning between autofluorescent coacervates and fibrillar assemblies. This presents a rare example of a minimalistic chemical system that correlates morphology, LLPS and polymerization. Additionally, we observed two different mechanisms of fibrillation of diacetylenes. DA1 and DA4 form fibrillar aggregates directly from monomers. DA3 undergoes LLPS to form condensates before transitioning to fibers closely coinciding with the recently proposed condensation mechanism of amyloid assembly.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] cell biology - biorXiv Preprints ▶ Host cell potassium ion channels KCNJ2 (KIR2.1), KCNJ13 (KIR7.1) and KCNMA1 (BKCa) mediate escape of Bunyamwera virus from late endosomal compartments</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>The Orthobunyavirus genus within the Peribunyaviridae family of enveloped arthropod-borne negative-sense RNA viruses includes species associated with serious or fatal disease in both animals and human</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> A cell biology/virology study showing specific host potassium ion channels (KCNJ2, KCNJ13, KCNMA1) regulate late-endosomal escape of Bunyamwera virus, with limited direct relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> The Orthobunyavirus genus within the Peribunyaviridae family of enveloped arthropod-borne negative-sense RNA viruses includes species associated with serious or fatal disease in both animals and humans such as Schmallenberg, La Crosse and Oropouche viruses. Orthobunyaviruses (OBVs) are internalised into cells by endocytosis and release their genomes following fusion with late endosomal (LE) membranes, triggered by low pH of the luminal milieu. There is mounting evidence to suggest OBV endosomal escape is also influenced by potassium ions (K+), which increase in concentration as endosomes mature. Endosomal K+ flux is controlled by cellular K+ channels, and we previously showed that K+ channel blockade using broad spectrum pharmacological inhibition abrogates OBV infection, with virions trapped within the endosomes. However, the K+ channels regulating this process are unknown. Herein, to identify the K+ channels involved, we studied Bunyamwera virus (BUNV), the prototypical OBV, and screened a siRNA library targeting 342 human ion channels. We identified 19 K+ channels whose knockdown inhibited BUNV gene expression by over 50%, with at least seven channels affecting BUNV at the entry stage, suggesting they exert a combinatorial influence. Of these seven channels, we used both pharmacological inhibition and genetic channel manipulation to show that OBV escape from CD63- and Rab7-positive LEs is controlled by KCNJ2 (KIR 2.1), KCNJ13 (KIR7.1) and KCNMA1 (BKCa). These studies add to the understanding of host factors influencing OBV entry, regulation of endosomal ion flux, and could aid in the design or repurposing of therapeutics for the treatment of OBV-associated disease.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.12.698685v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟢 [90] Organic Chemistry on ChemRxiv ▶ Hierarchical Self-Assembly in Minimalistic Diacetylenes: From Coacervates to Fibers</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremend</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly, life, origin(s) of life</p>
-<p><strong>AI Decision:</strong> This ChemRxiv study demonstrates a minimal diacetylene-based system that undergoes environment-dependent liquid–liquid phase separation into coacervates and reversibly transitions to fibrillar assemblies, offering a chemically tractable model linking LLPS, morphology, and polymerization mechanisms relevant to origins-of-life protocell-like compartmentalization.</p>
-<p><strong>Abstract:</strong> Recent advancements in the chemical and biological sciences have revealed admirable success in understanding the phenomenon of liquid-liquid phase separation (LLPS), resulting in coacervation. Tremendous efforts have been invested in designing small molecules capable of undergoing LLPS under physiological conditions. LLPS is gaining increasing importance due to its role in the origin of life and as arbiters of chemical reactions. The fundamental chemical logic from molecular structure to LLPS formation is not fully known. Therefore, rational design of short molecules for LLPS formation is at its infancy. This work presents the synthesis of four designer diacetylenes and their unique topochemical reactivity and ability towards environment dependent coacervation. Here, we propose diacetylene scaffold as an excellent spacer for creating diverse morphology as illustrated with molecules that assemble to coacervates and fibers. Diacetylene with an ortho-pyridyl substituent functions as a pH-responsive molecular switch, reversibly transitioning between autofluorescent coacervates and fibrillar assemblies. This presents a rare example of a minimalistic chemical system that correlates morphology, LLPS and polymerization. Additionally, we observed two different mechanisms of fibrillation of diacetylenes. DA1 and DA4 form fibrillar aggregates directly from monomers. DA3 undergoes LLPS to form condensates before transitioning to fibers closely coinciding with the recently proposed condensation mechanism of amyloid assembly.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-pxkch?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [75] phys.org - Space News ▶ How astronomers plan to detect the signatures of alien life in the atmospheres of distant planets</title>
@@ -6904,57 +6554,6 @@
 <p><a href="https://www.scientificamerican.com/article/a-bizarre-exoplanet-breaks-solar-system-rules/">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [13] eLife - recent issues ▶ Dilated cardiomyopathy-associated RNA-binding motif protein 20 regulates long pre-mRNAs in neurons</title>
-    <link href="https://elifesciences.org/articles/104808"/>
-    <id>https://elifesciences.org/articles/104808</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Precise coordination of molecular programs and neuronal growth governs the formation, maintenance, and adaptation of neuronal circuits. RNA metabolism has emerged as a key regulatory node of neural de</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study maps how the splicing regulator RBM20 binds long neuronal pre-mRNAs and prevents nonproductive splicing to maintain cytoplasmic mRNA levels, but it is largely unrelated to origins-of-life questions beyond a very general connection to RNA biology.</p>
-<p><strong>Abstract:</strong> Precise coordination of molecular programs and neuronal growth governs the formation, maintenance, and adaptation of neuronal circuits. RNA metabolism has emerged as a key regulatory node of neural development and nervous system pathologies. To uncover cell-type-specific RNA regulators, we systematically investigated expression of RNA recognition motif-containing proteins in the mouse neocortex. Surprisingly, we found RNA-binding motif protein 20 (RBM20), an alternative splicing regulator associated with dilated cardiomyopathy, to be expressed in cortical parvalbumin interneurons and mitral cells of the olfactory bulb. Genome-wide mapping of RBM20 target mRNAs revealed that neuronal RBM20 binds pre-mRNAs in distal intronic regions. Loss of neuronal RBM20 has only modest impact on alternative splice isoforms but results in a significant reduction in an array of mature mRNAs in the neuronal cytoplasm. This phenotype is particularly pronounced for genes with long introns that encode synaptic proteins. We hypothesize that RBM20 ensures fidelity of pre-mRNA splicing by suppressing nonproductive splicing events in long neuronal genes. This work highlights a common requirement for RBM20-dependent transcriptome regulation in cardiomyocytes and neurons and demonstrates that a major genetic risk factor of heart disease impacts neuronal gene expression.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/30078707">https://www.ncbi.nlm.nih.gov/pubmed/30078707</a></li>
-<li><a href="https://doi.org/10.1038/s41593-019-0465-5">https://doi.org/10.1038/s41593-019-0465-5</a></li>
-<li><a href="https://doi.org/10.1016/j.neuron.2013.07.033">https://doi.org/10.1016/j.neuron.2013.07.033</a></li>
-<li><a href="https://doi.org/10.1161/CIRCULATIONAHA.117.031947">https://doi.org/10.1161/CIRCULATIONAHA.117.031947</a></li>
-<li><a href="https://doi.org/10.1016/j.neuron.2022.04.017">https://doi.org/10.1016/j.neuron.2022.04.017</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/19013281">https://www.ncbi.nlm.nih.gov/pubmed/19013281</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/23931993">https://www.ncbi.nlm.nih.gov/pubmed/23931993</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/33420412">https://www.ncbi.nlm.nih.gov/pubmed/33420412</a></li>
-<li><a href="https://www.linkedin.com/shareArticle?title=Dilated%20cardiomyopathy-associated%20RNA-binding%20motif%20protein%2020%20regulates%20long%20pre-mRNAs%20in%20neurons&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.104808.3">https://www.linkedin.com/shareArticle?title=Dilated%20cardiomyopathy-associated%20RNA-binding%20motif%20protein%2020%20regulates%20long%20pre-mRNAs%20in%20neurons&amp;url=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.104808.3</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/22466703">https://www.ncbi.nlm.nih.gov/pubmed/22466703</a></li>
-</ul>
-<p><a href="https://elifesciences.org/articles/104808">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Quantitative Deciphering of Mammalian Histamine Receptors through Mathematical Genomics</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Histamine receptors (HRH1--HRH4) are G-protein coupled receptors (GPCRs) that mediate essential physiological functions, including neurotransmission, gastric acid secretion, immune regulation, and pre</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Comparative mathematical genomics of mammalian histamine GPCRs maps conserved motifs and subtype-specific divergence (keyword match: evolution) but has no direct relevance to origins-of-life or astrobiology questions.</p>
-<p><strong>Abstract:</strong> Histamine receptors (HRH1--HRH4) are G-protein coupled receptors (GPCRs) that mediate essential physiological functions, including neurotransmission, gastric acid secretion, immune regulation, and presynaptic autoregulation. Despite their importance, systematic comparative analyses across mammalian histamine receptor sequences remain scarce. In this study, we performed a comprehensive evaluation of HRH1--HRH4 across multiple mammalian species, integrating sequence homology, invariant residue mapping, amino acid substitutions, compositional frequencies, Shannon entropy, polystring distributions, intrinsic disorder profiling, and phylogenetic clustering. HRH2 and HRH1 were highly conserved among primates, HRH3 showed strong cohesion within rodents, while HRH4 exhibited pronounced divergence consistent with immune-related specialization. Invariant residues localized to transmembrane helices and activation motifs (D107, W428/Y431, NPxxY), underscoring strict evolutionary constraints on ligand binding, receptor stability, and G-protein coupling. Substitutions were confined to non-essential lipid-facing and loop regions, predominantly conservative in nature, enabling diversification without disrupting the GPCR fold. Amino acid frequency and entropy analyses revealed hydrophobic dominance with subtype-specific enrichment of polar residues, while disorder profiling identified HRH1 as the most dynamic and HRH2 as the most structurally constrained. Polystring analysis highlighted conserved motifs (WWW, PP) alongside subtype- and species-specific repeats, reflecting evolutionary strategies balancing receptor stability with adaptive flexibility. Phylogenetic clustering confirmed subtype-specific cohesion, with HRH3 and HRH4 forming compact clades, HRH1 showing moderate dispersion, and HRH2 forming the most isolated cluster. Collectively, these findings demonstrate that mammalian histamine receptor evolution is governed by conserved biophysical cores and selective variability, offering insights into structural conservation, functional diversification, and translational relevance for drug design and model selection.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.07.698197v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] ChemRxiv ▶ Extending Graph-based Lattice Kinetic Monte Carlo Simulations to Polymer Transformations</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Multiscale simulations offer a way to understand how polymer transformations proceed under realistic conditions, however existing workflows rely on empirically tuned parameters. The MUltiscale SImulat</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Introduces a reproducible multiscale workflow (MUSIK) combining quantum chemistry and graph-based lattice kMC to model polymer (PVC) dehydrochlorination without parameter fitting, useful for materials/recycling but only tangentially relevant to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Multiscale simulations offer a way to understand how polymer transformations proceed under realistic conditions, however existing workflows rely on empirically tuned parameters. The MUltiscale SImulation frameworK (MUSIK) integrates conformer analysis, density functional theory and high-level coupled-cluster energetics, and graph-based lattice kinetic Monte Carlo (kMC) to generate chemically accurate, spatially and temporally resolved kinetic models for polymer transformations without parameter fitting. The present work introduces MUSIK as a reproducible workflow and provides a step-by-step tutorial that shows how to construct, run, and analyze a lattice kMC model for base-assisted dehydrochlorination of polyvinyl chloride (PVC), supported by post-processing scripts that automate kMC trajectory analysis and polymer-structure reconstruction. Tutorial results demonstrate how MUSIK links atomic energetics and local structure to macroscopic kinetics and structural evolution and reproduces key experimental observations for PVC dehydrochlorination. MUSIK is generalizable to arbitrary polymer chemistries and can provide practical recommendations for polymer recycling, upcycling, and materials design to address plastic-waste challenge.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-h28k3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [5] Physics of Life Reviews ▶ Protein post-translational modifications in tumor immunity: a multi-layered regulatory network deserving systematic decoding Comment on “Protein post-translational modifications and tumor immunity: A pan-cancer perspective”</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all</id>
@@ -6970,104 +6569,6 @@
 <p><a href="https://www.sciencedirect.com/science/article/pii/S1571064526000011?dgcid=rss_sd_all">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🔴 [30] ChemRxiv ▶ A Reversible ATR-FTIR Biosensor with Single Residue Sensitivity</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Infrared spectroscopy provides label-free access to protein structure information with high sensitivity. Challenges in infrared spectroscopy include artifacts arising from temperature changes, baselin</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Introduces a reusable ATR‑FTIR immuno‑infrared biosensor with reversible protein capture that can detect single‑amino‑acid substitutions, offering broadly relevant analytical capability but little direct connection to origins‑of‑life chemistry or early life processes.</p>
-<p><strong>Abstract:</strong> Infrared spectroscopy provides label-free access to protein structure information with high sensitivity. Challenges in infrared spectroscopy include artifacts arising from temperature changes, baseline drifts and the strong water absorption, especially in difference spectroscopy, where signals are orders of magnitude smaller than the total absorbance. Previously, we introduced an ATR-based immuno-infrared sensor (iRS) based on sophisticated surface chemistry. This provides a stable platform for covalent protein immobilization and allows its application with body fluids such as cerebrospinal fluid or blood without unspecific background. It detects misfolding of small amounts of antigen (Abeta or alpha-synuclein) by binding to an antibody or antibody fragment, which allows for the diagnosis of various neurodegenerative diseases. Here, we extend this platform by introducing reversible binding via the NColE7/Im7 pair. Im7-tagged proteins are captured with sub-picomolar affinity and quantitatively released under mild conditions (high salt or low pH), allowing repeated capture-regeneration cycles with continuous spectral monitoring of the Im7 fusion protein. Using an Im7-antibody Fab fusion protein, we present a reusable immune-IR sensor that enables multiple measurements on the same surface. For example, different antibodies can be used for differential screening. Using alternating Im7 protein attachments to the internal reflection element, we further compare Im7 single point mutants to wild-type Im7 to resolve infrared signatures of specific amino acid substitutions. Difference spectra reveal the distinct tyrosine absorption associated with either the introduction or removal of a single tyrosine residue, providing the first proof-of-concept for difference spectroscopy with single-residue sensitivity based on complete protein exchange.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8875c?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [8] ChemRxiv ▶ Crystal Growth, Structures and Optical Bandgaps of Cuprous Rare-Earth Molybdates</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-3hx92-v2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-3hx92-v2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Cuprous-oxide semiconductors have been growing in research interest because of their promising optical and catalytic properties for solar energy conversion. While much recent research has focused on b</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> Reports synthesis, structures, and visible-light bandgaps of quaternary Cu(I)–rare-earth molybdates, advancing semiconductor crystal chemistry but with little direct relevance to origins-of-life or astrobiology.</p>
-<p><strong>Abstract:</strong> Cuprous-oxide semiconductors have been growing in research interest because of their promising optical and catalytic properties for solar energy conversion. While much recent research has focused on binary and ternary cuprous oxides, the more structurally complex quaternary and higher systems remain significantly less explored. Crystal growth in the cuprous rare-earth (RE) molybdate system has been investigated using high temperature and arc-melting synthesis techniques. Prior studies show the formation of two closely related compounds in these systems, occurring as either Cu6RE4(MoO4)9 (Space group: R3c, No. 161; exclusive for RE = La) or CuRE(MoO4)2 (Space group: Pbca, No. 61; for RE = Nd and heavier REs). By contrast, our new synthetic investigations for RE = Ce and La demonstrate the crystallization of both structure types, i.e., as red-colored crystals of Cu6RE4(MoO4)9 (RE = La(1) or Ce(2)) and as yellow-colored crystals of CuRE(MoO4)2 (RE = La(3) or Ce(4)), as obtained by slow cooling from 950 oC and from arc-melting techniques, respectively. Both structures similarly consist of [MoO4]2- tetrahedra bridged either by highly-distorted CuO4 tetrahedra and CeO9 tricapped trigonal prisms in 1 and 2 or by T-shaped CuO3 and CeO8 square antiprisms in 3 and 4. Optical UV-Vis diffuse reflectance measurements on powders of CuRE(MoO4)2 for RE = La, Ce, Sm, Eu, and Yb show relatively larger direct bandgaps in the range of 2.36 to 2.47 eV, while the crystals of Cu6RE4(MoO4)9 for RE = La and Ce yield smaller indirect bandgaps of about 1.89 to 2.05 eV. Electronic structure calculations show bandgaps which stem predominantly from electronic transitions between the filled 3d10-based orbitals of the Cu(I) cations and the empty d-based orbitals of the Mo(VI) cations. Thus, the RE cations are found to have an indirect effect on the optical bandgaps via changes in the local coordination environments of each of these cations. The change in crystal structure, such as from Cu6Ce4(MoO4)9 to CuCe(MoO4)2, has a dramatically larger effect of decreasing the bandgap by ~0.4 to 0.5 eV as compared to only changing the RE cation within the same structure type. In summary, new synthetic investigation of the quaternary cuprous molybdates has elucidated the impact of RE cations on their crystal structures, compositions, and visible-light bandgaps, with the underlying relationships revealed via electronic structure calculations.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3hx92-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-3hx92-v2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-3hx92-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] ChemRxiv ▶ Eyring&#x27;s Rate Theory and Its Connection to Entropy Scaling: Viscosity and Self-Diffusion of Hydrocarbons, Alcohols, and Water</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-nbhbq-v3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-nbhbq-v3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Eyring&#x27;s absolute rate theory relates fluid flow with the activation energy necessary for a molecule to go from one equilibrium position to another. Developed nearly a century ago, it remains a powerf</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Revises Eyring absolute rate theory using a residual (intermolecular-interaction) framework and links activation parameters to excess-entropy scaling to better predict viscosity and self-diffusion in liquids including water, with indirect relevance to prebiotic transport environments.</p>
-<p><strong>Abstract:</strong> Eyring&#x27;s absolute rate theory relates fluid flow with the activation energy necessary for a molecule to go from one equilibrium position to another. Developed nearly a century ago, it remains a powerful approach for understanding transport processes in liquids. This work presents a revision of Eyring&#x27;s theory by replacing the vaporization-based parts of the theory with a residual approach that conceptualizes transport as local (re)movement of molecules within the system rather than removal from it. In this new approach, the energy barrier corresponds to the difference between a molecule with and without intermolecular interactions, effectively treating it as the residual property related to an ideal gas reference state. Furthermore, we explore the physical connections between Eyring&#x27;s absolute rate theory and Rosenfeld excess entropy scaling, revealing that both approaches describe complementary aspects of the same transport phenomena. It is tempting to link both theories. The activation parameters in Eyring&#x27;s theory, particularly the energy of activation, are shown to relate to the residual entropy used in entropy scaling. This provides a pathway to establish entropy scaling on a more rigorous physical foundation while offering deeper insights into the molecular mechanisms governing viscous flow. In comparison to experimental data, the revised theory demonstrated significant predictive power for viscosity across a wide range of thermodynamic conditions and species, including associating liquids. Moreover, parameters are transferable to other properties, such as self-diffusion.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-nbhbq-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-nbhbq-v3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-nbhbq-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [43] ChemRxiv ▶ Probing Molecular Organization in Polar Nematic Phases: A Combined FTIR Spectroscopy and Molecular Simulation Approach</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9bf98-v2?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-9bf98-v2?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>The emergence of polar nematic phases, such as the ferroelectric (N F ) and antiferroelectric (N X ) phases, has opened new frontiers in soft matter science. However, the relationship between molecula</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> self-assembly</p>
-<p><strong>AI Decision:</strong> Combines FTIR and multi-molecule simulations to show that strong intermolecular correlations drive nanodomain self-assembly and biaxial order in polar nematic liquid-crystal phases, offering indirect mechanistic insight into molecular self-organization relevant to prebiotic chemistry but not directly addressing origins-of-life systems.</p>
-<p><strong>Abstract:</strong> The emergence of polar nematic phases, such as the ferroelectric (N F ) and antiferroelectric (N X ) phases, has opened new frontiers in soft matter science. However, the relationship between molecular structure, intermolecular interactions, and the resulting macroscopic order remains poorly understood. This work investigates the molecular organization in the polar nematic phases of the nJK (n=1-5) homologous series using a combined approach of polarized Fourier-Transform Infrared (FTIR) Spectroscopy, Density Functional Theory (DFT) calculations, and Atomistic Molecular Dynamics (MD) Simulations. A central finding is the inadequacy of single-molecule DFT models to describe the system. While DFT accurately predicts vibrational band positions, it fails to replicate their experimental intensities, suggesting that intermolecular interactions are dominant. This is further corroborated by the anomalous temperature dependence of the average absorbance for parallel and perpendicular vibrations, which deviates significantly from simple density effects. Atomistic MD simulations of a multi-molecule system provide insight into this behavior, revealing the formation of locally ordered nanodomains driven by strong short- range correlations. Experimentally, we quantified the primary nematic order parameter (S), which follows a typical progression in the N phase but shows anomalous changes at the N-N X and N X -N F transitions, ultimately saturating at a high value of S ≈ 0.7 in the ferroelectric state. The difference between orthogonal absorbance components for perpendicular vibrations reveals a significant biaxiality order parameter (C) that increases upon cooling and exceeds 1 in the N F phase. This study demonstrates that the unique properties of polar nematics are governed by specific molecular self-assembly and establishes phase biaxiality as a key feature of these systems.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9bf98-v2?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-9bf98-v2?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9bf98-v2?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [18] ChemRxiv ▶ Local Chain Dynamics in Sequence-Controlled Polymers as a Tunable Handle for Rare Earth Sequestration</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-hh2f0?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-hh2f0?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Chain dynamics govern the intricate behaviors of proteins, underpinning functions such as catalysis, recognition and stimulus response, and are an increasingly appreciated aspect of structure-function</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> Sequence-controlled synthetic polymers are engineered to tune local chain dynamics and morphology for improved rare-earth chelation, offering a materials-science analogue to protein structure–function relationships but with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Chain dynamics govern the intricate behaviors of proteins, underpinning functions such as catalysis, recognition and stimulus response, and are an increasingly appreciated aspect of structure-function relationships. Analogously, manipulating chain dynamics and structure in abiotic polymers via sequence control is an exciting, yet underexplored, strategy for improving material functions. Here, we report a systematic study relating the sequence, structure, and dynamics of polymeric sequestrants to their binding affinity and selectivity for rare earth elements (REEs). A series of sequence-controlled polymers with metal chelating, solubilizing, and structure forming monomers was synthesized via multiblock polymerization, yielding compositionally identical polymers with spectroscopically resolved domains and distinct morphologies. Using a combination of small angle X-ray scattering and 19F NMR relaxometry measurements, we connected differences in polymer structure and dynamics to polymer sequence variables such as the patchiness (density) of the structure forming monomer and the location of the chelating monomer. Furthermore, we found that while all polymers in the series collapse more and have slower dynamics when binding REEs (lanthanum and lutetium) than calcium, these changes were sequence-dependent and localized to specific domains within the polymer. Notably, sequence-controlled polymers that exhibited the largest conformational and dynamic changes upon binding REEs also bound REEs with the greatest affinity and moderate selectivity. Collectively, these results establish a mechanistic link between monomer patterning, dynamics, morphology, and REE binding performance en route to the development of efficient and selective macromolecular chelators.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-hh2f0?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-hh2f0?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-hh2f0?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Nature ▶ Ancient ‘snowball’ Earth had frigidly briny seas</title>
-    <link href="https://www.nature.com/articles/d41586-025-04081-6"/>
-    <id>https://www.nature.com/articles/d41586-025-04081-6</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Nature, Published online: 12 January 2026; doi:10.1038/d41586-025-04081-6 Ocean temperatures well below freezing in Earth’s deep-past glacial phases imply some very salty waters.</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> Evidence that Snowball Earth oceans were below-freezing yet liquid due to extreme salinity refines constraints on early-Earth water availability and habitability under global glaciation.</p>
-<p><strong>Abstract:</strong> Nature, Published online: 12 January 2026; doi:10.1038/d41586-025-04081-6 Ocean temperatures well below freezing in Earth’s deep-past glacial phases imply some very salty waters.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/d41586-025-04081-6">https://www.nature.com/articles/d41586-025-04081-6</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/d41586-025-04081-6">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] ChemRxiv ▶ On a theoretical model of microdroplet redox chemistry</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Microdroplet chemistry has emerged as a fascinating field. In particular, a plethora of unexpected oxidation and reduction reactions are observed at air–water interface with wide implications to chemi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> A theoretical Marcus-type model proposes that partially solvated interfacial OH− can undergo concerted electron transfer to diverse acceptors in microdroplets, making redox reactions thermodynamically favorable and near-barrierless at the air–water interface—mechanistically relevant to prebiotic/interface chemistry but not directly focused on abiogenesis.</p>
-<p><strong>Abstract:</strong> Microdroplet chemistry has emerged as a fascinating field. In particular, a plethora of unexpected oxidation and reduction reactions are observed at air–water interface with wide implications to chemical science and beyond. However, the explanation of microdroplet redox chemistry is challenging and controversial. Mechanistically, thermodynamic reversal over the bulk reaction, surprisingly fast kinetics (often less than milliseconds) and generality of a broad scope of substrates defy textbook understanding. Herein, we lay out a theoretical model of concerted interfacial electron transfer of OH- (partially solvated) + A^n → OH· (partially solvated) + A^{n-1}, rather than the conventional stepwise ionization-capture picture. Four different electron acceptors A^n (including a transition metal, an organic molecule, oxygen, ozone) are chosen to cover a wide range of experimental scenarios and chemical diversity. When A^n in the system is reduced upon receiving an electron, the accompanied product of OH· further serves as the oxidizing agent, capturing the intrinsic oxidative capacity of microdroplet. We then introduce a general energetic treatment to account for the partial solvation of OH- at heterogeneous water interface and develop a Marcus-theory-based reaction rate formalism that integrates the energetic distribution. We quantitatively analyze both the thermodynamic and the kinetic consequences of this model. For all four cases analyzed, the otherwise unfavorable thermodynamic penalty (ΔG° &gt; 0) for the bulk reaction is reversed at water interface (ΔG° &lt; 0) after a certain dehydration level. Remarkably, for all these cases, interfacial electron transfer becomes near-barrierless (ΔG° ≈ -λ, ΔG‡ ≤ 3 kcal/mol) for a substantial sub-population of partially solvated OH-. Thus, the water interface can prepare and gate a substantial donor population whose electrons are nearly ready to tunnel into a broad range of acceptors across the interface, which explains the surprisingly fast reaction rate observed in experiments. This model further predicts absolute rate constants that are in agreement with kinetic measurement on microdroplets. Finally, a phase diagram is constructed to depict the vast thermodynamic and kinetic (barrierless reaction) zones that are newly opened by the water interface, thus accounting for reaction generality. Despite its simplicity, this model provides a robust prediction for the rich redox chemistry at water interface.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-1hgp3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [5] ScienceDaily - Evolutionary Biology News ▶ Decoding the perfect steak: The hidden DNA behind Wagyu’s legendary marbling</title>
     <link href="https://www.sciencedaily.com/releases/2026/01/260112001032.htm"/>
     <id>https://www.sciencedaily.com/releases/2026/01/260112001032.htm</id>
@@ -7081,48 +6582,6 @@
 <li><a href="https://doi.org/10.1038/s41467-025-65778-w">https://doi.org/10.1038/s41467-025-65778-w</a></li>
 </ul>
 <p><a href="https://www.sciencedaily.com/releases/2026/01/260112001032.htm">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] ChemRxiv ▶ Copper Ligation and Nuclearity Dictate the Solution Dynamics and Hydrogen Evolution Activity of Discrete Mo–Cu Sulfide Clusters</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Heterobimetallic clusters comprising Group 6 thiometallates and earth-abundant transition metals are of significant interest for applications in laser technology, telecommunications, sensing, and cata</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, evolution</p>
-<p><strong>AI Decision:</strong> This study shows how ligand choice and copper nuclearity in discrete Mo–Cu sulfide clusters tune sulfur-centered hydrogen evolution thermochemistry and stability, offering a mineral-inspired catalyst framework potentially relevant to early Earth redox/energy chemistry but not directly addressing abiogenesis.</p>
-<p><strong>Abstract:</strong> Heterobimetallic clusters comprising Group 6 thiometallates and earth-abundant transition metals are of significant interest for applications in laser technology, telecommunications, sensing, and catalysis. An advantage of clusters relative to the bulk-state materials is their tunable architecture, which enables precise modulation of physicochemical properties and reactivity through ligand and core structure manipulation. Recently, we reported the Mo–Cu cluster [Tp*MoS3(CuSPh)2]– ([1•(CuSPh)2]–; Tp* = tris(3,5-dimethylpyrazolyl)borate) as a discrete model of layered Cu2MoS4 and functional electrocatalyst for the hydrogen evolution reaction (HER) via a sulfur-centered pathway. While the Tp* ligand was found to be essential for stabilizing the clusters and precluding the formation of reactive Mo-hydrides, the impact of copper ligation and nuclearity remained uncertain. Herein, we describe the synthesis and characterization of a series of derivatives, [1•(CuX)n]– and [1•(CuL)n]1–n, systematically varying the ancillary X- and L-type copper ligands. Single crystal XRD and 1H DOSY NMR analyses reveal that while nuclearities of n = 2-4 are accessible in the solid state, the higher-order clusters (n = 3, 4) exhibit significant solution-state lability. Electrocatalytic evaluations show that the new clusters are markedly less active for the HER than the thiophenolate parent. DFT calculations attribute this difference to the attenuated sulfur basicity and (in some cases) weaker S–H bonds that result from increased copper nuclearity, ancillary ligand donicity, or overall charge. Collectively, this work reveals that while copper ligation and nuclearity offer a modular approach to tuning HER thermochemistry, these changes also impact the cluster’s ability to maintain structural integrity under catalytic conditions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-9135r?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] ChemRxiv ▶ ACCEL: Automated Closed-loop Co-Optimization and Experimentation Learning Enables Phase-Pure Identification in Formamidinium-based Dion–Jacobson Halide Perovskites</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Self-driving laboratories (SDLs) are poised to transform materials discovery by integrating automation with machine learning (ML) to accelerate data-driven experimentation. However, most SDL framework</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Presents ACCEL, an ML-guided self-driving lab that co-optimizes photoluminescence and XRD feedback to autonomously identify and stabilize phase-pure quasi-2D formamidinium halide perovskites.</p>
-<p><strong>Abstract:</strong> Self-driving laboratories (SDLs) are poised to transform materials discovery by integrating automation with machine learning (ML) to accelerate data-driven experimentation. However, most SDL frameworks remain limited by single-feedback optimization and lack the multi-modal diagnostics needed to resolve both optical and structural evolution in complex hybrid systems. Here, we introduce ACCEL, an automated, ML-guided closed-loop platform for identifying and synthesizing target pure phases within quasi-2D halide perovskite systems. Using a ternary 3D:2D compositional space comprising 3D FAPbI3 and two Dion–Jacobson (DJ) spacer–based components, ACCEL optimizes the 3D:2D ratios to identify compositions that converge toward a structurally and optically stable α-FAPbI3-like phase within a quasi-2D design space. Automated in-situ photoluminescence (PL) is used to monitor crystallization kinetics in real time, revealing how the relative fraction of co-spacers governs nucleation rate and phase evolution during film formation. These kinetic insights are integrated with high-throughput synthesis, automated PL analysis, and X-ray diffraction (XRD) similarity metrics within a Gaussian Process–Bayesian Optimization framework to suppress phase heterogeneity and stabilize the target phase. Rather than targeting a predefined DJ layer number, ACCEL enables optimization based on user-defined optical and structural signatures, providing a generalizable route for autonomous phase discovery in complex hybrid materials.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-8c93m?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [47] ChemRxiv ▶ Unsupervised classification of local clathrate hydrate structures</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Quantifying and differentiating the structural characteristics of clathrate hydrates at the molecular level is crucial for understanding the properties that underpin hydrate-based technologies. While </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> Presents a DBSCAN-based algorithm to identify and classify coexisting water states and interfacial/quasi-liquid structures in clathrate hydrates, a potentially useful tool for interpreting icy planetary environments but not directly focused on origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Quantifying and differentiating the structural characteristics of clathrate hydrates at the molecular level is crucial for understanding the properties that underpin hydrate-based technologies. While useful, current approaches lack sufficient resolution to discern, e.g., interfacial and dynamical structures. In this study, we present an algorithm based on Density-Based Spatial Clustering of Applications with Noise (DBSCAN) that accurately identifies different water states coexisting within clathrate hydrates. A key novel component is an effective cavity-finder algorithm, which provides input to the clustering framework. The new algorithm detects hydrate cavities by analyzing the number and type of constituent molecular rings around voids. Integrating the new algorithm with widely used order parameters (e.g., F3, F4, and F4t) provides a powerful and accurate tool for analyzing hydrate structures at interfaces and phase transitions. The performance of the new algorithm is assessed for structure I (sI) CO2 hydrates and for structure II (sII) mixed CH4/Dioxane hydrates, demonstrating its robustness and adaptability across different clathrates. Crucially, the proposed algorithm enables us to identify partially ordered structures characteristic of the quasi-liquid layer, thereby capturing interfacial dynamics and molecular-scale details essential for understanding hydrates under realistic conditions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2025-77q38-v3?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [20] cond-mat.stat-mech updates on arXiv.org ▶ Emergence of the 2nd Law in an Exactly Solvable Model of a Quantum Wire</title>
@@ -7293,20 +6752,6 @@
 <p><a href="https://arxiv.org/abs/2601.05423">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] ChemRxiv ▶ Alkyldiazirine warheads for G-quadruplex photoaffinity labelling by N,O-alkylation on Thymine and Guanine Nucleobases</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>G-rich repetitive nucleic acid sequences can fold into G-quadruplexes (G4s) upon coordination with potassium ions (K+). Small natural and synthetic molecules (G4 ligands) can bind to and stabilize G4 </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid</p>
-<p><strong>AI Decision:</strong> Reports high-yield (up to 70%) diazirine-based photoaffinity G-quadruplex ligands that selectively N/O-alkylate thymine and guanine, advancing nucleic-acid chemical probing though only indirectly relevant to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> G-rich repetitive nucleic acid sequences can fold into G-quadruplexes (G4s) upon coordination with potassium ions (K+). Small natural and synthetic molecules (G4 ligands) can bind to and stabilize G4 structures in vitro, thereby interfering with biological processes involving G4-containing genes. Therefore, G4 ligands represent highly valuable tools for unveiling G4 biological functions. Together with non-covalent reversible G4 ligands, reactive compounds capable of forming covalent bonds with G4s upon thermal and photochemical activation represent a new class of promising G4 ligands with the potential to be harnessed for the identification and isolation of G4s from a biological environment. In particular, photoaffinity labelling (PAL) encompasses the potential to obtain spatial and temporal control over the alkylation event. However, to date, only a few examples of covalent G4 ligands for PAL approaches have been described, and very low alkylation yields plague all of them. Herein, the synthesis of new families of photoactivatable G4 ligands functionalized with different warheads (e.g., benzophenones and diazirines) is described, as well as their photoreactivity in the presence of three different G4s: 22AG, cMyc, and 25CEBwt. Among the different compounds, diazirine derivatives displayed the highest G4 selectivity and unprecedented high alkylation yields (up to 70%) together with a remarkable selective N- and O-alkylation reaction only on thymine and guanine nucleobases as identified by using a prototype ligand. These new compounds pave the way for the development of new methodologies, allowing for functional investigation and druggability of G4 in cells.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟤 [10] nlin.PS updates on arXiv.org ▶ Evolution of localized pulses in the defocusing modified Korteweg-de Vries equation theory</title>
     <link href="https://arxiv.org/abs/2601.05938"/>
     <id>https://arxiv.org/abs/2601.05938</id>
@@ -7417,33 +6862,5 @@
 <li><a href="https://arxiv.org/abs/2601.05891">https://arxiv.org/abs/2601.05891</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2601.05891">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Organic Chemistry on ChemRxiv ▶ Alkyldiazirine warheads for G-quadruplex photoaffinity labelling by N,O-alkylation on Thymine and Guanine Nucleobases</title>
-    <link href="https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss"/>
-    <id>https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>G-rich repetitive nucleic acid sequences can fold into G-quadruplexes (G4s) upon coordination with potassium ions (K+). Small natural and synthetic molecules (G4 ligands) can bind to and stabilize G4 </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid</p>
-<p><strong>AI Decision:</strong> Develops high-yield diazirine-based photoaffinity G-quadruplex ligands enabling selective N/O-alkylation on thymine and guanine, offering powerful nucleic-acid probing chemistry with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> G-rich repetitive nucleic acid sequences can fold into G-quadruplexes (G4s) upon coordination with potassium ions (K+). Small natural and synthetic molecules (G4 ligands) can bind to and stabilize G4 structures in vitro, thereby interfering with biological processes involving G4-containing genes. Therefore, G4 ligands represent highly valuable tools for unveiling G4 biological functions. Together with non-covalent reversible G4 ligands, reactive compounds capable of forming covalent bonds with G4s upon thermal and photochemical activation represent a new class of promising G4 ligands with the potential to be harnessed for the identification and isolation of G4s from a biological environment. In particular, photoaffinity labelling (PAL) encompasses the potential to obtain spatial and temporal control over the alkylation event. However, to date, only a few examples of covalent G4 ligands for PAL approaches have been described, and very low alkylation yields plague all of them. Herein, the synthesis of new families of photoactivatable G4 ligands functionalized with different warheads (e.g., benzophenones and diazirines) is described, as well as their photoreactivity in the presence of three different G4s: 22AG, cMyc, and 25CEBwt. Among the different compounds, diazirine derivatives displayed the highest G4 selectivity and unprecedented high alkylation yields (up to 70%) together with a remarkable selective N- and O-alkylation reaction only on thymine and guanine nucleobases as identified by using a prototype ligand. These new compounds pave the way for the development of new methodologies, allowing for functional investigation and druggability of G4 in cells.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss</a></li>
-</ul>
-<p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-0v374?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] Scientific Reports ▶ Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial stress</title>
-    <link href="https://www.nature.com/articles/s41598-025-31740-5"/>
-    <id>https://www.nature.com/articles/s41598-025-31740-5</id>
-    <updated>2026-01-12T00:00:00Z</updated>
-    <summary>Scientific Reports, Published online: 12 January 2026; doi:10.1038/s41598-025-31740-5 Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial st</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
-<p><strong>AI Decision:</strong> This study models how water-bearing sandstone accumulates hydro-mechanical damage under triaxial stress, offering indirect geological context for subsurface fluid flow and rock fracturing but little direct relevance to origins-of-life chemistry or biology.</p>
-<p><strong>Abstract:</strong> Scientific Reports, Published online: 12 January 2026; doi:10.1038/s41598-025-31740-5 Hydro-mechanical damage modeling of water-bearing sandstone using an energy dissipation approach under triaxial stress</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41598-025-31740-5">https://www.nature.com/articles/s41598-025-31740-5</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41598-025-31740-5">Read source article</a></p>]]></content>
   </entry>
 </feed>
