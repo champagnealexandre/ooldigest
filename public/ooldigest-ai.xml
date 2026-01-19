@@ -3,8 +3,20 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-19T09:30:37.911657+00:00</updated>
+  <updated>2026-01-19T10:24:02.102365+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] Sciences et Avenir ▶ Japon: un dysfonctionnement retarde le redémarrage de la plus grande centrale nucléaire du monde</title>
+    <link href="https://www.sciencesetavenir.fr/nature-environnement/japon-un-dysfonctionnement-retarde-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde_190457?xtor=RSS-15"/>
+    <id>https://www.sciencesetavenir.fr/nature-environnement/japon-un-dysfonctionnement-retarde-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde_190457?xtor=RSS-15</id>
+    <updated>2026-01-19T09:34:00Z</updated>
+    <summary>Un dysfonctionnement technique a retardé le redémarrage, initialement attendu mardi, de la plus grande centrale nucléaire du monde, située au Japon, a indiqué lundi la compagnie d&#x27;électricité qui l&#x27;ex</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars</p>
+<p><strong>AI Decision:</strong> French news report on a technical malfunction delaying the restart of Japan’s Kashiwazaki-Kariwa nuclear power plant, with no relevance to origins of life or astrobiology.</p>
+<p><strong>Abstract:</strong> Un dysfonctionnement technique a retardé le redémarrage, initialement attendu mardi, de la plus grande centrale nucléaire du monde, située au Japon, a indiqué lundi la compagnie d&#x27;électricité qui l&#x27;exploite, confirmant des informations de presse. Tokyo Electric Power (Tepco) a annoncé qu&#x27;il lui faudra un ou deux jours supplémentaires pour vérifier les équipements de la centrale de Kashiwazaki-Kariwa, dont la remise en service était selon les médias prévue mardi. La centrale avait été mise hors service lorsque le Japon a fermé tous ses réacteurs nucléaires après le triple désastre - séisme, tsunami et catastrophe nucléaire - de Fukushima en mars 2011, alors que la population exprimait son inquiétude face à cette source d&#x27;énergie.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencesetavenir.fr/nature-environnement/japon-un-dysfonctionnement-retarde-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde_190457?xtor=RSS-15">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] cs.NE updates on arXiv.org ▶ A Quantum-Driven Evolutionary Framework for Solving High-Dimensional Sharpe Ratio Portfolio Optimization</title>
     <link href="https://arxiv.org/abs/2601.11029"/>
@@ -6833,20 +6845,6 @@
 <li><a href="https://arxiv.org/abs/2505.23460">https://arxiv.org/abs/2505.23460</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2505.23460">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Phys. Rev. Lett. ▶ Double-Bracket Quantum Algorithms for Quantum Imaginary-Time Evolution</title>
-    <link href="http://link.aps.org/doi/10.1103/rw81-k8vk"/>
-    <id>http://link.aps.org/doi/10.1103/rw81-k8vk</id>
-    <updated>2026-01-12T10:00:00Z</updated>
-    <summary>Author(s): Marek Gluza, Jeongrak Son, Bi Hong Tiang, René Zander, Raphael Seidel, Yudai Suzuki, Zoë Holmes, and Nelly H. Y. Ng Efficiently preparing approximate ground states of large, strongly correl</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Quantum computing method for preparing ground states via imaginary-time evolution, potentially useful for future chemical simulations but not directly related to origins-of-life, prebiotic chemistry, or astrobiology.</p>
-<p><strong>Abstract:</strong> Author(s): Marek Gluza, Jeongrak Son, Bi Hong Tiang, René Zander, Raphael Seidel, Yudai Suzuki, Zoë Holmes, and Nelly H. Y. Ng Efficiently preparing approximate ground states of large, strongly correlated systems on quantum hardware is challenging, and yet, nature is innately adept at this. This has motivated the study of thermodynamically inspired approaches to ground-state preparation that aim to replicate cooling process… [Phys. Rev. Lett. 136, 020601] Published Mon Jan 12, 2026</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="http://link.aps.org/doi/10.1103/rw81-k8vk">http://link.aps.org/doi/10.1103/rw81-k8vk</a></li>
-</ul>
-<p><a href="http://link.aps.org/doi/10.1103/rw81-k8vk">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [50] Nature Communications ▶ Cross-species dissection of saline-related genes by genetically deciphering a euryhaline microalga Chlorella sp</title>

@@ -1,5 +1,14 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Japon: un dysfonctionnement retarde le redémarrage de la plu](https://www.sciencesetavenir.fr/nature-environnement/japon-un-dysfonctionnement-retarde-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde_190457?xtor=RSS-15) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119052354&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Fake news en santé : il faut s’éduquer "de l’école à l’Ehpad](https://www.sciencesetavenir.fr/politique/contre-les-fake-news-en-sante-il-faut-s-eduquer-de-l-ecole-a-l-ehpad_190455) |
+| keyword_rejected | - | [Hematological ratios in pediatric patients with alopecia are](https://www.nature.com/articles/s41598-026-36308-5) |
+| keyword_rejected | - | [Effects of DRG pulsed radiofrequency parameters on the clini](https://www.nature.com/articles/s41598-026-36277-9) |
+| keyword_rejected | - | [Immediate four implants supported short arch rehabilitation ](https://www.nature.com/articles/s41598-026-36442-0) |
+| keyword_rejected | - | [Maxillary sinus classification for sex and age using 23 arti](https://www.nature.com/articles/s41598-026-36112-1) |
+| keyword_rejected | - | [The prognostic significance of metastasis to No. 253 lymph n](https://www.nature.com/articles/s41598-026-35920-9) |
+| keyword_rejected | - | [Simultaneous sulfide oxidation and sulfate reduction for int](https://www.nature.com/articles/s41467-026-68508-y) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119043032&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Jeunes et réseaux sociaux : l’interdiction fait débat chez l](https://www.sciencesetavenir.fr/sante/jeunes-et-reseaux-sociaux-l-interdiction-fait-debat-chez-les-chercheurs_190454?xtor=RSS-16) |
 | keyword_rejected | - | [Comparison between eDNA and traditional morphological method](https://www.nature.com/articles/s41598-025-32964-1) |
