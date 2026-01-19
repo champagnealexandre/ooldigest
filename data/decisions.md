@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Hierarchical mechanisms control the clearance of DNA lesion–](https://www.nature.com/articles/s41467-026-68413-4) |
+| ai_scored | 35 | [Hierarchical mechanisms control the clearance of DNA lesion–](https://www.nature.com/articles/s41467-026-68413-4) |
+| ai_scored | 75 | [Mission « Mars Sample Return » : les échantillons ne reviend](https://www.pourlascience.fr/sd/planetologie/mission-mars-sample-return-les-echantillons-ne-reviendront-sans-doute-jamais-sur-terre-28676.php) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119061834&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Mission lunaire Artémis 2 : la NASA déplace la fusée SLS sur](https://www.sciencesetavenir.fr/espace/exploration/sortie-de-la-fusee-lunaire-de-la-nasa-en-amont-du-lancement-d-artemis-2_190450?xtor=RSS-9) |
+| keyword_rejected | - | [Un dysfonctionnement retarde le redémarrage de la plus grand](https://www.sciencesetavenir.fr/nature-environnement/nucleaire/japon-un-dysfonctionnement-retarde-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde_190457?xtor=RSS-15) |
+| keyword_rejected | - | [A la chasse au neutrino stérile, la particule fantôme](https://www.sciencesetavenir.fr/fondamental/particules/a-la-chasse-au-neutrino-sterile-la-particule-fantome-qui-pourrait-bousculer-le-monde-de-la-physique_190268?xtor=RSS-10) |
+| keyword_rejected | - | [Clouds as the driver of variability and colour changes in br](https://www.nature.com/articles/s41550-025-02709-1) |
+| keyword_rejected | - | [Pragmatic representations of self- and others’ action in the](https://www.nature.com/articles/s41467-026-68403-6) |
+| keyword_rejected | - | [Vibrio cholerae serotype impacts pathogenicity](https://www.nature.com/articles/s41467-025-67908-w) |
+| keyword_rejected | - | [<i>Vibrio cholerae</i> serotype impacts pathogenicity](https://www.nature.com/articles/s41467-025-67908-w) |
+| keyword_rejected | - | [Taming polyiodide flow with electroactive mediators](https://www.nature.com/articles/s41557-025-02059-5) |
+| keyword_rejected | - | [dgiLIT: A Method for Prioritization and AI Curation of Drug-](https://www.biorxiv.org/content/10.64898/2026.01.16.699733v1?rss=1) |
+| keyword_rejected | - | [Phosphorylation of Cyclophilin-D is Not Required for Regulat](https://www.biorxiv.org/content/10.64898/2026.01.15.699680v1?rss=1) |
+| keyword_rejected | - | [Iron Deficiency Drives Sarcopenia in the Elderly: HIF-1α-Med](https://www.biorxiv.org/content/10.64898/2026.01.15.699636v1?rss=1) |
+| keyword_rejected | - | [Hierarchical Phase-Contrast Tomography Imaging: Applicabilit](https://www.biorxiv.org/content/10.64898/2026.01.15.699614v1?rss=1) |
 | ai_scored | 0 | [Japon: un dysfonctionnement retarde le redémarrage de la plu](https://www.sciencesetavenir.fr/nature-environnement/japon-un-dysfonctionnement-retarde-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde_190457?xtor=RSS-15) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119052354&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Fake news en santé : il faut s’éduquer "de l’école à l’Ehpad](https://www.sciencesetavenir.fr/politique/contre-les-fake-news-en-sante-il-faut-s-eduquer-de-l-ecole-a-l-ehpad_190455) |
