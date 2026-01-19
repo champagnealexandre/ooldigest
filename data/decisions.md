@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119043032&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Jeunes et réseaux sociaux : l’interdiction fait débat chez l](https://www.sciencesetavenir.fr/sante/jeunes-et-reseaux-sociaux-l-interdiction-fait-debat-chez-les-chercheurs_190454?xtor=RSS-16) |
+| keyword_rejected | - | [Comparison between eDNA and traditional morphological method](https://www.nature.com/articles/s41598-025-32964-1) |
+| keyword_rejected | - | [Using a meshless method to investigate the effects of confin](https://www.nature.com/articles/s41598-026-36426-0) |
+| keyword_rejected | - | [Chinese spatial relation extraction model by integrating geo](https://www.nature.com/articles/s41598-026-35282-2) |
+| keyword_rejected | - | [Adapting quality function deployment to translate patient fe](https://www.nature.com/articles/s41598-026-36550-x) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119032742&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Zinc-based metal halide electrolytes for all-solid-state zin](https://www.nature.com/articles/s41467-026-68394-4) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119022544&v=2.18.0.post22+67771e2) |
