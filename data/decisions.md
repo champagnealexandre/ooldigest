@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 60 | [Regolith as a Refuge: Differential Survival of Bacteriophage](https://astrobiology.com/2026/01/regolith-as-a-refuge-differential-survival-of-bacteriophage-q%ce%b2-in-mars-analog-environments.html) |
+| ai_scored | 45 | [Exploring The Diversity Within EANA And AbGradE As Mirror Of](https://astrobiology.com/2026/01/exploring-the-diversity-within-eana-and-abgrade-as-mirror-of-the-european-astrobiology-community.html) |
+| ai_scored | 65 | [NASA Decadal Astrobiology Research and Exploration Strategy ](https://astrobiology.com/2026/01/nasa-decadal-astrobiology-research-and-exploration-strategy-nasa-dares-venus-exploration-and-analysis-group-vexag-november-2025-meeting.html) |
+| ai_scored | 15 | [Meta-study reveals mechanisms of animals' adaptations to cop](https://phys.org/news/2026-01-meta-reveals-mechanisms-animals-cope.html) |
+| ai_scored | 60 | [Mass Extinction Coincided With Expanded Continental Margin E](https://astrobiology.com/2026/01/mass-extinction-coincided-with-expanded-continental-margin-euxinia-during-the-cambrian-age-4.html) |
+| ai_scored | 15 | [The Future of the Planetary Science Analysis and Assessment ](https://astrobiology.com/2026/01/the-future-of-the-planetary-science-analysis-and-assessment-groups-ags.html) |
+| ai_scored | 55 | [Origins Center 2026 Conference](https://astrobiology.com/2026/01/origins-center-2026-conference.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119152009&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Quantifying biases in reconstructed brain networks](https://www.nature.com/articles/s42005-025-02460-z) |
+| keyword_rejected | - | [Polar weather on Jupiter and Saturn hints at the planets' in](https://phys.org/news/2026-01-polar-weather-jupiter-saturn-hints.html) |
+| keyword_rejected | - | [Episodic events are flexibly encoded in both integrated and ](https://www.nature.com/articles/s41467-026-68473-6) |
 | ai_scored | 15 | [Mercury's BepiColombo Mio and Earth's GEOTAIL show shared wa](https://phys.org/news/2026-01-mercury-bepicolombo-mio-earth-geotail.html) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119141715&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Can 'toxic masculinity' be measured? Scientists try to quant](https://www.nature.com/articles/d41586-026-00144-4) |
