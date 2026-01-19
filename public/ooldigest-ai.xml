@@ -3,8 +3,32 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-19T17:21:06.698843+00:00</updated>
+  <updated>2026-01-19T18:27:03.956519+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [45] phys.org - Space News ▶ Searching for &#x27;green oceans&#x27; and &#x27;purple Earths&#x27;</title>
+    <link href="https://phys.org/news/2026-01-green-oceans-purple-earths.html"/>
+    <id>https://phys.org/news/2026-01-green-oceans-purple-earths.html</id>
+    <updated>2026-01-19T17:55:31Z</updated>
+    <summary>The early stage of giant telescope development involves a lot of horse-trading to try to appease all the different stakeholders that are hoping to get what they want out of the project, but also to tr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> Discusses telescope/instrumentation trade-offs in the context of searching for unusual Earth-like surface/ocean signatures (&quot;green oceans&quot;/&quot;purple Earths&quot;), making it broadly relevant to biosignature detection but not a core origins-of-life study.</p>
+<p><strong>Abstract:</strong> The early stage of giant telescope development involves a lot of horse-trading to try to appease all the different stakeholders that are hoping to get what they want out of the project, but also to try to appease the financial managers that want to minimize its cost. Typically, this horse-trading takes the form of a series of white papers that describe what would be needed to meet the stated objectives of the mission and suggest the type of instrumentation and systems that would be needed to achieve them.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-green-oceans-purple-earths.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] Phys.org - General Physics News ▶ Beta-decay half-life measurements reveal evolution of nuclear shell structure</title>
+    <link href="https://phys.org/news/2026-01-beta-decay-life-reveal-evolution.html"/>
+    <id>https://phys.org/news/2026-01-beta-decay-life-reveal-evolution.html</id>
+    <updated>2026-01-19T17:28:32Z</updated>
+    <summary>An international team of researchers has systematically measured the β-decay half-lives of 40 nuclei near calcium-54, providing key experimental data for understanding the structure of extremely neutr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution</p>
+<p><strong>AI Decision:</strong> Systematic β-decay half-life measurements of neutron-rich nuclei near calcium-54 improve nuclear shell-structure constraints but have no direct connection to origins-of-life or astrobiology topics.</p>
+<p><strong>Abstract:</strong> An international team of researchers has systematically measured the β-decay half-lives of 40 nuclei near calcium-54, providing key experimental data for understanding the structure of extremely neutron-rich nuclei.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-beta-decay-life-reveal-evolution.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] Scientific American ▶ First-ever flexible tool use seen in a cow suggests livestock are smarter than believed</title>
     <link href="https://www.scientificamerican.com/article/first-ever-flexible-tool-use-seen-in-a-cow-suggests-livestock-are-smarter/"/>
@@ -7067,79 +7091,5 @@
 <p><strong>Abstract:</strong> In a blow to anyone dreaming that complex life may exist elsewhere in the universe, a new study suggests we&#x27;re unlikely to find it around many of the most common stars in the galaxy.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-complex-life-planets-orbiting-galaxy.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Scientific American ▶ New Study Probes How Same-Sex Behaviors Evolved in Nonhuman Primates</title>
-    <link href="https://www.scientificamerican.com/article/new-study-probes-how-same-sex-behaviors-evolved-in-nonhuman-primates/"/>
-    <id>https://www.scientificamerican.com/article/new-study-probes-how-same-sex-behaviors-evolved-in-nonhuman-primates/</id>
-    <updated>2026-01-12T17:30:00Z</updated>
-    <summary>New research links same-sex behaviors in nonhuman primates to the evolution of complex social structures</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> A behavioral ecology study linking same-sex behaviors in nonhuman primates to the evolution of complex social structures, with minimal relevance to origins-of-life or astrobiology topics.</p>
-<p><strong>Abstract:</strong> New research links same-sex behaviors in nonhuman primates to the evolution of complex social structures</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-023-41290-x">https://www.nature.com/articles/s41467-023-41290-x</a></li>
-<li><a href="https://doi.org/10.1038/s41559-025-02945-8">https://doi.org/10.1038/s41559-025-02945-8</a></li>
-<li><a href="https://doi.org/10.1371/journal.pone.0304885">https://doi.org/10.1371/journal.pone.0304885</a></li>
-</ul>
-<p><a href="https://www.scientificamerican.com/article/new-study-probes-how-same-sex-behaviors-evolved-in-nonhuman-primates/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Astrochemistry: JWST Finds Early-Universe Analog’s Unexpected Talent For Making Dust</title>
-    <link href="https://astrobiology.com/2026/01/astrochemistry-jwst-finds-early-universe-analogs-unexpected-talent-for-making-dust.html"/>
-    <id>https://astrobiology.com/2026/01/astrochemistry-jwst-finds-early-universe-analogs-unexpected-talent-for-making-dust.html</id>
-    <updated>2026-01-12T18:17:28Z</updated>
-    <summary>Using NASA’s James Webb Space Telescope, astronomers have spotted two rare kinds of dust in the dwarf galaxy Sextans A, one of the most chemically primitive galaxies near the Milky Way. The finding of</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry</p>
-<p><strong>AI Decision:</strong> JWST observations of the metal-poor dwarf galaxy Sextans A reveal efficient production of metallic iron and silicon carbide dust plus carbonaceous molecular clumps, informing early-universe astrochemical pathways that seed solids and organics relevant to prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> Using NASA’s James Webb Space Telescope, astronomers have spotted two rare kinds of dust in the dwarf galaxy Sextans A, one of the most chemically primitive galaxies near the Milky Way. The finding of metallic iron dust and silicon carbide (SiC) produced by aging stars, along with tiny clumps of carbon-based molecules, shows that even […] The post Astrochemistry: JWST Finds Early-Universe Analog’s Unexpected Talent For Making Dust appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://iopscience.iop.org/article/10.3847/1538-4357/adf06a">https://iopscience.iop.org/article/10.3847/1538-4357/adf06a</a></li>
-<li><a href="https://arxiv.org/abs/2512.04060">https://arxiv.org/abs/2512.04060</a></li>
-<li><a href="https://doi.org/10.3847/1538-4357/adf06a">https://doi.org/10.3847/1538-4357/adf06a</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/astrochemistry-jwst-finds-early-universe-analogs-unexpected-talent-for-making-dust.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [70] phys.org - Space News ▶ Mars was once a &#x27;blue planet&#x27;: Ancient river deltas point to vast ocean</title>
-    <link href="https://phys.org/news/2026-01-mars-blue-planet-ancient-river.html"/>
-    <id>https://phys.org/news/2026-01-mars-blue-planet-ancient-river.html</id>
-    <updated>2026-01-12T17:39:16Z</updated>
-    <summary>Using images from cameras on Mars orbiters, an international research team has discovered structures on Mars that are very similar to classic river deltas on Earth. These are traces of rivers that hav</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars, astrobio*, earth</p>
-<p><strong>AI Decision:</strong> Orbital imaging of delta-like landforms suggests Mars had sustained rivers feeding a long-lived ocean ~3 billion years ago, strengthening the case for past surface water and broad habitability (but not directly addressing abiogenesis mechanisms).</p>
-<p><strong>Abstract:</strong> Using images from cameras on Mars orbiters, an international research team has discovered structures on Mars that are very similar to classic river deltas on Earth. These are traces of rivers that have deposited their sediments into an ocean. This shows that Mars was a &quot;blue planet&quot; around 3 billion years ago.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-mars-blue-planet-ancient-river.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Two Temperate Earth- and Neptune-sized Planets Orbiting Fully Convective M dwarfs</title>
-    <link href="https://astrobiology.com/2026/01/two-temperate-earth-and-neptune-sized-planets-orbiting-fully-convective-m-dwarfs.html"/>
-    <id>https://astrobiology.com/2026/01/two-temperate-earth-and-neptune-sized-planets-orbiting-fully-convective-m-dwarfs.html</id>
-    <updated>2026-01-12T17:51:34Z</updated>
-    <summary>As the diversity of exoplanets continues to grow, it is important to revisit assumptions about habitability and classical HZ definitions. In this work, we introduce an expanded ‘temperate’ zone, defin</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, exoplanet, earth, habitab*</p>
-<p><strong>AI Decision:</strong> Reports two temperate-zone Earth/Neptune-sized planets around fully convective M dwarfs and proposes an expanded instellation-based temperate zone, offering broad habitability context but limited direct origins-of-life or biosignature relevance.</p>
-<p><strong>Abstract:</strong> As the diversity of exoplanets continues to grow, it is important to revisit assumptions about habitability and classical HZ definitions. In this work, we introduce an expanded ‘temperate’ zone, defined by instellation fluxes between 0.1&lt;S/S⊕&lt;5, thus encompassing a broader range of potentially habitable worlds. We also introduce the TEMPOS survey, which aims to produce a […] The post Two Temperate Earth- and Neptune-sized Planets Orbiting Fully Convective M dwarfs appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.05799">https://doi.org/10.48550/arXiv.2601.05799</a></li>
-<li><a href="https://arxiv.org/abs/2601.05799">https://arxiv.org/abs/2601.05799</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/two-temperate-earth-and-neptune-sized-planets-orbiting-fully-convective-m-dwarfs.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Paving the Road to the Habitable Worlds Observatory with High-Resolution Imaging I: New and Archival Speckle Observations of Potential HWO Target Stars</title>
-    <link href="https://astrobiology.com/2026/01/paving-the-road-to-the-habitable-worlds-observatory-with-high-resolution-imaging-i-new-and-archival-speckle-observations-of-potential-hwo-target-stars.html"/>
-    <id>https://astrobiology.com/2026/01/paving-the-road-to-the-habitable-worlds-observatory-with-high-resolution-imaging-i-new-and-archival-speckle-observations-of-potential-hwo-target-stars.html</id>
-    <updated>2026-01-12T17:45:37Z</updated>
-    <summary>One of the key goals of the Habitable Worlds Observatory (HWO) is to directly image about 25 potentially habitable exoplanets and determine their properties. This challenge will require a large survey</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, exoplanet, habitab*</p>
-<p><strong>AI Decision:</strong> Speckle-imaging survey of nearby bright stars to vet and characterize potential Habitable Worlds Observatory targets, improving the feasibility of directly imaging and ultimately assessing the habitability of ~25 Earth-like exoplanets.</p>
-<p><strong>Abstract:</strong> One of the key goals of the Habitable Worlds Observatory (HWO) is to directly image about 25 potentially habitable exoplanets and determine their properties. This challenge will require a large survey of nearby, bright stars — ~100 according to the Astro2020 Decadal Survey. To ensure the success of the mission and to help guide design […] The post Paving the Road to the Habitable Worlds Observatory with High-Resolution Imaging I: New and Archival Speckle Observations of Potential HWO Target Stars appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.05387">https://doi.org/10.48550/arXiv.2601.05387</a></li>
-<li><a href="https://arxiv.org/abs/2601.05387">https://arxiv.org/abs/2601.05387</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/paving-the-road-to-the-habitable-worlds-observatory-with-high-resolution-imaging-i-new-and-archival-speckle-observations-of-potential-hwo-target-stars.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

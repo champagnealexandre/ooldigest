@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Beta-decay half-life measurements reveal evolution of nuclea](https://phys.org/news/2026-01-beta-decay-life-reveal-evolution.html) |
+| ai_scored | 45 | [Searching for 'green oceans' and 'purple Earths'](https://phys.org/news/2026-01-green-oceans-purple-earths.html) |
+| keyword_rejected | - | [Barnacle gloop could improve inflammatory bowel disease trea](https://www.newscientist.com/article/2512136-barnacle-gloop-could-improve-inflammatory-bowel-disease-treatments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Barnacle gloop could improve inflammatory bowel disease trea](https://www.newscientist.com/article/2512136-barnacle-gloop-could-improve-inflammatory-bowel-disease-treatments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Barnacle gloop could improve inflammatory bowel disease trea](https://www.newscientist.com/article/2512136-barnacle-gloop-could-improve-inflammatory-bowel-disease-treatments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Les chevaux sentent l'odeur de la peur chez les humains](https://www.sciencesetavenir.fr/sciences/les-chevaux-sentent-l-odeur-de-la-peur-chez-les-humains_190470?xtor=RSS-18) |
+| keyword_rejected | - | [Incendies au Chili : les feux restent hors de contrôle malgr](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-les-feux-restent-hors-de-controle-malgre-une-accalmie_190471?xtor=RSS-15) |
+| keyword_rejected | - | [Carte du ciel de février 2026 : deux planètes au crépuscule](https://www.sciencesetavenir.fr/espace/carte-du-ciel-de-fevrier-2026-ne-manquez-pas-ces-deux-planetes-au-crepuscule_190425?xtor=RSS-9) |
+| keyword_rejected | - | [Glycerol 3-phosphate acyltransferase exacerbates α-synuclein](https://www.nature.com/articles/s41467-026-68325-3) |
+| keyword_rejected | - | [Proba-3 mission captures rare solar prominence eruptions in ](https://phys.org/news/2026-01-proba-mission-captures-rare-solar.html) |
+| keyword_rejected | - | [First direct evidence of Migdal effect opens new path for da](https://phys.org/news/2026-01-evidence-migdal-effect-path-dark.html) |
+| keyword_rejected | - | [Correction: Duplex ddPCR detection of <i>lytA</i> and <i>pia](https://www.nature.com/articles/s41598-026-36142-9) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119132652&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Glycerol 3-phosphate acyltransferase exacerbates α-synuclein](https://www.nature.com/articles/s41467-026-68325-3) |
+| keyword_rejected | - | [Author Correction: Marine phosphorus and atmospheric oxygen ](https://www.nature.com/articles/s41467-026-68615-w) |
 | ai_scored | 45 | [Hubble observes ghostly cloud alive with star formation](https://phys.org/news/2026-01-hubble-ghostly-cloud-alive-star.html) |
 | ai_scored | 0 | [First-ever flexible tool use seen in a cow suggests livestoc](https://www.scientificamerican.com/article/first-ever-flexible-tool-use-seen-in-a-cow-suggests-livestock-are-smarter/) |
 | keyword_rejected | - | [New brain training study could help explain the placebo effe](https://www.scientificamerican.com/article/new-brain-training-study-could-help-explain-the-placebo-effect/) |
