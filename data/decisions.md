@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Interfacial evaporation-induced localized multi-field coupli](https://www.nature.com/articles/s41467-026-68365-9) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119102155&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Déstabilisation et manœuvres géopolitiques, l'autre forme de](https://www.sciencesetavenir.fr/high-tech/informatique/des-operations-allant-jusqu-a-viser-la-patronne-de-la-dgsi-la-cybermenace-entre-dans-une-nouvelle-ere-politique_190460?xtor=RSS-12) |
+| keyword_rejected | - | [Author Correction: An autonomous laboratory for the accelera](https://www.nature.com/articles/s41586-025-09992-y) |
+| keyword_rejected | - | [Observing the positronium beam as a quantum matter wave for ](https://phys.org/news/2026-01-positronium-quantum.html) |
+| keyword_rejected | - | [Protostars carve out homes in the Orion Molecular Cloud](https://phys.org/news/2026-01-protostars-homes-orion-molecular-cloud.html) |
+| keyword_rejected | - | [How astronauts will fix their gear using thin air](https://phys.org/news/2026-01-astronauts-gear-thin-air.html) |
+| keyword_rejected | - | [Maternal exposure to ambient air pollution and risk of conge](https://www.nature.com/articles/s41598-026-36527-w) |
+| keyword_rejected | - | [Linking neuron-glia interactions and longevity](https://elifesciences.org/articles/110158) |
+| keyword_rejected | - | [3D Printing of glasses with tunable UV–VIS–IR photoluminesce](https://www.nature.com/articles/s41467-026-68523-z) |
+| keyword_rejected | - | [Palmitic acid-triggered B7H3 palmitoylation promotes immune ](https://www.nature.com/articles/s41467-026-68525-x) |
+| keyword_rejected | - | [Palmitic acid-triggered B7H3 palmitoylation promotes immune ](https://www.nature.com/articles/s41467-026-68525-x) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119092352&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | ["Vagues sombres marines" : quand l'océan est plongé dans l'o](https://www.sciencesetavenir.fr/nature-environnement/mers-et-oceans/vagues-sombres-marines-quand-l-ocean-est-plonge-dans-l-obscurite_190436?xtor=RSS-15) |
 | keyword_rejected | - | [A nanosystem targeting tissue inhibitor of metalloproteinase](https://www.nature.com/articles/s41467-026-68398-0) |
