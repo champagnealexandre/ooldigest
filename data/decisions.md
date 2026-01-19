@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 45 | [Hubble observes ghostly cloud alive with star formation](https://phys.org/news/2026-01-hubble-ghostly-cloud-alive-star.html) |
+| ai_scored | 0 | [First-ever flexible tool use seen in a cow suggests livestoc](https://www.scientificamerican.com/article/first-ever-flexible-tool-use-seen-in-a-cow-suggests-livestock-are-smarter/) |
+| keyword_rejected | - | [New brain training study could help explain the placebo effe](https://www.scientificamerican.com/article/new-brain-training-study-could-help-explain-the-placebo-effect/) |
+| keyword_rejected | - | [Pluies intenses dans l'Aude: "surveillance renforcée", levée](https://www.sciencesetavenir.fr/nature-environnement/pluies-intenses-dans-l-aude-surveillance-renforcee-levee-des-evacuations-a-narbonne_190468?xtor=RSS-15) |
+| keyword_rejected | - | [Quels polluants éternels interdire? Le dilemme de l'Union eu](https://www.sciencesetavenir.fr/nature-environnement/quels-polluants-eternels-interdire-le-dilemme-de-l-union-europeenne_190469?xtor=RSS-15) |
+| keyword_rejected | - | [Editorial Expression of Concern: <i>En passant</i> neurotrop](https://www.nature.com/articles/s41586-025-10080-4) |
+| keyword_rejected | - | [Collective intelligence for AI-assisted chemical synthesis](https://www.nature.com/articles/s41586-026-10131-4) |
+| keyword_rejected | - | [Commercial fishing amplifies impacts of increasing temperatu](https://www.nature.com/articles/s41467-025-67362-8) |
+| keyword_rejected | - | [Differential membrane lipid disruption by lipopeptide antibi](https://www.nature.com/articles/s41467-026-68681-0) |
+| keyword_rejected | - | [These gravitationally lensed supernovae could resolve the Hu](https://phys.org/news/2026-01-gravitationally-lensed-supernovae-hubble-tension.html) |
+| keyword_rejected | - | [Differential membrane lipid disruption by lipopeptide antibi](https://www.nature.com/articles/s41467-026-68681-0) |
+| keyword_rejected | - | [Resolving energy transfer dynamics in Eu²⁺-activated multi-s](https://www.nature.com/articles/s41467-026-68549-3) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119122055&v=2.18.0.post22+67771e2) |
 | ai_scored | 52 | [Giving astronauts tardigrade toughness will be harder than w](https://www.newscientist.com/article/2511634-giving-astronauts-tardigrade-toughness-will-be-harder-than-we-hoped/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 60 | [Giving astronauts tardigrade toughness will be harder than w](https://www.newscientist.com/article/2511634-giving-astronauts-tardigrade-toughness-will-be-harder-than-we-hoped/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 65 | [Giving astronauts tardigrade toughness will be harder than w](https://www.newscientist.com/article/2511634-giving-astronauts-tardigrade-toughness-will-be-harder-than-we-hoped/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
