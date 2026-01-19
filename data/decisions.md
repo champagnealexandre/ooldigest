@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Proteomic Analysis Reveals Widespread Regulation of Substrat](https://www.biorxiv.org/content/10.64898/2026.01.16.700008v1?rss=1) |
+| ai_scored | 20 | [A recently evolved TAF8 isoform arising from an Alu insertio](https://www.biorxiv.org/content/10.64898/2026.01.19.699933v1?rss=1) |
+| ai_scored | 22 | [High-quality proteins and RNAs extracted from exact same sam](https://www.biorxiv.org/content/10.64898/2026.01.16.699903v1?rss=1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119171759&v=2.18.0.post22+67771e2) |
 | ai_scored | 15 | [Improving astronaut fitness for deep space missions](https://phys.org/news/2026-01-astronaut-deep-space-missions.html) |
 | ai_scored | 30 | [Genomic language model mitigates chimera artifacts in nanopo](https://www.nature.com/articles/s41467-026-68571-5) |
 | keyword_rejected | - | [The 5 worst ideas of the 21st century – and how they went wr](https://www.newscientist.com/article/2511248-the-5-worst-ideas-of-the-21st-century-and-how-they-went-wrong/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
