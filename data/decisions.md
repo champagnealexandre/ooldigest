@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Mercury's BepiColombo Mio and Earth's GEOTAIL show shared wa](https://phys.org/news/2026-01-mercury-bepicolombo-mio-earth-geotail.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260119141715&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Can 'toxic masculinity' be measured? Scientists try to quant](https://www.nature.com/articles/d41586-026-00144-4) |
+| keyword_rejected | - | [Publisher Correction: A fault-tolerant neutral-atom architec](https://www.nature.com/articles/s41586-026-10108-3) |
 | ai_scored | 5 | [Beta-decay half-life measurements reveal evolution of nuclea](https://phys.org/news/2026-01-beta-decay-life-reveal-evolution.html) |
 | ai_scored | 45 | [Searching for 'green oceans' and 'purple Earths'](https://phys.org/news/2026-01-green-oceans-purple-earths.html) |
 | keyword_rejected | - | [Barnacle gloop could improve inflammatory bowel disease trea](https://www.newscientist.com/article/2512136-barnacle-gloop-could-improve-inflammatory-bowel-disease-treatments/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
