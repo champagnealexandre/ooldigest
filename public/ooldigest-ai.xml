@@ -3,8 +3,134 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-20T17:26:25.960735+00:00</updated>
+  <updated>2026-01-20T18:30:17.722261+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] Astrobiology (astrobiology.com) ▶ Artemis II AVATAR (A Virtual Astronaut Tissue Analog Response)</title>
+    <link href="https://astrobiology.com/2026/01/artemis-ii-avatar-a-virtual-astronaut-tissue-analog-response.html"/>
+    <id>https://astrobiology.com/2026/01/artemis-ii-avatar-a-virtual-astronaut-tissue-analog-response.html</id>
+    <updated>2026-01-20T16:58:00Z</updated>
+    <summary>The AVATAR (A Virtual Astronaut Tissue Analog Response) investigation will use organ-on-a-chip devices, or organ chips, to study a effects of increased radiation and microgravity on human health. Usin</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> Uses organ-on-a-chip models to study how radiation and microgravity affect astronaut tissues, relevant to space biomedicine but not directly to origins-of-life research.</p>
+<p><strong>Abstract:</strong> The AVATAR (A Virtual Astronaut Tissue Analog Response) investigation will use organ-on-a-chip devices, or organ chips, to study a effects of increased radiation and microgravity on human health. Using innovative tissue chips containing astronaut cells, researchers will examine how radiation and microgravity impact human tissue. This research will help inform medical strategies for future long-duration […] The post Artemis II AVATAR (A Virtual Astronaut Tissue Analog Response) appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/artemis-ii-avatar-a-virtual-astronaut-tissue-analog-response.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] biochemistry - biorXiv Preprints ▶ Direct binding of chromosome axis and cohesin complexes underlies meiotic chromosome architecture in fungi and plants</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700424v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700424v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>In prophase of meiosis I, the proteinaceous chromosome axis provides a scaffold for the compaction of chromosomes into a linear loop array, controls the formation of interhomolog crossovers, and final</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> Using genetics, AlphaFold-guided interaction screening, and biochemistry, this study shows the fungal axis core protein Red1 directly binds the cohesin subunit Rec8 via its C-terminal winged-helix domain, with conservation in fungi/plants but not mammals, informing how meiotic chromosome axes self-assemble.</p>
+<p><strong>Abstract:</strong> In prophase of meiosis I, the proteinaceous chromosome axis provides a scaffold for the compaction of chromosomes into a linear loop array, controls the formation of interhomolog crossovers, and finally becomes integrated into the synaptonemal complex after crossovers have formed. Despite its fundamental importance, how the proteins of the meiotic chromosome axis - meiotic HORMADs, axis core proteins, and cohesin complexes - self-assemble with one another is incompletely understood. In particular, it remains unknown how cohesin complexes interact with other axis components. Here, we combine genetics in S. cerevisiae, AlphaFold-based protein interaction screens, and biochemical assays to reveal that the S. cerevisiae axis core protein Red1 binds the C-terminal winged helix domain of cohesin&#x27;s meiosis-specific subunit Rec8. We find that this interaction is conserved across fungi and plants, but not in mammals, suggesting that different eukaryotic phyla use distinct protein-protein interfaces to assemble the chromosome axis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700424v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700424v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700424v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] phys.org - Space News ▶ Water makeup of Jupiter&#x27;s Galilean moons set at birth, new study finds</title>
+    <link href="https://phys.org/news/2026-01-makeup-jupiter-galilean-moons-birth.html"/>
+    <id>https://phys.org/news/2026-01-makeup-jupiter-galilean-moons-birth.html</id>
+    <updated>2026-01-20T17:55:34Z</updated>
+    <summary>While Io, the most volcanically active moon in the solar system, appears completely dry and devoid of water ice, its neighbor Europa is thought to harbor a vast global ocean of liquid water beneath it</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Modeling suggests the contrasting water inventories of Io (dry) and Europa (water-rich) were set during their formation around Jupiter, informing how habitable ocean worlds can emerge even within the same planetary system.</p>
+<p><strong>Abstract:</strong> While Io, the most volcanically active moon in the solar system, appears completely dry and devoid of water ice, its neighbor Europa is thought to harbor a vast global ocean of liquid water beneath its icy crust. A new international study co-led by Aix-Marseille University and Southwest Research Institute (SwRI) reveals that this striking contrast was established at birth, as they formed around Jupiter, not from later evolutionary processes.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-makeup-jupiter-galilean-moons-birth.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [65] cell biology - biorXiv Preprints ▶ Co-option of Lysosomal Machinery for Biomineralization</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700231v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700231v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Biomineralization first emerged ~600 million years ago, giving rise to novel strategies for buoyancy, locomotion, and defense. Sponges are the only metazoans that build a silica-based skeleton, and th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, life</p>
+<p><strong>AI Decision:</strong> This preprint links sponge silica biomineralization to co-option of an ancestral lysosomal gene toolkit (e.g., VHA-driven vesicle acidification and OCA2/Lsi2-family transport), offering broad evolutionary context for how complex cellular machinery can be repurposed to build mineral structures.</p>
+<p><strong>Abstract:</strong> Biomineralization first emerged ~600 million years ago, giving rise to novel strategies for buoyancy, locomotion, and defense. Sponges are the only metazoans that build a silica-based skeleton, and the cellular and molecular mechanisms underlying their silicification process are much less understood than in diatoms and land plants, the other two major biosilicifiers. Here, we show that the cells specialized for sponge biosilicification, termed sclerocytes, highly express lysosomal-associated genes, including the V-H+-ATPase (VHA) proton pump, oculocutaneous albinism type 2 (OCA2) anion channels, cathepsin-L proteins, silicateins, TMEM55A, TMEM192, TMEM199, and multiple other proteins involved with lysosomal maintenance and degradation. Further, we demonstrate that VHA protein localizes to the sclerocyte silica deposition vesicle (SDV) and that VHA-dependent SDV acidification is essential for silica spicule formation. This function mirrors the localization and role of VHA in diatom biosilicification, while in land plants, acidification occurs extracellularly in the xylem and is driven by a different proton pump, the plasma membrane P-type H+-ATPase. These results indicate that vesicle acidification is a shared mechanism for silica handling in sponges, diatoms, and plants. We also found that genes homologous to the plant silicon efflux transporter Lsi2, which belong to the same gene family as OCA2, are upregulated in sclerocytes. Using Hybridization Chain Reaction Fluorescence In Situ Hybridization (HCR-FISH), we found that sponge Lsi2 genes are expressed in sclerocytes, corroborating prior phylogenetic and transcriptomic evidence that Lsi2 homologs are involved in sponge and diatom silicic acid transport. Taking into account previous work showing that VHA, cathepsins, and other lysosomal-associated genes have been associated with calcification across a remarkable range of eukaryotes, including coccolitophores, foraminifera, sea urchins, bryozoans, crustaceans, mollusks, and mammals, we posit that the various biomineralization mechanisms observed throughout the tree of life arose convergently through the co-option of an ancestral lysosomal gene toolkit.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700231v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700231v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700231v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Ultra-low Noise Mid-infrared Detector Could Help Detect Biosignatures On Exoplanets</title>
+    <link href="https://astrobiology.com/2026/01/ultra-low-noise-mid-infrared-detector-could-help-detect-biosignatures-on-exoplanets.html"/>
+    <id>https://astrobiology.com/2026/01/ultra-low-noise-mid-infrared-detector-could-help-detect-biosignatures-on-exoplanets.html</id>
+    <updated>2026-01-20T16:37:00Z</updated>
+    <summary>The mid-infrared (MIR) wavelength range, from 5 to 25 micrometers, is an important regime for astrophysics as it can be used to detect the biosignatures of life that may exist on distant planets. Thes</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, life, earth, biosignature</p>
+<p><strong>AI Decision:</strong> Reports an ultra-low-noise mid-infrared (5–25 µm) detector technology that could improve exoplanet atmospheric biosignature measurements, strengthening observational capabilities for life detection rather than directly addressing origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> The mid-infrared (MIR) wavelength range, from 5 to 25 micrometers, is an important regime for astrophysics as it can be used to detect the biosignatures of life that may exist on distant planets. These wavelengths are also useful making space-based observations of climate change on Earth since they can be used to make global maps […] The post Ultra-low Noise Mid-infrared Detector Could Help Detect Biosignatures On Exoplanets appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1063/5.0300553">https://doi.org/10.1063/5.0300553</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/ultra-low-noise-mid-infrared-detector-could-help-detect-biosignatures-on-exoplanets.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Ice World Assay: Ancient Antarctica Reveals A ‘One–two Punch’ Behind Ice Sheet Collapse</title>
+    <link href="https://astrobiology.com/2026/01/ice-world-assay-ancient-antarctica-reveals-a-one-two-punch-behind-ice-sheet-collapse.html"/>
+    <id>https://astrobiology.com/2026/01/ice-world-assay-ancient-antarctica-reveals-a-one-two-punch-behind-ice-sheet-collapse.html</id>
+    <updated>2026-01-20T17:00:00Z</updated>
+    <summary>Editor’s note: there are currently two advanced missions heading for the jovian system – Europa Clipper and ESA Juice – to study icy Europa and the other icy worlds orbiting Jupiter. How we observe th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, water, habitab*</p>
+<p><strong>AI Decision:</strong> A Nature Geoscience study on ancient Antarctic ice-sheet collapse provides analog constraints on how ice-shell dynamics and ocean-ice interactions might destabilize icy worlds (e.g., Europa), informing habitability context rather than directly addressing origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Editor’s note: there are currently two advanced missions heading for the jovian system – Europa Clipper and ESA Juice – to study icy Europa and the other icy worlds orbiting Jupiter. How we observe these ice worlds and formulate an idea of their internal structure – including possible subsurface oceans – possibly habitable – will […] The post Ice World Assay: Ancient Antarctica Reveals A ‘One–two Punch’ Behind Ice Sheet Collapse appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41561-025-01840-y">https://www.nature.com/articles/s41561-025-01840-y</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/ice-world-assay-ancient-antarctica-reveals-a-one-two-punch-behind-ice-sheet-collapse.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] Astrobiology (astrobiology.com) ▶ Characterization Of Two New Transiting Sub-Neptunes And A Terrestrial Planet Around M-dwarf Hosts</title>
+    <link href="https://astrobiology.com/2026/01/characterization-of-two-new-transiting-sub-neptunes-and-a-terrestrial-planet-around-m-dwarf-hosts.html"/>
+    <id>https://astrobiology.com/2026/01/characterization-of-two-new-transiting-sub-neptunes-and-a-terrestrial-planet-around-m-dwarf-hosts.html</id>
+    <updated>2026-01-20T16:26:00Z</updated>
+    <summary>We report the confirmation of three transiting exoplanets orbiting TOI-1243 (LSPM~J0902+7138), TOI-4529 (G~2–21), and TOI-5388 (Wolf~346) that were initially detected by TESS through ground-based phot</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, exoplanet</p>
+<p><strong>AI Decision:</strong> Reports confirmation and basic characterization (transits + RVs) of three short-period planets (two sub-Neptunes and one terrestrial) around early-M dwarfs, with limited direct relevance to origins-of-life or habitability beyond general exoplanet context.</p>
+<p><strong>Abstract:</strong> We report the confirmation of three transiting exoplanets orbiting TOI-1243 (LSPM~J0902+7138), TOI-4529 (G~2–21), and TOI-5388 (Wolf~346) that were initially detected by TESS through ground-based photometry and radial velocity follow-up measurements with CARMENES. The planets present short orbital periods of 4.65, 5.88, and 2.59 days, and they orbit early-M dwarfs (M2.0V, M1.5V, and M3.0V, respectively). We […] The post Characterization Of Two New Transiting Sub-Neptunes And A Terrestrial Planet Around M-dwarf Hosts appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.07414">https://arxiv.org/abs/2601.07414</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.07414">https://doi.org/10.48550/arXiv.2601.07414</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/characterization-of-two-new-transiting-sub-neptunes-and-a-terrestrial-planet-around-m-dwarf-hosts.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ Human mascRNA interacts with SUMO E1 and reshapes nuclear SUMOylation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700226v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700226v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Human mascRNA is a tRNA-like 58-nucleotide non-coding RNA processed from the 3&#x27; end of the MALAT1 transcript. Although implicated in diverse cellular processes, its molecular mechanism has remained un</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> A human tRNA-like noncoding RNA (mascRNA) is shown to bind the SUMO E1 enzyme and broadly dampen nuclear SUMOylation, revealing a structured RNA ligand that can modulate protein post-translational modification networks (modern cell biology with limited direct Origins-of-Life relevance).</p>
+<p><strong>Abstract:</strong> Human mascRNA is a tRNA-like 58-nucleotide non-coding RNA processed from the 3&#x27; end of the MALAT1 transcript. Although implicated in diverse cellular processes, its molecular mechanism has remained unclear. Here, we reveal a direct functional link between mascRNA and the SUMOylation pathway. Structural probing and SEC-SAXS confirm the compact, tRNA-like architecture of mascRNA in solution, while biochemical assays demonstrate its direct interaction with the SUMO E1 activating enzyme in vitro. Proteomic analyses show that mascRNA engages nuclear protein networks enriched for SUMOylated factors, including chromatin remodelers and nucleolar components. Transfection of synthetic mascRNA alters SAE2 and SUMO1 nuclear organization and broadly reduces nuclear SUMOylation, accompanied by decreased ProMyeLocytic (PML) body abundance and SUMO colocalization. SUMO1 immunoprecipitation and mass spectrometry reveal widespread decreases in SUMO conjugation, particularly among proteins involved in RNA metabolism and rRNA biogenesis with nuclear body localization. We further validate reduced SUMOylation of nucleolar factors such as BEND3 and ZNF106. These findings position mascRNA as a structured RNA ligand that modulates SUMO-dependent nuclear architecture and protein homeostasis, uncovering an unexpected intersection between RNA biology and post-translational modification networks.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700226v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700226v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700226v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Functionalization Of Benzene Ices by Atomic Oxygen</title>
+    <link href="https://astrobiology.com/2026/01/functionalization-of-benzene-ices-by-atomic-oxygen.html"/>
+    <id>https://astrobiology.com/2026/01/functionalization-of-benzene-ices-by-atomic-oxygen.html</id>
+    <updated>2026-01-20T16:30:00Z</updated>
+    <summary>Small aromatic molecules, including functionalized derivatives of benzene, are known to be present throughout the different stages of star and planet formation. In particular, oxygen-bearing monosubst</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, evolution, planetesimal, astrochemistry</p>
+<p><strong>AI Decision:</strong> Laboratory/astrochemical study showing atomic oxygen can functionalize benzene in astrophysical ices to form oxygen-bearing aromatics (e.g., phenol-like products), supporting grain-surface pathways to prebiotic organic complexity later delivered by comets/planetesimals.</p>
+<p><strong>Abstract:</strong> Small aromatic molecules, including functionalized derivatives of benzene, are known to be present throughout the different stages of star and planet formation. In particular, oxygen-bearing monosubstituted aromatics, likely including phenol, have been identified in the coma of comet 67P. This suggests that, earlier in the star and planet formation evolution, icy grains may act as […] The post Functionalization Of Benzene Ices by Atomic Oxygen appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2601.07457">https://arxiv.org/abs/2601.07457</a></li>
+<li><a href="https://doi.org/10.5281/zenodo.17216256">https://doi.org/10.5281/zenodo.17216256</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2601.07457">https://doi.org/10.48550/arXiv.2601.07457</a></li>
+<li><a href="https://doi.org/10.5281/zenodo.17216222">https://doi.org/10.5281/zenodo.17216222</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/functionalization-of-benzene-ices-by-atomic-oxygen.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Astrochemistry: The SPHEREx Satellite Mission</title>
     <link href="https://astrobiology.com/2026/01/astrochemistry-the-spherex-satellite-mission.html"/>
@@ -6267,47 +6393,5 @@
 <p><strong>Abstract:</strong> In a new study, terrestrial bacteria-infecting viruses were still able to infect their E. coli hosts in near-weightless &quot;microgravity&quot; conditions aboard the International Space Station, but the dynamics of virus-bacteria interactions differed from those observed on Earth. Phil Huss of the University of Wisconsin-Madison and colleagues present the findings in the open-access journal PLOS Biology.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-phages-bacteria-accumulate-distinctive-mutations.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ Mars Has A Large Impact On Earth’s Climate</title>
-    <link href="https://astrobiology.com/2026/01/mars-has-a-large-impact-on-earths-climate.html"/>
-    <id>https://astrobiology.com/2026/01/mars-has-a-large-impact-on-earths-climate.html</id>
-    <updated>2026-01-13T17:27:07Z</updated>
-    <summary>At half the size of Earth and one-tenth its mass, Mars is a featherweight as far as planets go. And yet, new research reveals the extent to which Mars is quietly tugging on Earth’s orbit and shaping t</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, astrobio*, mars</p>
-<p><strong>AI Decision:</strong> Research quantifies how Mars’ gravitational perturbations modulate Earth’s orbital cycles and long-term climate variability (e.g., ice-age pacing), providing broad-context constraints on planetary climate stability relevant to habitability rather than a direct origins-of-life mechanism.</p>
-<p><strong>Abstract:</strong> At half the size of Earth and one-tenth its mass, Mars is a featherweight as far as planets go. And yet, new research reveals the extent to which Mars is quietly tugging on Earth’s orbit and shaping the cycles that drive long-term climate patterns here, including ice ages. Stephen Kane, a professor of planetary astrophysics […] The post Mars Has A Large Impact On Earth’s Climate appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://iopscience.iop.org/article/10.1088/1538-3873/ae2800">https://iopscience.iop.org/article/10.1088/1538-3873/ae2800</a></li>
-<li><a href="https://doi.org/10.1088/1538-3873/ae2800">https://doi.org/10.1088/1538-3873/ae2800</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/mars-has-a-large-impact-on-earths-climate.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] Phys.org: Evolution News ▶ Asexual yam species employs mimicry to trick birds and spread farther</title>
-    <link href="https://phys.org/news/2026-01-asexual-yam-species-employs-mimicry.html"/>
-    <id>https://phys.org/news/2026-01-asexual-yam-species-employs-mimicry.html</id>
-    <updated>2026-01-13T18:10:01Z</updated>
-    <summary>Evolutionarily speaking, the ultimate goal of a lifeform is to reproduce and stave off extinction. Many plants and animals have evolved unique tricks to do so. One of these tricks is mimicry, which mi</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Reports an evolutionary ecology case of mimicry aiding asexual yam dispersal by birds, which is only tangentially relevant to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Evolutionarily speaking, the ultimate goal of a lifeform is to reproduce and stave off extinction. Many plants and animals have evolved unique tricks to do so. One of these tricks is mimicry, which might be used to trick other species into believing it is dangerous in order to avoid becoming a meal, or to increase the likelihood of reproduction.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-asexual-yam-species-employs-mimicry.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [75] Astrobiology (astrobiology.com) ▶ Exoplanet Characterization With NASA’s Habitable Worlds Observatory</title>
-    <link href="https://astrobiology.com/2026/01/exoplanet-characterization-with-nasas-habitable-worlds-observatory.html"/>
-    <id>https://astrobiology.com/2026/01/exoplanet-characterization-with-nasas-habitable-worlds-observatory.html</id>
-    <updated>2026-01-13T17:38:51Z</updated>
-    <summary>Executive Summary: The Habitable Worlds Observatory (HWO) is the first astrophysics flagship mission with a key cross-divisional astrobiology science goal of searching for signs of life on rocky plane</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> exoplanet, life, astrobio*, habitab*</p>
-<p><strong>AI Decision:</strong> This paper outlines how NASA’s Habitable Worlds Observatory would characterize potentially habitable rocky exoplanets and search for signs of life, making it broadly relevant to astrobiology via biosignature-focused exoplanet observation strategy rather than core prebiotic origins mechanisms.</p>
-<p><strong>Abstract:</strong> Executive Summary: The Habitable Worlds Observatory (HWO) is the first astrophysics flagship mission with a key cross-divisional astrobiology science goal of searching for signs of life on rocky planets beyond our solar system. The Living Worlds Working Group under the Science, Technology, and Architecture Review Team (START) was charged with investigating how HWO could characterize […] The post Exoplanet Characterization With NASA’s Habitable Worlds Observatory appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.06386">https://arxiv.org/abs/2601.06386</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.06386">https://doi.org/10.48550/arXiv.2601.06386</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/exoplanet-characterization-with-nasas-habitable-worlds-observatory.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

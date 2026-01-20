@@ -1,5 +1,27 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 70 | [Functionalization Of Benzene Ices by Atomic Oxygen](https://astrobiology.com/2026/01/functionalization-of-benzene-ices-by-atomic-oxygen.html) |
+| ai_scored | 25 | [Human mascRNA interacts with SUMO E1 and reshapes nuclear SU](https://www.biorxiv.org/content/10.64898/2026.01.19.700226v1?rss=1) |
+| ai_scored | 30 | [Characterization Of Two New Transiting Sub-Neptunes And A Te](https://astrobiology.com/2026/01/characterization-of-two-new-transiting-sub-neptunes-and-a-terrestrial-planet-around-m-dwarf-hosts.html) |
+| ai_scored | 55 | [Ice World Assay: Ancient Antarctica Reveals A ‘One–two Punch](https://astrobiology.com/2026/01/ice-world-assay-ancient-antarctica-reveals-a-one-two-punch-behind-ice-sheet-collapse.html) |
+| ai_scored | 70 | [Ultra-low Noise Mid-infrared Detector Could Help Detect Bios](https://astrobiology.com/2026/01/ultra-low-noise-mid-infrared-detector-could-help-detect-biosignatures-on-exoplanets.html) |
+| ai_scored | 65 | [Co-option of Lysosomal Machinery for Biomineralization](https://www.biorxiv.org/content/10.64898/2026.01.19.700231v1?rss=1) |
+| ai_scored | 55 | [Water makeup of Jupiter's Galilean moons set at birth, new s](https://phys.org/news/2026-01-makeup-jupiter-galilean-moons-birth.html) |
+| ai_scored | 25 | [Direct binding of chromosome axis and cohesin complexes unde](https://www.biorxiv.org/content/10.64898/2026.01.19.700424v1?rss=1) |
+| ai_scored | 15 | [Artemis II AVATAR (A Virtual Astronaut Tissue Analog Respons](https://astrobiology.com/2026/01/artemis-ii-avatar-a-virtual-astronaut-tissue-analog-response.html) |
+| keyword_rejected | - | [Satellites could use magnetic fields to avoid collisions](https://www.newscientist.com/article/2512328-satellites-could-use-magnetic-fields-to-avoid-collisions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Tunisie: quatre morts dans des pluies "exceptionnelles", sit](https://www.sciencesetavenir.fr/nature-environnement/tunisie-quatre-morts-dans-des-pluies-exceptionnelles-situation-critique-dans-certaines-regions_190498?xtor=RSS-15) |
+| keyword_rejected | - | [Le monde entre dans l'ère de la faillite de l'eau](https://www.sciencesetavenir.fr/nature-environnement/climat/la-terre-est-entree-dans-une-ere-de-faillite-globale-de-la-ressource-en-eau_190478?xtor=RSS-15) |
+| keyword_rejected | - | [Satellites could use magnetic fields to avoid collisions](https://www.newscientist.com/article/2512328-satellites-could-use-magnetic-fields-to-avoid-collisions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The US is quitting 66 global agencies: what does it mean for](https://www.nature.com/articles/d41586-026-00102-0) |
+| keyword_rejected | - | [Satellites could use magnetic fields to avoid collisions](https://www.newscientist.com/article/2512328-satellites-could-use-magnetic-fields-to-avoid-collisions/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [SPHEREx imaging reveals increased sublimation activity on 3I](https://phys.org/news/2026-01-spherex-imaging-reveals-sublimation-3iatlas.html) |
+| keyword_rejected | - | [Intricacies of Helix Nebula revealed with Webb](https://phys.org/news/2026-01-intricacies-helix-nebula-revealed-webb.html) |
+| keyword_rejected | - | [Hubble tension: Primordial magnetic fields could resolve one](https://phys.org/news/2026-01-hubble-tension-primordial-magnetic-fields.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120133000&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Identification of a sub-population of synovial mesenchymal s](https://elifesciences.org/articles/103332) |
+| keyword_rejected | - | [4-Hexylresorcinol Enhances Skeletal Muscle Glucose Handling ](https://www.biorxiv.org/content/10.64898/2026.01.19.700277v1?rss=1) |
+| keyword_rejected | - | [Asymmetric partition of the O-GlcNAcome in mitosis ensures b](https://www.biorxiv.org/content/10.64898/2026.01.18.700201v1?rss=1) |
 | ai_scored | 45 | [SPHEREx Wins 2026 Sylvia A. Earle Award For Exploration Exce](https://astrobiology.com/2026/01/spherex-wins-2026-sylvia-a-earle-award-for-exploration-excellence-from-the-explorers-club.html) |
 | ai_scored | 65 | [The alien hunter's shopping list](https://phys.org/news/2026-01-alien-hunter.html) |
 | ai_scored | 50 | [The Water Makeup Of Jupiter’s Galilean Moons Was Set At Birt](https://astrobiology.com/2026/01/the-water-makeup-of-jupiters-galilean-moons-was-set-at-birth.html) |
