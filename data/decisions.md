@@ -1,5 +1,18 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120181843&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Incendies au Chili : des sinistrés désemparés implorent de l](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-des-sinistres-desempares-implorent-de-l-aide-au-milieu-des-decombres_190500?xtor=RSS-15) |
+| keyword_rejected | - | [Performance evaluation of equations of state for typical cry](http://link.aps.org/doi/10.1103/mnmm-fcfw) |
+| keyword_rejected | - | [Dynamics of target plasma expansion during radiation ablatio](http://link.aps.org/doi/10.1103/1tr8-cm9r) |
+| keyword_rejected | - | [Exponential random graph-based eXplainable Artificial Intell](http://link.aps.org/doi/10.1103/dkn2-9b2t) |
+| keyword_rejected | - | [Cost functions in economic complexity](http://link.aps.org/doi/10.1103/tgcg-8hw2) |
+| keyword_rejected | - | [Flux-fluctuation relation for quantum walks on networks](http://link.aps.org/doi/10.1103/cg8k-t1rz) |
+| keyword_rejected | - | [Recurrence patterns correlation](http://link.aps.org/doi/10.1103/ry6l-qzkn) |
+| keyword_rejected | - | [Nonlinear dynamics and spatiotemporal patterns of a delayed ](http://link.aps.org/doi/10.1103/sdv2-lf44) |
+| keyword_rejected | - | [Quantum diffusion in the Harper model under polychromatic ti](http://link.aps.org/doi/10.1103/768k-ghzl) |
+| keyword_rejected | - | [Intermittent Kac's flights with resetting](http://link.aps.org/doi/10.1103/9brd-4frk) |
+| keyword_rejected | - | [Charging capacitors using diodes at different temperatures. ](http://link.aps.org/doi/10.1103/9ftf-fs52) |
+| keyword_rejected | - | [Charging capacitors using diodes at different temperatures. ](http://link.aps.org/doi/10.1103/j22d-1zwg) |
 | ai_scored | 30 | [SunRISE SmallSats ace tests, moving closer to launch](https://phys.org/news/2026-01-sunrise-smallsats-ace-closer.html) |
 | keyword_rejected | - | [Regulation of AP1 adaptor assembly by the bi-handed chaperon](https://www.nature.com/articles/s41467-026-68662-3) |
 | keyword_rejected | - | [Correction: Microsecond simulations to investigate the struc](https://www.nature.com/articles/s41598-026-36843-1) |
