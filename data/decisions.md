@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Ancient 'spaghetti' in dogs' hearts reveals surprising origi](https://phys.org/news/2026-01-ancient-spaghetti-dogs-hearts-reveals.html) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120052330&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [An interstellar energetic and non-aqueous pathway to peptide](https://www.nature.com/articles/s41550-025-02765-7) |
+| keyword_rejected | - | [The role of take-over cue informativity in interrupted take-](https://www.nature.com/articles/s41598-026-36614-y) |
+| keyword_rejected | - | [Bionic Janus hydrogel drives infected Achilles tendon regene](https://www.nature.com/articles/s41467-026-68514-0) |
+| keyword_rejected | - | [Ligand-controlled regiodivergent and enantioselective C–H cy](https://www.nature.com/articles/s41467-026-68598-8) |
 | ai_scored | 15 | [Geomagnetic storm to bring northern lights to central US](https://phys.org/news/2026-01-geomagnetic-storm-northern-central.html) |
 | keyword_rejected | - | [Loi fin de vie : très réservé, le Sénat se penche sur l'aide](https://www.sciencesetavenir.fr/politique/loi-fin-de-vie-tres-reserve-le-senat-se-penche-sur-l-aide-a-mourir_190474) |
 | keyword_rejected | - | [Assessment of hydrological drought vulnerability using SPI a](https://www.nature.com/articles/s41598-026-36100-5) |
