@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [SunRISE SmallSats ace tests, moving closer to launch](https://phys.org/news/2026-01-sunrise-smallsats-ace-closer.html) |
+| keyword_rejected | - | [Regulation of AP1 adaptor assembly by the bi-handed chaperon](https://www.nature.com/articles/s41467-026-68662-3) |
+| keyword_rejected | - | [Correction: Microsecond simulations to investigate the struc](https://www.nature.com/articles/s41598-026-36843-1) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120171907&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Dynamics-aware Evolutionary Profiling Uncouples Structural R](https://www.biorxiv.org/content/10.64898/2026.01.16.699945v1?rss=1) |
+| keyword_rejected | - | [eTRex Reveals Oncogenic Transcriptional Regulatory Programs ](https://www.biorxiv.org/content/10.64898/2026.01.16.699950v1?rss=1) |
 | ai_scored | 55 | [Scientists investigate ‘dark oxygen’ in deep-sea mining zone](https://www.newscientist.com/article/2512625-scientists-investigate-dark-oxygen-in-deep-sea-mining-zone/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 60 | [Scientists investigate ‘dark oxygen’ in deep-sea mining zone](https://www.newscientist.com/article/2512625-scientists-investigate-dark-oxygen-in-deep-sea-mining-zone/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 60 | [Scientists investigate ‘dark oxygen’ in deep-sea mining zone](https://www.newscientist.com/article/2512625-scientists-investigate-dark-oxygen-in-deep-sea-mining-zone/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
