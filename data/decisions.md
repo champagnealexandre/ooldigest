@@ -1,5 +1,31 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 30 | [Successful strategies in the voluntarily repeated Prisoner's](https://www.biorxiv.org/content/10.64898/2026.01.16.699891v1?rss=1) |
+| ai_scored | 70 | [Mars once had a vast sea the size of the Arctic Ocean](https://www.newscientist.com/article/2512150-mars-once-had-a-vast-sea-the-size-of-the-arctic-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 75 | [Mars once had a vast sea the size of the Arctic Ocean](https://www.newscientist.com/article/2512150-mars-once-had-a-vast-sea-the-size-of-the-arctic-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 70 | [Mars once had a vast sea the size of the Arctic Ocean](https://www.newscientist.com/article/2512150-mars-once-had-a-vast-sea-the-size-of-the-arctic-ocean/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 75 | [Life’s evil twins—mirror cells—could doom Earth if scientist](https://www.scientificamerican.com/article/lifes-evil-twins-mirror-cells-could-doom-earth-if-scientists-dont-stop-them/) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120074053&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Intempéries dans l'Aude: baisse des précipitations, réouvert](https://www.sciencesetavenir.fr/nature-environnement/intemperies-dans-l-aude-baisse-des-precipitations-reouverture-programmee-des-ecoles_190487?xtor=RSS-15) |
+| keyword_rejected | - | [Science crossword: Consciousness carriers](https://www.scientificamerican.com/article/science-crossword-consciousness-carriers/) |
+| keyword_rejected | - | [Math puzzle: A winning loser](https://www.scientificamerican.com/article/math-puzzle-a-winning-loser/) |
+| keyword_rejected | - | [Your guide to 29 wildly different theories of consciousness](https://www.scientificamerican.com/article/your-guide-to-29-wildly-different-theories-of-consciousness/) |
+| keyword_rejected | - | [Heal injuries faster with new science](https://www.scientificamerican.com/article/heal-injuries-faster-with-new-science/) |
+| keyword_rejected | - | [Poem: ‘E = mc²’](https://www.scientificamerican.com/article/poem-e-mc/) |
+| keyword_rejected | - | [JWST could finally spot the very first stars in the universe](https://www.scientificamerican.com/article/jwst-could-finally-spot-the-very-first-stars-in-the-universe/) |
+| keyword_rejected | - | [What is consciousness? Science faces its hardest problem yet](https://www.scientificamerican.com/article/what-is-consciousness-science-faces-its-hardest-problem-yet/) |
+| keyword_rejected | - | [A bright light in the dark](https://www.scientificamerican.com/article/a-bright-light-in-the-dark/) |
+| keyword_rejected | - | [Readers respond to the October 2025 issue](https://www.scientificamerican.com/article/readers-respond-to-the-october-2025-issue/) |
+| keyword_rejected | - | [Which dog breed stereotypes are true? Here’s the science](https://www.scientificamerican.com/article/which-dog-breed-stereotypes-are-true-heres-the-science/) |
+| keyword_rejected | - | [February 2026: Science history from 50, 100 and 150 years ag](https://www.scientificamerican.com/article/february-2026-science-history-from-50-100-and-150-years-ago/) |
+| keyword_rejected | - | [How extremophile molds are destroying museum artifacts](https://www.scientificamerican.com/article/how-extremophile-molds-are-destroying-museum-artifacts/) |
+| keyword_rejected | - | [Leveraging LLM-based agents for social science research: ins](https://www.nature.com/articles/s41599-025-06193-w) |
+| keyword_rejected | - | [Correction: Anomaly detection in double-entry bookkeeping da](https://www.nature.com/articles/s41598-026-36779-6) |
+| keyword_rejected | - | [Correction: <i>Oroxylum indicum</i>&#xa0;ameliorates D-galac](https://www.nature.com/articles/s41598-026-36729-2) |
+| keyword_rejected | - | [Correction: Grape-seed Polyphenols Play a Protective Role in](https://www.nature.com/articles/s41598-025-30698-8) |
+| keyword_rejected | - | [Intrinsically stretchable 2D MoS<sub>2</sub> transistors](https://www.nature.com/articles/s41467-026-68504-2) |
+| keyword_rejected | - | [Wafer-scale high-κ HfO<sub>2</sub> dielectric films with sub](https://www.nature.com/articles/s41467-026-68584-0) |
+| keyword_rejected | - | [Single-cell profiling of trabecular meshwork identifies mito](https://elifesciences.org/articles/107161) |
 | ai_scored | 15 | [‘Every aspect of my work life has changed’ — scientists refl](https://www.nature.com/articles/d41586-026-00090-1) |
 | keyword_rejected | - | [Sunscreens made from ground-up wood reach an SPF of over 180](https://www.newscientist.com/article/2511666-sunscreens-made-from-ground-up-wood-reach-an-spf-of-over-180/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Sunscreens made from ground-up wood reach an SPF of over 180](https://www.newscientist.com/article/2511666-sunscreens-made-from-ground-up-wood-reach-an-spf-of-over-180/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
