@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120032651&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Les deux seuls pandas du Japon repartiront pour la Chine le ](https://www.sciencesetavenir.fr/nature-environnement/les-deux-seuls-pandas-du-japon-repartiront-pour-la-chine-le-27-janvier_190477?xtor=RSS-15) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120022441&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Que voit-on quand on lit ?](https://www.pourlascience.fr/sr/regards/que-voit-on-quand-on-lit-28713.php) |
 | keyword_rejected | - | [La loi de puissance qui décrit la fragmentation des solides ](https://www.pourlascience.fr/sd/physique/la-loi-de-puissance-qui-decrit-la-fragmentation-des-solides-et-des-liquides-expliquee-28639.php) |
