@@ -1,5 +1,34 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [‘Every aspect of my work life has changed’ — scientists refl](https://www.nature.com/articles/d41586-026-00090-1) |
+| keyword_rejected | - | [Sunscreens made from ground-up wood reach an SPF of over 180](https://www.newscientist.com/article/2511666-sunscreens-made-from-ground-up-wood-reach-an-spf-of-over-180/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sunscreens made from ground-up wood reach an SPF of over 180](https://www.newscientist.com/article/2511666-sunscreens-made-from-ground-up-wood-reach-an-spf-of-over-180/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sunscreens made from ground-up wood reach an SPF of over 180](https://www.newscientist.com/article/2511666-sunscreens-made-from-ground-up-wood-reach-an-spf-of-over-180/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Une tempête solaire majeure touche la Terre](https://www.sciencesetavenir.fr/sciences/une-tempete-solaire-majeure-touche-la-terre_190485?xtor=RSS-18) |
+| keyword_rejected | - | [7 cyberattaques massives dont vous n’avez probablement pas e](https://www.sciencesetavenir.fr/high-tech/informatique/de-l-ado-qui-controle-la-mediterranee-aux-explosions-de-canalisations-7-cyberattaques-massives-dont-vous-n-avez-probablement-pas-entendu-parler_190479?xtor=RSS-12) |
+| keyword_rejected | - | [Givrés? En Chine, des nageurs bravent les eaux glacées](https://www.sciencesetavenir.fr/sante/givres-en-chine-des-nageurs-bravent-les-eaux-glacees_190484?xtor=RSS-16) |
+| keyword_rejected | - | [Daily briefing: Gifted dogs have word-learning skills on a p](https://www.nature.com/articles/d41586-026-00213-8) |
+| keyword_rejected | - | [‘Shattered’: US scientists speak out about how Trump policie](https://www.nature.com/articles/d41586-026-00091-0) |
+| keyword_rejected | - | [Fossil-fuel phase out is not enough: countries must remove a](https://www.nature.com/articles/d41586-026-00211-w) |
+| keyword_rejected | - | [Study decision-making to understand how technology will affe](https://www.nature.com/articles/d41586-026-00209-4) |
+| keyword_rejected | - | [US funding cuts harm aspiring young scientists, too](https://www.nature.com/articles/d41586-026-00182-y) |
+| keyword_rejected | - | [To gain public trust, make art central to science communicat](https://www.nature.com/articles/d41586-026-00210-x) |
+| keyword_rejected | - | [Bacteria break through one-micrometer-square passages by fla](https://www.nature.com/articles/s41467-025-67507-9) |
+| keyword_rejected | - | [Targeting the UFL1-AKT cascade suppresses triple-negative br](https://www.nature.com/articles/s41467-026-68493-2) |
+| keyword_rejected | - | [Sero-genomic evidence for occult mpox exposure in healthy Ni](https://www.nature.com/articles/s41467-026-68335-1) |
+| keyword_rejected | - | [The UFL1-AKT positive feedback loop promotes breast cancer p](https://www.nature.com/articles/s41467-026-68492-3) |
+| keyword_rejected | - | [Strong correlations and superconductivity in the supermoiré ](https://www.nature.com/articles/s41567-025-03131-0) |
+| keyword_rejected | - | [Dynamical simulations of many-body quantum chaos on a quantu](https://www.nature.com/articles/s41567-025-03144-9) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120062031&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Data-driven classification of ordinary chondrites and astero](https://www.nature.com/articles/s41598-026-35624-0) |
+| keyword_rejected | - | [Hydroelastic waves induced by initial disturbances in ice-co](https://www.nature.com/articles/s41598-025-34341-4) |
+| keyword_rejected | - | [Organic crystalline nanoparticles with a long-lived charge-s](https://www.nature.com/articles/s41557-025-02035-z) |
+| keyword_rejected | - | [Towards single-crystalline two-dimensional poly(arylene viny](https://www.nature.com/articles/s41557-025-02048-8) |
+| keyword_rejected | - | [Lithium metal-mediated electrochemical reduction of per- and](https://www.nature.com/articles/s41557-025-02057-7) |
+| keyword_rejected | - | [Magnetism adds a dimension to ammonia oxidation electrocatal](https://www.nature.com/articles/s41557-025-02058-6) |
+| keyword_rejected | - | [Human motion recognition and prediction using loose cloth](https://www.nature.com/articles/s41467-025-67509-7) |
+| keyword_rejected | - | [On the fundamental resource for exponential advantage in qua](https://www.nature.com/articles/s41467-026-68532-y) |
+| keyword_rejected | - | [Measures of gene indispensability reveal the parallelism bet](https://www.sciencedirect.com/science/article/pii/S0303264726000201?dgcid=rss_sd_all) |
 | ai_scored | 5 | [Ancient 'spaghetti' in dogs' hearts reveals surprising origi](https://phys.org/news/2026-01-ancient-spaghetti-dogs-hearts-reveals.html) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120052330&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [An interstellar energetic and non-aqueous pathway to peptide](https://www.nature.com/articles/s41550-025-02765-7) |
