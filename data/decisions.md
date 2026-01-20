@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120022441&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Que voit-on quand on lit ?](https://www.pourlascience.fr/sr/regards/que-voit-on-quand-on-lit-28713.php) |
+| keyword_rejected | - | [La loi de puissance qui décrit la fragmentation des solides ](https://www.pourlascience.fr/sd/physique/la-loi-de-puissance-qui-decrit-la-fragmentation-des-solides-et-des-liquides-expliquee-28639.php) |
+| keyword_rejected | - | [Climat: en Antarctique, les manchots avancent leur période d](https://www.sciencesetavenir.fr/nature-environnement/climat-en-antarctique-les-manchots-avancent-leur-periode-de-reproduction-a-vitesse-record_190476?xtor=RSS-15) |
+| keyword_rejected | - | [Intempéries: l'Hérault et l'Aude maintenus en vigilance oran](https://www.sciencesetavenir.fr/nature-environnement/intemperies-l-herault-et-l-aude-maintenus-en-vigilance-orange-crues-mardi_190475?xtor=RSS-15) |
+| keyword_rejected | - | [Découvrez l'histoire de Shadrack, le soldat qui enterra son ](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/decouvrez-l-histoire-de-shadrack-le-soldat-qui-enterra-son-propre-bras_190456?xtor=RSS-4) |
+| keyword_rejected | - | [ALMA reveals teenage years of new worlds](https://phys.org/news/2026-01-alma-reveals-teenage-years-worlds.html) |
+| keyword_rejected | - | [Multi-band circularly polarized patch antenna with CPW feed ](https://www.nature.com/articles/s41598-025-34433-1) |
+| keyword_rejected | - | [Thermal enhancement of ternary hybrid Casson nanofluid in po](https://www.nature.com/articles/s41598-025-21154-8) |
+| keyword_rejected | - | [Aloe vera derived carbon dots as multifunctional fluorescent](https://www.nature.com/articles/s41598-025-34499-x) |
+| keyword_rejected | - | [Disorder-specific alterations of transient oscillatory dynam](https://www.nature.com/articles/s41598-025-33669-1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120013033&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Large-scale serum <i>N-</i>glycomics tracks <i>N</i>-glycosy](https://www.nature.com/articles/s41467-026-68579-x) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120002604&v=2.18.0.post22+67771e2) |
