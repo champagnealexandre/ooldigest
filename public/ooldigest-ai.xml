@@ -3,8 +3,79 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T10:23:50.331192+00:00</updated>
+  <updated>2026-01-21T11:21:04.176381+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] Nature Communications ▶ Sugar rationing during the first 1000 days of life and lifelong risk of heart failure</title>
+    <link href="https://www.nature.com/articles/s41467-026-68713-9"/>
+    <id>https://www.nature.com/articles/s41467-026-68713-9</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68713-9 High sugar intake is a potential risk factor for heart failure, but there is insufficient evidence for the bene</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> A human epidemiology study using the end of UK sugar rationing as a natural experiment to link lower early-life sugar intake with reduced lifetime heart-failure risk, with no direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68713-9 High sugar intake is a potential risk factor for heart failure, but there is insufficient evidence for the benefit of restricting sugar intake during pregnancy or early life. Using the end of UK sugar rationing as a natural experiment, this study shows that lower sugar intake early in life is linked to lower risk of heart failure and later disease onset.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68713-9">https://www.nature.com/articles/s41467-026-68713-9</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68713-9">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] nature.com - Biological sciences ▶ A dual context-aware basecaller for nanopore direct RNA sequencing</title>
+    <link href="https://www.nature.com/articles/s41467-026-68566-2"/>
+    <id>https://www.nature.com/articles/s41467-026-68566-2</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Presents a dual context-aware basecalling algorithm to improve accuracy in nanopore direct RNA sequencing, a methodological advance that can support nucleic-acid studies but is not directly focused on origins-of-life questions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68566-2">https://www.nature.com/articles/s41467-026-68566-2</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68566-2">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [90] Biosystems ▶ From the origin of life to a biosphere: Formation of artificial ecosystems where species shape and are shaped by each other</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726000213?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264726000213?dgcid=rss_sd_all</id>
+    <updated>2026-01-21T11:00:00Z</updated>
+    <summary>Publication date: Available online 20 January 2026 Source: BioSystems Author(s): Evgeny Ivanko, Aleksey Belousov</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> origin(s) of life, life</p>
+<p><strong>AI Decision:</strong> This BioSystems paper links origin-of-life concepts to the emergence of biospheres by proposing/analysing artificial ecosystem formation in which interacting species co-create selective pressures, offering a systems-level bridge from abiogenesis to ecology.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 20 January 2026 Source: BioSystems Author(s): Evgeny Ivanko, Aleksey Belousov</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0303264726000213?dgcid=rss_sd_all">https://www.sciencedirect.com/science/article/pii/S0303264726000213?dgcid=rss_sd_all</a></li>
+</ul>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264726000213?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] Nature Communications ▶ A dual context-aware basecaller for nanopore direct RNA sequencing</title>
+    <link href="https://www.nature.com/articles/s41467-026-68566-2"/>
+    <id>https://www.nature.com/articles/s41467-026-68566-2</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68566-2 Nanopore direct RNA sequencing is hindered by high basecalling error rates. Here, the authors introduce Coral, </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces Coral, a Transformer-based dual context-aware basecaller that improves nanopore direct RNA sequencing accuracy, enabling better isoform discovery and allele-specific analyses (methodological advance with only indirect relevance to origins-of-life via RNA/nucleic-acid analytics).</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68566-2 Nanopore direct RNA sequencing is hindered by high basecalling error rates. Here, the authors introduce Coral, a dual context-aware basecaller using a Transformer encoder-decoder architecture to improve accuracy, enabling superior transcript isoform discovery and allele-specific analysis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68566-2">https://www.nature.com/articles/s41467-026-68566-2</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68566-2">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] Biosystems ▶ Double exponential neuron evolution versus merely exponential Artificial Intelligence (AI): Reconsideration of Kurzweil’s Singularity</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S0303264726000195?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S0303264726000195?dgcid=rss_sd_all</id>
+    <updated>2026-01-21T11:00:00Z</updated>
+    <summary>Publication date: Available online 20 January 2026 Source: BioSystems Author(s): Varshith Madishetty, Lalith Bharadwaj Baru, S. Hussain Ather, Richard Gordon</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A BioSystems perspective piece contrasting hypothesized double-exponential biological neuron evolution with exponential AI progress in re-evaluating Kurzweil’s Singularity, with only tangential relevance to origins-of-life research.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 20 January 2026 Source: BioSystems Author(s): Varshith Madishetty, Lalith Bharadwaj Baru, S. Hussain Ather, Richard Gordon</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0303264726000195?dgcid=rss_sd_all">https://www.sciencedirect.com/science/article/pii/S0303264726000195?dgcid=rss_sd_all</a></li>
+</ul>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0303264726000195?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [45] Protein Science ▶ Structural and functional characterization of Staphylococcus aureus RecJ reveals CTD‐mediated functional divergence in DNA repair mechanisms</title>
     <link href="https://onlinelibrary.wiley.com/doi/10.1002/pro.70484?af=R"/>

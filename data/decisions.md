@@ -1,5 +1,27 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Double exponential neuron evolution versus merely exponentia](https://www.sciencedirect.com/science/article/pii/S0303264726000195?dgcid=rss_sd_all) |
+| ai_scored | 35 | [A dual context-aware basecaller for nanopore direct RNA sequ](https://www.nature.com/articles/s41467-026-68566-2) |
+| ai_scored | 90 | [From the origin of life to a biosphere: Formation of artific](https://www.sciencedirect.com/science/article/pii/S0303264726000213?dgcid=rss_sd_all) |
+| ai_scored | 25 | [A dual context-aware basecaller for nanopore direct RNA sequ](https://www.nature.com/articles/s41467-026-68566-2) |
+| ai_scored | 5 | [Sugar rationing during the first 1000 days of life and lifel](https://www.nature.com/articles/s41467-026-68713-9) |
+| keyword_rejected | - | [Girls are starting puberty younger — why, and what are the r](https://www.nature.com/articles/d41586-026-00089-8) |
+| keyword_rejected | - | [California wildfire smoke linked to increased autism diagnos](https://www.scientificamerican.com/article/california-wildfire-smoke-linked-to-increased-autism-diagnoses-new-study/) |
+| keyword_rejected | - | [Can science explain consciousness?](https://www.scientificamerican.com/podcast/episode/can-science-really-explain-consciousness/) |
+| keyword_rejected | - | [En Antarctique, les manchots avancent leur période de reprod](https://www.sciencesetavenir.fr/animaux/oiseaux/climat-en-antarctique-les-manchots-avancent-leur-periode-de-reproduction-a-vitesse-record_190476?xtor=RSS-26) |
+| keyword_rejected | - | [Au Pakistan, la résistance citoyenne s'organise pour défendr](https://www.sciencesetavenir.fr/nature-environnement/au-pakistan-la-resistance-citoyenne-s-organise-pour-defendre-son-droit-a-respirer-de-l-air-pur_190506?xtor=RSS-15) |
+| keyword_rejected | - | [SNORA49 negatively regulates self-renewal of liver cancer st](https://www.nature.com/articles/s41467-025-66486-1) |
+| keyword_rejected | - | [Protein folding stability estimation with explicit considera](https://www.nature.com/articles/s41467-026-68637-4) |
+| keyword_rejected | - | [Orbital Seebeck effect induced by chiral phonons](https://www.nature.com/articles/s41567-025-03134-x) |
+| keyword_rejected | - | [Orbital current from phonons](https://www.nature.com/articles/s41567-025-03139-6) |
+| keyword_rejected | - | [Hyperpyramidalized alkenes with bond orders near 1.5 as synt](https://www.nature.com/articles/s41557-025-02055-9) |
+| keyword_rejected | - | [The pcMPO-AF rule for predicting postoperative atrial fibril](https://www.nature.com/articles/s41598-025-32318-x) |
+| keyword_rejected | - | [Predictors of opportunistic infections among people living w](https://www.nature.com/articles/s41598-026-36909-0) |
+| keyword_rejected | - | [DFT insights into humic acid coordination of Cd(II) Cu(II) a](https://www.nature.com/articles/s41598-025-34197-8) |
+| keyword_rejected | - | [Protein content of extracellular vesicles from patients with](https://www.nature.com/articles/s41598-026-35848-0) |
+| keyword_rejected | - | [The contributions of biological maturity and experience to f](https://www.nature.com/articles/s41598-026-36220-y) |
+| keyword_rejected | - | [Retraction Note: Optimizing microbial strain selection for p](https://www.nature.com/articles/s41598-026-36753-2) |
+| keyword_rejected | - | [Retraction Note: SUMOylation of VEGFR2 regulates its intrace](https://www.nature.com/articles/s41467-025-68233-y) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260121052346&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Au Japon, la plus grande centrale nucléaire du monde doit re](https://www.sciencesetavenir.fr/nature-environnement/nucleaire/japon-la-plus-grande-centrale-nucleaire-du-monde-doit-redemarrer-mercredi_190502?xtor=RSS-15) |
 | keyword_rejected | - | [Women with polycystic ovary syndrome exhibit impaired endome](https://www.nature.com/articles/s41467-026-68441-0) |
