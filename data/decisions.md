@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Evolution of the tuberculin skin test reveals generalisable ](https://www.nature.com/articles/s41467-026-68678-9) |
+| ai_scored | 20 | [<i>cxcl18b</i>-defined transitional state-specific nitric ox](https://elifesciences.org/articles/106274) |
+| ai_scored | 5 | [Evolution of the tuberculin skin test reveals generalisable ](https://www.nature.com/articles/s41467-026-68678-9) |
+| keyword_rejected | - | [Manque d'eau, le soldat amputé et la convoitise américaine d](https://www.sciencesetavenir.fr/ultrabreves/manque-d-eau-le-soldat-sans-bras-et-la-convoitise-americaine-du-groenland-l-actu-des-sciences-en-ultrabreves_190507) |
+| keyword_rejected | - | [An alternative EGFR activation by patient-derived R252C muta](https://www.nature.com/articles/s41467-026-68699-4) |
+| keyword_rejected | - | [Editorial Board](https://www.sciencedirect.com/science/article/pii/S0022519326000081?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Functional Calmodulin States are Selected from an Electrosta](https://www.biorxiv.org/content/10.64898/2026.01.18.700137v1?rss=1) |
+| keyword_rejected | - | [Sequence-encoded differences in the conformational ensembles](https://www.biorxiv.org/content/10.64898/2026.01.20.700670v1?rss=1) |
 | keyword_rejected | - | [The rich stopped buying yachts the year time went on sale](https://www.nature.com/articles/d41586-025-03605-4) |
 | keyword_rejected | - | [Iso-orientation bias of layer 2/3 connections unifies sponta](https://www.nature.com/articles/s41467-026-68578-y) |
 | keyword_rejected | - | [SAMSN1 restrains NK cell mediated anti-tumor immunity in hep](https://www.nature.com/articles/s41467-026-68661-4) |

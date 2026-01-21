@@ -3,8 +3,58 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T13:42:06.395655+00:00</updated>
+  <updated>2026-01-21T14:27:12.307732+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] Nature Communications ▶ Evolution of the tuberculin skin test reveals generalisable Mtb -reactive T cell metaclones</title>
+    <link href="https://www.nature.com/articles/s41467-026-68678-9"/>
+    <id>https://www.nature.com/articles/s41467-026-68678-9</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68678-9 T cells contribute to protection and pathogenesis in tuberculosis. Here the authors sequence T cell receptor re</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This Nature Communications study profiles human TCR repertoires at tuberculin skin test sites to identify shared Mycobacterium tuberculosis–reactive T cell metaclones, informing TB risk stratification and vaccine evaluation but offering minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68678-9 T cells contribute to protection and pathogenesis in tuberculosis. Here the authors sequence T cell receptor repertoires in human skin biopsies from the site of the tuberculin skin test and show enrichment of clonotypes reactive to Mycobacterium tuberculosis using a computational pipeline metaclonotypist to identify distinct TCRs predicted to share peptide-MHC reactivity across participants, as an approach to explore T cell correlates of tuberculosis disease-risk stratification and vaccine efficacy.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68678-9">https://www.nature.com/articles/s41467-026-68678-9</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68678-9">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] eLife - recent issues ▶ cxcl18b -defined transitional state-specific nitric oxide drives injury-induced Müller glia cell-cycle re-entry in the zebrafish retina</title>
+    <link href="https://elifesciences.org/articles/106274"/>
+    <id>https://elifesciences.org/articles/106274</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>In lower vertebrates, retinal Müller glia (MG) exhibit a life-long capacity of cell-cycle re-entry to regenerate neurons following the retinal injury. However, the mechanism driving such injury-induce</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Single-cell and clonal analyses in zebrafish identify cxcl18b-marked Müller glia transitional states where Nos2b-derived nitric oxide (a redox signal) is required for injury-induced cell-cycle re-entry and retinal regeneration.</p>
+<p><strong>Abstract:</strong> In lower vertebrates, retinal Müller glia (MG) exhibit a life-long capacity of cell-cycle re-entry to regenerate neurons following the retinal injury. However, the mechanism driving such injury-induced MG cell-cycle re-entry remains incompletely understood. Combining single-cell transcriptomic analysis and in vivo clonal analysis, we identified previously undescribed cxcl18b -defined MG transitional states as essential routes toward MG proliferation following green/red cone (G/R cone) ablation. Inflammation blockage abolished the triggering of these transitional states, which expressed the gene modules shared by cells of the ciliary marginal zone (CMZ), where life-long adult neurogenesis takes place. Functional studies of the redox properties of these transitional states further demonstrated the regulatory role of nitric oxide (NO) produced by Nos2b in injury-induced MG proliferation. Finally, we developed a viral-based strategy to specifically disrupt nos2b in cxcl18b -defined MG transitional states and revealed the effect of transitional state-specific NO signaling. Our findings elucidate the precision redox mechanism underlying injury-induced MG cell-cycle re-entry, providing insights into species-specific mechanisms for vertebrate retina regeneration.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/21890489">https://www.ncbi.nlm.nih.gov/pubmed/21890489</a></li>
+<li><a href="https://doi.org/10.1002/dvdy.21343">https://doi.org/10.1002/dvdy.21343</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/23575850">https://www.ncbi.nlm.nih.gov/pubmed/23575850</a></li>
+<li><a href="https://doi.org/10.3389/fnmol.2023.1087136">https://doi.org/10.3389/fnmol.2023.1087136</a></li>
+<li><a href="https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106274.3">https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.7554%2FeLife.106274.3</a></li>
+<li><a href="https://www.ncbi.nlm.nih.gov/pubmed/18536643">https://www.ncbi.nlm.nih.gov/pubmed/18536643</a></li>
+<li><a href="https://doi.org/10.1523/JNEUROSCI.3838-12.2013">https://doi.org/10.1523/JNEUROSCI.3838-12.2013</a></li>
+<li><a href="https://doi.org/10.1016/j.semcdb.2009.04.013">https://doi.org/10.1016/j.semcdb.2009.04.013</a></li>
+<li><a href="https://doi.org/10.1089/ars.2020.8212">https://doi.org/10.1089/ars.2020.8212</a></li>
+<li><a href="https://doi.org/10.1016/j.mod.2009.07.002">https://doi.org/10.1016/j.mod.2009.07.002</a></li>
+</ul>
+<p><a href="https://elifesciences.org/articles/106274">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] nature.com - Biological sciences ▶ Evolution of the tuberculin skin test reveals generalisable Mtb-reactive T cell metaclones</title>
+    <link href="https://www.nature.com/articles/s41467-026-68678-9"/>
+    <id>https://www.nature.com/articles/s41467-026-68678-9</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This Nature Communications study dissects Mycobacterium tuberculosis–reactive T cell metaclones underlying the tuberculin skin test, which is immunology-focused and not directly relevant to origins-of-life research beyond a generic link to evolution.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68678-9">https://www.nature.com/articles/s41467-026-68678-9</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68678-9">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] Sciences et Avenir ▶ Avec Spectrum, l&#x27;allemand Isar veut mettre sur orbite la souveraineté spatiale européenne</title>
     <link href="https://www.sciencesetavenir.fr/sciences/avec-spectrum-l-allemand-isar-veut-mettre-sur-orbite-la-souverainete-spatiale-europeenne_190508?xtor=RSS-18"/>
@@ -6701,52 +6751,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> The four members of Crew-11 are on their way back to Earth after one of them became unwell with an unknown condition</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] PLOS Computational Biology ▶ Cross-linking mass spectrometry for structure analysis of the intrinsically disordered Tau and phosphorylated Tau protein</title>
-    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013868"/>
-    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013868</id>
-    <updated>2026-01-14T14:00:00Z</updated>
-    <summary>by Cristian Arsene, Alexander Gates, Anne-Katrin Römmert, André Märtens, Valentina Faustinelli, Luise Luckau, Gavin O’Connor We present a novel method for analyzing the folding of intrinsically disord</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Introduces an XL-MS network-analysis framework to quantify conformational differences and aggregation-linked structural evolution in intrinsically disordered Tau and phosphorylated Tau, with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> by Cristian Arsene, Alexander Gates, Anne-Katrin Römmert, André Märtens, Valentina Faustinelli, Luise Luckau, Gavin O’Connor We present a novel method for analyzing the folding of intrinsically disordered proteins (IDPs), such as Tau and phosphorylated Tau (pTau), in solution. Using cross-linking mass spectrometry (XL-MS) combined with a new downstream analysis framework, we construct weighted interaction networks from cross-link–derived residue pairs without relying on predefined secondary structure assumptions. Structural differences between protein conformations are quantified by comparing the organization of loop structures within their cross-link networks. Validation with bovine serum albumin (BSA) in native and denatured states shows that at least 500 cross-links—requiring 5–10 replicate measurements—are needed for reliable detection of structural divergence. Leave-one-out analysis confirms that structural transitions are global, highlighting the importance of comprehensive cross-link datasets. The coverage of unique cross-links was evaluated using accumulation curves from randomized permutations. Saturation levels were found to be 9.7%, 5.0%, and 6.2% of the total 528 and 10,731 possible cross-links after 30, 84, and 62 technical replicates, respectively, for myoglobin, native BSA, and denatured BSA. For Tau and pTau, coverage reached 10.8% and 5.5% of the upper limit (8,256). Finally, applying our structural analysis to Tau and pTau during arachidonic acid–induced aggregation revealed distinct patterns of structural evolution between the two proteins.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013868.g003">https://doi.org/10.1371/journal.pcbi.1013868.g003</a></li>
-<li><a href="https://doi.org/10.1021/acs.analchem.9b00658">https://doi.org/10.1021/acs.analchem.9b00658</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/39251624">http://www.ncbi.nlm.nih.gov/pubmed/39251624</a></li>
-<li><a href="https://doi.org/10.1016/0022-2836(80)90373-3">https://doi.org/10.1016/0022-2836(80)90373-3</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31045356">http://www.ncbi.nlm.nih.gov/pubmed/31045356</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/7373651">http://www.ncbi.nlm.nih.gov/pubmed/7373651</a></li>
-<li><a href="https://doi.org/10.21105/joss.01264">https://doi.org/10.21105/joss.01264</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/34375526">http://www.ncbi.nlm.nih.gov/pubmed/34375526</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/35731895">http://www.ncbi.nlm.nih.gov/pubmed/35731895</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013868.s003">https://doi.org/10.1371/journal.pcbi.1013868.s003</a></li>
-</ul>
-<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013868">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [15] PLOS Computational Biology ▶ Powerful large scale inference in high dimensional mediation analysis</title>
-    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013880"/>
-    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013880</id>
-    <updated>2026-01-14T14:00:00Z</updated>
-    <summary>by Asmita Roy, Xianyang Zhang In genome-wide epigenetic studies, determining how exposures (e.g., Single Nucleotide Polymorphisms) affect outcomes (e.g., gene expression) through intermediate variable</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> Introduces MLFDR, a local-false-discovery-rate method that boosts power while controlling FDR for genome-wide high-dimensional mediation analysis to identify DNA methylation mediators linking genetic exposures to gene expression outcomes.</p>
-<p><strong>Abstract:</strong> by Asmita Roy, Xianyang Zhang In genome-wide epigenetic studies, determining how exposures (e.g., Single Nucleotide Polymorphisms) affect outcomes (e.g., gene expression) through intermediate variables, such as DNA methylation, is a key challenge. Mediation analysis provides a framework to identify these causal pathways; however, testing for mediation effects involves a complex composite null hypothesis. Existing methods, such as Sobel’s test or the Max-P test, are often underpowered in this context because they rely on null distributions determined under only a subset of the null space and are not optimized for the multiple testing burden inherent in high-dimensional data. To address these limitations, we introduce MLFDR (Mediation Analysis using Local False Discovery Rates), a novel method for high-dimensional mediation analysis. MLFDR leverages local false discovery rates, calculated from the coefficients of structural equation models, to construct an optimal rejection region. We demonstrate theoretically and through simulation that MLFDR asymptotically controls the false discovery rate and achieves superior statistical power compared to recent high-dimensional mediation methods. In real data applications, MLFDR identified 20%–50% more significant mediators than existing methods, demonstrating its ability to uncover biological signals missed by conventional approaches.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e005">https://doi.org/10.1371/journal.pcbi.1013880.e005</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e087">https://doi.org/10.1371/journal.pcbi.1013880.e087</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e136">https://doi.org/10.1371/journal.pcbi.1013880.e136</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e020">https://doi.org/10.1371/journal.pcbi.1013880.e020</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e030">https://doi.org/10.1371/journal.pcbi.1013880.e030</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e200">https://doi.org/10.1371/journal.pcbi.1013880.e200</a></li>
-<li><a href="https://doi.org/10.1093/hmg/dds025">https://doi.org/10.1093/hmg/dds025</a></li>
-<li><a href="https://doi.org/10.1007/s11121-011-0270-1">https://doi.org/10.1007/s11121-011-0270-1</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e068">https://doi.org/10.1371/journal.pcbi.1013880.e068</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013880.e057">https://doi.org/10.1371/journal.pcbi.1013880.e057</a></li>
-</ul>
-<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013880">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟠 [55] phys.org - Space News ▶ From a new flagship space telescope to lunar exploration, global cooperation will make 2026 an exciting year for space</title>
