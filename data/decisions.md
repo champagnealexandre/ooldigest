@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 18 | [A proteomic signature of oocyte quality from models of varyi](https://www.biorxiv.org/content/10.64898/2026.01.20.700687v1?rss=1) |
+| ai_scored | 60 | [Mystery Prototaxites tower fossils may represent a newly dis](https://www.scientificamerican.com/article/mystery-prototaxites-tower-fossils-may-represent-a-newly-discovered-kind-of/) |
+| keyword_rejected | - | [‘Bat accelerator’ unlocks new clues to how these animals nav](https://www.scientificamerican.com/article/bat-accelerator-unlocks-new-clues-to-how-these-animals-navigate/) |
+| keyword_rejected | - | [NASA Crew-11 astronauts reflect on ISS medical evacuation an](https://www.scientificamerican.com/article/nasa-crew-11-astronauts-reflect-on-iss-medical-evacuation-and-future-of/) |
+| keyword_rejected | - | [Nanometer-scale proton focusing via density-gradient-induced](http://link.aps.org/doi/10.1103/y1vt-88f9) |
+| keyword_rejected | - | [Ion-size-dependent electroconvective transport in confined c](http://link.aps.org/doi/10.1103/yrqz-h2zc) |
+| keyword_rejected | - | [Analytical characterization of sloppiness in neural networks](http://link.aps.org/doi/10.1103/fs4g-9nsz) |
+| keyword_rejected | - | [Berezinskii-Kosterlitz-Thouless transition in a context-sens](http://link.aps.org/doi/10.1103/s7nf-bwzd) |
+| keyword_rejected | - | [Shortest-path percolation on scale-free networks](http://link.aps.org/doi/10.1103/pk8t-px35) |
+| keyword_rejected | - | [Triadic percolation on multilayer networks](http://link.aps.org/doi/10.1103/yvtg-wnn4) |
+| keyword_rejected | - | [Structure and dynamics in the low-density phase of a two-dim](http://link.aps.org/doi/10.1103/y7qy-6z9t) |
+| keyword_rejected | - | [High-efficiency three-stroke quantum isochoric heat engine: ](http://link.aps.org/doi/10.1103/z2c4-bdcn) |
 | ai_scored | 70 | [Our Moon’s 4-Billion-Year Impact Record Suggests Meteorites ](https://astrobiology.com/2026/01/our-moons-4-billion-year-impact-record-suggests-meteorites-didnt-supply-earths-water.html) |
 | ai_scored | 45 | [Q&A: How AI changes NASA's search for life in outer space](https://phys.org/news/2026-01-qa-ai-nasa-life-outer.html) |
 | ai_scored | 20 | [Distinct Repeat Architecture Landscapes in the Proteomes of ](https://www.biorxiv.org/content/10.64898/2026.01.20.700692v1?rss=1) |
