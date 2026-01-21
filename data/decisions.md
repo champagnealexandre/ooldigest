@@ -1,5 +1,30 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [Two components of the early ASH1 mRNA transport machinery un](https://www.biorxiv.org/content/10.64898/2026.01.20.700544v1?rss=1) |
+| ai_scored | 30 | [Establishing the molecular basis for MDA5 mutation-linked au](https://www.biorxiv.org/content/10.64898/2026.01.20.700587v1?rss=1) |
+| ai_scored | 0 | [Krylov Complexity of Purification](http://link.aps.org/doi/10.1103/qgcx-wxpd) |
+| ai_scored | 5 | [Mechanical properties of thermoformed and direct-printed ali](https://www.nature.com/articles/s41598-026-36723-8) |
+| keyword_rejected | - | [US Congress set to reject Trump’s sweeping science budget cu](https://www.nature.com/articles/d41586-026-00163-1) |
+| keyword_rejected | - | [Nonlinear Coupling Induced Anomalous State Transfer and Comp](http://link.aps.org/doi/10.1103/6bsr-x2v9) |
+| keyword_rejected | - | [Experimental Observation of Hidden Multistability in Nonline](http://link.aps.org/doi/10.1103/5b5b-gnjw) |
+| keyword_rejected | - | [Generative Thermodynamic Computing](http://link.aps.org/doi/10.1103/kwyy-1xln) |
+| keyword_rejected | - | [Explicit Wave function of the Interacting Non-Hermitian Spin](http://link.aps.org/doi/10.1103/bhpz-17d2) |
+| keyword_rejected | - | [Gate-Tunable Spin Switching Effect and Bilinear Magnetoelect](http://link.aps.org/doi/10.1103/7m1l-xf1w) |
+| keyword_rejected | - | [Frequency Stability of $2.5×{10}^{−17}$ from a Si Cavity wit](http://link.aps.org/doi/10.1103/zgrm-cjbb) |
+| keyword_rejected | - | [Fractal Spectrum in Twisted Bilayer Optical Lattice](http://link.aps.org/doi/10.1103/nz52-ypsw) |
+| keyword_rejected | - | [Purely Greenberger-Horne-Zeilinger–like Entanglement is Forb](http://link.aps.org/doi/10.1103/g5rw-nvnr) |
+| keyword_rejected | - | [Localized ${\mathrm{AdS}}_{3}×{\mathrm{S}}^{3}×\text{ }{\mat](http://link.aps.org/doi/10.1103/f2rs-p1mq) |
+| keyword_rejected | - | [Efficient Preparation of Dicke States](http://link.aps.org/doi/10.1103/9gjk-rgql) |
+| keyword_rejected | - | [Non-Haar Random Circuits form Unitary Designs as Fast as Haa](http://link.aps.org/doi/10.1103/q172-8cmt) |
+| keyword_rejected | - | [Bubble netting knowledge spread by immigrant humpback whales](https://phys.org/news/2026-01-netting-knowledge-immigrant-humpback-whales.html) |
+| keyword_rejected | - | [Mindful eating may help explain the association between psyc](https://www.nature.com/articles/s41598-026-36967-4) |
+| keyword_rejected | - | [Knowledge of cardiovascular diseases among university studen](https://www.nature.com/articles/s41598-025-34137-6) |
+| keyword_rejected | - | [Conditional survival and prognostic nomogram for distant met](https://www.nature.com/articles/s41598-026-37103-y) |
+| keyword_rejected | - | [Factors associated with morbidities among persons with disab](https://www.nature.com/articles/s41598-025-24047-y) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120202404&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Structural and Spectroscopic Basis for Catalysis by a Class ](https://www.biorxiv.org/content/10.64898/2026.01.19.700444v1?rss=1) |
+| keyword_rejected | - | [Fully genetically encoded low-molecular-weight protein tags ](https://www.biorxiv.org/content/10.64898/2026.01.16.700029v1?rss=1) |
+| keyword_rejected | - | [The isolated Stachel peptide of the adhesion G protein-coupl](https://www.biorxiv.org/content/10.64898/2026.01.16.700034v1?rss=1) |
 | keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120181843&v=2.18.0.post22+67771e2) |
 | keyword_rejected | - | [Incendies au Chili : des sinistrés désemparés implorent de l](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-des-sinistres-desempares-implorent-de-l-aide-au-milieu-des-decombres_190500?xtor=RSS-15) |
 | keyword_rejected | - | [Performance evaluation of equations of state for typical cry](http://link.aps.org/doi/10.1103/mnmm-fcfw) |
