@@ -3,8 +3,189 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T01:24:17.791710+00:00</updated>
+  <updated>2026-01-21T03:40:30.110418+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] nature.com - Biological sciences ▶ Dynamic signature of activity-stability tradeoff in lactamase evolution</title>
+    <link href="https://www.nature.com/articles/s41467-026-68620-z"/>
+    <id>https://www.nature.com/articles/s41467-026-68620-z</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A Nature Communications study quantifying the activity–stability tradeoff during lactamase protein evolution, offering general insights into evolutionary constraints on enzyme function but only indirect relevance to origins-of-life questions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68620-z">https://www.nature.com/articles/s41467-026-68620-z</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68620-z">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] Nature Communications ▶ Dynamic signature of activity-stability tradeoff in lactamase evolution</title>
+    <link href="https://www.nature.com/articles/s41467-026-68620-z"/>
+    <id>https://www.nature.com/articles/s41467-026-68620-z</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68620-z Enzymes adapt by sampling new conformations while balancing destabilizing effects of mutations. Here, the autho</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Using TEM-1 β-lactamase as a model, this study shows how antibiotic resistance can arise via shifts in protein conformational dynamics and localized stability networks, illuminating the general activity–stability tradeoff that constrains enzyme evolution.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68620-z Enzymes adapt by sampling new conformations while balancing destabilizing effects of mutations. Here, the authors reveal how TEM-1 β-lactamase acquires cefotaxime resistance through reshaping of dynamic conformational ensembles and localized stability networks, offering insight into the molecular framework of the activity-stability tradeoff.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68620-z">https://www.nature.com/articles/s41467-026-68620-z</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68620-z">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] biochemistry - biorXiv Preprints ▶ Catalytic and Structural Insights into Neil3-Dependent Unhooking of Endogenous Abasic DNA Crosslink</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700286v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700286v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Abasic (Ap) sites arise frequently in genomic DNA and can form interstrand crosslinks (Ap-ICLs) that block DNA replication and threaten genome stability. The DNA glycosylase NEIL3 is required for repl</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study clarifies how the DNA glycosylase NEIL3 can unhook endogenous abasic-site interstrand crosslinks without creating strand breaks, reconciling conflicting biochemical vs cellular models of replication-coupled DNA crosslink repair.</p>
+<p><strong>Abstract:</strong> Abasic (Ap) sites arise frequently in genomic DNA and can form interstrand crosslinks (Ap-ICLs) that block DNA replication and threaten genome stability. The DNA glycosylase NEIL3 is required for replication-coupled repair of Ap-ICLs, yet its catalytic mechanism has remained unclear, as biochemical studies report lyase-dependent strand cleavage whereas cellular systems indicate incision-free unhooking. Here, we show that the catalytic outcome of NEIL3 is determined by the N-terminal processing of its NEI domain. Using biochemically and structurally defined NEI variants, we demonstrate that a native-like processed form (V2M), in which valine 2 is replaced by an initiating methionine, efficiently unhooks Ap-ICLs by releasing the crosslinked strand without generating toxic DNA strand breaks, and without {beta}- or {delta}-elimination. In contrast, an unprocessed form (M1) exhibits elevated Ap-lyase activity and generates strand breaks. Time-resolved Schiff-base trapping in the presence of a reducing agent reveals distinct high-molecular-weight intermediates during Ap-ICL unhooking. A crystal structure of NEIL3 bound to native-like substrate in form of a single-stranded DNA identifies features underlying its preference for fork-like substrates. Together, these findings reconcile previously conflicting models of NEIL3 function and define a mechanistic framework for replication-coupled repair of endogenous crosslinks, Ap-ICL, preserving fork integrity.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700286v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700286v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700286v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] cell biology - biorXiv Preprints ▶ PCRD-seq: Proximity Crosslinking-induced RNA Depletion for Low-Input Subcellular Transcriptome Profiling</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.17.700046v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.17.700046v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Chromatin-associated RNAs play critical roles in regulating chromatin organization and transcription, underscoring the importance of their study. Proximity labeling has emerged as a promising and vers</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces PCRD-seq, an enrichment-free proximity crosslinking method to profile chromatin-associated RNAs from low-input cells, enabling subnuclear transcriptome studies but with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> Chromatin-associated RNAs play critical roles in regulating chromatin organization and transcription, underscoring the importance of their study. Proximity labeling has emerged as a promising and versatile technique for profiling chromatin-associated RNAs with high spatiotemporal resolution. While being a powerful technique, traditional proximity labeling methods depend on complex, high-input enrichment protocols, which significantly limit their wide practical application. Here, we developed a straightforward, enrichment-free chromatin-associated RNA profiling strategy: Proximity Crosslinking-induced RNA Depletion sequencing (PCRD-seq). This approach leverages the proximity crosslinking between chromatin and its surrounding RNAs induced by singlet oxygen generated by HoeDBF, a photosensitizer targeting chromatin region. The proximity crosslinking hinders the release of chromatin-associated RNAs during routine TRIzol extraction, consequently leading to a specific depletion of these RNAs. This method was successfully applied to investigate the role of U1 snRNA in RNA chromatin retention and the differences in chromatin-associated transcriptomes between two ovarian cancer cell lines with opposite metastatic capability. Moreover, our PCRD-seq exhibits potential in profiling nuclear lamina-associated RNAs, which paves the way for its application to profile RNAs associated with other chromatin subdomains. The minimal cell input and simple workflow endow PCRD-seq as a transformative tool for wide applications.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700046v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.17.700046v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.17.700046v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ Antitoxin-induced auto-phosphorylation neutralizes the nucleotidyltransferase toxin AbiEii from Streptococcus agalactiae to safeguard global translation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700257v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700257v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Nucleotidyltransferases (NTases) control diverse physiological processes, including DNA replication and repair, antibiotic resistance, and RNA modification. The Streptococcus agalactiae abortive infec</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> This study elucidates a reversible antitoxin-triggered auto-phosphorylation mechanism that inactivates the AbiEii nucleotidyltransferase toxin in Streptococcus agalactiae, reclassifying AbiE as a Type VII toxin–antitoxin system with implications for understanding regulatory control of DNA/RNA-associated enzymes.</p>
+<p><strong>Abstract:</strong> Nucleotidyltransferases (NTases) control diverse physiological processes, including DNA replication and repair, antibiotic resistance, and RNA modification. The Streptococcus agalactiae abortive infection family toxin, AbiEii, belongs to the DUF1814 superfamily of NTases and blocks bacterial growth through an as yet unknown mechanism. Antitoxin AbiEi has been reported to antagonize AbiEii as part of a Type IV toxin-antitoxin system. Here, we demonstrate through structural, biochemical, and biophysical studies that AbiEi binds to AbiEii to form a stable toxin-antitoxin complex in solution. Antitoxin binding ultimately leads to AbiEii auto-phosphorylation and an abolition of NTase activity. These data reclassify AbiE systems as Type VII toxin-antitoxin systems. Toxin phosphorylation appears to be a dynamic and reversible process, and we show that the sole serine/threonine phosphatase SaSTP of S. agalactiae can efficiently dephosphorylate AbiEii in vitro. Mutagenesis studies and functional assays indicate that a widespread mechanism of toxin auto-phosphorylation accounts for AbiEii neutralization, further supporting recent hypotheses outlining control of homologous MenAT toxin-antitoxin systems from Mycobacterium tuberculosis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700257v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700257v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700257v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioinformatics - biorXiv Preprints ▶ Benchmarking Next-Generation Sequencing Platforms: A Comprehensive Comparison Of Single-Cell RNA-Seq from Ultima UG 100 vs. Illumina NovaSeq X Plus</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699571v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699571v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Single-cell RNA sequencing (scRNA-seq) has become an essential technology for dissecting cellular heterogeneity in complex biological systems, with Illumina platforms serving as the dominant NGS provi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Head-to-head benchmarking of Ultima UG 100 vs Illumina NovaSeq X Plus for human single-cell RNA-seq shows largely concordant cell-type calling and gene expression, but it has minimal direct relevance to origins-of-life research beyond general RNA-focused methodology.</p>
+<p><strong>Abstract:</strong> Single-cell RNA sequencing (scRNA-seq) has become an essential technology for dissecting cellular heterogeneity in complex biological systems, with Illumina platforms serving as the dominant NGS provider. The recent emergence of the Ultima Genomics UG 100 platform offers a high-throughput and potentially more cost-effective alternative, warranting a rigorous comparative analysis. Here, we conducted a comprehensive head-to-head comparison of the Ultima Genomics UG 100 and Illumina NovaSeq X Plus platforms, generating deep-coverage scRNA-seq data from human PBMCs and stimulated T-cell samples. Our multi-level analysis revealed highly concordant performance in both cell type identification and gene expression. We found that both platforms robustly captured all major immune lineages and demonstrated good transcriptional agreement. Minor observed discrepancies were primarily correlated with low UMI counts, suggesting stochastic biological effects rather than technical variance. Overall, our study establishes that the Ultima UG 100 delivers performance highly comparable to the Illumina NovaSeq X Plus for single-cell transcriptomics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699571v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699571v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699571v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] Nature Communications ▶ Interfacial water regulation on Ru single atoms doped Co 3 O 4 toward efficient electrochemical hydrogenation of quinoxaline</title>
+    <link href="https://www.nature.com/articles/s41467-026-68740-6"/>
+    <id>https://www.nature.com/articles/s41467-026-68740-6</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68740-6 Electrochemical hydrogenation of quinoxaline is a promising alternative to traditional methods but is limited b</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water</p>
+<p><strong>AI Decision:</strong> Reports a Ru single-atom doped Co3O4 electrocatalyst that tunes interfacial water to improve electrochemical hydrogenation performance, with only tangential relevance to origins-of-life via mineral–water interface chemistry.</p>
+<p><strong>Abstract:</strong> Nature Communications, Published online: 21 January 2026; doi:10.1038/s41467-026-68740-6 Electrochemical hydrogenation of quinoxaline is a promising alternative to traditional methods but is limited by low current density and Faradaic efficiency. Here, the authors report a Ru single atoms doped Co3O4 nanosheet catalyst that regulates interfacial water to achieve excellent performance.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68740-6">https://www.nature.com/articles/s41467-026-68740-6</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68740-6">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ SARS-CoV-2 membrane protein biogenesis</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700281v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700281v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Viral protein biogenesis underpins every viral life cycle stage, and elucidating these processes could reveal fundamental principles of virus host interaction, and vulnerabilities amenable to therapeu</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Preprint dissects how the SARS‑CoV‑2 membrane (M) protein is targeted to and inserted into the ER membrane and then folds/oligomerizes co‑translationally, identifying key hydrophobic residues and host machinery involved.</p>
+<p><strong>Abstract:</strong> Viral protein biogenesis underpins every viral life cycle stage, and elucidating these processes could reveal fundamental principles of virus host interaction, and vulnerabilities amenable to therapeutic targeting. Here we apply biophysical, molecular, and cell biology techniques to investigate the insertion, folding, and oligomerization of the SARS CoV 2 M protein. We describe the sequential cotranslational insertion of the hydrophobic core, and demonstrate that the cytosolic C terminal domain undergoes slower adoption of its tertiary structure. Additionally, we characterize how the transmembrane domain bundle facilitates M protein oligomerization. Our results reveal a hydrophobic residue cluster that is essential for protein folding and co-translational dimerization. Additionally, we identify the cellular machinery responsible for targeting and inserting the M protein into the ER membrane, and chaperones and cofactors that may contribute to proper folding.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700281v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700281v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700281v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ Neuronal late endosomes serve as selective RNA hubs disrupted by ALS-linked FUS mutation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700337v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700337v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Neurons depend on tightly regulated positioning of cellular components to maintain long-distance signaling, but the mechanisms guiding specific mRNAs to distant regions remain unclear. Here we show th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study shows that neuronal late endosomes selectively recruit specific mRNAs via conserved 5′UTR localization signals and GEMIN5, and that ALS-linked FUS mutation disrupts this endosomal RNA hub, offering limited indirect relevance to origins-of-life questions through principles of RNA compartmentalization.</p>
+<p><strong>Abstract:</strong> Neurons depend on tightly regulated positioning of cellular components to maintain long-distance signaling, but the mechanisms guiding specific mRNAs to distant regions remain unclear. Here we show that late endosomes function as selective RNA carriers in human motor neurons and uncover the molecular logic guiding their loading. Using APEX2-mediated proximity labeling, we identify the external transcriptome of RAB7A-positive endosomes and find a specific population of mRNAs enriched for endosomal, axonal and synaptic functions. We find that mRNAs enriched in RAB7A endosomes contain evolutionarily conserved 5&#x27;UTRs which act as localization signals, and that the RNA-binding protein GEMIN5 interacts with these regions to promote endosomal RNA recruitment. Finally, we show that in ALS-associated conditions there is a conspicuous loss of endosome-associated transcripts and the mislocalization of GEMIN5 from endosomes. These findings uncover fundamental principles of RNA compartmentalization and highlight endosomal mRNA loading as a vulnerable axis in neuronal homeostasis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700337v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700337v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700337v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] cell biology - biorXiv Preprints ▶ Programmed Double-stranded RNA Formation Enables Meiotic Stage Transitions</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1?rss=1</id>
+    <updated>2026-01-20T00:00:00Z</updated>
+    <summary>Cell fate transitions rely on extensive transcriptional activation mediated by transcription factors, yet the equally important processes that ensure the selective removal of pre-existing mRNAs remain</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study identifies a programmed meiosis-specific pathway in yeast where natural antisense transcripts generate dsRNA aggregates that are cleared (likely via autophagy) to remove prior-stage mRNAs and enable meiotic progression, offering only indirect relevance to origins-of-life questions via modern RNA regulation mechanisms.</p>
+<p><strong>Abstract:</strong> Cell fate transitions rely on extensive transcriptional activation mediated by transcription factors, yet the equally important processes that ensure the selective removal of pre-existing mRNAs remain elusive. We uncover widespread formation of double-stranded RNA (dsRNA) during early-to-middle meiosis using quantitative RNA structure analysis, and validate hundreds of natural antisense transcripts (NATs) through long-read sequencing. These NATs are induced by meiosis-specific transcription factors, including Ndt80p, and pair with sense mRNAs to drive cytoplasmic aggregation of the resulting dsRNAs. These dsRNA aggregates are subsequently transported to the vacuole for clearance, likely via autophagy. This pathway selectively eliminates mRNAs before metaphase I, including NDJ1, which encodes a meiotic cohesion protein that would otherwise block chromosome segregation. Our study reveals a physiological role for large-scale dsRNA formation, and highlights a simple but powerful model: the same transcription factors that activate mRNAs required for a specific developmental stage also program the synthesis of NATs that promote removal of transcripts from the preceding stage, thereby driving bidirectional transcriptome reprogramming.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] New Scientist - Physics & Math ▶ Cross-training may be the key to a long life</title>
+    <link href="https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-20T23:30:43Z</updated>
+    <summary>People who combine different types of exercise - such as running, cycling and swimming - seem to live longer than those with less varied workouts</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> An epidemiological study suggesting that combining multiple exercise modalities is associated with longer human lifespan, with no clear connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><strong>Abstract:</strong> People who combine different types of exercise - such as running, cycling and swimming - seem to live longer than those with less varied workouts</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1136/bmjmed-2025-001513">https://doi.org/10.1136/bmjmed-2025-001513</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] New Scientist - Life ▶ Cross-training may be the key to a long life</title>
+    <link href="https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-20T23:30:43Z</updated>
+    <summary>People who combine different types of exercise - such as running, cycling and swimming - seem to live longer than those with less varied workouts</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> A human health epidemiology study suggesting varied exercise routines correlate with longer lifespan, with no substantive connection to origins-of-life or astrobiology research.</p>
+<p><strong>Abstract:</strong> People who combine different types of exercise - such as running, cycling and swimming - seem to live longer than those with less varied workouts</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1136/bmjmed-2025-001513">https://doi.org/10.1136/bmjmed-2025-001513</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] New Scientist - Current Issue Articles ▶ Cross-training may be the key to a long life</title>
+    <link href="https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-20T23:30:43Z</updated>
+    <summary>People who combine different types of exercise - such as running, cycling and swimming - seem to live longer than those with less varied workouts</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> A human health epidemiology study suggesting varied exercise routines are associated with increased longevity, with no substantive connection to origins-of-life or astrobiology beyond the generic term &quot;life.&quot;</p>
+<p><strong>Abstract:</strong> People who combine different types of exercise - such as running, cycling and swimming - seem to live longer than those with less varied workouts</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1136/bmjmed-2025-001513">https://doi.org/10.1136/bmjmed-2025-001513</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] Scientific Reports ▶ Mechanical properties of thermoformed and direct-printed aligner materials after immersion in 37 °C water: a 14-day in vitro study</title>
     <link href="https://www.nature.com/articles/s41598-026-36723-8"/>
@@ -5353,18 +5534,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://phys.org/news/2026-01-ignites-space-ball-flame.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [15] Sciences et Avenir ▶ L&#x27;année 2025, encore l&#x27;une des plus chaudes jamais mesurées... et 2026 ?</title>
-    <link href="https://www.sciencesetavenir.fr/nature-environnement/climat/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15"/>
-    <id>https://www.sciencesetavenir.fr/nature-environnement/climat/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15</id>
-    <updated>2026-01-14T03:02:09Z</updated>
-    <summary>L&#x27;année 2025 a été la troisième année la plus chaude jamais enregistrée dans le monde, ont annoncé le 14 janvier l&#x27;observatoire européen Copernicus et l&#x27;institut américain Berkeley Earth, pour qui 202</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> Reports that 2025 was the third warmest year on record globally (per Copernicus and Berkeley Earth) and projects 2026 will remain historically warm, offering only indirect context for planetary habitability rather than Origins-of-Life research.</p>
-<p><strong>Abstract:</strong> L&#x27;année 2025 a été la troisième année la plus chaude jamais enregistrée dans le monde, ont annoncé le 14 janvier l&#x27;observatoire européen Copernicus et l&#x27;institut américain Berkeley Earth, pour qui 2026 devrait rester à des niveaux historiquement hauts.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencesetavenir.fr/nature-environnement/climat/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [35] astro-ph.EP updates on arXiv.org ▶ A planet-host ratio relation to synthesize microlensing and transiting exoplanet demography from Roman</title>
     <link href="https://arxiv.org/abs/2506.24004"/>
     <id>https://arxiv.org/abs/2506.24004</id>
@@ -5785,18 +5954,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://arxiv.org/abs/2508.14652">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [45] Scientific American ▶ 2025 Wasn’t the Hottest Year on Record. Earth Is Still Barreling to the Climate Brink</title>
-    <link href="https://www.scientificamerican.com/article/2025-wasnt-the-hottest-year-on-record-earth-is-still-barreling-to-the/"/>
-    <id>https://www.scientificamerican.com/article/2025-wasnt-the-hottest-year-on-record-earth-is-still-barreling-to-the/</id>
-    <updated>2026-01-14T03:00:00Z</updated>
-    <summary>Global warming surpassed 1.5 degrees Celsius for the past three years, meaning Earth is currently on track to breach the Paris climate agreement by the end of the decade</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> A climate-focused report noting recent years have exceeded 1.5°C warming and warning of imminent Paris Agreement breach, providing only broad Earth habitability context rather than direct origins-of-life or prebiotic chemistry relevance.</p>
-<p><strong>Abstract:</strong> Global warming surpassed 1.5 degrees Celsius for the past three years, meaning Earth is currently on track to breach the Paris climate agreement by the end of the decade</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.scientificamerican.com/article/2025-wasnt-the-hottest-year-on-record-earth-is-still-barreling-to-the/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] q-bio.PE updates on arXiv.org ▶ Tara Polaris expeditions: Sustained decadal observations of the coupled Arctic system in rapid transition</title>
     <link href="https://arxiv.org/abs/2601.08370"/>
     <id>https://arxiv.org/abs/2601.08370</id>
@@ -5809,17 +5966,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://arxiv.org/abs/2601.08370">https://arxiv.org/abs/2601.08370</a></li>
 </ul>
 <p><a href="https://arxiv.org/abs/2601.08370">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Sciences et Avenir ▶ L&#x27;année 2025, encore l&#x27;une des plus chaudes jamais mesurées... et 2026?</title>
-    <link href="https://www.sciencesetavenir.fr/nature-environnement/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15"/>
-    <id>https://www.sciencesetavenir.fr/nature-environnement/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15</id>
-    <updated>2026-01-14T03:02:09Z</updated>
-    <summary>L&#x27;année 2025 a été la troisième année la plus chaude jamais enregistrée dans le monde, ont annoncé mercredi l&#x27;observatoire européen Copernicus et l&#x27;institut américain Berkeley Earth, pour qui 2026 dev</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> News-style report summarizing record global temperatures in 2025 and projecting continued historically high warming into 2026, with no direct relevance to origins-of-life mechanisms or prebiotic chemistry.</p>
-<p><strong>Abstract:</strong> L&#x27;année 2025 a été la troisième année la plus chaude jamais enregistrée dans le monde, ont annoncé mercredi l&#x27;observatoire européen Copernicus et l&#x27;institut américain Berkeley Earth, pour qui 2026 devrait rester à des niveaux historiquement hauts. Le thermomètre mondial persiste depuis trois ans à des niveaux jamais vus à l&#x27;échelle de l&#x27;humanité, avec une moyenne sur la période supérieure de 1,5°C au niveau préindustriel (1850-1900), note Copernicus dans son bilan annuel. &quot;La hausse brutale enregistrée entre 2023 et 2025 a été extrême et suggère une accélération du rythme du réchauffement climatique&quot;, estiment séparément les scientifiques de Berkeley Earth, aux Etats-Unis.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.sciencesetavenir.fr/nature-environnement/l-annee-2025-encore-l-une-des-plus-chaudes-jamais-mesurees-et-2026_190393?xtor=RSS-15">Read source article</a></p>]]></content>
   </entry>
 </feed>

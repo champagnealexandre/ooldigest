@@ -1,5 +1,38 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Cross-training may be the key to a long life](https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [Cross-training may be the key to a long life](https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 0 | [Cross-training may be the key to a long life](https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 30 | [Programmed Double-stranded RNA Formation Enables Meiotic Sta](https://www.biorxiv.org/content/10.64898/2026.01.20.700650v1?rss=1) |
+| ai_scored | 25 | [Neuronal late endosomes serve as selective RNA hubs disrupte](https://www.biorxiv.org/content/10.64898/2026.01.19.700337v1?rss=1) |
+| ai_scored | 25 | [SARS-CoV-2 membrane protein biogenesis](https://www.biorxiv.org/content/10.64898/2026.01.19.700281v1?rss=1) |
+| ai_scored | 30 | [Interfacial water regulation on Ru single atoms doped Co<sub](https://www.nature.com/articles/s41467-026-68740-6) |
+| ai_scored | 20 | [Benchmarking Next-Generation Sequencing Platforms: A Compreh](https://www.biorxiv.org/content/10.64898/2026.01.16.699571v1?rss=1) |
+| ai_scored | 30 | [Antitoxin-induced auto-phosphorylation neutralizes the nucle](https://www.biorxiv.org/content/10.64898/2026.01.19.700257v1?rss=1) |
+| ai_scored | 25 | [PCRD-seq: Proximity Crosslinking-induced RNA Depletion for L](https://www.biorxiv.org/content/10.64898/2026.01.17.700046v1?rss=1) |
+| ai_scored | 35 | [Catalytic and Structural Insights into Neil3-Dependent Unhoo](https://www.biorxiv.org/content/10.64898/2026.01.19.700286v1?rss=1) |
+| ai_scored | 45 | [Dynamic signature of activity-stability tradeoff in lactamas](https://www.nature.com/articles/s41467-026-68620-z) |
+| ai_scored | 50 | [Dynamic signature of activity-stability tradeoff in lactamas](https://www.nature.com/articles/s41467-026-68620-z) |
+| keyword_rejected | - | [Bubble feeding trick spreads through humpback whale social g](https://www.newscientist.com/article/2512344-bubble-feeding-trick-spreads-through-humpback-whale-social-groups/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bubble feeding trick spreads through humpback whale social g](https://www.newscientist.com/article/2512344-bubble-feeding-trick-spreads-through-humpback-whale-social-groups/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bubble feeding trick spreads through humpback whale social g](https://www.newscientist.com/article/2512344-bubble-feeding-trick-spreads-through-humpback-whale-social-groups/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Preventing premature deaths through polygenic risk scores](https://www.nature.com/articles/s41467-025-68129-x) |
+| keyword_rejected | - | [Community benchmarking and evaluation of human unannotated m](https://www.nature.com/articles/s41467-025-68002-x) |
+| keyword_rejected | - | [Comparative genomics of colistin-nonsusceptible multidrug-re](https://www.nature.com/articles/s41598-026-35520-7) |
+| keyword_rejected | - | [An online interpretable machine learning model for predictin](https://www.nature.com/articles/s41598-026-36923-2) |
+| keyword_rejected | - | [The significance of immunogenic cell death related prognosti](https://www.nature.com/articles/s41598-025-33862-2) |
+| keyword_rejected | - | [Low intensity vibration with zoledronate reduces musculoskel](https://www.nature.com/articles/s41467-026-68522-0) |
+| keyword_rejected | - | [Community benchmarking and evaluation of human unannotated m](https://www.nature.com/articles/s41467-025-68002-x) |
+| keyword_rejected | - | [Preventing premature deaths through polygenic risk scores](https://www.nature.com/articles/s41467-025-68129-x) |
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120224014&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Medea: An omics AI agent for therapeutic discovery](https://www.biorxiv.org/content/10.64898/2026.01.16.696667v1?rss=1) |
+| keyword_rejected | - | [CellFluxV2: An Image Generative Foundation Model for Virtual](https://www.biorxiv.org/content/10.64898/2026.01.19.696785v1?rss=1) |
+| keyword_rejected | - | [Identification of a key residue in the cellular transcriptio](https://www.biorxiv.org/content/10.64898/2026.01.19.700445v1?rss=1) |
+| keyword_rejected | - | [Multiscale chromatin modeling of chromosome X structural cha](https://www.biorxiv.org/content/10.64898/2026.01.20.700676v1?rss=1) |
+| keyword_rejected | - | [Chemical control of CSA geometry enables relaxation-optimize](https://www.biorxiv.org/content/10.64898/2026.01.19.700399v1?rss=1) |
+| keyword_rejected | - | [Scalable Generation of Universal hiPSC-Derived Vascular Prog](https://www.biorxiv.org/content/10.64898/2026.01.16.699995v1?rss=1) |
+| keyword_rejected | - | [Genomic repeatability and predictability of local (mal)adapt](https://www.biorxiv.org/content/10.64898/2026.01.17.700041v1?rss=1) |
+| keyword_rejected | - | [Sex without crossovers mimics clonal reproduction in the hol](https://www.biorxiv.org/content/10.64898/2026.01.17.700054v1?rss=1) |
 | ai_scored | 35 | [Two components of the early ASH1 mRNA transport machinery un](https://www.biorxiv.org/content/10.64898/2026.01.20.700544v1?rss=1) |
 | ai_scored | 30 | [Establishing the molecular basis for MDA5 mutation-linked au](https://www.biorxiv.org/content/10.64898/2026.01.20.700587v1?rss=1) |
 | ai_scored | 0 | [Krylov Complexity of Purification](http://link.aps.org/doi/10.1103/qgcx-wxpd) |
