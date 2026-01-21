@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260120234025&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [PMA, IA et autres questions sensibles: lancement des Etats g](https://www.sciencesetavenir.fr/sciences/pma-ia-et-autres-questions-sensibles-lancement-des-etats-generaux-de-la-bioethique_190501?xtor=RSS-18) |
+| keyword_rejected | - | [Efficient coordination of hybrid energy system (fuel cell/ph](https://www.nature.com/articles/s41598-025-27685-4) |
 | ai_scored | 5 | [Cross-training may be the key to a long life](https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 5 | [Cross-training may be the key to a long life](https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 0 | [Cross-training may be the key to a long life](https://www.newscientist.com/article/2512447-cross-training-may-be-the-key-to-a-long-life/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
