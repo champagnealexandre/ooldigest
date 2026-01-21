@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [dna-parser: a Python library written in Rust for fast encodi](https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1) |
+| keyword_rejected | - | [Enzyme as Maxwell’s Demon: Steady-State Deviation from Chemi](http://link.aps.org/doi/10.1103/flv6-zw1v) |
+| keyword_rejected | - | [Transfer of Active Motion from Medium to Probe via the Induc](http://link.aps.org/doi/10.1103/bwk3-3nmn) |
+| keyword_rejected | - | [Decoupling Structure and Elasticity in Colloidal Gels Under ](http://link.aps.org/doi/10.1103/kjks-x7n9) |
+| keyword_rejected | - | [Mesoscopic Rough Electrical Double Layers](http://link.aps.org/doi/10.1103/bwdx-3yf3) |
+| keyword_rejected | - | [Exploring the Landscape of Nonequilibrium Memories with Neur](http://link.aps.org/doi/10.1103/2f97-49t1) |
+| keyword_rejected | - | [${\mathrm{FeTa}X}_{2}$: A Ferrimagnetic Quantum Anomalous Ha](http://link.aps.org/doi/10.1103/5k34-4zyh) |
+| keyword_rejected | - | [Impurity Screening by Defects in $(1+1)d$ Quantum Critical S](http://link.aps.org/doi/10.1103/3wz3-ttlq) |
+| keyword_rejected | - | [Acoustoelectric Probing of Fractal Energy Spectra in Graphen](http://link.aps.org/doi/10.1103/8z5p-1ggk) |
+| keyword_rejected | - | [Single-Fluid Model for Rotating Annular Supersolids and Its ](http://link.aps.org/doi/10.1103/8n5y-fyh7) |
+| keyword_rejected | - | [Two-Polariton Blockade via Ultrastrong Light-Matter Coupling](http://link.aps.org/doi/10.1103/nfz3-txyt) |
+| keyword_rejected | - | [Machine-Learned Renormalization-Group-Improved Gauge Actions](http://link.aps.org/doi/10.1103/k41k-2pnc) |
+| keyword_rejected | - | [Probabilistic Construction of Noncompactified Imaginary Liou](http://link.aps.org/doi/10.1103/d723-gk4m) |
+| keyword_rejected | - | [Cosmological Magnetic Fields from Ultralight Dark Matter](http://link.aps.org/doi/10.1103/ys32-853g) |
+| keyword_rejected | - | [Massive cloud with metallic winds discovered orbiting myster](https://phys.org/news/2026-01-massive-cloud-metallic-orbiting-mystery.html) |
+| keyword_rejected | - | [SigFormer: an Attention-Based Framework for Robust Single-Sa](https://www.biorxiv.org/content/10.64898/2026.01.20.700228v1?rss=1) |
+| keyword_rejected | - | [RAGulate: Retrieval-Augmented Generation for Post-hoc Litera](https://www.biorxiv.org/content/10.64898/2026.01.20.700704v1?rss=1) |
 | ai_scored | 18 | [A proteomic signature of oocyte quality from models of varyi](https://www.biorxiv.org/content/10.64898/2026.01.20.700687v1?rss=1) |
 | ai_scored | 60 | [Mystery Prototaxites tower fossils may represent a newly dis](https://www.scientificamerican.com/article/mystery-prototaxites-tower-fossils-may-represent-a-newly-discovered-kind-of/) |
 | keyword_rejected | - | [‘Bat accelerator’ unlocks new clues to how these animals nav](https://www.scientificamerican.com/article/bat-accelerator-unlocks-new-clues-to-how-these-animals-navigate/) |

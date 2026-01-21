@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T21:25:11.788836+00:00</updated>
+  <updated>2026-01-21T22:21:15.224285+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [25] bioinformatics - biorXiv Preprints ▶ dna-parser: a Python library written in Rust for fast encoding of DNA and RNA sequences</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Background: The ever-growing amount of available biological data leads modern analysis to be performed on large datasets. Unfortunately, bioinformatics tools for preprocessing and analyzing data are n</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, RNA</p>
+<p><strong>AI Decision:</strong> Introduces a Rust-backed Python library for fast, parallel encoding of DNA/RNA sequences into numerical features for machine-learning pipelines, offering improved bioinformatics preprocessing performance but limited direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Background: The ever-growing amount of available biological data leads modern analysis to be performed on large datasets. Unfortunately, bioinformatics tools for preprocessing and analyzing data are not always designed to treat such large amounts of data efficiently. Notably, this is the case when encoding DNA and RNA sequences into numerical representations, also called descriptors, before passing them to machine learning models. Furthermore, current Python tools available for this preprocessing step are not well suited to be integrated into pipelines resulting in slow encoding speeds. Results: We introduce dna-parser, a Python library written in Rust to encode DNA and RNA sequences into numerical features. The combination of Rust and Python allows to encode sequences rapidly and in parallel across multiple threads while maintaining compatibility with packages from the Python ecosystem. Moreover, this library implements many of the most widely used types of numerical feature schemes coming from bioinformatics and natural language processing. Conclusion: dna-parser is an easy to install Python library that offers many Python wheels for Linux (muslinux and manylinux), macOS, and Windows via pip (https://pypi.org/project/dna- parser/). The open source code is available on GitHub (https://github.com/Mvila035/dna_parser) along with the documentation (https://mvila035.github.io/dna_parser/documentation/).</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟡 [60] Scientific American ▶ Mystery Prototaxites tower fossils may represent a newly discovered kind of life</title>
     <link href="https://www.scientificamerican.com/article/mystery-prototaxites-tower-fossils-may-represent-a-newly-discovered-kind-of/"/>
@@ -7270,17 +7284,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss</a></li>
 </ul>
 <p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-c0vkf?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [5] Scientific American ▶ Astronauts Evacuate the ISS after Medical Incident</title>
-    <link href="https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/"/>
-    <id>https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/</id>
-    <updated>2026-01-14T22:15:00Z</updated>
-    <summary>The four members of Crew-11 are on their way back to Earth after one of them became unwell with an unknown condition</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth</p>
-<p><strong>AI Decision:</strong> News report on an ISS medical incident and evacuation with no clear connection to origins-of-life research, aside from a generic mention of returning to Earth.</p>
-<p><strong>Abstract:</strong> The four members of Crew-11 are on their way back to Earth after one of them became unwell with an unknown condition</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/">Read source article</a></p>]]></content>
   </entry>
 </feed>
