@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [The rich stopped buying yachts the year time went on sale](https://www.nature.com/articles/d41586-025-03605-4) |
+| keyword_rejected | - | [Iso-orientation bias of layer 2/3 connections unifies sponta](https://www.nature.com/articles/s41467-026-68578-y) |
+| keyword_rejected | - | [SAMSN1 restrains NK cell mediated anti-tumor immunity in hep](https://www.nature.com/articles/s41467-026-68661-4) |
+| keyword_rejected | - | [Ω-Loop mutations control dynamics of the active site by modu](https://elifesciences.org/articles/107688) |
 | ai_scored | 80 | [Enceladus plumes may hold a clear clue to ocean habitability](https://phys.org/news/2026-01-enceladus-plumes-clue-ocean-habitability.html) |
 | ai_scored | 45 | [Octopuses prompt rethink of why animals evolve big brains](https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 30 | [Octopuses prompt rethink of why animals evolve big brains](https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
