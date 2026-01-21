@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260121032653&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Solar flares triggered by cascading magnetic avalanches, new](https://phys.org/news/2026-01-solar-flares-triggered-cascading-magnetic.html) |
+| keyword_rejected | - | [Bridging the performance gap: systematic optimization of loc](https://www.nature.com/articles/s41598-026-36904-5) |
+| keyword_rejected | - | [Accurate modelling of intrabeam scattering and its impact on](https://www.nature.com/articles/s41598-026-36558-3) |
+| keyword_rejected | - | [Application of group A streptococcal collagen-like protein 1](https://www.nature.com/articles/s41598-026-36657-1) |
+| keyword_rejected | - | [A machine learning approach for predicting osmotic coefficie](https://www.nature.com/articles/s41598-026-36758-x) |
+| keyword_rejected | - | [Prophage-encoded RexAB-type phage defense system in <i>Pseud](https://www.nature.com/articles/s41598-026-36734-5) |
 | ai_scored | 65 | [An Alternative DNA Endonuclease Activity is Associated with ](https://www.biorxiv.org/content/10.64898/2026.01.20.700639v1?rss=1) |
 | ai_scored | 30 | [Gain and loss of gut symbionts during stingless bee diversif](https://www.biorxiv.org/content/10.64898/2026.01.16.699994v1?rss=1) |
 | keyword_rejected | - | [Japon: la plus grande centrale nucléaire du monde doit redém](https://www.sciencesetavenir.fr/nature-environnement/japon-la-plus-grande-centrale-nucleaire-du-monde-doit-redemarrer-mercredi_190502?xtor=RSS-15) |
