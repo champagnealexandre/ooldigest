@@ -1,5 +1,27 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 80 | [Enceladus plumes may hold a clear clue to ocean habitability](https://phys.org/news/2026-01-enceladus-plumes-clue-ocean-habitability.html) |
+| ai_scored | 45 | [Octopuses prompt rethink of why animals evolve big brains](https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 30 | [Octopuses prompt rethink of why animals evolve big brains](https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 20 | [Linkage disequilibrium scaling improves robustness and power](https://www.biorxiv.org/content/10.64898/2026.01.19.700334v1?rss=1) |
+| ai_scored | 45 | [Octopuses prompt rethink of why animals evolve big brains](https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 15 | [FMRP controls diacylglycerol-dependent neuronal activity by ](https://www.biorxiv.org/content/10.64898/2026.01.20.700356v1?rss=1) |
+| ai_scored | 20 | [DNA methylation and lncRNA control asynchronous DNA replicat](https://www.nature.com/articles/s41467-026-68558-2) |
+| ai_scored | 30 | [The causes and consequences of human-specific DNA methylatio](https://www.biorxiv.org/content/10.64898/2026.01.20.700710v1?rss=1) |
+| ai_scored | 70 | [Noncanonical genetic markers resolve the pre-GOE emergence o](https://www.pnas.org/doi/abs/10.1073/pnas.2515709123?af=R) |
+| ai_scored | 0 | [Avec Spectrum, l'allemand Isar veut mettre sur orbite la sou](https://www.sciencesetavenir.fr/sciences/avec-spectrum-l-allemand-isar-veut-mettre-sur-orbite-la-souverainete-spatiale-europeenne_190508?xtor=RSS-18) |
+| keyword_rejected | - | [Lactalis lance un vaste rappel international de lait infanti](https://www.sciencesetavenir.fr/sante/lactalis-lance-un-vaste-rappel-international-de-lait-infantile_190509?xtor=RSS-16) |
+| keyword_rejected | - | ["2025 a été l’année de la concrétisation des premières attaq](https://www.sciencesetavenir.fr/high-tech/informatique/cybermenace-2025-a-ete-l-annee-de-la-concretisation-des-premieres-attaques-par-l-ia_190505?xtor=RSS-12) |
+| keyword_rejected | - | [Watch three solar prominences erupt in epic video](https://www.scientificamerican.com/article/watch-three-solar-prominences-erupt-in-epic-video/) |
+| keyword_rejected | - | [Daily briefing: The first documented case of tool use in cat](https://www.nature.com/articles/d41586-026-00217-4) |
+| keyword_rejected | - | [Seven technologies to watch in 2026](https://www.nature.com/articles/d41586-026-00188-6) |
+| keyword_rejected | - | [AI and nuclear energy feature strongly in agenda-setting tec](https://www.nature.com/articles/d41586-026-00185-9) |
+| keyword_rejected | - | [Oldest astronaut Buzz Aldrin turns 96 as new moon astronauts](https://phys.org/news/2026-01-oldest-astronaut-aldrin-moon-astronauts.html) |
+| keyword_rejected | - | [Spatiotemporal regulation of energetic charge dictates T cel](https://www.nature.com/articles/s41467-026-68559-1) |
+| keyword_rejected | - | [Human action shapes the beaks of backyard birds](https://www.pnas.org/doi/abs/10.1073/pnas.2535458123?af=R) |
+| keyword_rejected | - | [In situ self-assembled cell reservoir hydrogel for maneuveri](https://www.nature.com/articles/s41467-026-68490-5) |
+| keyword_rejected | - | [Serine inhibits granulosa cell ferroptosis to maintain ovari](https://www.nature.com/articles/s41467-026-68440-1) |
+| keyword_rejected | - | [Anti-resonance in developmental signaling regulates cell fat](https://elifesciences.org/articles/107794) |
 | ai_scored | 25 | [Double exponential neuron evolution versus merely exponentia](https://www.sciencedirect.com/science/article/pii/S0303264726000195?dgcid=rss_sd_all) |
 | ai_scored | 35 | [A dual context-aware basecaller for nanopore direct RNA sequ](https://www.nature.com/articles/s41467-026-68566-2) |
 | ai_scored | 90 | [From the origin of life to a biosphere: Formation of artific](https://www.sciencedirect.com/science/article/pii/S0303264726000213?dgcid=rss_sd_all) |

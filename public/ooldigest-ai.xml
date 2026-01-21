@@ -3,8 +3,161 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T11:21:04.176381+00:00</updated>
+  <updated>2026-01-21T12:41:12.440161+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] Sciences et Avenir ▶ Avec Spectrum, l&#x27;allemand Isar veut mettre sur orbite la souveraineté spatiale européenne</title>
+    <link href="https://www.sciencesetavenir.fr/sciences/avec-spectrum-l-allemand-isar-veut-mettre-sur-orbite-la-souverainete-spatiale-europeenne_190508?xtor=RSS-18"/>
+    <id>https://www.sciencesetavenir.fr/sciences/avec-spectrum-l-allemand-isar-veut-mettre-sur-orbite-la-souverainete-spatiale-europeenne_190508?xtor=RSS-18</id>
+    <updated>2026-01-21T11:38:18Z</updated>
+    <summary>L&#x27;allemand Isar Aerospace, pionnier européen des lancements orbitaux, teste mercredi sa fusée Spectrum, avec l&#x27;ambition de promouvoir la souveraineté spatiale européenne, un sujet prioritaire au regar</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars</p>
+<p><strong>AI Decision:</strong> Article about Isar Aerospace’s Spectrum orbital launch test and European space sovereignty, with no direct relevance to origins-of-life, prebiotic chemistry, or astrobiological biosignature research.</p>
+<p><strong>Abstract:</strong> L&#x27;allemand Isar Aerospace, pionnier européen des lancements orbitaux, teste mercredi sa fusée Spectrum, avec l&#x27;ambition de promouvoir la souveraineté spatiale européenne, un sujet prioritaire au regard des tensions avec les Etats-Unis et la Russie. Sauf panne technique ou mauvaise météo, la fusée de 28 mètres, chargée pour la première fois de six satellites, décollera à 20H00 GMT depuis la base spatiale d&#x27;Andoya, en Norvège, au-delà du cercle polaire arctique. Ce décollage sera le second, après un essai en mars qui a vu Spectrum voler pendant 30 secondes avant de retomber et d&#x27;exploser.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://www.sciencesetavenir.fr/sciences/avec-spectrum-l-allemand-isar-veut-mettre-sur-orbite-la-souverainete-spatiale-europeenne_190508?xtor=RSS-18">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] PNAS Evolution ▶ Noncanonical genetic markers resolve the pre-GOE emergence of aerobic bacteria in Earth’s history</title>
+    <link href="https://www.pnas.org/doi/abs/10.1073/pnas.2515709123?af=R"/>
+    <id>https://www.pnas.org/doi/abs/10.1073/pnas.2515709123?af=R</id>
+    <updated>2026-01-20T08:00:00Z</updated>
+    <summary>Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. SignificanceUnderstanding when life adapted to oxygen is key to unraveling Earth’s evolutionary history. By developi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> earth, life</p>
+<p><strong>AI Decision:</strong> Using a machine-learning approach built on conserved, mostly oxygen-agnostic genes, this study argues aerobic bacteria emerged before the Great Oxidation Event, refining timelines for early Earth evolutionary adaptation to oxygen.</p>
+<p><strong>Abstract:</strong> Proceedings of the National Academy of Sciences, Volume 123, Issue 4, January 2026. SignificanceUnderstanding when life adapted to oxygen is key to unraveling Earth’s evolutionary history. By developing a machine learning model that uses 40 conserved genes, mostly unrelated to oxygen processing, we overcome limitations of traditional ...</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2515709123?af=R">https://www.pnas.org/doi/abs/10.1073/pnas.2515709123?af=R</a></li>
+</ul>
+<p><a href="https://www.pnas.org/doi/abs/10.1073/pnas.2515709123?af=R">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] bioRxiv Subject Collection: Evolutionary Biology ▶ The causes and consequences of human-specific DNA methylation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700710v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700710v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>The vast collection of human-specific traits-- such as our unique morphology, cognition, behavior, and diseases-- has long been attributed to gene expression divergence between us and our closest livi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study dissects cis- versus trans-driven human–chimp DNA methylation divergence across cell types and links some lineage-specific promoter methylation shifts to selection on pathways tied to human traits, offering evolutionary epigenetics context but minimal direct relevance to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> The vast collection of human-specific traits-- such as our unique morphology, cognition, behavior, and diseases-- has long been attributed to gene expression divergence between us and our closest living relatives, chimpanzees. Theory suggests that changes to cis-regulatory elements such as promoters and enhancers may drive evolutionary adaptation, and DNA methylation is a key factor in transcriptional cis-regulation. However, we still lack an understanding of 1) how species-specific methylation patterns arise; 2) their downstream effects; and 3) whether they are a common target of natural selection. In this study, we investigated these three questions. By combining a novel hypothesis testing framework with DNA methylation data from six human and chimpanzee cell types, as well as fused interspecies hybrid cells, we disentangled cis- vs. trans-acting methylation divergence across the genome. Across cell types, we found that methylation divergence is primarily driven in cis, which can be linked in some cases to nearby sequence variants such as CpG gains and losses. Although less common, regions with trans-acting methylation divergence were enriched for specific transcription factor (TF) binding motifs, suggesting a role of TFs such as FOXM1 in these differences. Having established these causes of methylation divergence, we then examined the functional consequences of differential methylation. Although methylation lacks a consistent relationship with transcription, we observed that associations between methylation and gene expression are stronger for genes with cis-regulatory divergence. Moreover, we identified lineage-specific selection shaping promoter methylation at the level of entire pathways including those affecting human-specific traits such as speech, cognition, and susceptibility to infection with hepatitis C. Collectively, our findings provide a mechanistic framework suggesting that DNA methylation may occupy a key position, mediating the effects of both cis- and trans-acting factors on transcriptional networks, including those contributing to human-specific traits.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700710v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700710v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700710v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] nature.com - Biological sciences ▶ DNA methylation and lncRNA control asynchronous DNA replication at specific imprinted gene domains</title>
+    <link href="https://www.nature.com/articles/s41467-026-68558-2"/>
+    <id>https://www.nature.com/articles/s41467-026-68558-2</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study dissects how DNA methylation and long noncoding RNAs regulate asynchronous DNA replication at imprinted gene domains in eukaryotic cells, a topic largely peripheral to origins-of-life research.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68558-2">https://www.nature.com/articles/s41467-026-68558-2</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68558-2">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ FMRP controls diacylglycerol-dependent neuronal activity by mediating m6A-regulated translation efficiency</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700356v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700356v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Fragile X syndrome (FXS), the most common inherited form of intellectual disability and autism, arises from loss of the RNA-binding protein FMRP. How FMRP loss disrupts neuronal proteostasis remains i</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study dissects how the RNA-binding protein FMRP boosts translation of m6A-modified, codon-biased DGKκ mRNA to regulate neuronal proteostasis in Fragile X syndrome, offering only tangential relevance to origins-of-life questions via general principles of RNA-mediated translational control.</p>
+<p><strong>Abstract:</strong> Fragile X syndrome (FXS), the most common inherited form of intellectual disability and autism, arises from loss of the RNA-binding protein FMRP. How FMRP loss disrupts neuronal proteostasis remains incompletely understood. Here we identify diacylglycerol kinase kappa (DGK{kappa}) as a principal FMRP mRNA target across the brain. FMRP deficiency markedly reduces neuronal DGK{kappa}, and selective DGK{kappa} loss recapitulates key FXS phenotypes, including hyperactivity and compulsive behaviors, aberrant dendritic spine morphology, and elevated translation. Mechanistically, FMRP binds repetitive DGK{kappa} RNA motifs enriched in N6 methyladenosine (m6A) modifications. These interactions relieve a translational blockade imposed by the encoded amino acid composition, thereby enhancing DGK{kappa} synthesis. Our findings establish DGK{kappa} as a critical mediator of FMRP function and reveal a general mechanism by which FMRP couples m6A modified, codon biased sequences to efficient translation. This work uncovers a regulatory axis linking RNA modification, codon usage, and neuronal proteostasis, illuminating new principles of translational control in neurodevelopmental disorders.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700356v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700356v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700356v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] New Scientist - Current Issue Articles ▶ Octopuses prompt rethink of why animals evolve big brains</title>
+    <link href="https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-21T10:00:29Z</updated>
+    <summary>A popular idea suggests a link between big brains and a rich social life, but octopuses don&#x27;t fit the pattern, which suggests something else is going on</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Uses octopus cognition as a counterexample to the “social brain” hypothesis, suggesting alternative evolutionary drivers for large nervous systems—relevant to broad evolutionary context for complex life but not to abiogenesis or prebiotic chemistry.</p>
+<p><strong>Abstract:</strong> A popular idea suggests a link between big brains and a rich social life, but octopuses don&#x27;t fit the pattern, which suggests something else is going on</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1159/000258669">https://doi.org/10.1159/000258669</a></li>
+<li><a href="https://doi.org/10.1080/03014460.2024.2359920">https://doi.org/10.1080/03014460.2024.2359920</a></li>
+<li><a href="https://www.biorxiv.org/content/10.1101/2024.05.01.592020v5">https://www.biorxiv.org/content/10.1101/2024.05.01.592020v5</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/03014460.2024.2359920">https://www.tandfonline.com/doi/full/10.1080/03014460.2024.2359920</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1006504">https://doi.org/10.1371/journal.pcbi.1006504</a></li>
+<li><a href="https://doi.org/10.1101/2024.05.01.592020v5">https://doi.org/10.1101/2024.05.01.592020v5</a></li>
+<li><a href="https://www.nature.com/articles/s41559-017-0336-y">https://www.nature.com/articles/s41559-017-0336-y</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Linkage disequilibrium scaling improves robustness and power to detect genomic regions under selection.</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700334v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700334v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Understanding the genetic basis of adaptive evolution is central to predicting how populations respond to environmental change. Genome scans and genotype-environment association methods are widely use</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces an LD-scaled association statistic (F&#x27;) that boosts power and robustness of genotype–environment selection scans under complex population structure, validated in simulations and stickleback adaptation datasets.</p>
+<p><strong>Abstract:</strong> Understanding the genetic basis of adaptive evolution is central to predicting how populations respond to environmental change. Genome scans and genotype-environment association methods are widely used to detect loci under selection, but because they often ignore correlations among loci (linkage disequilibrium, LD), their power decreases with increasing genetic structuring and demographic complexity. While LD contains valuable information about selection and can reduce dimensionality by summarizing signal across correlated markers, existing LD-based approaches are computationally demanding and rely on ad hoc threshold choices. Here, we introduce a novel LD-scaled association statistic, F&#x27;, which incorporates local LD directly into genotype-environment association tests using a fast permutation-based quantile transformation. Using forward-in-time simulations with known ground truth, we evaluate F&#x27; across two widely used methods-latent factor mixed models (LFMM) and EMMAX-and assess performance at the level of outlier regions rather than individual SNPs. We further integrate uncertainty in parameter choice and inference method using a consistency-based framework. Across simulations, LD-scaling and joint inference substantially increased detection power and robustness, yielding up to an order-of-magnitude improvement under strong genetic structuring and nearly doubling performance on average across scenarios. Applying this framework to three- and nine-spined stickleback datasets, we recover well-established genomic regions associated with parallel marine-freshwater adaptation with markedly reduced background noise compared to standard analyses. Together, our results demonstrate that explicitly leveraging LD structure and integrating over analytical uncertainty provides a powerful and computationally efficient extension to genome scans for selection, improving robustness and interpretability in both simulated and empirical settings.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700334v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700334v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700334v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] New Scientist - Physics & Math ▶ Octopuses prompt rethink of why animals evolve big brains</title>
+    <link href="https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-21T10:00:29Z</updated>
+    <summary>A popular idea suggests a link between big brains and a rich social life, but octopuses don&#x27;t fit the pattern, which suggests something else is going on</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This piece uses octopus neurobiology to challenge sociality-driven explanations for large brains, offering broad evolutionary context but little direct insight into abiogenesis or early-life mechanisms.</p>
+<p><strong>Abstract:</strong> A popular idea suggests a link between big brains and a rich social life, but octopuses don&#x27;t fit the pattern, which suggests something else is going on</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1159/000258669">https://doi.org/10.1159/000258669</a></li>
+<li><a href="https://doi.org/10.1080/03014460.2024.2359920">https://doi.org/10.1080/03014460.2024.2359920</a></li>
+<li><a href="https://www.biorxiv.org/content/10.1101/2024.05.01.592020v5">https://www.biorxiv.org/content/10.1101/2024.05.01.592020v5</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/03014460.2024.2359920">https://www.tandfonline.com/doi/full/10.1080/03014460.2024.2359920</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1006504">https://doi.org/10.1371/journal.pcbi.1006504</a></li>
+<li><a href="https://doi.org/10.1101/2024.05.01.592020v5">https://doi.org/10.1101/2024.05.01.592020v5</a></li>
+<li><a href="https://www.nature.com/articles/s41559-017-0336-y">https://www.nature.com/articles/s41559-017-0336-y</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] New Scientist - Life ▶ Octopuses prompt rethink of why animals evolve big brains</title>
+    <link href="https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-21T10:00:29Z</updated>
+    <summary>A popular idea suggests a link between big brains and a rich social life, but octopuses don&#x27;t fit the pattern, which suggests something else is going on</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Octopus cognition challenges social-brain hypotheses, offering broad evolutionary context for how complex nervous systems and intelligence can arise outside strongly social lineages.</p>
+<p><strong>Abstract:</strong> A popular idea suggests a link between big brains and a rich social life, but octopuses don&#x27;t fit the pattern, which suggests something else is going on</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1159/000258669">https://doi.org/10.1159/000258669</a></li>
+<li><a href="https://doi.org/10.1080/03014460.2024.2359920">https://doi.org/10.1080/03014460.2024.2359920</a></li>
+<li><a href="https://www.biorxiv.org/content/10.1101/2024.05.01.592020v5">https://www.biorxiv.org/content/10.1101/2024.05.01.592020v5</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/03014460.2024.2359920">https://www.tandfonline.com/doi/full/10.1080/03014460.2024.2359920</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1006504">https://doi.org/10.1371/journal.pcbi.1006504</a></li>
+<li><a href="https://doi.org/10.1101/2024.05.01.592020v5">https://doi.org/10.1101/2024.05.01.592020v5</a></li>
+<li><a href="https://www.nature.com/articles/s41559-017-0336-y">https://www.nature.com/articles/s41559-017-0336-y</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512336-octopuses-prompt-rethink-of-why-animals-evolve-big-brains/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟢 [80] phys.org - Space News ▶ Enceladus plumes may hold a clear clue to ocean habitability</title>
+    <link href="https://phys.org/news/2026-01-enceladus-plumes-clue-ocean-habitability.html"/>
+    <id>https://phys.org/news/2026-01-enceladus-plumes-clue-ocean-habitability.html</id>
+    <updated>2026-01-21T12:30:05Z</updated>
+    <summary>How can scientists estimate the pH level of Enceladus&#x27; subsurface ocean without landing on its surface? This is what a study recently posted to the arXiv preprint server hopes to address as a team of </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, life</p>
+<p><strong>AI Decision:</strong> Preprint proposes improved plume-sampling approaches to better constrain Enceladus’ subsurface ocean pH, refining assessments of ocean chemistry and habitability relevant to potential life.</p>
+<p><strong>Abstract:</strong> How can scientists estimate the pH level of Enceladus&#x27; subsurface ocean without landing on its surface? This is what a study recently posted to the arXiv preprint server hopes to address as a team of scientists from Japan investigated new methods for sampling the plumes of Enceladus and have provided more accurate measurements of its pH levels. This study has the potential to help scientists better understand the subsurface ocean conditions on Enceladus and whether it&#x27;s suitable for life as we know it.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-enceladus-plumes-clue-ocean-habitability.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] Nature Communications ▶ Sugar rationing during the first 1000 days of life and lifelong risk of heart failure</title>
     <link href="https://www.nature.com/articles/s41467-026-68713-9"/>
@@ -6685,36 +6838,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/limit-cycles-and-the-climate-history-of-mars.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ Broadband Spectroscopy Of Astrophysical Ice Analogues: IV. Optical Constants Of N2 Ice In The Terahertz And Mid-infrared Ranges</title>
-    <link href="https://astrobiology.com/2026/01/broadband-spectroscopy-of-astrophysical-ice-analogues-iv-optical-constants-of-n2-ice-in-the-terahertz-and-mid-infrared-ranges.html"/>
-    <id>https://astrobiology.com/2026/01/broadband-spectroscopy-of-astrophysical-ice-analogues-iv-optical-constants-of-n2-ice-in-the-terahertz-and-mid-infrared-ranges.html</id>
-    <updated>2026-01-14T12:08:00Z</updated>
-    <summary>Context. Understanding the optical properties of astrophysical ices is crucial for modeling dust continuum emission and radiative transfer in cold, dense interstellar environments. Molecular nitrogen </summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry</p>
-<p><strong>AI Decision:</strong> Provides laboratory-derived terahertz to mid-infrared optical constants for N2 ice to reduce uncertainties in radiative-transfer and ice/dust emission modeling in cold interstellar and protoplanetary environments relevant to nitrogen inventory and astrochemistry.</p>
-<p><strong>Abstract:</strong> Context. Understanding the optical properties of astrophysical ices is crucial for modeling dust continuum emission and radiative transfer in cold, dense interstellar environments. Molecular nitrogen (N2), a major nitrogen reservoir in protoplanetary disks, plays a key role in nitrogen chemistry, yet the lack of direct terahertz (THz)–infrared (IR) optical constants for N2 ice introduces uncertainties […] The post Broadband Spectroscopy Of Astrophysical Ice Analogues: IV. Optical Constants Of N2 Ice In The Terahertz And Mid-infrared Ranges appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2601.03951">https://arxiv.org/abs/2601.03951</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2601.03951">https://doi.org/10.48550/arXiv.2601.03951</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/broadband-spectroscopy-of-astrophysical-ice-analogues-iv-optical-constants-of-n2-ice-in-the-terahertz-and-mid-infrared-ranges.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Fundamentals Of Interior Modelling And Challenges In The Interpretation Of Observed Rocky Exoplanets</title>
-    <link href="https://astrobiology.com/2026/01/fundamentals-of-interior-modelling-and-challenges-in-the-interpretation-of-observed-rocky-exoplanets.html"/>
-    <id>https://astrobiology.com/2026/01/fundamentals-of-interior-modelling-and-challenges-in-the-interpretation-of-observed-rocky-exoplanets.html</id>
-    <updated>2026-01-14T12:25:00Z</updated>
-    <summary>Most our knowledge about rocky exoplanets is based on their measure of mass and radius. These two parameters are routinely measured and are used to categorise different populations of observed exoplan</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, exoplanet</p>
-<p><strong>AI Decision:</strong> Reviews how mass–radius-based interior models for rocky exoplanets are constructed and where degeneracies/assumptions limit habitability-relevant interpretation, but it is not directly focused on origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Most our knowledge about rocky exoplanets is based on their measure of mass and radius. These two parameters are routinely measured and are used to categorise different populations of observed exoplanets. They are also tightly linked to the planet’s properties, in particular those of the interior. As such they offer the unique opportunity to interpret […] The post Fundamentals Of Interior Modelling And Challenges In The Interpretation Of Observed Rocky Exoplanets appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://arxiv.org/abs/2511.10269">https://arxiv.org/abs/2511.10269</a></li>
-<li><a href="https://doi.org/10.48550/arXiv.2511.10269">https://doi.org/10.48550/arXiv.2511.10269</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/fundamentals-of-interior-modelling-and-challenges-in-the-interpretation-of-observed-rocky-exoplanets.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Bacteria Reveal Hidden Powers Of Electricity Transfer</title>
     <link href="https://astrobiology.com/2026/01/bacteria-reveal-hidden-powers-of-electricity-transfer-2.html"/>
     <id>https://astrobiology.com/2026/01/bacteria-reveal-hidden-powers-of-electricity-transfer-2.html</id>
@@ -6729,51 +6852,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/bacteria-reveal-hidden-powers-of-electricity-transfer-2.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [55] Astrobiology (astrobiology.com) ▶ How Did These Strange, Ancient Earth Life Forms Turn Into Such Remarkable Fossils?</title>
-    <link href="https://astrobiology.com/2026/01/how-did-these-strange-ancient-earth-life-forms-turn-into-such-remarkable-fossils.html"/>
-    <id>https://astrobiology.com/2026/01/how-did-these-strange-ancient-earth-life-forms-turn-into-such-remarkable-fossils.html</id>
-    <updated>2026-01-14T12:41:00Z</updated>
-    <summary>In Earth’s fossil record, soft-bodied organisms like jellyfish rarely stand the test of time. What’s more, it’s hard for any animal to get preserved with exceptional detail in sandstones, which are ma</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, evolution, life, biosignature, earth</p>
-<p><strong>AI Decision:</strong> Reports a geology study (doi:10.1130/G53967.1) on how authigenic clays enabled exceptional Ediacaran soft‑bodied fossil preservation in sandstone, informing interpretations of early Earth life and potential biosignature formation.</p>
-<p><strong>Abstract:</strong> In Earth’s fossil record, soft-bodied organisms like jellyfish rarely stand the test of time. What’s more, it’s hard for any animal to get preserved with exceptional detail in sandstones, which are made of large grains, are porous, and commonly form in environments swept by rough storms and waves. But around 570 million years ago, in […] The post How Did These Strange, Ancient Earth Life Forms Turn Into Such Remarkable Fossils? appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.1130/G53967.1/723271/Authigenic-clays-shaped-Ediacara-style-exceptional">https://doi.org/10.1130/G53967.1/723271/Authigenic-clays-shaped-Ediacara-style-exceptional</a></li>
-<li><a href="https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G53967.1/723271/Authigenic-clays-shaped-Ediacara-style-exceptional?redirectedFrom=fulltext">https://pubs.geoscienceworld.org/gsa/geology/article-abstract/doi/10.1130/G53967.1/723271/Authigenic-clays-shaped-Ediacara-style-exceptional?redirectedFrom=fulltext</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/how-did-these-strange-ancient-earth-life-forms-turn-into-such-remarkable-fossils.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Evolutionary Stasis And Homogeneous Selection Structure Microbial Communities In The Deep Subseafloor Sedimentary Biosphere</title>
-    <link href="https://astrobiology.com/2026/01/evolutionary-stasis-and-homogeneous-selection-structure-microbial-communities-in-the-deep-subseafloor-sedimentary-biosphere.html"/>
-    <id>https://astrobiology.com/2026/01/evolutionary-stasis-and-homogeneous-selection-structure-microbial-communities-in-the-deep-subseafloor-sedimentary-biosphere.html</id>
-    <updated>2026-01-14T12:28:00Z</updated>
-    <summary>The subseafloor biosphere, one of the Earth’s largest and most stable microbial habitats, mainly consists of energy-limited sediments where microbial life persists over geological timescales. However,</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, evolution, life, earth</p>
-<p><strong>AI Decision:</strong> Deep subseafloor sediment core data suggest microbial communities persist over geological timescales with evolutionary stasis shaped by homogeneous selection under extreme energy limitation, informing astrobiology via constraints on long-term habitability rather than directly addressing origins of life.</p>
-<p><strong>Abstract:</strong> The subseafloor biosphere, one of the Earth’s largest and most stable microbial habitats, mainly consists of energy-limited sediments where microbial life persists over geological timescales. However, the mechanisms governing microbial community assembly and evolution under condition of extreme energy limitation remains unclear. Here, we analysed a 296 m sediment core off the Shimokita Peninsula using […] The post Evolutionary Stasis And Homogeneous Selection Structure Microbial Communities In The Deep Subseafloor Sedimentary Biosphere appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.1101/2025.11.18.689030v1.full">https://www.biorxiv.org/content/10.1101/2025.11.18.689030v1.full</a></li>
-<li><a href="https://doi.org/10.1101/2025.11.18.689030v1.full">https://doi.org/10.1101/2025.11.18.689030v1.full</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/evolutionary-stasis-and-homogeneous-selection-structure-microbial-communities-in-the-deep-subseafloor-sedimentary-biosphere.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] Astrobiology (astrobiology.com) ▶ Modeling The Effect Of C/O Ratio On Complex Carbon Chemistry In Cold Molecular Clouds</title>
-    <link href="https://astrobiology.com/2026/01/modeling-the-effect-of-c-o-ratio-on-complex-carbon-chemistry-in-cold-molecular-clouds.html"/>
-    <id>https://astrobiology.com/2026/01/modeling-the-effect-of-c-o-ratio-on-complex-carbon-chemistry-in-cold-molecular-clouds.html</id>
-    <updated>2026-01-14T12:31:00Z</updated>
-    <summary>Elemental abundances, which are often depleted with respect to the solar values, are important input parameters for kinetic models of interstellar chemistry. In particular, the amount of carbon relati</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry</p>
-<p><strong>AI Decision:</strong> Uses kinetic modeling to show how varying the elemental C/O ratio in cold molecular clouds alters complex carbon chemistry, informing the likely inventory of organic precursors delivered to forming planetary systems.</p>
-<p><strong>Abstract:</strong> Elemental abundances, which are often depleted with respect to the solar values, are important input parameters for kinetic models of interstellar chemistry. In particular, the amount of carbon relative to oxygen is known to have a strong effect on modeled abundances of many species. While previous studies have focused on comparison of modeled and observed […] The post Modeling The Effect Of C/O Ratio On Complex Carbon Chemistry In Cold Molecular Clouds appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.04103">https://doi.org/10.48550/arXiv.2601.04103</a></li>
-<li><a href="https://arxiv.org/abs/2601.04103">https://arxiv.org/abs/2601.04103</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/modeling-the-effect-of-c-o-ratio-on-complex-carbon-chemistry-in-cold-molecular-clouds.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [45] Astrobiology (astrobiology.com) ▶ Dale Andersen’s Astrobiology Antarctic Status Report: 14 January 2026: Setting Up Base Camp At Lake Untersee</title>
     <link href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-14-january-2026-setting-up-base-camp-at-lake-untersee.html"/>
     <id>https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-14-january-2026-setting-up-base-camp-at-lake-untersee.html</id>
@@ -6784,21 +6862,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> Hi Keith, Since our arrival we have been working hard to get shelter in place. That is always our first priority: establish safe, warm protection from the elements, then we can begin our program of science in earnest. We have about half the camp built, with several personal tents up and most importantly, our communal […] The post Dale Andersen’s Astrobiology Antarctic Status Report: 14 January 2026: Setting Up Base Camp At Lake Untersee appeared first on Astrobiology .</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-14-january-2026-setting-up-base-camp-at-lake-untersee.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [40] Astrobiology (astrobiology.com) ▶ Formation Of Multi-planetary Systems Via Pebble Accretion In Externally Photoevaporating Discs In Stellar Clusters</title>
-    <link href="https://astrobiology.com/2026/01/formation-of-multi-planetary-systems-via-pebble-accretion-in-externally-photoevaporating-discs-in-stellar-clusters.html"/>
-    <id>https://astrobiology.com/2026/01/formation-of-multi-planetary-systems-via-pebble-accretion-in-externally-photoevaporating-discs-in-stellar-clusters.html</id>
-    <updated>2026-01-14T12:02:00Z</updated>
-    <summary>In this paper, we investigate how external photo-evaporation influences the formation, dynamical evolution and the resultant planetary architecture of multi-planet systems born in stellar clusters. We</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, evolution, exoplanet</p>
-<p><strong>AI Decision:</strong> Models how external UV-driven photoevaporation in stellar clusters alters pebble-accretion growth and final multi-planet architectures, informing the broader context of how potentially habitable planetary systems may assemble.</p>
-<p><strong>Abstract:</strong> In this paper, we investigate how external photo-evaporation influences the formation, dynamical evolution and the resultant planetary architecture of multi-planet systems born in stellar clusters. We use a model of N-body simulations of multiple planet formation via pebble accretion coupled with a 1-D viscous disc subject to external photo-evaporation. We found that external photo-evaporation reduces […] The post Formation Of Multi-planetary Systems Via Pebble Accretion In Externally Photoevaporating Discs In Stellar Clusters appeared first on Astrobiology .</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://doi.org/10.48550/arXiv.2601.03963">https://doi.org/10.48550/arXiv.2601.03963</a></li>
-<li><a href="https://arxiv.org/abs/2601.03963">https://arxiv.org/abs/2601.03963</a></li>
-</ul>
-<p><a href="https://astrobiology.com/2026/01/formation-of-multi-planetary-systems-via-pebble-accretion-in-externally-photoevaporating-discs-in-stellar-clusters.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟤 [5] phys.org - Space News ▶ After medical issue, SpaceX Crew-11 set to depart space station for overnight splashdown</title>
