@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Six highlights from ADHD research](https://www.nature.com/articles/d41586-026-00099-6) |
+| keyword_rejected | - | [How Animals Build a Sense of Direction](https://www.quantamagazine.org/how-animals-build-a-sense-of-direction-20260121/) |
+| keyword_rejected | - | [NASA quietly ends financial support for planetary science gr](https://www.scientificamerican.com/article/nasa-quietly-ends-financial-support-for-planetary-science-groups/) |
+| keyword_rejected | - | [Deer may see hidden glowing signs in forests](https://www.scientificamerican.com/article/deer-may-see-hidden-glowing-signs-in-forests/) |
+| keyword_rejected | - | [Why teens with ADHD are so vulnerable to the perils of socia](https://www.nature.com/articles/d41586-026-00096-9) |
+| keyword_rejected | - | [Why ADHD goes undiagnosed in girls](https://www.nature.com/articles/d41586-026-00098-7) |
+| keyword_rejected | - | [ADHD treatments move beyond stimulants](https://www.nature.com/articles/d41586-026-00095-w) |
+| keyword_rejected | - | [Is paracetamol in pregnancy a risk factor for ADHD?](https://www.nature.com/articles/d41586-026-00097-8) |
+| keyword_rejected | - | [Untangling the connection between dopamine and ADHD](https://www.nature.com/articles/d41586-026-00094-x) |
+| keyword_rejected | - | [ADHD is on the rise, but why?](https://www.nature.com/articles/d41586-026-00093-y) |
+| keyword_rejected | - | [Publisher Correction: Multiple oestradiol functions inhibit ](https://www.nature.com/articles/s41586-026-10148-9) |
+| keyword_rejected | - | [Astronomers discover a companion cluster to Czernik 38](https://phys.org/news/2026-01-astronomers-companion-cluster-czernik.html) |
+| keyword_rejected | - | [Author Correction: Exosomes derived from human adipose mense](https://www.nature.com/articles/s41598-026-36531-0) |
+| keyword_rejected | - | [Correction: Habitual video gaming predicts multitasking perf](https://www.nature.com/articles/s41598-026-36685-x) |
+| keyword_rejected | - | [Correction: Optimization of range based self-localization pr](https://www.nature.com/articles/s41598-026-36522-1) |
 | ai_scored | 5 | [Evolution of the tuberculin skin test reveals generalisable ](https://www.nature.com/articles/s41467-026-68678-9) |
 | ai_scored | 20 | [<i>cxcl18b</i>-defined transitional state-specific nitric ox](https://elifesciences.org/articles/106274) |
 | ai_scored | 5 | [Evolution of the tuberculin skin test reveals generalisable ](https://www.nature.com/articles/s41467-026-68678-9) |
