@@ -3,8 +3,75 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T19:24:29.062072+00:00</updated>
+  <updated>2026-01-21T20:26:33.297590+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] Astrobiology (astrobiology.com) ▶ Astrochemistry: Hubble Observes Lupus 3 Star-forming Cloud</title>
+    <link href="https://astrobiology.com/2026/01/astrochemistry-hubble-observes-lupus-3-star-forming-cloud.html"/>
+    <id>https://astrobiology.com/2026/01/astrochemistry-hubble-observes-lupus-3-star-forming-cloud.html</id>
+    <updated>2026-01-21T18:58:00Z</updated>
+    <summary>While this eerie NASA Hubble Space Telescope image may look ghostly, it’s actually full of new life. Lupus 3 is a star-forming cloud about 500 light-years away in the constellation Scorpius. White wis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry, astrobio*, life</p>
+<p><strong>AI Decision:</strong> Hubble imaging of the Lupus 3 star-forming cloud provides broad astrochemistry context for where prebiotic ingredients may originate, but offers no direct origins-of-life or prebiotic chemistry results.</p>
+<p><strong>Abstract:</strong> While this eerie NASA Hubble Space Telescope image may look ghostly, it’s actually full of new life. Lupus 3 is a star-forming cloud about 500 light-years away in the constellation Scorpius. White wisps of gas swirl throughout the region, and in the lower-left corner resides a dark dust cloud. Bright T Tauri stars shine at […] The post Astrochemistry: Hubble Observes Lupus 3 Star-forming Cloud appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/astrochemistry-hubble-observes-lupus-3-star-forming-cloud.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ A Scalable Framework for Pan-Cancer Tumor Evolution Analysis Enables Transfer of Progression Mechanisms Across Tumor Entities</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Motivation: Cancer progression is driven by the stochastic accumulation of interacting genetic alterations, and tumors from different tissues can share common evolutionary patterns despite distinct an</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces fastMHN, a scalable approximation for Mutual Hazard Network cancer progression models enabling pan-cancer evolutionary pattern transfer and implicating STK11-linked progression mechanisms across multiple tumor entities.</p>
+<p><strong>Abstract:</strong> Motivation: Cancer progression is driven by the stochastic accumulation of interacting genetic alterations, and tumors from different tissues can share common evolutionary patterns despite distinct anatomical origins. While simplified progression models can be applied at scale, the use of expressive models that capture complex inter-event dependencies remains challenging in pan-cancer settings due to their computational demands. Results: We present fastMHN, a scalable approximation to Mutual Hazard Network-based cancer progression models, that enables pan-cancer analysis of large genomic datasets with the explicit aim of enabling transfer of progression mechanisms across tumor entities. Applying fastMHN to a large clinical cohort, we identify a tumor-progression group spanning multiple tissues that is characterized by a link between STK11 mutations and poor patient survival. While the clinical relevance of STK11 mutations is well established in non-small cell lung cancer, our results suggest that a similar progression mechanism is present in molecularly defined subgroups of other cancer types. These findings illustrate how scalable pan-cancer progression modeling can facilitate cross-entity transfer of biological and potentially clinical insights. Availability and implementation: The pan-cancer classification workflow and all data are available at github.com/simon-pfahler/fastMHN-classification.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioinformatics - biorXiv Preprints ▶ Distinct Repeat Architecture Landscapes in the Proteomes of Protozoan Parasites</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700692v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700692v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Protozoan parasites cause major infectious diseases and pose persistent challenges to global health, particularly the emergence of drug resistant strains. Tandem repeats (TRs) and other repetitive arc</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Computational analysis introduces Drepper to quantify and compare repeat-architecture complexity across protozoan parasite proteomes, revealing lineage-specific repeat strategies and evolutionary maintenance of low-complexity repeats.</p>
+<p><strong>Abstract:</strong> Protozoan parasites cause major infectious diseases and pose persistent challenges to global health, particularly the emergence of drug resistant strains. Tandem repeats (TRs) and other repetitive architectures are widespread in proteomes, especially in protozoan proteins, where they have been implicated in host parasite interactions, immune evasion, and antigenicity. However, repeat containing proteins (RPs) exhibit highly diverse architectures that often extend beyond the simple reiteration of a single motif, making comprehensive and quantitative characterization challenging. In this study, we performed bioinformatics analysis of repeat architectures in protozoan proteins. In addition to the established repeat detection approaches, we developed a new algorithm, Drepper, which quantifies repeat architecture complexity. By integrating diverse repeat related features, we clustered RPs across species and identified distinct groups associated with parasite lineages. Notably, we detected a Plasmodium specific RP cluster and a Trypanosoma/Leishmania specific RP cluster; both were characterized by large repeat regions but exhibited contrasting repeat structure complexity. The Plasmodium specific RPs showed high complexity, whereas the Trypanosoma/Leishmania specific RPs displayed significantly low complexity. Functional enrichment analyses indicated that these lineage associated clusters were enriched in parasite specific factors. Furthermore, evolutionary analyses suggested that low complexity repeat architectures may be actively maintained through concerted evolution. Taken together, our results reveal lineage specific strategies in protozoan repeat architectures and provide a quantitative framework for studying their biological and evolutionary roles.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700692v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700692v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700692v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] phys.org - Space News ▶ Q&amp;A: How AI changes NASA&#x27;s search for life in outer space</title>
+    <link href="https://phys.org/news/2026-01-qa-ai-nasa-life-outer.html"/>
+    <id>https://phys.org/news/2026-01-qa-ai-nasa-life-outer.html</id>
+    <updated>2026-01-21T20:04:45Z</updated>
+    <summary>Alicja Ostrowska&#x27;s doctoral thesis &quot;Life and AI at NASA&quot; examines how artificial intelligence is transforming the way science is conducted within some of the world&#x27;s most ambitious space projects. The</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, life</p>
+<p><strong>AI Decision:</strong> A fieldwork-based study on how AI is reshaping NASA mission workflows and knowledge production in the search for present or past extraterrestrial life, offering broad astrobiology context but limited direct origins-of-life content.</p>
+<p><strong>Abstract:</strong> Alicja Ostrowska&#x27;s doctoral thesis &quot;Life and AI at NASA&quot; examines how artificial intelligence is transforming the way science is conducted within some of the world&#x27;s most ambitious space projects. The study investigates how AI is used in NASA&#x27;s missions exploring the conditions for present or past life on other planets and moons and what this means for how knowledge is produced. The research is based on fieldwork with scientists and engineers at NASA Goddard Space Flight Center.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-qa-ai-nasa-life-outer.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] Astrobiology (astrobiology.com) ▶ Our Moon’s 4-Billion-Year Impact Record Suggests Meteorites Didn’t Supply Earth’s Water</title>
+    <link href="https://astrobiology.com/2026/01/our-moons-4-billion-year-impact-record-suggests-meteorites-didnt-supply-earths-water.html"/>
+    <id>https://astrobiology.com/2026/01/our-moons-4-billion-year-impact-record-suggests-meteorites-didnt-supply-earths-water.html</id>
+    <updated>2026-01-21T18:59:00Z</updated>
+    <summary>A long-standing idea in planetary science is that water-rich meteorites arriving late in Earth’s history could have delivered a major share of Earth’s water. A new study by Universities Space Research</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrochemistry, earth, evolution, astrobio*, biosignature, life, water</p>
+<p><strong>AI Decision:</strong> Using the Moon’s ~4-billion-year crater record to bound late accretion, this PNAS study argues that water-rich meteorites could not have delivered more than a limited fraction of Earth’s water, constraining early habitability scenarios relevant to origins-of-life contexts.</p>
+<p><strong>Abstract:</strong> A long-standing idea in planetary science is that water-rich meteorites arriving late in Earth’s history could have delivered a major share of Earth’s water. A new study by Universities Space Research Association (USRA) and University of New Mexico argues that the Moon’s surface record sets a hard limit on that possibility: even under generous assumptions, […] The post Our Moon’s 4-Billion-Year Impact Record Suggests Meteorites Didn’t Supply Earth’s Water appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1073/pnas.2531796123">https://doi.org/10.1073/pnas.2531796123</a></li>
+<li><a href="https://www.pnas.org/doi/10.1073/pnas.2531796123">https://www.pnas.org/doi/10.1073/pnas.2531796123</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/our-moons-4-billion-year-impact-record-suggests-meteorites-didnt-supply-earths-water.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] nature.com - Biological sciences ▶ From TDP-43/RNA complex formation to disease-linked TDP-43 aggregation through a structural and cellular approach</title>
     <link href="https://www.nature.com/articles/s41467-026-68346-y"/>
@@ -7181,17 +7248,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> The four members of Crew-11 are on their way back to Earth after one of them became unwell with an unknown condition</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://www.scientificamerican.com/article/astronauts-evacuate-the-iss-after-medical-incident/">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [55] phys.org - Space News ▶ From a new flagship space telescope to lunar exploration, global cooperation will make 2026 an exciting year for space</title>
-    <link href="https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html"/>
-    <id>https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html</id>
-    <updated>2026-01-14T20:06:55Z</updated>
-    <summary>In 2026, astronauts will travel around the moon for the first time since the Apollo era, powerful new space telescopes will prepare to survey billions of galaxies, and multiple nations will launch mis</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> water, habitab*</p>
-<p><strong>AI Decision:</strong> A broad 2026 spaceflight/telescope outlook highlighting upcoming missions relevant to habitability (habitable worlds) and water on the Moon, but without direct origins-of-life or biosignature science content or cited academic sources.</p>
-<p><strong>Abstract:</strong> In 2026, astronauts will travel around the moon for the first time since the Apollo era, powerful new space telescopes will prepare to survey billions of galaxies, and multiple nations will launch missions aimed at finding habitable worlds, water on the moon and clues to how our solar system formed.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-flagship-space-telescope-lunar-exploration.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

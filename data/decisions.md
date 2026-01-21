@@ -1,5 +1,15 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 70 | [Our Moon’s 4-Billion-Year Impact Record Suggests Meteorites ](https://astrobiology.com/2026/01/our-moons-4-billion-year-impact-record-suggests-meteorites-didnt-supply-earths-water.html) |
+| ai_scored | 45 | [Q&A: How AI changes NASA's search for life in outer space](https://phys.org/news/2026-01-qa-ai-nasa-life-outer.html) |
+| ai_scored | 20 | [Distinct Repeat Architecture Landscapes in the Proteomes of ](https://www.biorxiv.org/content/10.64898/2026.01.20.700692v1?rss=1) |
+| ai_scored | 5 | [A Scalable Framework for Pan-Cancer Tumor Evolution Analysis](https://www.biorxiv.org/content/10.64898/2026.01.20.700556v1?rss=1) |
+| ai_scored | 35 | [Astrochemistry: Hubble Observes Lupus 3 Star-forming Cloud](https://astrobiology.com/2026/01/astrochemistry-hubble-observes-lupus-3-star-forming-cloud.html) |
+| keyword_rejected | - | [Vents violents et pluies torrentielles en Grèce, un garde-cô](https://www.sciencesetavenir.fr/nature-environnement/vents-violents-et-pluies-torrentielles-en-grece-un-garde-cote-tue_190519?xtor=RSS-15) |
+| keyword_rejected | - | [Webb finds young sun-like star forging common crystals and f](https://phys.org/news/2026-01-webb-young-sun-star-forging.html) |
+| keyword_rejected | - | [Are your memories illusions? New study disentangles the Bolt](https://phys.org/news/2026-01-memories-illusions-disentangles-boltzmann-brain.html) |
+| keyword_rejected | - | [Promiscuous Metal Site in Hepatitis B Virus X Protein Binds ](https://www.biorxiv.org/content/10.64898/2026.01.20.700672v1?rss=1) |
+| keyword_rejected | - | [Measurement intensification for antibody formulations: combi](https://www.biorxiv.org/content/10.64898/2026.01.20.700608v1?rss=1) |
 | ai_scored | 80 | [Study Suggests A Pathway For Life-sustaining Conditions In E](https://astrobiology.com/2026/01/study-suggests-a-pathway-for-life-sustaining-conditions-in-europas-ocean.html) |
 | ai_scored | 70 | [New Research Reveals That Complex Building Blocks Of Life Fo](https://astrobiology.com/2026/01/new-research-reveals-that-complex-building-blocks-of-life-form-spontaneously-in-space.html) |
 | ai_scored | 25 | [Learning collective multicellular dynamics with an interacti](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013916) |
