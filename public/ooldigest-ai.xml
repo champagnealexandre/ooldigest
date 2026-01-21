@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-21T22:21:15.224285+00:00</updated>
+  <updated>2026-01-21T23:21:17.438457+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ TPCAV: Interpreting deep learning genomics models via concept attribution</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Interpreting genomics deep learning models remains challenging. Existing feature attribution methods largely focus on scoring individual bases or extracting global DNA motifs from one-hot encoded inpu</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Introduces a PCA-enhanced concept-attribution method (TPCAV) to interpret deep learning genomics models, improving global biological concept interpretation and motif analysis but with limited direct relevance to origins-of-life research beyond general DNA model interpretability.</p>
+<p><strong>Abstract:</strong> Interpreting genomics deep learning models remains challenging. Existing feature attribution methods largely focus on scoring individual bases or extracting global DNA motifs from one-hot encoded inputs, leaving them unable to assess broader genomic features such as chromatin accessibility or sequence annotations. Concept attribution methods offer an input-agnostic global interpretation framework, yet they have not been systematically applied to interpret neural network applications in genomics. We present the first application of concept attribution to interpret genomics deep learning models by adapting the Testing with Concept Activation Vectors (TCAV) method. We introduce Testing with PCA-projected Concept Activation Vectors (TPCAV), which improves upon the original method by using a PCA-based decorrelation transformation to address the correlated and redundant embedding features common in genomics models. We also introduce a strategy for extracting concept-specific input attribution maps. We evaluate our approach by interpreting influential biological concepts across a diverse set of genomics models spanning multiple input representations and prediction tasks. We demonstrate that TPCAV provides more reliable DNA motif interpretation than TCAV and is comparable to TF-MoDISco on one-hot coded DNA-based transcription factor binding prediction models. Beyond motif interpretation, TPCAV enables robust interpretive analysis of more general concepts such as repetitive elements and chromatin accessibility and generalizes to tokenized foundation models as well as models incorporating chromatin signal inputs. We further show that TPCAV can identify representative transcription factor binding sites associated with specific concepts, motivating downstream investigation of distinct binding mechanisms. Overall, TPCAV provides a flexible and robust complement to existing model interpretation techniques.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [25] bioinformatics - biorXiv Preprints ▶ dna-parser: a Python library written in Rust for fast encoding of DNA and RNA sequences</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1"/>

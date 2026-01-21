@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [TPCAV: Interpreting deep learning genomics models via concep](https://www.biorxiv.org/content/10.64898/2026.01.20.700723v1?rss=1) |
+| keyword_rejected | - | [Phospholipid composition strongly affects the assembly of β ](https://www.nature.com/articles/s41467-026-68743-3) |
+| keyword_rejected | - | [A Glial Hub-and-Spoke Circuitry in C. elegans orchestrates b](https://www.nature.com/articles/s41467-026-68766-w) |
+| keyword_rejected | - | [Artificial intelligence in manufacturing rocket parts](https://phys.org/news/2026-01-artificial-intelligence-rocket.html) |
+| keyword_rejected | - | [Reciprocal regulation between the protein arginine deiminase](https://www.biorxiv.org/content/10.64898/2026.01.20.700682v1?rss=1) |
+| keyword_rejected | - | [Integrative Whole-Genome Analysis reveals Genomic Signatures](https://www.biorxiv.org/content/10.64898/2026.01.21.700751v1?rss=1) |
+| keyword_rejected | - | [Searching the Druggable Genome using Large Language Models](https://www.biorxiv.org/content/10.64898/2026.01.18.700012v1?rss=1) |
 | ai_scored | 25 | [dna-parser: a Python library written in Rust for fast encodi](https://www.biorxiv.org/content/10.64898/2026.01.20.700656v1?rss=1) |
 | keyword_rejected | - | [Enzyme as Maxwell’s Demon: Steady-State Deviation from Chemi](http://link.aps.org/doi/10.1103/flv6-zw1v) |
 | keyword_rejected | - | [Transfer of Active Motion from Medium to Probe via the Induc](http://link.aps.org/doi/10.1103/bwk3-3nmn) |
