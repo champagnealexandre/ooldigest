@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Evolving Populations of Solved Subgraphs with Crossover and ](https://pubmed.ncbi.nlm.nih.gov/41533957/?utm_source=Other&utm_medium=rss&utm_campaign=journals&utm_content=9513581&fc=None&ff=20260121052346&v=2.18.0.post22+67771e2) |
+| keyword_rejected | - | [Au Japon, la plus grande centrale nucléaire du monde doit re](https://www.sciencesetavenir.fr/nature-environnement/nucleaire/japon-la-plus-grande-centrale-nucleaire-du-monde-doit-redemarrer-mercredi_190502?xtor=RSS-15) |
+| keyword_rejected | - | [Women with polycystic ovary syndrome exhibit impaired endome](https://www.nature.com/articles/s41467-026-68441-0) |
+| keyword_rejected | - | [The growth of light seed black holes in the early Universe](https://www.nature.com/articles/s41550-025-02767-5) |
+| keyword_rejected | - | [NASA astronaut who was stuck at the space station for months](https://phys.org/news/2026-01-nasa-astronaut-stuck-space-station.html) |
+| keyword_rejected | - | [Women with polycystic ovary syndrome exhibit impaired endome](https://www.nature.com/articles/s41467-026-68441-0) |
 | ai_scored | 45 | [Structural and functional characterization of Staphylococcus](https://onlinelibrary.wiley.com/doi/10.1002/pro.70484?af=R) |
 | keyword_rejected | - | [Le T.rex grandissait plus lentement que ce que l'on pensait](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/le-t-rex-le-roi-des-dinosaures-poursuivait-sa-croissance-jusqu-a-un-age-tres-avance_190480?xtor=RSS-4) |
 | keyword_rejected | - | [Sommeil : une IA prédit le risque de développer plus de 100 ](https://www.sciencesetavenir.fr/sante/sommeil/pendant-que-vous-dormez-cette-ia-evalue-votre-risque-de-developper-plus-de-100-maladies_190486?xtor=RSS-16) |
