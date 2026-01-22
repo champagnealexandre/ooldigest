@@ -1,5 +1,27 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 75 | [When Tropical Oceans On Earth Were Oxygen Oases](https://astrobiology.com/2026/01/when-tropical-oceans-on-earth-were-oxygen-oases.html) |
+| ai_scored | 25 | [Comparative multi-omic analysis reveals conserved and derive](https://www.nature.com/articles/s41467-026-68801-w) |
+| ai_scored | 55 | [Modeling the spatial organization of replicated chromosomes ](https://www.biorxiv.org/content/10.64898/2026.01.19.700293v1?rss=1) |
+| ai_scored | 90 | [How Early Cell Membranes May Have Shaped The Origins Of Life](https://astrobiology.com/2026/01/how-early-cell-membranes-may-have-shaped-the-origins-of-life.html) |
+| ai_scored | 42 | [Massive Cloud With Metallic Winds Discovered Orbiting A Myst](https://astrobiology.com/2026/01/massive-cloud-with-metallic-winds-discovered-orbiting-a-mystery-object.html) |
+| ai_scored | 60 | [Evidence Of ‘lightning-fast’ Evolution Found After Dinosaur-](https://astrobiology.com/2026/01/evidence-of-lightning-fast-evolution-found-after-dinosaur-killing-asteroid-impact.html) |
+| ai_scored | 45 | [How Earth’s Greenhouse Age Ended 66 Million Years Ago](https://astrobiology.com/2026/01/how-earths-greenhouse-age-ended-66-million-years-ago.html) |
+| ai_scored | 40 | [Dragonfly Mission: Optomechanical Design Of The DragonCam Mi](https://astrobiology.com/2026/01/dragonfly-mission-optomechanical-design-of-the-dragoncam-microscopic-camera.html) |
+| keyword_rejected | - | [Does limiting social media help teens? We'll finally get som](https://www.newscientist.com/article/2512910-does-limiting-social-media-help-teens-well-finally-get-some-evidence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The internet feels super lonely right now. Here's why](https://www.newscientist.com/article/mg26935790-200-the-internet-feels-super-lonely-right-now-heres-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Does limiting social media help teens? We'll finally get som](https://www.newscientist.com/article/2512910-does-limiting-social-media-help-teens-well-finally-get-some-evidence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The internet feels super lonely right now. Here's why](https://www.newscientist.com/article/mg26935790-200-the-internet-feels-super-lonely-right-now-heres-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Does limiting social media help teens? We'll finally get som](https://www.newscientist.com/article/2512910-does-limiting-social-media-help-teens-well-finally-get-some-evidence/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The internet feels super lonely right now. Here's why](https://www.newscientist.com/article/mg26935790-200-the-internet-feels-super-lonely-right-now-heres-why/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Découverte de la plus ancienne peinture pariétale au monde](https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/la-plus-ancienne-peinture-parietale-au-monde-decouverte-en-indonesie_190517?xtor=RSS-4) |
+| keyword_rejected | - | [Décès de l'astrophysicien français Roger-Maurice Bonnet](https://www.sciencesetavenir.fr/espace/deces-de-l-astrophysicien-francais-roger-maurice-bonnet_190515?xtor=RSS-9) |
+| keyword_rejected | - | [Japon: le redémarrage de la plus grande centrale nucléaire d](https://www.sciencesetavenir.fr/nature-environnement/japon-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde-suspendu_190531?xtor=RSS-15) |
+| keyword_rejected | - | [‘Bodies like ours aren’t considered in academia’](https://www.nature.com/articles/d41586-026-00153-3) |
+| keyword_rejected | - | [A trans-synaptic IgLON adhesion molecular complex directly c](https://www.nature.com/articles/s41467-025-68141-1) |
+| keyword_rejected | - | [Comparative multi-omic analysis reveals conserved and derive](https://www.nature.com/articles/s41467-026-68801-w) |
+| keyword_rejected | - | [Condorcet’s Paradox as Non-Orientability](https://comdig.unam.mx/2026/01/22/condorcets-paradox-as-non-orientability/) |
+| keyword_rejected | - | [NASA's Artemis II mission to fly legacy keepsakes with astro](https://phys.org/news/2026-01-nasa-artemis-ii-mission-fly.html) |
 | ai_scored | 50 | [NASA Spaceline Current Awareness List #1,183 16 January 2026](https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1183-16-january-2026-space-life-science-research-results.html) |
 | ai_scored | 70 | [Rethinking where life could exist beyond Earth](https://phys.org/news/2026-01-rethinking-life-earth.html) |
 | ai_scored | 20 | [KOALA, A New ATLAS9 Database — I. Model atmospheres, Opaciti](https://astrobiology.com/2026/01/koala-a-new-atlas9-database-i-model-atmospheres-opacities-fluxes-bolometric-corrections-magnitudes-and-colours.html) |
