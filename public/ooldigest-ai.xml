@@ -3,8 +3,90 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T01:24:05.183130+00:00</updated>
+  <updated>2026-01-22T03:44:29.500193+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [35] systems biology - biorXiv Preprints ▶ A Perfect Soldier: the black soldier fly as a microbial-mediated physiological resilience model .</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.18.700162v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.18.700162v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Understanding the complex interplay between a host, its diet, and its microbiome is crucial for comprehending an organism&#x27;s health and adaptability. Diet impacts both the host and microbiome, which th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> Metatranscriptomic analysis of diet-driven host–microbiome interactions in black soldier fly larvae provides useful context on biological resilience and microbial regulation but has only indirect relevance to Origins of Life.</p>
+<p><strong>Abstract:</strong> Understanding the complex interplay between a host, its diet, and its microbiome is crucial for comprehending an organism&#x27;s health and adaptability. Diet impacts both the host and microbiome, which then influence each other. We used black soldier fly larvae (Hermetia illucens) as a model to investigate this tripartite interaction due to its resilience and bioconversion capabilities. We analyzed life-history traits and metatranscriptomics in larvae fed three diets: carbohydrate-rich, protein-rich, and balanced. Our results showed that dietary macronutrients correlated with shifts in the microbial community and gene expression. The carbohydrate-rich diet, in particular, led to increased microbial diversity and carbohydrate metabolism transcripts. However, this diet also negatively affected larval weight and development, suggesting potential host control over the microbiome. Overall, black soldier fly performance was highest on the balanced diet. This study highlights the black soldier fly&#x27;s resilience and its value as a model for exploring host-diet-microbe interactions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700162v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.18.700162v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.18.700162v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] biochemistry - biorXiv Preprints ▶ Structural, dynamic, and evolutionary determinants of substrate binding in the tetrameric 6-phosphogluconate dehydrogenase from Gluconobacter oxydans</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700892v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700892v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>6-Phosphogluconate dehydrogenases (6PGDHs) catalyze a key oxidative step in the oxidative pentose phosphate pathway (oxPPP), a route essential for NAD(P)H generation and carbon metabolism in bacteria </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> Reports a high-resolution structure and mechanistic/evolutionary analysis of a tetrameric 6-phosphogluconate dehydrogenase, illuminating how conserved C-terminal elements regulate substrate binding in modern oxidative pentose phosphate metabolism but with only indirect relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> 6-Phosphogluconate dehydrogenases (6PGDHs) catalyze a key oxidative step in the oxidative pentose phosphate pathway (oxPPP), a route essential for NAD(P)H generation and carbon metabolism in bacteria and eukaryotes. While the structural basis of substrate recognition is well established for long-chain dimeric 6PGDHs, the mechanisms used by short-chain tetrameric enzymes remain poorly defined. Here, we present a 2.0 [A] crystal structure of tetrameric 6PGDH from Gluconobacter oxydans (Go6PGDH) in complex with 6-phosphogluconate (6PG) and integrate it with evolutionary, computational, and functional analyses. The structure shows that, unlike dimeric homologs, tetrameric Go6PGDH does not undergo a domain-closure transition upon ligand binding. Instead, 6PG induces a compaction of the tetramer mediated by two conserved C-terminal elements: an inter-protomer ionic &#x27;&#x27;lock&#x27;&#x27; and an intra-subunit C-terminal &#x27;&#x27;latch&#x27;&#x27; that together stabilize a closed catalytic pocket. Molecular-dynamics simulations identify His328 as a central residue that couples C-terminal tail closure to direct ligand coordination, and mutagenesis analysis confirms its essential role in catalytic efficiency. Thermodynamic measurements reveal that 6PG binding is strongly enthalpy-driven, consistent with the formation of an ordered hydrogen-bonding and electrostatic network in the closed conformation. These findings define a substrate-induced quaternary-tightening mechanism unique to tetrameric 6PGDHs and illustrate how a conserved C-terminal module has been adapted across the family to regulate substrate binding and catalysis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700892v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700892v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700892v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ FastSpeciesTree: Fast and Scalable Species tree Inference</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700630v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700630v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>The generation of species trees from genomic data is an important step in understanding evolutionary relationships across the tree of life. With the increasing availability of genomic data, species tr</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> FastSpeciesTree is a fast, scalable automated pipeline for inferring large species trees from genomic/proteome datasets, enabling broad evolutionary “tree of life” analyses but not directly addressing origins-of-life or prebiotic processes.</p>
+<p><strong>Abstract:</strong> The generation of species trees from genomic data is an important step in understanding evolutionary relationships across the tree of life. With the increasing availability of genomic data, species tree inference methods which can easily and rapidly produce accurate species trees from large datasets are required to enable downstream analyses of these resources. Here we present FastSpeciesTree, a fully automated species tree inference method designed to leverage advances in rapid pairwise sequence alignment and scalable phylogenetic inference methods. We show that FastSpeciesTree is able to produce species trees with accuracies equivalent to trees produced through manual-curation and best-practice approaches. We further demonstrate that FastSpeciesTree can produce these high accuracy phylogenies substantially faster than any competitor method. Finally, we show that FastSpeciesTree is capable of building a species tree comprising almost the entirety of the RefSeq databases available proteomes (n = 33285) in less than 12 hours using standard computing resources. FastSpeciesTree is executed as a single command and can be found at https://github.com/OrthoFinder/FastSpeciesTree.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700630v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700630v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700630v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] molecular biology - biorXiv Preprints ▶ Tceal7 is a BRG1-regulated target of calcineurin signaling that promotes myoblast differentiation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700469v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700469v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>The transcriptional control of skeletal muscle differentiation requires the coordinated activity of lineage-defining transcription factors, signal-responsive regulators, chromatin modifiers, and ATP-d</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This study dissects calcineurin/BRG1 chromatin-remodeling control of Tceal7 during mammalian myoblast differentiation, with no direct connection to origins-of-life, prebiotic chemistry, or astrobiology.</p>
+<p><strong>Abstract:</strong> The transcriptional control of skeletal muscle differentiation requires the coordinated activity of lineage-defining transcription factors, signal-responsive regulators, chromatin modifiers, and ATP-dependent chromatin remodeling enzymes. Here, we identify TCEAL7, a member of the X-linked, poorly characterized TCEAL family of proteins, as a direct downstream target of Brg1-containing mammalian SWI/SNF (mSWI/SNF) complexes and calcineurin signaling during myoblast differentiation. Analyses of previously published datasets showed that pharmacological inhibition of mSWI/SNF bromodomains or knockdown of the Brg1 ATPase, but not knockdown of the homologue Brm ATPase, significantly reduced Tceal7 expression in differentiating C2C12 myoblasts. We demonstrate that BRG1 occupancy at the Tceal7 promoter increased during differentiation, paralleling the induction of Tceal7 expression and nuclear accumulation of TCEAL7 protein. BRG1 functions in part by integrating calcium-dependent cues via the phosphatase calcineurin (Cn); we also determined that Cn knockdown or pharmacological inhibition of Cn suppressed Tceal7 expression and impaired myoblast differentiation. The data suggest that both Brg1-driven chromatin remodeling and Cn signaling converge on Tceal7 regulation. Functionally, Tceal7 knockdown altered cell proliferation and disrupted myoblast differentiation, at least in part due to reduced expression of Myogenin, which encodes a transcription factor that is an essential differentiation determinant. RNA-seq analysis revealed broad dysregulation of myogenic, metabolic, and cell-cycle gene programs in Tceal7-deficient cells, including changes in cyclin-dependent kinase-regulated pathways consistent with prior reports linking TCEAL7 to cell-cycle control. Together, these findings identify TCEAL7 as a necessary component of the myogenic regulatory network whose expression is controlled by BRG1-dependent chromatin remodeling and Cn activity.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700469v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700469v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700469v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [30] molecular biology - biorXiv Preprints ▶ Sequence and Structural Alignments Reveal Insights into ANKLE2 Evolution and Function</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700886v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700886v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>ANKLE2 is an enigmatic protein with emerging roles in cell division, development, and virus replication. While ANKLE2 orthologs are present in all animals, its domain composition has evolved over time</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid, evolution, DNA</p>
+<p><strong>AI Decision:</strong> This study uses sequence/structure comparisons to trace ANKLE2 domain evolution in animals and links its loss to DNA damage-response phenotypes, but it has only tangential relevance to origins-of-life questions beyond general molecular evolution and nucleic-acid interactions.</p>
+<p><strong>Abstract:</strong> ANKLE2 is an enigmatic protein with emerging roles in cell division, development, and virus replication. While ANKLE2 orthologs are present in all animals, its domain composition has evolved over time. ANKLE2&#x27;s two namesake domains, the ankyrin repeat and LEM domains, have clear and defined roles; however nearly all ANKLE2 orthologs have at least three other structured domains with poorly understood purposes. In this study, we performed sequence and structural alignments of ANKLE2 orthologs to improve our understanding of the protein&#x27;s evolution and function. We identified that ANKLE2&#x27;s transmembrane domain likely evolved more recently and coincided with loss of VAPA interaction as a membrane anchoring mechanism. We show that despite stark differences in amino acid sequence, the structure of the LEM and ankyrin repeat domains are highly conserved across ANKLE2 orthologs. To investigate ANKLE2&#x27;s uncharacterized domains, we performed structural alignments to identify similar proteins. This revealed surprising similarities between portions of ANKLE2 and nuclease or nucleic acid-binding proteins. However, ANKLE2 lacks key motifs imparting function in these domains, which was confirmed by experimental interrogation. We further identified that loss of ANKLE2 is correlated with changes in DNA damage response and micronuclei formation. We believe this methodology demonstrates the power of combining structural predictions with classical molecular techniques in exploring poorly understood proteins.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700886v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700886v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700886v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] Astrobiology (astrobiology.com) ▶ Dale Andersen’s Astrobiology Antarctic Status Report: 21 January 2026: Lake Untersee Base Camp Weather</title>
+    <link href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-21-january-2026-lake-untersee-base-camp-weather.html"/>
+    <id>https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-21-january-2026-lake-untersee-base-camp-weather.html</id>
+    <updated>2026-01-22T02:36:05Z</updated>
+    <summary>Hi Keith, The past couple of days brought low clouds, some drifting snow, and steady winds that peaked around 30 m/s (~67 mph). Today, the sun made a welcome return and although the wind stayed brisk </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
+<p><strong>AI Decision:</strong> A brief field-status weather update from the Lake Untersee astrobiology campaign that provides logistical context (e.g., conditions enabling glacial ice collection) but contains no substantive origins-of-life or prebiotic chemistry content.</p>
+<p><strong>Abstract:</strong> Hi Keith, The past couple of days brought low clouds, some drifting snow, and steady winds that peaked around 30 m/s (~67 mph). Today, the sun made a welcome return and although the wind stayed brisk through much of the day, conditions were stable enough for us to get some solid work done. We collected glacial ice, […] The post Dale Andersen’s Astrobiology Antarctic Status Report: 21 January 2026: Lake Untersee Base Camp Weather appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-21-january-2026-lake-untersee-base-camp-weather.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] Scientific Reports ▶ Modular Harris Hawks optimization with trend-guided differential evolution and Gaussian exploration for global optimization and engineering design</title>
     <link href="https://www.nature.com/articles/s41598-026-35565-8"/>

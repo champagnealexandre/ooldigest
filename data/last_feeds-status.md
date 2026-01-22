@@ -1,5 +1,5 @@
 # Feed Status Report
-Generated: 2026-01-22 01:23
+Generated: 2026-01-22 03:44
 
 **Legend:** ✅ Healthy | ⚠️ Stalled (30+ days) | ❌ Error | ⬜ Empty (no entries)
 
@@ -18,23 +18,23 @@ Generated: 2026-01-22 01:23
   - URL: https://chemrxiv.org/engage/rss/chemrxiv?categoryId=605c72ef153207001f6470d1
 - **Entropy**: HTTP 403
   - URL: https://www.mdpi.com/rss/journal/entropy
-- **Philosophical Transactions A**: HTTP 403
-  - URL: https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsta
-- **Philosophical Transactions B**: HTTP 403
-  - URL: https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rstb
 - **Journal of The Royal Society Interface**: HTTP 403
   - URL: https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsif
+- **Philosophical Transactions B**: HTTP 403
+  - URL: https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rstb
+- **Philosophical Transactions A**: HTTP 403
+  - URL: https://royalsocietypublishing.org/action/showFeed?type=etoc&feed=rss&jc=rsta
 
 ## ⚠️ Stalled Feeds (no posts in 30+ days)
 
 - **ACS Synthetic Biology**: last post 930 days ago
 - **J Syst Sci Complex**: last post 658 days ago
 - **Annual Reviews: Biochemistry**: last post 216 days ago
-- **Annual Reviews: Astronomy and Astrophysics**: last post 157 days ago
 - **Annual Reviews: Ecology, Evolution, and Systematics**: last post 78 days ago
-- **Annual Reviews: Virology**: last post 119 days ago
-- **Annual Reviews: Microbiology**: last post 91 days ago
+- **Annual Reviews: Astronomy and Astrophysics**: last post 157 days ago
 - **Annual Reviews: Genetics**: last post 58 days ago
+- **Annual Reviews: Microbiology**: last post 91 days ago
+- **Annual Reviews: Virology**: last post 119 days ago
 - **Artif Life**: last post 34 days ago
 - **Scientific American: Evolution**: last post 698 days ago
 
@@ -64,31 +64,31 @@ Generated: 2026-01-22 01:23
 
 ### preprints (24/26 healthy)
 - ❌ ChemRxiv
-- ✅ molecular biology - biorXiv Preprints
-- ✅ biochemistry - biorXiv Preprints
-- ✅ biophysics - biorXiv Preprints
-- ✅ bioinformatics - biorXiv Preprints
-- ✅ cond-mat.dis-nn updates on arXiv.org
 - ✅ nlin.AO updates on arXiv.org
+- ✅ cs.NE updates on arXiv.org
 - ❌ Organic Chemistry on ChemRxiv
 - ✅ cs.GT updates on arXiv.org
-- ✅ nlin.CD updates on arXiv.org
-- ✅ nlin.PS updates on arXiv.org
-- ✅ cell biology - biorXiv Preprints
-- ✅ bioRxiv Subject Collection: Evolutionary Biology
 - ✅ math-ph updates on arXiv.org
-- ✅ cs.NE updates on arXiv.org
-- ✅ astro-ph.EP updates on arXiv.org
+- ✅ cell biology - biorXiv Preprints
+- ✅ cond-mat.dis-nn updates on arXiv.org
+- ✅ bioinformatics - biorXiv Preprints
 - ✅ cs.IT updates on arXiv.org
-- ✅ q-bio.BM updates on arXiv.org
-- ✅ physics.bio-ph updates on arXiv.org
-- ✅ q-bio.MN updates on arXiv.org
-- ✅ physics.chem-ph updates on arXiv.org
+- ✅ nlin.PS updates on arXiv.org
+- ✅ nlin.CD updates on arXiv.org
+- ✅ molecular biology - biorXiv Preprints
+- ✅ biochemistry - biorXiv Preprints
+- ✅ bioRxiv Subject Collection: Evolutionary Biology
 - ✅ cond-mat.stat-mech updates on arXiv.org
-- ✅ math.DS updates on arXiv.org
-- ✅ q-bio.PE updates on arXiv.org
+- ✅ biophysics - biorXiv Preprints
+- ✅ physics.chem-ph updates on arXiv.org
+- ✅ physics.bio-ph updates on arXiv.org
+- ✅ q-bio.BM updates on arXiv.org
+- ✅ astro-ph.EP updates on arXiv.org
 - ✅ physics.comp-ph updates on arXiv.org
 - ✅ systems biology - biorXiv Preprints
+- ✅ q-bio.MN updates on arXiv.org
+- ✅ q-bio.PE updates on arXiv.org
+- ✅ math.DS updates on arXiv.org
 
 ### journals_pubmed (2/4 healthy)
 - ⚠️ J Syst Sci Complex
@@ -98,66 +98,66 @@ Generated: 2026-01-22 01:23
 
 ### journals (27/43 healthy)
 - ⚠️ ACS Synthetic Biology
-- ✅ Annual Reviews: Analytical Chemistry
-- ⚠️ Annual Reviews: Biochemistry
-- ✅ Biosystems
-- ⚠️ Annual Reviews: Astronomy and Astrophysics
-- ✅ Annual Reviews: Physical Chemistry
-- ✅ Annual Reviews: Earth and Planetary Sciences
-- ❌ Entropy
 - ⬜ Chaos: An Interdisciplinary Journal of Nonlinear Science
-- ⚠️ Annual Reviews: Ecology, Evolution, and Systematics
-- ✅ Journal of Computational Science
-- ✅ Annual Reviews: Condensed Matter Physics
+- ⚠️ Annual Reviews: Biochemistry
 - ✅ Annual Reviews: Biophysics
-- ✅ Journal of Theoretical Biology
-- ⚠️ Annual Reviews: Virology
-- ⚠️ Annual Reviews: Microbiology
-- ⬜ Nature Ecology & Evolution Community
-- ⚠️ Annual Reviews: Genetics
-- ✅ BioEssays
-- ✅ eLife - upcoming articles
-- ❌ Philosophical Transactions A
-- ❌ Philosophical Transactions B
-- ✅ nature.com - Astronomy and astrophysics
-- ❌ Journal of The Royal Society Interface
-- ⬜ Comments on: Complex Systems
-- ✅ Physics of Life Reviews
-- ✅ Nature Communications
-- ⬜ Journal of Evolutionary Biology
 - ✅ eLife - recent issues
+- ✅ Biosystems
+- ✅ Annual Reviews: Earth and Planetary Sciences
+- ✅ Annual Reviews: Analytical Chemistry
+- ✅ eLife - upcoming articles
+- ⚠️ Annual Reviews: Ecology, Evolution, and Systematics
+- ⚠️ Annual Reviews: Astronomy and Astrophysics
+- ✅ Annual Reviews: Condensed Matter Physics
+- ⚠️ Annual Reviews: Genetics
+- ⚠️ Annual Reviews: Microbiology
+- ❌ Entropy
+- ⬜ Nature Ecology & Evolution Community
+- ✅ Journal of Theoretical Biology
+- ✅ Journal of Computational Science
+- ❌ Journal of The Royal Society Interface
+- ✅ Annual Reviews: Physical Chemistry
+- ❌ Philosophical Transactions B
+- ⚠️ Annual Reviews: Virology
+- ❌ Philosophical Transactions A
+- ⬜ Comments on: Complex Systems
+- ✅ Nature Communications
+- ✅ Physics of Life Reviews
+- ⬜ Journal of Evolutionary Biology
 - ✅ Nature Chemistry
-- ✅ Phys. Rev. E
+- ✅ BioEssays
 - ✅ Scientific Reports
-- ✅ Protein Science
-- ✅ Phys. Rev. Lett.
-- ✅ PNAS
-- ✅ PLOS Computational Biology
-- ✅ nature.com - Nature Physics
 - ✅ Science
+- ✅ nature.com - Complex networks
+- ✅ nature.com - Astronomy and astrophysics
+- ✅ nature.com - Biological sciences
+- ✅ nature.com - Nature Physics
+- ✅ Phys. Rev. E
+- ✅ Phys. Rev. Lett.
+- ✅ Protein Science
 - ⬜ PLOS Biology
 - ✅ PNAS Evolution
-- ✅ nature.com - Biological sciences
+- ✅ PNAS
+- ✅ PLOS Computational Biology
 - ✅ npj Complexity
-- ✅ nature.com - Complex networks
 
 ### press_releases (6/8 healthy)
-- ✅ phys.org - Mathematics News
 - ⬜ Phys.org - latest science and technology news stories
 - ✅ Phys.org - General Physics News
-- ✅ Complexity Digest
+- ✅ phys.org - Mathematics News
 - ✅ phys.org - Space News
 - ✅ Phys.org: Evolution News
-- ✅ ScienceDaily - Evolutionary Biology News
 - ⬜ UdeMNouvelles
+- ✅ Complexity Digest
+- ✅ ScienceDaily - Evolutionary Biology News
 
 ### magazines (8/9 healthy)
-- ✅ Nature
-- ✅ New Scientist - Current Issue Articles
 - ✅ Sciences et Avenir
-- ✅ New Scientist - Physics & Math
+- ✅ Quanta Magazine
 - ⚠️ Scientific American: Evolution
 - ✅ Scientific American
-- ✅ Quanta Magazine
+- ✅ New Scientist - Physics & Math
+- ✅ Nature
 - ✅ New Scientist - Life
+- ✅ New Scientist - Current Issue Articles
 - ✅ Pour la Science

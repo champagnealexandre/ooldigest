@@ -1,5 +1,30 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 35 | [Dale Andersen’s Astrobiology Antarctic Status Report: 21 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-21-january-2026-lake-untersee-base-camp-weather.html) |
+| ai_scored | 30 | [Sequence and Structural Alignments Reveal Insights into ANKL](https://www.biorxiv.org/content/10.64898/2026.01.21.700886v1?rss=1) |
+| ai_scored | 0 | [Tceal7 is a BRG1-regulated target of calcineurin signaling t](https://www.biorxiv.org/content/10.64898/2026.01.20.700469v1?rss=1) |
+| ai_scored | 45 | [FastSpeciesTree: Fast and Scalable Species tree Inference](https://www.biorxiv.org/content/10.64898/2026.01.20.700630v1?rss=1) |
+| ai_scored | 40 | [Structural, dynamic, and evolutionary determinants of substr](https://www.biorxiv.org/content/10.64898/2026.01.21.700892v1?rss=1) |
+| ai_scored | 35 | [A Perfect Soldier: the black soldier fly as a microbial-medi](https://www.biorxiv.org/content/10.64898/2026.01.18.700162v1?rss=1) |
+| keyword_rejected | - | [L'électricité éolienne et solaire prend le pas sur les fossi](https://www.sciencesetavenir.fr/nature-environnement/l-electricite-eolienne-et-solaire-prend-le-pas-sur-les-fossiles-dans-l-ue_190520?xtor=RSS-15) |
+| keyword_rejected | - | [Uncovering the molecular logic of cortical wiring between ne](https://www.nature.com/articles/s41467-025-68059-8) |
+| keyword_rejected | - | [No evidence of immediate or persistent analgesic effect from](https://www.nature.com/articles/s41467-026-68763-z) |
+| keyword_rejected | - | [Uncovering the molecular logic of cortical wiring between ne](https://www.nature.com/articles/s41467-025-68059-8) |
+| keyword_rejected | - | [Vectorial noncovalent synthesis of bendable organic crystals](https://www.nature.com/articles/s41467-026-68783-9) |
+| keyword_rejected | - | [Glass formation in hybrid metal halides via breaking molecul](https://www.nature.com/articles/s41467-026-68563-5) |
+| keyword_rejected | - | [No evidence of immediate or persistent analgesic effect from](https://www.nature.com/articles/s41467-026-68763-z) |
+| keyword_rejected | - | [Mid-Infrared absorption coefficients of human skin stratum c](https://www.biorxiv.org/content/10.64898/2026.01.17.699860v1?rss=1) |
+| keyword_rejected | - | [Time-Resolved Resonance Raman Spectroscopy of Retinal Protei](https://www.biorxiv.org/content/10.64898/2026.01.18.700169v1?rss=1) |
+| keyword_rejected | - | [Chaotropic Ions Reshape the Cell Wall of the Obligate Haloph](https://www.biorxiv.org/content/10.64898/2026.01.18.700186v1?rss=1) |
+| keyword_rejected | - | [Deconvolving Phylogenetic Distance Mixtures](https://www.biorxiv.org/content/10.64898/2026.01.18.700179v1?rss=1) |
+| keyword_rejected | - | [Evidence of Adaptation in Structural Variants among Wild Pop](https://www.biorxiv.org/content/10.64898/2026.01.20.700628v1?rss=1) |
+| keyword_rejected | - | [Bifunctional Lipid-Protein Crosslinking Efficiency and React](https://www.biorxiv.org/content/10.64898/2026.01.18.700185v1?rss=1) |
+| keyword_rejected | - | [mRNA Therapy for Alport Syndrome](https://www.biorxiv.org/content/10.64898/2026.01.20.700554v1?rss=1) |
+| keyword_rejected | - | [Nevermore: Target-Conditioned Protein-Ligand Representation ](https://www.biorxiv.org/content/10.64898/2026.01.20.700610v1?rss=1) |
+| keyword_rejected | - | [Optimizing broadly neutralizing antibodies via all-atom inte](https://www.biorxiv.org/content/10.64898/2026.01.20.700456v1?rss=1) |
+| keyword_rejected | - | [Predicting Enzyme pH Optima from Structure Using Equivariant](https://www.biorxiv.org/content/10.64898/2026.01.18.700076v1?rss=1) |
+| keyword_rejected | - | [Ancestral sequence reconstruction using generative models](https://www.biorxiv.org/content/10.64898/2026.01.18.700141v1?rss=1) |
+| keyword_rejected | - | [Zero-shot ecological annotation of microbial genomes with my](https://www.biorxiv.org/content/10.64898/2026.01.18.700140v1?rss=1) |
 | ai_scored | 43 | [Mutualistic rhizobia harbor genetic variation for traits rel](https://www.biorxiv.org/content/10.64898/2026.01.20.700730v1?rss=1) |
 | ai_scored | 30 | [Comparative genomics of Tandem Repeat variation in apes](https://www.biorxiv.org/content/10.64898/2026.01.20.700717v1?rss=1) |
 | ai_scored | 10 | [Carotenoid-based ornaments predict survival in male but not ](https://www.biorxiv.org/content/10.64898/2026.01.21.700769v1?rss=1) |
