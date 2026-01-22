@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Nouvelle-Zélande: deux morts et plusieurs disparus dans un g](https://www.sciencesetavenir.fr/nature-environnement/nouvelle-zelande-deux-morts-et-plusieurs-disparus-dans-un-glissement-de-terrain_190521?xtor=RSS-15) |
+| keyword_rejected | - | [Space station crew credits ultrasound machine for handling i](https://phys.org/news/2026-01-space-station-crew-credits-ultrasound.html) |
+| keyword_rejected | - | [Deceptive beauty of non‐natural structures](https://onlinelibrary.wiley.com/doi/10.1002/pro.70474?af=R) |
+| keyword_rejected | - | [Differences in Src phosphorylation of PSD‐93 and PSD‐95 driv](https://onlinelibrary.wiley.com/doi/10.1002/pro.70471?af=R) |
+| keyword_rejected | - | [Cryo‐EM reveals an ensemble of cytochrome P450 reductase con](https://onlinelibrary.wiley.com/doi/10.1002/pro.70448?af=R) |
+| keyword_rejected | - | [ProteinDJ: A high‐performance and modular protein design pip](https://onlinelibrary.wiley.com/doi/10.1002/pro.70464?af=R) |
+| keyword_rejected | - | [Diversity of FAAL enzymes and prediction of their substrate ](https://onlinelibrary.wiley.com/doi/10.1002/pro.70468?af=R) |
+| keyword_rejected | - | [The cellular logic of limb regeneration](https://elifesciences.org/articles/110316) |
 | ai_scored | 55 | [Outsourcing of energetically costly amino acids at the origi](https://www.nature.com/articles/s41467-026-68724-6) |
 | ai_scored | 5 | [Single-cell spatially resolved transcriptomic characterizati](https://www.biorxiv.org/content/10.64898/2026.01.21.700589v1?rss=1) |
 | ai_scored | 5 | [Dietary patterns and sperm DNA fragmentation in idiopathic i](https://www.nature.com/articles/s41598-026-35928-1) |
