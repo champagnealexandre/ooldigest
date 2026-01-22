@@ -3,8 +3,118 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T13:43:09.362377+00:00</updated>
+  <updated>2026-01-22T15:27:13.209642+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] bioRxiv Subject Collection: Evolutionary Biology ▶ Experimental evolution reveals bifunctional genetic solutions to loss of trpF in Salmonella enterica</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700655v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700655v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>How new gene functions arise while maintaining ancestral biological roles remains a central question in evolutionary genetics. To investigate genetic solutions to disruption of a biosynthetic pathway </summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Experimental evolution in Salmonella shows that point mutations in alternative genes (hisA or trpA) can restore tryptophan biosynthesis after trpF loss via bifunctional alleles, illustrating a plausible route to new gene functions without gene duplication.</p>
+<p><strong>Abstract:</strong> How new gene functions arise while maintaining ancestral biological roles remains a central question in evolutionary genetics. To investigate genetic solutions to disruption of a biosynthetic pathway without prior genetic bias, we used experimental evolution to study restoration of tryptophan biosynthesis in Salmonella enterica strains lacking the trpF gene. Populations were founded from bacteria carrying wild-type alleles of all relevant genes in their native genomic and regulatory contexts and evolved under conditions selecting for growth without exogenous tryptophan. Across independent populations, mutations in either hisA or trpA enabled growth of trpF strains in the absence of added tryptophan while retaining sufficient ancestral function to support growth under the same conditions. Whole-genome sequencing and genetic reconstruction showed that these mutant alleles were sufficient to confer the growth-rescue phenotype. Duplication of the target gene was detected in only a single population and showed no evidence of functional divergence. Mutational paths differed between genes: hisA-based solutions arose primarily in mutator backgrounds and were associated with stronger trade-offs with ancestral function, whereas trpA-based solutions were more frequent and often retained native function. Together, these results demonstrate that bifunctional genetic solutions can arise through point mutations in multiple genes during experimental adaptation, illustrating how gene-level multifunctionality can evolve without gene duplication.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700655v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700655v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700655v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [10] Physics of Life Reviews ▶ Illuminating Brain’s “Dark Energy”: A Living Lens of Spontaneous Slow Oscillations. Reply to comments on ‘Dark brain energy: Toward an integrative model of spontaneous slow oscillations’</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1571064526000072?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1571064526000072?dgcid=rss_sd_all</id>
+    <updated>2026-01-22T15:00:00Z</updated>
+    <summary>Publication date: Available online 21 January 2026 Source: Physics of Life Reviews Author(s): Zhu-Qing Gong, Xi-Nian Zuo</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> A neuroscience-focused reply article on spontaneous slow oscillations (“dark brain energy”) with only tangential relevance to origins-of-life questions despite being in Physics of Life Reviews.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 21 January 2026 Source: Physics of Life Reviews Author(s): Zhu-Qing Gong, Xi-Nian Zuo</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1571064526000072?dgcid=rss_sd_all">https://www.sciencedirect.com/science/article/pii/S1571064526000072?dgcid=rss_sd_all</a></li>
+</ul>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064526000072?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] Physics of Life Reviews ▶ Mnemonics, optimization, and leveraging what we already have: Comment on “To enhance or not to enhance: A debate about cognitive enhancement from a psychological and neuroscientific perspective” by Grinschgl, S., Ninaus, M., Wood, G., &amp; Neubauer, A. C.</title>
+    <link href="https://www.sciencedirect.com/science/article/pii/S1571064526000084?dgcid=rss_sd_all"/>
+    <id>https://www.sciencedirect.com/science/article/pii/S1571064526000084?dgcid=rss_sd_all</id>
+    <updated>2026-01-22T15:00:00Z</updated>
+    <summary>Publication date: Available online 21 January 2026 Source: Physics of Life Reviews Author(s): Nicco Reggente, Theo Tobel, Michael Lifshitz</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> This is a commentary on cognitive enhancement psychology/neuroscience and does not address origins of life, prebiotic chemistry, habitability, or astrobiology-related topics.</p>
+<p><em>Abstract not available in RSS feed.</em></p>
+<p><strong>Metadata:</strong> Publication date: Available online 21 January 2026 Source: Physics of Life Reviews Author(s): Nicco Reggente, Theo Tobel, Michael Lifshitz</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1571064526000084?dgcid=rss_sd_all">https://www.sciencedirect.com/science/article/pii/S1571064526000084?dgcid=rss_sd_all</a></li>
+</ul>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S1571064526000084?dgcid=rss_sd_all">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] Astrobiology (astrobiology.com) ▶ Towards Model-free Stellar Chemical Abundances. Potential Applications In The Search For Chemically Peculiar Stars In Large Spectroscopic Surveys</title>
+    <link href="https://astrobiology.com/2026/01/towards-model-free-stellar-chemical-abundances-potential-applications-in-the-search-for-chemically-peculiar-stars-in-large-spectroscopic-surveys.html"/>
+    <id>https://astrobiology.com/2026/01/towards-model-free-stellar-chemical-abundances-potential-applications-in-the-search-for-chemically-peculiar-stars-in-large-spectroscopic-surveys.html</id>
+    <updated>2026-01-22T13:16:00Z</updated>
+    <summary>Chemical abundance determinations from stellar spectra are challenged by observational noise, limitations in stellar models, and departures from simplifying assumptions. While traditional and supervis</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, astrochemistry</p>
+<p><strong>AI Decision:</strong> Develops a model-free approach to infer stellar chemical abundances from spectra to identify chemically peculiar stars in large surveys, with only indirect astrobiology relevance via improved stellar/planet-forming environment chemistry.</p>
+<p><strong>Abstract:</strong> Chemical abundance determinations from stellar spectra are challenged by observational noise, limitations in stellar models, and departures from simplifying assumptions. While traditional and supervised machine learning methods have made remarkable progress in estimating atmospheric parameters and chemical compositions within existing physical models, these factors still constrain our ability to fully exploit the vast data sets […] The post Towards Model-free Stellar Chemical Abundances. Potential Applications In The Search For Chemically Peculiar Stars In Large Spectroscopic Surveys appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1051/0004-6361/202555376">https://doi.org/10.1051/0004-6361/202555376</a></li>
+<li><a href="https://arxiv.org/abs/2511.09733">https://arxiv.org/abs/2511.09733</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2511.09733">https://doi.org/10.48550/arXiv.2511.09733</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/towards-model-free-stellar-chemical-abundances-potential-applications-in-the-search-for-chemically-peculiar-stars-in-large-spectroscopic-surveys.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] Astrobiology (astrobiology.com) ▶ KOALA, A New ATLAS9 Database — I. Model atmospheres, Opacities, Fluxes, Bolometric Corrections, Magnitudes And Colours</title>
+    <link href="https://astrobiology.com/2026/01/koala-a-new-atlas9-database-i-model-atmospheres-opacities-fluxes-bolometric-corrections-magnitudes-and-colours.html"/>
+    <id>https://astrobiology.com/2026/01/koala-a-new-atlas9-database-i-model-atmospheres-opacities-fluxes-bolometric-corrections-magnitudes-and-colours.html</id>
+    <updated>2026-01-22T12:20:00Z</updated>
+    <summary>We present the KOALA database, a new set of LTE, line-blanketed model atmospheres calculated with the code ATLAS9, together with the corresponding Opacity Distribution Functions and emergent fluxes. T</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, exoplanet</p>
+<p><strong>AI Decision:</strong> Presents a new ATLAS9 stellar atmosphere/opacity/photometry database that can indirectly support exoplanet host-star characterization but has minimal direct relevance to origins-of-life or biosignature/habitability questions.</p>
+<p><strong>Abstract:</strong> We present the KOALA database, a new set of LTE, line-blanketed model atmospheres calculated with the code ATLAS9, together with the corresponding Opacity Distribution Functions and emergent fluxes. The latter were used also to calculated G-band bolometric corrections and theoretical magnitudes and colours for several photometric systems, i.e. UBVRI, 2MASS, Hypparcos-Tycho, SDSS, Galex, Euclid and […] The post KOALA, A New ATLAS9 Database — I. Model atmospheres, Opacities, Fluxes, Bolometric Corrections, Magnitudes And Colours appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://arxiv.org/abs/2511.10737">https://arxiv.org/abs/2511.10737</a></li>
+<li><a href="https://doi.org/10.48550/arXiv.2511.10737">https://doi.org/10.48550/arXiv.2511.10737</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/koala-a-new-atlas9-database-i-model-atmospheres-opacities-fluxes-bolometric-corrections-magnitudes-and-colours.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟡 [70] phys.org - Space News ▶ Rethinking where life could exist beyond Earth</title>
+    <link href="https://phys.org/news/2026-01-rethinking-life-earth.html"/>
+    <id>https://phys.org/news/2026-01-rethinking-life-earth.html</id>
+    <updated>2026-01-22T15:10:02Z</updated>
+    <summary>Astronomers have long searched for life within a rather narrow ring around a star, the &quot;habitable zone,&quot; where a planet should be neither too hot nor too cold for liquid water. A new study argues that</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, water, astrobio*, life, earth</p>
+<p><strong>AI Decision:</strong> The study argues that tidally locked planets around cool M/K dwarfs may still sustain liquid water on their permanent night sides via heat transport, broadening the conventional habitable zone and thus potential settings for life beyond Earth.</p>
+<p><strong>Abstract:</strong> Astronomers have long searched for life within a rather narrow ring around a star, the &quot;habitable zone,&quot; where a planet should be neither too hot nor too cold for liquid water. A new study argues that this ring is too strict: on tidally locked worlds that keep one face in daylight and the other in permanent night, heat may still circulate enough for liquid water to persist on the dark side, even when the planet orbits closer to cool M- and K-dwarf stars than conservative climate models allow.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-rethinking-life-earth.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] Astrobiology (astrobiology.com) ▶ NASA Spaceline Current Awareness List #1,183 16 January 2026 (Space Life Science Research Results)</title>
+    <link href="https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1183-16-january-2026-space-life-science-research-results.html"/>
+    <id>https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1183-16-january-2026-space-life-science-research-results.html</id>
+    <updated>2026-01-22T14:11:39Z</updated>
+    <summary>The abstract in PubMed or at the publisher’s site is linked when available and will open in a new window. Papers deriving from NASA support: Other papers of interest: Astrobiology, space biology, spac</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*, life</p>
+<p><strong>AI Decision:</strong> A NASA Spaceline current-awareness roundup of recent space life-science/astrobiology-related papers rather than a primary origins-of-life study, offering only broad contextual relevance to OoL.</p>
+<p><strong>Abstract:</strong> The abstract in PubMed or at the publisher’s site is linked when available and will open in a new window. Papers deriving from NASA support: Other papers of interest: Astrobiology, space biology, space medicine, microgravity, NASA, The post NASA Spaceline Current Awareness List #1,183 16 January 2026 (Space Life Science Research Results) appeared first on Astrobiology .</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.mdpi.com/journal/ijms/special_issues/189F8PL45X">https://www.mdpi.com/journal/ijms/special_issues/189F8PL45X</a></li>
+<li><a href="https://doi.org/10.1021/acsnanoscienceau.5c00130">https://doi.org/10.1021/acsnanoscienceau.5c00130</a></li>
+<li><a href="https://doi.org/10.1016/j.ncrops.2026.100102">https://doi.org/10.1016/j.ncrops.2026.100102</a></li>
+<li><a href="https://doi.org/10.1016/j.bonr.2025.101895">https://doi.org/10.1016/j.bonr.2025.101895</a></li>
+<li><a href="https://doi.org/10.1016/j.lssr.2025.11.010">https://doi.org/10.1016/j.lssr.2025.11.010</a></li>
+<li><a href="https://doi.org/10.3389/fphys.2025.1729596">https://doi.org/10.3389/fphys.2025.1729596</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41525486">https://pubmed.ncbi.nlm.nih.gov/41525486</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41531387">https://pubmed.ncbi.nlm.nih.gov/41531387</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41516217">https://pubmed.ncbi.nlm.nih.gov/41516217</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41507492">https://pubmed.ncbi.nlm.nih.gov/41507492</a></li>
+</ul>
+<p><a href="https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1183-16-january-2026-space-life-science-research-results.html">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] phys.org - Space News ▶ Astronomers discover dense super-Neptune exoplanet orbiting a sun-like star</title>
     <link href="https://phys.org/news/2026-01-astronomers-dense-super-neptune-exoplanet.html"/>
@@ -6967,17 +7077,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> An international team of researchers, with the involvement of the UAB, has conducted a study that explains the evolutionary origins of the Dehnel phenomenon, a unique seasonal adaptation in small mammals that involves the ability to reduce and recover brain volume and function. The study is published in Molecular Biology and Evolution.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-small-mammals-brains-survive-cold.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [50] phys.org - Space News ▶ Two new exoplanets and the need for new habitable zone definitions</title>
-    <link href="https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html"/>
-    <id>https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html</id>
-    <updated>2026-01-15T13:59:35Z</updated>
-    <summary>At the beginning of the exoplanet age, the goals were fairly simple. The first was to find as many of them as possible to flesh out our understanding of the exoplanet population. The second was to det</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> habitab*, astrobio*, exoplanet</p>
-<p><strong>AI Decision:</strong> Discusses recent exoplanet finds and argues for updated habitable zone definitions, offering broad astrobiology context but limited direct relevance to origins-of-life mechanisms or biosignature-focused habitability constraints.</p>
-<p><strong>Abstract:</strong> At the beginning of the exoplanet age, the goals were fairly simple. The first was to find as many of them as possible to flesh out our understanding of the exoplanet population. The second was to determine if any were in the habitable zones around their stars.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-exoplanets-habitable-zone-definitions.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

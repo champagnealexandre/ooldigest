@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [NASA Spaceline Current Awareness List #1,183 16 January 2026](https://astrobiology.com/2026/01/nasa-spaceline-current-awareness-list-1183-16-january-2026-space-life-science-research-results.html) |
+| ai_scored | 70 | [Rethinking where life could exist beyond Earth](https://phys.org/news/2026-01-rethinking-life-earth.html) |
+| ai_scored | 20 | [KOALA, A New ATLAS9 Database — I. Model atmospheres, Opaciti](https://astrobiology.com/2026/01/koala-a-new-atlas9-database-i-model-atmospheres-opacities-fluxes-bolometric-corrections-magnitudes-and-colours.html) |
+| ai_scored | 35 | [Towards Model-free Stellar Chemical Abundances. Potential Ap](https://astrobiology.com/2026/01/towards-model-free-stellar-chemical-abundances-potential-applications-in-the-search-for-chemically-peculiar-stars-in-large-spectroscopic-surveys.html) |
+| ai_scored | 0 | [Mnemonics, optimization, and leveraging what we already have](https://www.sciencedirect.com/science/article/pii/S1571064526000084?dgcid=rss_sd_all) |
+| ai_scored | 10 | [Illuminating Brain’s “Dark Energy”: A Living Lens of Spontan](https://www.sciencedirect.com/science/article/pii/S1571064526000072?dgcid=rss_sd_all) |
+| ai_scored | 50 | [Experimental evolution reveals bifunctional genetic solution](https://www.biorxiv.org/content/10.64898/2026.01.20.700655v1?rss=1) |
+| keyword_rejected | - | [Histoire des paranthropes, richesses du Groenland et croissa](https://www.sciencesetavenir.fr/ultrabreves/histoire-des-paranthropes-richesses-du-groenland-et-croissance-du-t-rex-l-actu-des-sciences-en-ultrabreves_190523) |
+| keyword_rejected | - | [Chimpanzees are better at solving resource dilemmas in large](https://phys.org/news/2026-01-chimpanzees-resource-dilemmas-larger-tolerant.html) |
+| keyword_rejected | - | [Finding Graph Isomorphisms in Heated Spaces in Almost No Tim](https://comdig.unam.mx/2026/01/22/finding-graph-isomorphisms-in-heated-spaces-in-almost-no-time/) |
+| keyword_rejected | - | [A titin missense variant drives atrial electrical remodeling](https://elifesciences.org/articles/104719) |
+| keyword_rejected | - | [Feedback of peripheral saccade targets to early foveal corte](https://elifesciences.org/articles/107053) |
+| keyword_rejected | - | [cyto: ultra high-throughput processing of 10x-flex single ce](https://www.biorxiv.org/content/10.64898/2026.01.21.700936v1?rss=1) |
+| keyword_rejected | - | [The role of cohesin loading at enhancers in the flux of loop](https://www.biorxiv.org/content/10.64898/2026.01.20.700462v1?rss=1) |
+| keyword_rejected | - | [5' UTR length regulates alternative N-terminal protein isofo](https://www.biorxiv.org/content/10.64898/2026.01.20.700518v1?rss=1) |
 | ai_scored | 25 | [Les astronautes d’Artemis II rejoindront la Lune avec leurs ](https://www.sciencesetavenir.fr/espace/systeme-solaire/les-astronautes-d-artemis-ii-voyageront-avec-leurs-clones-cellulaires-autour-de-la-lune_190525?xtor=RSS-9) |
 | ai_scored | 20 | [Astronomers discover dense super-Neptune exoplanet orbiting ](https://phys.org/news/2026-01-astronomers-dense-super-neptune-exoplanet.html) |
 | keyword_rejected | - | [Scientists just calculated how many microplastics are in our](https://www.scientificamerican.com/article/scientists-just-calculated-how-many-microplastics-are-in-our-atmosphere-the/) |
