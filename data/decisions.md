@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [The hidden microbial communities that shape health in space](https://phys.org/news/2026-01-hidden-microbial-communities-health-space.html) |
+| keyword_rejected | - | [De braconnier à ranger: au Nigeria, le nouveau souffle de la](https://www.sciencesetavenir.fr/nature-environnement/de-braconnier-a-ranger-au-nigeria-le-nouveau-souffle-de-la-foret-d-okomu_190522?xtor=RSS-15) |
+| keyword_rejected | - | [Resurrected nitrogenases recapitulate canonical N-isotope bi](https://www.nature.com/articles/s41467-025-67423-y) |
+| keyword_rejected | - | [Identification of Chlamydia pneumoniae and NLRP3 inflammasom](https://www.nature.com/articles/s41467-026-68580-4) |
+| keyword_rejected | - | [CDK2 inhibitor BLU-222 synergizes with CDK4/6 inhibitors in ](https://www.nature.com/articles/s41467-025-67865-4) |
+| keyword_rejected | - | [Antibody-conjugated mesenchymal stromal cell drug delivery s](https://www.nature.com/articles/s41467-025-67698-1) |
+| keyword_rejected | - | [Meta-unstable mRNAs in activated CD8+ T cells are defined by](https://www.nature.com/articles/s41467-025-67762-w) |
+| keyword_rejected | - | [Improved Arabic query expansion using word embedding](https://www.nature.com/articles/s41598-025-28758-0) |
 | keyword_rejected | - | [Nouvelle-Zélande: deux morts et plusieurs disparus dans un g](https://www.sciencesetavenir.fr/nature-environnement/nouvelle-zelande-deux-morts-et-plusieurs-disparus-dans-un-glissement-de-terrain_190521?xtor=RSS-15) |
 | keyword_rejected | - | [Space station crew credits ultrasound machine for handling i](https://phys.org/news/2026-01-space-station-crew-credits-ultrasound.html) |
 | keyword_rejected | - | [Deceptive beauty of non‐natural structures](https://onlinelibrary.wiley.com/doi/10.1002/pro.70474?af=R) |
