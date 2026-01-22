@@ -1,5 +1,42 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Single-cell atlas of human lung aging identifies cell type d](https://www.nature.com/articles/s41467-026-68810-9) |
+| ai_scored | 5 | [Diversity of water striders emerged earlier than previously ](https://phys.org/news/2026-01-diversity-striders-emerged-earlier-previously.html) |
+| ai_scored | 5 | [Correction: AOH induces oxidative stress and DNA damage in o](https://www.nature.com/articles/s41598-026-36730-9) |
+| ai_scored | 25 | [AI model that found 370 exoplanets now digs into TESS data](https://phys.org/news/2026-01-ai-exoplanets-tess.html) |
+| ai_scored | 75 | [Resurrected ancient enzyme offers new window into early Eart](https://phys.org/news/2026-01-resurrected-ancient-enzyme-window-early.html) |
+| keyword_rejected | - | [The immense interconnectivity of the brain: Best ideas of th](https://www.newscientist.com/article/2508321-the-immense-interconnectivity-of-the-brain-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The invention of net zero: Best ideas of the century](https://www.newscientist.com/article/2508813-the-invention-of-net-zero-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Ancient giant kangaroos could have hopped despite their huge](https://www.newscientist.com/article/2508954-ancient-giant-kangaroos-could-have-hopped-despite-their-huge-size/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our oral microbiome could hold the key to preventing obesity](https://www.newscientist.com/article/2512970-our-oral-microbiome-could-hold-the-key-to-preventing-obesity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The immense interconnectivity of the brain: Best ideas of th](https://www.newscientist.com/article/2508321-the-immense-interconnectivity-of-the-brain-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The invention of net zero: Best ideas of the century](https://www.newscientist.com/article/2508813-the-invention-of-net-zero-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Ancient giant kangaroos could have hopped despite their huge](https://www.newscientist.com/article/2508954-ancient-giant-kangaroos-could-have-hopped-despite-their-huge-size/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our oral microbiome could hold the key to preventing obesity](https://www.newscientist.com/article/2512970-our-oral-microbiome-could-hold-the-key-to-preventing-obesity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The immense interconnectivity of the brain: Best ideas of th](https://www.newscientist.com/article/2508321-the-immense-interconnectivity-of-the-brain-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [The invention of net zero: Best ideas of the century](https://www.newscientist.com/article/2508813-the-invention-of-net-zero-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Ancient giant kangaroos could have hopped despite their huge](https://www.newscientist.com/article/2508954-ancient-giant-kangaroos-could-have-hopped-despite-their-huge-size/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Our oral microbiome could hold the key to preventing obesity](https://www.newscientist.com/article/2512970-our-oral-microbiome-could-hold-the-key-to-preventing-obesity/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Microplastic levels in the air have been overestimated, but ](https://www.nature.com/articles/d41586-026-00184-w) |
+| keyword_rejected | - | [Grèce: deux morts dans des pluies torrentielles "extrêmes"](https://www.sciencesetavenir.fr/nature-environnement/grece-deux-morts-dans-des-pluies-torrentielles-extremes_190534?xtor=RSS-15) |
+| keyword_rejected | - | [Lait infantile: un bébé décédé début janvier, enquête pénale](https://www.sciencesetavenir.fr/sante/lait-infantile-un-bebe-decede-debut-janvier-enquete-penale-a-bordeaux_190532?xtor=RSS-16) |
+| keyword_rejected | - | [The extended family of the Seven Sisters](https://www.nature.com/articles/s41550-025-02764-8) |
+| keyword_rejected | - | [Nitrogen anomalies near and far](https://www.nature.com/articles/s41550-025-02769-3) |
+| keyword_rejected | - | [Finding a galaxy in a haystack](https://www.nature.com/articles/s41550-026-02773-1) |
+| keyword_rejected | - | [Carbon-rich atmospheres hard to explain](https://www.nature.com/articles/s41550-026-02772-2) |
+| keyword_rejected | - | [Cross-ancestry comparison of aptamer and antibody protein me](https://www.nature.com/articles/s41467-025-67814-1) |
+| keyword_rejected | - | [Hierarchical maturation of structural brain connectomes from](https://www.nature.com/articles/s41467-026-68704-w) |
+| keyword_rejected | - | [Dynamic single-cell transcriptomics reveals lsamp-guided neu](https://www.nature.com/articles/s41467-026-68305-7) |
+| keyword_rejected | - | [Synaptic and intrinsic membrane defects disrupt early neural](https://www.nature.com/articles/s41467-025-68048-x) |
+| keyword_rejected | - | [Biophysical characterization of Eag chaperones suggests the ](https://www.nature.com/articles/s41467-025-68138-w) |
+| keyword_rejected | - | [Dual-functional quorum sensing signal synthases DspII and Ds](https://www.nature.com/articles/s41467-026-68622-x) |
+| keyword_rejected | - | [A comprehensive catalogue of receptor-binding domains in ext](https://www.nature.com/articles/s41467-026-68710-y) |
+| keyword_rejected | - | [Single-cell atlas of human lung aging identifies cell type d](https://www.nature.com/articles/s41467-026-68810-9) |
+| keyword_rejected | - | [Atypical pericapillary Ly6G⁺Nur77⁺ macrophages initiate type](https://www.nature.com/articles/s41467-026-68652-5) |
+| keyword_rejected | - | [Dark energy survey scientists release analysis of all six ye](https://phys.org/news/2026-01-dark-energy-survey-scientists-analysis.html) |
+| keyword_rejected | - | [Correction: Spatio-temporal patterns, trends, and oceanograp](https://www.nature.com/articles/s41598-026-36867-7) |
+| keyword_rejected | - | [Atypical pericapillary Ly6G⁺Nur77⁺ macrophages initiate type](https://www.nature.com/articles/s41467-026-68652-5) |
+| keyword_rejected | - | [Harnessing Van Hove singularities for terahertz photorespons](https://www.nature.com/articles/s41467-025-66749-x) |
 | ai_scored | 20 | [Four-eyed Cambrian fish fossils hint at origins of vertebrat](https://phys.org/news/2026-01-eyed-cambrian-fish-fossils-hint.html) |
 | keyword_rejected | - | [Dauphins : un nouveau mois sans pêche, mais peut-être pas le](https://www.sciencesetavenir.fr/animaux/animaux-marins/dauphins-un-nouveau-mois-sans-peche-mais-peut-etre-pas-le-dernier_190516?xtor=RSS-26) |
 | keyword_rejected | - | [What your breath says about the bacteria in your gut](https://www.nature.com/articles/d41586-026-00219-2) |
