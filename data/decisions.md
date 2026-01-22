@@ -1,5 +1,22 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Widespread Regulatory Turnover Across Human Segmental Duplic](https://www.biorxiv.org/content/10.64898/2026.01.21.700947v1?rss=1) |
+| ai_scored | 35 | [Ancient bacterium discovery rewrites the origins of syphilis](https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 50 | [Ancient bacterium discovery rewrites the origins of syphilis](https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 45 | [PopMAG: A Nextflow pipeline for population genetics analysis](https://www.biorxiv.org/content/10.64898/2026.01.21.700883v1?rss=1) |
+| ai_scored | 5 | [Cells that are not our own may unlock secrets about our heal](https://phys.org/news/2026-01-cells-secrets-health.html) |
+| ai_scored | 50 | [Dye-cycling DNA origami rotors for long-term tracking of tra](https://www.biorxiv.org/content/10.64898/2026.01.21.700733v1?rss=1) |
+| ai_scored | 35 | [Ancient bacterium discovery rewrites the origins of syphilis](https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 40 | [Phosphorothioate DNA modification by BREX type 4 systems in ](https://www.nature.com/articles/s41467-026-68412-5) |
+| ai_scored | 25 | [A dynamic RNA hub facilitates activation induced cytidine de](https://www.biorxiv.org/content/10.64898/2026.01.19.700375v1?rss=1) |
+| ai_scored | 40 | [Fast Adversarial Generation of Molecular Dynamics Trajectori](https://www.biorxiv.org/content/10.64898/2026.01.21.700960v1?rss=1) |
+| keyword_rejected | - | [Colon cancer is killing more young people in the U.S. than a](https://www.scientificamerican.com/article/colon-cancer-is-killing-more-young-people-in-the-u-s-than-any-other-cancer/) |
+| keyword_rejected | - | [Camouflaged nanorobots target and regulate macrophage subcel](https://www.nature.com/articles/s41467-026-68636-5) |
+| keyword_rejected | - | [Heterogeneity-Resolved Ultrafast Transient Absorption Spectr](https://www.biorxiv.org/content/10.64898/2026.01.19.700341v1?rss=1) |
+| keyword_rejected | - | [Genome-wide divergence in a desert plant in the Baja Califor](https://www.biorxiv.org/content/10.64898/2026.01.19.699825v1?rss=1) |
+| keyword_rejected | - | [Distribution of Gene Tree Topologies with Duplication, Loss,](https://www.biorxiv.org/content/10.64898/2026.01.19.700405v1?rss=1) |
+| keyword_rejected | - | [Loss of α2,3-linked sialoside in the receptor-binding site o](https://www.biorxiv.org/content/10.64898/2026.01.19.700419v1?rss=1) |
+| keyword_rejected | - | [The One Click Wonder: a retrained automated segmentation pip](https://www.biorxiv.org/content/10.64898/2026.01.21.700865v1?rss=1) |
 | ai_scored | 5 | [Evolution of Reproductive Plasticity in a Seasonal Tropical ](https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1) |
 | keyword_rejected | - | [Is the flu shot linked to dysphonia? Here’s what the science](https://www.scientificamerican.com/article/is-the-flu-shot-linked-to-dysphonia-heres-what-the-science-says/) |
 | keyword_rejected | - | [NIH ends fetal tissue research](https://www.scientificamerican.com/article/nih-ends-fetal-tissue-research/) |

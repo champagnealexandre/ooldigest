@@ -3,8 +3,148 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T22:19:01.746219+00:00</updated>
+  <updated>2026-01-22T23:17:54.954253+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [40] biophysics - biorXiv Preprints ▶ Fast Adversarial Generation of Molecular Dynamics Trajectories with Kinetic Fidelity</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700960v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700960v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Molecular dynamics (MD) simulations yield atomic-level insights into molecular motion but struggle to reach the long timescales needed for rare events due to prohibitive computational costs. Generativ</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces a GAN-based method to generate kinetically faithful molecular dynamics trajectory segments in one shot, potentially accelerating simulations of biomolecular processes (though not directly focused on origins-of-life chemistry).</p>
+<p><strong>Abstract:</strong> Molecular dynamics (MD) simulations yield atomic-level insights into molecular motion but struggle to reach the long timescales needed for rare events due to prohibitive computational costs. Generative machine-learning models (e.g., diffusion models and normalizing flows) offer a promising route to accelerate sampling, yet they generate independent equilibrium snapshots without temporal correlation or kinetic information. Autoregressive sequence models can learn time evolution by producing one frame at a time, but this stepwise generation often accumulates errors and drifts from true dynamics. Here, we propose a complementary approach inspired by advances in image and video generation: we treat finite MD trajectory segments as high-dimensional objects and learn their joint distribution using Generative Adversarial Networks (GANs). Using a Wasserstein GAN with gradient penalty, we directly generate entire time-series trajectories in one shot, that remain physically coherent over time without explicitly integrating the equations of motion. We demonstrate the generality of this method on molecular systems of increasing complexity: a 2D triple-well potential energy landscape, a protein-ligand binding process (cytochrome P450), the dynamics of an intrinsically disordered protein (-synuclein) in a latent coordinate space, and even the conditional generation of folding trajectories for the Trp-cage mini-protein. In all cases, the GAN-generated trajectories closely reproduce the true free-energy landscapes and kinetic signatures of the systems, while enabling efficient sampling of rare events that would ordinarily require months of conventional MD simulation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700960v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700960v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700960v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] cell biology - biorXiv Preprints ▶ A dynamic RNA hub facilitates activation induced cytidine deaminase recruitment to the immunoglobulin heavy chain locus</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700375v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700375v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Activation-induced cytidine deaminase (AID) converts cytosines to uracils within the actively transcribed switch regions to initiate DNA repair and formation of DNA double strand breaks required for i</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> Live-cell single-molecule imaging reveals that nascent switch-region RNAs form a dynamic transcriptional “RNA hub” at the IgH locus that binds and recruits AID to drive targeted cytidine deamination during class switch recombination.</p>
+<p><strong>Abstract:</strong> Activation-induced cytidine deaminase (AID) converts cytosines to uracils within the actively transcribed switch regions to initiate DNA repair and formation of DNA double strand breaks required for immunoglobulin class switch recombination (CSR). How AID specifically targets switch regions remains a key unanswered question. Using a multimodal live cell single molecule imaging approach, we demonstrate that intronic switch regions promote robust transcription by enhancing polymerase loading and persistent transcriptional bursts, resulting in the formation of a dynamic RNA hub consisting of numerous nascent switch transcripts simultaneously tethered to the IgH locus. We further demonstrate that AID interacts with switch region RNA in vivo, and that this interaction is required for recruitment of AID to the IgH locus. Together, our findings show that the RNA hub formed by nascent switch region transcripts may be part of a class switch recombination center and drives the specific recruitment of AID to the IgH locus to initiate CSR.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700375v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700375v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700375v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [40] nature.com - Biological sciences ▶ Phosphorothioate DNA modification by BREX type 4 systems in the human gut microbiome</title>
+    <link href="https://www.nature.com/articles/s41467-026-68412-5"/>
+    <id>https://www.nature.com/articles/s41467-026-68412-5</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary></summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This Nature Communications study characterizes phosphorothioate DNA modification mediated by BREX type 4 systems in human gut microbes, informing nucleic-acid chemical diversity and microbial evolution but only indirectly relevant to origins-of-life questions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.nature.com/articles/s41467-026-68412-5">https://www.nature.com/articles/s41467-026-68412-5</a></li>
+</ul>
+<p><a href="https://www.nature.com/articles/s41467-026-68412-5">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] New Scientist - Current Issue Articles ▶ Ancient bacterium discovery rewrites the origins of syphilis</title>
+    <link href="https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-22T19:00:32Z</updated>
+    <summary>A 5500-year-old genome recovered from human skeletal remains in Colombia may give insights into the early evolution of syphilis and its relatives</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A 5,500-year-old bacterial genome from Colombia sheds light on the early evolution of syphilis-causing treponemes, informing microbial evolutionary history rather than core origins-of-life processes.</p>
+<p><strong>Abstract:</strong> A 5500-year-old genome recovered from human skeletal remains in Colombia may give insights into the early evolution of syphilis and its relatives</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://www.science.org/doi/10.1126/science.adw3020">http://www.science.org/doi/10.1126/science.adw3020</a></li>
+<li><a href="https://doi.org/10.1126/science.adw3020">https://doi.org/10.1126/science.adw3020</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] biophysics - biorXiv Preprints ▶ Dye-cycling DNA origami rotors for long-term tracking of transcription at base-pair resolution</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700733v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700733v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Protein interactions with DNA often result in rotational movements. These movements underlie many genetic processes such as DNA transcription by RNA polymerase (RNAP). To illuminate these movements, w</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> Introduces a dye-cycling fluorescence DNA-origami rotor method (dcORBIT) enabling &gt;10-minute, single–base-pair-resolution tracking of DNA rotation during transcription by RNA polymerase, broadly informing nucleic-acid machinery though not directly addressing origins-of-life chemistry.</p>
+<p><strong>Abstract:</strong> Protein interactions with DNA often result in rotational movements. These movements underlie many genetic processes such as DNA transcription by RNA polymerase (RNAP). To illuminate these movements, we previously developed Origami Rotor-Based Imaging and Tracking (ORBIT), a fluorescence-based method that enables high-speed tracking of DNA rotation. When used to track DNA rotation during transcription by E. coli RNAP, ORBIT enabled detection of single base-pair steps. However, the duration of ORBIT experiments was limited due to fluorescence photobleaching. To overcome this limitation and extend the total possible observation time, we here introduce dye-cycling ORBIT (dcORBIT), a method that enables observation of protein-DNA interactions for over 10 minutes at 20 Hz while maintaining single base-pair precision. dcORBIT thereby opens new possibilities to study the fundamental rotational movements underlying gene expression.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700733v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700733v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700733v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] Phys.org: Evolution News ▶ Cells that are not our own may unlock secrets about our health</title>
+    <link href="https://phys.org/news/2026-01-cells-secrets-health.html"/>
+    <id>https://phys.org/news/2026-01-cells-secrets-health.html</id>
+    <updated>2026-01-22T22:50:04Z</updated>
+    <summary>During pregnancy, maternal and fetal cells migrate back and forth across the placenta, with fetal cells entering the mother&#x27;s bloodstream and tissues. They can settle in maternal organs such as the th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A popular-level overview of maternal–fetal microchimerism (cell exchange across the placenta) and its long-term persistence, relevant to immunology and development but only tangentially connected to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> During pregnancy, maternal and fetal cells migrate back and forth across the placenta, with fetal cells entering the mother&#x27;s bloodstream and tissues. They can settle in maternal organs such as the thyroid, liver, lungs, brain and heart—and can persist there for decades. Conversely, maternal cells can enter the fetus and be passed down to future generations, essentially creating a lifelong connection between mothers, their offspring and their descendants.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-cells-secrets-health.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] bioinformatics - biorXiv Preprints ▶ PopMAG: A Nextflow pipeline for population genetics analysis based on Metagenome-Assembled Genomes</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700883v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700883v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Metagenome-assembled genomes (MAGs) are routinely recovered from metagenomic studies, yet the population genetic information embedded within these datasets remains largely underutilized. Analyzing wit</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> PopMAG is a reproducible Nextflow+Shiny workflow for extracting population-genetic signals (e.g., π, pN/pS, FST, SNVs) from metagenome-assembled genomes, demonstrated by detecting antibiotic-driven selection in Pseudomonas aeruginosa during longitudinal cystic fibrosis lung infections.</p>
+<p><strong>Abstract:</strong> Metagenome-assembled genomes (MAGs) are routinely recovered from metagenomic studies, yet the population genetic information embedded within these datasets remains largely underutilized. Analyzing within-species genetic variation can reveal adaptive evolution, selection pressures, and ecological dynamics that are hidden when MAGs are treated as homogeneous entities. Existing tools address individual analysis steps in isolation, requiring manual integration and creating barriers for researchers without extensive bioinformatics expertise. Here we present PopMAG, a Nextflow pipeline and interactive Shiny application that automates population genetics analysis of MAGs. PopMAG integrates quality control, community profiling, competitive read mapping, functional annotation, and microdiversity estimation into a single reproducible workflow. The pipeline calculates key population genetics metrics including nucleotide diversity ({pi}), pN/pS ratios, fixation index (FST), Levins index and SNVs counts with results consolidated into an interactive visualization platform for metadata-driven exploration. We demonstrate PopMAGs utility through analysis of longitudinal cystic fibrosis lung metagenomes, where we detect signatures of antibiotic-driven selection in Pseudomonas aeruginosa efflux pump genes coinciding with treatment intervention. Availability and implementation: PopMAG and corresponding documentation are publicly available at https://github.com/daasabogalro/PopMAG</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700883v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700883v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700883v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] New Scientist - Physics & Math ▶ Ancient bacterium discovery rewrites the origins of syphilis</title>
+    <link href="https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-22T19:00:32Z</updated>
+    <summary>A 5500-year-old genome recovered from human skeletal remains in Colombia may give insights into the early evolution of syphilis and its relatives</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A 5,500-year-old ancient genome from human remains in Colombia sheds light on the early evolution and diversification of syphilis-causing bacteria (treponemes), informing pathogen evolutionary history rather than origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> A 5500-year-old genome recovered from human skeletal remains in Colombia may give insights into the early evolution of syphilis and its relatives</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://www.science.org/doi/10.1126/science.adw3020">http://www.science.org/doi/10.1126/science.adw3020</a></li>
+<li><a href="https://doi.org/10.1126/science.adw3020">https://doi.org/10.1126/science.adw3020</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [35] New Scientist - Life ▶ Ancient bacterium discovery rewrites the origins of syphilis</title>
+    <link href="https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home"/>
+    <id>https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home</id>
+    <updated>2026-01-22T19:00:32Z</updated>
+    <summary>A 5500-year-old genome recovered from human skeletal remains in Colombia may give insights into the early evolution of syphilis and its relatives</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A 5,500-year-old treponemal genome from Colombia refines the evolutionary history of syphilis-causing bacteria, informing pathogen evolution but offering limited direct insight into origins-of-life processes.</p>
+<p><strong>Abstract:</strong> A 5500-year-old genome recovered from human skeletal remains in Colombia may give insights into the early evolution of syphilis and its relatives</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="http://www.science.org/doi/10.1126/science.adw3020">http://www.science.org/doi/10.1126/science.adw3020</a></li>
+<li><a href="https://doi.org/10.1126/science.adw3020">https://doi.org/10.1126/science.adw3020</a></li>
+</ul>
+<p><a href="https://www.newscientist.com/article/2512939-ancient-bacterium-discovery-rewrites-the-origins-of-syphilis/?utm_campaign=RSS%7CNSNS&amp;utm_source=NSNS&amp;utm_medium=RSS&amp;utm_content=home">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Widespread Regulatory Turnover Across Human Segmental Duplications</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700947v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700947v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Segmental duplications (SDs) are a pervasive feature of eukaryotic genomes, enabling genomic innovation via the duplication of genes and cis-regulatory elements. However, the regulatory mechanisms tha</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> Using the new T2T human genome and probabilistic handling of multi-mapped ChIP-seq reads, the study finds rapid cis-regulatory turnover across human segmental duplications while gene expression remains correlated, potentially buffered by 3D genome proximity.</p>
+<p><strong>Abstract:</strong> Segmental duplications (SDs) are a pervasive feature of eukaryotic genomes, enabling genomic innovation via the duplication of genes and cis-regulatory elements. However, the regulatory mechanisms that govern these regions of the genome after duplication are not well understood. The repetitive nature of SDs pose problems for short-read assays such as ChIP-seq and DNase-seq as they create reads that map to more than one location along the genome. Moreover, the newest Telomere-to-Telomere (T2T) human genome assembly has revealed previously unknown segmental duplications. In this study, we used the Telomere-to-Telomere genome assembly along with the probabilistic allocation of multi-mapped reads by our software Allo to better understand the regulatory mechanisms governing segmental duplications in the human genome. Using 134 transcription factor ChIP-seq datasets in GM12878, we found that transcription factor binding sites within segmental duplications are rarely conserved across paralogous copies. Similarly, chromatin states defined via histone ChIP-seq datasets are also poorly conserved across segmentally duplicated regions. In contrast, paralogous genes within SDs exhibit highly correlated expression patterns. Hi-C analysis revealed that many SD paralogs have higher than expected spatial proximity, suggesting that three-dimensional genome organization may buffer transcriptional divergence following duplication despite the loss of cis-regulatory regions. Together, our results suggest that regulatory regions undergo rapid turnover following segmental duplication, but the regulatory impact may be buffered by spatial proximity within the nucleus. Tissue-specific genes and transcription factors showed greater divergence, highlighting the role of SDs in expanding specialized cellular functions.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700947v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700947v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700947v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] bioRxiv Subject Collection: Evolutionary Biology ▶ Evolution of Reproductive Plasticity in a Seasonal Tropical Environment</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700078v1?rss=1"/>
