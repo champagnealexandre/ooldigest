@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T05:25:45.506679+00:00</updated>
+  <updated>2026-01-22T06:29:28.534070+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [20] bioinformatics - biorXiv Preprints ▶ VAETracer: Mutation-Guided Lineage Reconstruction and Generational State Inference from scRNA-seq</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>Somatic mutations accumulate with cell division and are key to understanding tumor evolution. While single-cell RNA sequencing (scRNA-seq) can effectively capture somatic mutations in the 3&#x27; untransla</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, evolution</p>
+<p><strong>AI Decision:</strong> Introduces a deep-learning framework (VAETracer) to infer cell generation index and reconstruct tumor lineages from noisy scRNA-seq 3&#x27;UTR mutation profiles, enabling developmental trajectory and latent state inference.</p>
+<p><strong>Abstract:</strong> Somatic mutations accumulate with cell division and are key to understanding tumor evolution. While single-cell RNA sequencing (scRNA-seq) can effectively capture somatic mutations in the 3&#x27; untranslated region (3&#x27; UTR), enabling its use for lineage tracing, these data are inherently noisy and exhibit high false-positive rates. To address this limitation, we propose VAETracer, a deep learning framework that is able to reconstruct cellular lineages by extracting cellular generation index (CGI) from mutation profiles of 3&#x27; UTR in scRNA-seq data, thus enabling the inference of developmental trajectories without relying on noisy mutation signals (https://github.com/Kaiyu-W/VAETracer). There are two core components for VAETracer: (1) scMut module, which infers the CGI directly from sparse and noisy mutation matrices using our cumulative mutation model (CMM), effectively bypassing error-prone phylogenetic tree topologies caused by mutation noise, and (2) MutTracer module, which predicts ancestral and future latent cellular states or gene expressions at the single-cell level by integrating CGI information with measured transcriptomes. Validation on simulated and real tumor datasets shows that this method can accurately reconstruct clonal relationships, quantify tumor progression, and effectively infer unmeasured cellular states using only the measured scRNA-seq data. This work provides a new computational tool for extracting lineage information and revealing tumor evolution directly from widely available RNA-seq data.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] cond-mat.stat-mech updates on arXiv.org ▶ Krylov complexity of purification</title>
     <link href="https://arxiv.org/abs/2408.00826"/>

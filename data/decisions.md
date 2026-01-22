@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [VAETracer: Mutation-Guided Lineage Reconstruction and Genera](https://www.biorxiv.org/content/10.64898/2026.01.19.700238v1?rss=1) |
+| keyword_rejected | - | [Silencing lipid catabolism determines longevity in response ](https://www.nature.com/articles/s41467-026-68764-y) |
+| keyword_rejected | - | [Blank Spectrum Correction as a Robust Solution to Artifacts ](https://www.biorxiv.org/content/10.64898/2026.01.18.700193v1?rss=1) |
+| keyword_rejected | - | [PocketGNN: A Cross-Modal Framework Unifying Local 3D Pocket ](https://www.biorxiv.org/content/10.64898/2026.01.19.700244v1?rss=1) |
+| keyword_rejected | - | [Nanoscale regulation of ROS signaling at the plasma membrane](https://www.biorxiv.org/content/10.64898/2026.01.19.698185v1?rss=1) |
 | ai_scored | 15 | [A common DNA deletion altering the 3’UTR of mdr1 is associat](https://www.nature.com/articles/s41467-026-68456-7) |
 | ai_scored | 45 | [Nodal error behind discrepancies between coupled cluster and](https://arxiv.org/abs/2508.17937) |
 | ai_scored | 15 | [A common DNA deletion altering the 3’UTR of <i>mdr1</i> is a](https://www.nature.com/articles/s41467-026-68456-7) |
