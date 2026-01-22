@@ -3,8 +3,34 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T20:22:21.964726+00:00</updated>
+  <updated>2026-01-22T21:19:20.789340+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [48] phys.org - Space News ▶ Accessing water on Mars: Examining the best technologies for future missions</title>
+    <link href="https://phys.org/news/2026-01-accessing-mars-technologies-future-missions.html"/>
+    <id>https://phys.org/news/2026-01-accessing-mars-technologies-future-missions.html</id>
+    <updated>2026-01-22T20:50:01Z</updated>
+    <summary>A new study has examined how future human missions to Mars could access one of the planet&#x27;s most vital resources—water. The &quot;Martian aqua: occurrence of water and appraisal of acquisition technologies</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> mars, water</p>
+<p><strong>AI Decision:</strong> Comparative review of technologies to extract water from Martian ice, regolith, and atmosphere to support future human missions, with indirect relevance to habitability rather than origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> A new study has examined how future human missions to Mars could access one of the planet&#x27;s most vital resources—water. The &quot;Martian aqua: occurrence of water and appraisal of acquisition technologies&quot; paper, published in the Advances in Space Research journal, presents a comparative analysis of potential water acquisition technologies for use on the red planet. It also evaluates the feasibility of extracting water from various Martian sources, including underground ice, soil moisture, and atmospheric vapor—building on the findings of earlier studies which identified the sources.</p>
+<p><strong>Links found:</strong> <em>No links found</em></p>
+<p><a href="https://phys.org/news/2026-01-accessing-mars-technologies-future-missions.html">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] molecular biology - biorXiv Preprints ▶ Autolab HBH: A Rapid Hyperbaric Heating Device for Streamlined, PCR-Ready Sample Preparation Across Diverse Biological Matrices and Organisms</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700867v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700867v1?rss=1</id>
+    <updated>2026-01-22T00:00:00Z</updated>
+    <summary>Traditional nucleic acid extraction methods are costly, lengthy, and highly variable depending on the complexity of the sample matrix or the organism of interest. Workflows may exceed twenty steps, re</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, nucleic acid, DNA</p>
+<p><strong>AI Decision:</strong> Describes a rapid hyperbaric-heating, two-step method to lyse diverse organisms and produce PCR/RT-PCR–ready DNA/RNA directly from complex matrices, offering potentially useful sample-prep capability for astrobiology life-detection workflows but not directly addressing origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Traditional nucleic acid extraction methods are costly, lengthy, and highly variable depending on the complexity of the sample matrix or the organism of interest. Workflows may exceed twenty steps, require separate kits for RNA and DNA, and demand expensive instrumentation, creating barriers to both speed and scalability. The AutolabTM HBH system addresses these limitations by using hyperbaric heating (HBH) to achieve temperatures above 100 degree Celsius in a sealed, pressurized environment through induction heating, enabling rapid lysis of diverse organisms and neutralization of macromolecular PCR inhibitors within minutes. The combination of extreme heat and HBH-optimized lyophilized reagents rapidly inactivates nucleases while preserving free nucleic acids. The workflow is streamlined to two steps: heating up to 1 mL of sample in the proprietary HBH bullet, followed by a brief centrifugation to pellet additives. The resulting supernatant is immediately compatible with real-time reverse transcription polymerase chain reaction (RT-PCR) and other downstream molecular assays. Here, we evaluate the systems broad compatibility with diverse sample buffers, matrices, and organisms. Comparative testing was conducted alongside Qiagen extraction methods to benchmark performance.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700867v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700867v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700867v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [20] Scientific American ▶ Sonic booms can protect Earth from dangerous space junk</title>
     <link href="https://www.scientificamerican.com/article/sonic-booms-can-protect-earth-from-dangerous-space-junk/"/>
@@ -7100,17 +7126,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss">https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss</a></li>
 </ul>
 <p><a href="https://dx.doi.org/10.26434/chemrxiv-2026-st155?rft_dat=source%3Ddrss">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟡 [60] phys.org - Space News ▶ Hidden magma oceans could shield rocky exoplanets from harmful radiation</title>
-    <link href="https://phys.org/news/2026-01-hidden-magma-oceans-shield-rocky.html"/>
-    <id>https://phys.org/news/2026-01-hidden-magma-oceans-shield-rocky.html</id>
-    <updated>2026-01-15T20:49:35Z</updated>
-    <summary>Deep beneath the surface of distant exoplanets known as super-Earths, oceans of molten rock may be doing something extraordinary: powering magnetic fields strong enough to shield entire planets from d</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> astrobio*</p>
-<p><strong>AI Decision:</strong> The paper argues that deep magma oceans in super-Earth exoplanets could generate strong magnetic fields that reduce harmful radiation exposure, improving long-term surface habitability conditions relevant to (but not directly about) origins-of-life chemistry.</p>
-<p><strong>Abstract:</strong> Deep beneath the surface of distant exoplanets known as super-Earths, oceans of molten rock may be doing something extraordinary: powering magnetic fields strong enough to shield entire planets from dangerous cosmic radiation and other harmful high-energy particles.</p>
-<p><strong>Links found:</strong> <em>No links found</em></p>
-<p><a href="https://phys.org/news/2026-01-hidden-magma-oceans-shield-rocky.html">Read source article</a></p>]]></content>
   </entry>
 </feed>

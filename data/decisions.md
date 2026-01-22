@@ -1,5 +1,19 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Autolab HBH: A Rapid Hyperbaric Heating Device for Streamlin](https://www.biorxiv.org/content/10.64898/2026.01.21.700867v1?rss=1) |
+| ai_scored | 48 | [Accessing water on Mars: Examining the best technologies for](https://phys.org/news/2026-01-accessing-mars-technologies-future-missions.html) |
+| keyword_rejected | - | [Streamlined resource-efficient plasma amyloid-beta mass spec](https://www.nature.com/articles/s41467-026-68372-w) |
+| keyword_rejected | - | [Exclusive: key NIH review panels due to lose all members by ](https://www.nature.com/articles/d41586-026-00183-x) |
+| keyword_rejected | - | [Factors controlling the statistics of magnetic reconnection ](http://link.aps.org/doi/10.1103/yjh7-hy2s) |
+| keyword_rejected | - | [Electric response of multiarm protein crystals](http://link.aps.org/doi/10.1103/ql7f-wzpr) |
+| keyword_rejected | - | [Phase separation and coexistence in spatial coordination gam](http://link.aps.org/doi/10.1103/6fqz-fhjr) |
+| keyword_rejected | - | [Higher-order interactions enhance stochastic resonance in co](http://link.aps.org/doi/10.1103/1dnk-6499) |
+| keyword_rejected | - | [Scaling behaviors in active model $\mathrm{B}+$ via the func](http://link.aps.org/doi/10.1103/k2qg-hrn1) |
+| keyword_rejected | - | [Cluster percolation and dynamical scaling in the Baxter-Wu m](http://link.aps.org/doi/10.1103/9425-hxtb) |
+| keyword_rejected | - | [Competing effect of disorder on phase separation in active s](http://link.aps.org/doi/10.1103/j741-jhzw) |
+| keyword_rejected | - | [ATLAS confirms collective nature of quark soup's radial expa](https://phys.org/news/2026-01-atlas-nature-quark-soup-radial.html) |
+| keyword_rejected | - | [NASA and families of fallen astronauts mark 40th anniversary](https://phys.org/news/2026-01-nasa-families-fallen-astronauts-40th.html) |
+| keyword_rejected | - | [Protein Language Modeling beyond static folds reveals sequen](https://www.biorxiv.org/content/10.64898/2026.01.21.700698v1?rss=1) |
 | ai_scored | 20 | [Sonic booms can protect Earth from dangerous space junk](https://www.scientificamerican.com/article/sonic-booms-can-protect-earth-from-dangerous-space-junk/) |
 | keyword_rejected | - | [Incendies au Chili : un troisième suspect interpellé dans le](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-un-troisieme-suspect-interpelle-dans-le-sud-du-pays_190536?xtor=RSS-15) |
 | keyword_rejected | - | [La syphilis affectait déjà les chasseurs-cueilleurs il y a 5](https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/la-syphilis-affectait-deja-les-chasseurs-cueilleurs-5500-ans-plus-tot_190526?xtor=RSS-10) |
