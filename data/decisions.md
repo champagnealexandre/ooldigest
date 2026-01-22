@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Structural basis for dimerization, catalytic regulation, and](https://www.biorxiv.org/content/10.64898/2026.01.21.700880v1?rss=1) |
+| keyword_rejected | - | [Efficiency, accuracy and robustness of probability generatin](https://www.biorxiv.org/content/10.64898/2026.01.21.700833v1?rss=1) |
+| keyword_rejected | - | [Cardiac GLP1R gene Expression: A Cross-Species Single-Cell T](https://www.biorxiv.org/content/10.64898/2026.01.18.700176v1?rss=1) |
 | ai_scored | 35 | [Dale Andersen’s Astrobiology Antarctic Status Report: 21 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-21-january-2026-lake-untersee-base-camp-weather.html) |
 | ai_scored | 30 | [Sequence and Structural Alignments Reveal Insights into ANKL](https://www.biorxiv.org/content/10.64898/2026.01.21.700886v1?rss=1) |
 | ai_scored | 0 | [Tceal7 is a BRG1-regulated target of calcineurin signaling t](https://www.biorxiv.org/content/10.64898/2026.01.20.700469v1?rss=1) |

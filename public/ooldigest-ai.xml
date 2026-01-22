@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-22T03:44:29.500193+00:00</updated>
+  <updated>2026-01-22T04:44:28.002624+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [15] biochemistry - biorXiv Preprints ▶ Structural basis for dimerization, catalytic regulation, and substrate selectivity in S9D proteases</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700880v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700880v1?rss=1</id>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <summary>S9 proteases are widely distributed across the tree-of-life and play essential roles in protein processing. However, the structural and mechanistic basis for protease activity in the S9D subfamily has</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> High-resolution cryo-EM structures of the Arabidopsis S9D protease CGEP reveal a dimeric architecture and hinge-loop gating mechanism that regulates activity and enforces glutamate-selective substrate cleavage.</p>
+<p><strong>Abstract:</strong> S9 proteases are widely distributed across the tree-of-life and play essential roles in protein processing. However, the structural and mechanistic basis for protease activity in the S9D subfamily has remained unknown. Here, we report the first high-resolution cryo-EM structures of an S9D protease, chloroplast glutamyl endopeptidase (CGEP) from Arabidopsis thaliana, expressed in plants and bacteria. CGEP adopts a dimeric architecture stabilized by two distinct interfaces: hydrophobic interactions between catalytic domains and an interdomain {beta}-sheet linking the cap and catalytic domains. These interactions create a rigid scaffold that supports a hinge loop, which acts as a steric gate to restrict substrate access and confine catalytic activity to the closed conformation. Unlike S9A-B-C proteases, CGEP maintains an intact catalytic triad in both open and closed states, relying on hinge-loop gating rather than catalytic disruption for regulation. Structural analysis and mutagenesis reveal that the hinge loop forms a conserved pocket favoring glutamate side chains, explaining CGEP&#x27;s strong glutamate preference at cleavage sites. Together, these findings uncover a unique regulatory paradigm for S9D proteases and provide a structural framework for understanding substrate selectivity and dimerization.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700880v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700880v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700880v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [35] systems biology - biorXiv Preprints ▶ A Perfect Soldier: the black soldier fly as a microbial-mediated physiological resilience model .</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.18.700162v1?rss=1"/>
