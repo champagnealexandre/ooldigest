@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [A Novel Method for Normalizing Data from DNA-Encoded Library](https://www.biorxiv.org/content/10.64898/2026.01.20.700605v1?rss=1) |
+| keyword_rejected | - | [Grèce : deux morts dans des pluies torrentielles "extrêmes"](https://www.sciencesetavenir.fr/nature-environnement/meteo/grece-deux-morts-dans-des-pluies-torrentielles-extremes_190534?xtor=RSS-15) |
+| keyword_rejected | - | [Compter les oiseaux pour mieux les protéger](https://www.sciencesetavenir.fr/nature-environnement/compter-les-oiseaux-pour-mieux-les-proteger_190543?xtor=RSS-15) |
+| keyword_rejected | - | [Trop lourds pour bondir ? Les kangourous géants australiens ](https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/trop-lourds-pour-bondir-les-kangourous-geants-australiens-dejouent-les-modeles-des-scientifiques_190528?xtor=RSS-4) |
+| keyword_rejected | - | [Magnon-Cherenkov effect from a picosecond strain pulse](https://www.nature.com/articles/s41567-025-03137-8) |
+| keyword_rejected | - | [<i>Lactobacillus plantarum</i> and <i>Lactobacillus acidophi](https://www.nature.com/articles/s41598-025-33763-4) |
+| keyword_rejected | - | [Label-free fluorescence lifetime imaging can distinguish can](https://www.nature.com/articles/s41598-026-37001-3) |
+| keyword_rejected | - | [Complementary metal-oxide-semiconductor (CMOS) time of evapo](https://www.nature.com/articles/s41598-026-35322-x) |
+| keyword_rejected | - | [Enhancement of electroless copper coatings by triazole dithi](https://www.nature.com/articles/s41598-026-35680-6) |
+| keyword_rejected | - | [High-speed blind structured illumination microscopy via unsu](https://www.nature.com/articles/s41467-026-68693-w) |
+| keyword_rejected | - | [Inferring the internal structure of groups through the integ](https://www.nature.com/articles/s41467-026-68754-0) |
+| keyword_rejected | - | [CRISPR-enhanced assessment of variants of unknown significan](https://www.biorxiv.org/content/10.64898/2026.01.20.700565v1?rss=1) |
+| keyword_rejected | - | [JanusX: an integrated and high-performance platform for scal](https://www.biorxiv.org/content/10.64898/2026.01.20.700366v1?rss=1) |
+| keyword_rejected | - | [Beta Diversity Meta-Analysis Shows Transformations Have Broa](https://www.biorxiv.org/content/10.64898/2026.01.20.699043v1?rss=1) |
+| keyword_rejected | - | [Programmable protein editing by split intein-mediated recomb](https://www.biorxiv.org/content/10.64898/2026.01.22.700961v1?rss=1) |
+| keyword_rejected | - | [The heteromeric Plasmodium falciparum pantothenate kinase ha](https://www.biorxiv.org/content/10.64898/2026.01.22.701186v1?rss=1) |
 | ai_scored | 5 | [Stunning images reveal the rich biodiversity of remotest Tan](https://www.newscientist.com/article/2511579-stunning-images-reveal-the-rich-biodiversity-of-remotest-tanzania/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 10 | [Stunning images reveal the rich biodiversity of remotest Tan](https://www.newscientist.com/article/2511579-stunning-images-reveal-the-rich-biodiversity-of-remotest-tanzania/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 60 | [Helical Repeat Protein mRSiC is Required for rRNA Fragment A](https://www.biorxiv.org/content/10.64898/2026.01.22.701003v1?rss=1) |
