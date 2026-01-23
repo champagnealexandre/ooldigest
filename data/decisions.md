@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Super-resolved imaging of mRNA ultrastructure in cells](https://www.biorxiv.org/content/10.64898/2026.01.23.701081v1?rss=1) |
+| keyword_rejected | - | [Pollution "extrême" à Sarajevo, l'état d'alerte déclaré](https://www.sciencesetavenir.fr/nature-environnement/pollution-extreme-a-sarajevo-l-etat-d-alerte-declare_190557?xtor=RSS-15) |
+| keyword_rejected | - | [Incendies au Chili: la justice prolonge la détention du prin](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-la-justice-prolonge-la-detention-du-principal-suspect_190556?xtor=RSS-15) |
+| keyword_rejected | - | [Using the linear references from the pangenome to discover m](https://www.nature.com/articles/s41467-026-68378-4) |
+| keyword_rejected | - | [Collagen binding adhesin restricts Staphylococcus aureus ski](https://www.nature.com/articles/s41467-026-68788-4) |
+| keyword_rejected | - | [How zoos are preparing animals for winter storm Fern](https://www.scientificamerican.com/article/how-zoos-are-preparing-animals-for-winter-storm-fern/) |
 | ai_scored | 15 | [Histology-Aware Graph for Modeling Intercellular Communicati](https://www.biorxiv.org/content/10.64898/2026.01.22.701166v1?rss=1) |
 | ai_scored | 45 | [Operon-driven antagonism and novel modulation of DNA damage ](https://www.biorxiv.org/content/10.64898/2026.01.23.701218v1?rss=1) |
 | keyword_rejected | - | [Why Apple and OpenAI are reportedly betting on AI hardware i](https://www.scientificamerican.com/article/why-apple-and-openai-are-reportedly-betting-on-ai-hardware-in-2026/) |
