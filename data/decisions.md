@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [The effects of atherosclerotic cardiovascular disease and te](https://www.nature.com/articles/s41598-026-35737-6) |
 | ai_scored | 55 | [The role of low-complexity repeats in RNA–RNA interactions a](https://www.nature.com/articles/s41467-026-68356-w) |
 | ai_scored | 30 | [In vitro binding energies capture Klf4 occupancy across the ](https://arxiv.org/abs/2601.16151) |
 | ai_scored | 15 | [New Insights into Population Dynamics from the Continuous Mc](https://arxiv.org/abs/2504.21103) |
