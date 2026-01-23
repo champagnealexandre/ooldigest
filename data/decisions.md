@@ -1,5 +1,23 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [CROP: A feature-independent context-aware method for CRISPR-](https://www.biorxiv.org/content/10.64898/2026.01.20.700643v1?rss=1) |
+| ai_scored | 5 | [How do tumor-associated neutrophils regulate the microenviro](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013906) |
+| keyword_rejected | - | [Composing egocentric and allocentric maps for flexible navig](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013905) |
+| keyword_rejected | - | [AugGCL: Multimodal graph learning for spatial transcriptomic](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013912) |
+| keyword_rejected | - | [Bone cancer therapy unexpectedly makes tumours less painful](https://www.newscientist.com/article/2513117-bone-cancer-therapy-unexpectedly-makes-tumours-less-painful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bone cancer therapy unexpectedly makes tumours less painful](https://www.newscientist.com/article/2513117-bone-cancer-therapy-unexpectedly-makes-tumours-less-painful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Bone cancer therapy unexpectedly makes tumours less painful](https://www.newscientist.com/article/2513117-bone-cancer-therapy-unexpectedly-makes-tumours-less-painful/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Lait infantile: Danone élargit son rappel, situation sous co](https://www.sciencesetavenir.fr/sante/lait-infantile-danone-elargit-son-rappel-situation-sous-controle-en-france-selon-le-gouvernement_190555?xtor=RSS-16) |
+| keyword_rejected | - | [The fragile nature of road transportation networks](https://comdig.unam.mx/2026/01/23/the-fragile-nature-of-road-transportation-networks/) |
+| keyword_rejected | - | [Fully inertial active Brownian particle in a harmonic potent](http://link.aps.org/doi/10.1103/9kcc-9hxm) |
+| keyword_rejected | - | [Terahertz radiation generation by laser-resonant excitation ](http://link.aps.org/doi/10.1103/lfjf-g5n5) |
+| keyword_rejected | - | [Replicating hypergraph disease dynamics with lower-order int](http://link.aps.org/doi/10.1103/6whh-kvk7) |
+| keyword_rejected | - | [From chimera states to spike avalanches and quasicriticality](http://link.aps.org/doi/10.1103/rmx5-8fys) |
+| keyword_rejected | - | [Microcanonical ensemble out of equilibrium](http://link.aps.org/doi/10.1103/r1cg-tpdb) |
+| keyword_rejected | - | [Gear rotation caused by self-propelling eccentric particles](http://link.aps.org/doi/10.1103/njcd-mc48) |
+| keyword_rejected | - | [Pairwise correlations of global times in one-dimensional Bro](http://link.aps.org/doi/10.1103/hzrj-dzxb) |
+| keyword_rejected | - | [Biosynthesis of 14-membered cyclopeptide alkaloids via non-h](https://www.biorxiv.org/content/10.64898/2026.01.20.700549v1?rss=1) |
+| keyword_rejected | - | [RingNet: An Interactive Platform for Multi-Modal Data Visual](https://www.biorxiv.org/content/10.64898/2026.01.20.700593v1?rss=1) |
 | ai_scored | 5 | [Epigenome-wide analysis identifies DNA methylation mediators](https://www.nature.com/articles/s41467-026-68689-6) |
 | keyword_rejected | - | [Sea turtles may be more resilient to global warming than we ](https://www.newscientist.com/article/2512923-sea-turtles-may-be-more-resilient-to-global-warming-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | keyword_rejected | - | [Sea turtles may be more resilient to global warming than we ](https://www.newscientist.com/article/2512923-sea-turtles-may-be-more-resilient-to-global-warming-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |

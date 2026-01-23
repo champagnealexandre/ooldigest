@@ -3,8 +3,45 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T19:21:43.120362+00:00</updated>
+  <updated>2026-01-23T20:21:33.416236+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] PLOS Computational Biology ▶ How do tumor-associated neutrophils regulate the microenvironmental landscape of brain tumors: Delivery of nano-particles through BBB</title>
+    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013906"/>
+    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013906</id>
+    <updated>2026-01-23T14:00:00Z</updated>
+    <summary>by Haneol Cho, Junho Lee, Sean Lawler, Yangjin Kim Glioblastoma multiforme (GBM) is the most aggressive form of brain cancer with the very poor survival and high recurrence rate. Tumor-associated neut</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Develops a mathematical model of glioblastoma–tumor-associated neutrophil interactions and explores neutrophil-mediated nanoparticle delivery across the blood–brain barrier for therapy, with no direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> by Haneol Cho, Junho Lee, Sean Lawler, Yangjin Kim Glioblastoma multiforme (GBM) is the most aggressive form of brain cancer with the very poor survival and high recurrence rate. Tumor-associated neutrophils (TANs) play a pivotal role in regulation of the tumor microenvironment. In this study, we developed a new mathematical model of the critical GBM-TAN interaction in the heterogeneous brain tissue. The model reveals that the dual and complex role of TANs (either anti-tumorigenic N1 and the pro-tumorigenic N2 type) regulates the phenotypic trajectory of the evolution of tumor growth and the invasive patterns in white and gray matter via mediators such as IFN- β and TGF- β . We investigated the effect of normalizing the immune environment on glioma growth by applying a therapeutic antibody and developed several strategies for eradication of tumor cells by neutrophil-mediated transport of nanoparticles. We also developed a strategy of combination therapy (surgery + Trojan neutrophils) for effective control of the infiltration of the glioma cells in one hemisphere before crossing the corpus callosum (CC) in order to prevent recurrence in the other hemisphere. This alternative approach compared to the extended resection of the glioma including CC or butterfly GBM may provide the greater anti-tumor efficacy and reduce side effects such as cognitive impairment.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://doi.org/10.1073/pnas.2111003119">https://doi.org/10.1073/pnas.2111003119</a></li>
+<li><a href="https://doi.org/10.1371/journal.pone.0204865">https://doi.org/10.1371/journal.pone.0204865</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013906.e114">https://doi.org/10.1371/journal.pcbi.1013906.e114</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013906.g001">https://doi.org/10.1371/journal.pcbi.1013906.g001</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/26700397">http://www.ncbi.nlm.nih.gov/pubmed/26700397</a></li>
+<li><a href="https://doi.org/10.1042/AN20110014">https://doi.org/10.1042/AN20110014</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013906.e174">https://doi.org/10.1371/journal.pcbi.1013906.e174</a></li>
+<li><a href="https://doi.org/10.1371/journal.pcbi.1013906.e037">https://doi.org/10.1371/journal.pcbi.1013906.e037</a></li>
+<li><a href="https://doi.org/10.1038/s41568-019-0205-x">https://doi.org/10.1038/s41568-019-0205-x</a></li>
+<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/34504017">http://www.ncbi.nlm.nih.gov/pubmed/34504017</a></li>
+</ul>
+<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013906">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ CROP: A feature-independent context-aware method for CRISPR-Cas9 frameshift prediction</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.20.700643v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.20.700643v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Motivation: The CRISPR-Cas9 complex has revolutionized genome-editing technologies. By designing a 20 nt-long guide RNA, a Cas9 nuclease can be guided to cleave almost any genomic target site (followe</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> Introduces CROP, a context-aware deep-learning method that predicts CRISPR-Cas9 repair outcomes and frameshift rates from raw sequence across diverse datasets, but it has minimal direct relevance to origins-of-life research beyond involving DNA.</p>
+<p><strong>Abstract:</strong> Motivation: The CRISPR-Cas9 complex has revolutionized genome-editing technologies. By designing a 20 nt-long guide RNA, a Cas9 nuclease can be guided to cleave almost any genomic target site (followed by NGG). The cleavage induces double-stranded DNA breaks, which are then repaired by cellular pathways. Accurate CRISPR-Cas9 repair-outcome prediction is essential for designing guide RNAs with desired genomic effects, such as gene knockout. A central challenge is quantifying the rate of frameshifts, i.e. repair-outcomes that lead to a change in the local length that is not a multiplicity of 3. Previous methods for frameshift-rate prediction were trained on only few experimental or cellular contexts, mostly rely on manually defined microhomology features, and are limited by sparse features and class labels. Results: We developed CROP, the first feature-independent context-aware repair-outcome prediction method. By aggregating specific repair outcomes as {Delta}length classes, CROP overcomes class sparsity. We designed CROP to work with variable input sequence lengths and output classes in order to utilize multiple datasets simultaneously. We benchmarked CROP against state-of-the-art repair-outcome prediction methods over 18 datasets, which we curated and standardized from various studies. Across all datasets, CROP outperformed all competing methods in frameshift-rate prediction. We performed cross-experiment and cross-cellular frameshift predictions to investigate the generalizability of repair mechanisms. Finally, we show that CROP learned microhomology principles from raw sequences without explicit feature engineering, establishing the first end-to-end architecture for CRISPR-Cas9 repair-outcome prediction which learns from multiple datasets. Availability and implementation: CROP is available at https://github.com/OrensteinLab/CROP.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700643v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.20.700643v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.20.700643v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] nature.com - Biological sciences ▶ Epigenome-wide analysis identifies DNA methylation mediators of treatment-related cardiometabolic risk in survivors of childhood cancer</title>
     <link href="https://www.nature.com/articles/s41467-026-68689-6"/>
