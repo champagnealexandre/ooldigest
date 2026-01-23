@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Can we battle the downsides of a rule-based world, asks a ne](https://www.newscientist.com/article/mg26935790-400-can-we-battle-the-downsides-of-a-rule-based-world-asks-a-new-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 0 | [Can we battle the downsides of a rule-based world, asks a ne](https://www.newscientist.com/article/mg26935790-400-can-we-battle-the-downsides-of-a-rule-based-world-asks-a-new-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 0 | [Can we battle the downsides of a rule-based world, asks a ne](https://www.newscientist.com/article/mg26935790-400-can-we-battle-the-downsides-of-a-rule-based-world-asks-a-new-book/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Two axes of white matter development](https://www.nature.com/articles/s41467-026-68714-8) |
+| keyword_rejected | - | [NatA engages in multi-factor complexes at the ribosomal poly](https://www.nature.com/articles/s41467-026-68787-5) |
+| keyword_rejected | - | [Baseline characteristics associated with mortality among chi](https://www.nature.com/articles/s41598-026-36433-1) |
+| keyword_rejected | - | [Peripheral and central auditory dysfunction in tinnitus with](https://www.nature.com/articles/s41598-026-36096-y) |
+| keyword_rejected | - | [High isolation MIMO antenna based on metasurface for linear-](https://www.nature.com/articles/s41598-026-36016-0) |
+| keyword_rejected | - | [Two axes of white matter development](https://www.nature.com/articles/s41467-026-68714-8) |
+| keyword_rejected | - | [Broadband and high-resolution snapshot spectroscopy with hig](https://www.nature.com/articles/s41467-026-68685-w) |
+| keyword_rejected | - | [NatA engages in multi-factor complexes at the ribosomal poly](https://www.nature.com/articles/s41467-026-68787-5) |
 | keyword_rejected | - | [The effects of atherosclerotic cardiovascular disease and te](https://www.nature.com/articles/s41598-026-35737-6) |
 | ai_scored | 55 | [The role of low-complexity repeats in RNA–RNA interactions a](https://www.nature.com/articles/s41467-026-68356-w) |
 | ai_scored | 30 | [In vitro binding energies capture Klf4 occupancy across the ](https://arxiv.org/abs/2601.16151) |
