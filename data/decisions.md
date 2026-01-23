@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Epigenome-wide analysis identifies DNA methylation mediators](https://www.nature.com/articles/s41467-026-68689-6) |
+| keyword_rejected | - | [Sea turtles may be more resilient to global warming than we ](https://www.newscientist.com/article/2512923-sea-turtles-may-be-more-resilient-to-global-warming-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sea turtles may be more resilient to global warming than we ](https://www.newscientist.com/article/2512923-sea-turtles-may-be-more-resilient-to-global-warming-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Sea turtles may be more resilient to global warming than we ](https://www.newscientist.com/article/2512923-sea-turtles-may-be-more-resilient-to-global-warming-than-we-thought/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why are winter storm forecasts all over the place?](https://www.scientificamerican.com/article/why-are-winter-storm-forecasts-all-over-the-place/) |
+| keyword_rejected | - | [Ce robot humanoïde peut changer de taille en gonflant ses “o](https://www.sciencesetavenir.fr/high-tech/robot/ce-robot-humanoide-peut-changer-de-taille-en-gonflant-ses-os-artificiels_190533?xtor=RSS-12) |
+| keyword_rejected | - | [Two types of axonal muscarinic acetylcholine receptors media](https://www.nature.com/articles/s41467-026-68654-3) |
+| keyword_rejected | - | [Meta-amplified dark-field interferometric scattering microsc](https://www.nature.com/articles/s41467-026-68697-6) |
+| keyword_rejected | - | [Co-translational determination of quaternary structures in c](https://www.nature.com/articles/s41467-026-68687-8) |
+| keyword_rejected | - | [Structural basis of co-translational N-myristoylation in hum](https://www.nature.com/articles/s41467-025-67962-4) |
+| keyword_rejected | - | [Meta-amplified dark-field interferometric scattering microsc](https://www.nature.com/articles/s41467-026-68697-6) |
 | keyword_rejected | - | [Neige épaisse et froid intense, les Etats-Unis attendent une](https://www.sciencesetavenir.fr/nature-environnement/neige-epaisse-et-froid-intense-les-etats-unis-attendent-une-mega-tempete-d-hiver_190554?xtor=RSS-15) |
 | keyword_rejected | - | [Greenland is important for global research: what's next for ](https://www.nature.com/articles/d41586-026-00067-0) |
 | keyword_rejected | - | [Gladys Mae West obituary: mathematician who pioneered GPS te](https://www.nature.com/articles/d41586-026-00254-z) |
