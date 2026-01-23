@@ -3,8 +3,36 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T22:15:28.842554+00:00</updated>
+  <updated>2026-01-23T23:18:08.851775+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🔴 [30] biochemistry - biorXiv Preprints ▶ Opposing regulation by Rev1 of DNA polymerase zeta activity on damaged versus undamaged DNA</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>The Rev1 deoxycytidyl transferase functions as a scaffold protein for DNA polymerase zeta (Pol zeta)-mediated translesion synthesis (TLS). Biochemical studies with yeast enzymes indicate that Rev1 pla</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Biochemical and yeast-genetic data show that an evolutionarily conserved Rev1 N-terminal motif suppresses Pol ζ activity on undamaged DNA while promoting lesion bypass, with loss of this motif increasing mutational track length without changing overall spontaneous mutation rates.</p>
+<p><strong>Abstract:</strong> The Rev1 deoxycytidyl transferase functions as a scaffold protein for DNA polymerase zeta (Pol zeta)-mediated translesion synthesis (TLS). Biochemical studies with yeast enzymes indicate that Rev1 plays a dual regulatory role in TLS, stimulating Pol zeta activity at sites of damage but inhibiting its activity on undamaged DNA. An evolutionary conserved N-terminal alpha-helical motif (M1), located 10-20 amino acids upstream of Rev1 single BRCT domain, is required for the inhibitory activity of Rev1 on undamaged DNA. Mutations in the M1 motif result in a stimulation of Pol zeta replication activity on both undamaged and damaged DNA. Yeast cells carrying a REV1 mutant lacking the M1 motif, show a significant increase in mutation track length, without significantly affecting overall spontaneous mutation rates. The regulatory activity of Rev1 is independent of its catalytic activity. However, it requires that Rev1-Pol zeta is a stable complex, and that this complex is coordinated by the replication clamp PCNA.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] molecular biology - biorXiv Preprints ▶ Comparative profiling of SARS-CoV-2 variant infections reveals diverse impacts on host cell RNA and RNA binding protein distribution and regulation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701202v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701202v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>RNA viruses perturb cellular RNA metabolism to promote viral transcript expression and genome replication. However, the extent of host cell RNA reprogramming and the consequences on RNA binding protei</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This preprint profiles how different SARS‑CoV‑2 variants rewire host-cell RNA metabolism and RNA-binding protein localization, offering virology/cell-biology insights but only tangential relevance to origins-of-life questions beyond general RNA regulatory principles.</p>
+<p><strong>Abstract:</strong> RNA viruses perturb cellular RNA metabolism to promote viral transcript expression and genome replication. However, the extent of host cell RNA reprogramming and the consequences on RNA binding protein (RBP) expression and localization remain poorly understood. Here, we utilized an integrated set of transcriptomics, proteomics, and high-content imaging approaches to compare the impact of different SARS-CoV-2 variants, including an early viral isolate and later emerging variants of concern (Alpha, Delta and Omicron) on the host cellular RNA and RBP landscapes. While all variants deeply remodelled the host transcriptome in a subcellular compartment-specific manner, we found that Omicron variants express lower levels of viral RNA products compared to earlier variants, while still driving efficient production of viral proteins. The surge in viral RNA expression correlated with altered subcellular RNA biotype distribution, cytoplasmic mRNA exclusion, the selective disruption of the localization of polyA-tail interacting proteins, and the nuclear accumulation of non-coding transcripts such as RN7SL family members and MALAT-1. Unexpectedly, we found many RBPs that exhibiting altered subcellular localization following abiotic innate immune stimulation with poly(I:C) but remained unaltered in cells infected with SARS-CoV-2 variants, revealing a capacity for these viruses to limit the overall impact on the RBP subcellular distribution. Our results further indicate that Omicron infection sustains higher expression levels of proteins components of the signal recognition particle and translation factors, which may enable a more effective production of immune response and viral components. Altogether, this work highlights the deep impact of SARS-CoV-2 infection on host cell RNA regulatory landscape and provides new insights to explain the differential impact of Omicron compared to early SARS-CoV-2 variants.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701202v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701202v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701202v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [55] biophysics - biorXiv Preprints ▶ Super-resolved imaging of mRNA ultrastructure in cells</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.23.701081v1?rss=1"/>

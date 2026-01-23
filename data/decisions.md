@@ -1,5 +1,16 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Comparative profiling of SARS-CoV-2 variant infections revea](https://www.biorxiv.org/content/10.64898/2026.01.22.701202v1?rss=1) |
+| ai_scored | 30 | [Opposing regulation by Rev1 of DNA polymerase zeta activity ](https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1) |
+| keyword_rejected | - | [Le Pakistan combat des légions de faux médecins](https://www.sciencesetavenir.fr/sante/le-pakistan-combat-des-legions-de-faux-medecins_190558?xtor=RSS-16) |
+| keyword_rejected | - | [Reducibility of higher-order networks from dynamics](https://comdig.unam.mx/2026/01/23/reducibility-of-higher-order-networks-from-dynamics/) |
+| keyword_rejected | - | [Near-infrared spectroscopy for moisture content prediction i](https://www.nature.com/articles/s41598-026-36901-8) |
+| keyword_rejected | - | [Understanding Coral Health from Reactor Engineering Perspect](https://www.biorxiv.org/content/10.64898/2026.01.21.700759v1?rss=1) |
+| keyword_rejected | - | [Spatiotemporal 4D Whole-cell Modeling of a Minimal Autotroph](https://www.biorxiv.org/content/10.64898/2026.01.21.700212v1?rss=1) |
+| keyword_rejected | - | [Molecular atlas of key food odorants reveals structured arom](https://www.biorxiv.org/content/10.64898/2026.01.21.700072v1?rss=1) |
+| keyword_rejected | - | [FrustraMPNN: An ultra-fast deep learning tool for proteome-s](https://www.biorxiv.org/content/10.64898/2026.01.22.701012v1?rss=1) |
+| keyword_rejected | - | [MetaTree: an interactive web platform for hierarchical data ](https://www.biorxiv.org/content/10.64898/2026.01.22.701099v1?rss=1) |
+| keyword_rejected | - | [Environmental and mutational modulation of collateral fitnes](https://www.biorxiv.org/content/10.64898/2026.01.22.699087v1?rss=1) |
 | ai_scored | 55 | [Super-resolved imaging of mRNA ultrastructure in cells](https://www.biorxiv.org/content/10.64898/2026.01.23.701081v1?rss=1) |
 | keyword_rejected | - | [Pollution "extrême" à Sarajevo, l'état d'alerte déclaré](https://www.sciencesetavenir.fr/nature-environnement/pollution-extreme-a-sarajevo-l-etat-d-alerte-declare_190557?xtor=RSS-15) |
 | keyword_rejected | - | [Incendies au Chili: la justice prolonge la détention du prin](https://www.sciencesetavenir.fr/nature-environnement/incendies-au-chili-la-justice-prolonge-la-detention-du-principal-suspect_190556?xtor=RSS-15) |
