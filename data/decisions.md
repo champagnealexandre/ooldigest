@@ -1,5 +1,24 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [A Course-Undergraduate Research Experience (CURE) to explore](https://www.biorxiv.org/content/10.64898/2026.01.21.700799v1?rss=1) |
+| ai_scored | 47 | [Mutations in filamentous bacteriophages spark eco-evolutiona](https://www.biorxiv.org/content/10.64898/2026.01.21.699487v1?rss=1) |
+| ai_scored | 5 | [SpaceX’s Starlink dodged 300,000 satellite collisions in 202](https://www.newscientist.com/article/2512470-spacexs-starlink-dodged-300000-satellite-collisions-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [SpaceX’s Starlink dodged 300,000 satellite collisions in 202](https://www.newscientist.com/article/2512470-spacexs-starlink-dodged-300000-satellite-collisions-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 5 | [SpaceX’s Starlink dodged 300,000 satellite collisions in 202](https://www.newscientist.com/article/2512470-spacexs-starlink-dodged-300000-satellite-collisions-in-2025/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [New Scientist recommends Avatar: Fire and Ash – especially t](https://www.newscientist.com/article/mg26935790-500-new-scientist-recommends-avatar-fire-and-ash-especially-the-whale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why biological clocks get our 'true age' wrong – and how AI ](https://www.newscientist.com/article/2512984-why-biological-clocks-get-our-true-age-wrong-and-how-ai-could-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [New Scientist recommends Avatar: Fire and Ash – especially t](https://www.newscientist.com/article/mg26935790-500-new-scientist-recommends-avatar-fire-and-ash-especially-the-whale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why biological clocks get our 'true age' wrong – and how AI ](https://www.newscientist.com/article/2512984-why-biological-clocks-get-our-true-age-wrong-and-how-ai-could-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [New Scientist recommends Avatar: Fire and Ash – especially t](https://www.newscientist.com/article/mg26935790-500-new-scientist-recommends-avatar-fire-and-ash-especially-the-whale/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why biological clocks get our 'true age' wrong – and how AI ](https://www.newscientist.com/article/2512984-why-biological-clocks-get-our-true-age-wrong-and-how-ai-could-help/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Pluie, vent et fortes vagues en Bretagne avec le passage de ](https://www.sciencesetavenir.fr/nature-environnement/pluie-vent-et-fortes-vagues-en-bretagne-avec-le-passage-de-la-depression-ingrid_190547?xtor=RSS-15) |
+| keyword_rejected | - | [REPORTAGE. Cartographie ancienne : dans les réserves très co](https://www.sciencesetavenir.fr/archeo-paleo/patrimoine/reportage-cartographie-ancienne-dans-les-reserves-tres-confidentielles-de-la-bibliotheque-nationale-de-france_190546?xtor=RSS-4) |
+| keyword_rejected | - | [Endothelial stem cells of the retinal vasculature reside in ](https://www.nature.com/articles/s41467-025-68201-6) |
+| keyword_rejected | - | [NeoPrecis: enhancing immunotherapy response prediction throu](https://www.nature.com/articles/s41467-026-68651-6) |
+| keyword_rejected | - | [Combinatory differentiation of human induced pluripotent ste](https://www.nature.com/articles/s41467-026-68675-y) |
+| keyword_rejected | - | [Why AI Alignment Failure Is Structural: Learned Human Intera](https://comdig.unam.mx/2026/01/23/why-ai-alignment-failure-is-structural-learned-human-interaction-structures-and-agi-as-an-endogenous-evolutionary-shock/) |
+| keyword_rejected | - | [Frost resistance improvement of recycled powder concrete by ](https://www.nature.com/articles/s41598-026-35840-8) |
+| keyword_rejected | - | [Correction: Growth of single crystalline films on lattice-mi](https://www.nature.com/articles/s41598-026-36788-5) |
 | ai_scored | 5 | [A Novel Method for Normalizing Data from DNA-Encoded Library](https://www.biorxiv.org/content/10.64898/2026.01.20.700605v1?rss=1) |
 | keyword_rejected | - | [Grèce : deux morts dans des pluies torrentielles "extrêmes"](https://www.sciencesetavenir.fr/nature-environnement/meteo/grece-deux-morts-dans-des-pluies-torrentielles-extremes_190534?xtor=RSS-15) |
 | keyword_rejected | - | [Compter les oiseaux pour mieux les protéger](https://www.sciencesetavenir.fr/nature-environnement/compter-les-oiseaux-pour-mieux-les-proteger_190543?xtor=RSS-15) |
