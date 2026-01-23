@@ -1,5 +1,17 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 75 | [Rethinking Where Life Could Exist Beyond Earth](https://astrobiology.com/2026/01/rethinking-where-life-could-exist-beyond-earth.html) |
+| ai_scored | 40 | [Automated mapping of DNA replication fork progression in hum](https://www.nature.com/articles/s41467-026-68750-4) |
+| ai_scored | 80 | [How microbial fossils illuminate life's origins](https://phys.org/news/2026-01-microbial-fossils-illuminate-life.html) |
+| keyword_rejected | - | [Why singing, dancing and engaging with art is good for your ](https://www.newscientist.com/article/2512378-why-singing-dancing-and-engaging-with-art-is-good-for-your-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why singing, dancing and engaging with art is good for your ](https://www.newscientist.com/article/2512378-why-singing-dancing-and-engaging-with-art-is-good-for-your-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why singing, dancing and engaging with art is good for your ](https://www.newscientist.com/article/2512378-why-singing-dancing-and-engaging-with-art-is-good-for-your-health/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Monster Neutrino Could Be a Messenger of Ancient Black Holes](https://www.quantamagazine.org/monster-neutrino-could-be-a-messenger-of-ancient-black-holes-20260123/) |
+| keyword_rejected | - | [Onze ans après les fouilles, le trésor de Lavau se dévoile a](https://www.sciencesetavenir.fr/sciences/onze-ans-apres-les-fouilles-le-tresor-de-lavau-se-devoile-au-public_190553?xtor=RSS-18) |
+| keyword_rejected | - | [Crise de la cocaïne : "Il n’y a pas de médicament de sevrage](https://www.sciencesetavenir.fr/sante/il-n-y-a-pas-de-medicament-de-sevrage-miracle-pres-d-1-francais-sur-10-a-deja-consomme-de-la-cocaine_190550?xtor=RSS-16) |
+| keyword_rejected | - | [Briefing Chat: The canny cow that can use tools, and how bab](https://www.nature.com/articles/d41586-026-00235-2) |
+| keyword_rejected | - | [Structural basis of CSN-mediated SCF deneddylation](https://www.nature.com/articles/s41467-025-67566-y) |
+| keyword_rejected | - | [An H5N1 clade 2.3.4.4b virus vaccine that elicits cross-prot](https://www.nature.com/articles/s41467-026-68457-6) |
 | ai_scored | 50 | [Astrophysicists discover largest sulfur-containing molecular](https://phys.org/news/2026-01-astrophysicists-largest-sulfur-molecular-compound.html) |
 | ai_scored | 0 | [End-to-end encryption: Best ideas of the century](https://www.newscientist.com/article/2510768-end-to-end-encryption-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
 | ai_scored | 0 | [End-to-end encryption: Best ideas of the century](https://www.newscientist.com/article/2510768-end-to-end-encryption-best-ideas-of-the-century/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
