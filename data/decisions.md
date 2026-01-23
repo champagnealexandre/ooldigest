@@ -1,5 +1,21 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 5 | [Stunning images reveal the rich biodiversity of remotest Tan](https://www.newscientist.com/article/2511579-stunning-images-reveal-the-rich-biodiversity-of-remotest-tanzania/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 10 | [Stunning images reveal the rich biodiversity of remotest Tan](https://www.newscientist.com/article/2511579-stunning-images-reveal-the-rich-biodiversity-of-remotest-tanzania/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| ai_scored | 60 | [Helical Repeat Protein mRSiC is Required for rRNA Fragment A](https://www.biorxiv.org/content/10.64898/2026.01.22.701003v1?rss=1) |
+| ai_scored | 15 | [Stunning images reveal the rich biodiversity of remotest Tan](https://www.newscientist.com/article/2511579-stunning-images-reveal-the-rich-biodiversity-of-remotest-tanzania/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why did magic mushrooms evolve? We may finally have the answ](https://www.newscientist.com/article/2512742-why-did-magic-mushrooms-evolve-we-may-finally-have-the-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why did magic mushrooms evolve? We may finally have the answ](https://www.newscientist.com/article/2512742-why-did-magic-mushrooms-evolve-we-may-finally-have-the-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Why did magic mushrooms evolve? We may finally have the answ](https://www.newscientist.com/article/2512742-why-did-magic-mushrooms-evolve-we-may-finally-have-the-answer/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=home) |
+| keyword_rejected | - | [Au Japon, la plus grande centrale nucléaire du monde n'a pas](https://www.sciencesetavenir.fr/nature-environnement/nucleaire/japon-le-redemarrage-de-la-plus-grande-centrale-nucleaire-du-monde-suspendu_190531?xtor=RSS-15) |
+| keyword_rejected | - | [Rappel de lait infantile: tous les lots concernés "ont été r](https://www.sciencesetavenir.fr/sante/rappel-de-lait-infantile-tous-les-lots-concernes-ont-ete-retires-assure-mme-rist_190540?xtor=RSS-16) |
+| keyword_rejected | - | [Des virus tueurs de bactéries dopés par l’apesanteur](https://www.sciencesetavenir.fr/fondamental/biologie-cellulaire/des-virus-tueurs-de-bacteries-dopes-par-l-apesanteur_190539?xtor=RSS-10) |
+| keyword_rejected | - | [In vivo CRISPR screening identifies SAGA complex members as ](https://www.nature.com/articles/s41467-026-68465-6) |
+| keyword_rejected | - | [Plant fucosyltransferase FUT11 distorts the sugar acceptor t](https://www.nature.com/articles/s41467-026-68786-6) |
+| keyword_rejected | - | [NetLogo Conference 2026](https://comdig.unam.mx/2026/01/23/netlogo-conference-2026/) |
+| keyword_rejected | - | [Robust assessment of asymmetric division in colon cancer cel](https://elifesciences.org/articles/104528) |
+| keyword_rejected | - | [Computational modelling identifies key determinants of subre](https://elifesciences.org/articles/105214) |
+| keyword_rejected | - | [COUPLING OF ENVIRONMENTAL AND DIRECT TRANSMISSIONMECHANISMS:](https://www.biorxiv.org/content/10.64898/2026.01.20.700625v1?rss=1) |
 | keyword_rejected | - | [[La semaine en bref] Les robots humanoïdes se déploient à l’](https://www.pourlascience.fr/sr/revue-de-presse/la-semaine-en-bref-les-robots-humanoides-se-deploient-a-l-usine-28732.php) |
 | keyword_rejected | - | [Lait infantile : deux enquêtes ouvertes après la mort suspec](https://www.sciencesetavenir.fr/sante/maladie-enfant/lait-infantile-un-bebe-decede-debut-janvier-enquete-penale-a-bordeaux_190532?xtor=RSS-16) |
 | keyword_rejected | - | [Spatial patterning of contractility by a self-organized mech](https://www.nature.com/articles/s41467-026-68418-z) |
