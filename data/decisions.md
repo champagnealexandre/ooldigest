@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Dolphins with more close friends age more slowly](https://www.scientificamerican.com/article/dolphins-with-more-close-friends-age-more-slowly/) |
+| keyword_rejected | - | [Ironiquement, les Jeux Olympiques d’hiver 2026 vont faire fo](https://www.sciencesetavenir.fr/nature-environnement/climat/les-athletes-s-inquietent-ironiquement-les-jeux-olympiques-d-hiver-2026-vont-faire-fondre-la-neige_190542?xtor=RSS-15) |
+| keyword_rejected | - | [Organoïdes dans la capsule Orion, origines de la syphilis et](https://www.sciencesetavenir.fr/ultrabreves/organoides-dans-la-capsule-orion-origines-de-la-syphilis-et-virus-dans-l-iss-l-actu-des-sciences-en-ultrabreves_190545) |
+| keyword_rejected | - | [What a $1-billion pledge means for CERN’s ambitious supercol](https://www.nature.com/articles/d41586-026-00233-4) |
+| keyword_rejected | - | [Plasmid mutation rates scale with copy number](https://www.pnas.org/doi/abs/10.1073/pnas.2526088123?af=R) |
+| keyword_rejected | - | [Author Correction: Tectonic–astronomical interactions in sha](https://www.nature.com/articles/s41467-025-67406-z) |
 | ai_scored | 12 | [Doubling dolutegravir dosage reduces the viral reservoir in ](https://elifesciences.org/articles/106931) |
 | ai_scored | 5 | [HIV-specific CD8+ T-cell proliferative response 24 weeks aft](https://elifesciences.org/articles/106402) |
 | ai_scored | 50 | [Engineering the electronic properties of DNA](https://www.nature.com/articles/s41557-026-02066-0) |

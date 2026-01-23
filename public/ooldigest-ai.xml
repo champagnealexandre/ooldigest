@@ -3,7 +3,7 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T13:40:10.358540+00:00</updated>
+  <updated>2026-01-23T14:21:39.443511+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
   <entry>
     <title>🟤 [10] eLife - recent issues ▶ The IBEX knowledge-base a community resource enabling adoption and development of immunofluorescence imaging methods</title>
@@ -6777,29 +6777,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://www.nature.com/articles/s41467-025-67999-5">https://www.nature.com/articles/s41467-025-67999-5</a></li>
 </ul>
 <p><a href="https://www.nature.com/articles/s41467-025-67999-5">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] PLOS Computational Biology ▶ Structural analysis of antigenic variation and adaptive evolution of the H5N1 neuraminidase gene</title>
-    <link href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903"/>
-    <id>https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903</id>
-    <updated>2026-01-16T14:00:00Z</updated>
-    <summary>by Muyiwa S. Adegbaju, Oluwabuyikunmi Owo-Odusi, Eden T. Wirtz, Olanrewaju B. Morenikeji, Olusola Ojurongbe, Bolaji N. Thomas The concern regarding H5N1 outbreak, particularly the accelerated mutagene</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
-<p><strong>AI Decision:</strong> Computational structural and phylogenetic analysis of H5N1 neuraminidase (NA1) identifies a key residue (K207) controlling dynamic switching and suggests how single-point mutations can rewire allostery and selection across hosts, but it has only tangential relevance to Origins-of-Life questions beyond general evolutionary dynamics.</p>
-<p><strong>Abstract:</strong> by Muyiwa S. Adegbaju, Oluwabuyikunmi Owo-Odusi, Eden T. Wirtz, Olanrewaju B. Morenikeji, Olusola Ojurongbe, Bolaji N. Thomas The concern regarding H5N1 outbreak, particularly the accelerated mutagenesis of its core genomic elements, underscores the persistent threat of influenza to global health. Neuraminidase (NA), a pivotal sialidase integral to virion egress and propagation, comprises nine distinct isoforms, exhibiting unique evolutionary trajectories and structural adaptations. Despite extensive characterization of hemagglutinin subtypes, the functional divergence of the nine NA subtypes remains inadequately understood. To address this gap, we conducted a structural analysis of NA subtypes, employing structural superimposition and motif-guided sequence alignment to delineate subtype-specific residues. Hierarchical clustering stratified the nine NA subtypes into four distinct subgroups: NA2 (subgroup I), NA1 and NA4 (subgroup II), NA9/NA7/NA6/NA3 (subgroup III), and NA8/NA5 (subgroup 4). We identified 40 highly conserved and functionally significant amino acid loci, likely modulating enzymatic activity and substrate specificity across subtypes. To investigate the structural basis of adaptation in H5N1, we generated NA1 mutants by swapping family specific position (FSP) residues and analyzed their dynamics using Molecular Dynamics (MD) simulations, complemented by a deep phylogenetic analysis across six host reservoirs. MD simulation parameters reveal a dynamic paradox: the Wild-Type (WT) NA1 maintains a conserved global compactness Rg, which masks a complex, bi-modal switching mechanism essential for its catalytic function, validated by multi-basin free energy landscape (FEL) topography. We identify Lysine-207 (K207) as the master determinant of this switching mechanism and the enzyme’s dynamic fate. Substitutions at this conserved nexus produced diametrically opposite outcomes: K207W imposed structural rigidification (abolishing the switch), K207H achieved dynamic preservation, and K207I drove expanded disorder and collapse. Furthermore, dynamic correlation analysis shows that these single-point substitutions function as molecular switches that significantly re-wire the enzyme’s allosteric communication networks, extending far beyond the active site. To assess the role of NA1 in host tropism and adaptive evolution, we conducted a phylogenetic analysis of NA1 genes from H5N1 isolates across multiple host reservoirs; H. sapiens , G. gallus , Anser anser domesticus , M. gallopavo , B. taurus , and C. olor . Notably, we observed opposing selection pressures and diversification patterns: G. gallus isolates showed signatures of positive selection consistent with hyper-reassortment, while human isolates displayed highly diverse, sporadic spillover events. We conclude that the evolutionary contribution of NA1 to H5N1 host adaptation is not encoded in static structure, but certain residues such as K207 defines a pivotal mechanism for regulating the enzyme’s function through dynamic states. Our MD data thus proposes a novel strategy for next-generation antivirals by targeting this dynamic vulnerability—the Nexus for Dynamic Ablation—to permanently entrain the enzyme in a non-functional conformation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31801857">http://www.ncbi.nlm.nih.gov/pubmed/31801857</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/31147689">http://www.ncbi.nlm.nih.gov/pubmed/31147689</a></li>
-<li><a href="https://doi.org/10.1093/bioinformatics/btm625">https://doi.org/10.1093/bioinformatics/btm625</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/28231515">http://www.ncbi.nlm.nih.gov/pubmed/28231515</a></li>
-<li><a href="https://doi.org/10.1371/journal.pcbi.1013903.g005">https://doi.org/10.1371/journal.pcbi.1013903.g005</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/23012237">http://www.ncbi.nlm.nih.gov/pubmed/23012237</a></li>
-<li><a href="https://doi.org/10.1093/ve/vew014">https://doi.org/10.1093/ve/vew014</a></li>
-<li><a href="https://doi.org/10.1093/molbev/msx248">https://doi.org/10.1093/molbev/msx248</a></li>
-<li><a href="http://www.ncbi.nlm.nih.gov/pubmed/32881101">http://www.ncbi.nlm.nih.gov/pubmed/32881101</a></li>
-<li><a href="https://doi.org/10.1080/21505594.2023.2235459">https://doi.org/10.1080/21505594.2023.2235459</a></li>
-</ul>
-<p><a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013903">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🔴 [20] Astrobiology (astrobiology.com) ▶ NASA Spaceline Current Awareness List #1,182 9 January 2026 (Space Life Science Research Results)</title>
