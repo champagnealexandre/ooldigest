@@ -1,5 +1,41 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [Engaging Unstabilized Alkyl Radicals with Pyridoxal Radical ](https://www.biorxiv.org/content/10.64898/2026.01.21.700944v1?rss=1) |
+| ai_scored | 25 | [3'tRNAAsp(GTC)-derived fragment links inflammation to post-t](https://www.biorxiv.org/content/10.64898/2026.01.23.700816v1?rss=1) |
+| ai_scored | 15 | [BioGraphX: Bridging the Sequence-Structure Gap via Physicoch](https://www.biorxiv.org/content/10.64898/2026.01.21.700873v1?rss=1) |
+| ai_scored | 50 | [An Efficient Constant-Coefficient MSAV Scheme for Computing ](https://www.biorxiv.org/content/10.64898/2026.01.21.700903v1?rss=1) |
+| ai_scored | 20 | [Disrupted TRiC allostery and conformational equilibrium by L](https://www.biorxiv.org/content/10.64898/2026.01.22.701072v1?rss=1) |
+| ai_scored | 5 | [Comprehensive Characterization of the Human Neural Stem Cell](https://www.biorxiv.org/content/10.64898/2026.01.21.700829v1?rss=1) |
+| keyword_rejected | - | [Combinatorial Design of Floppy Modes and Frustrated Loops in](http://link.aps.org/doi/10.1103/nqgr-tfb1) |
+| keyword_rejected | - | [Quasiresonant Regime of Surface Plasmon for Broad Angular Re](http://link.aps.org/doi/10.1103/75zq-5lqg) |
+| keyword_rejected | - | [Experimental Evidence of Néel-Order-Driven Magneto-optical K](http://link.aps.org/doi/10.1103/q8ym-l2zt) |
+| keyword_rejected | - | [Quantized Transport of $ν=2/3$ Fractional Quantum Hall Edge ](http://link.aps.org/doi/10.1103/qqyq-lhv9) |
+| keyword_rejected | - | [Enhanced Anomalous Nernst Effect in the Ferromagnetic Kondo ](http://link.aps.org/doi/10.1103/52tp-styb) |
+| keyword_rejected | - | [Orbital Ordering in the Charge Density Wave Phases of ${\mat](http://link.aps.org/doi/10.1103/x5bv-w84m) |
+| keyword_rejected | - | [Nuclear Responses with Neural-Network Quantum States](http://link.aps.org/doi/10.1103/tlqz-nw28) |
+| keyword_rejected | - | [Accessible Quantum Gates on Classical Stabilizer Codes](http://link.aps.org/doi/10.1103/h741-4678) |
+| keyword_rejected | - | [Effects of pulsating flow frequency and dimensionless amplit](https://www.nature.com/articles/s41598-026-35619-x) |
+| keyword_rejected | - | [A flexible extension of the log-logistic model with diverse ](https://www.nature.com/articles/s41598-025-34460-y) |
+| keyword_rejected | - | [Damage identification of reinforced concrete structure based](https://www.nature.com/articles/s41598-025-32324-z) |
+| keyword_rejected | - | [Comparative prognostic value of high-sensitivity cardiac tro](https://www.nature.com/articles/s41598-026-36605-z) |
+| keyword_rejected | - | [Pangenome dynamics and population structure of the zoonotic ](https://www.nature.com/articles/s41467-025-68026-3) |
+| keyword_rejected | - | [iDesignGPT enhances conceptual design via large language mod](https://www.nature.com/articles/s41467-026-68672-1) |
+| keyword_rejected | - | [PartiNet is a dynamic adaptive neural network for high-perfo](https://www.biorxiv.org/content/10.64898/2026.01.23.700950v1?rss=1) |
+| keyword_rejected | - | [BiHiTo: Biomolecular Hierarchy-inspired Tokenization](https://www.biorxiv.org/content/10.64898/2026.01.23.701302v1?rss=1) |
+| keyword_rejected | - | [Validation of differentiated sinoatrial-like hiPSCs as a mod](https://www.biorxiv.org/content/10.64898/2026.01.21.700785v1?rss=1) |
+| keyword_rejected | - | [Dark state-mediated photobleaching in mCherry-basedred fluor](https://www.biorxiv.org/content/10.64898/2026.01.21.700914v1?rss=1) |
+| keyword_rejected | - | [Structural basis of Arf1-driven membrane tubulation](https://www.biorxiv.org/content/10.64898/2026.01.22.700998v1?rss=1) |
+| keyword_rejected | - | [AI-Based Methods for Cryptic Pocket Detection Are Fast and Q](https://www.biorxiv.org/content/10.64898/2026.01.21.700870v1?rss=1) |
+| keyword_rejected | - | [Two temperature-dependent membrane fluidity regimes in Gram-](https://www.biorxiv.org/content/10.64898/2026.01.22.701129v1?rss=1) |
+| keyword_rejected | - | [mRNAfold: Co-optimization of Global Stability, Local Structu](https://www.biorxiv.org/content/10.64898/2026.01.23.701221v1?rss=1) |
+| keyword_rejected | - | [Bayesian rhythmic model for jointly detecting circadian biom](https://www.biorxiv.org/content/10.64898/2026.01.21.700905v1?rss=1) |
+| keyword_rejected | - | [Hybrid Stacking-Bagging Ensembles for Robust Multi-Omics Bre](https://www.biorxiv.org/content/10.64898/2026.01.21.700935v1?rss=1) |
+| keyword_rejected | - | [miniMTI: minimal multiplex tissue imaging enhances biomarker](https://www.biorxiv.org/content/10.64898/2026.01.21.700911v1?rss=1) |
+| keyword_rejected | - | [Polar Marine Microbial Communities as Reservoirs of Polyeste](https://www.biorxiv.org/content/10.64898/2026.01.21.700866v1?rss=1) |
+| keyword_rejected | - | [Steering Conformational Sampling in Boltz-2 via Pair Represe](https://www.biorxiv.org/content/10.64898/2026.01.23.701250v1?rss=1) |
+| keyword_rejected | - | [Label-Free Monitoring of Cancer-associated Fibroblast Activa](https://www.biorxiv.org/content/10.64898/2026.01.23.701296v1?rss=1) |
+| keyword_rejected | - | [Proteomic Insights into the Mechanism of Action of Maduramic](https://www.biorxiv.org/content/10.64898/2026.01.23.701272v1?rss=1) |
+| keyword_rejected | - | [CCL25 targeting by de novo protein binders differentially su](https://www.biorxiv.org/content/10.64898/2026.01.23.701245v1?rss=1) |
 | ai_scored | 25 | [Convergent reduction in skeletal density during benthic to p](https://www.biorxiv.org/content/10.64898/2026.01.22.701097v1?rss=1) |
 | ai_scored | 20 | [Rare shell colours in bivalves reveal multiple evolutionary ](https://www.biorxiv.org/content/10.64898/2026.01.21.700781v1?rss=1) |
 | ai_scored | 50 | [A 3D printed mini-gel electrophoresis system for rapid and i](https://www.biorxiv.org/content/10.64898/2026.01.21.700818v1?rss=1) |

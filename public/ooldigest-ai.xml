@@ -3,8 +3,92 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-24T01:19:54.716586+00:00</updated>
+  <updated>2026-01-24T03:24:11.635397+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] cell biology - biorXiv Preprints ▶ Comprehensive Characterization of the Human Neural Stem Cell Line HNSC.100 as a Versatile Model for Neurobiological Research</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700829v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700829v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Studying neural-related questions is inherently challenging due to the limited number of suitable cell models. Here, we characterize a previously reported immortalized human neural stem cell line, HNS</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> This bioRxiv preprint comprehensively characterizes an immortalized human neural stem cell line (HNSC.100) with differentiation capacity and an RNA expression atlas, but it has no meaningful connection to origins-of-life research beyond incidental RNA/transcriptomics relevance.</p>
+<p><strong>Abstract:</strong> Studying neural-related questions is inherently challenging due to the limited number of suitable cell models. Here, we characterize a previously reported immortalized human neural stem cell line, HNSC.100, serving as a robust model for a wide range of neurobiological research questions. The cell line expresses key neural stem cell markers, including SOX2, vimentin, nestin, and allows for efficient genetic manipulation. Furthermore, HNSC.100 cells can be differentiated into neurons, astrocytes and oligodendrocytes, thereby covering a wide spectrum of major neural cell types. We established a comprehensive panel of molecular markers to validate successful differentiation, enabling precise characterization of the resulting cell population. In addition, we provide a complete dataset of RNA expression levels for all detectable genes in HSNC.100 cells. Based on this dataset, we assembled a list of expressed genes implicated in neural disorders that can be studied with this cell line. Together, we present a detailed characterization of the HNSC.100 cell line and provide new tools and reference data to facilitate its use. This resource enables researchers to evaluate the line&#x27;s suitability for specific applications and to rapidly integrate HNSC.100 cells into their experimental workflows.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700829v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700829v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700829v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] biochemistry - biorXiv Preprints ▶ Disrupted TRiC allostery and conformational equilibrium by LCA-linked mutations: structural and functional insights</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701072v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701072v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>The eukaryotic chaperonin TRiC/CCT is essential for proteostatis, yet the molecular basis of its subunit-specific pathologies remains poorly understood. Here, we elucidate the molecular mechanism of L</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> Cryo-EM and proteomics show that LCA-linked CCT2 mutations disrupt TRiC allostery and reduce the folding-active closed state, revealing altered tubulin folding and downstream loss of key SLC transporters, but with limited direct relevance to origins-of-life questions.</p>
+<p><strong>Abstract:</strong> The eukaryotic chaperonin TRiC/CCT is essential for proteostatis, yet the molecular basis of its subunit-specific pathologies remains poorly understood. Here, we elucidate the molecular mechanism of Leber Congenital Amaurosis (LCA), a severe hereditary retinal dystrophy arised from mutations in the CCT2 subunit of TRiC. By integrating cryo-electron microscopy, biochemistry, and proteomics, we demonstrate that LCA-associated mutations (T400P and R516H in CCT2) disrupt TRiC&#x27;s critical intra-molecular and intra-ring allosteric network and impair its functional cycle, drastically reducing the population of the folding-active closed state. Unexpectedly, we captured a fully folded endogenous -tubulin within the mutant TRiC chamber, revealing a unique CCT8 C-terminal tail involved folding pathway, distinct from {beta}-tubulin. Furthermore, cellular proteomics revealed that TRiC dysfunction causes a specific downregulation of essential SLC membrane transporters. We propose that the loss of these transporters is likely catastrophic for metabolically demanding tissues like the retina and developing embryo. Our work provides a direct mechanistic link between TRiC structural defects and LCA pathology, offering a new framework for understanding etiology of chaperonopathies.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701072v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701072v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701072v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] biophysics - biorXiv Preprints ▶ An Efficient Constant-Coefficient MSAV Scheme for Computing Vesicle Growth and Shrinkage</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700903v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700903v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>We present a fast, unconditionally energy-stable numerical scheme for simulating vesicle deformation under osmotic pressure using a phase-field approach. The model couples an Allen-Cahn equation for t</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Introduces a highly efficient, energy-stable constant-coefficient MSAV numerical scheme for large-scale phase-field simulations of osmotic vesicle growth and shrinkage, enabling faster protocell-relevant membrane dynamics modeling without loss of accuracy.</p>
+<p><strong>Abstract:</strong> We present a fast, unconditionally energy-stable numerical scheme for simulating vesicle deformation under osmotic pressure using a phase-field approach. The model couples an Allen-Cahn equation for the biomembrane interface with a variable-mobility Cahn-Hilliard equation governing mass exchange across the membrane. Classical approaches, including nonlinear multigrid and Multiple Scalar Auxiliary Variable (MSAV) methods, require iterative solution of variable-coefficient systems at each time step, resulting in substantial computational cost. We introduce a constant-coefficient MSAV (CC-MSAV) scheme that incorporates stabilization directly into the Cahn-Hilliard evolution equation rather than the chemical potential. This reformulation yields fully decoupled constant-coefficient elliptic problems solvable via fast discrete cosine transform (DCT), eliminating iterative solvers entirely. The method achieves O(N^2 log N) complexity per time step while preserving unconditional energy stability and discrete mass conservation. Numerical experiments verify second-order temporal and spatial accuracy, mass conservation to relative errors below 5 x 10^-11, and close agreement with nonlinear multigrid benchmarks. On grids with N &gt;= 2048, CC-MSAV achieves 6-15x overall speedup compared to classical MSAV with optimized preconditioning, while the dominant Cahn-Hilliard subsystem is accelerated by up to two orders of magnitude. These efficiency gains, achieved without sacrificing accuracy, make CC-MSAV particularly well suited for large-scale simulations of vesicle dynamics.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700903v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700903v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700903v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] bioinformatics - biorXiv Preprints ▶ BioGraphX: Bridging the Sequence-Structure Gap via PhysicochemicalGraph Encoding for Explainable Subcellular Localization Prediction</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700873v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700873v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Computational approaches for protein subcellular localization prediction are important for understanding cellular mechanisms and developing treatments for complex diseases. However, a critical limitat</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life</p>
+<p><strong>AI Decision:</strong> BioGraphX introduces an interpretable, sequence-derived physicochemical graph encoding (plus ESM-2 gating) to improve and explain protein subcellular localization predictions, but it has minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Computational approaches for protein subcellular localization prediction are important for understanding cellular mechanisms and developing treatments for complex diseases. However, a critical limitation of current methods is their lack of interpretability: while they can predict where a protein localizes, they fail to explain why the protein is assigned to a specific location. Moreover, traditional approaches rely on Anfinsen&#x27;s principle, which assumes that protein behavior is determined by its native three-dimensional structure, requiring a costly and time-consuming process. Here, we propose BioGraphX, a novel encoding framework that constructs protein interaction graphs directly from protein sequences using biochemical rules. This approach eliminates the need for three-dimensional structure determination by encoding 151 interpretable features grounded in biophysical principles. Building upon this representation, BioGraphX-Net demonstrates superior performance on the DeepLoc benchmarks by integrating ESM-2 embeddings with the proposed features via a gating mechanism. Gating analysis shows that although ESM-2 embeddings provide strong contributions, BioGraphX features function as high-precision filters. SHAP analysis reveals class-specific feature importance, uncovering a negative selection mechanism in which sequence profiles associated with the Golgi and plastid act as repellors that suppress sequence mimics, thereby requiring confirmation from physical anchoring signals. It has the additional advantage of promoting Green AI in bioinformatics, achieving performance comparable to the state-of-the-art while maintaining a minimal parameter count of 12.2 million. In summary, BioGraphX not only provides accurate predictions but also offers new insights into the language of life</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700873v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700873v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700873v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] biochemistry - biorXiv Preprints ▶ 3&#x27;tRNAAsp(GTC)-derived fragment links inflammation to post-transcriptional reprogramming in chondrocytes during osteoarthritis.</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.23.700816v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.23.700816v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Objective: Transfer RNA-derived fragments (tRFs) belong to an emerging class of small non-coding RNAs that dynamically respond to metabolic stressors and drive different pathological processes, yet th</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Study identifies an inflammation-induced tRNA-derived RNA fragment that binds AGO2 and modulates translational arrest/stress granules in osteoarthritic chondrocytes, offering only tangential relevance to origins-of-life via modern RNA regulatory versatility.</p>
+<p><strong>Abstract:</strong> Objective: Transfer RNA-derived fragments (tRFs) belong to an emerging class of small non-coding RNAs that dynamically respond to metabolic stressors and drive different pathological processes, yet their role in osteoarthritis (OA) remains poorly explored. We aimed to define the tRF landscape in OA and investigate the function of 3&#x27;tRFAsp(GTC) in chondrocyte stress adaptation and translational control. Methods: Ex vivo, cartilage specimens from OA patients (n=6) and healthy donors (n=7) were analyzed by small RNA sequencing to define disease-associated tRF signatures. In vitro, primary chondrocytes derived from OA patients were treated with lipopolysaccharide (LPS) to mimic inflammatory environment of OA, used for small RNA sequencing (n=3) and validation analysis (n=6). Functional studies in C28/I2 chondrocytes included antisense oligonucleotide-mediated 3&#x27;tRFAsp(GTC) inhibition, AGO2-RNA immunoprecipitation (RIP), polysome profiling, stress granule (SG) immunofluorescence, and differential protein analysis. Computational target prediction and pathway enrichment were used to explore tRF-mediated regulatory networks. Results: Both OA cartilage and LPS-treated chondrocytes displayed upregulation of 3&#x27;tRFAsp(GTC) and 5&#x27;tRFGlu(CTC), indicating a shared inflammatory tRF signature. Predicted targets of upregulated tRFs were enriched in stress-adaptive, proteostasis, and translational control pathways, whereas downregulated tRFs modulated mitochondrial processes. Silencing 3&#x27;tRFAsp(GTC) inhibited LPS-induced COX2 and MMP13 expression, prevented ER stress, and blocked SG assembly. RIP confirmed selective recruitment of 3&#x27;tRFAsp(GTC) into AGO2 complexes. Polysome profiling revealed association with 40S ribosomal subunit, mediating translational arrest and influencing selective mRNA expression. Conclusion: 3&#x27;tRFAsp(GTC) emerges as a regulator linking inflammation to translational control and SG dynamics in OA. tRFs thus could represent novel therapeutic targets in OA disease.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.700816v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.23.700816v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.700816v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] biochemistry - biorXiv Preprints ▶ Engaging Unstabilized Alkyl Radicals with Pyridoxal Radical Biocatalysis: Enantiodivergent Synthesis of Aliphatic Non-Canonical Amino Acids</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700944v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700944v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Harnessing transient, unstabilized alkyl radical intermediates for the enantioselective construction of valueadded chemical entities remains a fundamental challenge in biocatalysis. Through the repurp</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Directed-evolved PLP enzymes are repurposed into a dual-enzyme photocatalytic platform that captures unstabilized alkyl radicals to make stereodivergent (L vs D) non-canonical amino acids with high enantiopurity, offering broad biochemical context relevant to chirality and enzyme evolution but not directly to origins-of-life mechanisms.</p>
+<p><strong>Abstract:</strong> Harnessing transient, unstabilized alkyl radical intermediates for the enantioselective construction of valueadded chemical entities remains a fundamental challenge in biocatalysis. Through the repurposing and directed evolution of pyridoxal phosphate (PLP) dependent tryptophan synthases, we advanced an open-shell enzyme platform capable of intercepting transient alkyl radicals for the efficient and enantioselective synthesis of aliphatic non-canonical amino acids. Engineering an orthogonal pair of radical PLP enzymes allowed unstabilized alkyl radicals, generated from diverse aliphatic organoboronates, to undergo dehydroxylative C(sp3)C(sp3) coupling with a common L serine donor, affording either L or Damino acids with excellent enantiopurity in an enzyme controlled fashion. Mechanistic and computational investigations employing radical clock substrates and unusual radical-mediated rearrangement processes revealed that the radical intermediates generated in this system exhibit unexpectedly long lifetimes, highlighting the power of this dual enzyme photocatalyst platform to engage unactivated alkyl radicals. Collectively, these findings delineate a potentially general strategy for generating and utilizing unstabilized alkyl radicals and underscore the synthetic potential of radical pyridoxal biocatalysts for stereodivergent amino acid construction.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700944v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700944v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700944v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ MONTE: Methylation-based Observation Normalization and Tumorpurity Estimation</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701164v1?rss=1"/>
