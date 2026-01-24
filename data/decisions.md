@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [La mystérieuse utilité des ailes avant l'invention du vol](https://www.sciencesetavenir.fr/archeo-paleo/evolution/la-mysterieuse-utilite-des-ailes-avant-l-invention-du-vol_190071?xtor=RSS-4) |
+| keyword_rejected | - | [How math can reveal lottery fraud](https://www.scientificamerican.com/article/how-math-can-reveal-lottery-fraud/) |
+| keyword_rejected | - | [How digital forensics could prove what’s real in the age of ](https://www.scientificamerican.com/article/how-digital-forensics-could-prove-whats-real-in-the-age-of-deepfakes/) |
+| keyword_rejected | - | [Back from the dead, a black hole is erupting after a 100-mil](https://www.scientificamerican.com/article/back-from-the-dead-a-black-hole-is-erupting-after-a-100-million-year-hiatus/) |
+| keyword_rejected | - | [Des associations veulent suspendre le projet touristique du ](https://www.sciencesetavenir.fr/nature-environnement/des-associations-veulent-suspendre-le-projet-touristique-du-gendre-de-trump-sur-une-ile-albanaise_190561?xtor=RSS-15) |
+| keyword_rejected | - | [Neige et pluies font 61 morts en trois jours en Afghanistan](https://www.sciencesetavenir.fr/nature-environnement/neige-et-pluies-font-61-morts-en-trois-jours-en-afghanistan_190562?xtor=RSS-15) |
+| keyword_rejected | - | [Generative modeling reveals the connection between cellular ](https://www.biorxiv.org/content/10.64898/2026.01.22.700673v1?rss=1) |
 | keyword_rejected | - | [The secret paths of global knowledge transfer – with Cesar H](https://comdig.unam.mx/2026/01/24/the-secret-paths-of-global-knowledge-transfer-with-cesar-hidalgo/) |
 | keyword_rejected | - | [Incomplete lineage sorting shaped mixed traits during a colo](https://www.pnas.org/doi/abs/10.1073/pnas.2524833123?af=R) |
 | keyword_rejected | - | [Quantitative proteomic analysis of plasma after remote ische](https://www.nature.com/articles/s41598-026-36968-3) |
