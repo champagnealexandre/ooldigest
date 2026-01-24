@@ -1,5 +1,10 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Australie: un enfant de 12 ans meurt des suites d'une attaqu](https://www.sciencesetavenir.fr/nature-environnement/australie-un-enfant-de-12-ans-meurt-des-suites-d-une-attaque-de-requin_190560?xtor=RSS-15) |
+| keyword_rejected | - | [Recreating viable YYh genotype uncovers the role of CpYYL un](https://www.nature.com/articles/s41467-026-68627-6) |
+| keyword_rejected | - | [Recreating viable YY<sup>h</sup> genotype uncovers the role ](https://www.nature.com/articles/s41467-026-68627-6) |
+| keyword_rejected | - | [A Cell Size-Dependent Competition Between Geometry and Polar](https://www.biorxiv.org/content/10.64898/2026.01.23.701263v1?rss=1) |
+| keyword_rejected | - | [Bardet-Biedl Syndrome 1 Mutations Differentially Impact BBSo](https://www.biorxiv.org/content/10.64898/2026.01.23.701255v1?rss=1) |
 | ai_scored | 0 | [Platform Biological Divergence: quantifying gene-level diffe](https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1) |
 | keyword_rejected | - | [Vaccins : retour sur deux siècles de peurs](https://www.sciencesetavenir.fr/sante/vaccins-retour-sur-deux-siecles-de-peurs_190073?xtor=RSS-16) |
 | keyword_rejected | - | [Fecal microbiome predicts treatment response after the initi](https://www.nature.com/articles/s41598-026-36318-3) |
