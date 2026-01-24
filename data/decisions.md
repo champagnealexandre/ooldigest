@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 20 | [Dale Andersen’s Astrobiology Antarctic Status Report: 24 Jan](https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-24-january-2026-lake-untersee-base-camp-weather-conditions-and-forecast.html) |
+| keyword_rejected | - | [Determination of mechanical properties of ceramic microspher](https://www.nature.com/articles/s41598-026-37357-6) |
+| keyword_rejected | - | [Patterns and associations of summer thermal comfort and stud](https://www.nature.com/articles/s41598-026-37253-z) |
 | ai_scored | 45 | [A Nomenclature For Individual Exocomets](https://astrobiology.com/2026/01/a-nomenclature-for-individual-exocomets.html) |
 | ai_scored | 90 | [A Gene-Free Minimal System for Synthetic Quorum Sensing in P](https://astrobiology.com/2026/01/a-gene-free-minimal-system-for-synthetic-quorum-sensing-in-protocell-communities.html) |
 | ai_scored | 60 | [Biofilms: From The Cradle Of Life To life Support](https://astrobiology.com/2026/01/biofilms-from-the-cradle-of-life-to-life-support.html) |
