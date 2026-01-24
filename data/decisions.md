@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Quantitative proteomic analysis of plasma after remote ische](https://www.nature.com/articles/s41598-026-36968-3) |
+| keyword_rejected | - | [BiG-SCAPE 2.0 and BiG-SLiCE 2.0: scalable, accurate and inte](https://www.nature.com/articles/s41467-026-68733-5) |
+| keyword_rejected | - | [Atroposelective interrupted CuAAC reaction using cyclic diar](https://www.nature.com/articles/s41467-026-68574-2) |
+| keyword_rejected | - | [BiG-SCAPE 2.0 and BiG-SLiCE 2.0: scalable, accurate and inte](https://www.nature.com/articles/s41467-026-68733-5) |
+| keyword_rejected | - | [Dead gate elimination in hybrid quantum-classical programs](https://www.sciencedirect.com/science/article/pii/S1877750326000074?dgcid=rss_sd_all) |
+| keyword_rejected | - | [Exploring scalarization methods and approximation algorithms](https://www.sciencedirect.com/science/article/pii/S1877750326000037?dgcid=rss_sd_all) |
 | ai_scored | 50 | [The secreted staphylococcal biofilm protein Sbp forms biomol](https://onlinelibrary.wiley.com/doi/10.1002/pro.70485?af=R) |
 | keyword_rejected | - | [Role of the transmembrane domain in severe acute respiratory](https://onlinelibrary.wiley.com/doi/10.1002/pro.70482?af=R) |
 | keyword_rejected | - | [Structural basis for uPAR binding to an antibody developed f](https://onlinelibrary.wiley.com/doi/10.1002/pro.70473?af=R) |
