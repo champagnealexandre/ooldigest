@@ -1,5 +1,29 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 25 | [Convergent reduction in skeletal density during benthic to p](https://www.biorxiv.org/content/10.64898/2026.01.22.701097v1?rss=1) |
+| ai_scored | 20 | [Rare shell colours in bivalves reveal multiple evolutionary ](https://www.biorxiv.org/content/10.64898/2026.01.21.700781v1?rss=1) |
+| ai_scored | 50 | [A 3D printed mini-gel electrophoresis system for rapid and i](https://www.biorxiv.org/content/10.64898/2026.01.21.700818v1?rss=1) |
+| ai_scored | 5 | [Predicting Gene Mutations in Colon Cancer Using Long-Term Te](https://www.biorxiv.org/content/10.64898/2026.01.22.701121v1?rss=1) |
+| ai_scored | 15 | [Phenotypic evolutionary response to temporally limited polli](https://www.biorxiv.org/content/10.64898/2026.01.23.701299v1?rss=1) |
+| ai_scored | 55 | [Levels of additive genetic variation vary substantially betw](https://www.biorxiv.org/content/10.64898/2026.01.22.701036v1?rss=1) |
+| ai_scored | 45 | [FSI (Fluctuating Selection among Individuals) Reduces the Me](https://www.biorxiv.org/content/10.64898/2026.01.21.700920v1?rss=1) |
+| ai_scored | 50 | [Elevated mutation in haploid yeast driven by translesion syn](https://www.biorxiv.org/content/10.64898/2026.01.22.701062v1?rss=1) |
+| ai_scored | 0 | [Ensemble Machine Learning Approaches Predict Survival in Low](https://www.biorxiv.org/content/10.64898/2026.01.21.700788v1?rss=1) |
+| ai_scored | 20 | [When Less Is Enough: Low-Rank Structure in DNA Sequence-to-F](https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1?rss=1) |
+| ai_scored | 5 | [MONTE: Methylation-based Observation Normalization and Tumor](https://www.biorxiv.org/content/10.64898/2026.01.22.701164v1?rss=1) |
+| keyword_rejected | - | [Comprehensive 4E performance assessment of novel porous clay](https://www.nature.com/articles/s41598-026-37241-3) |
+| keyword_rejected | - | [Sexual dysfunction in Brazilian women undergoing adjuvant en](https://www.nature.com/articles/s41598-026-37429-7) |
+| keyword_rejected | - | [Study on the dynamic tensile properties and damage mechanism](https://www.nature.com/articles/s41598-026-37207-5) |
+| keyword_rejected | - | [Application of the expanded theory of planned behavior in pr](https://www.nature.com/articles/s41598-026-35577-4) |
+| keyword_rejected | - | [Climate policy portfolios that accelerate emission reduction](https://www.nature.com/articles/s41467-026-68577-z) |
+| keyword_rejected | - | [Phylogenomics and biogeography of the parrot genus Pyrrhura ](https://www.biorxiv.org/content/10.64898/2026.01.21.700815v1?rss=1) |
+| keyword_rejected | - | [Deacylation of SNAP25 protein family isoforms reveals distin](https://www.biorxiv.org/content/10.64898/2026.01.21.700842v1?rss=1) |
+| keyword_rejected | - | [TCRAD: An End-to-End Framework for Antigen-Targeted T Cell R](https://www.biorxiv.org/content/10.64898/2026.01.21.700513v1?rss=1) |
+| keyword_rejected | - | [Liquid-liquid phase separation of tau regulates client bindi](https://www.biorxiv.org/content/10.64898/2026.01.21.700558v1?rss=1) |
+| keyword_rejected | - | [NMR reveals specific remodelling of protein folding landscap](https://www.biorxiv.org/content/10.64898/2026.01.21.700775v1?rss=1) |
+| keyword_rejected | - | [Mechanism of membrane perforation in rotavirus cell entry](https://www.biorxiv.org/content/10.64898/2026.01.21.700916v1?rss=1) |
+| keyword_rejected | - | [Supervised machine learning versus expert assessment of ultr](https://www.biorxiv.org/content/10.64898/2026.01.21.700795v1?rss=1) |
+| keyword_rejected | - | [F-actin dynamics couples sphingolipid metabolism to epitheli](https://www.biorxiv.org/content/10.64898/2026.01.21.700747v1?rss=1) |
 | ai_scored | 15 | [Comparative profiling of SARS-CoV-2 variant infections revea](https://www.biorxiv.org/content/10.64898/2026.01.22.701202v1?rss=1) |
 | ai_scored | 30 | [Opposing regulation by Rev1 of DNA polymerase zeta activity ](https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1) |
 | keyword_rejected | - | [Le Pakistan combat des légions de faux médecins](https://www.sciencesetavenir.fr/sante/le-pakistan-combat-des-legions-de-faux-medecins_190558?xtor=RSS-16) |

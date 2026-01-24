@@ -3,8 +3,162 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-23T23:18:08.851775+00:00</updated>
+  <updated>2026-01-24T01:19:54.716586+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ MONTE: Methylation-based Observation Normalization and Tumorpurity Estimation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701164v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701164v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Bulk DNA methylation profiling is widely used to study cancer epigenomics in clinical settings. However, these measurements aggregate signals from malignant and non-malignant cells, introducing compos</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Presents a pan-cancer, label-free computational method (MONTE) to estimate tumor purity and deconvolve CpG-level bulk DNA methylation signals, with minimal relevance to origins-of-life research beyond the general use of DNA.</p>
+<p><strong>Abstract:</strong> Bulk DNA methylation profiling is widely used to study cancer epigenomics in clinical settings. However, these measurements aggregate signals from malignant and non-malignant cells, introducing composition-dependent confounding that complicates tumor-intrinsic interpretation and cross-cohort analyses. While existing methods can estimate tumor purity and, in some cases, correct methylation measurements, they are often constrained by cancer-specific reference models, predefined probe sets, or limited adaptability to new datasets and purity definitions. We present MONTE (Methylation-based Observation Normalization and Tumor purity Estimation), a cancer label-free method for tumor purity inference and CpG-resolved methylation purification from bulk DNA methylation data. MONTE learns probe-wise relationships between observed methylation and tumor purity using a stabilized linear model with empirical Bayes variance moderation and infers purity in new samples via signal-to-noise weighted aggregation of probe-level effects, without requiring matched normal samples or predefined probe sets. MONTE achieves robust purity estimation across cancer types using a single pan-cancer model and can be efficiently recalibrated to specific contexts through Bayesian transfer learning. MONTE provides a flexible, scalable, and interpretable framework for both methylation-based tumor purity estimation and correction, yielding tumor-intrinsic profiles for downstream analysis.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701164v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701164v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701164v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioinformatics - biorXiv Preprints ▶ When Less Is Enough: Low-Rank Structure in DNA Sequence-to-Function Models</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Motivation: The rapid success of deep learning sequence-to-function (S2F) models has driven a trend toward ever larger architectures for regulatory genomics. While these models achieve meaningful pred</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study shows that modern deep-learning DNA sequence-to-function models contain surprisingly low-rank (low-dimensional) structure that enables ~90% model-size reduction with minimal loss in predictive accuracy, but it is only tangentially relevant to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Motivation: The rapid success of deep learning sequence-to-function (S2F) models has driven a trend toward ever larger architectures for regulatory genomics. While these models achieve meaningful predictive performance, their growing size and computational cost have made them increasingly opaque, difficult to deploy, and impractical for widespread use. As S2F models mature, an open question is how much model capacity is truly necessary to represent regulatory sequence function. Results: We show that, within linear layers, much of the predictive power of state-of-the-art S2F models is concentrated in low-rank structure. Using post hoc singular value decomposition, we construct low-rank approximations of the Sei model that reduce model size by up to 90% while preserving over 90% correlation with full-model predictions. Strikingly, extremely low-rank models--including rank 1--can match or exceed full-model performance on several variant-effect benchmarks, indicating that dominant regulatory signals lie in a surprisingly low-dimensional subspace. Combining low-rank approximation with static model quantization enables practical CPU inference, yielding over 5x speedups relative to the full Sei model and more than 100x faster inference than larger S2F models on comparable tasks. Applying the same approach to Borzoi and Enformer reveals consistent behavior, demonstrating that low-rank structure is a general property of modern S2F architectures rather than a model-specific artifact. Availability and Implementation: Low-rank Sei is available at https://github.com/kostkalab/seillra.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700827v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [0] bioinformatics - biorXiv Preprints ▶ Ensemble Machine Learning Approaches Predict Survival in Lower-Grade Glioma Based on Glycosphingolipid Gene Expression and Metabolic Modelling</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700788v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700788v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Glycosphingolipids (GSLs) are essential components of biological membranes with important roles in cell signalling. Disrupted GSL metabolism is associated with malignancy across a range of cancers, wi</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Uses ensemble machine learning and glycosphingolipid metabolic modelling to predict survival in lower-grade glioma patients, with no direct relevance to origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> Glycosphingolipids (GSLs) are essential components of biological membranes with important roles in cell signalling. Disrupted GSL metabolism is associated with malignancy across a range of cancers, with different GSLs implicated in distinct tumours. GSLs have potential mechanistic roles in cancer; however, their functions in Lower Grade Gliomas (LGGs) remain poorly understood. We present ensemble machine learning approaches using transcriptomic data from LGG, combined with GSL-specific metabolic simulations, to predict survival outcomes. The ensemble approach demonstrates effective risk stratification for LGG patients based on GSL gene expression. Pathway analysis of model-derived risk groups highlighted potential association of GSLs with cell motility, division and Wnt signalling in LGG pathology. Given the strong performance of machine learning approaches to predict outcomes and that GSLs are shed into the tumour microenvironment, GSL-based diagnostics and prognostics may prove clinically beneficial. A Python package enabling GSL-specific metabolic modelling and risk prediction from RNA-seq data is provided.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700788v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700788v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700788v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] bioRxiv Subject Collection: Evolutionary Biology ▶ Elevated mutation in haploid yeast driven by translesion synthesis</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701062v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701062v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>The impact of selection versus genetic drift on the evolution of mutation patterns is unclear. In Saccharomyces cerevisiae, which is predominantly diploid in nature, there is evidence that haploid cel</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> A yeast mutation-accumulation study shows haploids have elevated mutation rates driven by REV1-initiated error-prone translesion synthesis—an evolutionary-genetics result relevant to how mutation-rate modifiers can persist under weak selection, but not directly focused on origins-of-life chemistry or early protocells.</p>
+<p><strong>Abstract:</strong> The impact of selection versus genetic drift on the evolution of mutation patterns is unclear. In Saccharomyces cerevisiae, which is predominantly diploid in nature, there is evidence that haploid cells have a higher mutation rate than diploids, suggesting that a haploid-specific mutator phenotype may have evolved due to the limited opportunity for selection to act on this rare cell type. Mutation in haploids was primarily elevated in late-replicating regions of the genome, implicating error-prone translesion synthesis (TLS) repair. Additional research has demonstrated that removing REV1, a gene responsible for initiating TLS, causes a reduction in haploid mutation rate. To assess whether the preferential use of this error-prone repair pathway by haploids explains the difference in genome-wide mutation patterns between cell types, we deleted REV1 in both diploid and haploid S. cerevisiae and estimated their mutation rates using a mutation accumulation experiment. Consistent with a previous study, we found a 50% higher single nucleotide mutation rate in REV1+ haploids than in REV1+ diploids. Deleting the REV1 gene caused this difference to vanish, with mutation rates in haploid and diploid rev1 lines converging on 2.4 1010. Our results suggest that the mutagenic effect of translesion synthesis is much stronger in haploids, reflecting a limited opportunity for selection to act on mutation rates in rarer cells or smaller populations. We also find evidence that REV1 plays an important role in mitochondrial genome maintenance in both cell types.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701062v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701062v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701062v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [45] bioRxiv Subject Collection: Evolutionary Biology ▶ FSI (Fluctuating Selection among Individuals) Reduces the Mean Fixation Time (Generations) of a Mutation</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700920v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700920v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>A common assumption in molecular evolution is the fixed selection nature of a mutation, for instance, a neutral mutation is selectively neutral for all individuals who carry the mutation, and so forth</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> This theoretical population-genetics study shows that fluctuating selection among individuals can markedly shorten mean fixation times for mutations exhibiting selection-duality, potentially accelerating linked-site genetic turnover.</p>
+<p><strong>Abstract:</strong> A common assumption in molecular evolution is the fixed selection nature of a mutation, for instance, a neutral mutation is selectively neutral for all individuals who carry the mutation, and so forth a deleterious or beneficial mutation. Our recent work challenged this presumption, postulating that individuals with a specific mutation exhibit a fluctuation in fitness, short for FSI (fluctuating selection among individuals). Moreover, an intriguing phenomenon called selection-duality emerges, that is, a slightly beneficial mutation could be a negative selection (the substitution rate less than the mutation rate). It appears that selection-duality is bounded: the low-bound is the generic neutrality where the mutation is neutral by the means of fitness on average, while the up-bound is the substitution neutrality where the substitution rate equals to the mutation rate. In this paper, we conducted a thorough theoretical analysis to evaluate how many generations needed for a selection-duality mutation to be fixed in a finite population. A striking finding is that the mean fixation time of a selection-duality mutant, including the generic neutrality and the substitution neutrality, is approximately identical, which is considerably shorter than the case of strict neutrality without FSI. One may further envisage that the fast-fixation nature of selection-duality mutations could result in a considerable genetic reduction at linked sites.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700920v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700920v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700920v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [55] bioRxiv Subject Collection: Evolutionary Biology ▶ Levels of additive genetic variation vary substantially between species</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701036v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701036v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>A population&#x27;s ability to adapt is determined by its levels of additive genetic variance (VA), and while it is agreed that most organisms have genetic variation for most traits, the extent to which it</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*</p>
+<p><strong>AI Decision:</strong> Meta-analysis across 172–220 multicellular eukaryote species finds substantial phylogenetically structured interspecific variation in evolvability (additive genetic variance scaled by mean), with plants higher than animals, but little explanatory power from mutation rate, Ne, genome size, ploidy or recombination.</p>
+<p><strong>Abstract:</strong> A population&#x27;s ability to adapt is determined by its levels of additive genetic variance (VA), and while it is agreed that most organisms have genetic variation for most traits, the extent to which it varies between species is poorly characterised. Here we investigate this question by compiling 3209 and 1852 estimates of heritability and evolvability (the additive genetic variance divided by the square of the mean) estimates respectively, for a variety of traits, from 220 and 172 multicellular eukaryotic species. Using phylogenetic generalised linear mixed models, we find substantial and highly significant interspecific variation in evolvability. Much of the variation is explained by phylogenetic relatedness, with plants in our data having substantially higher evolvability than animals. While heritability also varies between species, the differences are more subtle, and plants are not exceptional. We investigate whether the variation in evolvability and heritability between species is due to variation in the mutation rate, effective population size, genome size, ploidy and recombination rate, but find little evidence of any factor being important. However, the confidence intervals are large suggesting that we have little power to detect any associations between these factors and our estimates of VA.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701036v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701036v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701036v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [15] bioRxiv Subject Collection: Evolutionary Biology ▶ Phenotypic evolutionary response to temporally limited pollinator access in Brassica rapa</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.23.701299v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.23.701299v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Plant-pollinator interactions are essential for plant reproductive success and pollinator food supply. However, the ongoing pollinator decline threatens many wild and cultivated flowering plants, urge</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Experimental evolution in Brassica rapa shows rapid phenotypic shifts (phenology, floral traits, volatiles) under restricted pollinator access, but it is largely ecological/evolutionary rather than origins-of-life relevant.</p>
+<p><strong>Abstract:</strong> Plant-pollinator interactions are essential for plant reproductive success and pollinator food supply. However, the ongoing pollinator decline threatens many wild and cultivated flowering plants, urgently requiring studies on its impact on plant populations and their potential evolutionary responses. We combined an experimental evolution with a resurrection approach to test phenotypic evolutive changes in response to artificially limited access of plants to natural pollinators in a common garden setting using Brassica rapa. After six generations, we detected putative adaptive responses to the pollination treatments, including changes in phenology, floral morphology and flower volatile organic compounds, associated with changes in overall attractiveness to hoverflies. Although the generalist plant B. rapa shows ability to rapidly respond to strong limitations to its natural pollinator community, the observed decrease of fitness could threaten the population.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.701299v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.23.701299v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.23.701299v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟤 [5] bioinformatics - biorXiv Preprints ▶ Predicting Gene Mutations in Colon Cancer Using Long-Term Temporal Dependency Learning on a Directed Co-Occurrence Asymmetry Graph</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701121v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701121v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Accurate prediction of mutational dependencies to model tumor evolution can improve our understanding of cancer progression and is crucial for early diagnosis and interventions. This is especially tru</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Graph-based deep learning models infer and predict ordered mutational dependencies in colorectal cancer using directed co-occurrence asymmetry graphs, but the work is biomedical and only tangentially touches on evolution, not origins-of-life or astrobiology.</p>
+<p><strong>Abstract:</strong> Accurate prediction of mutational dependencies to model tumor evolution can improve our understanding of cancer progression and is crucial for early diagnosis and interventions. This is especially true in colorectal tumorigenesis which often follows stepwise mutational progression patterns. Here, we propose a graph-based approach to infer a longest path as well as global gene mutational order based on data-driven co-occurrence conditional probabilities, we train long-term deep learning models (Long-Short-Term Memory (LSTM) recurrent neural network and dilated Convolutional Neural Network (CNN)) to predict, for each path and at each pseudo-temporal step, whether the next gene in the inferred path is mutated. We use a large gene network (23,858 genes) and a large curated cohort (2,344 samples) of publicly available human colon adenocarcinoma samples for path inference and training and validation tasks. From the proposed directed co-occurrence asymmetry graph we inferred a longest path and global graph-derived mutational orders. Both proposed long-term models achieve high prediction accuracies and dramatically improve precision and recall in mutation prediction over previous studies&#x27; results, with longest weighted path achieving best results overall.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701121v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701121v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701121v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🟠 [50] biochemistry - biorXiv Preprints ▶ A 3D printed mini-gel electrophoresis system for rapid and inexpensive DNA nanoswitch biosensing</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700818v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700818v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Gel electrophoresis has been a cornerstone laboratory technique for decades, yet it is often viewed as cumbersome, costly, and has remained confined to laboratory settings. Recent advances in DNA nano</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> Introduces a low-cost, 3D-printable mini gel electrophoresis platform (including conductive plastic electrodes) that rapidly reads DNA nanoswitch conformational states, offering a potentially field-deployable nucleic-acid biosensing tool relevant to life-detection workflows rather than core origins-of-life theory.</p>
+<p><strong>Abstract:</strong> Gel electrophoresis has been a cornerstone laboratory technique for decades, yet it is often viewed as cumbersome, costly, and has remained confined to laboratory settings. Recent advances in DNA nanotechnology have repurposed electrophoresis as a primary readout for some biosensing applications such as DNA nanoswitches, where a conformational change in a DNA structure indicates the presence of a target molecule. Conventional gel electrophoresis setups not ideal for such targeted applications, with moderate equipment cost, excessive reagent use, and time-consuming processes. Here, we adopt a reductionist, application-driven approach to redesign gel electrophoresis specifically for DNA nanoswitch-based detection. We present a fully 3D-printable mini gel electrophoresis system that incorporates conductive plastic electrodes, demonstrating performance comparable to conventional systems using platinum electrodes. By optimizing the inter-electrode distance and running parameters, our system resolves the on/off states of DNA nanoswitches in as little as one minute. We further show that the device operates reliably at low voltages, including when powered by a USB power bank, and even enables instrument-free nanoswitch readout using an LED with a cell-phone camera. Our design substantially reduces the cost, voltage requirements, material usage, operational complexity, and experiment time. These improvements make gel-based biosensing more practical outside traditional laboratory environments, paving the way for broader adoption of gel electrophoresis in point-of-care and resource-limited settings.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700818v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700818v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700818v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [20] bioRxiv Subject Collection: Evolutionary Biology ▶ Rare shell colours in bivalves reveal multiple evolutionary pathways to blue and green colouration</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700781v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.21.700781v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Green and blue are rare colours in bivalve shells. Where such colours occur, it is unclear whether they result from shared pigments across taxa, as similar appearances may arise from different compoun</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> evolution</p>
+<p><strong>AI Decision:</strong> Raman spectroscopy of 15 bivalve species suggests blue shell colour is carotenoid-based while green arises from either previously unreported weakly Raman-active pigments or nanostructure-driven structural colour, implying multiple evolutionary routes to these rare traits.</p>
+<p><strong>Abstract:</strong> Green and blue are rare colours in bivalve shells. Where such colours occur, it is unclear whether they result from shared pigments across taxa, as similar appearances may arise from different compounds and are not necessarily homologous. Identifying their biochemical basis is therefore crucial to understanding the evolution and possible metabolic costs of these unusual traits. We used Raman spectroscopy to analyse resin-embedded cross-sections of valves from 15 bivalve species with green or blue shells. Species represented diversity in shell colour in terms of both phylogeny and morphological traits, including colour location (organic periostracum, organic layers in the calcareous shell or inorganic calcareous matrix). Green colour consistently occurred in organic layers rather than calcareous shell, while blue colour occurs in both calcareous shell and organic layers. Blue colour appears to be due to carotenoid-based pigments, similar to other pigments observed in bivalve shells. Green colour, however, is due either to novel pigments, not previously identified in mollusc shells, which are only weakly Raman active or nanostructures that produce structural colour in the absence of green pigments. Within bivalves, to date structural colour has been reported only in one genus, underscoring its evolutionary significance.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700781v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.21.700781v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.21.700781v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>🔴 [25] bioRxiv Subject Collection: Evolutionary Biology ▶ Convergent reduction in skeletal density during benthic to pelagic transitions in Baikal sculpins</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.701097v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.701097v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Habitat transitions are a major driver of morphological evolution. Teleost fishes have repeatedly transitioned from benthic to pelagic habitats, often evolving predictable changes in body shape that e</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> life, evolution, water</p>
+<p><strong>AI Decision:</strong> This preprint documents convergent skeletal density reduction and associated body-shape changes in Lake Baikal sculpins during independent benthic-to-pelagic transitions, illuminating repeated biomechanical solutions to midwater life but with minimal direct relevance to origins-of-life research.</p>
+<p><strong>Abstract:</strong> Habitat transitions are a major driver of morphological evolution. Teleost fishes have repeatedly transitioned from benthic to pelagic habitats, often evolving predictable changes in body shape that enhance hydrodynamic efficiency. While freshwater sculpins (Cottidae, Perciformes) are usually benthic, two genera in Lake Baikal, Comephorus and Cottocomephorus, have independently evolved into midwater niches. As sculpins lack a swim bladder, these lineages instead improved buoyancy through reduced skeletal density and increased lipid stores. Using micro-computed tomography and two-dimensional morphometrics, we characterized skeletal evolution across the Baikal sculpin radiation. We found that parallel changes in bone mineral density and microstructure independently evolved in the two pelagic clades. Density reductions occurred throughout the skull in pelagic species. The basibranchials and neurocranium exhibited the lowest overall bone density across all cranial elements. While the jaws maintained the highest absolute density values among the bones we measured, they also showed the greatest proportional reduction in density associated with pelagic habitat use, with a 56.86% decrease in percentage hydroxyapatite and a 21.39% increase in porosity. Morphometric analyses further identified convergence toward an elongate body shape, reduced and posteriorly shifted eyes, and elevated fin insertion in pelagic taxa. These results demonstrate a repeated skeletal lightening and body shape changes accompanying benthic-to-pelagic transitions. This pattern mirrors other benthic-to-pelagic transitions in teleosts that lack swim bladders, highlighting shared biomechanical and microstructural solutions to life in the open water.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701097v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.701097v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.701097v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🔴 [30] biochemistry - biorXiv Preprints ▶ Opposing regulation by Rev1 of DNA polymerase zeta activity on damaged versus undamaged DNA</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.21.700666v1?rss=1"/>
@@ -6824,90 +6978,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/dale-andersens-astrobiology-antarctic-status-report-18-january-2026-lake-untersee-base-camp-is-operational.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟠 [55] biochemistry - biorXiv Preprints ▶ Drying parameters and aging modulate protective properties of vitrified trehalose</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>Storage of biological materials is essential for medical, research, and biotechnological applications. While cold-chain preservation is effective, it is costly, infrastructure-dependent, and vulnerabl</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
-<p><strong>AI Decision:</strong> This study quantifies how drying conditions and physical aging in vitrified trehalose affect the room‑temperature stability of DNA, RNA, and enzymes—insights relevant to astrobiology via biomolecule persistence under desiccating conditions, though it is primarily a biopreservation/biotechnology paper rather than core origins-of-life.</p>
-<p><strong>Abstract:</strong> Storage of biological materials is essential for medical, research, and biotechnological applications. While cold-chain preservation is effective, it is costly, infrastructure-dependent, and vulnerable to disruption. Room-temperature dry storage, inspired by desiccation-tolerant organisms, provides an alternative by stabilizing biomolecules in vitrified (glass-like) matrices that limit molecular motion which if not reduced can lead to breakdown and loss of integrity. Trehalose is widely used as a vitrifying agent, but its protective capacity depends on glassy properties shaped by drying methods, environmental conditions, storage duration, and the type of preserved molecule. Systematic studies linking these factors to short and long-term stability remain limited. Here, we examine how drying conditions and storage duration influence the stability of DNA, RNA, and enzymes in vitrified trehalose systems. DNA remained stable under all conditions, independent of trehalose or drying parameters, reflecting its intrinsic resistance to desiccation-induced damage. RNA showed moderate sensitivity to drying without trehalose but was stabilized in its presence, although RNA integrity did not consistently correlate with measured vitrified properties. In contrast, enzymes were highly sensitive to drying without trehalose and were strongly protected under conditions that promoted favorable vitrified properties. Enzyme protection after 30 minutes correlated with high glass transition temperature. However, during prolonged drying, increased glass transition temperature was inversely correlated with enzyme protection and was a better indicator of detrimental physical aging of the vitrified system. These findings present the first insight into how drying methods, environmental conditions, and storage duration shape vitrified properties and stability. They guide optimization of room-temperature preservation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.700019v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟤 [10] molecular biology - biorXiv Preprints ▶ INTS12 Bridges Integrator and NELF to Prevent the Release of Non-processive RNA Polymerase II Complexes</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>Promoter-proximal RNA Polymerase II (RNAPII) pausing and the processivity are controlled by distinct modules of the Integrator complex, which together fine-tune transcription and protect against the a</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This study dissects how the eukaryotic Integrator subunit INTS12 modulates NELF–RNAPII pausing to prevent release of defective transcription complexes, a mechanistic advance in transcription regulation but with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> Promoter-proximal RNA Polymerase II (RNAPII) pausing and the processivity are controlled by distinct modules of the Integrator complex, which together fine-tune transcription and protect against the accumulation of defective RNAPII complexes. Compromised activity of individual Integrator modules has been linked to human disease including cancer and developmental disorders, caused by defective transcription of protein-coding or small-nuclear RNAs. Despite extensive characterisation of the Integrator complex both genetically and structurally, the role of smallest member of the complex, INTS12, has remained enigmatic. Here, we uncover that INTS12 loss acts to stabilise the association between NELF and Integrator via its PHD domain and N-terminus, respectively, thus safeguarding against the release of defective RNAPII complexes. Acute degradation of INTS12 results in the selective dissociation of Integrator from the NELF-RNAPII complex which subsequently convert to their canonical paused form from which they can be released by CDK9. In the absence of INTS12 excess release of defective RNAPII via P-TEFb/SEC, loss of the ARMC5 salvage pathway and deletion of the catalytic and core Integrator subunits is toxic to cells. These findings demonstrate that there is interconversion between canonical paused RNAPII and paused-Integrator, and highlight the critical interplay between these processes and P-TEFb mediated pause-release to ensure that only transcription competent complexes are released into elongation.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699819v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] molecular biology - biorXiv Preprints ▶ Recognizing dUTPase as a mitotic factor essential for early embryonic development</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>dUTPase is universally regarded as a metabolic sanitizing enzyme that protects genomes by preventing the incorporation of uracil into DNA. Despite its essentiality across eukaryotes, no function beyon</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> eukaryo*, DNA</p>
-<p><strong>AI Decision:</strong> Preprint reports a conserved, non-canonical role for dUTPase in regulating mitosis and centrosome/spindle integrity in Drosophila and mouse embryos, decoupling its essentiality from uracil-in-DNA repair (relevant mainly as general eukaryotic DNA biology rather than direct origins-of-life work).</p>
-<p><strong>Abstract:</strong> dUTPase is universally regarded as a metabolic sanitizing enzyme that protects genomes by preventing the incorporation of uracil into DNA. Despite its essentiality across eukaryotes, no function beyond nucleotide sanitization has been demonstrated. Here, we uncover a conserved, non-canonical role for dUTPase as a regulator of mitosis. Using Drosophila and mouse models, we demonstrate that dUTPase loss causes early embryonic lethality characterized by severe mitotic failure that, cannot be rescued by disabling uracil-DNA repair, uncoupling dUTPase essentiality from DNA repair pathways. Mechanistically, dUTPase dynamically associates with the mitotic spindle and centrosomes, and its depletion induces centrosome amplification and chromosome segregation defects. Beyond cell division, dUTPase dosage bidirectionally controls cell migration, linking its mitotic function to cellular behaviors relevant for metastasis. Together, our findings redefine dUTPase as a moonlighting mitotic factor that coordinates centrosome integrity and spindle dynamics, expanding its known repertoire beyond nucleotide metabolism.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699898v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] molecular biology - biorXiv Preprints ▶ Human CCR4-NOT suppresses pervasive transcription and retrotransposable elements</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>CCR4-NOT regulates multiple steps in gene regulation and has been well studied in budding yeast. Although primarily cytoplasmic, where it plays an essential role in mRNA degradation, the human complex</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Using rapid degradation of CCR4-NOT subunits in human cells, the authors show this complex suppresses pervasive transcription and LINE retrotransposon activity by modulating KRAB-ZNF repression and promoting retrotransposon RNA decay.</p>
-<p><strong>Abstract:</strong> CCR4-NOT regulates multiple steps in gene regulation and has been well studied in budding yeast. Although primarily cytoplasmic, where it plays an essential role in mRNA degradation, the human complex has poorly characterized nuclear functions. Here, we used auxin-induced degradation to rapidly deplete the scaffold subunit CNOT1 and the E3 ligase CNOT4, and characterized the transcriptional functions of the human CCR4-NOT complex. Using transient transcriptome profiling (TT-Seq) to measure ongoing transcription, we found widespread activation of RNA synthesis in depleted cells across genic and intergenic regions. Interestingly, fewer genes were repressed, including KRAB-Zinc-Finger-protein (KZNF) genes, especially those on chromosome 19. KZNFs repress genes and retrotransposable elements (rTEs), and consistent with decreased KZNF expression, rTEs, mainly Long Interspersed Nuclear Elements (LINEs), were activated. Full-length active LINEs and rTEs lying outside of genes were activated, suggesting that the increased transcription is not the direct result of transcription of the genes the rTEs are embedded in. We found that most activated transcription events were in proximity to KZNF binding sites, suggesting that KZNF regulation contributes to the suppression of genic and rTE transcription. Finally, we demonstrate that CCR4-NOT regulates the stability of rTE RNAs, indicating that the complex tightly controls transposon expression by repressing transcription and targeting their RNAs for decay.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699749v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🟠 [48] molecular biology - biorXiv Preprints ▶ Inosine misincorporation into mRNA triggers the integrated stress response and activates an innate immune gene expression signature</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>The inosine triphosphate pyrophosphatase (ITPase) enzyme restricts levels of the non-canonical nucleotides (deoxy)inosine triphosphate (dITP/ITP) and prevents their aberrant misincorporation into nucl</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> This preprint shows that inosine misincorporation into mRNA (normally prevented by ITPase) activates the integrated stress response via PKR and induces an innate immune-like transcriptional program, highlighting how non-canonical nucleotides in RNA can act as a potent cellular stress signal.</p>
-<p><strong>Abstract:</strong> The inosine triphosphate pyrophosphatase (ITPase) enzyme restricts levels of the non-canonical nucleotides (deoxy)inosine triphosphate (dITP/ITP) and prevents their aberrant misincorporation into nucleic acids. ITPase deficiency is associated with dilated cardiomyopathy and epileptic encephalopathy in humans and is usually fatal in infancy. It leads to pronounced inosine misincorporation into RNA but the cellular consequences of this misincorporation are not well understood and the pathogenic basis of ITPase deficiency remains unknown. Here we show that cellular transfection of mRNA with inosine misincorporation activates the integrated stress response (ISR) with an innate immune gene expression signature. This stress response triggers stress granule formation and is modulated by the double stranded RNA sensor protein Kinase R (PKR). Inosine nucleoside treatment of ITPase-deficient cells leads to endogenous inosine misincorporation into mRNA and activation of the ISR. Further, differentiation of human ITPase-deficient induced pluripotent stem cells into neurons results in a low-level stress response. Thus, our study establishes inosine misincorporation into mRNA as an unappreciated form of cellular stress. This is normally prevented by the ITPase enzyme, with implications for the pathogenesis of ITPase deficiency.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699979v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] molecular biology - biorXiv Preprints ▶ Dimerization of the S. cerevisiae Spo11 core complex</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>Spo11 initiates meiotic recombination by introducing programmed DNA double-strand breaks. DNA cleavage occurs via a topoisomerase-like mechanism involving hybrid active sites formed at the dimer inter</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study dissects transient DNA-dependent dimerization and partner-assisted catalysis of the eukaryotic meiotic nuclease Spo11, offering mechanistic insight into modern DNA-processing complexes but with only indirect relevance to origins-of-life questions.</p>
-<p><strong>Abstract:</strong> Spo11 initiates meiotic recombination by introducing programmed DNA double-strand breaks. DNA cleavage occurs via a topoisomerase-like mechanism involving hybrid active sites formed at the dimer interface. However, in contrast to its topoisomerase relative (Topo VI), Spo11 does not form a stable dimer, likely to prevent uncontrolled DNA cleavage. Here, we investigated the dimerization of S. cerevisiae Spo11 in complex with its partners Ski8, Rec102, and Rec104. We show that the Spo11 complex dimerizes transiently on DNA, forming unstable dimeric complexes with duplex and branched DNA substrates. Guided by AlphaFold modeling of a pre-cleavage complex, we identified mutations that reduce dimerization. Surprisingly, DSB formation is resilient to mutagenesis of the Spo11 dimer interface, implying that additional factors promote dimerization in vivo. Finally, we found that Rec102 exerts a key DNA-binding function, essential for catalysis, and show that it also participates in dimerization through trans contacts with Ski8. Our work provides new insights into the mechanism of Spo11 dimerization and the role of its partners in initiating meiotic recombination.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699991v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🔴 [35] Astrobiology (astrobiology.com) ▶ WISE/CatWISE Constraints On Dysonian Waste-Heat Technosignatures In Nearby Galaxies</title>
     <link href="https://astrobiology.com/2026/01/wise-catwise-constraints-on-dysonian-waste-heat-technosignatures-in-nearby-galaxies.html"/>
     <id>https://astrobiology.com/2026/01/wise-catwise-constraints-on-dysonian-waste-heat-technosignatures-in-nearby-galaxies.html</id>
@@ -6936,20 +7006,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <li><a href="https://arxiv.org/abs/2601.06236">https://arxiv.org/abs/2601.06236</a></li>
 </ul>
 <p><a href="https://astrobiology.com/2026/01/transiting-exoplanets-as-the-immediate-future-for-population-level-atmospheric-science.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [35] molecular biology - biorXiv Preprints ▶ Human PMS1-dependent non-canonical mismatch repair converges with MBD4 to repair 5-methylcytosine deamination</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>CpG dinucleotides are hotspots for mutagenesis by spontaneous deamination of 5-methylcytosine (5mC) into thymine, resulting in T:G mismatches that can lead to C&gt;T transitions. These mutations are a ha</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA, evolution</p>
-<p><strong>AI Decision:</strong> Using targeted cytosine base-editing in native chromatin, the study shows that human MBD4 base-excision repair cooperates with a replication-independent, PMS1/MLH1-dependent non-canonical mismatch repair pathway to fix 5mC deamination (T:G) lesions, shaping CpG mutational patterns relevant to genome evolution and cancer.</p>
-<p><strong>Abstract:</strong> CpG dinucleotides are hotspots for mutagenesis by spontaneous deamination of 5-methylcytosine (5mC) into thymine, resulting in T:G mismatches that can lead to C&gt;T transitions. These mutations are a hallmark of aging and cancer and a major force shaping the evolution of vertebrate genomes. We have previously uncovered MBD4 as the primary base excision repair (BER) glycosylase responsible for 5mC deamination repair. In this study, we employ a cytosine base-editing system, comprising an APOBEC1 deaminase fused to a catalytically dead Cas9, to induce targeted cytosine deamination in native chromatin and track its repair. This approach reveals that MBD4 cooperates with a non-canonical branch of mismatch repair (MMR) to elicit 5mC deamination repair. We demonstrate that MBD4 activity depends on MMR complexes MutS (MSH2-MSH6) and MutL{beta} (MLH1-PMS1), but not on post-replicative MMR elicited by the MutL (MLH1-PMS2) complex. We find that PMS1 loss phenocopies the genome-wide CpG&gt;TpG hypermutated profile associated with MBD4 deficiency, uncovering that 5mC deamination repair may represent one of the primary functions of the MutL{beta} complex. The mutational landscape of MMR-deficient tumors aligns with our experimental results, showing that replication-independent CpG&gt;TpG mutagenesis partly contributes to the mutational burden of tumors inactivated for MLH1, MSH2 and MSH6. Finally, using structural predictions alongside biochemical validation, we show that MBD4 physically interacts with MutL{beta} in an MLH1-dependent manner, illuminating the structural basis for the convergence of the BER and MMR pathways. Altogether, we uncover a novel function of non-canonical MMR that underscores its interplay with BER in safeguarding genomic integrity against damage to methylated DNA.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.698129v1?rss=1">Read source article</a></p>]]></content>
   </entry>
   <entry>
     <title>🟡 [65] Astrobiology (astrobiology.com) ▶ Expanding the C3H6O2 Isomeric Interstellar Inventory: Discovery of Lactaldehyde and Methoxyacetaldehyde in G+0.693-0.027</title>
@@ -6995,20 +7051,6 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><a href="https://astrobiology.com/2026/01/circumplanetary-disk-candidate-in-the-disk-of-hd-163296-traced-by-localized-emission-from-simple-organics.html">Read source article</a></p>]]></content>
   </entry>
   <entry>
-    <title>🟤 [5] systems biology - biorXiv Preprints ▶ Scaling perturbations: beyond genome-scale CRISPR screens</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>CRISPR screens have become essential tools for systematically probing gene function from basic biology to drug discovery, yet important frontiers remain beyond genome scale. Probing regulatory element</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
-<p><strong>AI Decision:</strong> Introduces PORTAL and CAP cloning to enable ultrahigh-complexity CRISPR perturbation libraries and large-scale genetic interaction mapping in human cells using quantitative RNA readouts, with minimal direct relevance to origins-of-life research.</p>
-<p><strong>Abstract:</strong> CRISPR screens have become essential tools for systematically probing gene function from basic biology to drug discovery, yet important frontiers remain beyond genome scale. Probing regulatory elements, interpreting genetic variants, and mapping genetic interactions all challenge the sensitivity and scalability of existing approaches. Here we introduce two synergistic technologies to address these limitations. PORTAL (Perturbation Output via Reporter Transcriptional Activity in Lineages) shifts pooled genetics toward quantitative RNA phenotypes, encoding perturbation effects in expressed transcripts to enable single-molecule measurements with lineage or single-cell resolution. CAP cloning (Covalently closed Assembly Products) bypasses bacterial transformation to enable construction of ultrahigh-complexity lentiviral libraries. Combining these advances, we construct a genetic interaction map spanning 665,856 pairwise perturbations across 46 million clonal lineages - the largest exhaustive map in human cells and the first at this scale using a non-fitness phenotype. More broadly, this work charts a path toward comprehensive genetic interaction mapping in human cells.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699948v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
     <title>🟠 [55] Biosystems ▶ Ohmic–polarization transition in hydrated DNA</title>
     <link href="https://www.sciencedirect.com/science/article/pii/S0303264726000183?dgcid=rss_sd_all"/>
     <id>https://www.sciencedirect.com/science/article/pii/S0303264726000183?dgcid=rss_sd_all</id>
@@ -7034,73 +7076,5 @@ b0C water, with negligible relevance to origins-of-life research beyond the inci
 <p><strong>Abstract:</strong> MicroRNAs, whose discovery was recognized with the 2025 Nobel Prize in Physiology or Medicine, are central regulators of gene expression, yet a fundamental question has remained unanswered: how cells choose between the two strands produced from each microRNA precursor.</p>
 <p><strong>Links found:</strong> <em>No links found</em></p>
 <p><a href="https://phys.org/news/2026-01-decoded-microrna-strand-reveal-programmable.html">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [25] cell biology - biorXiv Preprints ▶ Primed-to-naive conversion of pluripotent stem cells can be tracked by specific DNA methylation changes for optimized culture conditions</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>During early embryonic development, cells transition from naive to primed pluripotent state. Various culture conditions have been established to revert primed cells back to naive state, to increase di</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study refines culture conditions for converting primed to naive pluripotent stem cells and introduces a DNA methylation–based two-site biomarker to quantitatively track pluripotent state transitions, with only indirect relevance to origins-of-life questions via epigenetic regulation of cellular states.</p>
-<p><strong>Abstract:</strong> During early embryonic development, cells transition from naive to primed pluripotent state. Various culture conditions have been established to revert primed cells back to naive state, to increase differentiation potential and to reset epigenetic abnormalities. In this study, we modified culture conditions to allow primed-to-naive conversion under feeder-independent and normoxic conditions (FINO medium), which exemplified the need for a quantitative measure of pluripotent states. DNA methylation (DNAm) profiling revealed extensive hypomethylation at naive state, but also significant gains of methylation at specific sites in the genome. We demonstrate that DNAm patterns can be used to benchmark culture protocols. Furthermore, we developed a naive-score based on DNAm at two genomic sites, which can be analyzed by digital PCR to monitor transition between pluripotent states. Our study describes a simplified culture protocol for primed-to-naive conversion, offers insights into the specific DNAm changes, and introduces a robust DNAm-based biomarker to track this process effectively.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699914v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] biophysics - biorXiv Preprints ▶ Structural heterogeneity in mRNA-LNP subpopulations revealed by AF4-SAXS: implications for cargo loading and cell transfection</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>Lipid nanoparticles are the leading platform for the delivery of nucleic acid therapeutics, yet their structural complexity remains a significant barrier to achieve rational design and predictable fun</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> nucleic acid</p>
-<p><strong>AI Decision:</strong> This preprint uses AF4-SAXS, cryo-EM, and single-particle analyses to show that mRNA-loaded lipid nanoparticles form heterogeneous structural subpopulations whose internal organization and cargo uniformity correlate with transfection efficiency, offering indirect insights into nucleic-acid compartmentalization/self-organization rather than core origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Lipid nanoparticles are the leading platform for the delivery of nucleic acid therapeutics, yet their structural complexity remains a significant barrier to achieve rational design and predictable function. Part of this complexity arises from the non-equilibrium assemblies that are difficult to identify using ensemble average techniques given the substantial heterogeneity in all properties. Aiming to overcome the limitations of traditional characterization methods, we combined asymmetric flow field-flow fractionation with in-line small-angle X-ray scattering and spectroscopic analyses, nanoflow cytometry, and cryo-EM to construct detailed structural models of mRNA-loaded nanoparticles formulated with different amounts of mRNA loading (N/P ratios of 3 and 6). This combination of techniques revealed that microfluidic formulation produces structurally diverse nanoparticle subpopulations differing in size, anisotropy, and cargo loading. Notably, these variations extend to the particle internal organization: spheroidal geometries display densely loaded mRNA cores, whereas bleb-like morphologies exhibit reduced mRNA content relative to the lipid amount within segregated domains at the core. NanoFCM further shows that the N/P ratio modulates cargo distribution across individual nanoparticles, with N/P=6 yielding a more uniform mRNA copy number per particle across subpopulations than N/P=3. These differences resulted in higher transfection efficacies for the N/P=6 formulation, highlighting core organization and loading homogeneity as key parameters for efficacious delivery. Together, these results establish a direct link between LNP architecture, internal organization, cargo distribution, and transfection efficiency, underscoring the importance of accounting for heterogeneity in the rational design of nucleic acid delivery systems.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699683v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] cell biology - biorXiv Preprints ▶ ATM-dependent RHEB phosphorylation couples DNA damage to lysosomal mTORC1 signaling to orchestrate the cellular response to genotoxic stress</title>
-    <link href="https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1"/>
-    <id>https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary>Cells dynamically adapt to environmental stressors by rewiring signaling networks that coordinate growth, metabolism and genome maintenance. The DNA damage response (DDR) and mTORC1 signaling pathways</summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study reveals an ATM–RHEB–mTORC1–TFEB signaling axis linking DNA damage to lysosomal adaptation and recovery after genotoxic stress, offering cell-biology context but limited direct relevance to origins-of-life mechanisms.</p>
-<p><strong>Abstract:</strong> Cells dynamically adapt to environmental stressors by rewiring signaling networks that coordinate growth, metabolism and genome maintenance. The DNA damage response (DDR) and mTORC1 signaling pathways govern DNA repair and cell growth, respectively, but how these pathways intersect remains incompletely understood. Here, we identify RHEB, the most direct mTORC1 activator, as a substrate of the DDR kinase ATM. Strikingly, we find that, although genotoxic stress differentially regulates mTORC1 activity, reducing the phosphorylation of its lysosomal target TFEB, while enhancing phosphorylation of its cytoplasmic target S6K, the DDR-induced phosphorylation of RHEB specifically controls the lysosomal mTORC1 signaling branch. Preventing RHEB phosphorylation impairs TFEB nuclear translocation and lysosome biogenesis upon DNA damage. Functionally, the RHEB phosphorylation-dependent TFEB response is required for proliferative recovery following genotoxic stress. These findings uncover an ATM-RHEB-mTORC1-TFEB signaling axis that links DNA damage to selective mTORC1 outputs, revealing a mechanism which enables cells to adapt to genotoxic cues.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1</a></li>
-</ul>
-<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.16.699946v1?rss=1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [30] nature.com - Biological sciences ▶ A single valine to leucine switch disrupts Plasmodium falciparum AP2-G DNA binding and reveals GDV1’s role in ap2-g activation</title>
-    <link href="https://www.nature.com/articles/s41467-026-68416-1"/>
-    <id>https://www.nature.com/articles/s41467-026-68416-1</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This study shows that a single valine-to-leucine mutation disrupts the malaria parasite transcription factor AP2-G’s DNA binding and clarifies GDV1’s role in activating ap2-g, informing eukaryotic gene regulation rather than origins-of-life questions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-026-68416-1">https://www.nature.com/articles/s41467-026-68416-1</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-026-68416-1">Read source article</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>🔴 [20] nature.com - Biological sciences ▶ Molecular determinants of Smc5/6 association with DNA junctions</title>
-    <link href="https://www.nature.com/articles/s41467-025-67999-5"/>
-    <id>https://www.nature.com/articles/s41467-025-67999-5</id>
-    <updated>2026-01-17T00:00:00Z</updated>
-    <summary></summary>
-    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
-<p><strong>AI Decision:</strong> This Nature Communications study dissects how the eukaryotic Smc5/6 complex binds DNA junction structures (recombination/repair intermediates), offering molecular cell biology insight but little direct relevance to origins-of-life questions.</p>
-<p><strong>Links found:</strong></p><ul>
-<li><a href="https://www.nature.com/articles/s41467-025-67999-5">https://www.nature.com/articles/s41467-025-67999-5</a></li>
-</ul>
-<p><a href="https://www.nature.com/articles/s41467-025-67999-5">Read source article</a></p>]]></content>
   </entry>
 </feed>
