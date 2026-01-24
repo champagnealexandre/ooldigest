@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-24T09:17:25.201582+00:00</updated>
+  <updated>2026-01-24T10:17:55.363776+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [50] Protein Science ▶ The secreted staphylococcal biofilm protein Sbp forms biomolecular condensates in the presence of DNA</title>
+    <link href="https://onlinelibrary.wiley.com/doi/10.1002/pro.70485?af=R"/>
+    <id>https://onlinelibrary.wiley.com/doi/10.1002/pro.70485?af=R</id>
+    <updated>2026-01-23T13:20:08Z</updated>
+    <summary>Protein Science, Volume 35, Issue 2, February 2026.</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> DNA</p>
+<p><strong>AI Decision:</strong> This study shows a modern bacterial biofilm protein (Sbp) can form DNA-dependent biomolecular condensates, offering broadly relevant insight into protein–nucleic acid phase separation as a potential physical mechanism for early compartmentalization but not a direct origins-of-life model.</p>
+<p><strong>Abstract:</strong> Protein Science, Volume 35, Issue 2, February 2026.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://onlinelibrary.wiley.com/doi/10.1002/pro.70485?af=R">https://onlinelibrary.wiley.com/doi/10.1002/pro.70485?af=R</a></li>
+</ul>
+<p><a href="https://onlinelibrary.wiley.com/doi/10.1002/pro.70485?af=R">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟤 [0] bioinformatics - biorXiv Preprints ▶ Platform Biological Divergence: quantifying gene-level differences between bulk and single-cell transcriptomics in breast cancer</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1"/>

@@ -1,5 +1,11 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 50 | [The secreted staphylococcal biofilm protein Sbp forms biomol](https://onlinelibrary.wiley.com/doi/10.1002/pro.70485?af=R) |
+| keyword_rejected | - | [Role of the transmembrane domain in severe acute respiratory](https://onlinelibrary.wiley.com/doi/10.1002/pro.70482?af=R) |
+| keyword_rejected | - | [Structural basis for uPAR binding to an antibody developed f](https://onlinelibrary.wiley.com/doi/10.1002/pro.70473?af=R) |
+| keyword_rejected | - | [Stabilization versus flexibility: Detergent‐dependent trade‐](https://onlinelibrary.wiley.com/doi/10.1002/pro.70475?af=R) |
+| keyword_rejected | - | [The soluble state of the HIV‐1 Vpu protein forms a complex w](https://onlinelibrary.wiley.com/doi/10.1002/pro.70487?af=R) |
+| keyword_rejected | - | [Protein–lipid interplay governs ion channel gating and bioen](https://onlinelibrary.wiley.com/doi/10.1002/pro.70486?af=R) |
 | keyword_rejected | - | [Patient profiles, incidence and trends of lung cancer in Eth](https://www.nature.com/articles/s41598-026-36944-x) |
 | keyword_rejected | - | [A benchmark for evaluating diagnostic questioning efficiency](https://www.nature.com/articles/s41598-026-37022-y) |
 | keyword_rejected | - | [Sardaigne, l'île aux huit mille tours](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/sardaigne-l-ile-aux-huit-mille-tours_190115?xtor=RSS-4) |
