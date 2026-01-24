@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-24T04:32:47.742165+00:00</updated>
+  <updated>2026-01-24T05:18:36.955067+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟤 [0] bioinformatics - biorXiv Preprints ▶ Platform Biological Divergence: quantifying gene-level differences between bulk and single-cell transcriptomics in breast cancer</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1</id>
+    <updated>2026-01-23T00:00:00Z</updated>
+    <summary>Bulk and single-cell RNA-seq offer complementary views of tissue transcriptomes. Nevertheless, pseudo-bulk (PB) profiles derived from single-cell data often differ systematically from true bulk measur</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA</p>
+<p><strong>AI Decision:</strong> Introduces a gene-level score (PBD) to quantify systematic differences between pseudo-bulk profiles derived from single-cell RNA-seq and true bulk RNA-seq across several human tissues, identifying genes that drive platform-specific bias.</p>
+<p><strong>Abstract:</strong> Bulk and single-cell RNA-seq offer complementary views of tissue transcriptomes. Nevertheless, pseudo-bulk (PB) profiles derived from single-cell data often differ systematically from true bulk measurements. These discrepancies are rarely quantified at the gene level, despite their impact on downstream analyses. To investigate the PB-bulk disagreement, here we introduce, based on linear mixture models, a gene-centric platform biological divergence (PBD) score. Across matched breast cancer, human adipose, and healthy retinal datasets, PBD stratifies genes into low-PBD &quot;stable proxies&quot; that retain true biological signals and high-PBD &quot;divergent drivers&quot; that shape PB-bulk differences. High-PBD (15-25%) genes show platform-specific signatures: bulk-enriched drivers highlight stromal, immune, and metabolic programs (breast cancer, adipose) and housekeeping/translational pathways (retina), whereas PB-enriched drivers reflect cell-intrinsic and regulatory processes, including immune, endothelial, progenitor, ECM, developmental, and photoreceptor programs. In contrast, low-PBD genes reliably preserve biology-driven variation and improve cross-platform concordance. Overall, the PBD framework reveals systematic gene-level biases between PB and bulk profiles, enabling more accurate comparison and integration of bulk and single-cell transcriptomes across tissues and disease contexts.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] Nature Communications ▶ CRISPR-Cas9 trans -cleavage is hindered by a flanked R-loop, an elongated spacer, and an inactive HNH domain</title>
     <link href="https://www.nature.com/articles/s41467-026-68789-3"/>

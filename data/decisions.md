@@ -1,5 +1,13 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 0 | [Platform Biological Divergence: quantifying gene-level diffe](https://www.biorxiv.org/content/10.64898/2026.01.22.700982v1?rss=1) |
+| keyword_rejected | - | [Vaccins : retour sur deux siècles de peurs](https://www.sciencesetavenir.fr/sante/vaccins-retour-sur-deux-siecles-de-peurs_190073?xtor=RSS-16) |
+| keyword_rejected | - | [Fecal microbiome predicts treatment response after the initi](https://www.nature.com/articles/s41598-026-36318-3) |
+| keyword_rejected | - | [Prognostic significance of POD24 in primary central nervous ](https://www.nature.com/articles/s41598-025-34772-z) |
+| keyword_rejected | - | [Comparative study of palmitoleic acid, sea buckthorn oil, an](https://www.nature.com/articles/s41598-026-37006-y) |
+| keyword_rejected | - | [Integrated safety and microbiota profiling of fulvic acid fo](https://www.nature.com/articles/s41598-026-37331-2) |
+| keyword_rejected | - | [An open decoupled cell design achieving electricity generati](https://www.nature.com/articles/s41467-026-68550-w) |
+| keyword_rejected | - | [Nonlinear Relationships of Fibrin Network Structure as a Fun](https://www.biorxiv.org/content/10.64898/2026.01.22.700990v1?rss=1) |
 | ai_scored | 20 | [Exploring the Space of Tumor Phylogenies Consistent with Sin](https://www.biorxiv.org/content/10.64898/2026.01.21.700922v1?rss=1) |
 | ai_scored | 40 | [CRISPR-Cas9 <i>trans</i>-cleavage is hindered by a flanked R](https://www.nature.com/articles/s41467-026-68789-3) |
 | keyword_rejected | - | [Nouvelle-Zélande: fin des recherches de survivants après un ](https://www.sciencesetavenir.fr/nature-environnement/nouvelle-zelande-fin-des-recherches-de-survivants-apres-un-glissement-de-terrain_190559?xtor=RSS-15) |
