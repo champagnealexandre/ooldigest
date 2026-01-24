@@ -1,5 +1,12 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Les castors favorisent les pollinisateurs](https://www.pourlascience.fr/sd/environnement/les-castors-favorisent-les-pollinisateurs-28638.php) |
+| keyword_rejected | - | [MI-181 enhances ciliation and cilia length in a cigarette sm](https://www.nature.com/articles/s41598-026-37296-2) |
+| keyword_rejected | - | [Determinants of moderate-intensity physical activity during ](https://www.nature.com/articles/s41598-026-36786-7) |
+| keyword_rejected | - | [Nanopore Single-Molecule Chemistry](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-125106?TRACK=RSS) |
+| keyword_rejected | - | [Single-Cell Proteomic Technologies: Tools in the Quest for P](https://www.annualreviews.org/content/journals/10.1146/annurev-biophys-021424-011450?TRACK=RSS) |
+| keyword_rejected | - | [Computational Modeling of Biomolecular Phase Separation: Cur](https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-082423-032133?TRACK=RSS) |
+| keyword_rejected | - | [The Chemistry of Carbenes: New Insights from the Gas Phase](https://www.annualreviews.org/content/journals/10.1146/annurev-physchem-082324-010007?TRACK=RSS) |
 | keyword_rejected | - | [Australie: un enfant de 12 ans meurt des suites d'une attaqu](https://www.sciencesetavenir.fr/nature-environnement/australie-un-enfant-de-12-ans-meurt-des-suites-d-une-attaque-de-requin_190560?xtor=RSS-15) |
 | keyword_rejected | - | [Recreating viable YYh genotype uncovers the role of CpYYL un](https://www.nature.com/articles/s41467-026-68627-6) |
 | keyword_rejected | - | [Recreating viable YY<sup>h</sup> genotype uncovers the role ](https://www.nature.com/articles/s41467-026-68627-6) |
