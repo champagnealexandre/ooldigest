@@ -1,5 +1,6 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Amplicon sequencing with Oxford nanopore technologies as a d](https://www.nature.com/articles/s41598-026-36989-y) |
 | keyword_rejected | - | [En Inde, la grande course à la fabrication des panneaux sola](https://www.sciencesetavenir.fr/nature-environnement/en-inde-la-grande-course-a-la-fabrication-des-panneaux-solaires_190564?xtor=RSS-15) |
 | keyword_rejected | - | [Le gouvernement inscrit le rythme de réchauffement dans la r](https://www.sciencesetavenir.fr/nature-environnement/le-gouvernement-inscrit-le-rythme-de-rechauffement-dans-la-reglementation_190565?xtor=RSS-15) |
 | keyword_rejected | - | [Obesity as a predictor of atherogenic dyslipidemia in patien](https://www.nature.com/articles/s41598-026-35525-2) |
