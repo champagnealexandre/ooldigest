@@ -1,5 +1,9 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 10 | [Antifragility and Growth Through Adversity: A Scoping Review](https://comdig.unam.mx/2026/01/25/antifragility-and-growth-through-adversity-a-scoping-review/) |
+| keyword_rejected | - | [Want to live longer? The tiniest of lifestyle changes can dr](https://www.scientificamerican.com/article/want-to-live-longer-the-tiniest-of-lifestyle-changes-can-dramatically-boost/) |
+| keyword_rejected | - | [Quantum physicists just supersized Schrödinger’s cat](https://www.scientificamerican.com/article/quantum-physicists-just-supersized-schroedingers-cat/) |
+| keyword_rejected | - | [Trois départements bretons maintenus en vigilance orange cru](https://www.sciencesetavenir.fr/nature-environnement/trois-departements-bretons-maintenus-en-vigilance-orange-crues-jusqu-a-lundi_190566?xtor=RSS-15) |
 | keyword_rejected | - | [Amplicon sequencing with Oxford nanopore technologies as a d](https://www.nature.com/articles/s41598-026-36989-y) |
 | keyword_rejected | - | [En Inde, la grande course à la fabrication des panneaux sola](https://www.sciencesetavenir.fr/nature-environnement/en-inde-la-grande-course-a-la-fabrication-des-panneaux-solaires_190564?xtor=RSS-15) |
 | keyword_rejected | - | [Le gouvernement inscrit le rythme de réchauffement dans la r](https://www.sciencesetavenir.fr/nature-environnement/le-gouvernement-inscrit-le-rythme-de-rechauffement-dans-la-reglementation_190565?xtor=RSS-15) |
