@@ -13,7 +13,17 @@ Define your own **Lines of Investigation (LOIs)** — research topics with custo
 - 📰 **Atom feeds**: Subscribe in any feed reader
 - 🔄 **GitHub Actions**: Automated scheduled runs
 
+## One-Line Install
+
+```bash
+curl -sL https://raw.githubusercontent.com/champagnealexandre/paperdigest/main/scripts/install.sh | bash
+```
+
+This will clone the repo, set up remotes for syncing, and create an example LOI structure.
+
 ## Quick Start
+
+Alternatively, set up manually:
 
 ### 1. Create Your Instance
 
@@ -58,9 +68,12 @@ python main.py
 
 ### 4. Deploy with GitHub Actions
 
-1. Add your `OPENROUTER_API_KEY` as a repository secret
-2. Enable the workflow in `.github/workflows/`
-3. Papers will be fetched and scored on schedule
+> **Note:** GitHub Actions is disabled in the template repo. You must enable it in your personal instance.
+
+1. Go to your repo's **Settings → Actions → General**
+2. Under "Actions permissions", select **Allow all actions**
+3. Add your `OPENROUTER_API_KEY` as a repository secret (Settings → Secrets)
+4. The workflow will run hourly and deploy feeds to GitHub Pages
 
 ## Configuration
 
@@ -136,6 +149,12 @@ models:
 ## Syncing Updates from Template
 
 To pull updates from the main Paper Digest repo:
+
+```bash
+./scripts/update.sh
+```
+
+Or manually:
 
 ```bash
 git fetch upstream
