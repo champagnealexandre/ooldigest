@@ -62,7 +62,7 @@ Edit `config/loi/my-topic.yaml`:
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-export OPENROUTER_API_KEY="your_key"
+export LLM_API_KEY="your_key"
 python main.py
 ```
 
@@ -72,7 +72,7 @@ python main.py
 
 1. Go to your repo's **Settings → Actions → General**
 2. Under "Actions permissions", select **Allow all actions**
-3. Add your `OPENROUTER_API_KEY` as a repository secret (Settings → Secrets → Actions)
+3. Add your `LLM_API_KEY` as a repository secret (Settings → Secrets → Actions)
 4. Enable GitHub Pages: **Settings → Pages → Source → "GitHub Actions"**
 5. Manually trigger the workflow once (Actions → Hourly Scan → Run workflow)
 6. The workflow will then run hourly and deploy feeds to GitHub Pages

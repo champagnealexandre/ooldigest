@@ -443,7 +443,7 @@ def main():
     logging.info(f"Fetched {total_fetched} papers from {len(all_feeds)} feeds ({errors_count} errors)")
     
     # Initialize AI client (shared across all LOIs)
-    client = ai.get_client(os.getenv("OPENROUTER_API_KEY"))
+    client = ai.get_client(os.getenv("LLM_API_KEY"))
     
     # Process each LOI
     for loi in config.lois:
