@@ -1,5 +1,8 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| keyword_rejected | - | [Le vélo, plus efficace que les autres moyens de transport… e](https://www.pourlascience.fr/sr/infographie/le-velo-plus-efficace-que-les-autres-moyens-de-transport-et-que-les-animaux-28720.php) |
+| keyword_rejected | - | [Breakdown of Rheological Universality in the Vegetal Hemisph](https://www.biorxiv.org/content/10.64898/2026.01.23.701227v1?rss=1) |
+| keyword_rejected | - | [Orthogonal Force Balance Between Contractility and Shear Str](https://www.biorxiv.org/content/10.64898/2026.01.22.701159v1?rss=1) |
 | keyword_rejected | - | [L'Empire du milieu se découvre de nouvelles racines](https://www.sciencesetavenir.fr/archeo-paleo/archeologie/l-empire-du-milieu-se-decouvre-de-nouvelles-racines_190113?xtor=RSS-4) |
 | ai_scored | 55 | [Mismatch type impacts interference and priming activities in](https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1) |
 | keyword_rejected | - | [Analyzing single-molecule dynamics with both complex types o](https://www.biorxiv.org/content/10.64898/2026.01.22.700663v1?rss=1) |
