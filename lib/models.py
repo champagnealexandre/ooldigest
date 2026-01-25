@@ -1,4 +1,4 @@
-"""Data models for the OOL Digest pipeline."""
+"""Data models for the Paper Digest pipeline."""
 
 from datetime import datetime
 from typing import List, Dict, Any, Optional

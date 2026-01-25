@@ -8,8 +8,8 @@ def get_client(api_key: str) -> OpenAI:
         base_url="https://openrouter.ai/api/v1",
         api_key=api_key,
         default_headers={
-            "HTTP-Referer": "https://alexandrechampagne.io", 
-            "X-Title": "OOL Digest",
+            "HTTP-Referer": "https://github.com/champagnealexandre/paperdigest", 
+            "X-Title": "Paper Digest",
         }
     )
 

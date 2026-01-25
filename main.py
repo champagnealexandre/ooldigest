@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Multi-LOI Digest - AI-powered scientific paper curation.
+Paper Digest - AI-powered scientific paper curation.
 
 Pipeline: Fetch RSS → For each LOI: Keyword Filter → Hunt Links → AI Score → Generate Feed
 

@@ -1,0 +1,56 @@
+# Example Line of Investigation Configuration
+# Copy this file and rename it (e.g., my-topic.yaml) to create your own LOI.
+# Data will be stored in: data/{slug}/
+
+name: My Research Digest           # Display name for the feed
+slug: my-topic                     # Short identifier (used for data folder)
+base_url: https://example.com/mydigest  # Base URL where feed will be hosted
+output_feed: my-topic.xml          # Output filename in public/
+
+# Keyword syntax:
+#   word      → exact word match (word boundaries)
+#   word*     → prefix match (e.g., neuro* matches neuron, neuroscience)
+#   word(s)   → optional plural (e.g., cell(s) matches cell or cells)
+
+keywords:
+  - keyword1
+  - keyword2*
+  - keyword3(s)
+  # Add your keywords here...
+
+# LLM prompt template
+# Available variables: {title}, {abstract}, {links_str}, {keywords_str}, {custom_instructions}
+model_prompt: |
+  Role: Senior Research Scientist.
+  Task: Score this paper for a research digest on [YOUR TOPIC].
+  
+  Paper: "{title}"
+  Abstract: "{abstract}"
+  
+  EVIDENCE FROM LINK HUNTER:
+  The following academic links were found on the source page:
+  {links_str}
+  
+  Target Keywords:
+  {keywords_str}
+  
+  CUSTOM INSTRUCTIONS:
+  {custom_instructions}
+  
+  SCORING RUBRIC (Total /100):
+  
+  1. BASE RELEVANCE (Max 80 pts):
+     - +0: Unrelated field.
+     - +40: Tangential connection.
+     - +80: Core topic focus.
+     * BONUS: If "Link Hunter" found a DOI/Nature/Science/Elsevier link, ensure score is robust.
+     
+  2. KEYWORD BONUS (Max 20 pts):
+     - +5 points per keyword match. Caps at 20.
+  
+  CALCULATION: Sum (Base Relevance + Keyword Bonus).
+  Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
+
+custom_instructions: |
+  - Add specific instructions for the LLM here.
+  - For example: "Prioritize papers about X" or "Deprioritize papers about Y".

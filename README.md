@@ -1,38 +1,52 @@
-# Multi-LOI Digest
+# Paper Digest
 
-AI-powered curation of scientific papers across multiple **Lines of Investigation (LOIs)**.
+AI-powered curation of scientific papers using RSS feeds, keyword filtering, and LLM scoring.
 
-Each LOI represents a research topic with its own keywords, LLM prompt, history, and output feed. Currently configured LOIs:
+Define your own **Lines of Investigation (LOIs)** — research topics with custom keywords and scoring prompts — and Paper Digest will monitor 90+ RSS feeds, filter relevant papers, score them with an LLM, and generate Atom feeds for your feed reader.
 
-- **OOL Digest** — Origins of Life & Astrobiology
-- **Complexity Digest** — Complexity Science, Emergence & Information Theory
+## Features
 
-## How It Works
+- 📡 **Multi-source**: Monitors journals, preprint servers, and press releases
+- 🔑 **Keyword filtering**: Prefix matching, optional plurals, exact matches
+- 🤖 **LLM scoring**: Configurable prompts via OpenRouter (GPT, Gemini, etc.)
+- 📊 **Multiple LOIs**: Track different research topics independently
+- 📰 **Atom feeds**: Subscribe in any feed reader
+- 🔄 **GitHub Actions**: Automated scheduled runs
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  FETCH: 90+ RSS feeds (journals, preprints, press releases)    │
-└─────────────────────────────────────────────────────────────────┘
-                              │
-                              ▼
-         ┌────────────────────┴────────────────────┐
-         │                                         │
-         ▼                                         ▼
-┌─────────────────────┐                 ┌─────────────────────┐
-│   LOI: OOL Digest   │                 │ LOI: Complexity     │
-├─────────────────────┤                 ├─────────────────────┤
-│ 1. Keyword filter   │                 │ 1. Keyword filter   │
-│ 2. Hunt DOIs/links  │                 │ 2. Hunt DOIs/links  │
-│ 3. LLM scoring      │                 │ 3. LLM scoring      │
-│ 4. Update history   │                 │ 4. Update history   │
-│ 5. Generate feed    │                 │ 5. Generate feed    │
-└─────────────────────┘                 └─────────────────────┘
-         │                                         │
-         ▼                                         ▼
-   ooldigest-ai.xml                        complexity.xml
+## Quick Start
+
+### 1. Create Your Instance
+
+```bash
+# Clone this repo (creates a "manual fork" that can sync updates)
+git clone https://github.com/champagnealexandre/paperdigest.git my-paperdigest
+cd my-paperdigest
+
+# Set up upstream for future updates
+git remote rename origin upstream
+git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git push -u origin main
 ```
 
-## Setup
+### 2. Create Your First LOI
+
+```bash
+# Copy the example template
+cp config/loi/_example.yaml config/loi/my-topic.yaml
+
+# Create the data directory
+mkdir -p data/my-topic
+echo "[]" > data/my-topic/papers.json
+echo "| Status | Score | Paper |" > data/my-topic/decisions.md
+echo "|--------|-------|-------|" >> data/my-topic/decisions.md
+```
+
+Edit `config/loi/my-topic.yaml`:
+- Set `name`, `slug`, `base_url`, `output_feed`
+- Add your `keywords`
+- Customize `model_prompt` and `custom_instructions`
+
+### 3. Run Locally
 
 ```bash
 python3 -m venv venv
@@ -42,6 +56,12 @@ export OPENROUTER_API_KEY="your_key"
 python main.py
 ```
 
+### 4. Deploy with GitHub Actions
+
+1. Add your `OPENROUTER_API_KEY` as a repository secret
+2. Enable the workflow in `.github/workflows/`
+3. Papers will be fetched and scored on schedule
+
 ## Configuration
 
 ### Directory Structure
@@ -49,49 +69,21 @@ python main.py
 ```
 config/
   config.yaml        # Shared: retention settings
-  ai.yaml            # Shared: model tier, temperature, workers, model list
-  domains.yaml       # Shared: academic domains for link hunter
-  feeds.yaml         # Shared: RSS feed sources by category
+  ai.yaml            # Shared: model settings
+  domains.yaml       # Shared: academic domains for link hunting
+  feeds.yaml         # Shared: RSS feed sources
   loi/
-    ool.yaml         # LOI config: OOL Digest
-    complexity.yaml  # LOI config: Complexity Digest
+    _example.yaml    # Template for new LOIs
+    my-topic.yaml    # Your LOI configs
 
 data/
-  logs/              # Unified timestamped run logs
-  ool/
-    papers.json      # OOL history (100k max)
-    decisions.md     # OOL decision log
-  complexity/
-    papers.json      # Complexity history (100k max)
-    decisions.md     # Complexity decision log
+  logs/              # Run logs
+  my-topic/
+    papers.json      # Paper history
+    decisions.md     # Decision log
 
 public/
-  ooldigest-ai.xml   # OOL output feed
-  complexity.xml     # Complexity output feed
-```
-
-### Shared Configuration
-
-**config.yaml** — Retention settings (applies to all LOIs):
-```yaml
-retention:
-  feed_hours: 168          # Papers stay in output feed for 1 week
-  fetch_hours: 168         # Fetch papers from last week
-  stale_feed_days: 30      # Mark feeds stalled after 30 days
-  history_max_entries: 100000
-```
-
-**ai.yaml** — Model settings (applies to all LOIs):
-```yaml
-model_tier: 4              # 1=cheapest, 4=best
-model_temperature: 0.1
-max_workers: 10
-
-models:
-  - google/gemini-2.5-flash-lite  # tier 1
-  - openai/gpt-4o-mini            # tier 2
-  - google/gemini-2.5-pro         # tier 3
-  - openai/gpt-5.2                # tier 4
+  my-topic.xml       # Output Atom feed
 ```
 
 ### LOI Configuration
@@ -99,106 +91,96 @@ models:
 Each LOI is defined in `config/loi/{slug}.yaml`:
 
 ```yaml
-name: OOL Digest                              # Display name
-slug: ool                                     # Short identifier
-base_url: https://example.com/ooldigest       # Feed base URL
-output_feed: ooldigest-ai.xml                 # Output filename
+name: My Research Digest           # Display name
+slug: my-topic                     # Identifier (used for data folder)
+base_url: https://example.com      # Feed base URL
+output_feed: my-topic.xml          # Output filename
 
 keywords:
-  - astrobio*
-  - origin(s) of life
-  - prebiotic
-  # ...
+  - exact-match
+  - prefix*                        # Matches prefix, prefixed, etc.
+  - word(s)                        # Matches word or words
 
 model_prompt: |
-  Role: Senior Astrobiologist.
-  Task: Score this paper for an 'Origins of Life' digest.
-  # ...
+  Role: Senior Researcher.
+  Task: Score this paper...
+  # Full prompt template with {title}, {abstract}, {keywords_str}, etc.
 
 custom_instructions: |
-  - EXOPLANET FILTER: Deprioritize generic discoveries...
-  # ...
+  - Prioritize papers about X
+  - Deprioritize papers about Y
 ```
 
-Data is stored in `data/{slug}/`:
-- `papers.json` — Full history of all papers
-- `decisions.md` — Decision log table
+### Shared Settings
 
-### Keyword Syntax
-
+**config.yaml** — Retention:
 ```yaml
-word       # exact word match (word boundaries)
-word*      # prefix match (eukaryo* → eukaryote, eukaryotic)
-word(s)    # optional plural (origin(s) → origin, origins)
+retention:
+  feed_hours: 168          # Papers stay in feed for 1 week
+  fetch_hours: 168         # Fetch papers from last week
+  history_max_entries: 100000
 ```
 
-## Adding a New LOI
+**ai.yaml** — Model:
+```yaml
+model_tier: 4              # 1-4 (see models list)
+model_temperature: 0.1
+max_workers: 10
+models:
+  - google/gemini-2.5-flash-lite  # tier 1
+  - openai/gpt-4o-mini            # tier 2
+  - google/gemini-2.5-pro         # tier 3
+  - openai/gpt-5.2                # tier 4
+```
 
-1. Create `config/loi/{slug}.yaml` with:
-   - `name`, `slug`, `base_url`, `output_feed`
-   - `keywords` list
-   - `model_prompt` template
-   - `custom_instructions`
+## Syncing Updates from Template
 
-2. Create `data/{slug}/` directory with:
-   - `papers.json` containing `[]`
-   - `decisions.md` with header row
+To pull updates from the main Paper Digest repo:
 
-3. Run `python main.py` — the new LOI will be picked up automatically.
-
-## Migrating an LOI
-
-To move an LOI between instances, copy two folders:
 ```bash
-# From source instance
-cp -r config/loi/ool.yaml   /path/to/dest/config/loi/
-cp -r data/ool/             /path/to/dest/data/
+git fetch upstream
+git merge upstream/main
+# Resolve any conflicts (usually only in your LOI configs)
 ```
 
-## Outputs
+## How It Works
 
-| File | Description |
-|------|-------------|
-| `public/{output_feed}` | Atom feed of AI-scored papers |
-| `data/{slug}/papers.json` | All papers history (100k max) |
-| `data/{slug}/decisions.md` | Decision log with scores |
-| `data/last_feeds-status.md` | Feed health report |
-| `data/logs/*.txt` | Timestamped run logs |
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  FETCH: 90+ RSS feeds (journals, preprints, press releases)    │
+└─────────────────────────────────────────────────────────────────┘
+                              │
+              ┌───────────────┼───────────────┐
+              ▼               ▼               ▼
+        ┌─────────┐     ┌─────────┐     ┌─────────┐
+        │  LOI 1  │     │  LOI 2  │     │  LOI N  │
+        ├─────────┤     ├─────────┤     ├─────────┤
+        │ Filter  │     │ Filter  │     │ Filter  │
+        │ Score   │     │ Score   │     │ Score   │
+        │ Output  │     │ Output  │     │ Output  │
+        └─────────┘     └─────────┘     └─────────┘
+              │               │               │
+              ▼               ▼               ▼
+          feed1.xml       feed2.xml       feedN.xml
+```
 
-### Paper Stages
+1. **Fetch** — Download entries from all RSS feeds
+2. **Filter** — Match against each LOI's keywords
+3. **Hunt** — Scrape source URLs for DOIs and academic links
+4. **Score** — LLM evaluates relevance (0-100)
+5. **Output** — Generate Atom feed with scored papers
 
-Papers in `papers.json` have a `stage` field:
+## Output Format
 
-| Stage | Description |
-|-------|-------------|
-| `keyword_rejected` | Didn't match any keywords |
-| `ai_scored` | Matched keywords, scored by AI |
-
-### Feed Entry Format
-
-Each entry in the output Atom feed includes:
-- Score emoji (🟢 ≥80, 🟡 ≥60, 🟠 ≥40, 🔴 ≥20, 🟤 <20)
+Feed entries include:
+- Score emoji: 🟢 ≥80, 🟡 ≥60, 🟠 ≥40, 🔴 ≥20, 🟤 <20
 - Numeric score `[85]`
 - Source feed name
 - Matched keywords
 - AI summary
 - Abstract
-- Hunted academic links
-
-## Project Structure
-
-```
-main.py              # Pipeline orchestrator
-lib/
-  models.py          # Config, LOIConfig, Paper data models
-  ai.py              # OpenRouter LLM client
-  hunter.py          # DOI/link scraper
-  feed.py            # Atom feed generator
-  utils.py           # History & logging utilities
-scripts/
-  find_paper.py      # Search papers in history
-```
+- Academic links found
 
 ## License
 
-GNU Affero General Public License v3.0 (AGPL-3.0). See `LICENSE`.
+GNU Affero General Public License v3.0 (AGPL-3.0). See [LICENSE](LICENSE).
