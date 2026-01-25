@@ -42,22 +42,26 @@ def clean_text(text: str) -> str:
     return " ".join(text.split())
 
 
-def log_decision(log_file: str, title: str, status: str, score: Any, link: str, max_entries: int = 100000) -> None:
-    """Append a decision to decisions.md, keeping last max_entries.
+def log_decision(decisions_path: str, title: str, status: str, score: Any, link: str, max_entries: int = 100000) -> None:
+    """Append a decision to a decisions.md file, keeping last max_entries.
     
-    Status values:
-      - keyword_rejected: didn't match any keywords
-      - ai_scored: matched keywords and scored by AI
+    Args:
+        decisions_path: Path to the decisions.md file (e.g., 'data/ool/decisions.md')
+        title: Paper title
+        status: Decision status ('keyword_rejected' or 'ai_scored')
+        score: AI score or '-' for rejected
+        link: Paper URL
+        max_entries: Maximum number of entries to keep
     """
-    os.makedirs(os.path.dirname(log_file), exist_ok=True)
+    os.makedirs(os.path.dirname(decisions_path), exist_ok=True)
     
     header = "| Status | Score | Paper |\n|--------|-------|-------|\n"
     new_line = f"| {status} | {score if score != '-' else '-'} | [{title[:60]}]({link}) |\n"
     
     # Read existing entries (skip header)
     entries = []
-    if os.path.exists(log_file):
-        with open(log_file, 'r') as f:
+    if os.path.exists(decisions_path):
+        with open(decisions_path, 'r') as f:
             lines = f.readlines()
             # Skip header (first 2 lines)
             entries = lines[2:] if len(lines) > 2 else []
@@ -67,6 +71,6 @@ def log_decision(log_file: str, title: str, status: str, score: Any, link: str, 
     entries = entries[:max_entries]
     
     # Write back with header
-    with open(log_file, 'w') as f:
+    with open(decisions_path, 'w') as f:
         f.write(header)
         f.writelines(entries)
