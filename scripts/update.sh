@@ -5,6 +5,9 @@
 
 set -e
 
+echo "Pulling latest from origin..."
+git pull --rebase origin main
+
 echo "Fetching updates from upstream (paperdigest template)..."
 git fetch upstream
 
@@ -28,4 +31,7 @@ fi
 echo "Merging updates..."
 git merge upstream/main --no-edit
 
-echo "✅ Done! Run 'git status' to check for any conflicts."
+echo "Pushing to origin..."
+git push
+
+echo "✅ Done!"
