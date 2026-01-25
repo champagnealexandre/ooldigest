@@ -42,6 +42,9 @@ def load_config() -> Config:
     # Load LOI configs from config/loi/*.yaml
     loi_configs = []
     for loi_file in sorted(glob.glob("config/loi/*.yaml")):
+        # Skip files starting with _ (templates/examples)
+        if os.path.basename(loi_file).startswith('_'):
+            continue
         with open(loi_file) as f:
             loi_data = yaml.safe_load(f)
             if loi_data:
