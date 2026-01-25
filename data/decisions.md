@@ -1,5 +1,7 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 55 | [Mismatch type impacts interference and priming activities in](https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1) |
+| keyword_rejected | - | [Analyzing single-molecule dynamics with both complex types o](https://www.biorxiv.org/content/10.64898/2026.01.22.700663v1?rss=1) |
 | ai_scored | 15 | [Population structure and genetic diversity of smooth newts (](https://www.biorxiv.org/content/10.64898/2026.01.23.701301v1?rss=1) |
 | ai_scored | 25 | [A two-scale model of Legionnaires disease to predict incubat](https://www.biorxiv.org/content/10.64898/2026.01.22.701076v1?rss=1) |
 | ai_scored | 40 | [Escherichia coli transcription factors RapA and SspA play op](https://www.biorxiv.org/content/10.64898/2026.01.23.701399v1?rss=1) |

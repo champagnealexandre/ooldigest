@@ -3,8 +3,22 @@
   <title>OOL Digest</title>
   <subtitle>AI-curated Origins of Life papers</subtitle>
   <link href="https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml" rel="self"/>
-  <updated>2026-01-25T03:50:58.410592+00:00</updated>
+  <updated>2026-01-25T04:49:05.114210+00:00</updated>
   <id>https://alexandrechampagne.io/ooldigest/ooldigest-ai.xml</id>
+  <entry>
+    <title>🟠 [55] biochemistry - biorXiv Preprints ▶ Mismatch type impacts interference and priming activities in the type I-E CRISPR-Cas system</title>
+    <link href="https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1"/>
+    <id>https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1</id>
+    <updated>2026-01-24T00:00:00Z</updated>
+    <summary>Type I-E CRISPR-Cas systems direct RNA-guided interference against foreign nucleic acids using the CRISPR RNA (crRNA)-guided Cascade complex and Cas3 helicase-nuclease. DNA targeting by Cascade-Cas3 p</summary>
+    <content type="html"><![CDATA[<p><strong>Keywords matched:</strong> RNA, DNA</p>
+<p><strong>AI Decision:</strong> This study dissects how specific mismatch types and crRNA seed sequences modulate type I-E CRISPR-Cas interference versus priming, refining our understanding of RNA-guided nucleic-acid recognition and adaptive immune evolution in bacteria.</p>
+<p><strong>Abstract:</strong> Type I-E CRISPR-Cas systems direct RNA-guided interference against foreign nucleic acids using the CRISPR RNA (crRNA)-guided Cascade complex and Cas3 helicase-nuclease. DNA targeting by Cascade-Cas3 promotes priming, a mechanism that allows for rapid acquisition of new spacers within the CRISPR array. Target mutations in the PAM and PAM-proximal seed region can block interference but may still allow priming. Previous studies have suggested that target mutations to T and A are tolerated, but that C and G substitutions are deleterious to interference and priming, respectively. However, the contributions of the crRNA spacer sequence to mutational tolerance remain unclear. Here, we systematically tested the effects of crRNA seed sequences on mutational tolerance. We engineered four E. coli strains with variable spacer sequences and tested CRISPR interference and priming against a plasmid library for each strain. Consistent with prior studies, we observe that mutations to C or G in the seed can be highly deleterious, especially at positions 1, 2 and 4. However, the corresponding crRNA sequence also strongly impacts the level of defect, with rC-dC and rA/G-dG causing the largest defects in our plasmid library experiments. Using in vitro biochemistry, we observe that mismatch type at the first position of the seed affects Cas8 conformation, and results in reduction in the rates of both Cascade-target binding and Cas3 recruitment. Overall, our results reveal that although nucleotide identity of target mutations is an important determinant of type I-E CRISPR immunity, the crRNA sequence also strongly impacts immune outcomes upon target mutation.</p>
+<p><strong>Links found:</strong></p><ul>
+<li><a href="https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1">https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1</a></li>
+</ul>
+<p><a href="https://www.biorxiv.org/content/10.64898/2026.01.24.701482v1?rss=1">Read source article</a></p>]]></content>
+  </entry>
   <entry>
     <title>🟠 [40] molecular biology - biorXiv Preprints ▶ Escherichia coli transcription factors RapA and SspA play opposing roles in tolerance to replication/transcription conflicts after DNA damage</title>
     <link href="https://www.biorxiv.org/content/10.64898/2026.01.23.701399v1?rss=1"/>
