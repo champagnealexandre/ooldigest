@@ -1,6 +1,5 @@
-# Paths
-base_url: https://alexandrechampagne.io/ooldigest
-history_file: data/papers.json
+# Shared configuration (applies to all Lines of Investigation)
+# LOI-specific settings are in config/loi/*.yaml
 
 # Retention settings
 retention:

@@ -1,4 +1,6 @@
-# AI model settings
+# AI model settings (shared across all Lines of Investigation)
+# LOI-specific prompts and instructions are in config/loi/*.yaml
+
 model_tier: 4
 model_temperature: 0.1
 max_workers: 10
@@ -8,40 +10,3 @@ models:
   - openai/gpt-4o-mini             # tier 2
   - google/gemini-2.5-pro          # tier 3
   - openai/gpt-5.2                 # tier 4 (best)
-
-# PROMPT VARIABLES: {title}, {abstract}, {links_str} (found DOIs), {keywords_str}, {custom_instructions}
-model_prompt: |
-  Role: Senior Astrobiologist.
-  Task: Score this paper for an 'Origins of Life' digest.
-  
-  Paper: "{title}"
-  Abstract: "{abstract}"
-  
-  EVIDENCE FROM LINK HUNTER:
-  The following academic links were found on the source page:
-  {links_str}
-  
-  Target Keywords:
-  {keywords_str}
-  
-  CUSTOM INSTRUCTIONS:
-  {custom_instructions}
-  
-  SCORING RUBRIC (Total /100):
-  
-  1. BASE RELEVANCE (Max 80 pts):
-     - +0: Unrelated field.
-     - +40: Broad context.
-     - +80: Core OoL focus.
-     * BONUS: If "Link Hunter" found a DOI/Nature/Science/Elsevier link, ensure score is robust.
-     
-  2. KEYWORD BONUS (Max 20 pts):
-     - +5 points per keyword match. Caps at 20.
-  
-  CALCULATION: Sum (Base Relevance + Keyword Bonus).
-  Output JSON ONLY: {{"score": int, "summary": "1 sentence summary"}}
-
-custom_instructions: |
-  - EXOPLANET FILTER: Deprioritize generic exoplanet discoveries (e.g., new TESS candidates, hot Jupiters) unless they significantly advance Astrobiology.
-  - EXCEPTION 1: Always prioritize papers related to the TRAPPIST-1 system.
-  - EXCEPTION 2: Prioritize atmospheric observations specifically relevant to life detection (biosignatures) or habitability.
