@@ -1,5 +1,20 @@
 | Status | Score | Paper |
 |--------|-------|-------|
+| ai_scored | 15 | [Population structure and genetic diversity of smooth newts (](https://www.biorxiv.org/content/10.64898/2026.01.23.701301v1?rss=1) |
+| ai_scored | 25 | [A two-scale model of Legionnaires disease to predict incubat](https://www.biorxiv.org/content/10.64898/2026.01.22.701076v1?rss=1) |
+| ai_scored | 40 | [Escherichia coli transcription factors RapA and SspA play op](https://www.biorxiv.org/content/10.64898/2026.01.23.701399v1?rss=1) |
+| keyword_rejected | - | [Conformalized Multiview Learning](https://www.biorxiv.org/content/10.64898/2026.01.22.700165v1?rss=1) |
+| keyword_rejected | - | [A First-In-Class Broad Spectrum Inhibitor of Copper Exportin](https://www.biorxiv.org/content/10.64898/2026.01.22.700703v1?rss=1) |
+| keyword_rejected | - | [Human fallopian tube-on-a-chip for preclinical testing of no](https://www.biorxiv.org/content/10.64898/2026.01.22.700844v1?rss=1) |
+| keyword_rejected | - | [Oxidant-mediated activation and inhibition of LRRC8C and LRR](https://www.biorxiv.org/content/10.64898/2026.01.22.701128v1?rss=1) |
+| keyword_rejected | - | [Positive-Unlabeled Learning for Predicting Small Molecule MS](https://www.biorxiv.org/content/10.64898/2026.01.23.701093v1?rss=1) |
+| keyword_rejected | - | [ESMDisPred: A Structure-Aware CNN-Transformer Architecture f](https://www.biorxiv.org/content/10.64898/2026.01.22.701204v1?rss=1) |
+| keyword_rejected | - | [How host contact network impacts N -strain SIS dynamics with](https://www.biorxiv.org/content/10.64898/2026.01.23.701350v1?rss=1) |
+| keyword_rejected | - | [Structural dynamics of adenine nucleotide potentiation of th](https://www.biorxiv.org/content/10.64898/2026.01.23.700653v1?rss=1) |
+| keyword_rejected | - | [The ZmHEAT1/ZmKAKU42-ZmNCH1 module regulates heat stress tol](https://www.biorxiv.org/content/10.64898/2026.01.23.701219v1?rss=1) |
+| keyword_rejected | - | [Deficiency of miR130a leads to fat hypertrophy, hepatic stea](https://www.biorxiv.org/content/10.64898/2026.01.24.701468v1?rss=1) |
+| keyword_rejected | - | [Diverse Ligands for Mycobacterial CYP124 Identified from Pla](https://www.biorxiv.org/content/10.64898/2026.01.23.701388v1?rss=1) |
+| keyword_rejected | - | [Hepatocyte growth factor activator inhibitor-2 rapidly inact](https://www.biorxiv.org/content/10.64898/2026.01.23.701355v1?rss=1) |
 | keyword_rejected | - | [Comprehensive benchmarking single and multi ancestry polygen](https://www.nature.com/articles/s41467-026-68599-7) |
 | keyword_rejected | - | [Fractal nature of galaxy clustering in the updated CfA Redsh](https://www.nature.com/articles/s41598-026-36013-3) |
 | keyword_rejected | - | [Comprehensive benchmarking single and multi ancestry polygen](https://www.nature.com/articles/s41467-026-68599-7) |
