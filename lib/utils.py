@@ -4,6 +4,7 @@ import os
 import json
 import re
 from typing import List, Dict, Any
+from urllib.parse import urlparse, urlunparse
 from bs4 import BeautifulSoup
 
 # Regex to match invalid XML 1.0 control characters
@@ -74,3 +75,19 @@ def log_decision(decisions_path: str, title: str, status: str, score: Any, link:
     with open(decisions_path, 'w') as f:
         f.write(header)
         f.writelines(entries)
+
+
+def normalize_url(url: str) -> str:
+    """Normalize URL by stripping query parameters.
+    
+    This ensures the same paper isn't treated as different entries
+    when feeds append changing parameters (e.g., PubMed's ff= timestamp,
+    utm_* tracking params).
+    
+    Returns the URL with scheme, netloc, and path only.
+    """
+    if not url:
+        return ""
+    parsed = urlparse(url)
+    # Keep only scheme, netloc, and path - drop query and fragment
+    return urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', ''))

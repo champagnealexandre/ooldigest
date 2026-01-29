@@ -266,8 +266,8 @@ def filter_entries_for_loi(raw_entries: List[dict], loi: LOIConfig, seen_urls: s
         pub = item['published']
         feed_title = item['feed_title']
         
-        # Skip if already seen for this LOI
-        if link in seen_urls:
+        # Skip if already seen for this LOI (normalize URL to ignore query params)
+        if utils.normalize_url(link) in seen_urls:
             continue
         
         # Use RSS date if available, otherwise use current time (rounded to hour)
@@ -332,7 +332,7 @@ def process_loi(loi: LOIConfig, raw_entries: List[dict], config: Config, client)
     
     # Load history for this LOI
     history = utils.load_history(loi.history_path)
-    seen_urls = {p.get('url') for p in history}
+    seen_urls = {utils.normalize_url(p.get('url', '')) for p in history}
     
     # Filter entries against this LOI's keywords
     candidates, rejected = filter_entries_for_loi(raw_entries, loi, seen_urls)
